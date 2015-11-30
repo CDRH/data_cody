@@ -622,6 +622,24 @@
                 <xsl:value-of select="$fig_location"/>
               </field>
             </xsl:if>
+
+            <!-- image_id -->
+            <field name="image_id">
+	      <xsl:choose>
+		<xsl:when test="//pb">
+	          <xsl:for-each select="//pb">
+		    <xsl:if test="position() = 1">
+		      <xsl:value-of select="@facs"/>
+		    </xsl:if>
+		  </xsl:for-each>
+		</xsl:when>
+		<xsl:otherwise>
+		  <xsl:text>icon-</xsl:text>
+		  <xsl:value-of select="lower-case(/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory']/term)"/>
+		</xsl:otherwise>
+	      </xsl:choose>
+	    </field>            
+
           </doc>
         </xsl:otherwise>
       </xsl:choose>
