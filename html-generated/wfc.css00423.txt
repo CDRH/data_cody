@@ -7,10 +7,11 @@
    <div class="letter ">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00423.01.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00423.01.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00423.01.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00423.01.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00423.01.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00423.01.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">Buffalo Bill's Resorts In The Rockies<br/>American Plan Only<br/>Rates $3 And $4 Per Day<br/>The Irma Hotel<br/>W. F. Cody, Proprietor<br/>F. H. Garlow, Manager<br/>Pahaska Tepee<br/>One and one-half miles from the Yellowstone Park Eastern Entrance. Open June 1 to November 1. $3 Per Day; American Plan. Saddle Horses, $1.50 Per Day. Fishing and Big Game Hunting.<br/>Buffalo Bill's Home TE Ranch<br/>Open to Tourists the Year 'Round. $100 Per Month. Including Use of Saddle Horse, Fishing and Big Game Hunting.</div>

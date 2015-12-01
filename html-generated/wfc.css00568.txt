@@ -7,10 +7,11 @@
    <div class="telegram ">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00568.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00568.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00568.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00568.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00568.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00568.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">The Postal Company's System Reaches All Important Points In The United States and British America, And via Commercial Cables, To All The World. <br/>

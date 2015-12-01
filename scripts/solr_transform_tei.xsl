@@ -473,7 +473,7 @@
             
             <!-- rights -->
             <!-- rightsURI -->
-            
+            <field name="rightsURI">http://centerofthewest.org/research/rights-reproductions/</field> 
             
             <!-- ==============================
                              Other elements 

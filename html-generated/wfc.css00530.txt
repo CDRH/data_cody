@@ -7,10 +7,11 @@
    <div class="letter ">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00530.001.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00530.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00530.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00530.001.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00530.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00530.001.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -38,10 +39,11 @@
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00530.002.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00530.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00530.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00530.002.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00530.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00530.002.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -58,10 +60,11 @@ that is the men hired to do work have not been managed right. No boss— no one 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00530.003.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00530.003.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00530.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00530.003.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00530.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00530.003.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -82,10 +85,11 @@ their work— be with them in the mornings and see that they work go over the di
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00530.004.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00530.004.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00530.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00530.004.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00530.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00530.004.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 

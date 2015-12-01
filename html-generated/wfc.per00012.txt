@@ -7,10 +7,11 @@
             <div class="type ">
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.per00012.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.per00012.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.per00012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.per00012.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.per00012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.per00012.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <p>P. P. Craft, manager of the Buffalo Bill and Pawnee Bill Film Company, is tearing around with wrath in his eye because someone has dared to issue a set of Buffalo Bill slides.  He claims that his company has the sole right to immortalize in pictures the famous two Bills.  He says those rights cost big money, and he talks of injunction suits and so forth.</p>

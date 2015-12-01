@@ -8,10 +8,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00230.001.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00230.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00230.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00230.001.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00230.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00230.001.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -36,10 +37,11 @@ F. H. Garlow, Manager.</div>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00230.002.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00230.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00230.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00230.002.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00230.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00230.002.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -57,10 +59,11 @@ first. reaching Waldorf 12th .Will let you know. I am very busy here going over 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00230.003.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00230.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00230.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00230.003.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00230.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00230.003.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 

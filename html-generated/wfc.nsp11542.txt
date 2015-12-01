@@ -8,10 +8,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.nsp11542.001.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.nsp11542.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.nsp11542.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.nsp11542.001.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11542.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11542.001.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -28,10 +29,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.nsp11542.002.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.nsp11542.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.nsp11542.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.nsp11542.002.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11542.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11542.002.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -48,10 +50,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.nsp11542.003.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.nsp11542.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.nsp11542.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.nsp11542.003.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11542.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11542.003.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -62,10 +65,11 @@
 
 <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.nsp11542.004.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.nsp11542.004.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.nsp11542.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.nsp11542.004.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11542.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11542.004.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -74,10 +78,11 @@ with the tawny coloured races of the Far West. He speaks thirteen Indian dialect
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.nsp11542.005.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.nsp11542.005.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.nsp11542.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.nsp11542.005.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11542.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11542.005.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -91,10 +96,11 @@ with the tawny coloured races of the Far West. He speaks thirteen Indian dialect
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.nsp11542.006.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.nsp11542.006.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.nsp11542.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.nsp11542.006.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11542.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11542.006.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -111,10 +117,11 @@ with the tawny coloured races of the Far West. He speaks thirteen Indian dialect
 
 <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.nsp11542.007.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.nsp11542.007.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.nsp11542.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.nsp11542.007.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11542.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11542.007.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 

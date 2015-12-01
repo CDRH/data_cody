@@ -8,10 +8,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00489.001.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00489.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00489.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00489.001.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00489.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00489.001.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -33,10 +34,11 @@
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00489.002.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00489.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00489.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00489.002.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00489.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00489.002.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -58,10 +60,11 @@ to right <a rel="tooltip" class="sic" title="myself​ ">my self</a>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00489.003.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00489.003.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00489.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00489.003.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00489.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00489.003.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -78,10 +81,11 @@ good name. When we get an office and a proper place for a Lady to work in and fo
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00489.004.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00489.004.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00489.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00489.004.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00489.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00489.004.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -101,10 +105,11 @@ in regard to detail. The Books were not kept as they should have been Everything
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00489.005.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00489.005.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00489.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00489.005.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00489.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00489.005.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -125,10 +130,11 @@ in regard to detail. The Books were not kept as they should have been Everything
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00489.006.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00489.006.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00489.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00489.006.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00489.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00489.006.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -149,10 +155,11 @@ would soon see things <a rel="tooltip" class="sic" title="moving​ ">mooveing</
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00489.007.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00489.007.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00489.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00489.007.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00489.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00489.007.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -172,10 +179,11 @@ our business But I say it is. I wish you would find out by <a rel="tooltip" clas
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00489.008.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00489.008.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00489.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00489.008.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00489.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00489.008.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -194,10 +202,11 @@ our business But I say it is. I wish you would find out by <a rel="tooltip" clas
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00489.009.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00489.009.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00489.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00489.009.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00489.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00489.009.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 

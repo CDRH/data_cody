@@ -8,10 +8,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00448.001.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00448.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00448.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00448.001.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00448.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00448.001.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -34,10 +35,11 @@
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00448.002.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00448.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00448.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00448.002.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00448.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00448.002.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -46,10 +48,11 @@ catch more flies with molasses than with vinegar So pat him on the back— Say d
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00448.003.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00448.003.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00448.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00448.003.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00448.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00448.003.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -65,10 +68,11 @@ You did not write me as you promised and explain all about the co— That point 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00448.004.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00448.004.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00448.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00448.004.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00448.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00448.004.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 

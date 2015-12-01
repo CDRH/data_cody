@@ -8,10 +8,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.nsp11580.001.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.nsp11580.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.nsp11580.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.nsp11580.001.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11580.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11580.001.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -23,10 +24,11 @@
   
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.nsp11580.002.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.nsp11580.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.nsp11580.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.nsp11580.002.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11580.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11580.002.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 

@@ -8,10 +8,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00012.001.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00012.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00012.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00012.001.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.001.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -31,10 +32,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00012.002.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00012.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00012.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00012.002.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.002.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -63,10 +65,11 @@ Leipzig.
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="large/wfc.bks00012.003.jpg"
+      <a href="http://codyarchive.org/figures/large/wfc.bks00012.003.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;large/wfc.bks00012.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="thumbnails/wfc.bks00012.003.jpg" class="display &#xA;            "/>
+         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.003.jpg"
+              class="display &#xA;            "/>
       </a>
    </span>
 
@@ -106,10 +109,11 @@ Carl Henckel</span>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.004.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.004.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.004.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.004.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -145,10 +149,11 @@ Carl Henckel</span>
 
 <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.bks00012.005.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.bks00012.005.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.bks00012.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.bks00012.005.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.005.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -184,10 +189,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.006.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.006.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.006.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.006.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -204,10 +210,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00012.007.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00012.007.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00012.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00012.007.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.007.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -236,10 +243,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00012.008.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00012.008.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00012.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00012.008.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.008.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -276,10 +284,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00012.009.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00012.009.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00012.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00012.009.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.009.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -295,10 +304,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.010.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.010.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.010.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.010.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -313,10 +323,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.011.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.011.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.011.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.011.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -332,10 +343,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.012.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.012.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.012.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.012.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -349,10 +361,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.013.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.013.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.013.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.013.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -368,10 +381,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.014.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.014.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.014.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.014.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -388,10 +402,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.015.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.015.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.015.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.015.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -406,10 +421,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.016.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.016.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.016.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.016.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -426,10 +442,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.017.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.017.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.017.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.017.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -444,10 +461,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.018.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.018.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.018.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.018.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -463,10 +481,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.019.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.019.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.019.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.019.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -482,10 +501,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.020.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.020.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.020.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.020.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.020.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.020.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -501,10 +521,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.021.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.021.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.021.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.021.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.021.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.021.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -521,10 +542,11 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00012.022.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00012.022.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00012.022.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00012.022.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00012.022.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00012.022.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 

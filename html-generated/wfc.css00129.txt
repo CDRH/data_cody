@@ -8,10 +8,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00129.001.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00129.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00129.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00129.001.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00129.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00129.001.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -34,10 +35,11 @@ May 22nd  1902
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00129.002.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00129.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00129.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00129.002.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00129.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00129.002.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -50,10 +52,11 @@ you I am going to have this hotel out of sight—I will make it the talk of the 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.css00129.003.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.css00129.003.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.css00129.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.css00129.003.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00129.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00129.003.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -68,10 +71,11 @@ me that he was worthy of it. So far he had not made a hit with me. I was so in h
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.css00129.004.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.css00129.004.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.css00129.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.css00129.004.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00129.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00129.004.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 

@@ -8,10 +8,11 @@
  
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.00i.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.00i.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.00i.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.00i.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.00i.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.00i.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
          <div class="inline_figure">
@@ -23,30 +24,33 @@ Edward F. Gorton</p>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.00ii.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.00ii.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.00ii.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.00ii.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.00ii.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.00ii.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
          <div class="note">Blank</div>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.01.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.01.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.01.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.01.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.01.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.01.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
          <div class="note">842</div>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.02.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.02.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.02.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.02.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.02.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.02.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -58,10 +62,11 @@ From A friend.<br/>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.03.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.03.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.03.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.03.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.03.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.03.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
          <div class="note">Blank</div>
@@ -69,10 +74,11 @@ From A friend.<br/>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.03a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.03a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.03a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.03a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.03a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.03a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -146,10 +152,11 @@ Capt. Corps of Engineers, U.S.A.</span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.04.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.04.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.04.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.04.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.04.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.04.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -174,10 +181,11 @@ New York.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.05.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.05.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.05.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.05.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.05.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.05.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">RB F994.D38 1871</div>
@@ -185,10 +193,11 @@ New York.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.05a.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.05a.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.05a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.05a.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.05a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.05a.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="dedication doublespace ">
@@ -204,10 +213,11 @@ U. S. A.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.06.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.06.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.06.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.06.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.06.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.06.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="dedication doublespace ">
@@ -233,10 +243,11 @@ U. S. A.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.06a.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.06a.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.06a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.06a.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.06a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.06a.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -249,10 +260,11 @@ U. S. A.</p>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.06b.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.06b.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.06b.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.06b.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.06b.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.06b.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -265,10 +277,11 @@ U. S. A.</p>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.06c.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.06c.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.06c.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.06c.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.06c.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.06c.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -281,10 +294,11 @@ U. S. A.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.07.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.07.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.07.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.07.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.07.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.07.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -296,10 +310,11 @@ U. S. A.</p>
       </span>
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.08.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.08.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.08.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.08.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.08.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.08.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">Blank</div>
@@ -308,10 +323,11 @@ U. S. A.</p>
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="large/wfc.bks00008.09.jpg"
+      <a href="http://codyarchive.org/figures/large/wfc.bks00008.09.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;large/wfc.bks00008.09.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="thumbnails/wfc.bks00008.09.jpg" class="display &#xA;            "/>
+         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.09.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.09.jpg"
+              class="display &#xA;            "/>
       </a>
    </span>
 
@@ -327,10 +343,11 @@ U. S. A.</p>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.10.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.10.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.10.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.10.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.10.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.10.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -348,10 +365,11 @@ the elk and deer, shoot the wild turkey, and pursue the mighty jack rabbit in hi
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.11.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.11.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.11.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.11.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.11.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.11.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -367,10 +385,11 @@ shook hands, strangers were introduced and made to feel as friends at once, and 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.12.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.12.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.12.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.12.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.12.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.12.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -386,10 +405,11 @@ shook hands, strangers were introduced and made to feel as friends at once, and 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.12a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.12a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.12a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.12a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.12a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.12a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
          <div class="inline_figure">
@@ -400,10 +420,11 @@ shook hands, strangers were introduced and made to feel as friends at once, and 
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.13.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.13.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.13.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.13.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.13.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.13.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -423,10 +444,11 @@ without wasting any of his time in inquiry or speculations, he invented, written
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.14.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.14.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.14.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.14.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.14.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.14.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -452,10 +474,11 @@ Evening found us seated at a pleasant dinner at the Sherman House, enlivened by 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.15.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.15.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.15.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.15.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.15.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.15.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -473,10 +496,11 @@ Evening found us seated at a pleasant dinner at the Sherman House, enlivened by 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.16.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.16.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.16.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.16.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.16.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.16.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -520,10 +544,11 @@ Evening found us seated at a pleasant dinner at the Sherman House, enlivened by 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.16a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.16a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.16a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.16a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.16a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.16a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -535,10 +560,11 @@ Evening found us seated at a pleasant dinner at the Sherman House, enlivened by 
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.16b.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.16b.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.16b.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.16b.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.16b.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.16b.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -550,10 +576,11 @@ Evening found us seated at a pleasant dinner at the Sherman House, enlivened by 
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.16c.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.16c.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.16c.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.16c.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.16c.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.16c.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -566,10 +593,11 @@ Evening found us seated at a pleasant dinner at the Sherman House, enlivened by 
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.17.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.17.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.17.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.17.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.17.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.17.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -589,10 +617,11 @@ East, and after a pleasant day, and a sound night's sleep, we rose to find ourse
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.18.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.18.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.18.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.18.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.18.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.18.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -610,10 +639,11 @@ covered who professed to keep a hotel, but as he had nothing in it to eat, and c
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.19.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.19.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.19.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.19.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.19.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.19.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -628,10 +658,11 @@ covered who professed to keep a hotel, but as he had nothing in it to eat, and c
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="large/wfc.bks00008.20.jpg"
+      <a href="http://codyarchive.org/figures/large/wfc.bks00008.20.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;large/wfc.bks00008.20.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="thumbnails/wfc.bks00008.20.jpg" class="display &#xA;            "/>
+         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.20.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.20.jpg"
+              class="display &#xA;            "/>
       </a>
    </span>
 
@@ -649,10 +680,11 @@ covered who professed to keep a hotel, but as he had nothing in it to eat, and c
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.20a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.20a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.20a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.20a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.20a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.20a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -664,10 +696,11 @@ covered who professed to keep a hotel, but as he had nothing in it to eat, and c
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.21.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.21.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.21.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.21.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.21.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.21.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 	
@@ -685,10 +718,11 @@ have any occupation or any means of living, except the railway employees, and we
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.22.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.22.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.22.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.22.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.22.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.22.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
          <span class="h6">22</span> 
@@ -707,10 +741,11 @@ Judge Lynch had caught and convicted (which terms may be taken to be synonymous)
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.23.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.23.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.23.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.23.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.23.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.23.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>   
 
@@ -726,10 +761,11 @@ and started, those who had a fancy to display their skill as charioteers taking 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.24.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.24.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.24.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.24.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.24.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.24.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -748,10 +784,11 @@ and started, those who had a fancy to display their skill as charioteers taking 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.24a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.24a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.24a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.24a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.24a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.24a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span> 
 
@@ -763,10 +800,11 @@ and started, those who had a fancy to display their skill as charioteers taking 
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.25.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.25.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.25.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.25.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.25.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.25.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span> 
 
@@ -792,10 +830,11 @@ tions had been made for our reception, and there found all ready for movement on
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.26.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.26.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.26.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.26.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.26.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.26.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span> 
 
@@ -811,10 +850,11 @@ across the plains, and had listened to many anecdotes of his skill and experienc
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.27.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.27.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.27.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.27.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.27.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.27.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span> 
 
@@ -836,10 +876,11 @@ lected a horse that on our long trip proved himself to be the best of the lot.</
    <div class="chapter doublespace ">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.28.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.28.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.28.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.28.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.28.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.28.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -856,10 +897,11 @@ lected a horse that on our long trip proved himself to be the best of the lot.</
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.28a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.28a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.28a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.28a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.28a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.28a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -871,10 +913,11 @@ lected a horse that on our long trip proved himself to be the best of the lot.</
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.29.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.29.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.29.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.29.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.29.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.29.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>   
 
@@ -892,10 +935,11 @@ large or small, the first day's march is the most difficult to begin, and many d
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.30.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.30.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.30.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.30.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.30.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.30.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -918,10 +962,11 @@ large or small, the first day's march is the most difficult to begin, and many d
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.31.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.31.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.31.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.31.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.31.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.31.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>     
 
@@ -941,10 +986,11 @@ and then spreads out into a vast plain, undulating to some extent, but rising an
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.32.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.32.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.32.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.32.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.32.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.32.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -961,10 +1007,11 @@ known as the great American Desert, considered uninhabitable, and impossible to 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.32a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.32a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.32a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.32a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.32a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.32a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -976,10 +1023,11 @@ known as the great American Desert, considered uninhabitable, and impossible to 
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.33.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.33.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.33.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.33.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.33.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.33.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -999,10 +1047,11 @@ the animals we had with us, and during the whole trip were full of life, and as 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.34.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.34.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.34.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.34.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.34.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.34.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1023,10 +1072,11 @@ manner and method of successfully attacking our wished-for game.</p>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.35.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.35.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.35.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.35.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.35.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.35.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>   
 
@@ -1043,10 +1093,11 @@ they will never, if it can be avoided, meet in open combat an enemy who may have
    <div class="chapter doublespace ">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.36.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.36.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.36.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.36.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.36.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.36.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1063,10 +1114,11 @@ they will never, if it can be avoided, meet in open combat an enemy who may have
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.36a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.36a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.36a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.36a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.36a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.36a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1078,10 +1130,11 @@ they will never, if it can be avoided, meet in open combat an enemy who may have
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.37.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.37.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.37.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.37.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.37.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.37.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1097,10 +1150,11 @@ wary, and if they get notice, by scent or sight, of the approach of a hunter, at
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.38.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.38.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.38.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.38.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.38.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.38.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1116,10 +1170,11 @@ leading and then another, as though in a hotly contested race. Another moment an
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.39.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.39.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.39.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.39.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.39.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.39.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1136,10 +1191,11 @@ find buffalo in plenty within the day's march; the finding of a small party of o
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.40.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.40.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.40.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.40.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.40.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.40.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1152,10 +1208,11 @@ and chatter to each other, and observe whatever passes on the plains. They are v
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.40a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.40a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.40a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.40a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.40a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.40a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1167,10 +1224,11 @@ and chatter to each other, and observe whatever passes on the plains. They are v
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.41.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.41.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.41.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.41.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.41.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.41.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1188,10 +1246,11 @@ ables. Their principal occupation was hunting; and around the settlement were la
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.42.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.42.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.42.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.42.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.42.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.42.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1207,10 +1266,11 @@ ables. Their principal occupation was hunting; and around the settlement were la
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.43.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.43.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.43.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.43.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.43.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.43.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1224,20 +1284,22 @@ ables. Their principal occupation was hunting; and around the settlement were la
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.44.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.44.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.44.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.44.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.44.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.44.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">Blank</div>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.44a.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.44a.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.44a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.44a.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.44a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.44a.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="inline_figure">
@@ -1250,10 +1312,11 @@ ables. Their principal occupation was hunting; and around the settlement were la
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.45.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.45.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.45.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.45.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.45.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.45.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1274,10 +1337,11 @@ ables. Their principal occupation was hunting; and around the settlement were la
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.46.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.46.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.46.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.46.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.46.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.46.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1299,10 +1363,11 @@ gun he had with him of the Ward Burton pattern. With two shots he knocked over t
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.47.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.47.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.47.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.47.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.47.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.47.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1319,10 +1384,11 @@ late camp, of which Mr. Heckshcher  killed the first. Mr. Livingston was so fort
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.48.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.48.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.48.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.48.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.48.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.48.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1340,10 +1406,11 @@ son, who had killed two fine mallard duck that were flying over the camp.</p>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.48a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.48a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.48a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.48a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.48a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.48a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1355,10 +1422,11 @@ son, who had killed two fine mallard duck that were flying over the camp.</p>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.49.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.49.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.49.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.49.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.49.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.49.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1372,10 +1440,11 @@ where he still remains in the service of his country. After a pleasant march of 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.50.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.50.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.50.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.50.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.50.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.50.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">Blank</div>
@@ -1386,10 +1455,11 @@ where he still remains in the service of his country. After a pleasant march of 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.51.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.51.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.51.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.51.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.51.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.51.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1409,10 +1479,11 @@ where he still remains in the service of his country. After a pleasant march of 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.52.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.52.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.52.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.52.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.52.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.52.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1433,10 +1504,11 @@ where he still remains in the service of his country. After a pleasant march of 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.52a.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.52a.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.52a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.52a.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.52a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.52a.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1448,10 +1520,11 @@ where he still remains in the service of his country. After a pleasant march of 
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.53.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.53.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.53.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.53.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.53.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.53.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1522,10 +1595,11 @@ Champagne Frappe, Champagne au Naturel, Claret, Whiskey, Brandy, and Bass' Ale.
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.55.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.55.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.55.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.55.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.55.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.55.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1545,10 +1619,11 @@ strong reason to believe he had something to do with the mysterious disappearanc
    <div class="chapter doublespace ">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.57.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.57.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.57.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.57.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.57.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.57.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1570,10 +1645,11 @@ strong reason to believe he had something to do with the mysterious disappearanc
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.58.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.58.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.58.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.58.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.58.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.58.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1593,10 +1669,11 @@ us at the crossing of the South Beaver, intending to keep our right on the march
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.59.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.59.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.59.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.59.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.59.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.59.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1618,10 +1695,11 @@ and traveled rapidly for twenty-four miles until we reached our halting place, o
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.60.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.60.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.60.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.60.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.60.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.60.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1639,10 +1717,11 @@ tended the hospitalities of his new possession in a most satisfactory manner, an
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.60a.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.60a.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.60a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.60a.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.60a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.60a.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1656,10 +1735,11 @@ tended the hospitalities of his new possession in a most satisfactory manner, an
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.61.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.61.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.61.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.61.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.61.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.61.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1677,10 +1757,11 @@ tended the hospitalities of his new possession in a most satisfactory manner, an
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.62.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.62.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.62.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.62.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.62.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.62.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1702,10 +1783,11 @@ carefully tended, and, as we afterwards learned, in a month recovered entirely f
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.63.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.63.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.63.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.63.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.63.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.63.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1723,10 +1805,11 @@ a much harder fight than the latter, who permits himself to be killed with great
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.64.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.64.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.64.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.64.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.64.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.64.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1738,10 +1821,11 @@ plete suit of red flannel, who accompanied the chief in command of the party, wa
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.64a.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.64a.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.64a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.64a.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.64a.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.64a.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class="inline_figure">
@@ -1755,10 +1839,11 @@ plete suit of red flannel, who accompanied the chief in command of the party, wa
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.bks00008.65.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.bks00008.65.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.bks00008.65.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.bks00008.65.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.65.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.65.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1773,10 +1858,11 @@ plete suit of red flannel, who accompanied the chief in command of the party, wa
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.66.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.66.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.66.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.66.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.66.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.66.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1801,10 +1887,11 @@ the great need that existed in that unfortunate city, at such a crisis, for the 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.67.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.67.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.67.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.67.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.67.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.67.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1828,10 +1915,11 @@ and in relating the various fortunes that attended the different members of our 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.bks00008.68.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.bks00008.68.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.bks00008.68.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.bks00008.68.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bks00008.68.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.bks00008.68.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 

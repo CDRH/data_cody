@@ -6,10 +6,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.001.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.001.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.001.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -28,10 +29,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.002.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.002.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.002.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -41,10 +43,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.003.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.003.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.003.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -105,10 +108,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.004.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.004.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.004.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.004.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -120,10 +124,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.005.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.005.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.005.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.005.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -183,10 +188,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.006.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.006.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.006.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.006.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -196,10 +202,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.007.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.007.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.007.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.007.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -258,10 +265,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.008.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.008.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.008.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.008.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -271,10 +279,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.009.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.009.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.009.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.009.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -332,10 +341,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.010.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.010.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.010.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.010.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -346,10 +356,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.011.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.011.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.011.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.011.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -407,10 +418,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.012.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.012.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.012.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.012.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -420,10 +432,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.013.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.013.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.013.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.013.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -481,10 +494,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.014.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.014.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.014.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.014.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -494,10 +508,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.015.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.015.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.015.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.015.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -555,10 +570,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.016.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.016.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.016.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.016.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -568,10 +584,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.017.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.017.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.017.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.017.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -629,10 +646,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.018.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.018.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.018.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.018.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -643,10 +661,11 @@ NEW-YORK.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.mem00015.019.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.mem00015.019.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.mem00015.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.mem00015.019.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00015.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00015.019.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 

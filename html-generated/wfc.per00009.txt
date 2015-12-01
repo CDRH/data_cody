@@ -7,10 +7,11 @@
             <div class=" ">
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.per00009.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.per00009.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.per00009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.per00009.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.per00009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.per00009.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <p>Colonel Cody has certainly had a great career.  I was interested in reading in "The Billboard" an authentic account of it by Frank Winch, who is in a position to tell the world the truth about the adventurous Colonel's life.  The Colonel is a fine figure of a man and is by way of being something of a universal hero, with nothing derogatory to his name.  There is not a boy in the land who does not know of him by reputation.  There is probably not a boy in the land who would not be delighted to see the pictures of him and his troupe on the moving picture screen.  I hope every boy will.</p>

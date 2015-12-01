@@ -8,10 +8,11 @@
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.001.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.001.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.001.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.001.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -23,10 +24,11 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.002.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.002.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.002.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -49,20 +51,22 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.003.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.003.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.003.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.004.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.004.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.004.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.004.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class=" doublespace ">
@@ -74,19 +78,21 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.005.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.005.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.005.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.005.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.006.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.006.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.006.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.006.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -111,10 +117,11 @@ The Matthews-Northrup Co.
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="large/wfc.route.1899.007.jpg"
+      <a href="http://codyarchive.org/figures/large/wfc.route.1899.007.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;large/wfc.route.1899.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="thumbnails/wfc.route.1899.007.jpg" class="display &#xA;            "/>
+         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.007.jpg"
+              class="display &#xA;            "/>
       </a>
    </span>
 
@@ -179,10 +186,11 @@ The Matthews-Northrup Co.
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.008.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.008.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.008.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.008.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -287,10 +295,11 @@ The Matthews-Northrup Co.
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.009.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.009.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.009.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.009.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -384,10 +393,11 @@ The Matthews-Northrup Co.
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.010.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.010.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.010.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.010.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -477,10 +487,11 @@ The Matthews-Northrup Co.
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.011.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.011.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.011.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.011.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -585,10 +596,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.012.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.012.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.012.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.012.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -682,10 +694,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.013.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.013.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.013.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.013.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -775,10 +788,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.014.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.014.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.014.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.014.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -867,10 +881,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.015.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.015.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.015.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.015.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -960,10 +975,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.016.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.016.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.016.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.016.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1064,10 +1080,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.017.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.017.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.017.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.017.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1177,10 +1194,11 @@ The Matthews-Northrup Co.
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.018.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.018.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.018.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.018.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1278,10 +1296,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.019.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.019.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.019.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.019.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1379,10 +1398,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.020.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.020.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.020.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.020.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.020.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.020.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1491,10 +1511,11 @@ The Matthews-Northrup Co.
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.021.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.021.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.021.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.021.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.021.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.021.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1580,10 +1601,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.022.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.022.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.022.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.022.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.022.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.022.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1668,10 +1690,11 @@ The Matthews-Northrup Co.
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.023.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.023.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.023.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.023.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.023.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.023.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1765,10 +1788,11 @@ The Matthews-Northrup Co.
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.024.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.024.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.024.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.024.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.024.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.024.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -1860,10 +1884,11 @@ The Matthews-Northrup Co.
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="large/wfc.route.1899.025.jpg"
+      <a href="http://codyarchive.org/figures/large/wfc.route.1899.025.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;large/wfc.route.1899.025.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="thumbnails/wfc.route.1899.025.jpg" class="display &#xA;            "/>
+         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.025.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.025.jpg"
+              class="display &#xA;            "/>
       </a>
    </span>
 
@@ -1921,10 +1946,11 @@ Artillery, Battery D.</li>
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="large/wfc.route.1899.026.jpg"
+      <a href="http://codyarchive.org/figures/large/wfc.route.1899.026.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;large/wfc.route.1899.026.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="thumbnails/wfc.route.1899.026.jpg" class="display &#xA;            "/>
+         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.026.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.026.jpg"
+              class="display &#xA;            "/>
       </a>
    </span>
 
@@ -1956,10 +1982,11 @@ Scene 2—Storming the Hill.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.027.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.027.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.027.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.027.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.027.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.027.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -1989,10 +2016,11 @@ Scene 2—Storming the Hill.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.028.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.028.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.028.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.028.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.028.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.028.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2021,10 +2049,11 @@ Scene 2—Storming the Hill.</p>
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="large/wfc.route.1899.029.jpg"
+      <a href="http://codyarchive.org/figures/large/wfc.route.1899.029.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;large/wfc.route.1899.029.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="thumbnails/wfc.route.1899.029.jpg" class="display &#xA;            "/>
+         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.029.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.029.jpg"
+              class="display &#xA;            "/>
       </a>
    </span>
 
@@ -2069,10 +2098,11 @@ Scene 2—Storming the Hill.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.030.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.030.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.030.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.030.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.030.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.030.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2134,10 +2164,11 @@ Scene 2—Storming the Hill.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.031.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.031.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.031.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.031.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.031.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.031.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2200,10 +2231,11 @@ Scene 2—Storming the Hill.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.032.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.032.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.032.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.032.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.032.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.032.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2257,10 +2289,11 @@ Scene 2—Storming the Hill.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.033.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.033.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.033.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.033.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.033.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.033.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2315,10 +2348,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.034.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.034.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.034.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.034.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.034.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.034.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2381,10 +2415,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.035.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.035.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.035.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.035.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.035.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.035.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2427,10 +2462,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.036.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.036.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.036.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.036.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.036.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.036.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2493,10 +2529,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.037.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.037.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.037.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.037.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.037.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.037.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2536,10 +2573,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.038.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.038.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.038.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.038.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.038.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.038.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2602,10 +2640,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.039.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.039.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.039.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.039.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.039.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.039.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2668,10 +2707,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.040.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.040.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.040.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.040.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.040.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.040.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2734,10 +2774,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.041.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.041.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.041.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.041.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.041.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.041.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2800,10 +2841,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.042.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.042.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.042.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.042.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.042.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.042.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2857,10 +2899,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.043.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.043.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.043.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.043.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.043.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.043.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2923,10 +2966,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.044.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.044.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.044.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.044.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.044.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.044.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -2989,10 +3033,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.045.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.045.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.045.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.045.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.045.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.045.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3054,10 +3099,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.046.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.046.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.046.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.046.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.046.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.046.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3119,10 +3165,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.047.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.047.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.047.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.047.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.047.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.047.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3150,10 +3197,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.048.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.048.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.048.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.048.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.048.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.048.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3216,10 +3264,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.049.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.049.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.049.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.049.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.049.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.049.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3265,10 +3314,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.050.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.050.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.050.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.050.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.050.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.050.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3313,10 +3363,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.051.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.051.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.051.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.051.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.051.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.051.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3361,10 +3412,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.052.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.052.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.052.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.052.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.052.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.052.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3409,10 +3461,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.053.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.053.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.053.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.053.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.053.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.053.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3431,10 +3484,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.054.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.054.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.054.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.054.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.054.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.054.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
@@ -3484,10 +3538,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
    </div>
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="large/wfc.route.1899.055.jpg"
+      <a href="http://codyarchive.org/figures/large/wfc.route.1899.055.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;large/wfc.route.1899.055.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="thumbnails/wfc.route.1899.055.jpg" class="display &#xA;            "/>
+         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.055.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.055.jpg"
+              class="display &#xA;            "/>
       </a>
    </span>
 
@@ -3514,10 +3569,11 @@ Eldredge, a four-horse driver, was severely hurt, by being thrown from seat of w
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.056.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.056.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.056.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.056.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.056.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.056.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -3545,10 +3601,11 @@ Fair Grounds with the exception of Coney Island, where a temporary stand was ere
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.057.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.057.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.057.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.057.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.057.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.057.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -3576,10 +3633,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="large/wfc.route.1899.058.jpg"
+      <a href="http://codyarchive.org/figures/large/wfc.route.1899.058.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;large/wfc.route.1899.058.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="thumbnails/wfc.route.1899.058.jpg" class="display &#xA;            "/>
+         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.058.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.058.jpg"
+              class="display &#xA;            "/>
       </a>
    </span>
 
@@ -4099,10 +4157,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.059.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.059.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.059.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.059.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.059.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.059.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -4604,10 +4663,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.060.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.060.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.060.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.060.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.060.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.060.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -5067,10 +5127,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.061.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.061.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.061.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.061.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.061.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.061.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -5553,10 +5614,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.062.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.062.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.062.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.062.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.062.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.062.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -6042,10 +6104,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.063.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.063.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.063.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.063.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.063.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.063.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -6507,10 +6570,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.064.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.064.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.064.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.064.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.064.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.064.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -7003,10 +7067,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.065.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.065.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.065.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.065.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.065.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.065.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -7485,10 +7550,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.066.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.066.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.066.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.066.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.066.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.066.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -7945,10 +8011,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.067.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.067.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.067.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.067.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.067.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.067.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -8418,10 +8485,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.068.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.068.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.068.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.068.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.068.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.068.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -8951,10 +9019,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.069.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.069.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.069.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.069.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.069.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.069.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -9473,10 +9542,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.070.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.070.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.070.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.070.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.070.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.070.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -9948,10 +10018,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.071.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.071.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.071.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.071.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.071.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.071.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -10429,10 +10500,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="large/wfc.route.1899.072.jpg"
+               <a href="http://codyarchive.org/figures/large/wfc.route.1899.072.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;large/wfc.route.1899.072.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="thumbnails/wfc.route.1899.072.jpg" class="display &#xA;            "/>
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.072.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.072.jpg"
+                       class="display &#xA;            "/>
                </a>
             </span>
 
@@ -10876,10 +10948,11 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.073.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.073.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.073.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.073.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.073.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.073.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
@@ -10948,19 +11021,21 @@ weeks; then went to Philadelphia, Baltimore and Washington, and closed at the St
       </div>
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.074.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.074.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.074.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.074.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.074.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.074.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="large/wfc.route.1899.075.jpg"
+         <a href="http://codyarchive.org/figures/large/wfc.route.1899.075.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;large/wfc.route.1899.075.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="thumbnails/wfc.route.1899.075.jpg" class="display &#xA;            "/>
+            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.075.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.075.jpg"
+                 class="display &#xA;            "/>
          </a>
       </span>
       <div class=" ">
@@ -10972,10 +11047,11 @@ Mgr. Buffalo Bills Wild West
 </div>
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="large/wfc.route.1899.076.jpg"
+            <a href="http://codyarchive.org/figures/large/wfc.route.1899.076.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;large/wfc.route.1899.076.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="thumbnails/wfc.route.1899.076.jpg" class="display &#xA;            "/>
+               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.route.1899.076.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/thumbnails/wfc.route.1899.076.jpg"
+                    class="display &#xA;            "/>
             </a>
          </span>
 
