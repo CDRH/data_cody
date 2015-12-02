@@ -1,0 +1,9 @@
+<div class="life_item" id="american.horse">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/american.horse">American Horse (Wasechun-Tashunka)</a>
+   </h3>
+   <p>
+      <div class="note">American Horse, <em class="hi">Wasechun-Tashunka</em>, literally translated "White Man's Horse" (1840-1908), was a member of the Oglala Sioux Nation. American Horse was the son of Sitting Bear and Walks With Her. He and wife Fanny Hard Woman had three children. American Horse joined Buffalo Bill's Wild West in 1886, replacing Sitting Bull as the leading American Indian performer. It is unclear how many seasons he toured with Buffalo Bill's Wild West. There were several Indian performers named American Horse: Julia American Horse and Thomas American Horse in the 1902 season; Alfred American Horse in the 1910-11 season.</div>
+   </p>
+</div>

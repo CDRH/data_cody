@@ -1,0 +1,9 @@
+<div class="life_item" id="ferrel.d">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/ferrel.d">Ferrel, Della</a>
+   </h3>
+   <p>
+      <div class="note">Della Ferrel (spelled variously Farrell, Ferrell, and Ferrall, ~1869-1896), was born in Colorado where she learned to ride horses. She was a cowgirl and trick rider, performing with Buffalo Bill's Wild West in England during the first European tour of 1887-88 and the later European tour of 1889-1892. In 1886 Ferrell married Lewis H. "Johnny" Baker (1869-1931) but continued to perform using her maiden name. The couple had daughters Della C. (1892-1986) and Gladys K. (1893-1990). Della Ferrell Baker died of pneumonia in 1896 at age 26.</div>
+   </p>
+</div>

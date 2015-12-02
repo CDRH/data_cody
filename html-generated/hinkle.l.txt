@@ -1,0 +1,9 @@
+<div class="life_item" id="hinkle.l">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/hinkle.l">Hinkle, Lorin Curtis, 1869-1931</a>
+   </h3>
+   <p>
+      <div class="note">Lorin Curtis Hinkle (1869-1931) was born in Ohio. He moved to Wyoming in 1889 as a telegraph operator for the Union Pacific Railroad and was later promoted to dispatcher. Hinkle served in the Wyoming legislature in 1893, as chief clerk of the Wyoming Board of Land Commissioners from 1898 to 1904, and as deputy secretary of state of Wyoming from 1904 to 1910. After leaving public office, Hinkle was active in private business in Cheyenne, particularly in the oil industry. He apparently was known as Curtis L. Hinkle for much of his public life.</div>
+   </p>
+</div>

@@ -1,0 +1,9 @@
+<div class="life_item" id="peake.j">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/peake.j">Peake, John H., 1848-1905</a>
+   </h3>
+   <p>
+      <div class="note">John H. Peake (1848-1905), editor at one time of the <em class="hi">North Platte Enterprise</em> and <em class="hi">The Duluth Press</em>, would eventually become editor of <em class="hi">Cody Enterprise</em>, which Peake and Cody co-founded in August 1899. Peake and his wife Anna came to Cody in 1899 from Washington, D.C. </div>
+   </p>
+</div>

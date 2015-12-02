@@ -1,0 +1,9 @@
+<div class="life_item" id="cunningham.d">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/cunningham.d">Cunningham, Dennis, 1843-</a>
+   </h3>
+   <p>
+      <div class="note">Dennis Cunningham was born in Ireland in 1843, and came to the United States in 1866.  He settled in Omaha, Nebraska, in 1868, and practiced the trades of blacksmith and farrier.  He became prosperous through shrewd investments in Omaha real estate, making a particularly tidy profit by selling the lot on which a post office was to be constructed.  Cunningham later expanded his business interests into construction.  He is known to have visited William F. Cody at North Platte, Nebraska, during the Christmas holiday season in 1888-89.  An 1891 gazetteer of Omaha lists his business address as 524 South 13th Street.  According to a 1914 city directory, Cunningham resided at 626 South 19th Street.</div>
+   </p>
+</div>

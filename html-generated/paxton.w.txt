@@ -1,0 +1,9 @@
+<div class="life_item" id="paxton.w">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/paxton.w">Paxton, William A., 1837-1907</a>
+   </h3>
+   <p>
+      <div class="note">William A. Paxton (1837-1907) was born in Kentucky but made most of his fortune in Nebraska.  He was one of the most successful businessmen in Omaha at the turn of the twentieth century, with interests in the South Omaha stockyards, downtown real estate, and a well-known wholesale grocery company.  The "Paxton Block" of buildings at 16th and Farnam Streets in downtown Omaha was named for him, as was the town of Paxton in Keith County, Nebraska.  William F. Cody and George Beck attempted to persuade Paxton to invest in the Shoshone Irrigation Company, but ultimately did not succeed.</div>
+   </p>
+</div>

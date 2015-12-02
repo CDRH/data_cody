@@ -1,0 +1,9 @@
+<div class="life_item" id="wovoka">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/wovoka">Wovoka, approximately 1856-1932</a>
+   </h3>
+   <p>
+      <div class="note">Wovoka (c. 1856-1932), born <em class="hi">Quoitze Ow</em> and also known as Jack Wilson, was a Northern Paiute who became the spiritual leader of the Ghost Dance movement—the result of a vision that Wovoka claimed came to him during the solar eclipse of January 1, 1889. The vision foresaw the resurrection of the Paiute dead, the removal of all whites, and the full restitution of all lands to the tribes. In order to achieve this vision, Wovoka preached that all Native Americans must live righteously and without violence and perform the round dance known as the Ghost Dance—preachings largely based in Christianity. Distorted views of his teachings are believed to have precipitated the Wounded Knee Massacre in December 1890. Following this event, Wovoka lost his prominence and lived the remainder of his life as Jack Wilson.</div>
+   </p>
+</div>

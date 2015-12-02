@@ -1,0 +1,9 @@
+<div class="life_item" id="sweeney.w">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/sweeney.w">Sweeney, William, 1856-1917</a>
+   </h3>
+   <p>
+      <div class="note">William Sweeney (1856-1917), a cornet player, was the director of Buffalo Bill's Cowboy Band from 1883 until 1913, beginning his career with Cody in 1883 at the Fourth of July "Old Glory Blowout" in North Platte, Nebraska. Sweeney wrote much of the music and did all of the arrangements for the music performed by the Cowboy Band. Every Wild West performance opened with the "Star-Spangled Banner," which became the national anthem of the United States of America in 1931. Sweeney later married Buffalo Bill's Wild West horsewoman Bessie Ferrel.</div>
+   </p>
+</div>

@@ -1,0 +1,9 @@
+<div class="life_item" id="little.horse">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/little.horse">Little Horse (Tasunke Ciqala)</a>
+   </h3>
+   <p>
+      <div class="note">Little Horse, <em class="hi">Tasunke Ciqala</em>, (1857-1932) was Hunkpapa Lakota but considered a chief among the Oglala Sioux. He was billed incorrectly as a Cheyenne in Buffalo Bill's Wild West official programme of 1887-88 when he appeared before Queen Victoria and other royalty during the American Exhibition in London. Little Horse appears on the Persian Monarch passenger manifest, returning to New York from Hull, England, in May 1888.</div>
+   </p>
+</div>

@@ -1,0 +1,9 @@
+<div class="life_item" id="short.bull">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/short.bull">Short Bull (Tatanka Ptecela) c.1845-1915 or 1923</a>
+   </h3>
+   <p>
+      <div class="note">Arnold Short Bull, <em class="hi">Tatanka Ptecela</em> (Lakota: <em class="hi">Tȟatȟáŋka Ptéčela</em>) (c.1845-1915 or 1923), was a medicine man and member of the Sicangu (Brulé) Sioux. Brother-in-law and close friend to Kicking Bear, the two traveled to Nevada in 1889 to visit the Northern Paiute spiritual leader Wovoka whose vision was the basis for the Ghost Dance movement. Kicking Bear and Short Bull became the principal leaders of the Ghost Dance religion among the Sioux at Pine Ridge and Standing Rock Agencies. In order to calm the unrest following the Wounded Knee Massacre, Short Bull and other Native men and women were imprisoned in Fort Sheridan, Illinois. Many of these prisoners, including Short Bull and Kicking Bear, were released from jail and contracted by Buffalo Bill's Wild West to perform in Europe for the season 1891-92. Short Bull and Kicking Bear, among other Indians, were sent back to Fort Sheridan when they insisted on returning home prematurely, sailing from Glasgow on board the <em class="hi">Corean</em> March 4, 1892; the two friends were the last to be released from Fort Sheridan. During the 1891-92 season, Short Bull was promoted as the "High Priest of the Messiah." In 1913 Short Bull also appeared as a member of the cast in William F. Cody's film <em class="hi">Indian Wars</em>. Sources differ on the year of Short Bull’s death—either 1915 or 1923.</div>
+   </p>
+</div>

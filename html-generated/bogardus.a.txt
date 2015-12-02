@@ -1,0 +1,9 @@
+<div class="life_item" id="bogardus.a">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/bogardus.a">Bogardus, Adam H.</a>
+   </h3>
+   <p>
+      <div class="note">Adam H. Bogardus (1833-1913), a carpenter by trade, then a wild game hunter in the Chicago area, and a professional shooter and world wing shot champion, was a featured sharpshooter in William F. Cody’s and Doc Carver’s Rocky Mountain and Prairie Exhibition of 1883. When the Cody-Carver partnership dissolved at the end of that initial Wild West season, Bogardus became a one-third partner with Cody and Nate Salsbury for the 1884 season, joined by his sons Peter, Eugene, Edward, and Henry—all accomplished marksmen performers in Buffalo Bill’s Wild West.</div>
+   </p>
+</div>

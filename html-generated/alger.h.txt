@@ -1,0 +1,9 @@
+<div class="life_item" id="alger.h">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger, Horace Chapin, 1857-1906</a>
+   </h3>
+   <p>
+      <div class="note">Horace Chapin Alger (1857-1906) was born in Lowell, Massachusetts, where his father was a prominent attorney.  Alger graduated from Harvard in 1879 and briefly attended medical school before settling on banking and finance as his career.  He moved to Miles City, Montana, in 1884 and went on to Sheridan, Wyoming, in 1885.  Alger spent the next twenty-one years as an officer of various banks in Sheridan.  Along with George Beck, Alger was one of the original partners in the venture that became the Shoshone Irrigation Company.  Alger served on the company's board of directors until his death in 1906.  Alger also had an active political career, serving as Sheridan County treasurer, mayor of Sheridan, and as a member of the Wyoming legislature at various times in the 1890s.  He ran unsuccessfully for governor on the Democratic ticket in 1898.</div>
+   </p>
+</div>

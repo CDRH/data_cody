@@ -1,0 +1,9 @@
+<div class="life_item" id="dunraven.w">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/dunraven.w">Dunraven, Windham Thomas Wyndham-Quin, earl of, 1841-1926</a>
+   </h3>
+   <p>
+      <div class="note">Windham Thomas Wyndham Quin (1841-1926), the 4th Earl of Dunraven, was an Irish politician, journalist, and sportsman. At the invitation of General Philip Sheridan, the Earl of Dunraven came to the U.S. in 1871 for an elk hunting expedition in Nebraska, employing as guides William F. Cody and John B. (Texas Jack) Omohundro.</div>
+   </p>
+</div>

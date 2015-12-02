@@ -1,0 +1,9 @@
+<div class="life_item" id="albert.edward">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/albert.edward">Albert Edward, Prince of Wales, 1841-1910</a>
+   </h3>
+   <p>
+      <div class="note">Albert Edward (1841-1910), the second child and eldest son of Queen Victoria and Prince Consort Albert of Saxe-Coburg and Gotha, became the Prince of Wales a month after his birth. He married the Princess Alexandra of Denmark in 1863; together they had five children, four of whom survived to adulthood, including the future King George V. For 59 years Albert Edward held the title of Prince of Wales until the death of Queen Victoria on January 22, 1901. He ascended the throne as King Edward VII of the United Kingdom and The British Dominions and Emperor of India; he reigned until his death in 1910.</div>
+   </p>
+</div>

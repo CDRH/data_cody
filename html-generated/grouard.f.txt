@@ -1,0 +1,9 @@
+<div class="life_item" id="grouard.f">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/grouard.f">Grouard, Frank, 1850-1905</a>
+   </h3>
+   <p>
+      <div class="note">Frank Grouard (1850-1905) managed Cody's horses and may have been manager of Cody's TE Ranch during 1896. Grouard was a scout and interpreter for General Crook during the American Indian War of 1876, participating in the Little Bighorn Campaign, the Battle of the Rosebud, the Battle of Slim Buttes, and the Wounded Knee Massacre. Cody and Grouard were scouts for Crook on the Big Horn and Yellowstone Expedition of 1876. Grouard was known as "Yugata" by the Sioux.</div>
+   </p>
+</div>

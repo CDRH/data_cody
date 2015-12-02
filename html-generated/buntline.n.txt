@@ -1,0 +1,9 @@
+<div class="life_item" id="buntline.n">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/buntline.n">Buntline, Ned, 1822 or 1823-1886</a>
+   </h3>
+   <p>
+      <div class="note">Ned Buntline (Edward Zane Carroll Judson,1822 or 1823-1886) was an American writer, journalist, publicist, and publisher who was instrumental in bringing fame to James Butler "Wild Bill" Hickok and William F. Cody. He wrote prolifically under the pseudonym Ned Buntline including plays and novels. He was also a temperance lecturer and political activist (most notably for the nativist Know-Nothing Party). He introduced Buffalo Bill to a national audience with <em class="hi">Buffalo Bill, the King of the Border Men</em>, a serialized story published in <em class="hi">New York Weekly</em> in 1869. He later wrote a stage drama, <em class="hi">The Scouts of the Plains</em>, which launched Cody’s acting career.</div>
+   </p>
+</div>

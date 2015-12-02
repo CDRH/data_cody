@@ -1,0 +1,9 @@
+<div class="life_item" id="russell.h">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/russell.h">Russell, Henry Sturgis</a>
+   </h3>
+   <p>
+      <div class="note">Henry Sturgis Russell (1838-1905), of Boston, served in various Massachusetts regiments as a 1st Lieutenant, Lt. Colonel, and Colonel during the American Civil War. He mustered out of service as a Brevet Brigadier General in March 1865. In 1880 Russell was the primary shareholder in an association that created the Telephone Company of Brazil. In 1886 Russell was appointed President of the American Exhibition, held in London in 1887 as part of the celebration of Queen Victoria’s Golden Jubilee.</div>
+   </p>
+</div>

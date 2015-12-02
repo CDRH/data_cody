@@ -1,0 +1,9 @@
+<div class="life_item" id="kelsey.f">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/kelsey.f">Kelsey, Frank C., c. 1863-1933</a>
+   </h3>
+   <p>
+      <div class="note">Frank C. Kelsey (c.1863-1933), a civil engineer. In 1901, William F. Cody hired Kelsey (who was then city engineer for Salt Lake City) to make a preliminary survey for the Cody-Salsbury Canal.</div>
+   </p>
+</div>

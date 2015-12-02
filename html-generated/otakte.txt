@@ -1,0 +1,10 @@
+<div class="life_item" id="otakte">
+   <h3>
+      <a class="persNameLink"
+         href="http://rosie.unl.edu/cody_archive/doc/otakte">Otakte, d. 1890</a>
+   </h3>
+   <p>
+      <div class="note">
+         <em class="hi">Otakte</em> (d.1890), a young Lakota of eighteen or nineteen from Pine Ridge Indian Reservation, was known by various translated names: Kills Many, Kills (Killed) His Pony, and Kills Plenty. <em class="hi">Otakte</em> appeared with Buffalo Bill's Wild West in Europe during 1889 and 1890. While performing in Germany, <em class="hi">Otakte's</em> horse fell on him, crushing his arm; blood poisoning soon resulted. Cody covered all expenses for <em class="hi">Otakte's</em> return to his home at Pine Ridge Indian Reservation. When the ship docked in New York Harbor, <em class="hi">Otakte</em> was too ill to continue traveling and was admitted to Bellevue Hospital in New York for treatment. He was attended by Father Francis Craft until his death during the night of June 17-18, 1890. The cause of death was likely a combination of blood poisoning and consumption. His remains were conveyed to Pine Ridge Reservation for interment in the Mission Cemetery.</div>
+   </p>
+</div>
