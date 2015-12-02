@@ -214,6 +214,9 @@
                   </xsl:otherwise>
                 </xsl:choose>
               </field>
+              <field name="description">
+                <xsl:copy-of select="note"/>
+              </field>
             </doc>
           </xsl:for-each>
         </xsl:when>
