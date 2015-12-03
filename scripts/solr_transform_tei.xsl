@@ -142,6 +142,24 @@
               <field name="id">
                 <xsl:value-of select="@xml:id"/>
               </field>
+              <!-- slug -->
+              <field name="slug">
+                <xsl:value-of select="$slug"/>
+              </field>
+              <!-- project -->
+              <field name="project">
+                <xsl:value-of select="$project"/>
+              </field>
+              <!-- uri -->
+              <field name="uri"><xsl:value-of select="$site_location"/><xsl:text>files/</xsl:text><xsl:value-of select="$filenamepart"/>.html</field>
+              <!-- uriXML -->
+              <field name="uriXML">
+                <xsl:value-of select="$file_location"/>
+                <xsl:value-of select="$slug"/>
+                <xsl:text>/tei/</xsl:text>
+                <xsl:value-of select="$filenamepart"/>
+                <xsl:text>.xml</xsl:text>
+              </field>
               <field name="category">Life</field>
               <field name="subCategory">Personography</field>
               <field name="title">
@@ -215,11 +233,20 @@
                 </xsl:choose>
               </field>
               <field name="description">
-                <xsl:copy-of select="note"/>
+                <xsl:value-of select="note"/>
+              </field>
+              <!-- uriHTML -->
+              
+              <field name="uriHTML">
+                <xsl:value-of select="$file_location"/>
+                <xsl:value-of select="$slug"/>
+                <xsl:text>/html-generated/</xsl:text>
+                <xsl:value-of select="@xml:id"/>
+                <xsl:text>.txt</xsl:text>
               </field>
             </doc>
           </xsl:for-each>
-        </xsl:when>
+        </xsl:when>  <!-- end of personography -->
         <xsl:otherwise>
           <doc>
 
