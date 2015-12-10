@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11360.jpg"
@@ -20,4 +20,3 @@
         <p>It was a happy inspiration to close the show with pictures of Indian schools and industries and Indian life of the present day. There is nothing to be learned from the pictures as to the causes of these Indian wars, but they will likely lead many to search the historical records to find out the causes. There they will learn that about 25,000 Indians, who had no knowledge of agriculture, were herded on reservations, mostly in the semi-arid regions, and told they must make a living farming, when not one in a hundred had ever seen a plow. They were given scant rations for a while and then there suddenly came from Washington an order to cut down the rations one-half. If 25,000 white men, having no knowledge of farming, had been placed in the same condition, they too would have been reduced to starvation, and they, too, might have gone to war, however desperate the chances.</p>
    </div>
     </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00551.jpg"
@@ -18,23 +18,23 @@
       <div class="note">Buffalo Bill's Wild West<br/>Pahaska Tepee.<br/>Touring Great Britain.</div>
 
 
-      <span class="dateline">Oswestry<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Oswestry<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
 May. 11th1904</span>
 
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
 
-      <p>I hope this may find you and yours well and happy. I am in excellent health— And business splendid. I wrote you from N. Y. So did Mr Clark<a href="../doc/n02" class="internal_link">2</a> What the Hearst Estate<a href="../doc/n03" class="internal_link">3</a> would do—</p>
+      <p>I hope this may find you and yours well and happy. I am in excellent health— And business splendid. I wrote you from N. Y. So did Mr Clark<a href="#n02" class="internal_link">2</a> What the Hearst Estate<a href="#n03" class="internal_link">3</a> would do—</p>
 
       <p>Please let me hear from you on the subject. </p>
 
-      <p>Hope there <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ be so much trouble about our ditch this summer.</p>
+      <p>Hope there <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> be so much trouble about our ditch this summer.</p>
 
 
       <span class="closer">
@@ -55,4 +55,3 @@ May. 11th1904</span>
    <div class="note">Note 3: The Hearst Estate provided an indemnity bond of $30,000 at 7.5% interest for the Shoshone Irrigation Company project.</div>
 
 </div>
-

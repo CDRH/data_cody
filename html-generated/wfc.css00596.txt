@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="telegram ">
+   <div class="telegram">
 
 
       <div class="note">TELEGRAM
@@ -22,17 +22,17 @@
   DEPARTMENT OF THE INTERIOR.</div>
       <span class="dateline">August 28, 1913</span>
 
- To Brennan<a href="../doc/n01" class="internal_link">1</a>, Indian Reservation,
+ To Brennan<a href="#n01" class="internal_link">1</a>, Indian Reservation,
   Pine Ridge, South Dakota.
 
 
 
 
 
-  <p>You may proceed along the lines of Colonel Cody's suggestion guarding in every way the welfare of the Indians. Commissioner Sells<a href="../doc/n02" class="internal_link">2</a> sends me the following answer to my telegram to him quote no objection here to having moving pictures made at Pine Ridge in accordance with your telegram twenty sixth if taken on reservation with understanding that such action will not interfere with industrial or educational pursuits or training. Suggest pictures be taken under supervision Superintendent Brennan unless for some special reason it is desirable that Major McLaughlin<a href="../doc/n03" class="internal_link">3</a> or some other official supervise them end quote. I have notified Bonfils<a href="../doc/n04" class="internal_link">4</a>, Cody and Sells.</p>
+  <p>You may proceed along the lines of Colonel Cody's suggestion guarding in every way the welfare of the Indians. Commissioner Sells<a href="#n02" class="internal_link">2</a> sends me the following answer to my telegram to him quote no objection here to having moving pictures made at Pine Ridge in accordance with your telegram twenty sixth if taken on reservation with understanding that such action will not interfere with industrial or educational pursuits or training. Suggest pictures be taken under supervision Superintendent Brennan unless for some special reason it is desirable that Major McLaughlin<a href="#n03" class="internal_link">3</a> or some other official supervise them end quote. I have notified Bonfils<a href="#n04" class="internal_link">4</a>, Cody and Sells.</p>
       
       <span class="closer">
-         <br/>Lane<a href="../doc/n05" class="internal_link">5</a>, Secretary.
+         <br/>Lane<a href="#n05" class="internal_link">5</a>, Secretary.
 </span>
    </div>
 
@@ -45,4 +45,3 @@
   <div class="note">Note 5: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.</div>
 
 </div>
-

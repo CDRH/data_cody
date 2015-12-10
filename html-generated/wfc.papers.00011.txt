@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
 
       <h3>Becoming Buffalo Bill: William F. Cody and the Transformative Effects of the 1862 Railroad and Homestead Acts on the Kansas Great Plains Experience</h3>
@@ -24,4 +24,3 @@
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,25 +20,23 @@
 
       <span class="dateline">Erie. Pa<br/>
 
-July 9th 98<a href="../doc/n01" class="internal_link">1</a>
+July 9th 98<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Bick</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Bick</span>
       </span>
-      <a href="../doc/n02" class="internal_link">2</a>
+      <a href="#n02" class="internal_link">2</a>
 
-      <p>Yours recd— I am just as anxious as you are for the mill— Why the people will run us out of the Country if <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ not built. Try Every body Forbes<a href="../doc/n03" class="internal_link">3</a>— De Mairs<a href="../doc/n04" class="internal_link">4</a> — Russell<a href="../doc/n05" class="internal_link">5</a>— Webster<a href="../doc/n06" class="internal_link">6</a> the Mormon Carpenter<a href="../doc/n07" class="internal_link">7</a>. <span class="persName">Darrah</span>. Tom Percell<a href="../doc/n08" class="internal_link">8</a> to take stock— we must build the mill and there is not a day to <a rel="tooltip" class="sic" title="lose​ ">loose</a>
-    ​. You can count on Me for $2000. Now George jump to it. And <a rel="tooltip" class="sic" title="let's​ ">lets</a>
-    ​ get the work started. Wire me Soon as possible what can be done—</p>
+      <p>Yours recd— I am just as anxious as you are for the mill— Why the people will run us out of the Country if <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> not built. Try Every body Forbes<a href="#n03" class="internal_link">3</a>— De Mairs<a href="#n04" class="internal_link">4</a> — Russell<a href="#n05" class="internal_link">5</a>— Webster<a href="#n06" class="internal_link">6</a> the Mormon Carpenter<a href="#n07" class="internal_link">7</a>. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/darrah.h"/>Darrah</span>. Tom Percell<a href="#n08" class="internal_link">8</a> to take stock— we must build the mill and there is not a day to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a>. You can count on Me for $2000. Now George jump to it. And <a rel="tooltip" class="sic" title="let's​ &#xA;    ">lets</a> get the work started. Wire me Soon as possible what can be done—</p>
 
       <span class="closer">
          <span class="salute">Yours truly</span>
 
          <br/>W. F. Cody</span>
 
-      <p>I <a rel="tooltip" class="sic" title="believe​ ">beleive</a>
-    ​ Newton<a href="../doc/n09" class="internal_link">9</a> will take $500 or a $1000 worth of stock. If work is commenced. <u>rush</u> 
+      <p>I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> Newton<a href="#n09" class="internal_link">9</a> will take $500 or a $1000 worth of stock. If work is commenced. <u>rush</u> 
          <u>it</u>.</p>
 
 
@@ -50,9 +48,11 @@ July 9th 98<a href="../doc/n01" class="internal_link">1</a>
 
    <div class="note">Note 2: Cody misspells "Beck," writing "Bick" instead. </div>
 
-   <div class="note">Note 3: Forbes oversaw the construction of the Cody Trading Company and when the building was completed he was replaced by Jacob M. "Jake" Schwoob who had been manager of the Iroquois Hotel in Buffalo, New York, which was owned by <span class="persName">Henry M. Gerrans</span>.</div>
+   <div class="note">Note 3: Forbes oversaw the construction of the Cody Trading Company and when the building was completed he was replaced by Jacob M. "Jake" Schwoob who had been manager of the Iroquois Hotel in Buffalo, New York, which was owned by <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Henry M. Gerrans</span>.</div>
 
-   <div class="note">Note 4: "De Mairs" is Cody's misspelling of <span class="persName">Charles DeMaris</span>, an early settler in the Big Horn Basin who settled near the warm sulphur springs named for him: DeMaris Springs.</div>
+   <div class="note">Note 4: "De Mairs" is Cody's misspelling of <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/demaris.c"/>Charles DeMaris</span>, an early settler in the Big Horn Basin who settled near the warm sulphur springs named for him: DeMaris Springs.</div>
 
    <div class="note">Note 5: "Russell" may be George S. Russell (1850-1922), the carpenter that built most of the initial buildings of the new town of Cody, Wyoming. </div>
 
@@ -65,4 +65,3 @@ July 9th 98<a href="../doc/n01" class="internal_link">1</a>
    <div class="note">Note 9: "Newton" is likely Abram C. Newton (1864-1959), a local rancher who invested in the town of Cody, Wyoming, donating logs for building the town.</div>
 
 </div>
-

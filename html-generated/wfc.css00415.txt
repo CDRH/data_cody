@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -31,7 +31,7 @@ Col. W. F. Cody, Proprietor<br/>F. H. Garlow, Manager<br/>Buffalo Bill's Hotels 
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <div class="note">Buffalo Bill's Hotel in the Rockies<br/>The Irma<br/>Col. W. F. Cody, Prop<br/>F. H. Garlow, Mgr.<br/>Cody. Wyoming</div>
 
@@ -50,4 +50,3 @@ Pine Ridge Agency
 
 
 </div>
-

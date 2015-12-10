@@ -4,7 +4,7 @@
 <div class="main_content">
    <span class="front">
 
-      <div class="type ">
+      <div class="type">
  
          <span class="hr"> </span>
          <span class="pageimage">
@@ -200,7 +200,7 @@ New York.
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="dedication doublespace ">
+      <div class="dedication">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -220,7 +220,7 @@ U. S. A.</p>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="dedication doublespace ">
+      <div class="dedication">
 
          <h3>To Lieutenant General Sheridan.</h3>
 
@@ -251,7 +251,7 @@ U. S. A.</p>
          </a>
       </span>
 
-      <div class=" doublespace ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>Buffalo Cup</p>
@@ -331,7 +331,7 @@ U. S. A.</p>
       </a>
    </span>
 
-   <div class="chapter ">
+   <div class="chapter">
 
       <h3>Chapter I.</h3>
 
@@ -470,7 +470,7 @@ Evening found us seated at a pleasant dinner at the Sherman House, enlivened by 
 
    </div>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -666,7 +666,7 @@ covered who professed to keep a hotel, but as he had nothing in it to eat, and c
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>Chapter III.</h3>
 
@@ -873,7 +873,7 @@ lected a horse that on our long trip proved himself to be the best of the lot.</
    </div>
 
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.bks00008.28.jpg"
@@ -948,8 +948,7 @@ large or small, the first day's march is the most difficult to begin, and many d
       <h6 class="fw">On the Plains.</h6>
 
 
-      <p>As we passed the Fort, General and Mrs. Amory, with several of the officers and ladies of the garrison, rode out, some on horseback and some in carriages, and we found they intended accompanying us for the first few miles of our journey, making a very pleasant addition to our company. Our road for ten miles wound through a wooded ravine called Cotton-wood Canon, which <a rel="tooltip" class="sic" title="intersected​ ">instersected</a>
-    ​ the high ground or divide, as it is called, lying between the North Platte and Republican rivers.</p>
+      <p>As we passed the Fort, General and Mrs. Amory, with several of the officers and ladies of the garrison, rode out, some on horseback and some in carriages, and we found they intended accompanying us for the first few miles of our journey, making a very pleasant addition to our company. Our road for ten miles wound through a wooded ravine called Cotton-wood Canon, which <a rel="tooltip" class="sic" title="intersected​ &#xA;    ">instersected</a> the high ground or divide, as it is called, lying between the North Platte and Republican rivers.</p>
 
       <p>With pleasant society, and in the fresh morning air, the first ten miles of our day's journey were rapidly passed over, until surmounting a sharp and long hill, we emerged from the Canon upon the higher ground, and there halted for lunch, and to say farewell to our kind friends from the Fort, from whom we parted with great regret. Their genial hospitality and kind interest for our comfort had made them seem like old friends, and we all retain warm recollections of the pleasant time we passed at Fort McPherson, and the friends we met at that place.</p>
 
@@ -1090,7 +1089,7 @@ they will never, if it can be avoided, meet in open combat an enemy who may have
 
    </div>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.bks00008.36.jpg"
@@ -1308,7 +1307,7 @@ ables. Their principal occupation was hunting; and around the settlement were la
       </div>
    </div>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -1451,7 +1450,7 @@ where he still remains in the service of his country. After a pleasant march of 
 
    </div>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -1464,8 +1463,8 @@ where he still remains in the service of his country. After a pleasant march of 
       </span>
 
       <h3>
-         <a rel="tooltip" class="sic" title="Chapter VII​ ">Chapter VIII.</a>
-    ​</h3>
+         <a rel="tooltip" class="sic" title="Chapter VII​ &#xA;    ">Chapter VIII.</a>
+      </h3>
 
       <h3>Day at Camp Cody—Porcupine—Hunting Jack Rabbits—Coyotes—Elk, Antelope, Wild Turkeys—Dinner—Court-Martial.</h3>
 
@@ -1616,7 +1615,7 @@ strong reason to believe he had something to do with the mysterious disappearanc
       <p>This impressive exhibition of justice concluded, all returned to rest, sadder and wiser men.</p>
    </div>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.bks00008.57.jpg"
@@ -1630,8 +1629,7 @@ strong reason to believe he had something to do with the mysterious disappearanc
 
       <h3>Chapter VIII.</h3>
 
-      <h3>Early Start—Crossing the South Beaver—Camp on Short—Nose Creek—Buffalo, Turkeys—Party Lost—Camp Stager—March to the North <a rel="tooltip" class="sic" title="Solomon​ ">Solom n</a>
-    ​—Beaver Dam—Camp Jerome— Helping the Mules—Interesting Relics.</h3>
+      <h3>Early Start—Crossing the South Beaver—Camp on Short—Nose Creek—Buffalo, Turkeys—Party Lost—Camp Stager—March to the North <a rel="tooltip" class="sic" title="Solomon​ &#xA;    ">Solom n</a>—Beaver Dam—Camp Jerome— Helping the Mules—Interesting Relics.</h3>
 
       <p>A Portion of the command made a very early start on the morning of the 28th, thirty men, under Lieutenant Hayes, being sent forward nine miles to the South Beaver River, to prepare a crossing place for the main body, which was to leave camp at the usual time.</p>
 
@@ -1731,7 +1729,7 @@ tended the hospitalities of his new possession in a most satisfactory manner, an
       </div>
    </div>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -1750,8 +1748,7 @@ tended the hospitalities of his new possession in a most satisfactory manner, an
 
       <p>The morning of the 30th was clear and bright, and at our usual hour we started for the day's march. A very heavy wind prevailed all day, blowing with a force that is experienced only at sea, or on the vast, unbroken plains of the West. We found no game except a few buffalo during the day until our march had been completed, when a good flock of turkeys was started in the woods on the banks of South Fork of the Solomon River, where we halted, after having made twenty-five miles. Nine of the turkeys were shot, which, with two rabbits and three or four buffalo, were all the game obtained that day.</p>
 
-      <p>In the evening an accident happened to Gen. Sheridan's grayhound, which, while coursing a rabbit, ran against and almost impaled herself upon a sharp, projecting limb of a tree that had been cut down, running the wood more than three <a rel="tooltip" class="sic" title="inches​ ">inches inches</a>
-    ​ into her chest. The valuable service of our medical staff were at once called into requisition, and the piece of wood being extracted, the poor dog was
+      <p>In the evening an accident happened to Gen. Sheridan's grayhound, which, while coursing a rabbit, ran against and almost impaled herself upon a sharp, projecting limb of a tree that had been cut down, running the wood more than three <a rel="tooltip" class="sic" title="inches​ &#xA;    ">inches inches</a> into her chest. The valuable service of our medical staff were at once called into requisition, and the piece of wood being extracted, the poor dog was
 
 
 
@@ -1835,7 +1832,7 @@ plete suit of red flannel, who accompanied the chief in command of the party, wa
 
    </div>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -1942,4 +1939,3 @@ dertook. This duty was assumed with some reluctance, by one who has never before
 
 
 </div>
-

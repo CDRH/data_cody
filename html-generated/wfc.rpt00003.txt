@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -132,7 +132,7 @@ President.</span>
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class="notarization doublespace ">
+   <div class="notarization">
 
       <span class="ab">STATE OF COLORADO  }<br/>
 City &amp;             } SS.<br/>
@@ -179,7 +179,7 @@ Notary Public.
       </a>
    </span>
 
-   <div class="endorsement doublespace ">
+   <div class="endorsement">
       <span class="ab">ENDORSED<br/>
 NO. 48575</span>
 
@@ -214,4 +214,3 @@ V.</span>
 
 
 </div>
-

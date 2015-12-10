@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -17,23 +17,24 @@
       </span>
 
 
-      <span class="dateline">Sioux Falls S. Dak.<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Sioux Falls S. Dak.<a href="#n01" class="internal_link">1</a>
          <br/>
 
 Sep 21/96</span>
 
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
 
-      <p>Recd. the Otto Courier<a href="../doc/n02" class="internal_link">2</a>— I think it would be a good idea to keep your offer of Lots— Park &amp; $5000— with a write up in the Courier each issue till Election— <u>pay</u> 
+      <p>Recd. the Otto Courier<a href="#n02" class="internal_link">2</a>— I think it would be a good idea to keep your offer of Lots— Park &amp; $5000— with a write up in the Courier each issue till Election— <u>pay</u> 
          <u>for</u> 
-         <u>it</u> then they will be sure to put it in— If there is <a rel="tooltip" class="sic" title="another​ ">annother</a>
-    ​ paper in the Co<a href="../doc/n03" class="internal_link">3</a> do the same thing with it—</p>
+         <u>it</u> then they will be sure to put it in— If there is <a rel="tooltip" class="sic" title="another​ &#xA;    ">annother</a> paper in the Co<a href="#n03" class="internal_link">3</a> do the same thing with it—</p>
 
       <p>
-         <span class="persName">Salsbury</span> says if you land the County Seat— You are a Dandy—</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> says if you land the County Seat— You are a Dandy—</p>
 
 
       <p>Go to Em</p>
@@ -53,4 +54,3 @@ Sep 21/96</span>
    <div class="note">Note 3: County.</div>
 
 </div>
-

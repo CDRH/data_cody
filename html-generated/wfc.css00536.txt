@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00536.jpg"
@@ -18,21 +18,19 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
 
-      <span class="dateline">Binghamton. N. Y.<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Binghamton. N. Y.<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
 July 18th 99</span>
 
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
-      <p>I was glad to hear that you had been to see the Coal fiends<a href="../doc/n02" class="internal_link">2</a>— <a rel="tooltip" class="sic" title="Don't​ ">Dont</a>
-    ​ you think it a good proposition to look after— Am anxious to hear where the Surveyors are at— Wish you could go down and trace the croppings. And I think we had better do some <a rel="tooltip" class="sic" title="staking​ ">stakeing</a>
-    ​ and <a rel="tooltip" class="sic" title="filing​ ">fileing</a>
-    ​— <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ you? let me hear from you on the subject— Hope you will all have a nice time on the pleasure trip<a href="../doc/n03" class="internal_link">3</a>— remember Remington<a href="../doc/n04" class="internal_link">4</a> has a mouth and likes his toddy— so stay with him. <span class="persName">Gerrans</span> says that whiskey is the best— </p>
+      <p>I was glad to hear that you had been to see the Coal fiends<a href="#n02" class="internal_link">2</a>— <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> you think it a good proposition to look after— Am anxious to hear where the Surveyors are at— Wish you could go down and trace the croppings. And I think we had better do some <a rel="tooltip" class="sic" title="staking​ &#xA;    ">stakeing</a> and <a rel="tooltip" class="sic" title="filing​ &#xA;    ">fileing</a>— <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you? let me hear from you on the subject— Hope you will all have a nice time on the pleasure trip<a href="#n03" class="internal_link">3</a>— remember Remington<a href="#n04" class="internal_link">4</a> has a mouth and likes his toddy— so stay with him. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span> says that whiskey is the best— </p>
 
 
       <span class="closer">
@@ -52,4 +50,3 @@ July 18th 99</span>
 
 
 </div>
-

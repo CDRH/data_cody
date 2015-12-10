@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -128,7 +128,7 @@ President.</span>
       </a>
    </span>
 
-   <div class="notarization doublespace ">
+   <div class="notarization">
       <span class="ab">STATE OF Colorado  }<br/>
          } SS.<br/>
 County of Denver   }</span>
@@ -175,7 +175,7 @@ Notary Public.
       </a>
    </span>  
 
-   <div class="endorsement doublespace ">
+   <div class="endorsement">
       <span class="ab">ENDORSED
 No. 56666</span>
 
@@ -208,4 +208,3 @@ O. H. M.</span>
 
 
 </div>
-

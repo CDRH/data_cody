@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <div class="note">National Prtg. &amp; Eng. Co., 7th &amp; Elm Sts., St. Louis, Mo.<br/>
 Miller &amp; Arlington Wild West Show Co., Inc., Present<br/>
          <div class="inline_figure">
@@ -29,4 +29,3 @@ George Arlington, General Manager<br/>
 
 
 </div>
-

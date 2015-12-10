@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11348.jpg"
@@ -30,4 +30,3 @@
       <p>This evening's exhibition at the Home Club will be the most important, as invitations have been extended to President Wilson, members of the Cabinet, and many distinguished officials of the Government. Secretary of the Interior Lane, president of the Home Club, will preside.</p>
    </div>
     </div>
-

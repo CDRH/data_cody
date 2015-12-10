@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,14 +23,16 @@
 
       <span class="dateline">Aug. 26/07</span>
 
-      <span class="persName">Bronson Rumsey</span>
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>
 
 Pittsfield Mass.
 
 <span class="salute">Dear Sir:</span>
 
 
-      <p>As requested in yours of the 18<u>th</u>, I enclose certified copy of Letters of Administration issued to use in the matter of the Estate of <span class="persName">Horace C. Alger</span> deceased.</p>
+      <p>As requested in yours of the 18<u>th</u>, I enclose certified copy of Letters of Administration issued to use in the matter of the Estate of <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Horace C. Alger</span> deceased.</p>
 
       <p>Can you make me a statement of the condition of the interest of the Alger estate in the Cody Townsite Co.?</p>
 
@@ -44,7 +46,7 @@ Pittsfield Mass.
 
 
 
-   <div class=" doublespace ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.lgl00026.002.jpg"
@@ -163,7 +165,7 @@ County of Sheridan.)</em>
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <span class="ab">
          <div class="center">
             <em class="hi">No.</em> 226</div>
@@ -213,7 +215,7 @@ By</em>. . . . . . . . . . . . . . .<em class="hi">Deputy.</em>
 
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
 
       <span class="ab">State of Wyoming,)<br/>
 County of Sheridan) SS.</span>
@@ -234,4 +236,3 @@ Clerk of Court.
 
 
 </div>
-

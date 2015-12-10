@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Hoffman House, Broadway, Madison Square</div>
@@ -45,4 +45,3 @@ June 12 1888
 
 
 </div>
-

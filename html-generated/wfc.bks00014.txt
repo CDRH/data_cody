@@ -30,7 +30,7 @@
          </a>
       </span>
             
-            <div class=" ">
+            <div class="">
                 <div class="inline_figure">
             <div class="p">[illustration]</div>
                     <span class="ab">THE AUTHOR CONSULTING HER BROTHER</span>
@@ -52,7 +52,7 @@
                     <span class="titlePart">LAST OF THE GREAT SCOUTS</span>
                     <span class="titlePart">THE LIFE STORY OF <br/> COL. WILLIAM F. CODY <br/> ("BUFFALO BILL")</span>
                 
-                <span class="docAuthor">AS TOLD BY HIS SISTER <br/> HELEN CODY WETMORE</span>
+                AS TOLD BY HIS SISTER <br/> HELEN CODY WETMORE
             </span>
             
             <span class="hr"> </span>
@@ -80,7 +80,7 @@
          </a>
       </span>
             
-            <div class="dedication doublespace ">
+            <div class="dedication">
                 <span class="l">Dedicated,</span>
                 <span class="l">TO THE MEMORY OF A </span>
                 <span class="l">SAINTED MOTHER,</span>
@@ -99,7 +99,7 @@
          </a>
       </span>
             
-            <div class="preface doublespace ">
+            <div class="preface">
                 <h3>PREFACE.</h3>
                 <p>In presenting this volume to the public, the writer has a two-fold purpose.  For a number of years there has been an increasing demand for an authentic biography of "Buffalo Bill," and in response, many books of varying value have been submitted, yet no one of them has borne the hall-mark of veracious history.  Naturally, there were incidents in Colonel Cody's life—more especially in the earlier years—that could be given only by those with whom he had grown up from childhood.  For many incidents of his later life I am indebted to his own and others' accounts.  I desire to acknowledge obligation to General P. H. Sheridan, Colonel Inman, Colonel Ingraham and my brother, for valuable assistance furnished by Sheridan's Memoirs, "The Santa Fé Trail," "The Great Salt Lake Trail," "Buffalo Bill's Autobiography," and "Stories From the Life of Buffalo Bill."</p>
                 <p>A second reason that prompted the writing of Colonel Cody's life-story is purely personal.  The sobriquet of "Buffalo Bill" has conveyed to many people an impression of his personality that is far removed from the facts.  They have pictured in fancy a rough frontier character, without tenderness and true nobility.  But in very truth has the poet sung:</p>
@@ -135,7 +135,7 @@
          </a>
       </span>
             
-            <div class="contents doublespace ">
+            <div class="contents">
                 <h3>CONTENTS.</h3>
                 <table>
                     <tr>
@@ -594,7 +594,7 @@
          </a>
       </span>
             
-            <div class="contents doublespace ">
+            <div class="contents">
                 <h3>LIST OF FULL PAGE ILLUSTRATIONS.</h3>
                 <table>
                     <tr>
@@ -695,7 +695,7 @@
    </span>
         
         
-            <div class="chapter ">
+            <div class="chapter">
                 <h3>LAST OF THE GREAT SCOUTS</h3>
                 <h3>CHAPTER I.</h3> 
                 <h3>THE OLD HOMESTEAD IN IOWA—DEATH OF SAMUEL CODY—A STRANGE PROPHECY AND ITS FULFILMENT—THE MIGRATION TO KANSAS—FIRST NIGHT IN CAMP, AND WILL'S FIRST DEER—THE RESCUE OF TURK—AN AFRICAN APPARITION—TEMPORARY STOP IN MISSOURI.</h3>
@@ -797,7 +797,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER II.</h3> 
                 <h3>WILL'S FIRST INDIAN—A HORSE TRADE SPOILED—THE GREAT OVERLAND TRAIL—THE KANSAS-NEBRASKA BILL—THE HOME IN KANSAS—TWO BABES, A DOG AND A PANTHER—THE FEARLESS FIDELITY OF TURK—WILL TO THE RESCUE.</h3>
                 <p>MY uncle's home was in Weston, Platte County, Missouri, at that time <em class="hi">the</em> large city of the West.  As father was desirous of settling again as soon as possible, he left us at Weston, and after resting a bit, himself crossed the Missouri River on a prospecting tour, accompanied by Will and a guide.  More than one day went by in the quest for a desirable location, and one morning Will, wearied in the reconnaissance, and not yet rested from our former journey, was left asleep at the night's camping-place, while father and the guide rode away to the day's exploring.</p>
@@ -903,7 +903,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER III.</h3>
                 <h3>THE SHADOW OF PARTISAN STRIFE—FATHER'S POLITICAL STANDING—THE MEETING AT RIVELY'S—FATHER AVOWS HIS FREE STATE SYMPATHIES AND IS STRUCK DOWN—BEGINNING OF THE PERSECUTION—RUFFIAN VISITORS—THE FLIGHT TO DONIPHAN—COL. JIM LANE AND HIS BAND OF AVENGERS—FATHER'S RETURN.</h3> 
                 <p>OWING to the conditions under which Kansas was settled, already spoken of, all classes were represented in its population.  Honest, thrifty farmers and well-to-do traders leavened a lump of shiftless ne'er-do-wells, lawless adventurers and vagabonds of all sorts and conditions.  If father at times questioned the wisdom of the step that took us to this new and untried land, he kept his own counsel, and set a brave face against the future.</p>
@@ -1006,7 +1006,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER IV.</h3> 
                 <h3>PERSECUTION CONTINUES—THE ADVENTURES OF MR. SHARPE—A NIGHT ATTACK—OUTWITTED BY A WOMAN—THE SAWMILL AT GRASSHOPPER FALLS—WILL TAKES THE ROAD—THE AMBUSH AT BIG STRANGER'S CREEK—A RIDE TO SAVE A FATHER'S LIFE—THE LE COMPTON LEGISLATURE—OHIO EMIGRANTS—DEATH OF ISAAC CODY.</h3> 
                 <p>MOTHER'S fears were well grounded.  A few days after father's home-coming, a man named Sharpe, who disgraced the small office of justice of the peace, rode up to our house very much the worse for liquor, and informed mother that his errand was to "search the house for that abolition husband of yours."  As a preliminary, the intoxicated ruffian demanded something to eat, and condescended to accept an appetizing supper, which mother, with a show of hospitality, set before him.</p>
@@ -1140,7 +1140,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER V.</h3>
                 <h3>AN UNJUST CLAIM—WILL SIGNS A PLEDGE—THE "BOY EXTRA" OF THE BULL-TRAIN—ATTACKED BY INDIANS—THE FLIGHT BY THE RIVER—WILL'S FIRST DEAD INDIAN—ARRIVAL AT FORT KEARNEY—THE WRECK OF THE BULL-TRAIN.</h3>
                 <p>AT this sorrowful period mother was herself almost at death's door with consumption, but, far from sinking under the blow, she faced the new conditions with a steadfast calm, realizing that, should she too be taken, her children would be left without a protector, at the mercy of the enemies whose malignity had brought their father to an untimely end.  Her indomitable will opposed her bodily weakness.  "I will not die," she told herself, "until the welfare of my children is assured."  She was needed, for our persecution continued.</p>
@@ -1280,7 +1280,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER VI.</h3>
                 <h3>THE LAWSUIT—LAWYER DOUGLASS'S PLEA—ARRIVAI OF THE MISSING WITNESS—SISTER MARTHA'S WEDDING—THE GERM OF THE WILD WEST SHOW—AN EXPERIENCE WITH HARD CIDER—OFF FOR FORT BRIDGER—RAIDED BY DANITES—WINTER QUARTERS AND SHORT RATIONS.</h3> 
                 <p>THE fame to which Byron woke, one historic morning, was no more unexpected to him than that which now greeted unassuming Will with warlike laurels.  The trainmen had not been over-modest in their accounts of his pluck, and when a newspaper reporter lent the magic of his gifted imagination to the plain narrative it became quite a story.  "The Boy Indian Slayer;" thus ran the headlines.  "'Tis pleasant, sure, to see one's name in print."</p>
@@ -1406,7 +1406,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER VII.</h3> 
                 <h3>HEMMED IN BY INDIANS—THE DEAD-MULE BARRICADE—A DREAM THAT SAVED THREE LIVES—SISTER MARTHA'S DEATH—WILL GOES TO SCHOOL—TURK'S RESCUE OF HIS MASTER—THE FIGHT WITH STEVE GOBEL—OFF FOR THE PLAINS AGAIN.</h3> 
                 <p>IT was an irksome Winter.  The men at the Fort hauled their firewood two miles; as the supplies dwindled, one by one the oxen were slaughtered, and when this food supply was exhausted, starvation reared its gaunt form.  Happily the freighters got word of the situation, and a large supply team reached the fort before the spring was fairly opened.</p>
@@ -1604,7 +1604,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER VIII.</h3>
                 <h3>THE VALLEY GROVE HOUSE—A TRAPPING EXPEDITION AND A BRUSH WITH INDIANS—A CAVE OF HORRORS—THE DEATH AND BURIAL OF TURK—A MILD ATTACK OF GOLD FEVER—WILL AS A PONY EXPRESS RIDER.</h3>
                 <p>THIS trip of Will's covered only two months, and was without adventure—stirring or otherwise.  It was succeeded by another uneventful expedition with a boss named Buck Bomer to the new post at Fort Wallace, at Cheyenne Pass.</p>
@@ -1811,7 +1811,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER IX.</h3>
                 <h3>THE PONY EXPRESS IS "HELD UP"—ANOTHER TRAPPING EXPEDITION—FIGHT WITH A BEAR—A BROKEN LEG—ALONE IN THE DUG-OUT—AN INDIAN VISIT, AND A TOUCH OF AULD LANG SYNE—A DESPERATE SITUATION—AN ELEVENTH-HOUR RESCUE—HOME AGAIN—DEATH OF DAVE PHILLIPS.</h3>
                 <p>AFTER being pounded against a saddle, three dashes daily for three months, to the tune of fifteen miles an hour, Will began to feel a little loose in his joints, and weary withal, but he was determined to "stick it out."  Besides the daily pounding, the track of the Pony Express rider was strewn with perils.  A wayfarer through that wild land was as like to run afoul of outlaws and Indians as to pass unmolested, and as it was known that packages of value were frequently dispatched by the Pony Express line, the route was punctuated by ambuscades.</p>
@@ -1941,7 +1941,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER X.</h3> 
                 <h3>ECHOES FROM SUMTER—A STATION ON THE UNDERGROUND RAILWAY—UNCLE TOM AND HIS SUFFERINGS—WILL DROPS HIS FIRST BUFFALO, AND SAVES A LIFE—WITH THE PONY EXPRESS AGAIN—CALIFORNIA JOE—INDIAN TROUBLES—WILD BILL.</h3> 
                 <p>THE guns that opened on Fort Sumter set the country all ablaze.  In Kansas, where blood had already been shed, the excitement was at an extraordinary pitch.  Will was for enlisting, but mother would not listen to the idea.</p>
@@ -2105,7 +2105,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XI.</h3> 
                 <h3>THE WORK OF THE "BLACK WATER," AND THE RETRIBUTION—A SHORT BUT DASHING INDIAN CAMPAIGN—A BEAR HUNT WITHOUT A BEAR—IN A DEN OF HORSE THIEVES—WHAT CAME OF PICKING UP SAGE HENS—GOVERNMENT FREIGHTING.</h3> 
                 <p>AS Will was one of the laid-off riders he was allowed to join the expedition against the Indian depredators, though he was the youngest member of the company by perhaps twice his years.</p>
@@ -2242,7 +2242,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XII.</h3>
                 <h3>THE MOTHER'S LAST ILLNESS—HER CHARGE TO THE WRITER—LAST MESSAGE FOR WILL AND JULIA—HER DEATH.</h3> 
                 <p>IT was now the autumn of 1863, and Will was a well-grown young man, tall, strong and athletic, though not yet quite eighteen years old.  Our oldest sister, Julia, had been married, the spring preceding, to Mr. J. A. Goodman, but they remained in the old home because of mother's failing health.</p>
@@ -2341,7 +2341,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XIII.</h3>
                 <h3>A FRONTIER FUNERAL—OFF TO THE WAR—WILL AS DISPATCH BEARER—AN AMBUSCADE THAT FAILED—DEATH OF ED NORCROSS—AN ECONOMICAL ADMINISTRATOR AND A LESSON IN ECONOMY—WILL REPORTS FOR "SECRET SERVICE"—A PERILOUS MISSION.</h3>
                 <p>THE morning of the 22d of November, 1863, began the saddest day of our lives.  When father died most of the children were too young to realize how great was their loss; and then, we had mother left to comfort us.  Now, bereft of both father and mother, the future looked blank and desolate.</p>
@@ -2544,7 +2544,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XIV.</h3> 
                 <h3>THE ROLE OF A SPY—IN THE LION'S DEN—A RIDE FOR LIFE—INDIAN TROUBLE ON THE OLD SANTE FE TRAIL—WILL'S FIRST BIG BATTLE—WILD BILL AGAIN—BREAD CAST UPON THB WATERS—COLONEL HICKOK'S DARING DASH.</h3> 
                 <p>IN common walks of life to play the spy is an ignoble role; in war it is one the noblest of men must sometimes play, however ungrateful the commission may be.</p>
@@ -2759,7 +2759,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XV.</h3>
                 <h3>A ST. LOUIS DETAIL—THE FAIR EQUESTRIENNE—A RESCUE AND A BETROTHAL—THE OVERLAND STAGE ROUTE—WILL AS A DRIVBR—ANOTHER RACE FOR LIFE—TURN ABOUT AT "HOLDING UP" IS FAIR PLAY.</h3>
                 <p>NOT long after the battle of Pilot Knob Will was assigned to special service at military headquarters in St. Louis.  From girlhood to the time of her death mother had maintained a correspondence with one of her schoolmates, who became the wife of General Polk, and when the general's wife learned that a son of her old friend was in the Union army, she used her influence to obtain an excellent position for him.  Will was not wholly pleased.  His new duties lacked excitement and the spice of danger that long had flavored his existence.  Yet his St. Louis detail proved an important turning point in his life, for he made the acquaintance of the lady who afterward became his wife.</p>
@@ -2976,7 +2976,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XVI.</h3> 
                 <h3>THE WEDDING—WILL TURNS LANDLORD—FIRST EFFORT AS AN INDIVIDUAL FREIGHTER, AND ITS DISASTROUS ENDING—SCOUTING AT FORT FLETCHER—THE MEETING WITH GENERAL CUSTER—THE MOUSE-COLORED MULE—A VOICE IN THE NIGHT—"THE COLORED TROOPS FIGHT NOBLY"—THE CITY OF ROME.</h3>
                 <p>WHEN Will reached home he found another letter from Miss Frederici, who, agreeably to his request, had fixed the wedding day, March 6, 1866.  This date was not far distant, although of course each hour between seemed an eternity.</p>
@@ -3249,7 +3249,7 @@
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XVII.</h3> 
                 <h3>HOW THE SOBRIQUET OF "BUFFALO BILL" WAS WON—THE REMARKABLE PERFORMANCES OF BRIGHAM AND LUCRETIA BORGIA—A CONTEST OF SKILL IN BUFFALO HUNTING—WILL RETURNS TO SCOUTING—A DANGEROUS RIDE—A TRICKY MULE, AND WHAT HAPPENED TO IT.</h3> 
                 <p>IN frontier days a man had but to ask for work to get it.  There was enough and to spare for every one.  The work that paid best was the kind that suited Will, it mattered not how hard or dangerous it might be.</p>
@@ -3405,7 +3405,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XVIII.</h3> 
                 <h3>SATANTA, CHIEF OF THE KIOWAS—SCOUT CODY IS CAPTURED AND TOMAHAWKED "FOR A JOKE"—A STERN CHASE—ONE WAY OF BRINGING MEAT INTO CAMP—GENERAL CARR'S EXPEDITION—A BIG BATTLE WITH THE REDSKINS.</h3>
                 <p>WITHIN plain view of Fort Larned lay a large camp of Kiowas and Comanches.  They were not yet bedaubed with war paint, but they were as restless as a panther in a cage, and it was only a matter of days when they would whoop and howl with the loudest.</p>
@@ -3581,7 +3581,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XIX.</h3> 
                 <h3>AT FORT MCPHERSON—PAWNEE SCOUTS—"BUCKSKIN JOE"—THE CAMPAIGN AGAINST THE SIOUX—THE STAND IN THE RAVINE—A LONG SHOT, AND THE FALL OF TALL BULL—HIS WIDOW'S SENTIMENTS.</h3> 
                 <p>IN due time the Fifth Cavalry reached Fort McPherson.  General Augur was in command of the Department of the Platte, with his headquarters at Omaha.  Will's fancy had been so taken by the scenery along the line of march that he proceeded to explore the country around McPherson, the result being a determination to make his future home in the Platte Valley.</p>
@@ -3688,7 +3688,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XX.</h3>
                 <h3>ARMY LIFE AT FORT MCPHERSON—A BUFFALO HUNT, AND WHAT CAME OF IT—"WILLIAM F. CODY, JUSTICE OF THE PEACE"—THE BEACON ON THE HILLTOP—NED BUNTLINE—THE SIOUX LEGEND OF THE CREATION—THE GREAT SPIRIT'S MASTERPIECE.</h3> 
                 <p>IN the spring of '70 Will proceeded to put into effect the determination of the previous year—to establish a home in the lovely country of the westerly Platte.  After preparing quarters wherein his family might be comfortable, he obtained a leave of absence and departed for St. Louis to fetch his wife and daughter Arta, now a beautiful child of three.</p>
@@ -3884,7 +3884,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXI.</h3>
                 <h3>ANOTHER MARRIAGE—A LODGE in THE WILDERNESS—AN INDIAN RAID AND THE DEATH OF LITTLE JOHN—FRONTIER BANKING—A MIRAGE—SMOKED OUT—GENERAL DUNCAN'S EXPEDITION—DISTINGUISHED VISITORS—A VISIT TO SPOTTED TAIL.</h3> 
                 <p>ALTHOUGH the glory of killing the buffalo on our hunt was accredited to sister May, to me the episode proved of much more moment.  In the spring of '71 I was married to Mr. Jester, the bachelor ranchman at whose place we had tarried on our hurried return to the fort.  His house had a rough exterior, but was substantial and commodious, and before I entered it, a bride, it was refitted in a style almost luxurious.  I returned to Leavenworth to prepare for the wedding, which took place at the home of an old friend, Thomas Plowman, his daughter Emma having been my girlhood's chum.</p>
@@ -4049,7 +4049,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXII.</h3>
                 <h3>THE HUNT OF THE GRAND DUKE ALEXIS—A RIDE TO BE REMEMBERED—JOURNEY TO THE EAST—A CALL FOR A DRAMATIC HERO—SOCIAL OBLIGATIONS—WILL PLAYS LUCULLUS, AND IS STAGGERED BY THE COST THEREOF—A VISIT TO PENNSYLVANIA RELATIVES.</h3> 
                 <p>A SPECIAL train brought the Grand Duke Alexis and party to North Platte on January 12, 1872.  Will was presented to the illustrious visitor by General Sheridan and was much interested in him.  He was also pleased to note that General Custer made one of the party.</p>
@@ -4166,7 +4166,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXIII.</h3>
                 <h3>STOLEN HORSES—WILL IS ELECTED TO THE NEBRASKA LEGISLATURE—A THEATRICAL VENTURE—REMARKABLE PERFORMANCE OF "THE SCOUT OF THE PLAINS"—WILD BILL GROWS RESTLESS—WILL ORGANIZES A THEATRICAL COMPANY OF HIS OWN—DEATH OF KIT CARSON CODY.</h3> 
                 <p>UPON Will's return to McPherson he was at once obliged to take the field to look for Indians that had raided the station during his absence and carried off a considerable number of horses.  Captain Meinhold and Lieutenant Lawson commanded the company dispatched to recover the stolen property.  Will acted as guide, and had as an assistant T. B. Omohundro, better known by his frontier name of "Texas Jack."</p>
@@ -4332,7 +4332,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXIV.</h3> 
                 <h3>THE SIOUX UPRISING OF '76—SITTING BULL—THE CAUSE OF THE WAR—CUSTER'S CAMPAIGN—THE FIFTH CAVALRY'S BRUSH WITH CHEYENNES—A PRAIRIE DUEL—THE SIOUX WAR ON THE MIMIC STAGE—"SCOUT'S REST RANCH"—AN OASIS IN THB DESERT.</h3>
                 <p>VERY glad was the sad-hearted father that the theatrical season was so nearly over.  The mummeries of stage life were more distasteful to him than ever when he returned to his company with his crushing grief fresh upon him.  He played nightly to crowded houses, but it was plain that his heart was not in his work.  A letter from Colonel Mills, informing him that his services were needed in the army, came as a welcome relief.  He canceled his few remaining dates, and disbanded his company with a substantial remuneration.</p>
@@ -4461,7 +4461,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXV.</h3>
                 <h3>LITERARY WORK—COLONEL CODY'S AUTOBIOGRAPHY—GUESTS AT NORTH PLATTE—A DEER HUNT—WHY THE FAWN WENT FREE—THE RANCH ON THE DISMAL RIVER—NINE DAYS' CAMP IN THE FOOTHILLS—AN ESTIMATE OF COLONEL CODY'S SUCCESS AS AN ACTOR.</h3>
                 <p>IT was during this period of his life that my brother's first literary venture was made.  As the reader has seen, his school days were few in number, and as he told Mr. Majors, in signing his first contract with him he could use a rifle better than a pen.  A life of constant action on the frontier does not leave a man much time for acquiring an education; so it is no great wonder that the first sketch Will wrote for publication was destitute of punctuation and short of capitals in many places.  His attention was directed to these shortcomings, but Western life had cultivated a disdain for petty things.</p>
@@ -4656,7 +4656,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXVI.</h3>
                 <h3>FIRST VISIT TO THE VALLEY OF THE BIG HORN—AN INDIAN DESCRIPTION OF EITHITY TUGALA, THE IJIS OF THE RED MAN—COLONEL CODY'S ACCOUNT OF THE BEAUTIES OF THE BIG HORN BASIN—THE HAUNTED LAKE—THE COMMANDS OF THE GREAT SPIRIT FROM AN INDIAN POINT OF VIEW.</h3>
                 <p>MY brother was again bereaved in 1880, by the visit of the Death Angel, when his little daughter Orra was called home.  Her death forged another link in the gradually lengthening chain that unites earth and heaven.  One by one the company on the other side grows larger; one by one the treasures increase above, to draw upward the eyes set on earthly success.  At her own request, Orra's body was interred in Rochester, in beautiful Mount Hope Cemetery, by the side of little Kit Carson.  Here brother and sister peacefully await the sounding of the last trump.</p>
@@ -4801,7 +4801,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXVII.</h3>
                 <h3>ORGANIZATION OF THE "WILD WEST SHOW"—OPENING AT OMAHA—TOUR OF GREAT BRITAIN—SPECTACULAR EFFECTS—IN LONDON—LUNCHEON IN HONOR OF GLADSTONE—PATRONAGE OF ROYALTY—THE QUEEN'S SALUTE TO THE AMERICAN FLAG—THE DEADWOOD COACH—INDIAN BREAKFASTS—HOMEWARD BOUND.</h3>
                 <p>IT was not until the spring of 1883 that Will was able to put into execution his long-cherished plan, to present to the public an exhibition that should delineate, in part at least, the wild life of America; a life that the most of his countrymen were as ignorant of as the people of Europe.  Thus came into existence "The Wild West Show," and the first performance was held at Omaha, in the state Will had chosen for his home.</p>
@@ -4994,7 +4994,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXVIII.</h3>
                 <h3>RETURN OF THE WILD WEST SHOW TO AMERICA—A LETTER FROM W. T. SHERMAN—THE SEASON ON STATEN ISLAND—AN INVITATION TO LEAD IN PRAYER—OFF FOR EUROPE AGAIN—THE SOJOURN IN PARIS—ROSA BONHEUR—POPE LEO'S ANNIVERSARY—THE COWBOYS SHOW THE ITALIANS SOME POINTS IN HORSE TAMING—TOUR OF GERMANY.</h3>
                 <p>WHEN the Wild West show returned to America from its first venture across seas, the sail up the harbor was described by the <em class="hi">New York World</em> in the following words:</p>
@@ -5171,7 +5171,7 @@ handsome horse, which had a blind bridle and no saddle.  It was not a formidable
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXIX.</h3>
                 <h3>RETURN TO AMERICA—THE SIOUX UPRISING OF '91—INFLUENCE EXERTED OVER THE INDIANS BY THE WILD WEST SHOW—WILL'S OPINION OF GENERAL MILES—BANQUET IN HONOR OF THE GENERAL—BURNING OF "WELCOME WIGWAM"—BACK TO EUROPE—END OF THE FOREIGN TOUR.</h3>
                 <p>IN view of the success achieved by my brother in every walk of life he set foot on, it is remarkable that he excited so little envy.  For the first time in his life he felt the breath of slander on his cheek, and it flushed hotly.  From an idle remark, that the Indians in the Wild West Show were not properly treated, the idle gossip grew to the proportion of malicious and insistent slander.  The Indians being government wards, such a charge might easily become a serious matter; for like the man that beat his wife, the government believes it has the right to maltreat the red man to the top of its bent, but that no one else shall be allowed to do so.</p>
@@ -5311,7 +5311,7 @@ blazes.</em>"</p>
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXX.</h3>
                 <h3>A THOUSAND MILES IN THE SADDLE WITH "BUFFALO BILL"—"THE GARDEN OF THE GODS"—PREPARATIONS FOR THE WORLD'S FAIR—"THE CONGRESS OF ROUGH RIDERS"—NEWSPAPER ENTERPRISE IN DULUTH—CODY SANATORIUM.</h3>
                 <p>EUROPEAN army officers of all nationalities regarded my brother with admiring interest.  To German, French, Italian, or British eyes, he was a commanding personality, and also the representative of a peculiar and interesting phase of new-world life.  Recalling their interest in his scenes from his native land, so unlike anything to be found in Europe to-day, Will invited a number of these officers to accompany him on an extended hunting trip through Western America.</p>
@@ -5427,7 +5427,7 @@ blazes.</em>"</p>
       </a>
    </span>
             
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXXI.</h3>
                 <h3>"THE TENTED CITY"—AN INCIDENT IN A BOSTON HOSPITAL—THE WILD WEST VISITS NORTH PLATTE—CODY DAY AT THE OMAHA EXPOSITION—A REUNION OF PIONEERS.</h3>
                 <p>SINCE 1893 the Wild West exhibitions have been restricted to the various cities of our own land.  Life in "Buffalo Bill's Tented City," as it is called, is like life in a small village.  There are some six hundred persons in the various departments.  Many of the men have their families with them; the Indians have their squaws and papooses, and the variety of nationalities, dialects and costumes, makes the miniature city an interesting and entertaining one.</p>
@@ -5626,7 +5626,7 @@ blazes.</em>"</p>
       </a>
    </span>
                 
-            <div class="chapter doublespace ">
+            <div class="chapter">
                 <h3>CHAPTER XXXII.</h3>
                 <h3>THE TAMING OF THE WILD WEST—GRASS-GROWN TRAILS AND HOARY LANDMARKS—THE TRAILS OF STEEL—OLD AND NEW MODES OF TRAVEL CONTRASTED—THE BUFFALO—THE INDIAN—THE "LAST OF THE SCOUTS."</h3>
                 <p>THE story of frontier days is a tale that is told.  The Wild West has vanished like mist in the sun before the touch of the two great magicians of the nineteenth century—steam and electricity.</p>
@@ -5739,4 +5739,3 @@ blazes.</em>"</p>
             </div>
         
     </div>
-

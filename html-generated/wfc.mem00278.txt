@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -16,7 +16,7 @@
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">28-9-92</div>
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -47,7 +47,7 @@ NOTT</span>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>BUFFALO BILL'S
 WILD WEST</h3>
@@ -96,7 +96,7 @@ WILD WEST</h3>
          </table>
       </div>
       <div class="milestone section"> </div>
-      <div class=" ">
+      <div class="">
          <h3>PROGRAMME.</h3>
 
          <ul>
@@ -161,7 +161,7 @@ WILD WEST</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h3>"BUFFALO BILL'S"<br/>
 WILD WEST</h3>
          <h3>Twice Daily, 3 &amp; 8 p.m.</h3>
@@ -173,4 +173,3 @@ WILD WEST</h3>
 
 
 </div>
-

@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -45,4 +45,3 @@ Oct.13th 1878
 
 
 </div>
-

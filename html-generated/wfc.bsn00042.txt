@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="report ">
+   <div class="report">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -36,7 +36,7 @@ To  Cody Trading Co.
          <br/>J. H. Lascelles, Cashier.</span>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
       <table>
          <tr>
             <td>DATE</td> 
@@ -101,4 +101,3 @@ To  Cody Trading Co.
 
 
 </div>
-

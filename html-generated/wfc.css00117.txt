@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,13 +20,13 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Atlanta Ga<br/>
-Oct- 21/01<a href="../doc/n01" class="internal_link">1</a>
+Oct- 21/01<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear. Hinkle</span>
 
 
-      <p>I have sent my route before but Send it again—As I am anxious to have something along the lines we talked of when I reach. New.York and want to pay rent on my leased lands to Tynan<a href="../doc/n02" class="internal_link">2</a>
+      <p>I have sent my route before but Send it again—As I am anxious to have something along the lines we talked of when I reach. New.York and want to pay rent on my leased lands to Tynan<a href="#n02" class="internal_link">2</a>
       </p>
 
       <span class="closer">
@@ -36,7 +36,7 @@ Oct- 21/01<a href="../doc/n01" class="internal_link">1</a>
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -74,4 +74,3 @@ Wyo
    <div class="note">Note 2: Very likely Thomas T. Tynan (1860-1925), who was Wyoming's superintendent of public instruction from 1899 to 1907.  The superintendent of public instruction served as a member of the state board of land commissioners.  Cody's rent for lands leased from the state would be payable to the board.  Tynan later served as mayor of Sheridan, Wyoming, from 1914 to 1915.</div>
 
 </div>
-

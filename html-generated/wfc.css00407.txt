@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00407.01.jpg"
@@ -52,4 +52,3 @@ as he would have answered it, Cody is across the water sailed the morning Fred d
 
 
 </div>
-

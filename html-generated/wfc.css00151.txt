@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,18 +19,18 @@
 
       <div class="note">Buffalo Bill's Wild West<br/>
 Touring Great Britain.<br/>
-Pahaska Tepee.<a href="../doc/n01" class="internal_link">1</a>
+Pahaska Tepee.<a href="#n01" class="internal_link">1</a>
       </div>
 
-      <span class="dateline">Grantham. Sep. 25th 1903<a href="../doc/n02" class="internal_link">2</a>
+      <span class="dateline">Grantham. Sep. 25th 1903<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="persName">W. A. Richards</span>
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/"/>W. A. Richards</span>
 Washington D. C.
 
 
-<span class="salute">My Dear <a rel="tooltip" class="sic" title="Governor​ ">Govenor</a>
-    ​.</span>
+<span class="salute">My Dear <a rel="tooltip" class="sic" title="Governor​ &#xA;    ">Govenor</a>.</span>
 
 
       <p>I am very anxious of getting the concession. of putting on an automobile and Horse stage line from Cody into the Yellow Stone Park. I will give a guarantee to do it right. If you will assist me in
@@ -45,9 +45,7 @@ Washington D. C.
             </a>
          </span>
 
-in this matter as acting as my Attorney And putting my application in at once. And help me. I will <a rel="tooltip" class="sic" title="recompsense​ ">reccompense</a>
-    ​ you most liberaly.<a href="../doc/n03" class="internal_link">3</a> I <a rel="tooltip" class="sic" title="believe​ ">beleive</a>
-    ​ I deserve this concession as much as any man. Could the President assist me in this? he is a good friend of mine.<a href="../doc/n04" class="internal_link">4</a> If you think it necessary to have
+in this matter as acting as my Attorney And putting my application in at once. And help me. I will <a rel="tooltip" class="sic" title="recompsense​ &#xA;    ">reccompense</a> you most liberaly.<a href="#n03" class="internal_link">3</a> I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> I deserve this concession as much as any man. Could the President assist me in this? he is a good friend of mine.<a href="#n04" class="internal_link">4</a> If you think it necessary to have
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -93,4 +91,3 @@ When I get to Washington. about Nov. 6th.</p>
    <div class="note">Note 4: Theodore Roosevelt was then the President of the United States.  Although Roosevelt did know Cody, it would be an exaggeration to say that the two men were close friends.</div>
 
 </div>
-

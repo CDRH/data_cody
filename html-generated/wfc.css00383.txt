@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00383.001.jpg"
@@ -15,7 +15,7 @@
          </a>
       </span>
 
-      <div class="note">Klopp &amp; Bartlett Co. Omaha<br/>The Henshaw Hotel<br/>Absolutely Fireproof<br/>European Plan<br/>T. J. O' Brien, Proprietor. Omaha, Neb.<a href="../doc/n01" class="internal_link">1</a>
+      <div class="note">Klopp &amp; Bartlett Co. Omaha<br/>The Henshaw Hotel<br/>Absolutely Fireproof<br/>European Plan<br/>T. J. O' Brien, Proprietor. Omaha, Neb.<a href="#n01" class="internal_link">1</a>
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>LAMH UACHTAR LAIDIRAN</p>
@@ -25,11 +25,12 @@
 
 
       <span class="salute">
-         <span class="persName">Tait</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j"/>Tait</span>
       </span>
 
 
-      <p>Show notices to John Brisbin Walker. Dutton Fred Hutch and others.<a href="../doc/n02" class="internal_link">2</a>
+      <p>Show notices to John Brisbin Walker. Dutton Fred Hutch and others.<a href="#n02" class="internal_link">2</a>
       </p>
 
       <span class="closer">
@@ -37,7 +38,7 @@
 </span>
    </div>
 
-   <div class="attachment doublespace ">
+   <div class="attachment">
 
 
       <div class="note">Winter Quarters and General Office-—Symes Building—Denver Colo.<br/>Two Big Institutions Joined Together at One Price of Admission<br/>Route Card Season 1915<br/>The Sells-Floto Circus Buffalo—Bill's Original Wild West<br/>No. 9</div>
@@ -238,4 +239,3 @@
 
 
 </div>
-

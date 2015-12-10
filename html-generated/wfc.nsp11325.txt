@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11325.jpg"
@@ -32,4 +32,3 @@
         <p>The gathering was primarily for the taking of the motion pictures of the life of Buffalo Bill, secondarily it was for the flag raising in honor of the monument to the American Indian in New York, erected through the efforts of Colonel Cody and John Wanamaker. There were elaborate ceremonies consisting of the flag raising and the swearing of allegiance to it by the Indians. The Indian was given a flag to be known as their own. A peace message from President Wilson, Secretary Lane and others were sounded from a photograph of Colonel Cody. General Baldwin, Major Burke and Major James McLaughlin were present.</p>
    </div>
     </div>
-

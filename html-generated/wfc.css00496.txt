@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -28,25 +28,22 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">S. Bend Ind<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">S. Bend Ind<a href="#n01" class="internal_link">1</a>
          <br/>
 
-Aug. 14<a href="../doc/n02" class="internal_link">2</a>
+Aug. 14<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">George</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
-      <p>Give me the number of yards to <a rel="tooltip" class="sic" title="move​ ">moove</a>
-    ​ from where you are now to complete ditch to Town<a href="../doc/n03" class="internal_link">3</a> and the class of work and what the co will pay to have it done. And let the contractor wait for his money until Bonds are sold. Is it not important for County Seat prospects to get water to Town? If you would only keep me posted and make <a rel="tooltip" class="sic" title="suggestions​ ">sugestions</a>
-    ​ or express your opinion or what you think would be best for the Co— It would be a great help to me tied down as I am—</p>
+      <p>Give me the number of yards to <a rel="tooltip" class="sic" title="move​ &#xA;    ">moove</a> from where you are now to complete ditch to Town<a href="#n03" class="internal_link">3</a> and the class of work and what the co will pay to have it done. And let the contractor wait for his money until Bonds are sold. Is it not important for County Seat prospects to get water to Town? If you would only keep me posted and make <a rel="tooltip" class="sic" title="suggestions​ &#xA;    ">sugestions</a> or express your opinion or what you think would be best for the Co— It would be a great help to me tied down as I am—</p>
 
-      <p>Will you do it George it <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ take much of your time.</p>
+      <p>Will you do it George it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> take much of your time.</p>
 
       <p>
-         <u>My f</u> I feel that my name and honor is at stake in that enterprise. warn me of any danger to our credit <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ leave me in darkness—</p>
+         <u>My f</u> I feel that my name and honor is at stake in that enterprise. warn me of any danger to our credit <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> leave me in darkness—</p>
 
       <span class="closer">
          <span class="salute">yours—</span>
@@ -64,4 +61,3 @@ Aug. 14<a href="../doc/n02" class="internal_link">2</a>
    <div class="note">Note 3: The "Town" was officially named Cody, Wyoming, in August 1896.</div>
 
 </div>
-

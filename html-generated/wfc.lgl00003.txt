@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="contract ">
+   <div class="contract">
 
       <p>This Agreement, Entered into this 3rd day of March 1910, by William F. Cody &amp; Gordon W. Lillie, Proprietors of Buffalo Bill's Wild West and Pawnee Bill's Far East Combined, Parties of the First Part, and an Indian Daniel Black Horn of Pine Ridge Agency, So. Dakota, party of the second part:</p>
 
@@ -66,4 +66,3 @@ U. S. Indian Agent.
 
 
 </div>
-

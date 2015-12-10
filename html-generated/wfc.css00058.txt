@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -40,8 +40,7 @@ Feb 19th 188
             </a>
          </span>
 
-I will down every showman in the world. have got them downed and I will have money to throw at the birds— then I am <a rel="tooltip" class="sic" title="coming​ ">comeing</a>
-    ​ to see you—</p>
+I will down every showman in the world. have got them downed and I will have money to throw at the birds— then I am <a rel="tooltip" class="sic" title="coming​ &#xA;    ">comeing</a> to see you—</p>
 
       <span class="closer">
          <span class="salute">Regards to all—</span>
@@ -50,8 +49,7 @@ I will down every showman in the world. have got them downed and I will have mon
 </span>
 
 
-      <p>I go out to my <a rel="tooltip" class="sic" title="Ranch​ ">Ranche</a>
-    ​ then sail for Europe</p>
+      <p>I go out to my <a rel="tooltip" class="sic" title="Ranch​ &#xA;    ">Ranche</a> then sail for Europe</p>
 
       <span class="ab">Bill</span>
 
@@ -59,23 +57,23 @@ I will down every showman in the world. have got them downed and I will have mon
 
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
-      <div class="return ">
+      <div class="return">
          <span class="ab">Buffalo Bill's Wild West</span>
          <span class="ab">New York Address: Madison Square Garden</span>
          <span class="ab">Wm. F. Cody, Nate Salsbury, Proprietors</span>
          <span class="ab">John M. Burke, General Manager</span>
       </div>
 
-      <div class="address ">
+      <div class="address">
          <span class="ab">James. Geary</span>
          <span class="ab">Newton</span>
          <span class="ab">Kansas</span>
 
       </div>
 
-      <div class="postmark ">
+      <div class="postmark">
          <span class="ab">New York, Feb 19, 6 PM F F</span>
       </div>
 
@@ -86,4 +84,3 @@ I will down every showman in the world. have got them downed and I will have mon
 
 
 </div>
-

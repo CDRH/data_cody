@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -16,14 +16,14 @@
          </a>
       </span>
 
-      <span class="dateline">April 19-1897—<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">April 19-1897—<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <p>The monied men of our Co. want to know what you are doing &amp; if you are going to get water to the town<a href="../doc/n02" class="internal_link">2</a> &amp; below. They say they are tired of such management and if you can't do the work they want to know it and at once.</p>
+      <p>The monied men of our Co. want to know what you are doing &amp; if you are going to get water to the town<a href="#n02" class="internal_link">2</a> &amp; below. They say they are tired of such management and if you can't do the work they want to know it and at once.</p>
 
       <p>
-         <span class="persName">George</span> you told me you would be at Cody to commence work by the 1<u>st</u> of April. God only know where you are and if you will ever get to Cody and if you will get to work when you do get there. If water <a rel="tooltip" class="sic" title="ain't​ ">aint</a>
-    ​ down to town early we are ruined.</p> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span> you told me you would be at Cody to commence work by the 1<u>st</u> of April. God only know where you are and if you will ever get to Cody and if you will get to work when you do get there. If water <a rel="tooltip" class="sic" title="ain't​ &#xA;    ">aint</a> down to town early we are ruined.</p> 
 
       <p>George if you don't try to do something this dam ditch will drive me crazy. Why won't you for once get down to work &amp; see that the men and or you work.</p>
 
@@ -43,4 +43,3 @@
    <div class="note">Note 2: Cody, Wyoming.</div>
 
 </div>
-

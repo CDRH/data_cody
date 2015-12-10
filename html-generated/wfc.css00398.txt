@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00398.01.jpg"
@@ -55,7 +55,7 @@ T.
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
       <div class="note">
 Buffalo Bill's Hotel in the Rockies<br/>
          <div class="inline_figure">
@@ -87,4 +87,3 @@ St. James Hotel.
 
 
 </div>
-

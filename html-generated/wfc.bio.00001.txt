@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="biography ">
+   <div class="biography">
       <p>William Frederick “Buffalo Bill” Cody was born in Le Claire, Iowa, on February 26th, 1846, to Isaac and Mary Ann Laycock Cody. At age eight he moved with his family to the Kansas frontier where his father hoped to homestead. But the family experienced a series of financial and personal setbacks brought on by the turmoil of the slavery debate and culminating in Isaac Cody’s death in 1857. As the oldest male member of the household, eleven year old Will took it upon himself to find work, becoming a cattle drover and teamster on westbound wagon trains.</p>
 
       <p>In 1864 Cody enlisted in the Seventh Kansas Volunteer Cavalry and served as a private for one and a half years. After the war he married Louisa Frederici of St. Louis; together they would have four children: Arta Lucille (1866-1904), Kit Carson (1870-1876), Orra Maude (1872-1883), and Irma Louise (1883-1918). Only one of Cody’s children would survive him.</p>
@@ -27,4 +27,3 @@
 
 
 </div>
-

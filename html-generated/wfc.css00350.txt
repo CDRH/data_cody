@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Hotel Mellen, Fall River, Mass.</div>
@@ -51,4 +51,3 @@ Washington, D. C.
 
 
 </div>
-

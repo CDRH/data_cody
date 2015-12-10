@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Buffalo Bill's Wild West</div>
@@ -32,8 +32,7 @@ Aug 3d
 
       <p>Tear this up— Fanny was our guest. only wish she could have remained longer When you get tired of her send her to us COD.</p>
 
-      <p>Mrs Cody has gone home to get Irma ready for school Irma is here and sends love. I got a cable from Gen Miles to report to him at Ponce immediately. And I am all broke up because I cant start tonight. its impossible for me to leave without some <a rel="tooltip" class="sic" title="preparation​ ">preperation</a>
-    ​. and it will entail a big loss and
+      <p>Mrs Cody has gone home to get Irma ready for school Irma is here and sends love. I got a cable from Gen Miles to report to him at Ponce immediately. And I am all broke up because I cant start tonight. its impossible for me to leave without some <a rel="tooltip" class="sic" title="preparation​ &#xA;    ">preperation</a>. and it will entail a big loss and
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -64,4 +63,3 @@ Your old friend</span>
 
 
 </div>
-

@@ -3,12 +3,12 @@
 
     <div class="main_content">
         
-            <div class="article ">
+            <div class="article">
 
                 <h3>Roughriders of 1898 Gather</h3>
                 <h3>Veterans of War in Cuba Celebrate Anniversary of Victory in
                     Battle</h3>
-                <div class=" ">
+                <div class="">
                     <p>There's plenty of life in Teddy Roosevelt's famous Roughriders who, 43 years
                         ago yesterday, routed the Spaniards at the Battle of Las Guasimas, Cuba.</p>
 
@@ -16,7 +16,7 @@
                         departed comrades, showed their spirit during discussion of a proposal to
                         change the Roosevelt Roughriders Association to the "Last Man's Club."</p>
                 </div>
-                <div class=" ">
+                <div class="">
                     <h4>TOO YOUNG FOR THAT</h4>
 
                     <p>"Hell!" exclaimed fiery little Billy McGinty, who as a member of Troop K of
@@ -31,7 +31,7 @@
                         alive, James T. Brown, arrangements chairman, reported. Of these, a good
                         many reside in Southern California.</p>
                 </div>
-                <div class=" ">
+                <div class="">
                     <h4>SHOW OLD RECORDS</h4>
 
                     <p>Veterans of the Cuba campaign in attendance at the convention willingly
@@ -48,4 +48,3 @@
 
         
     </div>
-

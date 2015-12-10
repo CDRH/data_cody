@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -24,15 +24,14 @@
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-      <span class="dateline">Altoona Sep 7th<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Altoona Sep 7th<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">George</span>—</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
 
-      <p>Yours 5th to [simple drawing of hand]<a href="../doc/n02" class="internal_link">2</a> allright. No I dont see how Cody City can get a long without a gin mill &amp; Bob<a href="../doc/n03" class="internal_link">3</a> would be a Dandy. only he would keep me full all the time. But as you <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ drink it would make no difference to you— Now George— <a rel="tooltip" class="sic" title="Don't​ ">Dont</a>
-    ​ over look a thing wire me from Sheridan about joint stock Co— Let me know about contract for our land from State Land Board
+      <p>Yours 5th to [simple drawing of hand]<a href="#n02" class="internal_link">2</a> allright. No I dont see how Cody City can get a long without a gin mill &amp; Bob<a href="#n03" class="internal_link">3</a> would be a Dandy. only he would keep me full all the time. But as you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> drink it would make no difference to you— Now George— <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> over look a thing wire me from Sheridan about joint stock Co— Let me know about contract for our land from State Land Board
 
 
 <span class="hr"> </span>
@@ -54,8 +53,7 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-and Interior Dept— We must make no mistakes. or we will be laughed out of the Country. I depend on you to guard our interests. I trust you. <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ fail me—</p>
+and Interior Dept— We must make no mistakes. or we will be laughed out of the Country. I depend on you to guard our interests. I trust you. <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> fail me—</p>
 
       <span class="closer">
          <span class="salute">Your Pard</span>
@@ -75,4 +73,3 @@ and Interior Dept— We must make no mistakes. or we will be laughed out of the 
 
 
 </div>
-

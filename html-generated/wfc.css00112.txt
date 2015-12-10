@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00112.001.jpg"
@@ -18,14 +18,14 @@
 
       <div class="note">Buffalo Bill's Wild West</div>
 
-      <span class="dateline">Olney- Ill<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Olney- Ill<a href="#n01" class="internal_link">1</a>
 Sep— 24th 1901
 </span>
 
       <span class="salute">My. Dear. Hinkle</span>
 
 
-      <p>Your favor of Sep 20th received-—Just a couple of days ago I had written you on the same subject— As per your letter you will be in St Louis next Sunday 29th — And I will be in Bellville Ill. about fourteen miles from St Louis— Torlly<a href="../doc/n02" class="internal_link">2</a> cars connection I wish you would run over to Belleville either Sunday or Monday— I have several things I want to see you on—</p>
+      <p>Your favor of Sep 20th received-—Just a couple of days ago I had written you on the same subject— As per your letter you will be in St Louis next Sunday 29th — And I will be in Bellville Ill. about fourteen miles from St Louis— Torlly<a href="#n02" class="internal_link">2</a> cars connection I wish you would run over to Belleville either Sunday or Monday— I have several things I want to see you on—</p>
 
       <p>Please let me know if I may expect you— I will be in my private car near the depot— Sunday— I may not reach Belleville till near noon Sunday as its a long run—</p>
 
@@ -49,7 +49,7 @@ Sep— 24th 1901
 
       <p>PS</p>
 
-      <p>I have changed my running time And will arrive in Belleville Early Monday morning—come &amp; see me Monday come direct to show ground<a href="../doc/n03" class="internal_link">3</a>
+      <p>I have changed my running time And will arrive in Belleville Early Monday morning—come &amp; see me Monday come direct to show ground<a href="#n03" class="internal_link">3</a>
       </p>
       <span class="closer">
          <br/>Cody
@@ -57,7 +57,7 @@ Sep— 24th 1901
 
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -81,7 +81,7 @@ Sep— 24th 1901
       <span class="ab address">
 
 C. L. Hinkle
- c/-Dr- Horner-E. Bailey<a href="../doc/n04" class="internal_link">4</a>
+ c/-Dr- Horner-E. Bailey<a href="#n04" class="internal_link">4</a>
 404. Century- Bldg
 9th &amp; Olive.
  St Louis
@@ -101,4 +101,3 @@ MO
    <div class="note">Note 4: Probably Homer Edward Bailey (1867-1939), a practitioner of osteopathic medicine.</div>
 
 </div>
-

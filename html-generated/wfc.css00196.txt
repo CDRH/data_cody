@@ -6,7 +6,7 @@
 
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,29 +23,27 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Danville. Ills
-Aug 20th<a href="../doc/n01" class="internal_link">1</a>
+Aug 20th<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear Hinkle</span>
 
 
-      <p>I was very glad to hear from you. And I have given your regards to Baker &amp; Sweeney.<a href="../doc/n02" class="internal_link">2</a> We are all well- and busy. We <a rel="tooltip" class="sic" title="haven't​ ">havent</a>
-    ​ lost but one performance this season. While the Barnum Circus have lost eleven.<a href="../doc/n03" class="internal_link">3</a> This show has beaten all big shows on receipts this so far. And we propose to do so for the rest of the season. </p>
+      <p>I was very glad to hear from you. And I have given your regards to Baker &amp; Sweeney.<a href="#n02" class="internal_link">2</a> We are all well- and busy. We <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> lost but one performance this season. While the Barnum Circus have lost eleven.<a href="#n03" class="internal_link">3</a> This show has beaten all big shows on receipts this so far. And we propose to do so for the rest of the season. </p>
 
       <p>I will hope to see you some time this winter.</p>
 
-      <p>Please remember me to the Governor and the rest-<a href="../doc/n04" class="internal_link">4</a>
+      <p>Please remember me to the Governor and the rest-<a href="#n04" class="internal_link">4</a>
       </p>
 
       <span class="closer">
-         <span class="salute">Your <a rel="tooltip" class="sic" title="true​ ">trule</a>
-    ​ friend</span>
+         <span class="salute">Your <a rel="tooltip" class="sic" title="true​ &#xA;    ">trule</a> friend</span>
 
          <br/>W. F. Cody
 </span>
    </div>
 
-   <div class="type doublespace ">
+   <div class="type">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -89,4 +87,3 @@ Wyo
    <div class="note">Note 4: Bryant B. Brooks (1861-1944) was then the governor of Wyoming.</div>
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,14 +19,15 @@
 
       <div class="note">Buffalo Bill's Wild West</div>
 
-      <span class="dateline">Oneonta N.Y.<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Oneonta N.Y.<a href="#n01" class="internal_link">1</a>
          <br/>
 June 11t 1901
 </span>
       <span class="salute">My. Dear— Hinkle</span>
 
 
-      <p>Your favor here <a rel="tooltip" class="abbr" title="received​ ">recd</a>​— I note what you say about— the— Cody &amp; Salsbury Segregation— I dont think Beck— cares much for the School Section. or you would have heard from him—</p>
+      <p>Your favor here <a rel="tooltip" class="abbr" title="received​ &#xA;    ">recd</a>​
+— I note what you say about— the— Cody &amp; Salsbury Segregation— I dont think Beck— cares much for the School Section. or you would have heard from him—</p>
 
       <p>F. C. Kilsey. the Civil Enginer reccomended by Mr— Elwood Meade is makeing a complete survey of the Cody &amp; Salsbury Canal When he is done work will be carried on—</p>
 
@@ -39,7 +40,7 @@ June 11t 1901
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -73,4 +74,3 @@ Wyo—
 
    <div class="note">Note 2: When public lands were surveyed as a precursor to settlement, certain one-mile-square sections known as "school sections" were designated. Revenue from the sale or lease of these sections was reserved to support public schools.</div>
 </div>
-

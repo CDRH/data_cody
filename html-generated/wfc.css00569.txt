@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00569.jpg"
@@ -32,13 +32,15 @@
 
 
       <span class="ab">
-         <span class="persName">George T. Beck</span>, </span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/"/>George T. Beck</span>, </span>
 
       <span class="ab">Chamberlins Hotel, Washn., D. C.</span>
 
 
-      <p>Think you Warren<a href="../doc/" class="internal_link">1</a> Mondell<a href="../doc/n02" class="internal_link">2</a> 
-         <span class="persName">Mead</span> and other Wyoming men there should all call at one time on Smith<a href="../doc/n03" class="internal_link">3</a> and find out if he is going to do anything if not I propose to stop all work in basin.</p>
+      <p>Think you Warren<a href="#" class="internal_link">1</a> Mondell<a href="#n02" class="internal_link">2</a> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e"/>Mead</span> and other Wyoming men there should all call at one time on Smith<a href="#n03" class="internal_link">3</a> and find out if he is going to do anything if not I propose to stop all work in basin.</p>
 
 
       <span class="closer">
@@ -58,4 +60,3 @@
 
 
 </div>
-

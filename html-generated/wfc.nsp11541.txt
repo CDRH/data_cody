@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -17,7 +17,8 @@
       </span>
 
       <p>
-         <span class="persName">Mr. Crager</span>, the interpreter who forms a link between the white and red races at the Wild West Show, is an old newspaper reporter. He used to be on the <em class="hi">New York World</em>, and is regarded with affection by the Indians.</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g"/>Mr. Crager</span>, the interpreter who forms a link between the white and red races at the Wild West Show, is an old newspaper reporter. He used to be on the <em class="hi">New York World</em>, and is regarded with affection by the Indians.</p>
 
       <div class="milestone line"> </div>
 
@@ -35,4 +36,3 @@
 
 
 </div>
-

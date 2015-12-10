@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,14 +21,13 @@
 
       <span class="dateline">
 New. York<br/>
-May 28th 1902<a href="../doc/n01" class="internal_link">1</a>
+May 28th 1902<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear Hinkle.</span>
 
 
-      <p>Am very much obliged for what you have told me. That man Wiley for some unknown reason. is as you say. doing his utmost to injure me. <a rel="tooltip" class="sic" title="Believing​ ">Beleiving</a>
-    ​ him. our company has been delayed two months on his promises— and agreements—<a href="../doc/n02" class="internal_link">2</a> And he now is trying to get our companys water right. But Hinkle the Shoshone Irrigation Cos. Canal will be built if I do it alone And I hope that the. Board &amp; State Engineer will stand by me as no one had worked harder for the state than I have<a href="../doc/n03" class="internal_link">3</a>
+      <p>Am very much obliged for what you have told me. That man Wiley for some unknown reason. is as you say. doing his utmost to injure me. <a rel="tooltip" class="sic" title="Believing​ &#xA;    ">Beleiving</a> him. our company has been delayed two months on his promises— and agreements—<a href="#n02" class="internal_link">2</a> And he now is trying to get our companys water right. But Hinkle the Shoshone Irrigation Cos. Canal will be built if I do it alone And I hope that the. Board &amp; State Engineer will stand by me as no one had worked harder for the state than I have<a href="#n03" class="internal_link">3</a>
       </p>
 
       <span class="closer">
@@ -39,7 +38,7 @@ May 28th 1902<a href="../doc/n01" class="internal_link">1</a>
 
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00130.002.jpg"
@@ -82,4 +81,3 @@ Wyo.
    <div class="note">Note 3: William F. Cody refers to the Cody Canal, the principal project of the Shoshone Irrigation Company. The "Board" mentioned here is the Wyoming Board of Land Commissioners, which shared authority over Carey Act irrigation projects with the state engineer's office. The Wyoming state engineer at the time was Fred Bond (1856-1903).</div>
 
 </div>
-

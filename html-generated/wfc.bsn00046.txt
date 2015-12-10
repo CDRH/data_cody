@@ -13,7 +13,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
       <div class="note">DIRECTORS' MEETING of the SHOSHONE IRRIGATION COMPANY,
 held at HOTEL IROQUOIS, Buffalo, New York, </div>
       <span class="dateline">25th February 1908</span>
@@ -23,11 +23,14 @@ held at HOTEL IROQUOIS, Buffalo, New York, </div>
 
       <p>Upon Roll Call, there were present: -- <br/>
 Col. William F. Cody<br/>
-         <span class="persName">Bronson Rumsey</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>
          <br/>
-         <span class="persName">H. M. Gerrans</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H. M. Gerrans</span>
          <br/>S. L. Samuels<br/>
-         <span class="persName">George T. Beck</span>.</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>.</p>
 
       <p>A quorum being present, the meeting was called to order by Colonel Cody.</p>
 
@@ -72,4 +75,3 @@ S E C R E T A R Y
 
 
 </div>
-

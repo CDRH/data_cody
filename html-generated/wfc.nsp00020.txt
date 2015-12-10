@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>IRON HEART'S BAND BACK.</h3>
       <h3>Buffalo Bill Indians Return After a Few Months in France.</h3>
@@ -12,7 +12,8 @@
 
       <p>The Indians are bound for the Pine Ridge Reservation in South Dakota. The Government does not allow them to be away from the reservation for an entire year, and so Buffalo Bill, according to contract, had to ship them back. They left the show at Marseilles.</p>
 
-      <p>The aggregation had such names as Iron Heart, Chief of the band; Wounded Horse and Mrs. Wounded Horse, Jerome Wolfheart, White Rabbit, Parts-His-Hair, Ghost, Bear, Dull Knife, <span class="persName">Red Shirt</span>, Little Dog, Frank Red Fish, &amp;c. Several of them spoke English fairly well, particularly Chief Iron Heart. He as well as the rest of the band admit that they were seasick on board.</p>
+      <p>The aggregation had such names as Iron Heart, Chief of the band; Wounded Horse and Mrs. Wounded Horse, Jerome Wolfheart, White Rabbit, Parts-His-Hair, Ghost, Bear, Dull Knife, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Red Shirt</span>, Little Dog, Frank Red Fish, &amp;c. Several of them spoke English fairly well, particularly Chief Iron Heart. He as well as the rest of the band admit that they were seasick on board.</p>
 
       <p>There was some humor in the formalities which now require incoming passengers to be inspected. Immigration Inspector Dinkel facetiously asking Iron Heart:</p>
 
@@ -26,4 +27,3 @@
 
 
 </div>
-

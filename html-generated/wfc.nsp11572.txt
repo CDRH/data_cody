@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,7 +19,8 @@
 
       <h3>"LITTLE SURE SHOT'S" ALL RIGHT.</h3>
 
-      <p>The newspapers throughout the land recently published the heartrending particulars of the death of <span class="persName">Miss Annie Oakley</span>, otherwise known as "Little Sure Shot," who gained name and fame as a markswoman and who holds a "Police Gazette" trophy as an emblem of her unerring aim. Many of the journals gave the minutest particulars of the sad deathbed scenes.</p>
+      <p>The newspapers throughout the land recently published the heartrending particulars of the death of <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a"/>Miss Annie Oakley</span>, otherwise known as "Little Sure Shot," who gained name and fame as a markswoman and who holds a "Police Gazette" trophy as an emblem of her unerring aim. Many of the journals gave the minutest particulars of the sad deathbed scenes.</p>
 
       <p>This letter dispels all controversy regarding the matter:
 <blockquote>
@@ -46,4 +47,3 @@
 
 
 </div>
-

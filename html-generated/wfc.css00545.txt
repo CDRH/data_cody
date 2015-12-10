@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00545.jpg"
@@ -19,18 +19,19 @@
 
 
 
-      <span class="dateline">Sandusky— O.<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Sandusky— O.<a href="#n01" class="internal_link">1</a>
          <br/>
 
 July- 8<u>th</u> 1902</span>
 
 
-      <span class="salute">My Dear <span class="persName">Beck</span>.</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>.</span>
 
 
-      <p>I am going to again. As I am pushed by <span class="persName">Salsbury</span> &amp; <span class="persName">Bleistein</span> to hurry things— To see if I can hear from you— here is a <a rel="tooltip" class="sic" title="telegram​ ">telegrame</a>
-    ​ that explains what the men want done who puts up the money— May I hear what you are doing— toward getting an Estimate. So we can get bids for the work. the Summer is slipping away wire me at my expense so I can reply to Salsbury &amp; Buffalo parties<a href="../doc/n02" class="internal_link">2</a>— I can see no reason why something <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ be done &amp; soon.</p>
+      <p>I am going to again. As I am pushed by <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> to hurry things— To see if I can hear from you— here is a <a rel="tooltip" class="sic" title="telegram​ &#xA;    ">telegrame</a> that explains what the men want done who puts up the money— May I hear what you are doing— toward getting an Estimate. So we can get bids for the work. the Summer is slipping away wire me at my expense so I can reply to Salsbury &amp; Buffalo parties<a href="#n02" class="internal_link">2</a>— I can see no reason why something <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> be done &amp; soon.</p>
 
 
       <span class="closer">
@@ -46,7 +47,8 @@ July- 8<u>th</u> 1902</span>
 
    <div class="note">Note 1: Buffalo Bill's Wild West performed in Sandusky, Ohio, on July 8, 1902.</div>
 
-   <div class="note">Note 2: "Buffalo parties" are the directors of the Shoshone Irrigation Company, including <span class="persName">Rumsey</span>, Bleistein, and <span class="persName">Gerrans</span>, all from Buffalo, N.Y.</div>
+   <div class="note">Note 2: "Buffalo parties" are the directors of the Shoshone Irrigation Company, including <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>, Bleistein, and <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>, all from Buffalo, N.Y.</div>
 
 </div>
-

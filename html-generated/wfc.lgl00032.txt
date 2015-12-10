@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,7 +20,8 @@
          <div class="center">TO ALL TO WHOM THESE PRESENTS SHALL COME:</div>
       </span>
 
-      <p>KNOW YE, that The Cody Trading Company, a corporation of Cody, Wyoming, for and in consideration of the sum of Three Thousand and more Dollars, lawful money of the United States of America, to it in hand paid by <span class="persName">George Bleistein</span> of Buffalo, N. Y., has remised, released and forever discharged, and be these presents does, for itself and its successors and assigns, remise, release and forever discharge the said George Bleistein, his heirs, executors and administrators, of and from all, and all manner of action and actions, cause and causes of action, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, special ties, covenants, contracts, controversies, agreements, promises, variances, trespasses, damages, judgments, extents, executions, claims and demands whatsoever, in law or in equity, which against the said George Bleistein, said Cody Trading Co. ever had, now has, or which it, or its successors and assigns hereafter can, shall or may have, for upon or by reason of any matter, cause or thing whatsoever, from the beginning of the world to the day of the date of these presents, and particularly upon any indebtedness or account evidenced by note, endorsement, or other acknowledgment in writing.</p>
+      <p>KNOW YE, that The Cody Trading Company, a corporation of Cody, Wyoming, for and in consideration of the sum of Three Thousand and more Dollars, lawful money of the United States of America, to it in hand paid by <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>George Bleistein</span> of Buffalo, N. Y., has remised, released and forever discharged, and be these presents does, for itself and its successors and assigns, remise, release and forever discharge the said George Bleistein, his heirs, executors and administrators, of and from all, and all manner of action and actions, cause and causes of action, suits, debts, dues, sums of money, accounts, reckonings, bonds, bills, special ties, covenants, contracts, controversies, agreements, promises, variances, trespasses, damages, judgments, extents, executions, claims and demands whatsoever, in law or in equity, which against the said George Bleistein, said Cody Trading Co. ever had, now has, or which it, or its successors and assigns hereafter can, shall or may have, for upon or by reason of any matter, cause or thing whatsoever, from the beginning of the world to the day of the date of these presents, and particularly upon any indebtedness or account evidenced by note, endorsement, or other acknowledgment in writing.</p>
 
 
       <p>IN WITNESS WHEREOF, on the   <span class="gap ">[]</span>    day of May, 1917, the said, The Cody Trading Company, has caused to be affixed it corporate seal and the signature of its     President.</p>
@@ -46,14 +47,15 @@ President</span>
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
 
       <span class="ab">STATE OF NEW YORK:<br/>
 COUNTY OF ERIE:  SS:<br/>
 CITY OF BUFFALO:</span>
 
 
-      <p>On this 4th day of <del>May</del> June, 1917, before me, the subscriber, personally came <span class="persName">Bronson Rumsey</span> 
+      <p>On this 4th day of <del>May</del> June, 1917, before me, the subscriber, personally came <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span> 
 to me known, who being by me duly sworn, did depose and say, that he resided in the City of Buffalo, New York; that he is the . . . President of the Cody Trading Company, the corporation described in and which executed the foregoing instrument; that he knows the seal of said corporation; that the seal affixed to said instrument was such corporate seal; that it was so affixed by authority of the Board of Directors of said corporation, and that he signed his name thereto by like authority.</p>
 
       <div class="inline_figure">
@@ -77,7 +79,7 @@ Notary Public
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <div class="note">
          <u>Copy</u>
       </div>
@@ -110,4 +112,3 @@ ________________________</div>
 
 
 </div>
-

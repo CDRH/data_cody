@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <span class="dateline">North Platte Neb
@@ -25,8 +25,7 @@ Aug 9th
 In Rochester</span>
 
 
-      <p>I have just returned from a big hunt. The Indians in this country are on the war path. And I have just accepted a. commission from the government as Chief of Scouts &amp; Guide for the Expedition that is to be sent in to the Big horn country. The command will number nearly as many men as Gen Custers and be commanded by Col Mills we are going in to one of the worst Indian <a rel="tooltip" class="sic" title="countries​ ">countrys</a>
-    ​ on the plains. I expect to have a very nice time I will have command of forty scouts. You may look for 
+      <p>I have just returned from a big hunt. The Indians in this country are on the war path. And I have just accepted a. commission from the government as Chief of Scouts &amp; Guide for the Expedition that is to be sent in to the Big horn country. The command will number nearly as many men as Gen Custers and be commanded by Col Mills we are going in to one of the worst Indian <a rel="tooltip" class="sic" title="countries​ &#xA;    ">countrys</a> on the plains. I expect to have a very nice time I will have command of forty scouts. You may look for 
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -38,9 +37,7 @@ In Rochester</span>
             </a>
          </span>
 
-those Indian <a rel="tooltip" class="sic" title="trophies​ ">trophys</a>
-    ​ if we have luck enough to capture an Indian Village. I will send those buffalo tongues from here tomorrow am very <a rel="tooltip" class="sic" title="busy​ ">buisy</a>
-    ​ kind regards to all Write me to, North Platte Neb</p>
+those Indian <a rel="tooltip" class="sic" title="trophies​ &#xA;    ">trophys</a> if we have luck enough to capture an Indian Village. I will send those buffalo tongues from here tomorrow am very <a rel="tooltip" class="sic" title="busy​ &#xA;    ">buisy</a> kind regards to all Write me to, North Platte Neb</p>
 
       <span class="closer">
          <span class="salute">Yours in haste</span>
@@ -58,4 +55,3 @@ Buffalo Bill
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,27 +23,31 @@
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-      <span class="dateline">Lowell. Mass<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Lowell. Mass<a href="#n01" class="internal_link">1</a>
          <br/>
 July 2nd 95 </span>
 
-      <span class="salute">Dear <span class="persName">George</span>—</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
 
       <p>
-         <span class="persName">Alger</span> was here when your wire came. You will meet Alger in Omaha. He has my route in full. get it. Say George. <span class="persName">Mead</span> was not paid neither was <span class="persName">Van Dreveldt</span>. And I <a rel="tooltip" class="sic" title="do not​ ">donot</a>
-    ​ know if any body was. <u>do</u>  
-         <u>you</u>? I have sent for <span class="persName">Hymer</span> to meet you gentlemen in Omaha. Make him show up receipts &amp; step down and out of handling any money. let him work on commission Let <span class="persName">Heckert</span> take full charge of construction of <a rel="tooltip" class="sic" title="moving​ ">mooveing</a>
-    ​ dirt if you think best. Lets get to work no more non sense— I will arrange if possible to help you all I can— as soon as I can I will pay Meade at once—</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> was here when your wire came. You will meet Alger in Omaha. He has my route in full. get it. Say George. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e"/>Mead</span> was not paid neither was <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/vandreveldt.e"/>Van Dreveldt</span>. And I <a rel="tooltip" class="sic" title="do not​ &#xA;    ">donot</a> know if any body was. <u>do</u>  
+         <u>you</u>? I have sent for <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> to meet you gentlemen in Omaha. Make him show up receipts &amp; step down and out of handling any money. let him work on commission Let <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t"/>Heckert</span> take full charge of construction of <a rel="tooltip" class="sic" title="moving​ &#xA;    ">mooveing</a> dirt if you think best. Lets get to work no more non sense— I will arrange if possible to help you all I can— as soon as I can I will pay Meade at once—</p>
 
       <span class="closer">
          <span class="salute">
-            <a rel="tooltip" class="sic" title="Hastily​ ">Hastly</a>
-    ​</span> 
+            <a rel="tooltip" class="sic" title="Hastily​ &#xA;    ">Hastly</a>
+         </span> 
          <br/>Bill
 
 <div class="note">Lawrence Mass. 8<br/>The Cotton States and International Exposition encyclopedia: The Cotton States and International Exposition took place in Atlanta, Georgia, from mid-September through December 1895. Held to showcase the world's cultural, agricultural, and manufacturing products and to promote civil liberties for women and African Americans, it would later become known as "the Atlanta Exposition." On September 18, Booker T. Washington gave a famous speech on race relations at the exhibition.
-Lynn " 10<a href="../doc/n02" class="internal_link">2</a>
+Lynn " 10<a href="#n02" class="internal_link">2</a>
          </div>
       </span>
 
@@ -57,8 +61,10 @@ Lynn " 10<a href="../doc/n02" class="internal_link">2</a>
          </a>
       </span>
 
-      <p>PS. I have just written Hymer— To see you take a <a rel="tooltip" class="sic" title="Kodak​ ">Codak</a>
-    ​<a href="../doc/n03" class="internal_link">3</a>. get views. get up maps of our Ditch and maps of the country Wyo state maps showin R.R. and proposed R.R. <del>&amp;</del> location of Cody City. Springs<a href="../doc/n04" class="internal_link">4</a> &amp;c <del>So</del> reading matter &amp;c So as to give it to <span class="persName">Bleistein</span> and he can send it on to his firm<a href="../doc/n05" class="internal_link">5</a> &amp; have a <u>Jo Dandy Folder</u>. gather up and then while I am at Atlanta Exposition I can with <span class="persName">Burke</span> do a world of advertising. I will make that the most talked of place in America. Do you catch on? We must now push things we <u>must</u> 
+      <p>PS. I have just written Hymer— To see you take a <a rel="tooltip" class="sic" title="Kodak​ &#xA;    ">Codak</a>
+         <a href="#n03" class="internal_link">3</a>. get views. get up maps of our Ditch and maps of the country Wyo state maps showin R.R. and proposed R.R. <del>&amp;</del> location of Cody City. Springs<a href="#n04" class="internal_link">4</a> &amp;c <del>So</del> reading matter &amp;c So as to give it to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> and he can send it on to his firm<a href="#n05" class="internal_link">5</a> &amp; have a <u>Jo Dandy Folder</u>. gather up and then while I am at Atlanta Exposition I can with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/burke.j"/>Burke</span> do a world of advertising. I will make that the most talked of place in America. Do you catch on? We must now push things we <u>must</u> 
          <u>get</u> 
          <u>there</u>. You sleep just 4 hours a day no more till this a success.</p>
 
@@ -80,4 +86,3 @@ Lynn " 10<a href="../doc/n02" class="internal_link">2</a>
 
 
 </div>
-

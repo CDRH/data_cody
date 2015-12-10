@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,23 +19,21 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
 
-      <span class="dateline">Chicago<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Chicago<a href="#n01" class="internal_link">1</a>
          <br/>
 
-July 28<a href="../doc/n02" class="internal_link">2</a>
+July 28<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
-      <p>Those Preists<a href="../doc/n03" class="internal_link">3</a> want their deeds to their Lots— I wish you would let me know if you are now ready and will make them out for them?</p>
+      <p>Those Preists<a href="#n03" class="internal_link">3</a> want their deeds to their Lots— I wish you would let me know if you are now ready and will make them out for them?</p>
 
-      <p>Snyder<a href="../doc/n04" class="internal_link">4</a> writes me you have gone South to work for <span class="persName">Alger</span>— not but what I <a rel="tooltip" class="sic" title="approve​ ">approove</a>
-    ​ of it. But I <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ <a rel="tooltip" class="sic" title="believe​ ">beleive</a>
-    ​ that you would leave until the water was again <a rel="tooltip" class="sic" title="running​ ">runing</a>
-    ​. If you have left our business just at this critical time— Its not right And I will so notify the Co. I hope <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ not true—</p>
+      <p>Snyder<a href="#n04" class="internal_link">4</a> writes me you have gone South to work for <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span>— not but what I <a rel="tooltip" class="sic" title="approve​ &#xA;    ">approove</a> of it. But I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> 
+         <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> that you would leave until the water was again <a rel="tooltip" class="sic" title="running​ &#xA;    ">runing</a>. If you have left our business just at this critical time— Its not right And I will so notify the Co. I hope <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> not true—</p>
 
       <span class="closer">
          <span class="salute">Very truly yours</span>
@@ -56,4 +54,3 @@ July 28<a href="../doc/n02" class="internal_link">2</a>
    <div class="note">Note 4: "Snyder" is William "Okie" Snyder (b.1856), William F. Cody's ranch manager who had taken 160 acres near Irma Flats. </div>
 
 </div>
-

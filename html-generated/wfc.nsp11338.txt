@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11338.jpg"
@@ -30,4 +30,3 @@
       <p>Preparations are being made to make this the biggest parade ever witnessed in this part of the country, and every cowboy and cowgirl in the county, or outside of the county, is wanted on that day. Whomsoever has a saddle and a pony is urged to be in Cody next Tuesday morning and take part in that parade.</p>
    </div>
     </div>
-

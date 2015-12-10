@@ -4,7 +4,7 @@
     <div class="main_content">
         
 
-            <div class="type ">
+            <div class="type">
                 <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp05261.jpg"
@@ -36,4 +36,3 @@
             </div>
         
     </div>
-

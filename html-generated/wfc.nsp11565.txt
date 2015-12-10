@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -37,4 +37,3 @@ April 21, 1888.</span>
 
 
 </div>
-

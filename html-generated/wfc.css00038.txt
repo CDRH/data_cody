@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -41,8 +41,7 @@ April 22 1876
             </a>
          </span>
 
-he sent the angel of death. to take <del>whe</del> the treasure that he had given us five years and five months ago. and how dear he had grown to us in that time. And when we seen that there was <a rel="tooltip" class="sic" title="danger​ ">dainger</a>
-    ​ of him leaving us how we all clung to him. And prayed God not to take from us our little boy. But when he sent that hasty cruel messenger the Scarlet fever. there was no hope from the start. death claimed him as their own at once. and only gave us
+he sent the angel of death. to take <del>whe</del> the treasure that he had given us five years and five months ago. and how dear he had grown to us in that time. And when we seen that there was <a rel="tooltip" class="sic" title="danger​ &#xA;    ">dainger</a> of him leaving us how we all clung to him. And prayed God not to take from us our little boy. But when he sent that hasty cruel messenger the Scarlet fever. there was no hope from the start. death claimed him as their own at once. and only gave us
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -66,10 +65,7 @@ two short days. to say farewell and bid him good bye. Then he was gone. And now 
             </a>
          </span>
 
-him when we are there. for every one will know our Kitty. The messenger seems not to have been satisfied by plucking the <a rel="tooltip" class="sic" title="brightest​ ">brighte</a>
-    ​ flower. and is still hovering near by. thinking whether he shall take the others or not. for the same fever. has taken hold of our little Girls but so far only lightly. But with Kitty it claimed him from the first. Lulu is worn out and sick. <del>I am</del>  it is now three <a rel="tooltip" class="sic" title="o'clock​ ">oclock</a>
-    ​ in the morning. I am sitting by the bed side of our sick <a rel="tooltip" class="sic" title="babies​ ">babys</a>
-    ​. I was hundreds of miles away when. Lulu telegraphed me. and I only got home a few hours before Kitty died.
+him when we are there. for every one will know our Kitty. The messenger seems not to have been satisfied by plucking the <a rel="tooltip" class="sic" title="brightest​ &#xA;    ">brighte</a> flower. and is still hovering near by. thinking whether he shall take the others or not. for the same fever. has taken hold of our little Girls but so far only lightly. But with Kitty it claimed him from the first. Lulu is worn out and sick. <del>I am</del>  it is now three <a rel="tooltip" class="sic" title="o'clock​ &#xA;    ">oclock</a> in the morning. I am sitting by the bed side of our sick <a rel="tooltip" class="sic" title="babies​ &#xA;    ">babys</a>. I was hundreds of miles away when. Lulu telegraphed me. and I only got home a few hours before Kitty died.
 
 
 
@@ -89,4 +85,3 @@ he could not speak. but he put his little arms around my neck. as much as to say
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,7 +21,8 @@
       </h3>
       <div class="milestone line"> </div>
       <h3>
-         <div class="center">OUR REPRESENTATIVES AT THE COURT OF <span class="persName">QUEEN VICTORIA</span>.</div>
+         <div class="center">OUR REPRESENTATIVES AT THE COURT OF <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>QUEEN VICTORIA</span>.</div>
       </h3>
       <div class="milestone line"> </div>
       <h3>
@@ -33,7 +34,8 @@
 <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>
-               <span class="persName">JOHN R. WHITLEY</span>.<a href="../doc/n01" class="internal_link">1</a>
+               <span class="persName">
+                  <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j"/>JOHN R. WHITLEY</span>.<a href="#n01" class="internal_link">1</a>
             </p>
          </div>
 
@@ -42,11 +44,13 @@ and we present herewith pictures of some of the men and animals who have helped 
 
 <div class="inline_figure">
             <div class="p">[illustration]</div>
-            <p>CAPT. BURNET LANDRETH.<a href="../doc/n02" class="internal_link">2</a>
+            <p>CAPT. BURNET LANDRETH.<a href="#n02" class="internal_link">2</a>
             </p>
          </div>
 
-and horses are known to fame in this country. Even the tawny aborigine, <span class="persName">Red Shirt</span>, is a noted character in London for his quaint and ready replies to the questions asked by visitors. <span class="persName">Mr. Gladstone</span> took a special interest in him, and complimented his intelligence so far as to ask him what he thought of the British and Americans as brothers, to which the cautious aborigine rejoined that he "had not noticed the brotherhood to any great extent." Not only do the illustrated papers in London give much space to this feature of the exhibition, but the humorists and comic poets have taken it up; Punch and Judy, the Puck and Judge of London, revel in this new material for humor, and popular songs about the red
+and horses are known to fame in this country. Even the tawny aborigine, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Red Shirt</span>, is a noted character in London for his quaint and ready replies to the questions asked by visitors. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w"/>Mr. Gladstone</span> took a special interest in him, and complimented his intelligence so far as to ask him what he thought of the British and Americans as brothers, to which the cautious aborigine rejoined that he "had not noticed the brotherhood to any great extent." Not only do the illustrated papers in London give much space to this feature of the exhibition, but the humorists and comic poets have taken it up; Punch and Judy, the Puck and Judge of London, revel in this new material for humor, and popular songs about the red
 
 <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -75,7 +79,8 @@ Princess Louise, he was presented to her majesty, and under the genial influence
       <div class="inline_figure">
          <div class="p">[illustration]</div>
          <p>
-            <span class="persName">BUCK TAYLOR</span>.</p>
+            <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/"/>BUCK TAYLOR</span>.</p>
       </div>
 
       <p>Two of the the most noted of the group with the show are Buck Taylor and his Texas horse and "Nigger," a horse with a long tuft of mane growing out of the middle of his back, as shown in the accompanying cut.</p>
@@ -88,4 +93,3 @@ Princess Louise, he was presented to her majesty, and under the genial influence
 
    <div class="note">Note 2: Burnet Landreth (1842-1928), a Civil War officer and later a principal in the D. Landreth and Sons seed company in Philadelphia, was United States Director and Vice President for the American Exhibition of 1887.</div>
 </div>
-

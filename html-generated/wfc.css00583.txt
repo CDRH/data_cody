@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00583.jpg"
@@ -22,7 +22,7 @@
       </div>
 
 
-      <span class="ab">Number  24 ch<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab">Number  24 ch<a href="#n01" class="internal_link">1</a>
       </span>
 
 
@@ -40,13 +40,14 @@
 
       <span class="ab">Dated  Ch Philadelphia Pa 15</span>
 
-      <span class="ab">To  <span class="persName">Geo T Beck</span>
+      <span class="ab">To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
       </span>
 
       <span class="ab">Audit Annex</span>
 
 
-      <p>Its most important for future success this colony<a href="../doc/n03" class="internal_link">3</a> goes at once give every concession possible</p>
+      <p>Its most important for future success this colony<a href="#n03" class="internal_link">3</a> goes at once give every concession possible</p>
 
 
       <span class="closer">
@@ -63,4 +64,3 @@
    <div class="note">Note 3: "Colony" refers to the fifty or so German migrant families that were planning to settle in the Big Horn Basin.</div>
 
 </div>
-

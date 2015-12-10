@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="program ">
+   <div class="program">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -16,7 +16,7 @@
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Buffalo Bill's Wild West</h3>
 
@@ -44,7 +44,7 @@
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h3>Buffalo Bill's</h3>
          <h3>WILD WEST</h3>
          <div class="inline_figure">
@@ -62,7 +62,7 @@
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
          <h3>THE WILD WEST!</h3>
          <h3>Hon. W. F. CODY, . . . . . . . . . . . . . . . . . "BUFFALO BILL."</h3>
 
@@ -70,7 +70,7 @@
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>
             <div class="center">Programme</div>
@@ -116,7 +116,7 @@
       </span>
 
 
-      <div class=" ">
+      <div class="">
 
          <h3>
             <div class="center">SALUTATORY.</div>
@@ -148,7 +148,7 @@
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>
             <div class="center">
@@ -213,13 +213,13 @@
 
       <div class="milestone section"> </div>	
 
-      <div class=" ">
+      <div class="">
          <h3>Across the Continent with the Fifth Cavalry.</h3>
 
          <p>Captain George F. Price's history of this famous regiment recounts its experience from the time it was known as the Second Dragoons to the present, giving the historical record of its officers, among whom are numbered many of the most distinguished military leaders known in our national annals, such as Gen Albert Sydney Johnson, Gen. George H. Thomas, Gen. Robert E. Lee, Gen. John Sedgwick, Generals Hardee, Emory, Van Dorn, Merritt, Carr, Royall, Custer, and others of equal note. Besides alluding in many of its pages to incidents, adventures, and conduct of the favorite guide and scout of the regiment, W. F. Cody ("Buffalo Bill"), Captain Price completes a narrative of brave men and daring deeds by "flood and field" with following biographical sketch (page 583) of W. F. Cody, "Buffalo Bill."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>"W. F. CODY — BUFFALO BILL.</h3>
 
          <p>"William F. Cody was born in Scott County, Iowa. He removed at an early age to Kansas, and was employed as a herder, wagonmaster, and pony express rider. He went to Pike's Peak during the excitement which followed the discovery of gold in Colorado, but failing of success, returned to Kansas and became a trapper on the Republican River. In the fall of 1861, he was a Government scout and guide at Fort Larned, Kan., and in 1862 served as a scout and guide for the Ninth Kansas Cavalry, being chiefly employed in Arkansas and South Western Missouri. In 1863, he enlisted in the Seventh Kansas Cavalry, and served in Tennessee, Mississippi, Missouri, and Kansas, and participated in several battles. He was made a non-commissioned officer and served as a scout for his regiment after the battle of Tupelo. He was honourably discharged at the end of the war, and engaged in various business pursuits until the spring of 1867, when he made a contract, for a monthly compensation of five hundred dollars, to deliver all the buffalo meat that would be needed for food purposes for a number of laborers on the Kansas Pacific Railway in Western Kansas, and during this engagement — a period of less than eighteen months — he killed four thousand two hundred and eighty buffaloes. This remarkable success gained for him the name of Buffalo Bill. When hunting buffalo Cody would ride his horse, whenever possible, to the right front of a herd, shoot down the leaders, and crowd their followers to the left until they began to run in a circle, when he would soon kill all that he required. Cody again entered the Government service in 1868 as a scout and guide, and, after a series of dangerous rides as bearer of important dispatches through a country which was infested with hostile Indians, was appointed by General Sheridan chief scout and guide for the Fifth Cavalry, which had been recently ordered from reconstruction duty in the Southern States for a campaign against the hostile Sioux and Cheyennes. He joined a detachment of the regiment at Fort Hays, Kansas, and was engaged during the fall of 1868, in the combats on Beaver and Shuter Creeks and north branch of Solomon River. He then served with the Canadian River expedition during the winter of 1868-69, and became deservedly 
@@ -249,21 +249,21 @@ conspicuous for cheerful service under dispiriting circumstances and the success
          <p>Should the wild Sioux again go on the war-path, Cody, if living, will be found with the cavalry advance, riding another "Buckskin Joe," and carrying his Springfield rifle, "Lucretia," across the pommel of his saddle.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>FROM COL. DODGE'S "THIRTY YEARS AMONG THE INDIANS," PAGE 628.</h3>
 
          <p>"Of ten men employed as scouts nine will prove to be worthless; of fifty so employed one may prove to be really valuable, but, though hundreds, even thousands of men have been so employed by the Government since the war, the number of really remarkable men among them can be counted on the fingers. The services which these men are called on to perform are so important and valuable that the officer who benefits by them is sure to give the fullest credit; and men honored in official reports come to be great men on the frontier. Fremont's reports made Kit Carson a renowned man. Custer immortalized California Joe. Custer, Merritt, and Carr made William F. Cody (Buffalo Bill) a plains celebrity 'UNTIL TIME SHALL BE NO MORE.'"</p>
 
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>A Legislator.</h3>
 
          <p>Phocian Howard journalistically recalls the fact:— "We were present in the Nebraska Legislature when Mr. Cody's resignation was read, and knowing his practical qualities, his thorough knowledge of important questions then demanding attention in border legislation, his acquaintance with the Indian problem — the savage's deadly foe in battle, their generous friend in peace — great was our disappointment in his refusing to continue in political life, choosing to be what he really is — a true 'Knight of the Plains.' On the frontier, even there his name a household word, deservedly is the famous scout popular throughout the land, standing as he has, a leader among the manly pioneer barrier between civilization and savagery risking all, that the 'Star of Empire might force its westward way.' We know Bill Cody well, having been with him in three campaigns among the Indians, the last being the memorable Custer campaign under Crook, on the Big Horn, against the Sitting Bull Sioux, and we bear kind witness that Buffalo Bill is the idol of the army and frontiersman, and the dread and terror of the war-bonneted Indian. At the last session of the Nebraska Legislature he received a large complimentary vote for United States Senator."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>A Pen Picture.</h3>
 
@@ -283,7 +283,7 @@ conspicuous for cheerful service under dispiriting circumstances and the success
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>As an Educator.</h3>
 
@@ -299,7 +299,7 @@ conspicuous for cheerful service under dispiriting circumstances and the success
 
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>BUFFALO BILL AT HOME.</h3>
          <h3>HIS GREAT SUCCESS ABROAD.</h3>
@@ -324,7 +324,7 @@ conspicuous for cheerful service under dispiriting circumstances and the success
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>MR. NATE SALSBURY, Director.</h3>
 
@@ -343,7 +343,7 @@ India, and Europe, both as actor and manager, is a guarantee that the "Wild West
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>"THE COW-BOY KID" — The Boy Marksman.</h3>
 
@@ -371,7 +371,7 @@ existing fact, continually threatening, in the shape of the heartless savage Sio
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>THE HUNT OF THE BISON.</h3>
 
@@ -443,7 +443,7 @@ to be witnessed, and wondering how I would "pan out" in the view of my "red brot
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Jim Mitchell.</h3>
 
@@ -463,7 +463,7 @@ to be witnessed, and wondering how I would "pan out" in the view of my "red brot
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -518,7 +518,7 @@ to be witnessed, and wondering how I would "pan out" in the view of my "red brot
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>THE COW-BOYS.</h3>
 
@@ -531,7 +531,7 @@ to be witnessed, and wondering how I would "pan out" in the view of my "red brot
 valueless, and the Eastern necessities of the table, the tan-yard, and the factory would be a meagre. These will be the genuine cattle herders of a reputable trade, and not the later misnomers of "the road," who, in assuming an honored title, have tarnished it in the East, while being in fact the cow-boys' greatest foe, the thieving, criminal "rustler." To <em class="hi">Wilkes' Spirit</em>, of March, the editor is indebted for a just tribute and description of the American ranchman.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Cow-Boy.</h3>
 
@@ -590,7 +590,7 @@ can be considered such.</p>
             <br/>J. B. OMOHUNDRO (TEXAS JACK).</span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <p>Among the leading celebrities in the present party will be the renowned BUCK TAYLOR, a man whose great strength, nerve, endurance, and skill is historical in the West; JIM MITCHELL, equally distinguished as a lassoist and roper; BUD AYERS, JIM KID, and others, who will appear in feats of horsemanship, riding bucking mustangs, roping cattle, throwing buffalo, etc., eclipsing in agility and danger the Spanish matadors of old.</p>
       </div>
 
@@ -606,7 +606,7 @@ can be considered such.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -614,7 +614,7 @@ can be considered such.</p>
 
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>THE VAQUERO OF THE SOUTHWEST.</h3>
 
@@ -629,7 +629,7 @@ can be considered such.</p>
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Tony Esquival — Champion Vaquero Rider,</h3>
 
@@ -646,7 +646,7 @@ can be considered such.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>"OLD CHARLIE," The Horse</h3>
          <h3>THAT CARRIED BUFFALO BILL ONE HUNDRED MILES IN NINE HOURS AND FORTY-FIVE MINUTES.</h3>
@@ -668,7 +668,7 @@ can be considered such.</p>
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Shakespeare on the Horse.</h3>
          <h3>IN "VENUS AND ADONIS."</h3>
@@ -744,7 +744,7 @@ can be considered such.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="ab">DEATH OF CUSTER<br/>IN THE BATTLE OF<br/>THE LITTLE BIG HORN</span>
@@ -763,7 +763,7 @@ can be considered such.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -783,156 +783,158 @@ can be considered such.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>LETTERS OF COMMENDATION FROM PROMINENT MILITARY MEN.</h3>
 
+         <div class="">
+            <div class="note">The following letter received with photograph of the hero of the "March to the Sea," Gen. W. T. Sherman:</div>
 
-         <div class="note">The following letter received with photograph of the hero of the "March to the Sea," Gen. W. T. Sherman:</div>
 
-
-         <span class="dateline">NEW YORK, December 25, 1886.</span>
-         <p>
-            <em class="hi">To Hon. Wm. F. Cody:</em>—With the best compliments of one, who, in 1866, was guided by him up the Republican, then occupied by the Cheyennes and Arapahos as their ancestral hunting grounds, now transformed into farms and cattle-ranches, in better harmony with modern civilization, and with his best wishes that he succeed in his honorable efforts to represent the scenes of that day to a generation then unborn.</p>
-         <span class="closer">
-            <br/>W. T. SHERMAN, General.</span>
-
+            <span class="dateline">NEW YORK, December 25, 1886.</span>
+            <p>
+               <em class="hi">To Hon. Wm. F. Cody:</em>—With the best compliments of one, who, in 1866, was guided by him up the Republican, then occupied by the Cheyennes and Arapahos as their ancestral hunting grounds, now transformed into farms and cattle-ranches, in better harmony with modern civilization, and with his best wishes that he succeed in his honorable efforts to represent the scenes of that day to a generation then unborn.</p>
+            <span class="closer">
+               <br/>W. T. SHERMAN, General.</span>
+         </div>
 
          <div class="milestone section"> </div>
 
-
-         <span class="dateline">NEW YORK, December 28, 1886.</span>
-         <p>
-            <em class="hi">Hon. Wm. F. Cody: Dear Sir,</em> — Recalling the many facts that came to me while I was Adjutant-General of the Division of the Missouri, under General Sheridan, bearing upon your efficiency, fidelity, and daring as a guide and scout over the country west of the Missouri River and east of the Rocky Mountains, I take pleasure in observing your success in depicting in the East the early life of the West. Very truly yours,</p>
-         <span class="closer">
-            <br/>JAMES B. FRY,<br/>
+         <div class="">
+            <span class="dateline">NEW YORK, December 28, 1886.</span>
+            <p>
+               <em class="hi">Hon. Wm. F. Cody: Dear Sir,</em> — Recalling the many facts that came to me while I was Adjutant-General of the Division of the Missouri, under General Sheridan, bearing upon your efficiency, fidelity, and daring as a guide and scout over the country west of the Missouri River and east of the Rocky Mountains, I take pleasure in observing your success in depicting in the East the early life of the West. Very truly yours,</p>
+            <span class="closer">
+               <br/>JAMES B. FRY,<br/>
 Assistant Adjutant-General, Brevet Major-General, U.S.A.</span>
-
+         </div>
 
          <div class="milestone section"> </div>
 
-         <span class="dateline">HEADQUARTERS ARMY OF THE UNITED STATES,<br/>
+         <div class="">
+            <span class="dateline">HEADQUARTERS ARMY OF THE UNITED STATES,<br/>
 WASHINGTON, D.C., January 7, 1887.</span>
-         <p>Mr. William F. Cody was a scout, and served in my command on the western frontier for many years. He was always ready for duty, and was a cool, brave man, with unimpeachable character. I take pleasure in commending him for the many services he has rendered to the Army, whose respect he enjoys, for his manly qualities.</p>
-         <span class="closer">
-            <br/>P. H. SHERIDAN, Lieutenant-General.</span>
-
-
-         <div class="milestone section"> </div>
-
-
-         <span class="dateline">LOS ANGELES, Cal., January 7, 1887.</span>
-         <p>
-            <em class="hi">Hon. Wm. F. Cody: Dear Sir</em>, — Having visited your great Exhibition in St. Louis and New York City, I desire to congratulate you on the success of your enterprise. I was much interested in the various life-like representations of western scenery, as well as the fine exhibition of skilled markmanship and magnificent horsemanship. You not only represent the many interesting features of frontier life, but also the difficulties and dangers that have been encountered by the adventurous and fearless pioneers of civilization. The wild Indian life as it was a few years ago, will soon be a thing of the past, but you appear to have selected a good class of Indians to represent that race of people, and I regard your Exhibition as not only very interesting, but practically instructive. Your services on the frontier were exceedingly valuable. With best wishes for your success, believe me, very truly yours,</p>
-         <span class="closer">
-            <br/>NELSON A. MILES, Brigadier-General, U.S.A.</span>
-
+            <p>Mr. William F. Cody was a scout, and served in my command on the western frontier for many years. He was always ready for duty, and was a cool, brave man, with unimpeachable character. I take pleasure in commending him for the many services he has rendered to the Army, whose respect he enjoys, for his manly qualities.</p>
+            <span class="closer">
+               <br/>P. H. SHERIDAN, Lieutenant-General.</span>
+         </div>
 
          <div class="milestone section"> </div>
 
+         <div class="">
+            <span class="dateline">LOS ANGELES, Cal., January 7, 1887.</span>
+            <p>
+               <em class="hi">Hon. Wm. F. Cody: Dear Sir</em>, — Having visited your great Exhibition in St. Louis and New York City, I desire to congratulate you on the success of your enterprise. I was much interested in the various life-like representations of western scenery, as well as the fine exhibition of skilled markmanship and magnificent horsemanship. You not only represent the many interesting features of frontier life, but also the difficulties and dangers that have been encountered by the adventurous and fearless pioneers of civilization. The wild Indian life as it was a few years ago, will soon be a thing of the past, but you appear to have selected a good class of Indians to represent that race of people, and I regard your Exhibition as not only very interesting, but practically instructive. Your services on the frontier were exceedingly valuable. With best wishes for your success, believe me, very truly yours,</p>
+            <span class="closer">
+               <br/>NELSON A. MILES, Brigadier-General, U.S.A.</span>
+         </div>
 
-         <h4>"HE IS KING OF THEM ALL."</h4>
+         <div class="milestone section"> </div>
 
-         <span class="dateline">HEADQUARTERS MOUNTED RECRUITING SERIVCE,<br/>
+         <div class="">
+            <h4>"HE IS KING OF THEM ALL."</h4>
+
+            <span class="dateline">HEADQUARTERS MOUNTED RECRUITING SERIVCE,<br/>
 ST. LOUIS, MO., May 7, 1885.</span>
 
-         <p>
-            <em class="hi">Major John M. Burke: Dear Sir</em>, — I take pleasure in saying that in an experience of about thirty years on the plains and in the mountains, I have seen a great many guides, scouts, trailers, and hunters, and Buffalo Bill (W. F. Cody) is king of them all. He has been with me in seven Indian fights, and his services have been invaluable. Very respectfully yours,</p>
-         <span class="closer">
-            <br/>EUGENE A. CARR,<br/>
+            <p>
+               <em class="hi">Major John M. Burke: Dear Sir</em>, — I take pleasure in saying that in an experience of about thirty years on the plains and in the mountains, I have seen a great many guides, scouts, trailers, and hunters, and Buffalo Bill (W. F. Cody) is king of them all. He has been with me in seven Indian fights, and his services have been invaluable. Very respectfully yours,</p>
+            <span class="closer">
+               <br/>EUGENE A. CARR,<br/>
 Brevet Major-General, U.S.A.</span>
-
+         </div>
 
          <div class="milestone section"> </div>
 
-
-         <span class="dateline">UNITED STATES MILITARY ACADEMY,<br/>
+         <div class="">
+            <span class="dateline">UNITED STATES MILITARY ACADEMY,<br/>
 WEST POINT, N.Y., January 11, 1887.</span>
-         <p>* * * I have known W. F. Cody (Buffalo Bill) for many years. He is a Western man of the best type, combining those qualities of enterprise, daring, good sense, and physical endurance which made him the superior of any scout I ever knew. He was cool and capable when surrounded by dangers, and his reports were always free from exaggeration. He is a gentleman in that better sense of the word, which implies character, and he may be depended on under all circumstances. I wish him success.</p>
-         <span class="closer">
-            <br/>W. MERRITT, Brevet Major-General, U.S.A.,<br/>
+            <p>* * * I have known W. F. Cody (Buffalo Bill) for many years. He is a Western man of the best type, combining those qualities of enterprise, daring, good sense, and physical endurance which made him the superior of any scout I ever knew. He was cool and capable when surrounded by dangers, and his reports were always free from exaggeration. He is a gentleman in that better sense of the word, which implies character, and he may be depended on under all circumstances. I wish him success.</p>
+            <span class="closer">
+               <br/>W. MERRITT, Brevet Major-General, U.S.A.,<br/>
 Late Major-General Volunteers.</span>
+         </div>
 
 
-
-
-         <span class="dateline">OMAHA, Neb., January 7, 1887.</span>
-         <p>
-            <em class="hi">Hon. Wm. F. Cody: Dear Sir</em>, — I take great pleasure in testifying to the very efficient service rendered by you "as a scout," in the campaign against the Sioux Indians, during the year 1876. Also, that I have witnessed your Wild West Exhibition. I consider it the most realistic performance of the kind I have ever seen.</p>
-         <span class="closer">
-            <span class="salute">Very sincerely, your obedient servants,</span>
-            <br/>GEORGE CROOK, Brigadier-General, U.S.A.</span>
-
+         <div class="">
+            <span class="dateline">OMAHA, Neb., January 7, 1887.</span>
+            <p>
+               <em class="hi">Hon. Wm. F. Cody: Dear Sir</em>, — I take great pleasure in testifying to the very efficient service rendered by you "as a scout," in the campaign against the Sioux Indians, during the year 1876. Also, that I have witnessed your Wild West Exhibition. I consider it the most realistic performance of the kind I have ever seen.</p>
+            <span class="closer">
+               <span class="salute">Very sincerely, your obedient servants,</span>
+               <br/>GEORGE CROOK, Brigadier-General, U.S.A.</span>
+         </div>
 
          <div class="milestone section"> </div>
 
-
-         <span class="dateline">WASHINGTON, D.C., February 8, 1887.</span>
-         <p>Mr. Cody was chief guide and hunter to my command, when I commanded the District of the North Platte, and he performed all his duties with marked excellence.</p>
-         <span class="closer">
-            <br/>W. H. EMORY,<br/>
+         <div class="">
+            <span class="dateline">WASHINGTON, D.C., February 8, 1887.</span>
+            <p>Mr. Cody was chief guide and hunter to my command, when I commanded the District of the North Platte, and he performed all his duties with marked excellence.</p>
+            <span class="closer">
+               <br/>W. H. EMORY,<br/>
 Major-General, U.S.A.
 </span>
-
+         </div>
 
          <div class="milestone section"> </div>
 
-
-         <span class="dateline">HEADQUARTERS 7TH CAVALRY,<br/>
+         <div class="">
+            <span class="dateline">HEADQUARTERS 7TH CAVALRY,<br/>
 FORT MEAD, Dakota Territory, February 14, 1887.</span>
-         <p>
-            <em class="hi">My Dear Sir</em>, — Your army career on the frontier, and your present enterprise of depicting scenes in the Far West, are so enthusiastically approved and commended by the American people, and the most prominent men of the U.S. Army, that there is nothing left for me to say. I feel sure your new departure will be a success. With best wishes, I remain, yours truly,</p>
-         <span class="closer">
-            <br/>JAMES W. FORSYTH, Colonel 7th Cavalry.</span>
+            <p>
+               <em class="hi">My Dear Sir</em>, — Your army career on the frontier, and your present enterprise of depicting scenes in the Far West, are so enthusiastically approved and commended by the American people, and the most prominent men of the U.S. Army, that there is nothing left for me to say. I feel sure your new departure will be a success. With best wishes, I remain, yours truly,</p>
+            <span class="closer">
+               <br/>JAMES W. FORSYTH, Colonel 7th Cavalry.</span>
 
+         </div>
 
+         <div class="milestone section"> </div>
+
+         <div class="">
+            <span class="dateline">JERSEY CITY, 405 Bergen Ave., February 7, 1887.</span>
+            <p>
+               <em class="hi">Hon. Wm. F. Cody: My Dear Sir</em>, — I fully and with pleasure endorse you as the veritable "Buffalo Bill," U.S. Scout, serving with the troops operating against hostile Indians, in 1868, on the plains. I speak from personal knowledge, and from reports of officers and others, with whom you secured renown by your services as a scout and successful hunter. Your sojourn on the frontier at a time when it was a wild and sparsely settled section of the Continent, fully enables you to portray that in which you have personally participated — the Pioneer, Indian Fighter, and Frontiersman. Wishing you every success, I remain, very respectfully, yours, </p>
+            <span class="closer">
+               <br/>H. C. BANKHEAD, Brigadier-General, U.S.A.</span>
+         </div>
 
          <div class="milestone section"> </div>
 
 
-         <span class="dateline">JERSEY CITY, 405 Bergen Ave., February 7, 1887.</span>
-         <p>
-            <em class="hi">Hon. Wm. F. Cody: My Dear Sir</em>, — I fully and with pleasure endorse you as the veritable "Buffalo Bill," U.S. Scout, serving with the troops operating against hostile Indians, in 1868, on the plains. I speak from personal knowledge, and from reports of officers and others, with whom you secured renown by your services as a scout and successful hunter. Your sojourn on the frontier at a time when it was a wild and sparsely settled section of the Continent, fully enables you to portray that in which you have personally participated — the Pioneer, Indian Fighter, and Frontiersman. Wishing you every success, I remain, very respectfully, yours, </p>
-         <span class="closer">
-            <br/>H. C. BANKHEAD, Brigadier-General, U.S.A.</span>
-
-
-         <div class="milestone section"> </div>
-
-
-
-         <span class="dateline">HOTEL RICHMOND, WASHINGTON, D. C., January 9, 1887.</span>
-         <p> * * * W. F. Cody (Buffalo Bill) was with me in the early days, when I commanded a Battalion of the 5th Cavalry, operating against the hostile Sioux. He filled every position and met every emergency with so much braver, competence, and intelligence, as to command the general admiration and respect of the officers, and become Chief of Scouts of the Department. All his successes have been conducted on the most honorable principles.</p>
-         <span class="closer">
-            <br/>W. B. ROYALL,<br/>
+         <div class="">
+            <span class="dateline">HOTEL RICHMOND, WASHINGTON, D. C., January 9, 1887.</span>
+            <p> * * * W. F. Cody (Buffalo Bill) was with me in the early days, when I commanded a Battalion of the 5th Cavalry, operating against the hostile Sioux. He filled every position and met every emergency with so much braver, competence, and intelligence, as to command the general admiration and respect of the officers, and become Chief of Scouts of the Department. All his successes have been conducted on the most honorable principles.</p>
+            <span class="closer">
+               <br/>W. B. ROYALL,<br/>
 Colonel 4th Cavalry, U.S.A.</span>
-
+         </div>
 
          <div class="milestone section"> </div>
 
-
-         <span class="dateline">HEADQUARTERS 1ST CAVALRY,<br/>
+         <div class="">
+            <span class="dateline">HEADQUARTERS 1ST CAVALRY,<br/>
 FORT CUSTER, M.T.</span>
-         <p>* * * I often recall your valuable services to the Government, as well as to myself, in years long gone by, specially during the Sioux difficulties, when you were attached to my command as Chief of Scouts. Your indomitable perseverance, incomprehensible instinct in discovering the trails of the Indians, particularly at night, no matter how dark or stormy. Your physical powers of endurance in following the enemy until overtaken, and your unflinching courage, as exhibited on all occasions, won not only my own esteem and admiration, but that of the whole command. With my best wishes for your success, I remain your old friend,</p>
-         <span class="closer">
-            <br/>N. A. M. DUDLEY, Colonel 1st Cavalry,<br/>
+            <p>* * * I often recall your valuable services to the Government, as well as to myself, in years long gone by, specially during the Sioux difficulties, when you were attached to my command as Chief of Scouts. Your indomitable perseverance, incomprehensible instinct in discovering the trails of the Indians, particularly at night, no matter how dark or stormy. Your physical powers of endurance in following the enemy until overtaken, and your unflinching courage, as exhibited on all occasions, won not only my own esteem and admiration, but that of the whole command. With my best wishes for your success, I remain your old friend,</p>
+            <span class="closer">
+               <br/>N. A. M. DUDLEY, Colonel 1st Cavalry,<br/>
 Brevet Brigadier-General, U.S.A.</span>
-
+         </div>
 
          <div class="milestone section"> </div>
 
-         <span class="dateline">TALLAHASSEE, Fla., January 12, 1887.</span>
-         <p>
-            <em class="hi">Hon. William F. Cody</em>, — I take great pleasure in recommending you to the public, as a man who has a high reputation in the Army, as a Scout. No one has ever shown more bravery on the western plains than yourself. I wish you success in your proposed visit to Great Britain. Your obedient servant,</p>
-         <span class="closer">
-            <br/>JNO. H. KING, Brevet Major-General, U.S.A.</span>
+         <div class="">
+            <span class="dateline">TALLAHASSEE, Fla., January 12, 1887.</span>
+            <p>
+               <em class="hi">Hon. William F. Cody</em>, — I take great pleasure in recommending you to the public, as a man who has a high reputation in the Army, as a Scout. No one has ever shown more bravery on the western plains than yourself. I wish you success in your proposed visit to Great Britain. Your obedient servant,</p>
+            <span class="closer">
+               <br/>JNO. H. KING, Brevet Major-General, U.S.A.</span>
 
-
+         </div>
       </div>
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <span class="ab">Lines inspired on witnessing the Prairie Chief caressing his baby daughter:</span>
          <span class="lg">
@@ -969,7 +971,7 @@ Brevet Brigadier-General, U.S.A.</span>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>A PRACTICAL "ALL-ROUND SHOT."</h3>
 
@@ -983,7 +985,7 @@ Brevet Brigadier-General, U.S.A.</span>
 Bill is what may be termed a "practical marksman," and where that expression's full meaning is understood, he is looked on as a marvelous "all-round shot." That is, a man of deadly aim in any emergency, with any weapon — a small Derringer, a Colt's, a shot-gun, a carbine, a blunderbuss, or a rifle — at any foe, red or white; at any game — chicken, jack-rabbit, antelope, deer, buffalo, bear, or elk; at the swiftest birds or soaring eagle; on foot, in any position; on horseback, at any speed. To be such a marksman is only the result of years of necessity for exercising the faculties of instantaneous measurement of distance, acuteness of vision — in fact, an eagle eye and iron nerves — to think quick, to resolve, to fire, to kill. As a hunter these gifts have rendered him famous, and gained him plaudits from admiring officers, noblemen, sportsmen, and competitors in the chase, and compelled the respect and fear of his implacable Indian foes. That he exists to-day is the result of the training that enables a man in the most startling exigency to command himself, and to meet the circumstances face to face, whatever they may be, and achieve, by cool precision, deserved victory in the field, and embellish history with deeds of heroism. Mr. Cody will give an exhibition of his ability by shooting objects thrown in the air while galloping at full speed, executing difficulties that would receive commendation if accomplished on foot, and which can only be fully appreciated by those who have attempted the feat while experiencing a rapid pace when occupying "a seat in the saddle."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>CODY SAVES WILD BILL.</h3>
 
          <p>"After a very long march, full of hardships and sufferings, Gen. Penrose's camp was found on the Palodora in a most distracted condition. Gen. Carr's arrival was none too soon, as the famished men were sustaining life on the last carcasses of their draught animals. In a few weeks Black Kettle's depredations necessitated a pursuit.   .   . The consolidated command discovered the Indians on the Cimarron, and a terrific battle ensued.   .   .   . In this fight Buffalo Bill and Wild Bill did almost the work of a regiment; braver men never went into an action, both fighting as though they were invulnerable. In the fury and rout which followed the first charge Wild Bill gave chase to Black Kettle, head chief of the Cheyennes, engaged and overtook the fleeing red warrior, stabbing him to death. But the accomplishment of this heroic action would have cost him his own life, had not Buffalo Bill ridden with impetuous daring into the very midst of fully fifty Indians, who had surrounded Wild Bill, intent on either his capture or death. These two daring and intrepid scouts plunged furiously into the midst of the Indians, each with a revolver in either hand, and literally carved their way through the surging mass of redskins, leaving a furrow of dead Indians in their wake. Such fighting, such riding, and such marvelous intrepidity combined, were doubtless never equaled, and if but this act alone were credited to the valor of Wild Bill and Buffalo Bill, their names would deserve inscription on Fame's enduring monument." —<em class="hi">Buell's History.</em>
@@ -1001,7 +1003,7 @@ Bill is what may be termed a "practical marksman," and where that expression's f
          </a>
       </span> 
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Bow and Arrow.</h3>
 
@@ -1016,7 +1018,7 @@ dependence, backed by personal skill in its use, for sustenance for himself and 
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Pawnees Astonished.</h3>
 
@@ -1034,7 +1036,7 @@ attacked the herd and killed twenty-three. Later in the day another herd were di
       <div class="milestone section"> </div>
 
 
-      <div class=" ">
+      <div class="">
          <h3>Colonel Royal's Wagons.</h3>
 
          <p>Once upon the South Fork of the Solomon, Col. Royal ordered Cody to kill some buffalo that were in sight to feed his men, but declined to send his wagons until assured of the game. Bill rounded the herd, and, getting them in a line for camp, drove them in and killed seven near headquarters; or, as the Colonel afterwards laughingly remarked, "furnishing grub and his own transportation."</p>
@@ -1050,7 +1052,7 @@ attacked the herd and killed twenty-three. Later in the day another herd were di
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h3>AN INDIAN'S RELIGION.</h3>
 
          <p>The Indian is as religious as the most devout Christian, and lays as much stress on form as a Ritualist. He believes in two Gods, equals in wisdom and power.</p>
@@ -1090,13 +1092,13 @@ without a struggle between these two Gods on his personal account.</p>
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
          <p>With all the attractions in the line of amusements, there seems to be no abatement in the interest manifested by the public in the peculiarities to be found in the daily presentation of the realistic scenes of the "Wild West." Each participant has passed through, in the Far West, all the various acts which they are called upon to represent, and the public are assured that every thing and person is as stated in the programme.</p>
       </div>
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
          <h3>THE WINCHESTER REPEATING FIRE ARMS CO.</h3>
          <p>The arms and ammunition used by this organization are from the world celebrated Winchester Repeating Fire Arms Company of New Haven, Connecticut, United States of America.</p>
       </div>
@@ -1111,7 +1113,7 @@ without a struggle between these two Gods on his personal account.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Miss LILLIAN T. SMITH,</h3>
          <h3>THE CALIFORNIA GIRL, AND CHAMPION RIFLE SHOT,</h3>
@@ -1145,7 +1147,7 @@ shooting glass-balls thrown from the hand, she made a score of 323 successive sh
       </span>
 
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Rifle as an Aid to Civilization.</h3>
 
@@ -1163,7 +1165,7 @@ shooting glass-balls thrown from the hand, she made a score of 323 successive sh
       <div class="milestone section"> </div>
 
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Clay Pigeons.</h3>
 
@@ -1178,7 +1180,7 @@ shooting glass-balls thrown from the hand, she made a score of 323 successive sh
       <div class="milestone section"> </div>
 
 
-      <div class=" ">
+      <div class="">
 
          <h3>Indian Names of States.</h3>
 
@@ -1211,7 +1213,7 @@ shooting glass-balls thrown from the hand, she made a score of 323 successive sh
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h3>"Utah Frank"</h3>
          <h3>(THE GREAT INDIAN FIGHT AT HORSESHOE.)</h3>
 
@@ -1267,7 +1269,7 @@ and the now despondent fugitives prepared to sell their lives at the highest pri
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Buffalo.</h3>
 
@@ -1277,7 +1279,7 @@ and the now despondent fugitives prepared to sell their lives at the highest pri
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Cody's Corral; or, the Scouts and the Sioux.</h3>
          <span class="byline">BY "BUCKSKIN SAM."</span>
@@ -1352,7 +1354,7 @@ and the now despondent fugitives prepared to sell their lives at the highest pri
          </span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <p>A stirring life picture of a battle between the whites and Indians, showing the tactics and model of warfare of each, will be given by the skilled members of both races in Buffalo Bill's representation of scenes in "The Wild West."</p>
 
       </div>
@@ -1367,7 +1369,7 @@ and the now despondent fugitives prepared to sell their lives at the highest pri
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>"BUCK" TAYLOR,</h3>
          <h3>King of the Cow-boys.</h3>
@@ -1377,7 +1379,7 @@ and the now despondent fugitives prepared to sell their lives at the highest pri
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>JOHN NELSON — "Cha-Sha-Sha-na-po-ge-o",</h3>
          <h3>AND HIS INDIAN FAMILY.</h3>
@@ -1401,13 +1403,13 @@ and the now despondent fugitives prepared to sell their lives at the highest pri
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <p>The Ligowsky Clay Pigeons have been adopted as a Standard Target by The National Gun Association, an incorporated organizationcomposed of the best sportsmen in the country. Send stamp for details to the Secretary, Box 1292,Cincinnati, Ohio, U. S. A.</p>
 
       </div>
 
-      <div class=" ">
+      <div class="">
 
 
          <div class="inline_figure">
@@ -1432,7 +1434,7 @@ and the now despondent fugitives prepared to sell their lives at the highest pri
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -1441,7 +1443,7 @@ and the now despondent fugitives prepared to sell their lives at the highest pri
 
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>A FEW REASONS WHY YOU SHOULD VISIT "BUFFALO BILL'S WILD WEST."</h3>
 
@@ -1482,7 +1484,7 @@ and the now despondent fugitives prepared to sell their lives at the highest pri
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>MISS ANNIE OAKLEY.</h3>
 
@@ -1506,7 +1508,7 @@ ability that he offered to back her against any other so-called champion. Sittin
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
          <h3>"Bill Bullock,"</h3>
 
          <p>One of the leaders among the cow-boys, is a half-breed Sioux, and is a good combination of the best blood of that justly-famed fighting nation, allied, through Indian rites and ceremonies, with the blue blood of the East. For daring, intrepidity, and skill, he is unsurpassed, possessing the sterling qualities that cause admiration in the races, red and white.</p>
@@ -1514,7 +1516,7 @@ ability that he offered to back her against any other so-called champion. Sittin
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Capt. Fred Mathews,</h3>
 
@@ -1523,7 +1525,7 @@ ability that he offered to back her against any other so-called champion. Sittin
 
       <div class="milestone section"> </div>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Cody's Famous Ride, 355 Miles in 58 Hours, through a Hostile Country.</h3>
 
@@ -1608,7 +1610,7 @@ ability that he offered to back her against any other so-called champion. Sittin
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -1641,7 +1643,7 @@ spectacles were identical with those wrought upon me a long time ago by the same
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -1653,4 +1655,3 @@ spectacles were identical with those wrought upon me a long time ago by the same
 
 
 </div>
-

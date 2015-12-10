@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,7 +25,8 @@
       <span class="dateline">January 15th, 1915.</span>
 
 
-      <span class="persName">Bronson Rumsey</span>, Trustee, 
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, Trustee, 
 
 696 Ellicott Square,
 
@@ -52,7 +53,7 @@ CLB</div>
       </span>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.bsn00074.002.jpg"
@@ -85,4 +86,3 @@ CLB</div>
 
 
 </div>
-

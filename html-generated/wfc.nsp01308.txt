@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -34,9 +34,9 @@
 
       <p>His defeat proved his victory. The girl was his mascot, and his successes are due to her.</p>
 
-      <p>Magnificent specimens of manhood though they be, "Bill's boys" are not perfection. Under date: "Buffalo Bill's Wild West Co., London, Sept. 19, 1887," D. W. Shoemaker,<a href="../doc/n01" class="internal_link">1</a> of the Cowboy Band, writes: "Some weeks ago I was suffering from great disorder of the liver and kidneys, and general prostration. I was forced to quit work and take my bed. I called in a physician, who only afforded temporary relief. A friend induced me to take Warner's safe cure, which afforded almost instant relief, and, after taking three bottles, I find myself in as good health as at any time in my life."</p>
+      <p>Magnificent specimens of manhood though they be, "Bill's boys" are not perfection. Under date: "Buffalo Bill's Wild West Co., London, Sept. 19, 1887," D. W. Shoemaker,<a href="#n01" class="internal_link">1</a> of the Cowboy Band, writes: "Some weeks ago I was suffering from great disorder of the liver and kidneys, and general prostration. I was forced to quit work and take my bed. I called in a physician, who only afforded temporary relief. A friend induced me to take Warner's safe cure, which afforded almost instant relief, and, after taking three bottles, I find myself in as good health as at any time in my life."</p>
 
-      <p>Two other members of the Wild West show, Mawe Beardsley, pony express rider,<a href="../doc/n02" class="internal_link">2</a> and Jim Mitchell, a cowboy,<a href="../doc/n03" class="internal_link">3</a> add to this statement of Shoemaker's, that in their long experience on the plains, from change of water, climate, and mode of life, and severe riding, they became subject to liver and kidney diseases, and they have found a sure remedy for these troubles in Warner's safe cure<a href="../doc/n04" class="internal_link">4</a>. Mawe Beardsley says: "I constantly recommend it to my friends."</p>
+      <p>Two other members of the Wild West show, Mawe Beardsley, pony express rider,<a href="#n02" class="internal_link">2</a> and Jim Mitchell, a cowboy,<a href="#n03" class="internal_link">3</a> add to this statement of Shoemaker's, that in their long experience on the plains, from change of water, climate, and mode of life, and severe riding, they became subject to liver and kidney diseases, and they have found a sure remedy for these troubles in Warner's safe cure<a href="#n04" class="internal_link">4</a>. Mawe Beardsley says: "I constantly recommend it to my friends."</p>
 
       <p>Buffalo Bill is so popular in England he may come home a "Sir William." But if not, he will probably enjoy himself quite as well, having secured a fortune ample enough for all his wants, title or no title.</p>
 
@@ -44,7 +44,8 @@
 
 
 
-   <div class="note">Note 1: D. W. Shoemaker's name appears under the heading of Wild West staff in the Souvenir Album of the visit of <span class="persName">Her Majesty Queen Victoria</span> to the American Exhibition, London, 1887 (page 22).</div> 
+   <div class="note">Note 1: D. W. Shoemaker's name appears under the heading of Wild West staff in the Souvenir Album of the visit of <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Her Majesty Queen Victoria</span> to the American Exhibition, London, 1887 (page 22).</div> 
 
    <div class="note">Note 2: Marve Beardsley, who appeared in the original Carver-Cody exhibition in 1883 and again in the 1887 exhibition (and possibly the years between); Beardsley and Bronco Charley Miller rode horses in a race against bicyclers in November 1887 in London, ultimately winning the six-day race by two miles and two laps. </div>
 
@@ -54,4 +55,3 @@
 
 
 </div>
-

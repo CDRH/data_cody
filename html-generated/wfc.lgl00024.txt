@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -34,7 +34,8 @@
          </div>
 
          <em class="hi">a Corporation duly organized and existing under the laws of the State of Nebraska, hereby</em>
-Quit-Claims to <span class="persName">Bronson Rumsey</span>, <em class="hi">all of its right, title, and interest in and to the following described real estate, situate in the County of</em> Big Horn <em class="hi">and State of</em> Wyoming, <em class="hi">to-wit:</em>
+Quit-Claims to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, <em class="hi">all of its right, title, and interest in and to the following described real estate, situate in the County of</em> Big Horn <em class="hi">and State of</em> Wyoming, <em class="hi">to-wit:</em>
       </span>
 
       <p>Lots Numbered Twenty-six (26) and Twenty-seven (27), in Block Numbered Twenty-nine (29), in the town of CODY, according to the plat of said town recorded in Book One of Miscellaneous Records at pages 299 and 300, of the records of said Big Horn County.</p>
@@ -67,7 +68,7 @@ Lancaster <em class="hi">County /SS.
 </em>
       </span>
    </div>
-   <div class=" doublespace ">
+   <div class="">
       <p>
          <em class="hi">Be it Known, That on this</em>  7th <em class="hi">day of</em>  Jany <em class="hi">A.D.</em>  1902 <em class="hi">before me, a Notary Public in and for said County, personally appeared</em> C. H. Morrill, <em class="hi">President of the LINCOLN LAND COMPANY, who is personally known to me to be the identical person whose name is subscribed to the foregoing instrument as said President, and then and there acknowledged the execution of said instrument to be his voluntary act and deed, and the voluntary act and deed of said Company.</em>
       </p>
@@ -91,7 +92,7 @@ Lancaster <em class="hi">County /SS.
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <span class="ab">9-12-'99</span>
 
       <span class="ab">
@@ -128,4 +129,3 @@ State Journal Co., Blank Book Makers, Stationers and Printers, Lincoln, Neb. <br
 
 
 </div>
-

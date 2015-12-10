@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="part ">
+   <div class="part">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -17,7 +17,7 @@
 
       <h3>THE WILD WEST IN ENGLAND.</h3>
 
-      <div class=" ">
+      <div class="">
          <p>WHEN the season of 1882-83 closed I found myself richer by several thousand dollars than I had ever been before, having done a splendid business at every place where my performance was given in that year. Immense success and comparative wealth, attained in the profession of showman, stimulated me to greater exertion and largely increased my ambition for public favor. Accordingly, I conceived the idea of organizing a large company of Indians, cow-boys, Mexican vaqueros, famous riders and expert lasso throwers, with accessories of stage coach, emigrant wagons, bucking horses and a herd of buffaloes, with which to give a realistic entertainment of wild life on the plains. To accomplish this purpose, which in many respects was a really herculean undertaking, I sent agents to various points in the far West to engage Indians from several different tribes, and then set about the more difficult enterprise of capturing a herd of buffaloes. After several months of patient work I secured the services of nearly fifty cow-boys and Mexicans skilled in lasso-throwing and famous as daring riders, but when these were engaged, and several buffaloes, elk and mountain sheep were obtained, I found all the difficulties had
 
 <span class="hr"> </span>
@@ -34,7 +34,7 @@ not yet been overcome, for such exhibitions as I had prepared to give could only
          <p>In the spring of 1883 (May 17th) I opened the Wild West Show at the fairgrounds in Omaha, and played to very large crowds, the weather fortunately proving propitious. We played our next engagement at Springfield, Ill., and thence in all the large cities, to the seaboard. The enterprise was not a complete financial success during the first season, though everywhere our performances were attended by immense audiences.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>NATE SALSBURY JOINS ME AS A PARTNER.</h4>
          <p>Though I had made no money at the end of the first year, the profit came to me in the way of valuable experience and I was in no wise discouraged. Flattering offers were made me by circus organizations to go on the road as an adjunct to their exhibitions, but I refused them all, determined to win success with my prairie Wild West Show or go down in complete failure. The very large patronage I received during my first season convinced me that if I could form a partnership with someone capable of attending to the management and business details that the enterprise would prove a magnificent success, a belief which I am glad to say was speedily realized.</p>
          <p>My career on the stage threw me in contact with a great many leading stars, and I came to have an acquaintanceship with nearly all my contemporary American actors. Among those with whom I became most intimate was Nate Salsbury, a comedian whose equal I do not believe graces the stage of either America or En-
@@ -93,7 +93,7 @@ get a cent.” He didn’t; but he entered the profession, which was the next be
          <p>Following “The Troubadours,” Nate wrote another comedy, called “Patchwork,” which had a run of eighteen months, and then he brought out his most successful comedy, “The Brook,” which he wrote entire in eight hours, and at a single sitting. This piece he played continuously for five years, making a large amount of money and pleasing millions of people, until he joined me and took the active management of the Wild West Show, which compelled him to withdraw from the stage.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>A BIGGER SHOW PUT ON THE ROAD.</h4>
          <p>Immediately upon forming a partnership with Salsbury we set about increasing the company and preparing to greatly enlarge
 
@@ -115,7 +115,7 @@ the exhibition. Nearly one hundred Indians, from several tribes, were engaged, a
          </div>  
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>THE SHOW IS DUMPED INTO THE MISSISSIPPI.</h4>
          <p>Our vastly enlarged and reorganized company gave daily exhibitions in all the large cities to enormous crowds during the summer of 1884, and in the fall we started for New Orleans to spend the winter exhibiting at the Exposition Grounds. We accordingly chartered a steamer to transport our property and
 
@@ -136,7 +136,7 @@ troupe to the Crescent City. Nothing of moment transpired on the trip until we w
          <p>In eight days I had added to the nucleus that had been saved a herd of buffalo and elk, and all the necessary wagons and other properties, completing the equipment so thoroughly that the show in many respects was better prepared than at the time of the accident—and we opened on our date.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>A SEASON IN NEW YORK.</h4>
          <p>The New Orleans exposition did not prove the success that many of its promoters anticipated and the expectations of Mr. Salsbury and myself were alike disappointed, for at the end of the winter we counted our losses at about $60,000.</p>
          <p>The following summer we played at Staten Island, on the magnificent grounds of Mr. Erastus Wiman, and met with such splendid success that our losses at New Orleans were speedily retrieved. So well satisfied were we with New York that we leased Madison Square Garden for the winter of 1886-87 and gave our ex-
@@ -154,7 +154,7 @@ troupe to the Crescent City. Nothing of moment transpired on the trip until we w
 hibition there for the first time in a covered space. We gave two performances every day during the entire winter and nearly always played to crowded houses, though the seating capacity of the place was about 15,000.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>AN AMBITIOUS BUT HAZARDOUS UNDERTAKING.</h4>
          <p>The immortal bard has well said, “ambition grows with what it feeds on.” So with Salsbury and I, our unexampled success throughout America with the Wild West show excited our ambition to conquer other nations than our own. Though the idea of transplanting our exhibition, for a time, to England had frequently occurred to us, the importance of such an undertaking was enlarged and brought us to a more favorable consideration of the project by repeated suggestions from prominent persons of America, and particularly by urgent invitations extended by distinguished Englishmen. While inclined to the enterprise we gave much thought to the enormous expense involved in such a step and might not have decided so soon to try the rather hazardous experiment but for an opportunity that promised to largely increase our chances of success.</p>
 
@@ -196,7 +196,7 @@ hibition there for the first time in a covered space. We gave two performances e
 Indians, representative types of the Sioux, Cheyenne, Kiowa, Pawnee and Ogalallas tribes, and succeeded in getting the required number, none of whom had ever been off their reservations prior to joining my show. Among the prominent chiefs thus engaged was Red Shirt, a redoubtable warrior and second only in influence to Sitting Bull himself. A short while before his engagement with us he had quelled an uprising among his people, instigated by a pretender to the chieftainship of the tribe, by invading the pretender’s camp with only two of his followers and shooting the leader dead before the eyes of his affrighted wife. This fearless act had served to elevate him very much in the eyes of his people, who thereafter accepted him as a leader. When, therefore, he decided to join the Wild West show, under the flattering offers I made him, his influence aided us very much in procuring our complement of Indians, not only from his own tribe, but from others as well.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>SEEKING NEW WORLDS TO CONQUER.</h4>
          <p>Our arrangements having at length been completed, by collecting together a company of more than two hundred men and animals, consisting of Indians, cowboys, (including the celebrated Cowboy band, ) Mexican wild riders, celebrated rifle shots, buffaloes, Texas steers, burros, bronchos, racing horses, elk, bears, and an immense amount of camp paraphernalia, such as tents, wagons, stage coach, etc., we chartered the steamship State of Nebraska, of the State line, Capt. Braes, and were ready to set sail to a country that I had long wished to visit,— the Motherland. Accordingly, on Thursday, March 31st, 1887, we set sail from New York, the piers crowded with thousands of our good friends who came down to wave their adieux and to wish us a pleasant voyage. Our departure was an occasion I shall never forget, for as the ship drew away from the pier such cheers went up as I never before heard, while our Cowboy band played “The Girl I left Behind Me” in a manner that suggested more reality than empty sentiment in the familiar air. Salsbury and I, and my daughter Arta, waved our hats in sad farewells and stood upon
 
@@ -228,7 +228,7 @@ the deck watching the still cheering crowd until they faded in the distance, and
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>THE INDIANS’ FEARS ARE EXCITED.</h4>
          <p>Before starting on the trip several of the Indians expressed grave fears that if they trusted themselves to the great waters a horrible death would soon overtake them, and at the last moment it required all our arts of persuasion to induce them to go on board.</p>
 
@@ -265,7 +265,7 @@ Sunday address, as did also Red Shirt, who was now recovered from his anxiety ab
          <p>After the third day at sea we had an entertainment every afternoon, in which Mr. Salsbury, as singer and comedian, took the leading part, to the intense delight of all on board. On the seventh day a storm came up that raged so fiercely that for a time the ship had to lay to, and during which our stock suffered greatly, but we gave them such good care, and had such excellent luck as well, that none of our animals, save one horse, died on the trip.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>“OFF GRAVESEND”</h4>
 
          <p>At last as we cast anchor off Gravesend a tug boat approaching attracted the entire company on deck, for we were expecting to meet our advance manager, Jno. M. Burke, with general instructions as to our landing, etc. It turned out, however, to be a government boat loaded with custom-house and quarantine officials, under whom we were to pass the usual inspection. Another official accompanied them, with whom arrangements had been made for the passage of our arms, as a restriction was placed upon the landing of our ammunition, of which we had brought a large quantity, the English government regulations requiring that it be unloaded and turned over to the arsenal authorities, in whose charge it was kept during our stay in London, we drawing on them daily for our supply as needed. I feel in duty bound to acknowledge here that the English government, through its different officials, extended to us every kind of courtesy, privileges and general facilities that materially assisted in rendering pleasant the last few hours of a remarkable voyage. The bovines and buffalo that were a part of our outfit were inspected, and a special permit granted us to take them to the Albert dock, the place of our debarkation, and after holding them in quarantine there for a few days they were allowed to join us in camp.</p>
@@ -285,7 +285,7 @@ Sunday address, as did also Red Shirt, who was now recovered from his anxiety ab
 beasts being required to be killed within twenty-four hours after their arrival.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>SOME ANXIOUS REFLECTIONS.</h4>
 
          <p>During this delay time was given me for reflection and gradually as my eyes wandered over the crowded waterway with its myriads of crafts of every description, from the quaint channel fishing-boat to the mammoth East India trader and ocean steamers, topped by the flags of all nations and hailing from every accessible part of the known world, carrying the productions of every clime and laden with every commodity, I thought of the magnitude of the enterprise I was engaged in and wondered what its results would be.</p>
@@ -305,7 +305,7 @@ beasts being required to be killed within twenty-four hours after their arrival.
 civilization and were now accompanying me in friendship, loyalty and peace, five thousand miles from their homes, braving the dangers of the to them great unknown sea, now no longer a tradition, but a reality—all of us combined in an exhibition intended to prove to the center of old world civilization that the vast region of the United States was finally and effectively settled by the English-speaking race.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>OUR RECEPTION IN ENGLAND.</h4>
 
          <p>This train of thought was interrupted by the sight of a tug with the starry banner flying from her peak bearing down upon us, and a tumultuous waving of handkerchiefs on board, evoking shouts and cheers from all our company.</p>
@@ -313,7 +313,7 @@ civilization and were now accompanying me in friendship, loyalty and peace, five
          <p>As the tug came nearer, strains of “The Star Spangled Banner,” rendered by a band on her deck, fell upon our ears, and immediately our own Cowboy band responded with “Yankee Doodle,” creating a general tumult on our ship as the word was passed from bow to stern that friends were near. Once alongside, the company on board the tug proved to be the directors of the American Exhibition, with Lord Ronald Gower heading a distinguished committee accompanied by Maj. Burke and representatives of the leading journals, who made us feel at last that our sea voyage was ended.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>FIRST IMPRESSIONS OF LONDON.</h4>
 
          <p>After the usual introductions, greetings and reception of instructions, I accompanied the committee on shore at Gravesend, where quite an ovation was given us amid cries of “Welcome to old England” and “three cheers for Bill,” which gave pleasing evidence of the public interest that had been awakened in our coming.</p>
@@ -337,7 +337,7 @@ endless sea of habitation, and I have scarcely yet found out where Gravesend fin
          <p>A short trip on the somewhat dark and sulphurous underground railroad brought us to West Kensington, a quiet section of the West End, the station of which had been already connected by special bridges, then nearly completed, with the grounds as yet unknown to London, but destined to become the scene of several months’ continuous triumphs. Entering the headquarters of the exhibition we found a bounteous repast set and a generous welcome accorded us. The heartiness of my reception, combined with the natural sense of relief after such a journey and the general indications of success, proved a happy relaxation of the nervous strain to which I had been subjected for several weeks. Speeches, toasts and well wishes, etc., accompanied the spirited and spirituous celebration of the occasion. My genial hosts’ capacity for the liquid refreshments would have made me envy them in the 60s, and led me to suspect that there might be accomplishments in England in which even western pioneers are excelled.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>PREPARING THE EXHIBITION GROUNDS.</h4>
 
          <p>After brief social converse, and a tranquilizing smoke, we made a casual visit to the grounds, where the preparations for the stabling, the arena and the grand stand, with busy hundreds of workmen hastening their completions by night by the aid of <em class="hi">lucigen</em> lights and bon-fires, presented an animated scene, and a
@@ -369,7 +369,7 @@ display of energy rarely witnessed in connection with an amusement enterprise. T
 recognized me on sight and gave me hearty greeting. I retired early, determined to retrace my steps to Gravesend at daylight and ascend the Thames on board the Nebraska, as my great anxiety was the successful debarkation.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>STEAMING UP THE THAMES.</h4>
 
          <p>Steaming up on an early tide, which at its flood I now felt certain would lead on to fortune, and with flags flying, we entered amid a perfect ovation the great port of London. The short trip made on that bright morning was one of great pleasure to all on board. The ship’s officers pointed out the many sites of historical interest, as we steamed past them, such as the Old Tillbury Fort, facing Gravesend, erected by Henry the Eighth, and memorable as the place where Queen Elizabeth reviewed her troops after the destruction of the Spanish Armada. Woolwich and its mighty arsenals and gun factories; Greenwich with its grand old Naval College, now used as a free hospital for <em class="hi">sick seamen of all nations</em>, in front of which stands the obelisk erected to the dauntless explorer, Billot, at the back of it the emerald hills of the Old Park, topped by the observatory which supplies the correct time—all of these engaged our attention in turn. As we moved slowly up the tideway, the huge fleets of sea-going vessels became more crowded; forests of masts and spars stretching away seemingly in illimitable perspective, while on our starboard side the extensive docks in an endless series spoke of the majesty of commerce and the overflowing glories of what Englishmen only call “The Port of London.” This magnificent revelation reminded me of a remark made by an English gentleman on the street, who said, “we may not be very large geographically, but we are gigantic commercially.”</p>
@@ -377,7 +377,7 @@ recognized me on sight and gave me hearty greeting. I retired early, determined 
          <p>My attention was especially attracted by a movable crane in the center of one great basin taking up a car containing 20 tons of coal and emptying it in the hole of a ship in a few seconds.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>ESTABLISHING OUR CAMP—A QUEER SCENE.</h4>
 
          <p>With the assistance of our horsemen, each looking after his own horse, we were unloaded with a rapidity that astonished
@@ -413,7 +413,7 @@ even the old dock hands and officials. Through the courtesy of the custom house 
 episode (our camp-meal being necessarily eaten in full view of our kindly neighbors, the large dining tents not yet being up), was as novel to them, from our variegated and motley population of Indians, cowboys, scouts, Mexicans, etc., and eminently practical method of “grubbing,” as the supply of fresh beef, mutton, corn-bread, ham, etc., <em class="hi">l’Americaine</em> was grateful to our sea-faring palates. The meal was finished by seven o’clock, and by 9 p.m. the little camp was almost as complete as if it had been there for months, and its tired occupants, men, women and children, were reposing more snugly and peacefully than they had done in many weeks.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>AMERICAN METHODS OF DOING BUSINESS EXCITE FAVORABLE SURPRISE.</h4>
 
          <p>Trivial as these details may appear at first sight, the rapidity with which we had transported our stuff from dock to depot, and depot to grounds, and made our camp as above related, had an immense effect. The number of notable visitors present, representatives of the press and the well-to-do people of the neighborhood, expressed surprise and astonishment, and communicated the same feeling to the whole of London. It was generally remarked, “By St. George, the Yankees mean business.” As we had several days before the opening there were plenty of opportunities given me to receive the many distinguished persons who called, and whom I afterwards found so friendly and hospitable. Mr. Henry Irving, who had witnessed our performance at Staten Island, and who had kindly assisted in the most generous manner to pave the way for our success, was among the first to offer his kindly offices and lent us a strength of public, professional, personal, and social influence that to me was almost invaluable. He had already, long before our arrival, spoken of us in the kindest terms to a representative of the Era, the principal dramatic organ of London; and I may here take the liberty of quoting a portion of his highly sympathetic remarks: —</p>
@@ -476,7 +476,7 @@ best of the red braves beside the martial leadership of this long-limbed pale-fa
          </span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>HELPFUL INFLUENCE FROM DISTINGUISHED PERSONS.</h4>
          <p>Not only England’s greatest actor living but his old friend the genial Jno. L. Toole, Miss Ellen Terry, Mr. Justin McCarthy, M. P., Minister Phelps, Consul-General Gov. Thos. Waller, Dep-
 
@@ -686,7 +686,7 @@ BUFFALO BILL.</h4>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h4>VISIT OF MR. GLADSTONE—PRIVATE VIEW BY THE GRAND OLD MAN.</h4>
 
          <p>We were yet in the throes of our extensive preparations, and the backward English spring was getting in its work with a saddening, soddering supply of surplus fresh water, when I received intimation that the ex-Premier, the Right Hon. W. E. Gladstone, M. P., intended to honor the Wild West with a preliminary call. This visit was fixed for the 25th of April, and although worried almost to death with the exertions connected with “rounding up,” I determined to make the veteran statesman’s call as pleasant as possible, although, as the track was not completed, a full show could not be given. Shortly after one o’clock p.m. he arrived at Earl’s Court with Mrs. Gladstone, and entered the grounds in company with the Marquis of Lorne (husband of the Princess Louise), attended by Lord Ronald Gower, Mr. Waller (Consul General of the United States), and a distinguished party, escorted by Nate Salsbury. The Cowboy band welcomed the visitors with the strains of “Yankee Doodle,” and I presently had the pleasure of shaking hands with and introducing Mr. and Mrs. Gladstone to the denizens of our encampment. The fine old statesman, looking like intellect personified, glanced around him with an amused expression as the savage Indians came flocking out with their characteristic cries of “ugh, ugh” and engaged at once in conversation with Red Shirt. I explained to the gallant Sioux warrior that Mr. Gladstone was one of the great white chiefs of England, and they were soon on excellent terms. The ex-Premier puzzled him exceedingly, however, by inquiring, through our interpreter, if he thought the Englishman looked enough like the Americans to make him think they were kinsmen and brothers. Red Shirt set us all laughing by replying that “he wasn’t quite sure about that.” It was clear that the red man hadn’t studied the art of compliment to any great extent, but the incident passed off good humoredly enough and the party left the camp for the grand stand. Their astonishment, when the Indians in full war paint, riding their swift horses, dashed into the arena from an ambuscade, knew no bounds, and the enthusiasm grew, as placing
@@ -723,7 +723,7 @@ sometimes cheering the animal, sometimes the man. At the finish he assured me he
 occasions, when we met, his demeanor was such that I could quite understand the fascination he exercises over the masses of his countrymen. His is a singularly attractive personality and his voice is either a balm to comfort or a living sword, two-edged and fire tipped, for the oratorical combat as occasion may demand. Consul-General Thos. Waller responded effusively and I began to feel that I was really becoming a factor, in my humble way, in the great task of cementing an international good feeling.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>A HARD-WORKED LION OF THE SEASON.</h4>
 
          <p>Then commenced a long series of invitations to breakfasts, dinners, luncheons, and midnight lay-outs, garden parties and all the other attentions by which London society delights to honor what it is pleased to call the distinguished foreigner. I began to feel that life is indeed sometimes too short to contain all the gayety that people would fain compress into its narrow limits. A reference to my diary shows that amongst other receptions I visited and was made an honorary member of most of the best clubs. Notably the Reform Club, where I met the Prince of Wales, the Duke of Cambridge, and a coterie of prominent gentlemen. Then came a civic lunch at the Mansion House with the Lord Mayor and Lady Mayoress; a dinner at the Beaufort Club, where that fine sportsman, the Duke of Beaufort, took the chair; and a memorable evening at the Savage Club, with Mr. Wilson Barrett (just back from America) presiding, and an attendance comprising such great spirits as Mr. Henry Irving, John L. Toole, and all that is great in literary, artistic and histrionic London; at the United Arts Club I was entertained by the Duke of Teck; and at the St. George’s Club, by Lord Bruce, Lord Woolmex, Lord Lymington, Mr. Christopher Sykes, Mr. Herbert Gladstone and others; subsequently I dined at Mr. Irving’s, Lady McGregor’s, Lady Tenterden’s, Mrs. Chas. Matthews, (widow of the great actor), Mrs. J. W. Mackay’s, Lord Randolph and Lady Churchill’s, Edmund Yates’, and at Great Marlow; also with Mrs. Courtland Palmer, U.S. Minister Phelps, and again at the Savage Club with Gov. Thos. Waller. Then came invites from Mrs. J. Tan-
@@ -742,7 +742,7 @@ dell Phillips, the Hon. Cecil and Mrs. Donovan, Mr. and Mrs. Brandon; from Chas.
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>VISIT OF THE PRINCE AND PRINCESS OF WALES.</h4>
 
          <p>Amidst all of this fashionable hurly-burly, I was extremely gratified to receive the following letter:—</p>
@@ -778,7 +778,7 @@ PALL MALL, S. W., 26 April, 1887.
          <p>The Prince of Wales being busily occupied in arranging matters for the Queen’s Jubilee, had but limited latitude as regard to time. But for all this I determined to pull through, as the Wild West always suited me the more raw and wild it was. I retired the night previous to the visit fatigued to be sure, but with a hunter’s pleasant reflections after striking a country where water is plenty and grazing good, two circumstances that always bring the weary pioneer renewed confidence and repose.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>A PRIVATE ENTERTAINMENT FOR THE PRINCE OF WALES.</h4>
 
          <p>The entertainment was of course to be an exclusive one, confined entirely to the royal party, as it yet wanted several days to an opening date. I had got the royal box handsomely rigged out with American and English flags, and my object was to make use of the occasion as a further rehearsal of the whole entertainment. The party that was conducted into our precincts was a strong one numerically as well as in point of exalted rank: The Prince and Princess of Wales, with their three daughters, Princesses Louise, Victoria and Maud, led the way; then came the Princess Louise and her husband, the Marquis of Lorne; the Duke of Cambridge; H. S. H. of Teck and his son; the Comtesse de Paris; the Crown Prince of Denmark; followed by Lady Suffield and Miss Knollys, Lady Cole, Colonel Clarke, Lord Edward Somerset and other high placed attendants on the assembled royalties. The Prince of Wales introduced me to the Princess, and introductions to the other exalted personages followed, in which Nate Salsbury and
@@ -853,7 +853,7 @@ work in the plains, and who once bore me over a flight of 100 miles in nine hour
          <p>A walk round the principal streets of London at this time would have shown how by anticipation the Wild West had “caught on” to the popular imagination. The windows of the London bookseller were full of editions of Fenimore Cooper’s novels, “The Path-Finder,” “The Deer Stalker,” “The Last of the Mohicans,” “Leather Stocking,” and in short, all that series of delightful romances which have placed the name of the American novelist on the same level with that of Sir Walter Scott. It was a real revival of trade for the booksellers, who sold thousands of volumes of Cooper where twenty years before they had sold them in dozens. I am convinced—and I say it in no boastful spirit, but as a plain statement of fact—that our visit to England has set the population of the British Islands reading, thinking, and talking about their American kinsmen to an extent before unprecedented. They are beginning to know more of the mighty nation beyond the Atlantic and consequently to esteem us better than at any time within the limits of modern history. I am proud of my small share in this desirable state of things, which will be a source of comfort to me to my dying day.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>OUR OPENING PERFORMANCE.</h4>
 
          <p>A glorious change in the weather. Sunny skies and balmy breezes ushered in the morning of May 9, and the stars and stripes fluttered and glittered above us in the warm, soft air as if rejoicing in the good fortune that was to come. The happy omen was 
@@ -909,7 +909,7 @@ these animals “buck.” It is simply “a way they’ve got.” The horses are
          </span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>INTEREST WITHOUT BLOODY ACCESSORIES.</h4>
          <p>The drawback to the exploiting of this ingenious idea is that a display of sham scalping would by no means satisfy gentlemen of this reporter’s gory turn of mind. Nothing but a real massacre, with genuine blood flowing and a comfortable array of corpses for view would suffice to glut some people’s appetite for a nice, thrilling sensation. Perhaps if the gentleman had ever seen the
 
@@ -932,7 +932,7 @@ horrors of actual warfare with red Indians he would not be so zealous for realis
          </span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>VISIT OF QUEEN VICTORIA.</h4>
          <p>“By command of Her Majesty, the Queen”—it must be understood, that the Queen never requests, desires, or invites, even her own Prime Minister to her own dinner-table, but “commands” invariably—a special performance was given by the Wild West, the understanding being that Her Majesty and suite would take a private view of the performance. The Queen, ever since the death of her husband, nearly thirty years ago, has cherished an invincible objection to appearing before great assemblages of her subjects. She visits her Parliament seldom; the theaters never. Her latest knowledge of her greatest actors and actresses has been gained from private performances at Windsor, whither they have been “commanded” to entertain her, and that at very infrequent intervals. But as with Mahomet and the mountain, the Wild West was altogether too colossal to take to Windsor, and so the Queen came to the Wild West—an honor of which I was the more deeply sensible on account of its unique and unexampled character. I am bound to say that the whole troupe, myself included, felt highly complimented; the public would hardly believe it, and if bets had been made at the clubs, the odds on a rank outsider in the Derby would have been nothing to the amount that would have been bet
 
@@ -949,7 +949,7 @@ horrors of actual warfare with red Indians he would not be so zealous for realis
 that it was a Yankee hoax. Her Majesty would arrive, I was informed, at five o’clock, and would require to see everything in an hour. A soldier is frequently ordered to accomplish the impossible—I had been tolerably used to that sort of thing, and have knocked the impossible stiff and cold on more than one occasion; but this was a poser. We would do our best and acquit ourselves like men and women; and that was all that could be said about it. We erected a dais for Her Majesty and had a box specially constructed, draped with crimson velvet and decorated with orchids, leaving plenty of accommodation for the attendant notables. All was made as bright and cheerful as possible, and these preparation’s completed we waited, very much in frame of mind like a lot of school boys attending an examination.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>HER MAJESTY SALUTES THE AMERICAN FLAG.</h4>
          <p>With royal punctuality the sovereign lady and her suite rolled up in their carriages, drove round the arena in state, and dismounted at the entrance to the box. The august company included, besides her Majesty, their Royal Highnesses Prince and Princess Henry of Battenberg, the Marquis of Lorne, the Dowager Duchess of Athole and the Hon. Ethel Cadogan, Sir Henry and Lady Ponsonby, General Lynedoch Gardiner, Colonel Sir Henry Ewart, Lord Ronald Gower and a collection of uniformed celebrities and brilliantly attired fair ladies who formed a veritable parterre of living flowers around the temporary throne. During our introduction a very notable incident occurred, sufficient to send the blood surging through every American’s veins at Niagara speed. As usual in our entertainment, the American flag, carried by a graceful, well-mounted horseman, was introduced, with the statement that it was “an emblem of peace and friendship to all the world.” As the standard-bearer waved the proud emblem above his head, Her Majesty rose from her seat and bowed deeply and impressively towards the banner. The whole court party rose, the ladies bowed, the generals present saluted, and the English noblemen took off their hats. Then—we couldn’t help it—but there arose such a genuine heart-stirring
 
@@ -980,7 +980,7 @@ that it was a Yankee hoax. Her Majesty would arrive, I was informed, at five o�
 American yell from our company as seemed to shake the sky. It was a great event. For the first time in history, since the Declaration of Independence, a sovereign of Great Britain had saluted the star spangled banner, and that banner was carried by a member of Buffalo Bill’s Wild West! All present were constrained to feel that here was an outward and visible sign of the extinction of that mutual prejudice, sometimes almost amounting to race hatred, that has severed the two nations from the times of Washington and George the Third to the present day. We felt that the hatchet was buried at last and the Wild West had been at the funeral.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>PRESENTED TO THE QUEEN.</h4>
          <p>Under the stimulus of the Queen’s presence, the performance was admirably given. The whole company seemed infected with a determination to excel themselves. Personally I missed not a single shot; the young ladies excelled themselves in the same line; the charges on the Indians were delivered with a terrific <em class="hi">vim</em>; and the very bucking horses seemed to buck like steam-engines under the influence of that half minute of excitement. But perhaps this last may have been fancy. Better than all, the Queen not only abandoned her original intention of remaining to see only the first acts, but saw the whole thing through, and wound up with a “command” that Buffalo Bill should be presented to her. Her compliments, deliberate and unmeasured, modesty forbids me to repeat.</p>
 
@@ -999,7 +999,7 @@ American yell from our company as seemed to shake the sky. It was a great event.
 and when he quietly declared that “he had come a long way to see Her Majesty, and felt glad,” and strolled abruptly away with dignity spread all over him three inches thick, the Queen smiled appreciatively, as who should say, “I know a real Duke when I see him.” Finally two squaws were summoned, and came racing across the arena, their little brown papooses slung behind them. Upon these royalty, unbending, “rained gracious influence.” The papooses were handed up for inspection, and behaved themselves nicely while Her Majesty petted them. And so the Queen’s visit came to an end, with a last command, expressed through Sir Henry Ponsonby, that a record of all she had seen should be sent on to Windsor. A great occasion, of which the mental photograph will long remain with me.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>STATESMEN AT THE WILD WEST.</h4>
 
          <p>Of the statesmen and men otherwise eminent who visited the Wild West in these bright summer days—it was a wonderful summer for England—a partial list will be found elsewhere. One of the earliest was John Bright, to whose honored name no Englishman ever thinks of tacking the “Mister.” The People’s Tribune met with an unfortunate accident on entering the show, reminding one of William the Conqueror’s when he made that awkward stumble on Hasting’s beach, to the dismay of his followers, who thought it a bad omen, and rose exclaiming: “Lo, here have I already seized two handfuls of this English earth; let us go on, my bully boys, and rope in the remainder.” That was distinctly clever. John Bright tripped over the rubber mat at my tent portal, and arose, grasping, not the English earth, but the end of his nose, which was bleeding. I was truly distressed at this awkward fall occurring to the venerated leader, and made him as comfortable as possible in my tent until he had got over the shock. Major Burke stood by with much heroism and a bottle of eau-de-cologne and bathed the afflicted spot until the illustrious patient felt all right and able to go to his seat. The news of the accident had spread through the auditorium, and when the “old man eloquent” made his appearance in his
@@ -1020,7 +1020,7 @@ box, smiling and quite chipper again, the packed audience gave him three mighty 
 
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h4>A RIB-ROAST BREAKFAST, A LA INDIAN, TO GEN. CAMERON.</h4>
 
@@ -1046,7 +1046,7 @@ gorgeously festooned and decorated for the occasion. Before the tent a fire had 
       </div>
 
 
-      <div class=" ">
+      <div class="">
          <h4>THE PRINCE OF WALES AND HIS ROYAL FLUSH.</h4>
 
          <p>Business continued to boom splendidly, and yet another excitement was in store for us. There came to Earl’s Court, carried by a royal equerry, a further command from her Majesty conveying the royal pleasure that on the 20th of June a special
@@ -1116,7 +1116,7 @@ in the ascendant and prompted the retort. The Prince took it, and went off with 
 was somewhat recondite, and I almost pitied the Prince as he tried to explain it in three languages to his wondering but obtuse auditors. They don’t play poker yet at the continental courts, and come to think of it, the game <em class="hi">does</em> want a deal of learning before you get the hang of it properly. I hope their majesties enjoyed that ride, but the Indians put in their shooting with a lot of energy, and somehow the crowned heads appeared to be glad when it was over.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>THE PRINCE PRESENTS ME WITH A DIAMOND PIN.</h4>
 
          <p>The appended letter of thanks from Marlborough House after this interesting gathering will probably be of as much interest to my readers as it was to myself: —</p>
@@ -1137,7 +1137,7 @@ PALL MALL, S. W.
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>THE PRINCESS RIDES IN THE DEADWOOD COACH.</h4>
 
          <p>The Prince and Princess and their sons and daughters were frequent visitors during our stay in London. On one occasion
@@ -1194,7 +1194,7 @@ proverb says, and so the gentle Alexandra was booked for inside passage, and too
          <p>The Princess took the joke with becoming gravity, although her companion seemed horribly disturbed. She confessed afterwards that it was one of the pleasantest and funniest evenings she had ever spent in her life. As to the manager he was in a cold perspiration until he had steered his onerous charge through the departing crowd of sight-seers and seen her comfortably seated in her carriage. His attempt at a murmured apology was cut short by a silvery laugh, as the Princess remarked the “evening has been most enjoyable and the adventure one grand success,” and so, as the Frenchmen say, “the incident closed itself.”</p>
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h4>CLOSE OF THE LONDON SEASON.</h4>
 
@@ -1234,7 +1234,7 @@ of American products and of a few scenes from the wilder phases of American life
       </div>
 
 
-      <div class=" ">
+      <div class="">
          <h4>OUR TOUR IN “THE PROVINCES.”</h4>
 
          <p>A brief but successful occupancy of the Aston Lower Grounds, Birmingham, followed almost immediately upon our London triumphs. Birmingham, the headquarters of the British gun-making industry, the fancy metal trades and of innumerable branches of the lighter hardware crafts, together with its numerous surrounding towns responded nobly to our invitation. The news of our reception in London had gone before us, and we met with a prodigious welcome from the screw-makers, the teapot turners and the manufacturers of artificial jewelry and “Brummagem goods” in general. But with the drifting season
@@ -1254,7 +1254,7 @@ there were signs that the weather was breaking. It was manifest that the Wild We
          <p>Manchester, with its surrounding network of a hundred smaller but yet important towns—“Cottonopolis,” as it is endearingly called by its denizens—was issuing pressing invitations. This powerful district resembles nothing so much as a still greater London, split and separated by the explosion of a bombshell. A population of some six million toilers in mine and mill, divided into communities of from 10,000 to 100,000 or so, yet linked to the great center by a spider’s web of railways—such was the object of our next and perhaps most gigantic effort of all.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>A VISIT TO ITALY.</h4>
 
          <p>During the period of preparation for opening the Wild West exhibition in Manchester, I took advantage of the spare time that was offered, and with my daughter, Arta, spent a well-earned vacation of two weeks in Italy. I say well-earned because from the day of opening our show in London until the close of our engagement in that city I had not missed a single one of the three hundred performances given, notwithstanding the unexampled social courtesies that I was compelled to observe, which kept me occupied nearly eighteen hours out of every twenty-four. At one time it had been the ambition of Mr. Salsbury and myself to give a Wild West exhibition in the ancient colosseum of Rome, but an examination of the ruins and surroundings speedily convinced me that to make the attempt would be a vaulting ambition overleaping itself, and the idea was abandoned. I made a rather hasty tour of the more important cities of Italy, but can hardly admit that the trip was an enjoyable one on account of a constant realization of the necessity of my presence with the show, and the hurried manner in which I was compelled to make my visit. Accordingly, I returned to Manchester and helped prepare for opening the winter season there.</p>
@@ -1381,7 +1381,7 @@ by Indians, and a stubborn battle occurs, in which the passengers are likely to 
          </span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>THE CROWD AT OUR OPENING PERFORMANCE.</h4>
 
          <p>As a “send-off” to the new departure we had invited the whole of the beauty, rank and fashion of Manchester and the surrounding towns to a gratis performance of this programme two days before our opening date. The mayors, town councils, corporation officials, prominent merchants and manufacturers, bishops and clergy of all denominations, and an able-bodied horde of pressmen came down in their thousands. From Liverpool across country through Leeds and York to Hull and Newcastle, and from Carlisle as far south as Birmingham, everybody of consequence was present, and the immense building was filled to its utmost capacity. The notice above quoted will show that all had reason to be pleased, and the story they had to tell of the marvellous things to be witnessed at the Wild West spread with lightning rapidity through every town from which they had gathered together. The consequence was that from our opening day it was often difficult to cope with the throngs who presented themselves at afternoon and evening performances, alike to feast their eyes upon the dangers and the glories of America’s development. Despite the dreary winter weather, or perhaps because of it, the well-lighted, well-warmed “Temple of Buffalo
@@ -1415,7 +1415,7 @@ Bill and Thespis,” as somebody called it, was the constant resort of pleasure-
 found here, in fact, a closer resemblance to the natural dignity of the American citizen than I had experienced elsewhere in England. My invitation list would occupy more space than I can afford.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>PRESENTED WITH A RIFLE.</h4>
          <p>One event, amongst my endeavors to make some return for this unbounded stream of hospitality, caused a considerable sensation in the district, from its novelty. It had been determined by the artistic, dramatic, and literary gentlemen of Manchester to make me a public presentation of a magnificent rifle, decked in flowers and gaily adorned with ribbons, and the event having got wind in London, the elite of the metropolitan <em class="hi">literati</em>, headed by Sir Somers Vine and including representatives of all the great American journals, secured a special train and ran up to Manchester, some hundred strong, to grace the ceremony with their presence. The happy thought struck me of inviting the whole crowd of local celebrities and London visitors to what for them would be an entirely original lay-out. This was a camp dinner, with fried oysters, Boston pork and beans, Maryland chicken, and other American dishes, and a real Indian “rib-roast” as the <em class="hi">piece de resistance</em>.</p>
 
@@ -1655,7 +1655,7 @@ forks, was a source of huge wonderment. I reckon that Englishmen never toasted t
          </span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>ENGLISH LOVE OF SPORT ILLUSTRATED.</h4>
 
          <p>Good Friday came at last in the midst of our flood-tide of success, and I determined to devote the afternoon of the general holiday to a change of programme. By the courtesy of the directors we secured the use of the Manchester race-track for a series of open-air horse races and athletic sports by the members of the company, red and white, including hurdle-races, bare-backed horsemanship, and so forth. The hold we had gained upon the popular appreciation, and the eagerness with which an Englishman starts at the mere mention of a horse-race were never more thoroughly evidenced. The day was ushered in with gloom and weeping skies, and our hearts sank within us as we realized that Jupiter Pluvius was sticking to us worse than a
@@ -1690,7 +1690,7 @@ though the opening of bright spring weather was bringing an extraordinary pressu
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>HONORED BY THE MAYOR OF SALFORD.</h4>
 
          <p>Our season in Manchester was a grand success in every way, during which I had made so many pleasant acquaintances among the citizens that notwithstanding my longing for home and America, it was with many painful feelings that we prepared to take our departure. A few days before taking leave of the scene of our magnificent triumphs I received the following letter from the Mayor of Salford:—</p>
@@ -1730,7 +1730,7 @@ ately named Buffalo Bill’s road. When completed in the near future, it will be
          </span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>A MAGNIFICENT OVATION.</h4>
 
          <p>On Monday evening May 1st, we gave the last indoor representation, in the presence of a vast and one of the most enthusiastic audiences I ever appeared before; bouquets were presented to various members of the company and when I appeared I met with one of the warmest receptions of my life: bouquets were thrown, handed and carried into the arena to me while the vast audience cheered, waved hats, umbrellas and handkerchiefs, jumped upon their feet, and in fact the scene was very suggestive of a pandemonium. It was fully five minutes before the noise subsided sufficiently to enable us to proceed with the performance.</p>
@@ -1750,13 +1750,13 @@ ately named Buffalo Bill’s road. When completed in the near future, it will be
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h4>A RACE FOR $2,500.</h4>
 
          <p>Our Wild West performances in Manchester were now at a close but having two or three days to spare I concluded to accept a challenge made some days previously by Mr. B. Goodall, a noted horse breeder of Altrincham, for an international ten-mile race between his English thoroughbreds and my American bronchos, for £500 a side. The riders were J. Latham for Goodall and Tony Esquivel for me, and the conditions were that each rider should change horses without assistance at the completion of each half mile. The afternoon was fine with the exception of one fierce though fleeting rain storm. At five minutes to three o’clock thirteen of our bronchos, saddled with heavy cow-boy saddles, were brought into the enclosure and about ten minutes later nine English thoroughbreds made their appearance. The men mounted their first horses at 3:20 and got away well, Latham at once taking the lead. The Englishman effected his first change with an advantage but on the next occasion he lost this and Tony went to the front. Latham, however, gained a little for some succeeding minutes. There was no question of the speed of his horses, but Tony was more adroit in changing, and before many laps were over he led the Englishman by a good two furlongs. Then for a time Tony lost ground but Latham never succeeded in overhauling him and he passed the post 300 yards ahead, having made the remarkable time of twenty-one minutes. Wild enthusiasm was manifested throughout the race by the 20,000 spectators and at the termination of their arduous task both victorious Tony and defeated Latham were loudly cheered.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>AN ENTHUSIASTIC FAREWELL.</h4>
          <p>On Friday morning May 4th, at 11 a.m., amid the cheers, well wishes and hand shaking of the vast crowd who had gathered to see us depart, we pulled slowly out of the Windsor Bridge station of the Lancashire and Yorkshire Railway en route by special passenger train for Hull, where after giving our farewell English performance we were to embark for home. The time of the arrival of our train at the various stations had become gener-
 
@@ -1773,7 +1773,7 @@ ately named Buffalo Bill’s road. When completed in the near future, it will be
 ally known, and all along the entire route we were met by vast crowds who cheered and wished us God speed. Upon our arrival at Hull the crowd was so large that it was necessary to send for a squad of police to enable us to make our way through them from the station to the conveyances. On Saturday afternoon, May 5th, we gave our farewell performance in England, at Hull, before an enormous crowd and that evening at 9 o’clock our entire effects were aboard the good ship Persian Monarch which, under the command of the brave, gallant and courteous Captain Bristow, was to leave her moorings at 3 a.m. the next morning for New York. We had chartered the ship for this trip and had everything to ourselves, and all evening the vast crowds who lined the docks cheered, sang songs and wished us <em class="hi">bon voyage</em>. A great many even remained until our departure and went wild with excitement when they saw us as a company leave their shores perhaps forever.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>A PATHETIC INCIDENT AT SEA.</h4>
 
          <p>The homeward voyage was marked with one very distressing and pathetic incident to me in the loss of my favorite horse Charlie, that I had ridden for fifteen years in sunshine and in storm, in days of adversity as well as of prosperity, and to whose fleetness of foot I owed my life on more than one occasion when pursued by Indians. He stood the voyage very well, apparently, until May 14th, and even on the morning of that day when I visited him he seemed to be as well as usual.</p>
@@ -1791,7 +1791,7 @@ ally known, and all along the entire route we were met by vast crowds who cheere
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h4>OUR ARRIVAL IN NEW YORK HARBOR.</h4>
 
          <p>We arrived off New York harbor some time during the night of the 19th and by daylight of the 20th steamed up toward Staten Island, where we were to debark. The reception accorded us is thus graphically described by the <em class="hi">New York World</em>:—</p>
@@ -1838,4 +1838,3 @@ HON. WM. F. CODY.					FIFTH AVENUE HOTEL, NEW YORK.
    </div>
 
 </div>
-

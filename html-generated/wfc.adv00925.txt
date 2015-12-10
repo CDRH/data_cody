@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="advertisement ">
+   <div class="advertisement">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -51,4 +51,3 @@ Now is the time to bid for these reels — Don't wait until the best states are 
 
 
 </div>
-

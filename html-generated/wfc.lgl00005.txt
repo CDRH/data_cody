@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="contract ">
+   <div class="contract">
 
       <p>This Agreement Entered into this 31st day of January, 1906 by William F. Cody &amp; James A. Bailey, Proprietors of Buffalo Bill's Wild West, Parties of the first part, and an Indian Alvin Plenty Star of Pine Ridge Agency, South Dakota, party of the second part.</p>
 
@@ -58,4 +58,3 @@ U. S. Indian Agent.
 
 
 </div>
-

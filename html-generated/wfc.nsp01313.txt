@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,7 +19,7 @@
       <h3>BUFFALO BILL.</h3>
       <h3>THE AMERICAN EXHIBITION IN LONDON—AMERICAN INDIANS AND ENGLISH LADIES—WHAT AN AMERICAN LADY SAW AT THE WILD WEST SHOW.</h3>
 
-      <p>A well-known member of New-York society just arrived from London and who attended the American Exhibition and Wild West Show this summer gave a reporter some of her observations at the English capital. One of the most astonishing facts was the treatment of Buffalo Bill's Indians by English women, some of them belonging to noble families. "You can imagine my feelings," said the lady, "to see one Indian with ten or twelve diamond rings on his fingers which had been given him by his different admirers, and these English ladies came by scores to see them at the show, and desiring introductions afterward. Of course the exhibition itself was a success and a great advantage to American merchants. There were many notable displays but I consider the most beautiful was that of Mrs. Harriet Hubbard Ayer's<a href="../doc/n01" class="internal_link">1</a> Recamier preparations, and they seemed to sell like hot cakes, too. I often heard English ladies saying, 'Oh! here are the Recamier preparations that Patti<a href="../doc/n02" class="internal_link">2</a> and Mrs. Langtry<a href="../doc/n03" class="internal_link">3</a> use and recommend; we must try them too.' It is simply wonderful the success Mrs. Ayer has made, and the whole secret perhaps lies in the fact that 'her word is as good as her bond,' and the Recamier preparations are not cosmetics.</p>
+      <p>A well-known member of New-York society just arrived from London and who attended the American Exhibition and Wild West Show this summer gave a reporter some of her observations at the English capital. One of the most astonishing facts was the treatment of Buffalo Bill's Indians by English women, some of them belonging to noble families. "You can imagine my feelings," said the lady, "to see one Indian with ten or twelve diamond rings on his fingers which had been given him by his different admirers, and these English ladies came by scores to see them at the show, and desiring introductions afterward. Of course the exhibition itself was a success and a great advantage to American merchants. There were many notable displays but I consider the most beautiful was that of Mrs. Harriet Hubbard Ayer's<a href="#n01" class="internal_link">1</a> Recamier preparations, and they seemed to sell like hot cakes, too. I often heard English ladies saying, 'Oh! here are the Recamier preparations that Patti<a href="#n02" class="internal_link">2</a> and Mrs. Langtry<a href="#n03" class="internal_link">3</a> use and recommend; we must try them too.' It is simply wonderful the success Mrs. Ayer has made, and the whole secret perhaps lies in the fact that 'her word is as good as her bond,' and the Recamier preparations are not cosmetics.</p>
 
       <p>"There was a very strong discussion before the Committee of the American Exhibition as to whether or not the first award should be given to Mrs. Ayer, because the committee claimed that it was utterly impossible to give an award to 'cosmetics.'  Mrs. Ayer's agents were then compelled to have the Preparations analyzed and to demonstrate to the satisfaction of the committee that they were not 'cosmetics,' not injurious, but absolutely beneficial. After this was done the committee gave the award to Mrs. Ayer.</p>
 
@@ -41,4 +41,3 @@
 
 
 </div>
-

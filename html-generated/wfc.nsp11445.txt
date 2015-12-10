@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -29,7 +29,7 @@
          <span class="byline">—LONGFELLOW.</span>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h4>WILD HORSES.</h4>
 
          <p>As there are herds of buffaloes on the wide rolling prairies, so are there great gangs of wild horses, which the Indians call "Mustangs." Now these wild horses and their brave riders are a great feature in the exhibition of Buffalo Bill, and so I am sure you will be interested to hear something about the mustang. One traveller says:—"Where the traveller in the West now finds flourishing towns and villages, we found nothing but endless and monotonous prairies, rolling in long, smooth, wavy lines, day after day. Descending one of those gentle declivities about noon, we beheld before and below us, feeding in a grassy plain, a herd of small horses. They were mostly of a bright chestnut colour, although many were curiously dappled with patches of white, red, and brown. The mustang, as the native horse of the North American continent is called, is smaller than the domesticated horse, and generally of a bright chestnut colour. The horses marked with odd colours and patches are called pinto, or painted, by the Mexicans, and calico by the Americans. We had heard of the wild horses of the West. Probably this was a wandering drove of those beautiful creatures that had been detained here by the luxuriant grass on which they were tranquilly feeding, without any suspicion of the approach of man. We knew enough about wild horses to know that we must be wary and creep up unperceived. The mustang in his native state is very easily scared, or "stampeded." It often happens that a drove of horses, peacefully feeding, will take fright at some trifle, or at a mere whim, as one may say, and as soon as one or two start off wildly, the entire herd will join in flight as if pursued by some deadly enemy. They may be alarmed by the passing of a wolf, or by the playing of the moonbeams among the underbrush; no matter what the cause of their alarm, they fly like the wind, crashing and plunging over one another, wild with terror, and blindly scattering far and wide over the country. This is what the frontiersman calls a "stampede."</p>
@@ -39,21 +39,21 @@
       </div>
 
 
-      <div class=" ">
+      <div class="">
          <h4>THE INDIANS OF THE FAR WEST.</h4>
          <p>And now we must have a peep at the Indians of the far West, and for this I will borrow an account from another traveller. "The sun was sinking behind the hills as I came in sight of the Indian village. It comprised, perhaps, a dozen lodges made of skins stretched over poles. There were, besides, two or three dilapidated-looking cabins built of drift-logs, and two huge structures of the same material, used for smoking salmon. Below the village I saw several bands of Indian horses. A number of children were playing round the lodges. There were several garden patches, rudely fenced, and two or three fields of rye and wheat stubble; the crops had been gathered." The traveller advanced to one of the largest tents, and boldly requested the night’s rest for himself and his lame horse that he needed. One of the Indians took his horse, while the other led the way to the tent: "I followed without looking back; to have expressed the least doubt, by word or sign, as to the safety of my beast or his equipments, would have been a sad breach of manners. Lifting a robe that hung over the entrance and served as a door, he motioned me to go in. I did so, and making my way to the opposite side, sat down. The ground was covered with matting, save in the centre, which was bare. The dead coals lying there showed that this was their fireplace. There were four Indian women seated on one side of the tent. Two were quite old; one of them was busy making a wicker basket; the other, who was partly supported by sundry robes and parcels, seemed to be sick, as she was doing nothing. Of the remaining two, one was extremely homely, apparently about thirty years old, and busy plaiting matting."</p>
 
       </div>
 
 
-      <div class=" ">
+      <div class="">
          <h4>A YOUNG SQUAW AND PAPOOSE.</h4>
 
          <p>"The fourth and last was young and very pretty; she was nursing a little papoose, or Indian baby, and her dress and manner seemed to show that she was a favourite. The first three were dressed in plain dark-coloured calico, with leggings made of strips of blankets, and their blankets were of the ordinary kind used by the Indians—of white, yellow, and blue stripes. All looked rather old, and decidedly dirty. Very different was the dress of the youngest squaw. It was a new and very pretty calico; her leggings made of fine white doeskin, with long fringes; her moccasins were gaily ornamented with beads and sundry devices worked into them with coloured thread; while her blanket was a new one, being a bright crimson, with a black border. In addition this young mother was adorned with bracelets o[f] some kind of metal; had several silver rings on her fingers, shell ear-rings in her ears, and a chain o[f] shells woven through her hair. Her papoose was dressed in a single garment none too long, but adorned with beads and bits of coloured ribbon."</p>
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>WE SUP TOGETHER.</h4>
 
          <p>"The two squaws who had been working set about getting supper. One produced a sack of flour and stirred up a pan of dough; the other took down a couple of dried salmon from a string of them which hung from one of the poles of the tent. These she placed each upon a stick, and then, building a fire, set them before it to toast. Next she took down some pieces of dried meat, from which she cut a number of thin slices. The dough having been more or less kneaded, squaw number one raked out some of the ashes, and then proceeded to divide the dough into small cakes, which she laid in the ashes to bake. Sundry preparations of dried berries were added to the repast; and having eaten nothing since the morning, I am free to confess that not only had I a good appetite, but that I found myself able to make a right good meal. Water was the only drink offered. The food was served up in tin dishes. The two Indians and myself ate first, and the two squaws who had prepared the meal waited upon us. After we had finished the four squaws took their turn. I noticed that the youngest partook freely of the berries, while the others did not touch them."	</p>
@@ -66,7 +66,7 @@
       </div>
 
 
-      <div class=" ">
+      <div class="">
 
          <h4>ANOTHER FISHING PARTY.</h4>
 
@@ -106,4 +106,3 @@
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -252,7 +252,7 @@ SEPTEMBER 30, 1915</h3>
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class="record doublespace ">
+   <div class="record">
 
       <h3>DAILY CASH SALES FOR THE MONTH OF SEPTEMBER 1915.</h3>
 
@@ -405,4 +405,3 @@ SEPTEMBER 30, 1915</h3>
 
 
 </div>
-

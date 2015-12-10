@@ -14,12 +14,12 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
  
   
       <span class="dateline">Pine Ridge Agency, April [3, 1897]</span>
   
-      <span class="salute">The Honorable Commissioner of Indian Affairs,<a href="../doc/n01" class="internal_link">1</a> 
+      <span class="salute">The Honorable Commissioner of Indian Affairs,<a href="#n01" class="internal_link">1</a> 
          <br/>
     Washington, D. C.<br/>
          <br/>
@@ -27,13 +27,15 @@
   </span>
   
       <p>I have the honor to enclose herewith original and duplicate copies of contracts entered into this day between Messrs. Cody &amp;
-    <span class="persName">Salsbury</span>, and 56 Indians of this reservation; each contract having been approved
+    <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span>, and 56 Indians of this reservation; each contract having been approved
       by me.</p>
       <span class="closer">
          <span class="salute">Very respectfully,</span>
     
          <br/>
-         <span class="persName">W. H. Clapp</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/clapp.w"/>W. H. Clapp</span>
          <br/>
     Captain 16th Infantry,<br/>
     Acting Indian Agent.
@@ -51,4 +53,3 @@
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -22,11 +22,12 @@
 
       <h3>THE LUCK OF CODY'S CAMP.</h3>
       <div class="milestone line"> </div>
-      <p>Miss Frances-Victoria-Alexandra-Little-Chief-Ogallala, who was born in the Wild West Camp on Manchester Racecourse on Wednesday morning last, has been the cause of much rejoicing amongst the members of Buffalo Bill's troupe. We understand that the <span class="persName">little red lady's father</span> is a Christian and a member of the Episcopalian Church, and the baptismal ceremony will take place within the next few days. Mrs. Little Chief was not only doing well at the latest advices, but, as is the happy custom of the women of her race, was walking about the camp and exchanging congratulations with the other squaws within 48 hours of the interesting event. It is stated by <span class="persName">Major Burke</span> that when travelling on the plains it is the usual Indian practice in such cases to leave a swift horse furnished with a "Travois," or trailing hammock, in charge of the midwife, and the happy mother is generally able to ride after and overtake the tribe before three days have elapsed. This is the first Red Indian child born in the British Islands.</p>
+      <p>Miss Frances-Victoria-Alexandra-Little-Chief-Ogallala, who was born in the Wild West Camp on Manchester Racecourse on Wednesday morning last, has been the cause of much rejoicing amongst the members of Buffalo Bill's troupe. We understand that the <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/little.chief"/>little red lady's father</span> is a Christian and a member of the Episcopalian Church, and the baptismal ceremony will take place within the next few days. Mrs. Little Chief was not only doing well at the latest advices, but, as is the happy custom of the women of her race, was walking about the camp and exchanging congratulations with the other squaws within 48 hours of the interesting event. It is stated by <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/burke.j"/>Major Burke</span> that when travelling on the plains it is the usual Indian practice in such cases to leave a swift horse furnished with a "Travois," or trailing hammock, in charge of the midwife, and the happy mother is generally able to ride after and overtake the tribe before three days have elapsed. This is the first Red Indian child born in the British Islands.</p>
 
    </div>
 
 
 
 </div>
-

@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -37,4 +37,3 @@ Aug 5th/04</span>
 
 
 </div>
-

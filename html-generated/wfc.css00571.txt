@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00571.jpg"
@@ -33,14 +33,16 @@
 
 
       <span class="ab">
-         <span class="persName">George T. Beck</span>,</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>,</span>
 
       <span class="ab">Iroquois Hotel,</span>
 
       <span class="ab">Buffalo, N. Y.</span>
 
 
-      <p>Have sent word to <span class="persName">Salsbury</span>, think Nailor<a href="../doc/n01" class="internal_link">1</a> in will see other party<a href="../doc/n02" class="internal_link">2</a>.</p>
+      <p>Have sent word to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span>, think Nailor<a href="#n01" class="internal_link">1</a> in will see other party<a href="#n02" class="internal_link">2</a>.</p>
 
 
       <span class="closer">
@@ -58,4 +60,3 @@
    <div class="note">Note 2: "other party" is unidentified.</div>
 
 </div>
-

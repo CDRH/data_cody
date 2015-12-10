@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -18,7 +18,7 @@
 
       <h3>BUFFALO BILL AND THE PRINCESS OF WALES.</h3>
 
-      <p>The Hon. "Buffalo Bill" Cody, in relating his London experiences, is reported by the <em class="hi">New York Herald</em> to have said:—"The Prince of Wales<a href="../doc/n01" class="internal_link">1</a> is one of the jolliest fellows I have ever met. He came down to see us very often. He would talk with the Indians and give them cigarettes, and appeared to enjoy himself immensely. His popularity in England is unbounded. If there were a general election for the kingship I believe he would receive a unanimous vote. My experience was that the higher you got up the more simple and unaffected the people were. The Princess of Wales came to the exhibition one day, and I saw her sitting in the general audience although there was a Royal box. She afterwards came to my tent and drank a cup of tea. On another occasion I drove her and her sons and daughters, and the Duke Michael of Russia<a href="../doc/n02" class="internal_link">2</a>, in the Deadwood coach—nine people in all. I never felt so nervous in all my life. If that coach had tipped over I don't suppose I would have ever come out of the grounds alive. The Princess of Wales has the affections of the people to a wonderful degree. When I finally drew rein and the Royal party alighted, and there had been no accident, I drew a long breath of relief."</p>
+      <p>The Hon. "Buffalo Bill" Cody, in relating his London experiences, is reported by the <em class="hi">New York Herald</em> to have said:—"The Prince of Wales<a href="#n01" class="internal_link">1</a> is one of the jolliest fellows I have ever met. He came down to see us very often. He would talk with the Indians and give them cigarettes, and appeared to enjoy himself immensely. His popularity in England is unbounded. If there were a general election for the kingship I believe he would receive a unanimous vote. My experience was that the higher you got up the more simple and unaffected the people were. The Princess of Wales came to the exhibition one day, and I saw her sitting in the general audience although there was a Royal box. She afterwards came to my tent and drank a cup of tea. On another occasion I drove her and her sons and daughters, and the Duke Michael of Russia<a href="#n02" class="internal_link">2</a>, in the Deadwood coach—nine people in all. I never felt so nervous in all my life. If that coach had tipped over I don't suppose I would have ever come out of the grounds alive. The Princess of Wales has the affections of the people to a wonderful degree. When I finally drew rein and the Royal party alighted, and there had been no accident, I drew a long breath of relief."</p>
 
 
    </div>
@@ -31,4 +31,3 @@
    <div class="note">Note 2: Grand Duke Michael Alexandrovich (1878-1918) of Russia was the youngest son of Emperor Alexander III of Russia.</div>
 
 </div>
-

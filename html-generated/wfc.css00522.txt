@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,22 +21,19 @@
 
       <span class="dateline">Carlilse Pa<br/>
 
-June 24th 98<a href="../doc/n01" class="internal_link">1</a>
+June 24th 98<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—</span>
 
-      <p>I hope everything will be settled at the meeting then this worry and hustle for money to pay our debts will be over. this can be done if we all put our shoulder to it— I hope the Co will decide to have the mill built. Nothing could benefit us more and what a boom a Mill would be to the store. I have had awful bad luck so for this season but will do my part. I presume that Co will want you to select the Mill &amp; buy it while East as there is No time to <a rel="tooltip" class="sic" title="lose​ ">loose</a>
-    ​.</p>
+      <p>I hope everything will be settled at the meeting then this worry and hustle for money to pay our debts will be over. this can be done if we all put our shoulder to it— I hope the Co will decide to have the mill built. Nothing could benefit us more and what a boom a Mill would be to the store. I have had awful bad luck so for this season but will do my part. I presume that Co will want you to select the Mill &amp; buy it while East as there is No time to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a>.</p>
 
-      <p>Should Webster<a href="../doc/n02" class="internal_link">2</a> be held <a rel="tooltip" class="sic" title="responsible​ ">responsable</a>
-    ​ for bride.<a href="../doc/n03" class="internal_link">3</a> He certainly <a rel="tooltip" class="sic" title="exercised​ ">excersized</a>
-    ​ No judgement.</p>
+      <p>Should Webster<a href="#n02" class="internal_link">2</a> be held <a rel="tooltip" class="sic" title="responsible​ &#xA;    ">responsable</a> for bride.<a href="#n03" class="internal_link">3</a> He certainly <a rel="tooltip" class="sic" title="exercised​ &#xA;    ">excersized</a> No judgement.</p>
 
-      <p>Mrs. <del>Plol</del> Polhamus<a href="../doc/n04" class="internal_link">4</a> has sent $190</p>
+      <p>Mrs. <del>Plol</del> Polhamus<a href="#n04" class="internal_link">4</a> has sent $190</p>
 
-      <p>Let me hear <a rel="tooltip" class="sic" title="what's​ ">whats</a>
-    ​ done at meeting.</p>
+      <p>Let me hear <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> done at meeting.</p>
 
       <span class="closer">
          <span class="salute">Kind regards</span>
@@ -59,4 +56,3 @@ June 24th 98<a href="../doc/n01" class="internal_link">1</a>
 
 
 </div>
-

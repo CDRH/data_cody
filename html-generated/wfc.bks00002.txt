@@ -15,7 +15,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>Get there first and don't miss W.F. Cody "Buffalo Bill"</p>
@@ -38,9 +38,9 @@ OF
 THE PLAINS 
 </span>
 
-         <span class="byline">BY <span class="docAuthor">BUFFALO BILL
+         <span class="byline">BY BUFFALO BILL
 
-(WILLIAM F. CODY)</span>
+(WILLIAM F. CODY)
 
 Frontiersman and late Chief of Scouts, U.S. Army
 </span>
@@ -87,7 +87,7 @@ The right of translation for foreign countries is reserved by the Author
          </a>
       </span>
 
-      <div class="contents doublespace ">
+      <div class="contents">
 
          <h3>TABLE OF CONTENTS</h3> 
 
@@ -285,7 +285,7 @@ The right of translation for foreign countries is reserved by the Author
 
    <h4>TRUE TALES OF THE PLAINS</h4> 
 
-   <div class="chapter ">
+   <div class="chapter">
       <h3>CHAPTER I</h3> 
 
       <h3>HOW I KILLED MY FIRST INDIAN</h3> 
@@ -540,7 +540,7 @@ if he'd been a thirty-year scout!"</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER II</h3> 
       <h3>MY FIRST TRAPPING ADVENTURES</h3> 
@@ -842,7 +842,7 @@ my friend around the neck.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER III</h3> 
       <h3>CONTRIBUTED LIFE STORIES OF THE NARRATOR</h3>
@@ -1068,7 +1068,7 @@ plains."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER IV</h3> 
       <h3>A PONY-EXPRESS RIDER AT FOURTEEN</h3>
 
@@ -1510,7 +1510,7 @@ miles) being covered in 21 hours and 30 minutes."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER V</h3> 
       <h3>HUNTING FOR BEAR AND FINDING HORSE THIEVES</h3>
 
@@ -1890,7 +1890,7 @@ had no trouble for some time after that.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER VI</h3> 
       <h3>ADVENTURES AS A CIVIL WAR SCOUT</h3> 
 
@@ -2086,7 +2086,7 @@ the very arms of a company of Union skirmishers.</p>
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER VII</h3> 
       <h3>"WILD BILL" AND HOW HE KILLED TEN "BAD MEN"</h3>
 
@@ -2493,7 +2493,7 @@ character.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER VIII</h3> 
 
       <h3>MY FIRST MEETING WITH GENERAL WILLIAM 
@@ -2825,7 +2825,7 @@ from Fort Riley to Kearny, in Kansas and Nebraska. Sincerely your friend,</p>
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER IX</h3> 
 
       <h3>HUNTING BUFFALO TO FEED THE UNION PACIFIC 
@@ -3019,7 +3019,7 @@ U.P.R.R., three drivers and the others butchers.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER X</h3> 
       <h3>A RACE FOR LIFE</h3> 
 
@@ -3207,7 +3207,7 @@ eyes.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XI</h3> 
       <h3>HOW I GOT THE TITLE OF "BUFFALO BILL"</h3> 
 
@@ -3409,7 +3409,7 @@ buffalo-hunter of the plains.</p>
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER XII</h3> 
 
       <h3>THE PRAIRIE—ITS ATTRACTIONS AND DREADS</h3> 
@@ -3684,7 +3684,7 @@ to molest the butcher-wagon with the same appetite. And the fort always had fres
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER XIII</h3> 
       <h3>MY FIRST MEETING WITH GENERAL SHERIDAN</h3> 
 
@@ -3987,7 +3987,7 @@ Arkansas to continue their marauding."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XIV</h3> 
       <h3>MY FIRST MEETING WITH GENERAL CUSTER</h3> 
 
@@ -4314,7 +4314,7 @@ sleep.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER XV</h3> 
       <h3>THE FORT PHIL KEARNY MASSACRE</h3> 
@@ -4594,7 +4594,7 @@ and always on guard.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XVI</h3> 
       <h3>ONE YEAR AFTER, OR RED CLOUD AND CAPTAIN 
 POWELL—THIRTY-TWO AGAINST THREE THOUSAND AT FORT PHIL KEARNY—MAGIC OF 
@@ -4906,7 +4906,7 @@ it is even now referred to by the Indians as the
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XVII</h3> 
       <h3>CUSTER'S FIGHT AT THE WASHITA</h3>
 
@@ -5236,7 +5236,7 @@ need of caution to offset cunning.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XVIII</h3> 
       <h3>GENERAL "SANDY" FORSYTH'S FIGHT ON THE REPUBLICAN—SCOUT JACK STILWELL'S HEROISM</h3> 
 
@@ -5534,7 +5534,7 @@ quickly marched to General Forsyth's relief.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XIX</h3> 
       <h3>CAMPAIGNING IN WINTER</h3> 
 
@@ -5803,7 +5803,7 @@ the gorgeous trappings and luxuries at his disposition as Lord Mayor.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XX</h3> 
       <h3>THE FIGHT AT ELEPHANT ROCK</h3> 
 
@@ -6045,7 +6045,7 @@ forty hours. Pretty strenuous work that!"</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXI</h3> 
       <h3>BATTLE OF SUMMIT SPRINGS</h3> 
 
@@ -6375,7 +6375,7 @@ year had fought General Forsyth and had recently committed depredations in Kansa
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXII</h3> 
       <h3>WINGING TWO AT A TIME—CAPTURING THE HERO 
 AND THE CONGRESSIONAL MEDAL</h3> 
@@ -6661,7 +6661,7 @@ recipient of a "Congressional medal of honor."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXIII</h3> 
       <h3>HUNTING, HISTORY'S GRANDEST CHASE—THE 
 GRAND DUKE ALEXIS' HUNT</h3>
@@ -7080,7 +7080,7 @@ battle.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXIV</h3> 
       <h3>SIOUX AND CHEYENNE CAMPAIGN OF 1876 AND 
 CAUSE—GENERAL RENO's CONNECTION 
@@ -7472,7 +7472,7 @@ Washita!</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXV</h3> 
       <h3>CUSTER'S LAST BATTLE</h3> 
 
@@ -7733,7 +7733,7 @@ Custer's last battle had none."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER XXVI</h3> 
       <h3>LIEUTENANT SIBLEY'S SCOUT</h3> 
@@ -8073,7 +8073,7 @@ securing of the much coveted news item.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXVII</h3> 
       <h3>INDIAN CAMPAIGN OF 1876—THE DEATH OF YELLOW HAND</h3>
 
@@ -8488,7 +8488,7 @@ join the hostiles under Sitting Bull.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXVIII</h3> 
       <h3>GENERAL MILES'S NARROW ESCAPE—DEATH OF 
 CRAZY HORSE AND LAME DEER</h3> 
@@ -8806,7 +8806,7 @@ friend—General Nelson A. Miles.</p>
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER XXIX</h3> 
       <h3>THE SLIM BUTTE FIGHT-DEATH OF AMERICAN 
 HORSE AND MY SHADOW, "BUFFALO CHIPS"</h3> 
@@ -9117,7 +9117,7 @@ and devoted friend, Jim White."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXX</h3> 
       <h3>RECEIVED BY AN ARMY LINE OF BATTLE</h3> 
 
@@ -9421,7 +9421,7 @@ forgotten.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXXI</h3> 
       <h3>LIEUTENANT DE RUDIO'S HAIRBREADTH ESCAPE</h3> 
 
@@ -9756,7 +9756,7 @@ Rudio.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXXII</h3> 
       <h3>SITTING BULL AND "THE MAN IN THE DARK"</h3>
 
@@ -9984,7 +9984,7 @@ and succeeding story.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXXIII</h3> 
       <h3>DEATH OF SITTING BULL</h3> 
 
@@ -10296,4 +10296,3 @@ of the command move forward at once."</p>
    </div>
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00408.01.jpg"
@@ -43,7 +43,7 @@ Chairman.
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00408.02.jpg"
@@ -78,4 +78,3 @@ c/o Col Cody
 
 
 </div>
-

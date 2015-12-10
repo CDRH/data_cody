@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,7 +23,8 @@
 
       <span class="dateline">July 23, 1907.</span>
 
-      <span class="persName">Bronson Rumsey</span>, Trustee,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, Trustee,
 
 78 Exchange St., 
 
@@ -62,7 +63,7 @@ Enc. drft, vch, stnt.</div>
       </a>
    </span>
 
-   <div class="record doublespace ">
+   <div class="record">
 
       <p>Statement of business transacted at Cody, Wyoming, by the Lincoln Land Company, with respect to the one-half interest of Bronson Rumsey, trustee, for the six months ending June 30, 1907.</p>
 
@@ -101,4 +102,3 @@ $718.57
 
 
 </div>
-

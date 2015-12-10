@@ -13,7 +13,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -29,7 +29,8 @@ J. W. Boyer, Farm Foreman.</div>
       <span class="dateline">North Platte, Neb., Feb 28th, 1894</span>
   
   
-      <span class="persName">Capt Charles Penney</span>
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/penney.c"/>Capt Charles Penney</span>
   Act Agt Pine Ridge
   
 
@@ -38,7 +39,7 @@ J. W. Boyer, Farm Foreman.</div>
 
 
 
-      <p>I presume you were informed by the Interior Dept.<a href="../doc/n01" class="internal_link">1</a> that I have permission for Indians. I am writing Shangrau. <a href="../doc/n02" class="internal_link">2</a> And I don't wish to commence looking up Indians. Until I have your permission so if you see Shangrau will you please speak to him about it. I will not want the Indians much before May.  but its well to be letting them know. I will try my best to come after them my self—</p>
+      <p>I presume you were informed by the Interior Dept.<a href="#n01" class="internal_link">1</a> that I have permission for Indians. I am writing Shangrau. <a href="#n02" class="internal_link">2</a> And I don't wish to commence looking up Indians. Until I have your permission so if you see Shangrau will you please speak to him about it. I will not want the Indians much before May.  but its well to be letting them know. I will try my best to come after them my self—</p>
 
 
       <span class="closer">
@@ -60,4 +61,3 @@ J. W. Boyer, Farm Foreman.</div>
   
 
 </div>
-

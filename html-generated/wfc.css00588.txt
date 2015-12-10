@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00588.jpg"
@@ -20,7 +20,7 @@
          <strong>Thos. T. Eckert, President and General Manager.</strong> [end heading imprint]</div>
 
 
-      <span class="ab"> Number<br/>Sent By<br/>Rec'd by<br/>Check  pd<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab"> Number<br/>Sent By<br/>Rec'd by<br/>Check  pd<a href="#n01" class="internal_link">1</a>
       </span>
 
 
@@ -29,11 +29,12 @@
       </span>
 
 
-      <span class="ab">Dated  Philadelphia 5/12<a href="../doc/n02" class="internal_link">2</a>
+      <span class="ab">Dated  Philadelphia 5/12<a href="#n02" class="internal_link">2</a>
       </span>
 
 
-      <span class="ab"> To  <span class="persName">Geo T Beck</span>
+      <span class="ab"> To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
       </span>
 
 
@@ -41,7 +42,8 @@
 
 
       <p>
-         <span class="persName">Kelsey</span> wires when can he have balance- Answer Philadelphia.</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/kelsey.f"/>Kelsey</span> wires when can he have balance- Answer Philadelphia.</p>
 
 
       <span class="closer">
@@ -58,4 +60,3 @@
    <div class="note">Note 2: The year is not inscribed by Cody but is 1902 as determined by the Routes List: Buffalo Bill's Wild West performed in Philadelphia, Pennsylvania, May 12-17, 1902.</div>
 
 </div>
-

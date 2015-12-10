@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>INDIANS IN THE WILD WEST SHOW</h3>
       <h3>Even When Not Performing They Wear Native Dress.</h3>
@@ -55,4 +55,3 @@
 
 
 </div>
-

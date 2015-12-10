@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,21 +25,16 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>
 
 
 
-      <span class="dateline">Scranton, Pa., May 12 1895<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Scranton, Pa., May 12 1895<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
 
 
-      <p>Yours from Omaha <a rel="tooltip" class="sic" title="received​ ">Recd</a>
-    ​— Now George we must not let any one get <a rel="tooltip" class="sic" title="ahead​ ">a head</a>
-    ​ of us on the land we propose to irrigate on either side of the river.<a href="../doc/n02" class="internal_link">2</a> I fear you <a rel="tooltip" class="sic" title="do not​ ">donot</a>
-    ​ appreciate that <a rel="tooltip" class="sic" title="enterprise​ ">enterprize</a>
-    ​ as much as I do. And if the Paxton party <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ get up there soon And decide whether they are going into it or not we will <a rel="tooltip" class="sic" title="lose​ ">loose</a>
-    ​ at lot of our land.<a href="../doc/n03" class="internal_link">3</a> We must get to work and do something and that right away.</p>
+      <p>Yours from Omaha <a rel="tooltip" class="sic" title="received​ &#xA;    ">Recd</a>— Now George we must not let any one get <a rel="tooltip" class="sic" title="ahead​ &#xA;    ">a head</a> of us on the land we propose to irrigate on either side of the river.<a href="#n02" class="internal_link">2</a> I fear you <a rel="tooltip" class="sic" title="do not​ &#xA;    ">donot</a> appreciate that <a rel="tooltip" class="sic" title="enterprise​ &#xA;    ">enterprize</a> as much as I do. And if the Paxton party <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> get up there soon And decide whether they are going into it or not we will <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a> at lot of our land.<a href="#n03" class="internal_link">3</a> We must get to work and do something and that right away.</p>
 
       <p>Will you put your shoulder
 
@@ -64,10 +59,10 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>Scranton, Pa., ____189_
 
 to the wheel and hoof things up— And let me know how the thing stands.</p>
 
-      <p>I heard from <span class="persName">Hymer</span> he sent reports. And I tell you That Man Hymer Knows his business. And George— without him we would have been holding the bag— And I hope all concerned will appreciate what he has done.</p>
+      <p>I heard from <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> he sent reports. And I tell you That Man Hymer Knows his business. And George— without him we would have been holding the bag— And I hope all concerned will appreciate what he has done.</p>
 
-      <p>He will need some money at once. We must keep our credit good and at once— Nothing will hurt us more than to <a rel="tooltip" class="sic" title="lose​ ">loose</a>
-    ​ our credit. Will you let me hear from you at once. </p>
+      <p>He will need some money at once. We must keep our credit good and at once— Nothing will hurt us more than to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a> our credit. Will you let me hear from you at once. </p>
 
       <span class="closer">
          <span class="salute">Yours— </span>
@@ -83,8 +78,8 @@ to the wheel and hoof things up— And let me know how the thing stands.</p>
 
    <div class="note">Note 2: Cody, Beck, and their partners planned to apply for a land segregation under the terms of the Carey Act.  The necessary irrigation project became known as the Cody Canal.</div>
 
-   <div class="note">Note 3: Cody and Beck were hoping to persuade Omaha businessman <span class="persName">William A. Paxton</span> to invest in their irrigation venture.</div>
+   <div class="note">Note 3: Cody and Beck were hoping to persuade Omaha businessman <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w"/>William A. Paxton</span> to invest in their irrigation venture.</div>
 
 
 </div>
-

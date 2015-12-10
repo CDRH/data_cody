@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -24,10 +24,11 @@
       <h3>One of Buffalo Bills Indian's Dies in Bellevue Hospital.</h3>
 
       <p>
-         <span class="persName">Otakte</span>, or "Kills His Pony," the Sioux Indian, died in Bellevue Hospital this morning.<a href="../doc/n01" class="internal_link">1</a>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/otakte"/>Otakte</span>, or "Kills His Pony," the Sioux Indian, died in Bellevue Hospital this morning.<a href="#n01" class="internal_link">1</a>
       </p>
 
-      <p>"Kills His Pony" was a Dacotah, and had been with Buffalo Bill's Wild West Show in Europe. Saturday he arrived in this port on the steamship Salle very ill with consumption.<a href="../doc/n02" class="internal_link">2</a>
+      <p>"Kills His Pony" was a Dacotah, and had been with Buffalo Bill's Wild West Show in Europe. Saturday he arrived in this port on the steamship Salle very ill with consumption.<a href="#n02" class="internal_link">2</a>
       </p>
 
    </div>
@@ -39,4 +40,3 @@
 
    <div class="note">Note 2: The cause of Otakte's death may have been a combination of tuberculosis and blood poisoning following a fall from his horse while performing with Buffalo Bill's Wild West in Germany.</div>
 </div>
-

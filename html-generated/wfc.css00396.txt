@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00396.01.jpg"
@@ -27,11 +27,12 @@ Hotel La Salle<br/>
       <span class="dateline">Chicago Mar. 4th 1914</span>
 
 
-      <span class="salute">My Dear <span class="persName">Tait</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j"/>Tait</span>
       </span>
 
 
-      <p>I be in Denver Saturday Morning.<a href="../doc/n01" class="internal_link">1</a> Will lecture on pictures at Tabor Opera house—<a href="../doc/n02" class="internal_link">2</a>
+      <p>I be in Denver Saturday Morning.<a href="#n01" class="internal_link">1</a> Will lecture on pictures at Tabor Opera house—<a href="#n02" class="internal_link">2</a>
       </p>
 
       <p>Everything fast as possible &amp; allright.</p>
@@ -39,7 +40,7 @@ Hotel La Salle<br/>
          <br/>Col
 </span>
    </div>
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <div class="note">
 Hotel La Salle<br/>
@@ -74,4 +75,3 @@ Colo
    <div class="note">Note 2: Cody refers to his motion picture <em class="hi">The Indian Wars</em>. On March 8, 1914, Cody began a week-long engagement to exhibit and lecture on the film at the Tabor Grand Opera House. The opera house, which was located at 16th and Curtis Streets in Denver, no longer survives.</div>
 
 </div>
-

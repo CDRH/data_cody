@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -17,7 +17,7 @@
 
       <h3>Buffalo Bill Is Under Bond.</h3>
 
-      <div class=" ">
+      <div class="">
          <p>Editor Post: To decide a bet will you please state whether Buffalo Bill has to have permission from the government to get the Indians he uses in the Wild West show from the reservations and if he has to return them to their homes at the close of the season.</p>
          <span class="closer">
             <br/>H. DUNN.
@@ -25,7 +25,7 @@
 <span class="dateline">Pomeroy, Ohio, Aug. 25.</span>
          </span>
       </div>
-      <div class=" ">
+      <div class="">
 
          <p>Buffalo Bill is granted permission to use the Indians by the government.  He is required to give a very heavy bond to return them safely and in good health to their respective reservations.  He is not held liable for accidental deaths.</p>
       </div>
@@ -33,4 +33,3 @@
 
 
 </div>
-

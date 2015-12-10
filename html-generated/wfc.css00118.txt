@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,13 +21,13 @@
 
       <span class="dateline">
          <del>Ch</del>Columbia—S. C.<br/>
-Oct- 26th 01<a href="../doc/n01" class="internal_link">1</a>
+Oct- 26th 01<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear, Hinkle—</span>
 
 
-      <p>I will probaly leave North Platte for Cody the 9th or 10th When I get to Cody I go on a two weeks hunt.<a href="../doc/n02" class="internal_link">2</a> would be delighted to have you as my guest</p>
+      <p>I will probaly leave North Platte for Cody the 9th or 10th When I get to Cody I go on a two weeks hunt.<a href="#n02" class="internal_link">2</a> would be delighted to have you as my guest</p>
 
       <span class="closer">
          <span class="salute">Yours truly</span>
@@ -36,7 +36,7 @@ Oct- 26th 01<a href="../doc/n01" class="internal_link">1</a>
 </span>
 
       <p>Same invitation Extends to Tynan </p>
-      <p>I sent him a check to day to pay rent of leased lands<a href="../doc/n03" class="internal_link">3</a>
+      <p>I sent him a check to day to pay rent of leased lands<a href="#n03" class="internal_link">3</a>
       </p>
       <span class="closer">
          <br/>W.F.C
@@ -45,7 +45,7 @@ Oct- 26th 01<a href="../doc/n01" class="internal_link">1</a>
 
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00118.002.jpg"
@@ -89,4 +89,3 @@ Wyo
    <div class="note">Note 3: Thomas T. Tynan (1860-1925) was Wyoming's superintendent of public instruction from 1899 to 1907.  The superintendent of public instruction served as a member of the state board of land commissioners.  Cody's rent for lands leased from the state would be payable to the board.  Tynan later served as mayor of Sheridan, Wyoming, from 1914 to 1915.</div>
 
 </div>
-

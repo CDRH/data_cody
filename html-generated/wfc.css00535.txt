@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00535.001.jpg"
@@ -18,21 +18,19 @@
       <div class="note">Buffalo Bill's Wild West </div>
 
 
-      <span class="dateline">New Haven- Conn<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">New Haven- Conn<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
 June 28th 99</span>
 
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
 
-      <p>Your friendly letter recd— glad to get it. I am looking hourly for a <a rel="tooltip" class="sic" title="telegram​ ">telegrame</a>
-    ​ saying not only our bridge<a href="../doc/n02" class="internal_link">2</a> has gone but the Corbett<a href="../doc/n03" class="internal_link">3</a>. if the bridges go out the pleasure trip for my family &amp; friends will be off. But if not they will be there or at Red Lodge<a href="../doc/n04" class="internal_link">4</a> Aug 2d— And I thank you very much for your willingness to show them attention. Snyder<a href="../doc/n05" class="internal_link">5</a> was on and I told him what to do. But if he fails to do it— or if he insists on getting drunk— I wish you would take charge. But I have begged of Okey<a href="../doc/n05" class="internal_link">5</a> to do what is right. But <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ stand any more nonsense from him. By the enclosed <a rel="tooltip" class="sic" title="telegram​ ">telegrame</a>
-    ​ you can see how our
+      <p>Your friendly letter recd— glad to get it. I am looking hourly for a <a rel="tooltip" class="sic" title="telegram​ &#xA;    ">telegrame</a> saying not only our bridge<a href="#n02" class="internal_link">2</a> has gone but the Corbett<a href="#n03" class="internal_link">3</a>. if the bridges go out the pleasure trip for my family &amp; friends will be off. But if not they will be there or at Red Lodge<a href="#n04" class="internal_link">4</a> Aug 2d— And I thank you very much for your willingness to show them attention. Snyder<a href="#n05" class="internal_link">5</a> was on and I told him what to do. But if he fails to do it— or if he insists on getting drunk— I wish you would take charge. But I have begged of Okey<a href="#n05" class="internal_link">5</a> to do what is right. But <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> stand any more nonsense from him. By the enclosed <a rel="tooltip" class="sic" title="telegram​ &#xA;    ">telegrame</a> you can see how our
 
 
 <span class="hr"> </span>
@@ -46,14 +44,15 @@ June 28th 99</span>
          </span>
 
 
-directors are falling down. both <span class="persName">Bleistein</span> &amp; <span class="persName">Gerrans</span> were present at the meeting and voted that this Money should be raised <u>were</u> 
+directors are falling down. both <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span> were present at the meeting and voted that this Money should be raised <u>were</u> 
          <u>they</u> 
-         <u>not</u>?  And knew that the <a rel="tooltip" class="sic" title="interest​ ">interst</a>
-    ​ must be paid. Now they say they would not be asked to put up more money. I have wired them I would pay my share no more— They shant make me stand for everything. Let Clark<a href="../doc/n06" class="internal_link">6</a> step in and for close then I will have to pay the $30,000 with interest. Then we will see who owns the layout—</p>
+         <u>not</u>?  And knew that the <a rel="tooltip" class="sic" title="interest​ &#xA;    ">interst</a> must be paid. Now they say they would not be asked to put up more money. I have wired them I would pay my share no more— They shant make me stand for everything. Let Clark<a href="#n06" class="internal_link">6</a> step in and for close then I will have to pay the $30,000 with interest. Then we will see who owns the layout—</p>
 
       <p>Am I not right?</p>
 
-      <p>Mrs Cody<a href="../doc/n07" class="internal_link">7</a> invites Mrs Beck &amp; the wonderful Miss Beck<a href="../doc/n08" class="internal_link">8</a> to join her party for the Mountains<a href="../doc/n09" class="internal_link">9</a> when they get to Cody—</p>
+      <p>Mrs Cody<a href="#n07" class="internal_link">7</a> invites Mrs Beck &amp; the wonderful Miss Beck<a href="#n08" class="internal_link">8</a> to join her party for the Mountains<a href="#n09" class="internal_link">9</a> when they get to Cody—</p>
 
       <p>How many tents can you scare up?</p>
 
@@ -88,4 +87,3 @@ directors are falling down. both <span class="persName">Bleistein</span> &amp; <
 
 
 </div>
-

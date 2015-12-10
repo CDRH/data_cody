@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00570.jpg"
@@ -32,11 +32,14 @@
 
 
       <span class="ab">
-         <span class="persName">Geo T Beck</span>, Chamberlins Hotel, Washington. D. C.</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>, Chamberlins Hotel, Washington. D. C.</span>
 
 
-      <p>Stay there I will be there wednesday everything going well here Stump<a href="../doc/n01" class="internal_link">1</a> all right <span class="persName">Bleistein</span> 
-         <span class="persName">Rumsey</span> fixing things Buffalo</p>
+      <p>Stay there I will be there wednesday everything going well here Stump<a href="#n01" class="internal_link">1</a> all right <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span> fixing things Buffalo</p>
 
 
       <span class="closer">
@@ -49,4 +52,3 @@
    <div class="note">Note 1: "Stump" is unidentified.</div>
 
 </div>
-

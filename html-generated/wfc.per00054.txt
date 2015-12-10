@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
 
 
@@ -16,7 +16,7 @@
 
       <p>It will be worth going to Brompton to see this encampment in all its aspects, and it will always be accessible, let alone the remarkable display of horsemanship and of "wild sports," which have proved such an attraction throughout America during the last two years. The Hon. W. F. Cody, <em class="hi">alias</em> "Buffalo Bill," and one or two other men of his company played a prominent part in the history of his country during the Civil War. He was a Government scout and guide, and in the terrible conflicts which endured from 1863 to 1867 he participated in many great battles, and was at the close of the war honourably discharged. Then it was that he began his hunting expedition, and in a period of less than eighteen months killed 4,280 buffaloes, hence his popular nickname. In 1872 he was elected a member of the Nebraska Legislature, and thus acquired the title of "Honourable." Some time afterwards he proceeded to Chicago, and began his dramatic career; for he is an actor, and the "Wild Sports of the West" is nothing more nor less than an immense dramatic performance, illustrating life as it is witnessed on the plains—the Indian encampments, the Cowboys and Vaqueros, the herds of buffaloes and elk, the lassoing of animals, the manner of robbing mail-coaches, feats of agility, horsemanship, marksmanship, archery, and the kindred scenes and events characteristic of the American borderland. Mr. Cody's troupe of actors and actresses have lived the hard life of the plains, and some of them have taken a prominent part in the history of that portion of their country.</p>
 
-      <p>The American Exhibition itself, of which this entertainment will doubtless be an exceptional attraction, consists of a building 1,282 feet long, by about 250 feet broad, which will be devoted to the ordinary purposes for which exhibitions are created. It is at present not sufficiently advanced for us to be able to judge fairly of its future merits and demerits. The Fine Art Gallery will prove remarkably interesting, as affording us an idea of the vast progress made by the arts of sculpture and painting in America since the days of West<a href="../doc/n01" class="internal_link">1</a> and Sully.<a href="../doc/n02" class="internal_link">2</a>
+      <p>The American Exhibition itself, of which this entertainment will doubtless be an exceptional attraction, consists of a building 1,282 feet long, by about 250 feet broad, which will be devoted to the ordinary purposes for which exhibitions are created. It is at present not sufficiently advanced for us to be able to judge fairly of its future merits and demerits. The Fine Art Gallery will prove remarkably interesting, as affording us an idea of the vast progress made by the arts of sculpture and painting in America since the days of West<a href="#n01" class="internal_link">1</a> and Sully.<a href="#n02" class="internal_link">2</a>
       </p>
 
    </div>
@@ -28,4 +28,3 @@
    <div class="note">Note 2: Thomas Sully (1783-1872), an English-born portrait artist and student of Benjamin West.</div>
 
 </div>
-

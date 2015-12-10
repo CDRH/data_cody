@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
     
 
@@ -107,7 +107,7 @@
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER II.</h3>
       <h3>A RACE FOR LIFE.</h3>
@@ -176,7 +176,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER III.</h3>
       <h3>THE PRAIRIE PRINCE.</h3>
@@ -261,7 +261,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER IV.</h3>
       <h3>THE FRONTIER HOME.</h3>
@@ -314,7 +314,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
     
 
@@ -397,7 +397,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER VI.</h3>
       <h3>PRAIRIE PRINCE ON THE TRAIL.</h3>
@@ -450,7 +450,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER VII.</h3>
       <h3>A FEARFUL DISCOVERY.</h3>
@@ -507,7 +507,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER VIII.</h3>
       <h3>THE OATH OF VENGENCE.</h3>
@@ -559,7 +559,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
     
 
@@ -628,7 +628,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER X.</h3>
       <h3>SENTINEL OUTPOST.</h3>
@@ -713,7 +713,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XI.</h3>
       <h3>CONDEMNED TO DIE.</h3>
@@ -804,7 +804,7 @@ and if they get you, you'd have to become some chief's squaw, that's all; so you
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XII.</h3>
       <h3>THE ANGEL OF THE FORT.</h3>
@@ -875,7 +875,7 @@ in the motte, had seen him shoot down the two troopers who were pursuing the chi
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XIII.</h3>
       <h3>THE ALARM AND PURSUIT.</h3>
@@ -942,7 +942,7 @@ in the motte, had seen him shoot down the two troopers who were pursuing the chi
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
     
 
@@ -1009,7 +1009,7 @@ in the motte, had seen him shoot down the two troopers who were pursuing the chi
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XV.</h3>
       <h3>THE DEATH-SHOTS.</h3>
@@ -1110,7 +1110,7 @@ in the motte, had seen him shoot down the two troopers who were pursuing the chi
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XVI.</h3>
       <h3>A PRISONER AND A LOVER.</h3>
@@ -1187,7 +1187,7 @@ had promised one day to become his bride, and he had determined in his mind to b
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XVII.</h3>
       <h3>LEO DENVER'S MISSION.</h3>
@@ -1274,7 +1274,7 @@ had promised one day to become his bride, and he had determined in his mind to b
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
     
 
@@ -1341,7 +1341,7 @@ had promised one day to become his bride, and he had determined in his mind to b
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XIX.</h3>
       <h3>TRAILED TO HIS DOOM.</h3>
@@ -1410,7 +1410,7 @@ had promised one day to become his bride, and he had determined in his mind to b
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XX.</h3>
       <h3>THE LETTERS.</h3>
@@ -1513,7 +1513,7 @@ pathway to his retreat, where, to the great surprise of Black Wolf and Star Eyes
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XX.</h3>
       <h3>THE CONFESSION.</h3>
@@ -1602,7 +1602,7 @@ pathway to his retreat, where, to the great surprise of Black Wolf and Star Eyes
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>CHAPTER XXI.</h3>
       <h3>CONCLUSION.</h3>
@@ -1625,4 +1625,3 @@ pathway to his retreat, where, to the great surprise of Black Wolf and Star Eyes
 
 
 </div>
-

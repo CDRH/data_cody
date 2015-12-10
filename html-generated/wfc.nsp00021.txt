@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>WH-O-O-OP!  IRON TAIL AND HIS BRAVES COME</h3>
       <h3>But They Travel on to the Rising Sun This Morning.</h3>
@@ -28,4 +28,3 @@
 
 
 </div>
-

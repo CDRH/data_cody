@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,16 +20,14 @@
 
 
 
-      <span class="dateline">July 5 1896<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">July 5 1896<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">George</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
-      <p>Your letter gave me great pleasure. And it seemed to lift a weight off me. That climate out there must be very productive in regard to liars if I am to <a rel="tooltip" class="sic" title="believe​ ">beleive</a>
-    ​ one sentence in your letter or else you have quite a number of enemies. For I have heard that you were trying to <a rel="tooltip" class="sic" title="bury​ ">burry</a>
-    ​ me out of sight and ten thousand other things from people you little suspect. And coming so seemingly straight from so many person— And knowing I did not deserve it I was <a rel="tooltip" class="sic" title="commencing​ ">commenceing</a>
-    ​ to lay pipe
+      <p>Your letter gave me great pleasure. And it seemed to lift a weight off me. That climate out there must be very productive in regard to liars if I am to <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> one sentence in your letter or else you have quite a number of enemies. For I have heard that you were trying to <a rel="tooltip" class="sic" title="bury​ &#xA;    ">burry</a> me out of sight and ten thousand other things from people you little suspect. And coming so seemingly straight from so many person— And knowing I did not deserve it I was <a rel="tooltip" class="sic" title="commencing​ &#xA;    ">commenceing</a> to lay pipe
 
 
 <span class="hr"> </span>
@@ -48,17 +46,12 @@
 
          <span class="h6">2</span>
 
-to right <a rel="tooltip" class="sic" title="myself​ ">my self</a>
-    ​ and fight back for <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ not my nature to lay down and quit when I am not in the wrong. No one will apol<del>i</del>ogize quicker then I will when I am wrong</p>
+to right <a rel="tooltip" class="sic" title="myself​ &#xA;    ">my self</a> and fight back for <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> not my nature to lay down and quit when I am not in the wrong. No one will apol<del>i</del>ogize quicker then I will when I am wrong</p>
 
-      <p>I openly confess that I have been dissatisfied with things you have not done. I have not been dissatisfied with but one thing you have done. I did not <a rel="tooltip" class="sic" title="aprove​ ">approove</a>
-    ​ of <a rel="tooltip" class="sic" title="engaging​ ">engageing</a>
-    ​ the Young Lady.<a href="../doc/n02" class="internal_link">2</a> Not but that she is a Lady in every sense of the word. But it was no place for a Lady. The talk it would create in that wild country might ruin the <a rel="tooltip" class="sic" title="Lady's​ ">Ladys</a>
-    ​
+      <p>I openly confess that I have been dissatisfied with things you have not done. I have not been dissatisfied with but one thing you have done. I did not <a rel="tooltip" class="sic" title="aprove​ &#xA;    ">approove</a> of <a rel="tooltip" class="sic" title="engaging​ &#xA;    ">engageing</a> the Young Lady.<a href="#n02" class="internal_link">2</a> Not but that she is a Lady in every sense of the word. But it was no place for a Lady. The talk it would create in that wild country might ruin the <a rel="tooltip" class="sic" title="Lady's​ &#xA;    ">Ladys</a>
 
 
-<span class="hr"> </span>
+         <span class="hr"> </span>
          <span class="pageimage">
             <a href="http://codyarchive.org/figures/large/wfc.css00489.003.jpg"
                rel="prettyPhoto[pp_gal]"
@@ -75,8 +68,7 @@ to right <a rel="tooltip" class="sic" title="myself​ ">my self</a>
          <span class="h6">3</span>
 
 
-good name. When we get an office and a proper place for a Lady to work in and for her to stay Then I would be perfectly willing to give women the office work to do. But running up and down a ditch with Hobos <a rel="tooltip" class="sic" title="making​ ">makeing</a>
-    ​ all sorts of remarks it was no place for a woman. And should it ever be my good fortune to meet the Lady I will tell her so— that it was for her good I objected George. Its my opinion you could have saved the co a good many dollars if you had been more careful
+good name. When we get an office and a proper place for a Lady to work in and for her to stay Then I would be perfectly willing to give women the office work to do. But running up and down a ditch with Hobos <a rel="tooltip" class="sic" title="making​ &#xA;    ">makeing</a> all sorts of remarks it was no place for a woman. And should it ever be my good fortune to meet the Lady I will tell her so— that it was for her good I objected George. Its my opinion you could have saved the co a good many dollars if you had been more careful
 
 
 <span class="hr"> </span>
@@ -95,12 +87,7 @@ good name. When we get an office and a proper place for a Lady to work in and fo
          <span class="h6">4</span>
 
 
-in regard to detail. The Books were not kept as they should have been Everything was run to loose. When a load of goods arrived for us they were not properly checked or looked after. And the way they were disposed of either for our selves sold for cash or credit it was done too carelessly The work of <a rel="tooltip" class="sic" title="moving​ ">mooveing</a>
-    ​ dirt or stone. I <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ think our foremen worked to advantage for instance the two miles that the Graders have been at <del>aw</del> has been to long. George— I <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ blame you for you have done every thing <a rel="tooltip" class="sic" title="conscientiously​ ">concientiously</a>
-    ​ But <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ not your forte</p>
+in regard to detail. The Books were not kept as they should have been Everything was run to loose. When a load of goods arrived for us they were not properly checked or looked after. And the way they were disposed of either for our selves sold for cash or credit it was done too carelessly The work of <a rel="tooltip" class="sic" title="moving​ &#xA;    ">mooveing</a> dirt or stone. I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> think our foremen worked to advantage for instance the two miles that the Graders have been at <del>aw</del> has been to long. George— I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> blame you for you have done every thing <a rel="tooltip" class="sic" title="conscientiously​ &#xA;    ">concientiously</a> But <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> not your forte</p>
 
 
       <span class="hr"> </span>
@@ -120,12 +107,7 @@ in regard to detail. The Books were not kept as they should have been Everything
       <h6 class="fw">5</h6>
 
 
-      <p>You cant look over your work and see and close up leaks you are not careful enough to detail. You start it going and think its being done when its not. probably I am <a rel="tooltip" class="sic" title="too​ ">to</a>
-    ​ particular but I <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ help it. I want Everything to <a rel="tooltip" class="sic" title="move​ ">Moove</a>
-    ​ And every man and horse and tools in their place not left scattered around. And if the men under you know that you know <a rel="tooltip" class="sic" title="what's​ ">whats</a>
-    ​ going on your self And that they will get rounded it they <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ attend to things you
+      <p>You cant look over your work and see and close up leaks you are not careful enough to detail. You start it going and think its being done when its not. probably I am <a rel="tooltip" class="sic" title="too​ &#xA;    ">to</a> particular but I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> help it. I want Everything to <a rel="tooltip" class="sic" title="move​ &#xA;    ">Moove</a> And every man and horse and tools in their place not left scattered around. And if the men under you know that you know <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> going on your self And that they will get rounded it they <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> attend to things you
 
 
 <span class="hr"> </span>
@@ -144,13 +126,9 @@ in regard to detail. The Books were not kept as they should have been Everything
 
          <span class="h6">6</span>
 
-would soon see things <a rel="tooltip" class="sic" title="moving​ ">mooveing</a>
-    ​ differently. And if you would only let them see that you was on to your job You bet your men would soon change for the better. George this is only my opinion given with the best of friendship and I <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ want you to take it only as its <a rel="tooltip" class="sic" title="meant​ ">ment</a>
-    ​.</p>
+would soon see things <a rel="tooltip" class="sic" title="moving​ &#xA;    ">mooveing</a> differently. And if you would only let them see that you was on to your job You bet your men would soon change for the better. George this is only my opinion given with the best of friendship and I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> want you to take it only as its <a rel="tooltip" class="sic" title="meant​ &#xA;    ">ment</a>.</p>
 
-      <p>George. I understand some of those Germans<a href="../doc/n03" class="internal_link">3</a> Nagle<a href="../doc/n04" class="internal_link">4</a> brought out are broke already. I wish you would have a talk with them and find out just how they are situated and if Nagle is treating them squarely. You might say <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ none of
+      <p>George. I understand some of those Germans<a href="#n03" class="internal_link">3</a> Nagle<a href="#n04" class="internal_link">4</a> brought out are broke already. I wish you would have a talk with them and find out just how they are situated and if Nagle is treating them squarely. You might say <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> none of
 
 
 <span class="hr"> </span>
@@ -170,11 +148,8 @@ would soon see things <a rel="tooltip" class="sic" title="moving​ ">mooveing</
          <span class="h6">7</span>
 
 
-our business But I say it is. I wish you would find out by <a rel="tooltip" class="sic" title="digging​ ">diging</a>
-    ​ with a spade if you have no well auger by sending three men over on Sage creek<a href="../doc/n05" class="internal_link">5</a> I feel sure water can be found let these men dig for water. I think Nagles next colony should be located there. I <a rel="tooltip" class="sic" title="believe​ ">beleive</a>
-    ​ water can be got <a rel="tooltip" class="sic" title="within​ ">withing</a>
-    ​ sixty feet at Irma<a href="../doc/n06" class="internal_link">6</a> if some one would tell them to dig. A man must think what can be done for the Advantage of the <a rel="tooltip" class="sic" title="enterprise​ ">enterprize</a>
-    ​ &amp; try it where it costs so little. I told <span class="persName">Salsbury</span> of this but I fear he has forgotten it.</p>
+our business But I say it is. I wish you would find out by <a rel="tooltip" class="sic" title="digging​ &#xA;    ">diging</a> with a spade if you have no well auger by sending three men over on Sage creek<a href="#n05" class="internal_link">5</a> I feel sure water can be found let these men dig for water. I think Nagles next colony should be located there. I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> water can be got <a rel="tooltip" class="sic" title="within​ &#xA;    ">withing</a> sixty feet at Irma<a href="#n06" class="internal_link">6</a> if some one would tell them to dig. A man must think what can be done for the Advantage of the <a rel="tooltip" class="sic" title="enterprise​ &#xA;    ">enterprize</a> &amp; try it where it costs so little. I told <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> of this but I fear he has forgotten it.</p>
 
 
       <span class="hr"> </span>
@@ -194,10 +169,8 @@ our business But I say it is. I wish you would find out by <a rel="tooltip" clas
       <h6 class="fw">8</h6>
 
 
-      <p>Foote<a href="../doc/n07" class="internal_link">7</a> will be out at Red Lodge<a href="../doc/n08" class="internal_link">8</a> about the 12th if you can land him he will give you a check for $2000 Stokes<a href="../doc/n09" class="internal_link">9</a> owes $1.000 I <a rel="tooltip" class="sic" title="haven't​ ">havent</a>
-    ​ heard a word from any one about how things are or what is to be done or about how much we will have to have this pay day. only that a Doctor<a href="../doc/n10" class="internal_link">10</a> wrote me from Red Lodge— &amp; Yegen<a href="../doc/n11" class="internal_link">11</a> says we owe him a $1.000 which was news to me. You did not mention it in Chicago. I wish you would try to think up all who we owe. And when these bills come due I am <a rel="tooltip" class="sic" title="personally​ ">personaly</a>
-    ​ <a rel="tooltip" class="sic" title="responsible​ ">responsable</a>
-    ​ for Omaha people<a href="../doc/n12" class="internal_link">12</a>. Graders &amp;c
+      <p>Foote<a href="#n07" class="internal_link">7</a> will be out at Red Lodge<a href="#n08" class="internal_link">8</a> about the 12th if you can land him he will give you a check for $2000 Stokes<a href="#n09" class="internal_link">9</a> owes $1.000 I <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> heard a word from any one about how things are or what is to be done or about how much we will have to have this pay day. only that a Doctor<a href="#n10" class="internal_link">10</a> wrote me from Red Lodge— &amp; Yegen<a href="#n11" class="internal_link">11</a> says we owe him a $1.000 which was news to me. You did not mention it in Chicago. I wish you would try to think up all who we owe. And when these bills come due I am <a rel="tooltip" class="sic" title="personally​ &#xA;    ">personaly</a> 
+         <a rel="tooltip" class="sic" title="responsible​ &#xA;    ">responsable</a> for Omaha people<a href="#n12" class="internal_link">12</a>. Graders &amp;c
 
 
 <span class="hr"> </span>
@@ -217,17 +190,11 @@ our business But I say it is. I wish you would find out by <a rel="tooltip" clas
          <span class="h6">9</span>
 
 
-I am sure if you would give the business thought and action you would be able to keep the credit of our co better. We none of us are to blame if you <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ let us know what you do. <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ your carelessness <a rel="tooltip" class="sic" title="that's​ ">thats</a>
-    ​ giving our co such a bad name you <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ mean to do it but <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ been your way of doing business all your life. And I should think you had seen the folly of it. Is <span class="persName">Alger</span> &amp; <span class="persName">Mead</span> there. I <a rel="tooltip" class="sic" title="haven't​ ">havent</a>
-    ​ heard a word from any one. </p>
+I am sure if you would give the business thought and action you would be able to keep the credit of our co better. We none of us are to blame if you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> let us know what you do. <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> your carelessness <a rel="tooltip" class="sic" title="that's​ &#xA;    ">thats</a> giving our co such a bad name you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> mean to do it but <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> been your way of doing business all your life. And I should think you had seen the folly of it. Is <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e"/>Mead</span> there. I <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> heard a word from any one. </p>
 
-      <p>I hope to God Salsbury <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ catch the disease of <a rel="tooltip" class="sic" title="carelessness​ ">carelesness</a>
-    ​ &amp; neglect that is so prevelant in that country</p>
+      <p>I hope to God Salsbury <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> catch the disease of <a rel="tooltip" class="sic" title="carelessness​ &#xA;    ">carelesness</a> &amp; neglect that is so prevelant in that country</p>
 
       <span class="closer">
          <span class="salute">Yours—</span> 
@@ -263,4 +230,3 @@ I am sure if you would give the business thought and action you would be able to
    <div class="note">Note 12: "Omaha people" are not identified.</div>
 
 </div>
-

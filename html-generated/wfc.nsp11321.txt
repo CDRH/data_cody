@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11321.jpg"
@@ -53,4 +53,3 @@
         <p>NOTE — The taking of these pictures was by official permission of a Government Commission headed by Secretary of War Garrison, Secretary of the Interior Lane, Maj. Gen. Leonard Wood, under the guidance of the distinguished film promoters, Mr. Geo. K. Spoor, president Essanay Company, and his producer, Mr. P. O. Wharton.</p>
    </div>
     </div>
-

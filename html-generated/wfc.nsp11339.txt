@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11339.jpg"
@@ -26,4 +26,3 @@
         <p>Before proceeding to the Pine Ridge agency, however, the Essanay company will take a good many pictures in and around Cody. If you want to see yourself in a moving picture, be at the Park County Fair, for it's liable to happen.</p>
    </div>
     </div>
-

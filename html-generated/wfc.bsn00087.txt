@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -146,7 +146,7 @@ $14,905.79</span>
       </a>
    </span>
 
-   <div class="record doublespace ">
+   <div class="record">
       <h3>NOVEMBER 1917, SALES.</h3>
 
 
@@ -267,4 +267,3 @@ $16,273.58.</span>
 
 
 </div>
-

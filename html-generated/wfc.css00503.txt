@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,18 +19,14 @@
       <div class="note">The Cameron<br/>D. P. Smith, Proprietor.<br/>Wilmanns Bros. Litho. Milwaukee.<br/>La Crosse, Wis.</div>
 
 
-      <span class="dateline">Sep 7, 189_<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Sep 7, 189_<a href="#n01" class="internal_link">1</a>
       </span> 
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
-      <p>I see that women are <a rel="tooltip" class="sic" title="naming​ ">nameing</a>
-    ​ and <a rel="tooltip" class="sic" title="running​ ">runing</a>
-    ​ the Town.<a href="../doc/n02" class="internal_link">2</a> if so I <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ put up <a rel="tooltip" class="sic" title="another​ ">annother</a>
-    ​ dollar I <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ care a damn whether water ever gets there or not. And how quick all work stops. My interest in the dam town is ended.</p>
+      <p>I see that women are <a rel="tooltip" class="sic" title="naming​ &#xA;    ">nameing</a> and <a rel="tooltip" class="sic" title="running​ &#xA;    ">runing</a> the Town.<a href="#n02" class="internal_link">2</a> if so I <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> put up <a rel="tooltip" class="sic" title="another​ &#xA;    ">annother</a> dollar I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> care a damn whether water ever gets there or not. And how quick all work stops. My interest in the dam town is ended.</p>
 
       <span class="closer">
          <br/>Col</span>
@@ -44,4 +40,3 @@
    <div class="note">Note 2: "Women" refers to the new postmistress of the town, Mrs. Marion Williams, who filed for a new Post Office under the name of "Shoshone," but the name was rejected by the government because of confusion with Shoshone Agency established in 1870 (in 1937 that name was changed to the Wind River Agency). Mrs. Williams submitted the name "Richland" for the town; the Post Office accepted this name. However, a meeting was called by important members of the town, and the new name of "Cody" was formally submitted. The government then cancelled the name 'Richland' and in August 1896 formally accepted the name Cody, Wyoming.</div>
 
 </div>
-

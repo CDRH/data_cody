@@ -4,8 +4,8 @@
 <div class="main_content">
 
 
-   <div class="record ">
-      <div class=" ">
+   <div class="record">
+      <div class="">
          <span class="hr"> </span>
          <span class="pageimage">
             <a href="http://codyarchive.org/figures/large/wfc.lgl00022.001.jpg"
@@ -21,7 +21,10 @@
          </div>
 
 
-         <p>THIS AGREEMENT, made this  eighth day of  June, 1900, by and between <span class="persName">Nathan Sa<del>u</del>lsbury</span> of  New York; <span class="persName">Bronson Rumsey</span> of the City of Buffalo, New York: W. F. Cody, of  Cody Wyo and <span class="persName">George T. Beck</span>, of Big Horn County, Wyoming, parties of the first part, and the Lincoln Land Company, a corporation organized under the laws of the State of Nebraska and authorized to do business in the State of Wyoming, party of the second part, </p>
+         <p>THIS AGREEMENT, made this  eighth day of  June, 1900, by and between <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Nathan Sa<del>u</del>lsbury</span> of  New York; <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span> of the City of Buffalo, New York: W. F. Cody, of  Cody Wyo and <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>, of Big Horn County, Wyoming, parties of the first part, and the Lincoln Land Company, a corporation organized under the laws of the State of Nebraska and authorized to do business in the State of Wyoming, party of the second part, </p>
 
          <p>
             <div class="center">W I T N E S S E T H</div>
@@ -87,7 +90,7 @@ which amount shall cover office expenses, services of office force, stationery a
 
          <div class="note">Signed in <del>Duplicate</del> Quadrupel </div>
       </div>
-      <div class=" ">
+      <div class="">
          <span class="ab">State of  New York<br/>
 Erie County / SS.</span>
 
@@ -100,7 +103,7 @@ Notary Public.
 </span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <span class="ab">In &amp; for Erie Co. NY.</span>
 
          <span class="ab">State of  Maine<br/>
@@ -130,7 +133,7 @@ Notary Public
       </span>
 
 
-      <div class=" ">
+      <div class="">
          <span class="ab">State of  New Jersey
 Monmouth County / SS.</span>
 
@@ -143,7 +146,7 @@ Notary Public.</span>
       </div>
 
 
-      <div class=" ">
+      <div class="">
          <span class="ab">State of  <del>New Jersey</del> Nebraska<br/>
             <del>Monmouth</del> Lancaster County / SS.</span>
 
@@ -163,4 +166,3 @@ Notary Public.
 
 
 </div>
-

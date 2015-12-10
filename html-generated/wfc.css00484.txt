@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -24,13 +24,14 @@
          </div>
          <br/>The Southern<br/>Absolutely Fire Proof.<br/>Henry C. Lewis, Manager.<br/>St. Louis,</div>
 
-      <span class="dateline">May 19 1896<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">May 19 1896<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—</span>
 
-      <p>I wrote you yesterday. That as there was no one to put up any cash but <span class="persName">Salsbury</span> and myself. And that we can get no report from you what you are doing or the debts you have contracted or what you propose to do. And as we hear that everything at that end is being run on such <a rel="tooltip" class="sic" title="careless​ ">carless</a>
-    ​ business methods. We ask you to go very slow and <u>beg</u> of you to give us a full report. Now Beck to be brief. I ask this as President of the Co.— and coming from the rest of the members of the company
+      <p>I wrote you yesterday. That as there was no one to put up any cash but <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> and myself. And that we can get no report from you what you are doing or the debts you have contracted or what you propose to do. And as we hear that everything at that end is being run on such <a rel="tooltip" class="sic" title="careless​ &#xA;    ">carless</a> business methods. We ask you to go very slow and <u>beg</u> of you to give us a full report. Now Beck to be brief. I ask this as President of the Co.— and coming from the rest of the members of the company
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -88,4 +89,3 @@ and we demand a business reply.</p>
    </div>
 
 </div>
-

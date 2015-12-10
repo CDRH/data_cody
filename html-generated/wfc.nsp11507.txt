@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -17,11 +17,13 @@
       </span>
 
       <p>
-         <span class="persName">Father Croft</span>, the Indian missionary; <span class="persName">General O'Beirne</span>, W. Buckay, Captain McGee and Scouts Clifford and Crugan acted as pallbearers on Saturday for the body of <span class="persName">Kill His Pony</span>, the young Dacotah Indian, whose body was forwarded to the reservation.</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/craft.f"/>Father Croft</span>, the Indian missionary; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j"/>General O'Beirne</span>, W. Buckay, Captain McGee and Scouts Clifford and Crugan acted as pallbearers on Saturday for the body of <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/otakte"/>Kill His Pony</span>, the young Dacotah Indian, whose body was forwarded to the reservation.</p>
 
    </div>
 
 
 
 </div>
-

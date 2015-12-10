@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -28,19 +28,18 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">Kenton. O<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Kenton. O<a href="#n01" class="internal_link">1</a>
          <br/>
 
-July 8th<a href="../doc/n02" class="internal_link">2</a>
+July 8th<a href="#n02" class="internal_link">2</a>
       </span>
 
-Dear <span class="persName">George</span>
+Dear <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
 
       <p>
-         <span class="persName">Mr. Salsbury</span> has told me of the dirty cowardly act Say I <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ like to accuse an innocent man— And I have been <a rel="tooltip" class="sic" title="too​ ">to</a>
-    ​ severe on some of my best friends perhaps. So I am trying not to be such a crank. But from this distance if I was going to suspect anyone I <a rel="tooltip" class="sic" title="​ ">wouldnt</a>
-    ​ over look shot gun Bailey.<a href="../doc/n03" class="internal_link">3</a> And the Coronet player.<a href="../doc/n04" class="internal_link">4</a>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Mr. Salsbury</span> has told me of the dirty cowardly act Say I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> like to accuse an innocent man— And I have been <a rel="tooltip" class="sic" title="too​ &#xA;    ">to</a> severe on some of my best friends perhaps. So I am trying not to be such a crank. But from this distance if I was going to suspect anyone I <a rel="tooltip" class="sic" title="​ &#xA;    ">wouldnt</a> over look shot gun Bailey.<a href="#n03" class="internal_link">3</a> And the Coronet player.<a href="#n04" class="internal_link">4</a>
       </p>
 
       <span class="closer">
@@ -62,4 +61,3 @@ Dear <span class="persName">George</span>
    <div class="note">Note 4: Cody's comment may refer to William Sweeney (1856-1917), a cornet player who organized and directed the Cowboy Band in Buffalo Bill's Wild West from 1883 to 1913.</div>
 
 </div>
-

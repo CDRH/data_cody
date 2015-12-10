@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>BUFFALO BILL ON THE INDIAN.</h3>
       <h3>COL. CODY TELLS HOW TO SOLVE THE INDIAN QUESTION.</h3>
@@ -22,4 +22,3 @@
 
 
 </div>
-

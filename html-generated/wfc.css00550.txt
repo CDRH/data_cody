@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00550.jpg"
@@ -17,17 +17,18 @@
 
       <div class="note">Buffalo Bill's Wild West</div>
 
-Liverpool—<a href="../doc/n01" class="internal_link">1</a>
+Liverpool—<a href="#n01" class="internal_link">1</a>
       <br/>
 
-May. 15<u>th</u> / 03.<a href="../doc/" class="internal_link">2</a>
+May. 15<u>th</u> / 03.<a href="#" class="internal_link">2</a>
       <br/>
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
 
-      <p>How are they coming? Hope you are well and happy. I have had a tough time with a sprained ankle and shoulder. and the worst weather England ever had— and thats saying a heep. Have been looking for your report for quite a while. Would like to know about the Shoshone Irrigation Co— business. how the New Canal is. how much land sold &amp;c. If you will have money to meet the Hearsts<a href="../doc/n03" class="internal_link">3</a> interest &amp;c—</p>
+      <p>How are they coming? Hope you are well and happy. I have had a tough time with a sprained ankle and shoulder. and the worst weather England ever had— and thats saying a heep. Have been looking for your report for quite a while. Would like to know about the Shoshone Irrigation Co— business. how the New Canal is. how much land sold &amp;c. If you will have money to meet the Hearsts<a href="#n03" class="internal_link">3</a> interest &amp;c—</p>
 
 
       <span class="closer">
@@ -51,4 +52,3 @@ May. 15<u>th</u> / 03.<a href="../doc/" class="internal_link">2</a>
 
 
 </div>
-

@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11335.jpg"
@@ -13,7 +13,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <h3>General Miles' Diplomacy and Military Skill Ended Three Centuries of War Between Red Men and White</h3>
         
         <div class="inline_figure">
@@ -21,7 +21,7 @@
             <p>General Miles and Staff in Headquarters at Pine Ridge. Left to Right — Major Baldwin, Major Ewing, Surgeon Bache, Captain M. P. Maus, General Miles, Colonel Kent, Colonel H. C. Corbin, and Colonel C. F. Humphrey. Insert Shows General Miles as He Is Today. This Photograph Was Made by a Member of General Miles' Staff in the Headquarters Mess Tent at Pine Ridge, in 1890, During the Height of the Campaign. Colonel Corbin Later Became Adjutant-General, and After Serving in the War with Spain He Died. Captain Maus Is Now Brigadier General. Colonel Humphrey Is Now Retired as Major General, Having Served as Quartermaster-General.</p>
          </div> 
       </div>
-        <div class=" ">
+        <div class="">
         <h3>Great Leader's Tact and Experience Needed to Cope With Indians' Belief That Palefaces Never Were Known to Keep a Treaty.</h3>
         
         <p>Pine Ridge, S. D., Oct. 15. — The remark of old General Dumas in the drama of "The Lady of Lyons" about Claude Melnotte that "a man never knows how highly he can respect another until after he has fought with him" is borne out by the old-time Westerners here, when one hears their expressed appreciation of some of the brighter qualities shown by the redmen whom they fought so desperately.</p>
@@ -30,7 +30,7 @@
         
         <p>One learns from the campfire chats of these experienced men that "Who struck Billy Patterson?" was not the greatest of standard conundrums of the olden days, but it was "When did the white men or the government ever keep a treaty with the Indians?" No matter how often or how loudly propounded by generations of questioners since the Mayflower days, no listener for an answer has heard the faintest response or echo from the walls of time. It will be a problem that some future perfected atmospheric wireless wave may record, to render its discoverer famed in historic Indian research.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h3>MEMORY FAILS TO RECORD SQUARE DEAL.</h3>
         
         <p>In this camp, filled with aged redmen wise in Indian lore, noted generals and scouts with records in frontier history, agents and friends, all memories fail (<span class="unclear illegible">[...?]</span> to a few late years) to bring forth the data and location of "a square deal."</p>
@@ -39,7 +39,7 @@
         
         <p>As per example, years ago when a certain commission was debating a treaty the tribal spokesman alluded to another treaty of exchange of territory, when they were told the perpetuity of the government's fulfillment of promises was assured, as "this treaty is made to last as long as grass grows, the sun shines and rivers run."</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h3>OBLIGATION ENDED AS STREAMS DRIED UP.</h3>
         
         <p>As many clauses were violated, the Indians thought the white men knew the future, as their new territory encountered several seasons of drought, a total eclipse of the sun and they suffered through the deal as "in the drought our rivers ran dry, sinking out of sight in the sand, and as no rain came, so no grass grew," so the white man's obligation was ended.</p>
@@ -48,7 +48,7 @@
         
         <p>General Crook is on record as stating, when officially testifying once, that he knew of "thirty-three treaties between the government and the Indians, thirty of which were grossly violated and the other three are still unsettled and under discussion."</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h3>GHOST DANCE WAR FORCED BY STARVATION.</h3>
         
         <p>Though the Messiah craze was a religious one, creating a continental conspiracy, the actual ghost dance war was precipitated by a forced state of almost starvation among the Northern Sioux.</p>
@@ -63,14 +63,14 @@
         
         <p>To further explain the reason for the intensity of the redmen's feelings, it may be well to refer to the violated government promises of rations and annuities.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h3>INDIANS PROMISED $10 FOR EACH PERSON.</h3>
         
         <p>Beside the land to be theirs when transferred beyond the Missouri, the treaty of 1868 at Laramie by General Harney guaranteed every buck, squaw and papoose $10 a head and if of the producing industrial class, $30 a head each year for thirty years. In addition, for the forced occupation of the Black Hills (which had been overflowed with gold seekers, to an extent the government felt itself powerless to rectify by any means the public would sanction) the treaty of 1877 promised the following rations to each, every day: one and one-half pounds of beef, one-half pound of flour, one-half pound of corn, <span class="unclear illegible">[...?]</span> pounds of sugar, four pounds of coffee, three pounds of beans, clothing and blankets. These promises were not always fulfilled and, on this occasion, not at all, this creating an incentive to fan the flames of discontent like wind upon a prairie fire.</p>
         
         <p>Had the busy American public paid attention to the important events of almost contemporary history, it would have seen that the foresight, judgment and sagacity of General Nelson A. Miles saved in lives and money and prevention of check to Western settlement a loss so incalculable as to deserve the nation's gratitude.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h3>MILES PRACTICALLY ROSE FROM THE RANKS.</h3>
         
         <p>He was a soldier in the Civil war, practically rising from the ranks to a major generalship (commanding the Department of Virginia at the finish) with a record under fire possibly equaled, but most certainly not surpassed, in army annals.</p>
@@ -83,7 +83,7 @@
         
         <p>Quick action for a trial of strength on military lines was used to perfection, and a great point gained by throwing General E. A. Carr's command across the entrance to the inaccessible stronghold in Bad Lands, and preventing Kicking Bear, who came down to join the combined force of more than 4,000 Indians getting back after the last stand of the redmen, the battle of the Mission.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h3>EFFECTIVE FACTORS IN ESTABLISHING CORDON.</h3>
         
         <p>In this the Nebraska militia, with Brig. Gen. W. F. Cody ("Buffalo Bill") acting with Brigadier General Colby of the National guard, were effective factors in carrying out the successful plan of encircling in a <span class="unclear illegible">[190?]</span>-mile military cordon around the Indians in the field, awaiting the deep snows, the lack of commissary, the guns "that shoot today and kill tomorrow" (Hotchkisses), the effect of persuasion and peace overtures to bring about a surrender.</p>
@@ -94,4 +94,3 @@
       </div>
    </div>
     </div>
-

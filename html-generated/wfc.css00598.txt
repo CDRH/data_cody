@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">104090-13
@@ -31,7 +31,7 @@
   AS</div>
   SEP -9 1913
   
-<span class="salute">My dear Mr. Secretary<a href="../doc/n01" class="internal_link">1</a>:</span>
+<span class="salute">My dear Mr. Secretary<a href="#n01" class="internal_link">1</a>:</span>
 
 
 
@@ -57,7 +57,7 @@ tion and make arrangements with him for carrying out the plans contemplated.</p>
       
       <span class="closer">
          <span class="salute">Yours very truly,</span>
-         <br/>A. A. Jones<a href="../doc/n02" class="internal_link">2</a>
+         <br/>A. A. Jones<a href="#n02" class="internal_link">2</a>
          <br/>
   First Assistant Secretary.
   <div class="note">9-MR-5</div>
@@ -74,4 +74,3 @@ tion and make arrangements with him for carrying out the plans contemplated.</p>
   <div class="note">Note 2: Andrieus Aristieus Jones (1862-1927) was First Assistant Secretary under Franklin K. Lane, Department of Interior, from 1913 to 1916.</div>
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00553.jpg"
@@ -19,28 +19,26 @@
 
 
 
-      <span class="dateline">Gladback<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Gladback<a href="#n01" class="internal_link">1</a>
          <br/>
 
 Sep. 8th / 06</span>
 
 
-      <span class="salute">Dear <span class="persName">George</span>—</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
  
-      <p>Your letter came to day And as Geo. B. Harris<a href="../doc/n02" class="internal_link">2</a> is so anxious to know what the people of Cody &amp; my self are doing about the high line canal— I took the liberty of sending him your letter.</p>
+      <p>Your letter came to day And as Geo. B. Harris<a href="#n02" class="internal_link">2</a> is so anxious to know what the people of Cody &amp; my self are doing about the high line canal— I took the liberty of sending him your letter.</p>
 
-      <p>Well George— <a rel="tooltip" class="sic" title="Yesterday​ ">Yestarday</a>
-    ​ Mr Geo. O. Starr<a href="../doc/n03" class="internal_link">3</a> Presedent of the Barnum &amp; Bailey Ltd. Co. came over from America to see me— About showing in America. And I signed the best show contract for Little Willie<a href="../doc/n04" class="internal_link">4</a> that he has ever had— And the first good one I have ever had. Mr Starr left soon as the contract was signed for America to commence building an entire new outfit for me— 60 new cars— &amp;c. I got L<a href="../doc/n05" class="internal_link">5</a> in Hungary &amp; Poland but have <a rel="tooltip" class="sic" title="pulled​ ">puled</a>
-    ​ out in Germany.</p>
+      <p>Well George— <a rel="tooltip" class="sic" title="Yesterday​ &#xA;    ">Yestarday</a> Mr Geo. O. Starr<a href="#n03" class="internal_link">3</a> Presedent of the Barnum &amp; Bailey Ltd. Co. came over from America to see me— About showing in America. And I signed the best show contract for Little Willie<a href="#n04" class="internal_link">4</a> that he has ever had— And the first good one I have ever had. Mr Starr left soon as the contract was signed for America to commence building an entire new outfit for me— 60 new cars— &amp;c. I got L<a href="#n05" class="internal_link">5</a> in Hungary &amp; Poland but have <a rel="tooltip" class="sic" title="pulled​ &#xA;    ">puled</a> out in Germany.</p>
 
       <p>
-         <a rel="tooltip" class="sic" title="I'll​ ">Ill</a>
-    ​ tell you all about it in the Rockies when we make our ten days hunt</p>
+         <a rel="tooltip" class="sic" title="I'll​ &#xA;    ">Ill</a> tell you all about it in the Rockies when we make our ten days hunt</p>
 
 
       <span class="closer">
-         <span class="salute">Love to family. Kiss Betty<a href="../doc/n06" class="internal_link">6</a> for me</span>
+         <span class="salute">Love to family. Kiss Betty<a href="#n06" class="internal_link">6</a> for me</span>
 
 
          <br/>Col</span>
@@ -64,4 +62,3 @@ Sep. 8th / 06</span>
 
 
 </div>
-

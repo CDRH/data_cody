@@ -14,7 +14,7 @@
          </a>
       </span>
   
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="ab">COLONEL WILLIAM F. CODY.</span>
@@ -32,7 +32,7 @@
          </a>
       </span>
 
-      <div class=" doublespace ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="ab">MAJOR GORDON W. LILLIE.</span> 
@@ -59,8 +59,8 @@
             <em class="hi">White Chief of the Pawnees</em>
          </span>
   
-         <span class="docAuthor">BY <br/> FRANK WINCH</span>
-      </span>
+  BY <br/> FRANK WINCH
+</span>
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -87,7 +87,7 @@
          </a>
       </span>
 
-      <div class="dedication doublespace ">
+      <div class="dedication">
          <h3>DEDICATION</h3>
          <h3>A <br/> TRIBUTE <br/> TO <br/> MOTHER.</h3>
          <span class="l">
@@ -111,7 +111,7 @@
          </a>
       </span>
 
-      <div class="contents doublespace ">
+      <div class="contents">
          <h3>CONTENTS.</h3>
          <table>
             <tr>
@@ -242,7 +242,7 @@
          </a>
       </span>
 
-      <div class="contents doublespace ">
+      <div class="contents">
          <h3>ILLUSTRATIONS.</h3>
          <table>
             <tr>
@@ -378,7 +378,7 @@
          </a>
       </span>
 
-      <div class="preface doublespace ">
+      <div class="preface">
          <h3>PREFACE.</h3>
          <p>History is merely the chronicle of great men.  Their deeds remain alive forever—time and epochs flicker only a moment and are succeeded again by time and men.  As we each span our brief career, it is given to some to know great men only by the history they create—others to do with, to know personally, to enjoy their confidence, to study at close range the qualities that differentiate greatness.</p>
          <p>It is just this favored opportunity of intimate observation that prompts the dual life histories of Buffalo Bill and Pawnee Bill.  Buffalo Bill's fame was spreading when the gray heads of to-day were romping youngsters of yesterday, others grow old but the famous Scout seemed to revel in perpetual youth, at last, however, the inevitable is clocking off the showmanship days of Buffalo Bill, he has decreed the present season as his farewell in the saddle.  He retires to enjoy the fruits of a life teeming with danger, sorrows, joys and struggles crowned with the ineffable gift of being America's most loved and Ideal Hero Horseman.</p>
@@ -413,7 +413,7 @@
          </a>
       </span>
 
-      <div class=" doublespace ">
+      <div class="">
          <h3>BUFFALO BILL'S FAREWELL</h3> 
          <h3>Proclamation</h3>
          <div class="inline_figure">
@@ -446,7 +446,7 @@
    </span>
 
 
-  <div class="chapter ">
+  <div class="chapter">
       <h3>CHAPTER I.</h3>
       <h3>BOYHOOD DAYS OF BUFFALO BILL.</h3>
       <p>MOTHER, I've just killed my first Indian," gleefully shouted a bright-faced, rosy-cheeked lad of eleven, with eyes glistening as they fondly ranged over the rifle he carried.  Putting the gun away, the youngster ran to his mother, kissed her and took both hands in his.</p>
@@ -627,7 +627,7 @@ room.</p>
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER II.</h3>
       <h3>SHOOTS FIRST INDIAN.</h3>
       <p>BY NO means had the turbulent days come to an end for the Codys.  The pro-slavery men kept up a persistent persecution of Isaac Cody, whose recovery was slow and never complete.</p>
@@ -815,7 +815,7 @@ had his first taste of Indian warfare.  The little heroic band gathered around t
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER III.</h3>
       <h3>AS A PONY EXPRESS RIDER.</h3>
       <p>FOR an hour or so the party waited; making sure that the Indians had abandoned their attack, they proceeded cautiously to Kearney, where Russel, Majors and Wadell had an agent.  McCarthy reported the battle.  A company of troops was sent out as escort.  The bodies of the slain herders were found scalped and literally cut to pieces, the remains were buried on the plains.</p>
@@ -999,7 +999,7 @@ other station, someone killed the agent.  I took his bags right through to Rocky
       </a>
    </span>
     
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER IV.</h3>
       <h3>A CIVIL WAR SPY.</h3>
       <p>YOUNG man, I want some one that I can trust to send on a very dangerous and important errand," said General O. J. Smith.  "You will do."</p>
@@ -1254,7 +1254,7 @@ hundred shots were fired at the fleeing men.  It was evident that the two were t
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER V.</h3>
       <h3>WILD BILL'S OWN STORY.</h3>
       <p>SIX foot two, broad chested, measuring fifty inches around, with a waist that you could almost span, a foot like a woman, long, blond hair, which glistened like gold in the sun light, and with muscles equalling any trained athlete or prize fighter, Wild Bill Hickok was a magnificent specimen of manhood and one of the most deadly shots with rifle or pistol that ever lived.  Moreover, he was an expert horseman, with nerves of steel and a heart as brave as a lion.</p>
@@ -1393,7 +1393,7 @@ slashed breasts, arms, heads, faces, until I knew that every man was dead twice 
       </a>
    </span>
 
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER VI.</h3>
       <h3>HOW BUFFALO BILL WON HIS NAME.</h3>
       <p>IN 1865, at the close of the war, Cody was discharged with honors.  He had served his country well.  He went to St. Louis and brought to a culmination the sweetest romance of his life by marrying Miss Louisa Frederici.  For a period the scout settled down to a quiet life and became a hotel proprietor by renting a hostelry in Salt Creek Valley, Kansas.  He was a jolly "mine host," and it looked for a while as if the plains would lose one of its favored sons.  But the call of the wild pleaded strongly, and once more Bill Cody donned the buckskin.</p> 
@@ -1610,7 +1610,7 @@ constant exclamations of wonder from the spectators.  The plains were strewn wit
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER VII.</h3>
       <h3>SHERIDAN'S CHIEF OF SCOUTS.</h3>
       <p>I HAVE important dispatches for General Sheridan, and my instructions from Captain Parker, commanding Fort Larned, are that they shall be delivered to the General as soon as possible," announced a courier, dust covered and fatigued from a hard ride.</p> 
@@ -1823,7 +1823,7 @@ have a reliable and honest government mule, if that will do you."</p>
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER VIII.</h3>
       <h3>THE BATTLE OF SUMMIT SPRINGS.</h3>
       <p>HALF-PAST nine and all's well," rang a sentry's voice.  Then there was a pause, the outpost next made no sound.  "What the divil's the matter wid that other sentry?" asked an Irish sergeant of the Fifth Cavalry, "why don't he answer?"</p> 
@@ -1997,7 +1997,7 @@ of Nebraska," thinking possibly somewhere there he would find instruction—he l
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER IX.</h3>
       <h3>ENTERTAINS ROYALTY AT BUFFALO HUNT.</h3>
       <p>ABOUT the first of January, 1872, General Forsyth journeyed to Fort McPherson to make preparations for a big buffalo hunt at which the Grand Duke Alexis of Russia was to be the chief guest of honor.  Cody informed him that there were plenty of buffaloes in the vicinity, especially on the Red Willow, sixty miles away.  Buffalo Bill was commissioned by the representatives of General Sheridan, who was arranging the hunt, to visit Spotted Tail's camp, one of the Sioux warriors, located somewhere on Frenchman's Fork, nearly a hundred and fifty miles from Fort McPherson.  The purpose of the visit was to induce about a hundred of the Indian warriors and chiefs to come to the Grand Duke's camp, so that the latter could see the Indians and observe the manner in which they killed buffaloes.</p> 
@@ -2186,7 +2186,7 @@ him sitting in a box, there was a shout and cheers and calls for a speech.</p>
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER X.</h3>
       <h3>PAWNEE BILL'S BOYHOOD DAYS.</h3>
       <p>SAY, are you Trapper Tom Evans?"</p> 
@@ -2493,7 +2493,7 @@ safer to remain until one or the other got his man.  If the inward well wishes o
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XI.</h3>
       <h3>BUFFALO BILL AS AN ACTOR.</h3>
       <p>DURING the Fall of 1872, Buffalo Bill received many letters from Ned Buntline, whom it will be recalled met the great scout some time previous during a hunt of the plains.  Buntline had been very successful as a magazine writer.</p> 
@@ -2708,7 +2708,7 @@ day as he was leaving the hotel for the theatre he heard the newsboys shout:</p>
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XII.</h3>
       <h3>PAWNEE BILL MEETS JESSE JAMES.</h3>
       <p>FOR several years Gordon worked for Trapper Tom Evans.  His youth was for a time the butt of many jokes among the trappers.  But they soon grew to know him as a determined youngster afraid of no danger that man or elements could suggest.</p>
@@ -2991,7 +2991,7 @@ to the rear of the door.  There was an empty rain barrel a few feet away, he was
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XIII.</h3>
       <h3>BUFFALO BILL'S DUEL WITH CHIEF YELLOW HAND.</h3>
       <p>HERE comes Buffalo Bill."</p> 
@@ -3146,7 +3146,7 @@ lookout too, and sent a company of soldiers to Cody's relief.  They arrived none
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XIV.</h3>
       <h3>PAWNEE BILL HEADS THE LAND BOOMERS.</h3>
       <p>IN THE spring of the following year after his experience with the claim jumpers, Gordon W. Lillie was sent with a tribe of Pawnee Indians to join Buffalo Bill's Wild West.  Lillie was to act as interpreter.  Returning to the agency he was made white chief of the Pawnee tribes, succeeding Major Frank North.  It was due to his persistent fair dealings and his every effort to advance their cause that to the Indians and those who knew him he became known as "Pawnee Bill."</p> 
@@ -3333,7 +3333,7 @@ Oklahoma free to the settlers.  Unconsciously he walked a mile or so.</p>
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XV.</h3>
       <h3>BUFFALO BILL MADE A BRIGADIER-GENERAL.</h3>
       <p>AFTER the thrilling duel with Yellow Hand the army moved on.  It was on August third that the command reached Goose Creek, joining General Crook's forces.  Cody was enthusiastically greeted by Crook, who had heard much of his heroic deeds.  After one day in camp the commands headed for Tongue River, leaving the wagons behind, thence starting in a westerly direction.</p> 
@@ -3473,7 +3473,7 @@ our rejoicing.  Bah!  The white man is false.  I return to my people, and to the
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XVI.</h3>
       <h3>OPENING OF THE CHEROKEE LAND STRIP.</h3>
       <p>IT WAS a red sun that broke April 22 into day, a coloring that betokens storm, but the conflict was not to be between elements, but men.  And it raged viciously.  Thousands upon thousands had flocked to Oklahoma weeks before the memorable day of opening.  The prairie became a melting pot of races.  Gamblers, thugs, assassins, adventurers, men, women and children were huddled along the border line.</p> 
@@ -3667,7 +3667,7 @@ said, "and for one I'm going to see you through."  Then turning to the others, "
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XVII.</h3>
       <h3>THE ORIGIN OF THE WILD WEST, ITS PROGRESS, HISTORY AND IMPORTANCE.</h3>
       <p>TO MY very good friend, Mr. Louis E. Cooke, I am indebted for the facts of this chapter.  For thirty-five years Mr. Cooke has been most prominently identified with all the big shows, such as W. W. Cole, Forepaugh, Sells, Barnum &amp; Bailey, Buffalo Bill's Wild West, Pawnee Bill's Far East, which have known and benefited by his capable labors.</p> 
@@ -3864,7 +3864,7 @@ number of years Johnny Baker has had active charge of the arena, his directorshi
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XVIII.</h3>
       <h3>THE JEKYLL AND HYDE OF THE WEST.</h3>
       <p>PAWNEE BILL looked long and carefully at the hundred thousand dollars.  It was the chance he asked for, he must make good and make good he did.  Reorganizing his show, he added to it, secured new features and with the experience of the past it wasn't long before profits began to appear on the right side of his ledger.</p> 
@@ -4021,7 +4021,7 @@ have witnessed his exhibition, he is a banker and is entitled to sign greenbacks
       </a>
    </span>  
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XIX</h3>
       <h3>CODY'S LAST TIME ON THE BATTLEFIELD.</h3>
       <p>THE breaking of Indian treaties so frequently and the invasion of the Black Hills and other sections by gold seekers, prospectors and trappers became the cause of constant irritation, leading to almost continual contests, raids and massacres on the Western plains.  This was the condition of affairs that really brought on the war of 1875-76, resulting in the Custer fight as well as many of the succeeding ones.</p> 
@@ -4124,7 +4124,7 @@ Indian police, had intimated that the old chief was preparing his horses for a l
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XX</h3>
       <h3>BUFFALO BILL'S VAST PROPERTIES.</h3>
       <p>BACK to the land, back to the farm, is the warning cry of the nation's most distinguished social economists—political and commercial leaders, railroad magnates and statesmen—conservation, irrigation and subjugation of arid territory to the husbandmen's productive power is a national issue.</p> 
@@ -4211,7 +4211,7 @@ and education, rather than to sex.  It is his public career that lends an intere
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XXI</h3>
       <h3>PAWNEE BILL'S BUFFALO RANCH AND HOME.</h3>
       <p>FOR years Gordon W. Lillie—Pawnee Bill—lived in a modest log cabin built by his own hands.  It still stands in Pawnee, Oklahoma, a memento of his hard work and untiring efforts to rung the ladder of success.  Throughout privations and adversity, the days of lawlessness, when brave men were made and tempered over night, when the government called him to duty as guide, scout, sheriff, and when the territory was nearly torn asunder with internecine strife, when vandals and cutthroats infested every trail, when the effort to make Oklahoma free for settlers was met with stubborn resistance by the cattle interests, when he nosed through every danger a dozen times a day, when blood had to be spilled in defense of the weak—then Major Gordon W. Lillie was a man of action, his arm and pocketbook were 
@@ -4385,7 +4385,7 @@ foot diamond cut glass chandelier dropping down to within a few feet of the tabl
       </a>
    </span>
   
-  <div class="chapter doublespace ">
+  <div class="chapter">
       <h3>CHAPTER XXII.</h3>
       <h3>BUFFALO BILL'S FAREWELL IN THE SADDLE.</h3>
       <p>GOOD-BYE, Buffalo Bill.  Good-bye," ten thousand voices shouted, no, not shouted, shrieked, as the famous scout made his final salute and bow to New York at Madison Square Garden, New York City, at the conclusion of the engagement there in May, 1910.  The announcement was made that Colonel Cody was beginning a tour of the country that would be his last—his positive farewell in the saddle.</p> 
@@ -4499,4 +4499,3 @@ knelt before a huge statue of an Indian camp.  Through its base flashed the word
   </div>
 
 </div>
-

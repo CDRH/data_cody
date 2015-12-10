@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00420.01.jpg"
@@ -30,15 +30,12 @@ George Arlington, General Manager<br/>
       <span class="salute">Dear John</span>
 
 
-      <p>We had three rainy days but gave two shows a day. to fair business cleared in Binghamton and here. and big after noons turn aways at night. Arlingtons have ordered a big new top and 2500 more seats <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ stand the turn aways— <del>I got a 100</del>
+      <p>We had three rainy days but gave two shows a day. to fair business cleared in Binghamton and here. and big after noons turn aways at night. Arlingtons have ordered a big new top and 2500 more seats <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> stand the turn aways— <del>I got a 100</del>
       </p>
 
-      <p>Hear your Indians went home. ours are happy and great workers the whole outfit first class. <a rel="tooltip" class="sic" title="Haven't​ ">Havent</a>
-    ​ a dead one in the Bunch parades out on time— Johnny has all the say— You know what that means—</p>
+      <p>Hear your Indians went home. ours are happy and great workers the whole outfit first class. <a rel="tooltip" class="sic" title="Haven't​ &#xA;    ">Havent</a> a dead one in the Bunch parades out on time— Johnny has all the say— You know what that means—</p>
 
-      <p>Write me. Am a little <a rel="tooltip" class="sic" title="nervous​ ">nerveous</a>
-    ​ to night got to many people in. they may get restless.</p>
+      <p>Write me. Am a little <a rel="tooltip" class="sic" title="nervous​ &#xA;    ">nerveous</a> to night got to many people in. they may get restless.</p>
 
       <span class="closer">
          <span class="salute">Regards to all </span>
@@ -50,4 +47,3 @@ George Arlington, General Manager<br/>
 
 
 </div>
-

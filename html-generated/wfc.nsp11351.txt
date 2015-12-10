@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11351.jpg"
@@ -64,4 +64,3 @@
         <p>It is pleasant to recall that the legislatures of Colorado and Nebraska passed resolutions, thanking the officers and men of the Fifth cavalry for ridding the territory for all time of the fiercest and most blood-thirsty enemy they had ever known — the Cheyenne Chief Tall Bull and his murderous band.</p>
    </div> 
     </div>
-

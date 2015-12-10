@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>Buffalo Bill Will Protest</h3>
 
@@ -23,4 +23,3 @@
 
 
 </div>
-

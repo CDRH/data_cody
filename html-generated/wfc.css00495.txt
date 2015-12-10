@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -28,20 +28,24 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">Muskegon— Mich<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Muskegon— Mich<a href="#n01" class="internal_link">1</a>
          <br/>
 
 Aug. 11th / 96</span>
 
 
-My Dear <span class="persName">George</span>—
+My Dear <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—
 
-<p>What about a name for the Town.<a href="../doc/n02" class="internal_link">2</a> That you are going to have for the County Seat? I hear you have made a trip through the county <a rel="tooltip" class="sic" title="what's​ ">whats</a>
-    ​ the prospects for the seat? I have been <a rel="tooltip" class="sic" title="urging​ ">urgeing</a>
-    ​ <span class="persName">Blei<del>y</del>stein</span> 
-         <span class="persName">Salsbury</span>. <span class="persName">Rumsey</span> on the <u>bond</u> business they meet in New York tomorrow. I signed the Bonds &amp; sent to <span class="persName">Alger</span> &amp; your signature I hope you hurried them through—</p>
+<p>What about a name for the Town.<a href="#n02" class="internal_link">2</a> That you are going to have for the County Seat? I hear you have made a trip through the county <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> the prospects for the seat? I have been <a rel="tooltip" class="sic" title="urging​ &#xA;    ">urgeing</a> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Blei<del>y</del>stein</span> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span>. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span> on the <u>bond</u> business they meet in New York tomorrow. I signed the Bonds &amp; sent to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> &amp; your signature I hope you hurried them through—</p>
 
-      <p>Say George did you get my letter about giving Trego<a href="../doc/n03" class="internal_link">3</a> a contract— the work will have to be done as soon as the co gets funds. And as I am willing to wait for my pay until co does get funds— and as its very important that water should be down to the Town as soon as possible. I thought you would like Trego to do all the work he could—</p>
+      <p>Say George did you get my letter about giving Trego<a href="#n03" class="internal_link">3</a> a contract— the work will have to be done as soon as the co gets funds. And as I am willing to wait for my pay until co does get funds— and as its very important that water should be down to the Town as soon as possible. I thought you would like Trego to do all the work he could—</p>
 
       <p>Let me hear from you—</p>
 
@@ -50,7 +54,7 @@ My Dear <span class="persName">George</span>—
 
          <br/>Cody
 </span>
-      <p>PS. I have never heard the particulars about the <u>killing</u>.<a href="../doc/n04" class="internal_link">4</a>
+      <p>PS. I have never heard the particulars about the <u>killing</u>.<a href="#n04" class="internal_link">4</a>
       </p>
 
 
@@ -102,4 +106,3 @@ My Dear <span class="persName">George</span>—
    <div class="note">Note 4: Cody's meaning of "particulars about the killing" is not clear.</div>
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00567.jpg"
@@ -30,10 +30,11 @@
       <span class="ab">New-York Jan 22nd-96</span>
 
       <span class="ab">
-         <span class="persName">George.T.Beck</span>, Chamberlins Ho tel, Washn, D. C. </span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George.T.Beck</span>, Chamberlins Ho tel, Washn, D. C. </span>
 
 
-      <p>Be sure see Hursts<a href="../doc/n01" class="internal_link">2</a> wire result of meeting with secretary.</p>
+      <p>Be sure see Hursts<a href="#n01" class="internal_link">2</a> wire result of meeting with secretary.</p>
 
 
       <span class="closer">
@@ -50,4 +51,3 @@
 
 
 </div>
-

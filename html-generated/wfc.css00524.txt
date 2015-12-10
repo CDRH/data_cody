@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,18 +19,18 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Traverse City<br/>
-Mich<a href="../doc/n01" class="internal_link">1</a>
+Mich<a href="#n01" class="internal_link">1</a>
          <br/>
-July 19<a href="../doc/n02" class="internal_link">2</a>
+July 19<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
-      <p>Yours recd— Now if Forbs<a href="../doc/n03" class="internal_link">3</a> 
-         <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ put up— Nor <span class="persName">Bleistein</span> &amp; others— the mill will have to go over another year. I <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ build it Alone— The timber might be sawed for it. For the mill will have to be built Sooner or later— And the mill lumber will keep— And we will have it ready— If Bleistein wires me he can raise two or three thousand allright. But it must be a steam and water mill combined what will it cost to add
+      <p>Yours recd— Now if Forbs<a href="#n03" class="internal_link">3</a> 
+         <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> put up— Nor <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g"/>Bleistein</span> &amp; others— the mill will have to go over another year. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> build it Alone— The timber might be sawed for it. For the mill will have to be built Sooner or later— And the mill lumber will keep— And we will have it ready— If Bleistein wires me he can raise two or three thousand allright. But it must be a steam and water mill combined what will it cost to add
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -42,7 +42,7 @@ July 19<a href="../doc/n02" class="internal_link">2</a>
             </a>
          </span>
 
-steam? How much did Jones<a href="../doc/n04" class="internal_link">4</a> owe— colony people<a href="../doc/n05" class="internal_link">5</a>?</p>
+steam? How much did Jones<a href="#n04" class="internal_link">4</a> owe— colony people<a href="#n05" class="internal_link">5</a>?</p>
 
       <span class="closer">
          <span class="salute">Yours truly</span>
@@ -50,7 +50,7 @@ steam? How much did Jones<a href="../doc/n04" class="internal_link">4</a> owe—
          <br/>W. F. Cody
 </span>
 
-      <p>Excuse blots raining like L<a href="../doc/n05" class="internal_link">5</a>—</p>
+      <p>Excuse blots raining like L<a href="#n05" class="internal_link">5</a>—</p>
 
 
    </div>
@@ -61,7 +61,9 @@ steam? How much did Jones<a href="../doc/n04" class="internal_link">4</a> owe—
 
    <div class="note">Note 2: The year is not inscribed but is 1898.</div>
 
-   <div class="note">Note 3: "Forbs" is Forbes, who oversaw the construction of the Cody Trading Company. When the building was completed Forbes was replaced by <span class="persName">Jacob M. "Jake" Schwoob</span> who had been manager of the Iroquois Hotel in Buffalo, New York, which was owned by <span class="persName">Henry M. Gerrans</span>.</div>
+   <div class="note">Note 3: "Forbs" is Forbes, who oversaw the construction of the Cody Trading Company. When the building was completed Forbes was replaced by <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j"/>Jacob M. "Jake" Schwoob</span> who had been manager of the Iroquois Hotel in Buffalo, New York, which was owned by <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Henry M. Gerrans</span>.</div>
 
    <div class="note">Note 4: C. B. Jones, land agent from Galesburg, Illinois, brought settlers to the Big Horn Basin area of Wyoming. </div>
 
@@ -70,4 +72,3 @@ steam? How much did Jones<a href="../doc/n04" class="internal_link">4</a> owe—
    <div class="note">Note 6: Cody uses the letter "L" instead of spelling out "hell."</div>
 
 </div>
-

@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
   16 Ferdinand Place
@@ -26,7 +26,7 @@
   <br/>
   DEPARTMENT OF THE INTERIOR
   <span class="dateline">January 27th —16</span>
-  E. J. Ayers<a href="../doc/n01" class="internal_link">1</a>, Chief Clerk
+  E. J. Ayers<a href="#n01" class="internal_link">1</a>, Chief Clerk
   Department of the Interior
   Washington
   D. C.
@@ -36,7 +36,7 @@
 
 
 
-      <p>In reply to your favor of Jan 14th 1916 — Will say The reason <del>the</del> of the long delay for the delivery of the Indian War Pictures was that I was in the west. But in December last I took the Reels my self to Washington. I called at Secretary Lanes<a href="../doc/n02" class="internal_link">2</a> office. But failing to find him I called on Secretary Garrison<a href="../doc/n03" class="internal_link">3</a>. And left the Reels or Films with his Secretary who promised to notify Secretary Lane that he had a set of the Reels or films for his department. If you will kindly communicate <del>with</del> with the Secretary to Secretary Garrison, I think you will find everything allright.</p>
+      <p>In reply to your favor of Jan 14th 1916 — Will say The reason <del>the</del> of the long delay for the delivery of the Indian War Pictures was that I was in the west. But in December last I took the Reels my self to Washington. I called at Secretary Lanes<a href="#n02" class="internal_link">2</a> office. But failing to find him I called on Secretary Garrison<a href="#n03" class="internal_link">3</a>. And left the Reels or Films with his Secretary who promised to notify Secretary Lane that he had a set of the Reels or films for his department. If you will kindly communicate <del>with</del> with the Secretary to Secretary Garrison, I think you will find everything allright.</p>
       
       <span class="closer">
          <span class="salute">Very truly yours</span>
@@ -54,4 +54,3 @@
   <div class="note">Note 3: Lindley Miller Garrison (1864-1932), New Jersey lawyer, served as Secretary of War under President Woodrow Wilson between 1913 and 1916.</div>
 
 </div>
-

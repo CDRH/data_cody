@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -27,7 +27,8 @@ CODY.</div>
       <span class="dateline">July 27, 1909.</span>
 
 
-      <span class="persName">Mr. Bronson Rumsey</span>,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>,
 
 680 Ellicott Square, 
 
@@ -58,7 +59,7 @@ Enc. stmt.</div>
 
    </div>
 
-   <div class="record doublespace ">
+   <div class="record">
  
       <span class="hr"> </span>
       <span class="pageimage">
@@ -91,4 +92,3 @@ Enc. stmt.</div>
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,19 +25,19 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
 
-      <span class="dateline">Hartford <del>May</del> June 3th<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Hartford <del>May</del> June 3th<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
 
-      <p>Your telegram just recdreceived found me quite ill but getting better. I got prostrated by the heat last friday in New Haven—<a href="../doc/n02" class="internal_link">2</a> and I tell you its been a tough go to pull through. And perform twice a day But I done it. Am glad Paxton and party are going in.<a href="../doc/n03" class="internal_link">3</a> As I am so anxious to have Paxton of all men— Let Paxton &amp; party say what they want to do. And how much money all are to put up. And Salsbury and I will be on deck with ours—<a href="../doc/n04" class="internal_link">4</a> and by the 20th of June I can help you out— As every body is so down on Hymer— Let Paxton select a General Superintendent.<a href="../doc/n05" class="internal_link">5</a> I am Satisfied. What about Cunningham &amp; Ryan &amp; Hymer putting up?<a href="../doc/n06" class="internal_link">6</a>
+      <p>Your telegram just recdreceived found me quite ill but getting better. I got prostrated by the heat last friday in New Haven—<a href="#n02" class="internal_link">2</a> and I tell you its been a tough go to pull through. And perform twice a day But I done it. Am glad Paxton and party are going in.<a href="#n03" class="internal_link">3</a> As I am so anxious to have Paxton of all men— Let Paxton &amp; party say what they want to do. And how much money all are to put up. And Salsbury and I will be on deck with ours—<a href="#n04" class="internal_link">4</a> and by the 20th of June I can help you out— As every body is so down on Hymer— Let Paxton select a General Superintendent.<a href="#n05" class="internal_link">5</a> I am Satisfied. What about Cunningham &amp; Ryan &amp; Hymer putting up?<a href="#n06" class="internal_link">6</a>
       </p>
       <span class="closer">
          <span class="salute">
-            <a rel="tooltip" class="sic" title="Hastily​ ">Hastly</a>
-    ​ yours— </span>
+            <a rel="tooltip" class="sic" title="Hastily​ &#xA;    ">Hastly</a> yours— </span>
 
          <br/>W. F. Cody
 </span>
@@ -51,14 +51,17 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
    <div class="note">Note 2: Buffalo Bill's Wild West performed in New Haven, Connecticut, on Friday, May 31, 1895.</div>
 
-   <div class="note">Note 3: Cody and Beck were hoping to persuade <span class="persName">William A. Paxton</span>, a successful businessman in Omaha, Nebraska, to invest in their Big Horn Basin irrigation venture, which would become the Shoshone Irrigation Company.  Paxton decided against joining the venture.</div>
+   <div class="note">Note 3: Cody and Beck were hoping to persuade <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w"/>William A. Paxton</span>, a successful businessman in Omaha, Nebraska, to invest in their Big Horn Basin irrigation venture, which would become the Shoshone Irrigation Company.  Paxton decided against joining the venture.</div>
 
-   <div class="note">Note 4: <span class="persName">Nate Salsbury</span>, Cody's business partner and manager of Buffalo Bill's Wild West, joined Cody as an investor in the Shoshone Irrigation Company</div>
+   <div class="note">Note 4: <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Nate Salsbury</span>, Cody's business partner and manager of Buffalo Bill's Wild West, joined Cody as an investor in the Shoshone Irrigation Company</div>
 
-   <div class="note">Note 5: Cody refers to <span class="persName">William E. Hymer</span>, an early partner in his Big Horn Basin irrigation project who was later dropped from the venture by the other partners.  According to historian Robert Bonner, Hymer's participation was a key reason why William A. Paxton chose not to invest in the project.</div>
+   <div class="note">Note 5: Cody refers to <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>William E. Hymer</span>, an early partner in his Big Horn Basin irrigation project who was later dropped from the venture by the other partners.  According to historian Robert Bonner, Hymer's participation was a key reason why William A. Paxton chose not to invest in the project.</div>
 
-   <div class="note">Note 6: "Cunningham" is likely <span class="persName">Dennis Cunningham</span> (b. 1843), who then owned considerable property in Omaha, Nebraska, and was a partner in an Omaha-based contracting firm.  "Ryan" is likely Jerry Ryan, who had been sent by George Beck to assess irrigation possibilities in the Big Horn Basin in 1893.  A man named Jerry Ryan was one of Cunningham's partners in his Omaha contracting business, but it is not clear whether Cunningham's associate was the same person who reconnoitered the Big Horn Basin for Beck.  Cunningham and Ryan were apparently stockholders in the Shoshone Land and Irrigation Company, the predecessor of the Shoshone Irrigation Company, the concern that actually built the Cody Canal.  Neither man appears to have contributed much capital to the project, and neither remained in the inner circle of investors when the Shoshone Irrigation Company replaced the previous company.</div>
+   <div class="note">Note 6: "Cunningham" is likely <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/cunningham.d"/>Dennis Cunningham</span> (b. 1843), who then owned considerable property in Omaha, Nebraska, and was a partner in an Omaha-based contracting firm.  "Ryan" is likely Jerry Ryan, who had been sent by George Beck to assess irrigation possibilities in the Big Horn Basin in 1893.  A man named Jerry Ryan was one of Cunningham's partners in his Omaha contracting business, but it is not clear whether Cunningham's associate was the same person who reconnoitered the Big Horn Basin for Beck.  Cunningham and Ryan were apparently stockholders in the Shoshone Land and Irrigation Company, the predecessor of the Shoshone Irrigation Company, the concern that actually built the Cody Canal.  Neither man appears to have contributed much capital to the project, and neither remained in the inner circle of investors when the Shoshone Irrigation Company replaced the previous company.</div>
 
 
 </div>
-

@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11358.jpg"
@@ -24,4 +24,3 @@
       <p>Reel after reel of films showed the Indians in camp, dancing the war dances, their scouting the alkali plains for unprotected white settlers, the attack and their final annihilation by the United States troops. The final uprising of the reservation Indians against the authority of the "Great White Father" at Washington is graphically pictured. The pictures will be shown all week.</p>
    </div>
     </div>
-

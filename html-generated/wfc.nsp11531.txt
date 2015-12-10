@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -16,7 +16,10 @@
          </a>
       </span>
 
-      <p>The last week of Colonel Cody's stay in Manchester, despite the discouraging nature of the weather, has been highly successful. The Bank Holiday makers on Monday afternoon turned up in such crowds at Brooks's Bar that it is estimated that from four to five thousand had to be turned away disappointed. Among the visitors was the Bishop of Clifton, Father Bennett Vaughan, and Father Power, who were introduced to <span class="persName">Short Bull</span>, Bone Necklace, <span class="persName">No Neck</span>, and others of the red-skinned celebrities in the Wild West company, and entered into an interesting conversation through the intervention of <span class="persName">Mr. Craiger</span>, Sioux interpreter. Since then the crowds of sightseers have been largely augmented by the occurrence of several local "wakes" and other general holidays.</p>
+      <p>The last week of Colonel Cody's stay in Manchester, despite the discouraging nature of the weather, has been highly successful. The Bank Holiday makers on Monday afternoon turned up in such crowds at Brooks's Bar that it is estimated that from four to five thousand had to be turned away disappointed. Among the visitors was the Bishop of Clifton, Father Bennett Vaughan, and Father Power, who were introduced to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/short.bull"/>Short Bull</span>, Bone Necklace, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/noneck"/>No Neck</span>, and others of the red-skinned celebrities in the Wild West company, and entered into an interesting conversation through the intervention of <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g"/>Mr. Craiger</span>, Sioux interpreter. Since then the crowds of sightseers have been largely augmented by the occurrence of several local "wakes" and other general holidays.</p>
 
 
    </div>
@@ -24,4 +27,3 @@
 
 
 </div>
-

@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>"BUFFALO BILL" IS HERE.</h3>
       <h3>WILD WEST SHOW WILL ENTERTAIN THE VETERANS.</h3>
@@ -12,7 +12,7 @@ Attend—Old Soldiers Are Carried Away by Military Ardor When Charge of
 San Juan Begins and Start Out to Help Whip the Spaniards—Colonel Cody
 Takes Part.</h3>
 
-      <div class=" ">
+      <div class="">
          <p>Buffalo Bill, at the head of his Wild West show, or Colonel William F. Cody,
 leading his military pageant, the name has a charm which is irresistible. It
 brought out thousands of people yesterday, one of the most dismal of August
@@ -25,7 +25,7 @@ appearance. The soldiers pitching their tents in rain and mud and kindling
 campfires under difficulties brought back to the veteran who watched it many
 scenes half forgotten.</p>
       </div>
-      <div class=" ">
+      <div class="">
          <h4>Performers Ride in Rain.</h4>
 
          <p>The show is given on vacant lots at Wentworth avenue and Thirty–fifth
@@ -50,7 +50,7 @@ Rough Riders appears, dismounted as they were at San Juan.</p>
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>Veterans Start for Firing Line.</h4>
 
          <p>The rapid-fire gun which is brought into action in the charge is one of the new
@@ -72,7 +72,7 @@ could have poked it into ?em at that rate it wouldn't have taken so long to get
 up Lookout Mountain."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>Indians Choose Dry Spots.</h4>
 
          <p>The Indians were disgusted with the mud and performed their part rather
@@ -97,4 +97,3 @@ illustrate the progress of American history since that time.</p>
 
 
 </div>
-

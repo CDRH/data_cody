@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00538.jpg"
@@ -19,19 +19,21 @@
 
 
 
-      <span class="dateline">Jefferson Ia<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Jefferson Ia<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
-Sep 19<a href="../doc/n02" class="internal_link">2</a>
+Sep 19<a href="#n02" class="internal_link">2</a>
       </span> 
 
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
 
-      <p>Mr Holdrege<a href="../doc/n03" class="internal_link">3</a> told me that work would have been commenced on our rail road before now but that it was impossible to get men &amp; teams But that they had a large force on the branch up North Platte and hoped to be able to put them on that line yet this fall— if not early in the Spring. Now George this means business for our neck of the woods Cody next summer should be a red hot town and for good ness sake hurry the State Land board up— I am try my best to find out the indebtedness of our co— <span class="persName">Alger</span> says he cant hear from you— do hurry this up.</p>
+      <p>Mr Holdrege<a href="#n03" class="internal_link">3</a> told me that work would have been commenced on our rail road before now but that it was impossible to get men &amp; teams But that they had a large force on the branch up North Platte and hoped to be able to put them on that line yet this fall— if not early in the Spring. Now George this means business for our neck of the woods Cody next summer should be a red hot town and for good ness sake hurry the State Land board up— I am try my best to find out the indebtedness of our co— <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> says he cant hear from you— do hurry this up.</p>
 
 
       <span class="closer">
@@ -50,4 +52,3 @@ Sep 19<a href="../doc/n02" class="internal_link">2</a>
 
 
 </div>
-

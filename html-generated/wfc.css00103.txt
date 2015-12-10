@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00103.001.jpg"
@@ -19,12 +19,14 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Owensborro-Ky
-May <del>9</del>10th<a href="../doc/n01" class="internal_link">1</a>
+May <del>9</del>10th<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My. Dear <span class="persName"/>Elwell</span>
+      <span class="salute">My. Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/"/>
+         </span>Elwell</span>
 
-      <p>Why dont you write? Say I wish I had told you to measure the number of acres under cultivation at TE &amp; Carter—<a href="../doc/n02" class="internal_link">2</a> if you have time. before survey commences May 20th  do it— how much new land each place got plowed this spring— I wrote Martin for either you or he go with Mrs Thompson &amp; photograph— Rock Creek ranch— up under the rim rock<a href="../doc/n03" class="internal_link">3</a>
+      <p>Why dont you write? Say I wish I had told you to measure the number of acres under cultivation at TE &amp; Carter—<a href="#n02" class="internal_link">2</a> if you have time. before survey commences May 20th  do it— how much new land each place got plowed this spring— I wrote Martin for either you or he go with Mrs Thompson &amp; photograph— Rock Creek ranch— up under the rim rock<a href="#n03" class="internal_link">3</a>
       </p>
 
       <p>I havent heard from either you or Martin for weeks</p>
@@ -34,7 +36,7 @@ May <del>9</del>10th<a href="../doc/n01" class="internal_link">1</a>
 
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -61,7 +63,7 @@ May <del>9</del>10th<a href="../doc/n01" class="internal_link">1</a>
 
 R. Farrington. Elwell
 c/- J. H. Martin
-<del>Cody</del>Ishawooa TE<a href="../doc/n04" class="internal_link">4</a>
+<del>Cody</del>Ishawooa TE<a href="#n04" class="internal_link">4</a>
 Big Horn Co
 Wyo
 
@@ -83,4 +85,3 @@ Wyo
    <div class="note">Note 4: This penciled notation in an unknown hand was apparently intended to redirect the letter for delivery to the TE Ranch.  "Ishawood" was then the official postal designation for the hamlet later known as Ishawooa, on the South Fork of the Shoshone River about 18 miles southwest of Cody, Wyoming.  This would have been the nearest post office to the TE Ranch.</div>
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,13 +21,18 @@
       </div>
 
 
-      <span class="dateline">Baltimore, Md. Sep 29 1895<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Baltimore, Md. Sep 29 1895<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—</span>
 
 
-      <p>2 letters from You. go up head— None from <span class="persName">Heck</span>. I sent <span class="persName">Alger</span> $2.500 and will try to keep him in funds. You must let me know about how much money you will require each month and about how much it will cost to build the ditch to Sulphur creek<a href="../doc/n02" class="internal_link">2</a>— And about how long it will take to do it. <span class="persName">Bleistein</span> Says he thinks ODay<a href="../doc/n03" class="internal_link">3</a> will come in with us. Now shall I try to get any more men in on ground floor. <span class="persName">Salsbury</span> Says if you
+      <p>2 letters from You. go up head— None from <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t"/>Heck</span>. I sent <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> $2.500 and will try to keep him in funds. You must let me know about how much money you will require each month and about how much it will cost to build the ditch to Sulphur creek<a href="#n02" class="internal_link">2</a>— And about how long it will take to do it. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> Says he thinks ODay<a href="#n03" class="internal_link">3</a> will come in with us. Now shall I try to get any more men in on ground floor. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> Says if you
 
 
 <span class="hr"> </span>
@@ -47,8 +52,7 @@ Carrollton<br/>J. P. Shannon, Manager.<br/>Baltimore, Light &amp; German Sts.<br
 
          <span class="h6">2</span>
 
-can get the ditch built this fall to Sulphur creek headgate put in. Then he can borrow on it all the money we want. And it would be better than <a rel="tooltip" class="sic" title="taking​ ">takeing</a>
-    ​ in to many on ground floor. What do you think? If we do this you must let me know how much money you will need this fall. And I want to know if work can be carried on during winter You know you must figure on lumber for head gate and to build us some kind of a house for head quarters this
+can get the ditch built this fall to Sulphur creek headgate put in. Then he can borrow on it all the money we want. And it would be better than <a rel="tooltip" class="sic" title="taking​ &#xA;    ">takeing</a> in to many on ground floor. What do you think? If we do this you must let me know how much money you will need this fall. And I want to know if work can be carried on during winter You know you must figure on lumber for head gate and to build us some kind of a house for head quarters this
 
 
 <span class="hr"> </span>
@@ -70,8 +74,8 @@ Carrollton<br/>J. P. Shannon, Manager.<br/>Baltimore, Light &amp; German Sts.<br
          <span class="h6">3</span>
 
 
-winter. Also stable. What do you think of <a rel="tooltip" class="sic" title="naming​ ">nameing</a>
-    ​ the tracts after leading Generals both sides of Army.<a href="../doc/n04" class="internal_link">4</a> Did you get any Wagons or horses from the transportation co that you are turning over to our Co. and the horses &amp; outfit that <span class="persName">Hymer</span> had. If so keep account of them. Where did Heck locate his first camp— Are you living in a tent what do you do for a Cocktail? I wrote you that Bleistein. ODay. Salsbury. Nailor.<a href="../doc/n05" class="internal_link">5</a> Young Perkins Son of Prest Perkins.<a href="../doc/n06" class="internal_link">6</a> Henry Guy
+winter. Also stable. What do you think of <a rel="tooltip" class="sic" title="naming​ &#xA;    ">nameing</a> the tracts after leading Generals both sides of Army.<a href="#n04" class="internal_link">4</a> Did you get any Wagons or horses from the transportation co that you are turning over to our Co. and the horses &amp; outfit that <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> had. If so keep account of them. Where did Heck locate his first camp— Are you living in a tent what do you do for a Cocktail? I wrote you that Bleistein. ODay. Salsbury. Nailor.<a href="#n05" class="internal_link">5</a> Young Perkins Son of Prest Perkins.<a href="#n06" class="internal_link">6</a> Henry Guy
 
 
 <span class="hr"> </span>
@@ -92,11 +96,11 @@ Carrollton<br/>J. P. Shannon, Manager.<br/>Baltimore, Light &amp; German Sts.<br
          <span class="h6">4</span>
 
 
-Carlton.<a href="../doc/n07" class="internal_link">7</a> 
-         <span class="persName">Burke</span>. K. Christ knows how many more are coming out with me in December—<a href="../doc/n08" class="internal_link">8</a> how will the weather be?</p>
+Carlton.<a href="#n07" class="internal_link">7</a> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/burke.j"/>Burke</span>. K. Christ knows how many more are coming out with me in December—<a href="#n08" class="internal_link">8</a> how will the weather be?</p>
 
-      <p>Will we get snowed in. will you have a house for us— if we bring our own whiskey. I must find out these things before I bring them. <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ fail to answer—</p>
+      <p>Will we get snowed in. will you have a house for us— if we bring our own whiskey. I must find out these things before I bring them. <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> fail to answer—</p>
 
       <p>Wonder what Heck done with Transportation Co— When he left Sheridan. he never writes a word— well if he pushes on the ditch I will let him off—</p>
 
@@ -125,4 +129,3 @@ Carlton.<a href="../doc/n07" class="internal_link">7</a>
 
 
 </div>
-

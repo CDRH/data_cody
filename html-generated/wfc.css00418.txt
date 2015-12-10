@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00418.01.jpg"
@@ -43,15 +43,13 @@
             </a>
          </span>
 
-are doing a <a rel="tooltip" class="sic" title="tremendous​ ">tremendious</a>
-    ​ business. Am going to double the capacity of the Irma for next season-</p>
+are doing a <a rel="tooltip" class="sic" title="tremendous​ &#xA;    ">tremendious</a> business. Am going to double the capacity of the Irma for next season-</p>
 
       <p>Irma and Cody are at TE. They had twenty two Dudes all through July. Expect forty to stay through Aug and September. They get $500 a day for each dude. With a saddle horse or 100 a month without horse. Cody is in his glory rangling the dudes—  he has thirty saddle horses. Irma has a splendid garden— The dudes live on young sage chickens &amp; fish mostly which they kill &amp; catch them selves.</p>
 
       <p>Irma &amp; Cody <del>are</del> have got a snap for October &amp; November Fred has two big hunting parties booked. Jim Jeffrey &amp; Barney Olefield in one party. We close season Oct 28th then Carlo &amp; I hike for the hunting camp which will be established a bridger lake— We look for 9 days big business at our Chicago round up—</p>
 
-      <p>The Ball Park seats sixteen thousand people Joe Miller is at 101 ranch. Sending Buckers Buffalo. Wild Bulls. long horned steers— Wild unbroken horses &amp; mules. <a rel="tooltip" class="sic" title="also​ ">allso</a>
-    ​ two hundred goats. fifty Indians from Pine Ridge and twenty <del>blooded</del> Indian bucking horse riders. who will ride
+      <p>The Ball Park seats sixteen thousand people Joe Miller is at 101 ranch. Sending Buckers Buffalo. Wild Bulls. long horned steers— Wild unbroken horses &amp; mules. <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> two hundred goats. fifty Indians from Pine Ridge and twenty <del>blooded</del> Indian bucking horse riders. who will ride
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -84,7 +82,7 @@ against the Cow Boys. We will have Lucille Mulhall and her outfit.</p>
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00418.04.jpg"
@@ -119,4 +117,3 @@ Billings Mont
 
 
 </div>
-

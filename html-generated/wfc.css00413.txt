@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -52,4 +52,3 @@ Be sure attend to this at once.</p>
 
 
 </div>
-

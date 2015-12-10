@@ -4,7 +4,7 @@
     <div class="main_content">
         
 
-            <div class="type ">
+            <div class="type">
                 <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.adv00918.jpg"
@@ -14,7 +14,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-                <div class=" ">
+                <div class="">
                 <h3>
             <u>Healy Theater</u>
          </h3>
@@ -38,7 +38,7 @@
                 
                 <span class="ab">This Picture Should Interest Everybody</span>
                 </div>
-                <div class=" ">
+                <div class="">
                 <h3>EYE-WITNESS TELLS OF KNIFE DUEL IN "BUFFALO BILL" FILM</h3>
                 
                 <h3>Cody's Fight With Indian Chief Yellow Hand Accurate.</h3>
@@ -52,4 +52,3 @@
             </div>
         
     </div>
-

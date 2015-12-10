@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -25,12 +25,11 @@ North. Platte
 May 23.th 79
 </span>
 
-      <span class="salute">My Dear <span class="persName">Sam</span>.</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hall.s"/>Sam</span>.</span>
 
 
-      <p>Yours at hand I have but a few moments to write you. I just came in from my ranch for the balance of my outfit chuck &amp; c.<a href="../doc/n01" class="internal_link">1</a> for the round up start out in two hours have a hundred different things to get together. <a rel="tooltip" class="sic" title="Won't​ ">Wont</a>
-    ​ have time to read Cody's Corrall<a href="../doc/n02" class="internal_link">2</a> but will take it with me. and read it on the prairie. <a rel="tooltip" class="sic" title="probably​ ">probaly</a>
-    ​ it
+      <p>Yours at hand I have but a few moments to write you. I just came in from my ranch for the balance of my outfit chuck &amp; c.<a href="#n01" class="internal_link">1</a> for the round up start out in two hours have a hundred different things to get together. <a rel="tooltip" class="sic" title="Won't​ &#xA;    ">Wont</a> have time to read Cody's Corrall<a href="#n02" class="internal_link">2</a> but will take it with me. and read it on the prairie. <a rel="tooltip" class="sic" title="probably​ &#xA;    ">probaly</a> it
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -42,11 +41,9 @@ May 23.th 79
             </a>
          </span>
 
-will go better there. You say your health is bad. if I had you to fork some of my pitching horses<a href="../doc/n03" class="internal_link">3</a> and go it on corn bread straight in this great and <a rel="tooltip" class="sic" title="glorious​ ">glourious</a>
-    ​ climate for a few months I would fix you.</p>
+will go better there. You say your health is bad. if I had you to fork some of my pitching horses<a href="#n03" class="internal_link">3</a> and go it on corn bread straight in this great and <a rel="tooltip" class="sic" title="glorious​ &#xA;    ">glourious</a> climate for a few months I would fix you.</p>
 
-      <p>Will old Pard <a rel="tooltip" class="sic" title="probably​ ">probaly</a>
-    ​ some time we will hoof it up together some time over the prairie. this is the boss life to lead.</p>
+      <p>Will old Pard <a rel="tooltip" class="sic" title="probably​ &#xA;    ">probaly</a> some time we will hoof it up together some time over the prairie. this is the boss life to lead.</p>
 
       <p>Excuse haste. Take the will for the deed</p>
 
@@ -70,4 +67,3 @@ will go better there. You say your health is bad. if I had you to fork some of m
 
 
 </div>
-

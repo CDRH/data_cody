@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Louis E. Cooke, Gen'l Agent. Buffalo Bill's Wild West</div>
@@ -30,13 +30,13 @@
          <br/>Cody</span>
 
    </div>
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
-      <div class="return ">
+      <div class="return">
          <div class="note">Buffalo Bill's Wild West</div>
       </div>
 
-      <div class="address ">
+      <div class="address">
          <span class="ab">
 
 Col. Jim Geary
@@ -51,4 +51,3 @@ Col. Jim Geary
 
 
 </div>
-

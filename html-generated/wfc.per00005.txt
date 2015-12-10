@@ -4,7 +4,7 @@
     <div class="main_content">
         
 
-            <div class="description ">
+            <div class="description">
                 <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.per00005.jpg"
@@ -19,7 +19,7 @@
       </h3>
       <p>Probably one of the most startling announcements that have been made in the moving picture industry is the sudden entry into this industry of two pioneer Wild West men known to mostly every inhabitant of the globe.  We allude to W. F. Cody (Buffalo Bill) and Major Gordon W. Lillie </p>    
    </div>
-            <div class=" doublespace ">
+            <div class="">
                 <div class="inline_figure">
          <div class="p">[illustration]</div>
          <p>Image of Pawnee Bill and Buffalo Bill</p>
@@ -28,4 +28,3 @@
             </div>
         
     </div>
-

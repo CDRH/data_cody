@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -22,17 +22,18 @@
          </div>West Hotel.<br/>Minneapolis, Minn.</div>
 
 
-      <span class="dateline">Sep. 14th 1896<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Sep. 14th 1896<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
       <p>
-         <span class="persName">Bleistein</span> 
-         <span class="persName">Rumsey</span> both write me they <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ do a thing. I wrote you a few days ago That all parties<a href="../doc/n02" class="internal_link">2</a> have agreed to close down and for you to close down. And I suppose you have. As <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ impossible for me to carry on the work alone until I can get assistance. Let me know at once what you have done</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span> both write me they <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> do a thing. I wrote you a few days ago That all parties<a href="#n02" class="internal_link">2</a> have agreed to close down and for you to close down. And I suppose you have. As <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> impossible for me to carry on the work alone until I can get assistance. Let me know at once what you have done</p>
 
       <span class="closer">
          <span class="salute">Yours truly</span>
@@ -40,7 +41,7 @@
          <br/>W. F. Cody</span>
 
 
-      <p>PS. After grain at Irma<a href="../doc/n03" class="internal_link">3</a> is harvested close down expense there I expect
+      <p>PS. After grain at Irma<a href="#n03" class="internal_link">3</a> is harvested close down expense there I expect
 
 
 <span class="hr"> </span>
@@ -77,4 +78,3 @@ you will have to leave a man there. But small Salaried Man will do. as well as a
    <div class="note">Note 3: "Irma" is Irma Flats, located in the upper South Fork valley where a few thousand acres would be irrigated for arriving settlers.</div>
 
 </div>
-

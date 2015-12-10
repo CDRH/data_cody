@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,7 +19,8 @@
       <span class="dateline">August 6, 1913</span>
 
 
-      <span class="persName">Mr. H. M. Gerrans</span>,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Mr. H. M. Gerrans</span>,
 
 Hotel Iroquois, 
 
@@ -29,8 +30,8 @@ Buffalo, N. Y.
 <span class="salute">Dear Mr. Gerrans;</span>
 
 
-      <p>Your telegram, instructing us to draw on <span class="persName">Mr. Bleistein</span> for $1500.00, at hand. We have drawn this morning, making a cash item of it. The $2500.00 draft which Mr. Bleistein made on us has not <a rel="tooltip" class="sic" title="been presented​ ">beenpresented</a>
-    ​, or has not reached Cody yet, but we presume it will be within a day or two and we will take care of it.</p>
+      <p>Your telegram, instructing us to draw on <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Mr. Bleistein</span> for $1500.00, at hand. We have drawn this morning, making a cash item of it. The $2500.00 draft which Mr. Bleistein made on us has not <a rel="tooltip" class="sic" title="been presented​ &#xA;    ">beenpresented</a>, or has not reached Cody yet, but we presume it will be within a day or two and we will take care of it.</p>
 
 
       <span class="closer">
@@ -42,4 +43,3 @@ Buffalo, N. Y.
 
 
 </div>
-

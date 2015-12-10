@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -70,4 +70,3 @@ matters. Will you be so kind as to send me copies of communications to her or el
 
 
 </div>
-

@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>BUFFALO BILL ENTERS PROTEST</h3>
       <h3>Commissioner Jones' Indian Order Would Ruin Wild West Show.</h3>
@@ -16,4 +16,3 @@
 
 
 </div>
-

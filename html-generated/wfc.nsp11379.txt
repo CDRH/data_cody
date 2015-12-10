@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -18,9 +18,10 @@
       <h3>THE QUEEN IN LONDON.</h3>
       <div class="milestone line"> </div>
       <h3>VISIT TO BUFFALO BILL.</h3>
-      <p>The <span class="persName">Queen</span>, accompanied by Prince and Princess Henry of Battenberg,<a href="../doc/n01" class="internal_link">1</a> paid a visit to Buffalo Bill's Wild West Show at Earl's-court yesterday afternoon. Her Majesty drove in a closed carriage from Buckingham Palace at five o’clock, and was loudly cheered by crowds of people who had gathered along the route to West Kensington. Her Majesty was received at the exhibition by Colonel Cody and several of the directors. The members of the Wild West Show went through several of their peculiar performances, finishing with the spectacle of the attack on the Denver coach.<a href="../doc/n02" class="internal_link">2</a> The Queen drove direct from the show to Paddington Station, and preceeded by special train at a quarter to seven to Windsor. A crowd had assembled at the station, and Her Majesty was again cheered.</p>
+      <p>The <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Queen</span>, accompanied by Prince and Princess Henry of Battenberg,<a href="#n01" class="internal_link">1</a> paid a visit to Buffalo Bill's Wild West Show at Earl's-court yesterday afternoon. Her Majesty drove in a closed carriage from Buckingham Palace at five o’clock, and was loudly cheered by crowds of people who had gathered along the route to West Kensington. Her Majesty was received at the exhibition by Colonel Cody and several of the directors. The members of the Wild West Show went through several of their peculiar performances, finishing with the spectacle of the attack on the Denver coach.<a href="#n02" class="internal_link">2</a> The Queen drove direct from the show to Paddington Station, and preceeded by special train at a quarter to seven to Windsor. A crowd had assembled at the station, and Her Majesty was again cheered.</p>
 
-      <p>The Queen left Buckingham Palace shortly after eleven yesterday morning, in a closed carriage, and proceeded to Westminster Abbey, where Her Majesty was received by Dean Bradley<a href="../doc/n03" class="internal_link">3</a> and the other officials of the Abbey, and inspected the preparations now being made for the special service at the jubilee celebration on June 21st. The visit of her Majesty lasted half an hour. Her Majesty expressed her pleasure with the arrangements, suggesting only one or two slight alterations. Before leaving the Abbey the Queen paid a visit to the grave of Dean Stanley.<a href="../doc/n04" class="internal_link">4</a>
+      <p>The Queen left Buckingham Palace shortly after eleven yesterday morning, in a closed carriage, and proceeded to Westminster Abbey, where Her Majesty was received by Dean Bradley<a href="#n03" class="internal_link">3</a> and the other officials of the Abbey, and inspected the preparations now being made for the special service at the jubilee celebration on June 21st. The visit of her Majesty lasted half an hour. Her Majesty expressed her pleasure with the arrangements, suggesting only one or two slight alterations. Before leaving the Abbey the Queen paid a visit to the grave of Dean Stanley.<a href="#n04" class="internal_link">4</a>
       </p>
 
    </div>
@@ -37,4 +38,3 @@
    <div class="note">Note 4: Dean Stanley is Arthur Penrhyn Stanley (1815-1881), an English churchman who was Dean of Westminster from 1864 to 1881.</div>
 
 </div>
-

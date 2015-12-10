@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,18 +23,20 @@
          </div>
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
-      <span class="dateline">NewArk<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">NewArk<a href="#n01" class="internal_link">1</a>
          <br/>
-Sep 25<a href="../doc/n02" class="internal_link">2</a>
+Sep 25<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">George</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
 
-      <p>Oh if I could get just one hour of quiet rest I am flooded with callers so near N. Y. Say George let me hear from you. <span class="persName">Canfield</span>
-         <a href="../doc/n03" class="internal_link">3</a> wants me to build a cheap Hotel <del>for</del> and he to run it at the Springs<a href="../doc/n04" class="internal_link">4</a>— But I think the Co should be <a rel="tooltip" class="sic" title="interested​ ">interrested</a>
-    ​ and the Hotel<a href="../doc/n05" class="internal_link">5</a> built in Town &amp; pipe water but I <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ tell. Will you post me? George— <span class="persName">Salsbury</span> &amp; <span class="persName">Bleistein</span> suggest the streets be named after Leading Generals union &amp; Southern armies. And wide streets &amp; high License to keep out cheap gin mills— How much lumber can that little saw mill furnish. You ought to contract for the lumber you want for headgate
+      <p>Oh if I could get just one hour of quiet rest I am flooded with callers so near N. Y. Say George let me hear from you. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/canfield.s"/>Canfield</span>
+         <a href="#n03" class="internal_link">3</a> wants me to build a cheap Hotel <del>for</del> and he to run it at the Springs<a href="#n04" class="internal_link">4</a>— But I think the Co should be <a rel="tooltip" class="sic" title="interested​ &#xA;    ">interrested</a> and the Hotel<a href="#n05" class="internal_link">5</a> built in Town &amp; pipe water but I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> tell. Will you post me? George— <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> suggest the streets be named after Leading Generals union &amp; Southern armies. And wide streets &amp; high License to keep out cheap gin mills— How much lumber can that little saw mill furnish. You ought to contract for the lumber you want for headgate
 
 
 <span class="hr"> </span>
@@ -60,8 +62,7 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 And we must build some kind of a house for headquarters.</p>
 
 
-      <p>But <a rel="tooltip" class="sic" title="certainly​ ">ceartainly</a>
-    ​ you are attending to these things—</p>
+      <p>But <a rel="tooltip" class="sic" title="certainly​ &#xA;    ">ceartainly</a> you are attending to these things—</p>
 
       <span class="closer">
          <br/>Cody
@@ -79,9 +80,9 @@ And we must build some kind of a house for headquarters.</p>
 
    <div class="note">Note 3: Cody incorporated the W. F. Cody Hotel Company in 1894 and purchased the inventory of the Sheridan Inn in Sheridan, Wyoming, making him one third owner with Sherman Canfield who managed both the Inn and the W. F. Cody Transportation Company. </div>
 
-   <div class="note">Note 4: Cody had many ideas for developing the springs located on the western edge of Cody, Wyoming. The "Springs" became known as DeMaris Springs after <span class="persName">Charles DeMaris</span> (1827-1914), who filed for and received water rights at the site to build tourist facilities there.</div>
+   <div class="note">Note 4: Cody had many ideas for developing the springs located on the western edge of Cody, Wyoming. The "Springs" became known as DeMaris Springs after <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/demaris.c"/>Charles DeMaris</span> (1827-1914), who filed for and received water rights at the site to build tourist facilities there.</div>
 
    <div class="note">Note 5: The Irma Hotel had its grand opening on November 18, 1902, and remains a prominent landmark in the town.</div>
 
 </div>
-

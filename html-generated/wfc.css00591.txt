@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="telegram ">
+   <div class="telegram">
 
 
       <div class="note">TELEGRAM
@@ -24,7 +24,7 @@ DEPARTMENT OF THE INTERIOR
       <span class="dateline">
 August 26, 1913
 </span>
-To Major J. R. Brennan <a href="../doc/n01" class="internal_link">1</a>
+To Major J. R. Brennan <a href="#n01" class="internal_link">1</a>
 Indian Agency, Pine Ridge, South Dakota
 
 
@@ -40,4 +40,3 @@ Indian Agency, Pine Ridge, South Dakota
   <div class="note">Note 1: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.</div>
 
 </div>
-

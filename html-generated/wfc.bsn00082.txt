@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,7 +23,8 @@
       <span class="dateline">Feb. 28, 1917.</span>
 
 
-      <span class="persName">Mr. H. M. Gerrans</span>, 
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Mr. H. M. Gerrans</span>, 
 
 Hotel Iroquois,
 
@@ -33,7 +34,8 @@ Buffalo, N.Y.
 <span class="salute">Dear Mr. Gerrans:</span>
 
 
-      <p>We enclose <span class="persName">Mr. Bleistein's</span> statement, $4077.43, which included interest to February 27, 1917.  Mr. Bleistein will find this statement correct.</p>
+      <p>We enclose <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Mr. Bleistein's</span> statement, $4077.43, which included interest to February 27, 1917.  Mr. Bleistein will find this statement correct.</p>
 
       <p>We have had a very cold bad winter, However, it looks now as though the weather conditions will permit business to open up. It has been very quiet during the extremely cold weather.</p>
 
@@ -61,4 +63,3 @@ Mgr.
 
 
 </div>
-

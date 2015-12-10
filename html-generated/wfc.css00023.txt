@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00023.001.jpg"
@@ -22,7 +22,7 @@
 
       <span class="dateline">Pine Ridge Agency, July 9, 1899.</span>
 
-      <span class="salute">The Honorable Commissioner of Indian Affairs,<a href="../doc/n01" class="internal_link">1</a>
+      <span class="salute">The Honorable Commissioner of Indian Affairs,<a href="#n01" class="internal_link">1</a>
          <br/>
   Washington, D. C.<br/> 
          <br/>
@@ -34,7 +34,7 @@
     subject again comes before the Secretary for consideration.</p>
   
       <p>I refer to the increasing demand for Indians for show purposes. Having been for some years at this Agency, from which the
-  Wild West show has recruited its Indians annually,<a href="../doc/n02" class="internal_link">2</a> I am in a position to judge of the effects of
+  Wild West show has recruited its Indians annually,<a href="#n02" class="internal_link">2</a> I am in a position to judge of the effects of
   using them for exhibition purposes. It is claimed by those desiring to employ these Indians that the opportunities afforded
   them to see what white men have done and are doing, to realize the resources of the country, both in numbers and in wealth,
   would educate the Indian and deter him from outbreaks, and that seeing the manner in which the whites live, would stimulate
@@ -112,14 +112,15 @@
     been enriched and the city boomed, poor Lo comes back to his home with an intimate knowledge of the seamy side of white
     civilization; his desire for change and excitement intensified, his all too faint aspirations for the benefits of
     civilization checked if not destroyed, and with a conviction that the boasted morality of the whites is nothing to be proud
-    of or to copy. The Agency Physician states that nearly all of the unnamable diseases<a href="../doc/n03" class="internal_link">3</a> now occuring on this reservation
+    of or to copy. The Agency Physician states that nearly all of the unnamable diseases<a href="#n03" class="internal_link">3</a> now occuring on this reservation
       are traceable to those Indians who have returned from shows and Expositions.</p>
       
       <span class="closer">
          <span class="salute">Very respectfully,</span>
       
          <br/>
-         <span class="persName">W. H. Clapp</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/clapp.w"/>W. H. Clapp</span>
          <br/>
       Lieut. Colonel, U.S.A.,<br/>
       Acting Indian Agent.
@@ -143,4 +144,3 @@
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,7 +25,8 @@
       <span class="dateline">Jan. 20, 1904.</span>
 
 
-      <span class="persName">Bronson Rumsey</span>, Trustee,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, Trustee,
 
 78 Exchange St.,
 
@@ -62,7 +63,7 @@ Sec'y.
       </a>
    </span>
 
-   <div class="letter doublespace ">
+   <div class="letter">
 
       <div class="note">Office of  Lincoln Land Company<br/>Rooms 33-36, 1241 O Street<br/>Lincoln, Neb.<br/>C. H. Morrill, President.<br/>A. B. Minor, Sec'y and Treasurer.<br/>Quotations of Prices Are Subject to Change without Notice.</div>
 
@@ -105,7 +106,7 @@ Sec'y</span>
       </a>
    </span>
 
-   <div class="letter doublespace ">
+   <div class="letter">
 
       <div class="note">Office of  Lincoln Land Company<br/>Rooms 33-36, 1241 O Street<br/>Lincoln, Neb.<br/>C. H. Morrill, President.<br/>A. B. Minor, Sec'y and Treasurer.<br/>Quotations of Prices Are Subject to Change without Notice.</div>
 
@@ -143,7 +144,7 @@ Sec'y.
 
    </div>
 
-   <div class="record doublespace "> 
+   <div class="record"> 
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -180,4 +181,3 @@ $1,393.78</span>
 
 
 </div>
-

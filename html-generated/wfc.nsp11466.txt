@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -42,7 +42,10 @@
          </a>
       </span>
 
-      <p>Leetle <span class="persName">Johnnie Baker</span> shoot so vell zat he vat you call "take ze biscuit." As for Mesdemoiselles <span class="persName">Annie Oakley</span> and <span class="persName">Lillian Smith</span>, zey shoot vit so much grace, I go home hard hit.</p>
+      <p>Leetle <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/baker.l"/>Johnnie Baker</span> shoot so vell zat he vat you call "take ze biscuit." As for Mesdemoiselles <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a"/>Annie Oakley</span> and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/smith.l"/>Lillian Smith</span>, zey shoot vit so much grace, I go home hard hit.</p>
 
       <p>I have heard in your nursery rhyme of ze cow zat jump ovare ze moon. I sink ze next best jumpare is Cowboy Jack, who jump ovare ze mustangs.</p>
 
@@ -50,9 +53,9 @@
   
       <p>I so much admire ze jumping of buck by ze cowboys zat I express to Jollidogue my desire to take part in it. He sink zat if I do I sall be kick by ze jumpare zat buck, and myself kick ze bucket. Aftare a vile I decide not to try. <em class="hi">Maintenant,</em> I endeavour to rope and ride a steer of Texas. I do not steer him vell, and <em class="hi">bientot,</em> he steer me overboard.</p>
 
-      <p>I see ze Coach of Deadvood converted into firevood by ze Indians, and I am full of horror. I cheer ze cowboys who come to ze rescue vit a bull rush. I behold ze same Indians attack ze hut of ze settlare, vich zey completely settle, and I sink ze prairie is a ver grand institution—to look at in ze Vild Vest End. I say so to <span class="persName">Mr. Richmond</span>, for at ze Buffalo Billeries, as at Bosvorth, zare is a Richmond in ze field, and he reply, "You bet, stranger." I reply zat I do not bet, but zat aftare vat I have seen I regard him as old pal, and I go home to dream zat I am being scalp by Vild Vest Indians who are smoking ze tomahawk of peace and flourishing ze pipe of vengeance.</p>
+      <p>I see ze Coach of Deadvood converted into firevood by ze Indians, and I am full of horror. I cheer ze cowboys who come to ze rescue vit a bull rush. I behold ze same Indians attack ze hut of ze settlare, vich zey completely settle, and I sink ze prairie is a ver grand institution—to look at in ze Vild Vest End. I say so to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/richmond.f"/>Mr. Richmond</span>, for at ze Buffalo Billeries, as at Bosvorth, zare is a Richmond in ze field, and he reply, "You bet, stranger." I reply zat I do not bet, but zat aftare vat I have seen I regard him as old pal, and I go home to dream zat I am being scalp by Vild Vest Indians who are smoking ze tomahawk of peace and flourishing ze pipe of vengeance.</p>
 
    </div>
 
 </div>
-

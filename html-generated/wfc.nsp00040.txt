@@ -3,11 +3,11 @@
 
     <div class="main_content">
         
-            <div class="article ">
+            <div class="article">
 
                 <h3>THE ROUGH RIDERS RECALL MANY HILARIOUS TALES OF YORE</h3>
 
-      <div class=" ">  
+      <div class="">  
               <p>"The funniest thing I ever saw," pint-sized Billy McGinty, the president of the
                     Rough Riders Assn., was saying, "was when they turned those eastern boys loose
                     to break their horses."</p>
@@ -27,7 +27,7 @@
                 <p>"By the time the dust cleared, them eastern boys were scattered all over
                 Texas."</p>
                 </div>
-      <div class=" ">
+      <div class="">
                 <h4>Eastern Boys</h4>
                 
                 <p>About 30 of the surviving 80 or so veterans of the celebrated charge up San Juan
@@ -56,7 +56,7 @@
                     ride in the parade which opened the gathering. The kidding, stopped when he said
                     the reason was that he had been riding the day before and still ached.</p>
          </div>
-      <div class=" ">       
+      <div class="">       
                 <h4>Story of General</h4>
                 
                 <p>Trooper Robert. "Buck" Denny of Whittier, Cal., added the inevitable general
@@ -93,7 +93,7 @@
                 <p>The veterans, some of whom hadn't seen each other in 20 years, drifted in and out
                 of the conversation, but the stories went on:</p>
          </div>
-      <div class=" ">       
+      <div class="">       
                 <h4>Tales Rescued</h4>
                 
                 <p>Langdon, who broke two ribs the previous day breaking a horse, went on to tell of
@@ -127,4 +127,3 @@
 
         
     </div>
-

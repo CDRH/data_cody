@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>DEATH OF A BUFFALO BILL INDIAN.</h3>
 
@@ -16,4 +16,3 @@
 
 
 </div>
-

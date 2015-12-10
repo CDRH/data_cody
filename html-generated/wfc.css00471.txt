@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,12 +19,13 @@
 
 
 
-      <span class="dateline">Apr 6th 1896<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Apr 6th 1896<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">George</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
-      <p>I was in Chicago three days— The Colony<a href="../doc/n02" class="internal_link">2</a> is to leave there the 15th I fixed up a contract with Nagle Bro.<a href="../doc/n03" class="internal_link">3</a> which I have shown to our Co here— they seem to think Nagles should not take out their whole commission the first payment of lands but said to let it go— As Nagle<a href="../doc/n04" class="internal_link">4</a> is to give a bond of $10,000. But Nagle said he was agreeable to leave his commissions up to $10,000 in our hands as a guarantee of good faith. He wanted $300 per month for office &amp; advertiseing expenses— I suggested 250— our friends here think
+      <p>I was in Chicago three days— The Colony<a href="#n02" class="internal_link">2</a> is to leave there the 15th I fixed up a contract with Nagle Bro.<a href="#n03" class="internal_link">3</a> which I have shown to our Co here— they seem to think Nagles should not take out their whole commission the first payment of lands but said to let it go— As Nagle<a href="#n04" class="internal_link">4</a> is to give a bond of $10,000. But Nagle said he was agreeable to leave his commissions up to $10,000 in our hands as a guarantee of good faith. He wanted $300 per month for office &amp; advertiseing expenses— I suggested 250— our friends here think
 
 
 <span class="hr"> </span>
@@ -42,11 +43,10 @@
 
 
 
-         <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ <a rel="tooltip" class="sic" title="too​ ">to</a>
-    ​ high when you sign his contract try and get it down to $200 per month— The first colony pay 10% cash on first payment— <u>but</u> after this first colony every body must pay 20% as first payment. We will arrange to send <span class="persName">Alger</span> tomorrow $7500. that ought to fix us till May 10<u>th</u>. I told <span class="persName">Frank Grouard</span> to send you some big teams to work on the graders. Say George— the ditch <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ have to be so large after it leaves our Town site will it. as it <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ be more than two big latterals and those graders <del>s--h</del> should finish those up in short
+         <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> 
+         <a rel="tooltip" class="sic" title="too​ &#xA;    ">to</a> high when you sign his contract try and get it down to $200 per month— The first colony pay 10% cash on first payment— <u>but</u> after this first colony every body must pay 20% as first payment. We will arrange to send <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> tomorrow $7500. that ought to fix us till May 10<u>th</u>. I told <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/grouard.f"/>Frank Grouard</span> to send you some big teams to work on the graders. Say George— the ditch <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> have to be so large after it leaves our Town site will it. as it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> be more than two big latterals and those graders <del>s--h</del> should finish those up in short
 
 
 <span class="hr"> </span>
@@ -63,12 +63,11 @@
          <div class="note">W. E. Woolley.<br/>H. M. Gerrans.<br/>Iroquois<br/>Absolutely Fire Proof.<br/>Also Propr's of the Grand Union Hotel.<br/>Saratoga Springs,<br/>N. Y.<br/>Buffalo, N. Y. <br/> _________ 189__ </div>
 
 
-order. Why George— <span class="persName">Goodman</span> 
-         <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ seem to worry a little bit at digging a ditch sixteen foot wide on the bottom with a Grader— And he builds several miles in a week. I <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ for the life of me see how our work costs so much let me know how the Graders work—</p>
+order. Why George— <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/goodman.e"/>Goodman</span> 
+         <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> seem to worry a little bit at digging a ditch sixteen foot wide on the bottom with a Grader— And he builds several miles in a week. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> for the life of me see how our work costs so much let me know how the Graders work—</p>
 
-      <p>When do you return our people here are anxious to know if you have filed on the Placer Fields<a href="../doc/n05" class="internal_link">5</a> &amp; want me to send Stumps<a href="../doc/n06" class="internal_link">6</a> experts out at once— are you ready for them. </p>
+      <p>When do you return our people here are anxious to know if you have filed on the Placer Fields<a href="#n05" class="internal_link">5</a> &amp; want me to send Stumps<a href="#n06" class="internal_link">6</a> experts out at once— are you ready for them. </p>
 
       <span class="closer">
          <span class="salute">Your friend</span> 
@@ -92,10 +91,10 @@ order. Why George— <span class="persName">Goodman</span>
 
 
 
-      <p>P. S. <span class="persName">Hymer</span> drew on me for $200 to day. I did not acknowledge it. </p>
+      <p>P. S. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> drew on me for $200 to day. I did not acknowledge it. </p>
 
-      <p>I told him to make out his bill. that it would then go before a regular meeting &amp; if <a rel="tooltip" class="sic" title="approved​ ">approoved</a>
-    ​ it would be paid Please attend to it—</p>
+      <p>I told him to make out his bill. that it would then go before a regular meeting &amp; if <a rel="tooltip" class="sic" title="approved​ &#xA;    ">approoved</a> it would be paid Please attend to it—</p>
 
       <span class="closer">
          <br/>Bill</span>
@@ -117,4 +116,3 @@ order. Why George— <span class="persName">Goodman</span>
    <div class="note">Note 6: "Stump" or "Stumps" is not identified.</div>
 
 </div>
-

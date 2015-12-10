@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Grand Hotel Alfred Hauser D. Coen &amp; CI. — Milano</div>
@@ -29,10 +29,7 @@ Feb. 15th 1890
 
 
 
-      <p>Your welcome favor found me all O.K. glad to hear from you We <a rel="tooltip" class="sic" title="leave​ ">leve</a>
-    ​ for Rome on Monday. have had a nice time here We have not lost a day this winter only when <a rel="tooltip" class="sic" title="moving​ ">moooving</a>
-    ​ This has been the trip of my life. &amp; I tell you a big <a rel="tooltip" class="sic" title="undertaking​ ">undertakeing</a>
-    ​ to take such a big outfit into
+      <p>Your welcome favor found me all O.K. glad to hear from you We <a rel="tooltip" class="sic" title="leave​ &#xA;    ">leve</a> for Rome on Monday. have had a nice time here We have not lost a day this winter only when <a rel="tooltip" class="sic" title="moving​ &#xA;    ">moooving</a> This has been the trip of my life. &amp; I tell you a big <a rel="tooltip" class="sic" title="undertaking​ &#xA;    ">undertakeing</a> to take such a big outfit into
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -44,12 +41,9 @@ Feb. 15th 1890
             </a>
          </span>
 
-strange countries— I know of no other managers who dare risk so much. I guess Barnum is sorry he followed the Wild West <a rel="tooltip" class="sic" title="across​ ">accross</a>
-    ​ the Atlantic I see he closes in London to day. Well three months was a long stay for a Circus. I guess he wishes he had closed two months ago— I open in London in May—</p>
+strange countries— I know of no other managers who dare risk so much. I guess Barnum is sorry he followed the Wild West <a rel="tooltip" class="sic" title="across​ &#xA;    ">accross</a> the Atlantic I see he closes in London to day. Well three months was a long stay for a Circus. I guess he wishes he had closed two months ago— I open in London in May—</p>
 
-      <p>I see the New York Sun is <a rel="tooltip" class="sic" title="giving​ ">giveing</a>
-    ​ me thunder every once in a while. what for I <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ know. I only wish they would stick to the truth-</p>
+      <p>I see the New York Sun is <a rel="tooltip" class="sic" title="giving​ &#xA;    ">giveing</a> me thunder every once in a while. what for I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> know. I only wish they would stick to the truth-</p>
 
       <span class="closer">
          <span class="salute">Remember me to all friends<br/>
@@ -64,4 +58,3 @@ Your friend</span>
 
 
 </div>
-

@@ -4,13 +4,14 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
 
 
 
       <h3>RIVAL SHOWS.</h3>
-      <p>There is intense excitment at Hamburg<a href="../doc/n01" class="internal_link">1</a> over the fierce row that has occured between Buffalo Bill and <span class="persName">Dr. Carver</span>. People are afraid to come out of doors after dark, and the place in a state of siege. The members of each troup have openly declared their intention of fighting their masters, even if the quarrel ends in a general fight. There can be no doubt that it is only through the efforts of the civil authorities that blood-shed up to the present time has been avoided.</p>
+      <p>There is intense excitment at Hamburg<a href="#n01" class="internal_link">1</a> over the fierce row that has occured between Buffalo Bill and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/carver.w"/>Dr. Carver</span>. People are afraid to come out of doors after dark, and the place in a state of siege. The members of each troup have openly declared their intention of fighting their masters, even if the quarrel ends in a general fight. There can be no doubt that it is only through the efforts of the civil authorities that blood-shed up to the present time has been avoided.</p>
 
       <p>Carver has been following Cody all through the later's tour of the cities of the continent, and his performances have been much better patronized than Buffalo Bill's. Jealously was aroused. Cody announced his intention of staying some time in Hamburg.</p>
 
@@ -28,4 +29,3 @@
    <div class="note">Note 1: Buffalo Bill's Wild West performed in Hamburg, Germany, from August 8, 1890, through August 31, 1890.</div>
 
 </div>
-

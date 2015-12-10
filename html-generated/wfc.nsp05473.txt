@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,7 +19,7 @@
       <h3>Three Killed, Three Fatally Injured and Nine Hurt While Going to Join Buffalo Bill.</h3>
       <h3>Chief White Horse, Body Crushed and Both Legs Broken, Calmly Smokes His Pipe.</h3>
 
-      <div class=" ">
+      <div class="">
          <p>In a rear end collision between two Northwestern trains between Melrose Park and Maywood this morning, a coach containing a company of Sioux Indians, on their way from the Pine Ridge agency to join Buffalo Bill's show in England, was smashed.</p>
 
          <p>Three Indians were killed, three fatally injured and nine more or less seriously hurt.</p>
@@ -62,7 +62,7 @@
 
          <p>William Sitting Bull, son of Chief Sitting Bull, 27 years old, seriously injured</p>
       </div>
-      <div class=" ">
+      <div class="">
          <h4>REAR END COLLISION</h4>
 
          <p>The trains which collided were the Oregon express and the fast mail. The express train was run into by the mail train.  Both trains were east bound.</p>
@@ -79,7 +79,7 @@
 
          <p>The bodies of the Indians who had been killed outright were laid on the prairie beside the track, Chief White Horse being carried with them.  He said he knew that death was near, and requested that he be placed near his dead companions.</p>
       </div>
-      <div class=" ">
+      <div class="">
          <h4>SMOKES PIPE DYING.</h4>
 
          <p>The chief was propped up and sat stoically while physicians worked over his injuries.</p>
@@ -106,7 +106,7 @@
 
          <p>Persons who were on the train said that the collision unquestionably was the result of the dense fog which today stretched from Lake Michigan many miles westward.  In addition to the fog, clouds of escaping steam enveloped the wreck and added to the difficulty of rescue.</p>
       </div>
-      <div class=" ">
+      <div class="">
          <h4>YELLS OF THE RED MEN.</h4>
 
          <p>A moment after the crash there was not a sound from the ill-fated coach, then one by one those surviving the crash regained in part their senses and began shouting for aid.  A terrifying series of wild yells from the Indians were heard by the passengers, jumping from each side of the cars ahead.  All the men passengers and many of the women on board the two trains hastened to the aid of the injured Indians.  The fact that one side of the rear car fell off with the impact undoubtedly saved the lives of many Indians who were thrown out on the prairie.</p>
@@ -119,4 +119,3 @@
 
 
 </div>
-

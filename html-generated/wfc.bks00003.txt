@@ -26,7 +26,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>HE SAW THE FEATHERED HEAD OF AN INDIAN POKE OVER 
@@ -45,9 +45,8 @@ THE BANK BEFORE HIM.</p>
       <span class="titlePage">
          <span class="titlePart">The Adventures of Buffalo Bill</span> 
          <span class="byline">BY 
-<span class="docAuthor">COL. WILLIAM F. CODY 
-(BUFFALO BILL)</span>
-         </span> 
+COL. WILLIAM F. CODY 
+(BUFFALO BILL)</span> 
 
 HARPER &amp; ROW, PUBLISHERS 
 NEW YORK, EVANSTON, and LONDON 
@@ -64,7 +63,7 @@ NEW YORK, EVANSTON, and LONDON
          </a>
       </span>
 
-      <div class="contents doublespace ">
+      <div class="contents">
 
          <h3>ILLUSTRATIONS</h3> 
 
@@ -93,7 +92,7 @@ at Him " 128</li>
          </a>
       </span>
  
-      <div class="foreword doublespace ">
+      <div class="foreword">
          <h3>FOREWORD</h3> 
 
          <p>With the death of William Frederick 
@@ -464,7 +463,7 @@ animal, and declared that court was adjourned.</p>
       </a>
    </span>
 
-   <div class=" ">
+   <div class="">
       <h3>THE ADVENTURES OF 
 BUFFALO BILL</h3> 
 
@@ -481,7 +480,7 @@ BUFFALO BILL</h3>
       <h3>THE ADVENTURES OF 
 BUFFALO BILL</h3> 
 
-      <div class="chapter ">
+      <div class="chapter">
          <h4>1</h4> 
 
          <h4>Crossing the Plains</h4> 
@@ -1662,7 +1661,7 @@ out of the wagons you can start."</p>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <h4>II</h4> 
 
          <h4>Rounding Up Indians</h4> 
@@ -2565,7 +2564,7 @@ out of the wagons you can start."</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h4>III</h4> 
 
          <h4>Pursuing the Sioux</h4>
@@ -3547,7 +3546,7 @@ deemed advisable to separate into companies, each to follow a different trail.</
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <h4>IV</h4> 
 
          <h4>My Duel with Yellow Hand</h4> 
@@ -4472,7 +4471,7 @@ deemed advisable to separate into companies, each to follow a different trail.</
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>THE LIFE 
   OF BUFFALO BILL</h3> 
 
@@ -4488,7 +4487,7 @@ deemed advisable to separate into companies, each to follow a different trail.</
 
       <h3>THE LIFE OF BUFFALO BILL</h3> 
 
-      <div class=" ">
+      <div class="">
 
          <h4>I</h4>
 
@@ -5151,7 +5150,7 @@ deemed advisable to separate into companies, each to follow a different trail.</
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <h4>II</h4> 
 
          <h4>Little Bill at School and at the Traps</h4> 
@@ -5778,7 +5777,7 @@ deemed advisable to separate into companies, each to follow a different trail.</
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <h4>III</h4> 
 
          <h4>The Pony Express Rider</h4>
@@ -6445,7 +6444,7 @@ deemed advisable to separate into companies, each to follow a different trail.</
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <h4>IV</h4> 
 
          <h4>"Bill Cody, the Scout"</h4> 
@@ -6785,7 +6784,7 @@ deemed advisable to separate into companies, each to follow a different trail.</
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h4>V</h4> 
 
          <h4>The Indian Campaigns with the Army</h4> 
@@ -7352,4 +7351,3 @@ deemed advisable to separate into companies, each to follow a different trail.</
    </div>
 
 </div>
-

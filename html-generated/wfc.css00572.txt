@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00572.jpg"
@@ -21,7 +21,7 @@
          <strong>Thos. T. Eckert, President and General Manager.</strong> [end heading imprint]
 </div>
 
-      <span class="ab"> Number  J<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab"> Number  J<a href="#n01" class="internal_link">1</a>
       </span>
 
 
@@ -41,13 +41,15 @@
       <span class="ab"> Dated  Grand Island neb 14</span>
 
 
-      <span class="ab"> To  <span class="persName">Geo T Beck</span>
+      <span class="ab"> To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
       </span>
 
       <span class="ab">Sheridan Wyo</span>
 
 
-      <p>Think perkins<a href="../doc/n02" class="internal_link">2</a> favorably inclined you <span class="persName">Alger</span> give him strong talk stokes<a href="../doc/n03" class="internal_link">3</a> wires he is with us</p>
+      <p>Think perkins<a href="#n02" class="internal_link">2</a> favorably inclined you <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> give him strong talk stokes<a href="#n03" class="internal_link">3</a> wires he is with us</p>
 
 
       <span class="closer">
@@ -65,4 +67,3 @@
    <div class="note">Note 3: "Stokes" is likely Edward S. Stokes (1841-1901) who was at one time a railroad and oil magnate and businessman; Stokes was an owner of the Hoffman House, an elegant hotel in Manhattan.</div>
 
 </div>
-

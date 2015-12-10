@@ -74,8 +74,8 @@ Leipzig.
    </span>
 
 
-   <div class=" ">
-      <div class=" ">
+   <div class="">
+      <div class="">
          <h3>Eine Sommerreise<br/>
 mit<br/>
 BUFFALO BILL</h3>
@@ -93,7 +93,7 @@ Carl Henckel</span>
  
          <p>Colonel Cody (Buffalo Bill) showed me the kindness of allowing me to visit his camp daily during his stay in Munich and to accompany him in my capacity as a painter during his travels through Germany. I gladly dedicate these lines to him and his troupe in friendly remembrance.</p>
 
-         <p>My first acquaintance in the camp in Munich was Broncho Bill,<a href="../doc/" class="internal_link">2</a> a white interpreter, and his Indian wife, the only Indian female in the camp and, incidentally, an attractive woman. Their young daughter was the joy of all the women. Their son, Little Benny — a dashing rider at the age of nine — was already very independent. The best example was that the little cowboy kept the bank now and then for the cowboys and Indians; Little Benny sitting on a table in a tent, gold and cards in front of him, serving as banker, and the seven-foot tall King of the Cowboys as his partner — that was a rare picture. </p>
+         <p>My first acquaintance in the camp in Munich was Broncho Bill,<a href="#" class="internal_link">2</a> a white interpreter, and his Indian wife, the only Indian female in the camp and, incidentally, an attractive woman. Their young daughter was the joy of all the women. Their son, Little Benny — a dashing rider at the age of nine — was already very independent. The best example was that the little cowboy kept the bank now and then for the cowboys and Indians; Little Benny sitting on a table in a tent, gold and cards in front of him, serving as banker, and the seven-foot tall King of the Cowboys as his partner — that was a rare picture. </p>
 
          <p>Broncho Bill, who had come to the Sioux as a young boy and had learned their language and been raised by them, introduced me to Rocky Bear, the chief, and his tent mates. My pencil was our first interpreter, as drawings substituted for the words I lacked.  The chief repeatedly assured me that they all liked Munich best.</p>
 
@@ -103,7 +103,7 @@ Carl Henckel</span>
 
          <p>That bronchos—so often incorrectly depicted as bridled (mostly, though, by individuals who do not ride)—are not to be toyed with, the author of these lines had to learn for himself; and the fact that, in the span of one week in Berlin, three cowboys were taken from the scene with broken limbs demonstrates clearly enough the danger of broncho riding. The complete submission that comes as soon as the animal feels the lasso stems from fear of the same. The giant buffalo also later learned to share that fear after it had been made acquainted with the lasso, as we will see below.</p>
 
-         <p>The friendly Major Burke, the manager of the troupe — who has a giant scar dividing one half of his face in two inflicted by an Indian ax blow that he received in a fight during the great Indian War — made me known around the camp. After my visit with Miss Oakley, that most friendly artist of marksmanship, and with Mr Daci,<a href="../doc/" class="internal_link">3</a> the sender of deadly bullets (who, incidentally, had earlier pursued the less dangerous profession of photography in New York), I was soon at home in the camp, and it was all the more gladly that I accepted the commission from Colonel Cody to serve him as artist and to accompany his troupe.</p>
+         <p>The friendly Major Burke, the manager of the troupe — who has a giant scar dividing one half of his face in two inflicted by an Indian ax blow that he received in a fight during the great Indian War — made me known around the camp. After my visit with Miss Oakley, that most friendly artist of marksmanship, and with Mr Daci,<a href="#" class="internal_link">3</a> the sender of deadly bullets (who, incidentally, had earlier pursued the less dangerous profession of photography in New York), I was soon at home in the camp, and it was all the more gladly that I accepted the commission from Colonel Cody to serve him as artist and to accompany his troupe.</p>
 
          <p>In Dresden, the co-founder of the Wild West company, Mr. Nate Salsbury, a dramatic actor esteemed in America and England who had brought the enterprise in to existence with Colonel Cody, arrived. He was in charge of business matters and was director of the whole operation.  I have his friendly cooperation, too, to thank for many pleasant hours. </p>
 
@@ -123,7 +123,7 @@ Carl Henckel</span>
 
          <p>Just as they went into raptures about Munich as a city, the much- and far-travelled white and colored members of the Wild West troupe spoke passionately about Germany as a country. It would have taken little persuasion for a small Buffalo Bill colony to settle for the winter near a brewery in Munich. </p>
 
-         <p>The show's location in Berlin was the best imaginable place for the display of the entire scene. The tent encampment, between tall trees or hidden in the bushes, and the giant arena, with a massive tree in the center and electrically illuminated at night, presented beautiful pictures!  The audience often drew parallels between Buffalo Bill and the small copy-cat troupe of Dr. Carver,<a href="../doc/" class="internal_link">4</a> which had performed in Berlin a few months earlier.</p>
+         <p>The show's location in Berlin was the best imaginable place for the display of the entire scene. The tent encampment, between tall trees or hidden in the bushes, and the giant arena, with a massive tree in the center and electrically illuminated at night, presented beautiful pictures!  The audience often drew parallels between Buffalo Bill and the small copy-cat troupe of Dr. Carver,<a href="#" class="internal_link">4</a> which had performed in Berlin a few months earlier.</p>
 
          <p>I often spent the pleasant summer nights in the camp in conversation with my Indian friends, the Cheyenne Chief Black Heart — one of the most refined Indians, he can trace his lineage back to the beginning of the previous century — and William Pinaud, the Indian interpreter, whose English was extraordinarily strong and who, like most Indians, can read and write. The Indians make use of the Latin alphabet in their correspondence and almost without exception write with beautiful, clear hand.</p>
 
@@ -133,11 +133,11 @@ Carl Henckel</span>
 
          <p>With these three friends I often went to the theater, to concerts, and, in particular, to museums. The last always aroused the greatest interest in them.</p>
 
-         <p>When Black Heart<a href="../doc/" class="internal_link">5</a> recognized objects from his tribe among the embroidered works and drawings in the Indian department of the Ethnographic Museum in Berlin, his pride was great. William Pinaud declared the collection the best he had seen up to then.</p>
+         <p>When Black Heart<a href="#" class="internal_link">5</a> recognized objects from his tribe among the embroidered works and drawings in the Indian department of the Ethnographic Museum in Berlin, his pride was great. William Pinaud declared the collection the best he had seen up to then.</p>
 
-         <p>Almost all Indians have a love of music. I was extremely surprised one morning to find Black Fox,<a href="../doc/" class="internal_link">6</a> the Indian dance leader, sitting in his tent and playing <em class="hi">Heil Dir im Siegeskranz</em> and other well-known melodies by ear on a concertina. Related to this penchant [for music] is the penchant for painting. The fighting buffalos by Black Heart, which can truly be called artistically perceived, and the drawings by Rocky Bear<a href="../doc/" class="internal_link">7</a> depicting himself and his deeds, likewise in the author's possession, bear eloquent witness to their talent.</p>
+         <p>Almost all Indians have a love of music. I was extremely surprised one morning to find Black Fox,<a href="#" class="internal_link">6</a> the Indian dance leader, sitting in his tent and playing <em class="hi">Heil Dir im Siegeskranz</em> and other well-known melodies by ear on a concertina. Related to this penchant [for music] is the penchant for painting. The fighting buffalos by Black Heart, which can truly be called artistically perceived, and the drawings by Rocky Bear<a href="#" class="internal_link">7</a> depicting himself and his deeds, likewise in the author's possession, bear eloquent witness to their talent.</p>
 
-         <p>In Berlin, "Little Chief"<a href="../doc/" class="internal_link">8</a> — probably the most physically attractive of the Indians, with a head that, skin color aside, would be an ornament to any European — left the camp on account of a telegram telling him to return home. His elegant civilian clothing and massive soft hat looked as handsome on him as his impressive Indian chief's outfit. An Indian Don Juan, he left behind many tear-filled eyes!</p>
+         <p>In Berlin, "Little Chief"<a href="#" class="internal_link">8</a> — probably the most physically attractive of the Indians, with a head that, skin color aside, would be an ornament to any European — left the camp on account of a telegram telling him to return home. His elegant civilian clothing and massive soft hat looked as handsome on him as his impressive Indian chief's outfit. An Indian Don Juan, he left behind many tear-filled eyes!</p>
 
          <p>Mention should be made of the open-air religious service held in the camp on Sunday mornings. The mostly Catholic Indians attend with great devotion.</p>
 
@@ -145,7 +145,7 @@ Carl Henckel</span>
 
          <p>The Buffalo Bill performances drew an enormous audience and "sold out" daily. The greetings between the two groups of Indians were highly interesting. There was no end to reciprocal visits, festive dinners, speeches — in short, just as things are with us! </p>
 
-         <p>The desire of some of the Indians of the Carver troupe to remain with their brothers and relatives in Buffalo Bill's camp — a desire that is certainly understandable — could not, of course, be fulfilled on account of their contracts. The word "duty" describes what must be adhered to here in connection with the once free sons and lords of America. My friendship with Black Heart bore beautiful fruit: with deep satisfaction I can state that the supposedly "primitive and culture-lacking Indian" shows more interest in and understanding for culture and intellectual achievements than many white so-called bearers of culture. Given the opportunity to enjoy more refined artistic pleasures and to visit good, cultivated social circles, Black Heart was filled with such enthusiasm for song, for looking at pictures, and for spending time in good society that his acquaintances in Hamburg — who included men and women of the best circles — still today think of the kindly chief not only with sympathy but also with deep respect. And those who saw the red warrior in company, sitting at the upper end of the table with innate dignity and grace and the airs of a gentleman, could well grow fond of this man. Not once during four months, which we spent together almost night and day, did I see him act outside the norm of what is considered the manner of well-bred people. Space should be made here to add that Black Heart and William Pinaud<a href="../doc/" class="internal_link">9</a> were given souvenirs, which were wrapped, at a Hamburg men's club. Their self-mastery — which the ignorant might label as apathy or mindlessness — was so great that, despite perhaps being more curious than a white man would be, they put aside the gifts unseen (because they were wrapped) with a word of thanks. If all Indians were given the opportunity to cultivate themselves and to learn through interaction with cultivated whites, and if one approached them with love and tolerance and honesty, one would notice more positive results in their civilization than has been the case until now. This talented race — slandered and defamed like no other, in a way doomed to extinction, to the like of which history knows no example — 
+         <p>The desire of some of the Indians of the Carver troupe to remain with their brothers and relatives in Buffalo Bill's camp — a desire that is certainly understandable — could not, of course, be fulfilled on account of their contracts. The word "duty" describes what must be adhered to here in connection with the once free sons and lords of America. My friendship with Black Heart bore beautiful fruit: with deep satisfaction I can state that the supposedly "primitive and culture-lacking Indian" shows more interest in and understanding for culture and intellectual achievements than many white so-called bearers of culture. Given the opportunity to enjoy more refined artistic pleasures and to visit good, cultivated social circles, Black Heart was filled with such enthusiasm for song, for looking at pictures, and for spending time in good society that his acquaintances in Hamburg — who included men and women of the best circles — still today think of the kindly chief not only with sympathy but also with deep respect. And those who saw the red warrior in company, sitting at the upper end of the table with innate dignity and grace and the airs of a gentleman, could well grow fond of this man. Not once during four months, which we spent together almost night and day, did I see him act outside the norm of what is considered the manner of well-bred people. Space should be made here to add that Black Heart and William Pinaud<a href="#" class="internal_link">9</a> were given souvenirs, which were wrapped, at a Hamburg men's club. Their self-mastery — which the ignorant might label as apathy or mindlessness — was so great that, despite perhaps being more curious than a white man would be, they put aside the gifts unseen (because they were wrapped) with a word of thanks. If all Indians were given the opportunity to cultivate themselves and to learn through interaction with cultivated whites, and if one approached them with love and tolerance and honesty, one would notice more positive results in their civilization than has been the case until now. This talented race — slandered and defamed like no other, in a way doomed to extinction, to the like of which history knows no example — 
 
 <span class="hr"> </span>
             <span class="pageimage">
@@ -157,11 +157,11 @@ Carl Henckel</span>
                </a>
             </span>
 
-was condemned to the most unconscionable and cruelest experiments. The following extracts from page 104 of <em class="hi">Fahrten im Lande der Sioux</em> [Travels in the Land of the Sioux] by Rudolf Cronau,<a href="../doc/" class="internal_link">10</a> who has been familiar with the situation in America for many years, serve as evidence that the Indians are entirely capable of acting civilized if treated humanely and justly:</p>
+was condemned to the most unconscionable and cruelest experiments. The following extracts from page 104 of <em class="hi">Fahrten im Lande der Sioux</em> [Travels in the Land of the Sioux] by Rudolf Cronau,<a href="#" class="internal_link">10</a> who has been familiar with the situation in America for many years, serve as evidence that the Indians are entirely capable of acting civilized if treated humanely and justly:</p>
 
          <p>
             <blockquote>
-               <p>Further proof that the Indians are capable of civilization is provided by the five tribes<a href="../doc/" class="internal_link">11</a> of the Seminoles, Creeks, Chickasaws, Choctaws, and Cherokees, who have been united together in an extensive reservation in Indian Territory for a few decades. According to the statistical reports for the year 1881, they had 348,000 acres of land under cultivation, produced 105,000 bushels of wheat, 616,000 bushels of corn, and 305,000 bushels of other produce and had 370,000 head of cattle, 455,000 pigs, 64,600 horses, 6,150 mules, and 33,400 sheep of their own. The Cherokees, most of whom were moved there from their home lands in Georgia in 1838, have made the most remarkable progress. They began cultivating the soil, founded their own government, and built schools and churches. One of their chiefs invented an 85-character alphabet, which the Cherokees have been using to publish their own newspapers and books for many years. Numbers can also serve as evidence here. Of the 19,720 members of the tribe, 12,000 can read. During the previous year, 3,715 children were educated in 102 schools, and 33 missionaries were active in 62 churches. The number of houses stands at over 5,000, and 100,000 acres of land are under cultivation.
+               <p>Further proof that the Indians are capable of civilization is provided by the five tribes<a href="#" class="internal_link">11</a> of the Seminoles, Creeks, Chickasaws, Choctaws, and Cherokees, who have been united together in an extensive reservation in Indian Territory for a few decades. According to the statistical reports for the year 1881, they had 348,000 acres of land under cultivation, produced 105,000 bushels of wheat, 616,000 bushels of corn, and 305,000 bushels of other produce and had 370,000 head of cattle, 455,000 pigs, 64,600 horses, 6,150 mules, and 33,400 sheep of their own. The Cherokees, most of whom were moved there from their home lands in Georgia in 1838, have made the most remarkable progress. They began cultivating the soil, founded their own government, and built schools and churches. One of their chiefs invented an 85-character alphabet, which the Cherokees have been using to publish their own newspapers and books for many years. Numbers can also serve as evidence here. Of the 19,720 members of the tribe, 12,000 can read. During the previous year, 3,715 children were educated in 102 schools, and 33 missionaries were active in 62 churches. The number of houses stands at over 5,000, and 100,000 acres of land are under cultivation.
 
 The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the last fiscal year (October 1, 1880—September 30, 1881), while the taxes levied for that purpose yielded 31,327 dollars — certainly a welcome event.</p>
             </blockquote> 
@@ -218,7 +218,7 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>FOREWORD/PREFACE.</h3>
          <div class="milestone line"> </div>
@@ -251,32 +251,32 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h3>Summary of Content.</h3>
          <div class="milestone line"> </div>
-
-         <h4>Foreword:</h4>
-         <span class="ab">A Summer Trip with Buffalo Bill.</span>
-
-
-         <h4>Illustrations:</h4>
-         <ul>
-            <li> 1. Buffalo Bill, Chief of the Scouts.</li>
-            <li> 2. Sioux Indian Chiefs on the Prairie.</li>
-            <li> 3. Race between Indian, Cowboy and Vaquero.</li>
-            <li> 4. Immigrant train attacked by Indians.</li>
-            <li> 5. Lassoing wild horses.</li>
-            <li> 6. Cowboys riding and taming bucking horses. Shoeing a wild horse.</li>
-            <li> 7. Scenes from the life of Cowboys.</li>
-            <li> 8. Attack on the old Deadwood coach by Sioux Indians.</li>
-            <li> 9. Indian War Dance.</li>
-            <li>10. Buffalo Bill shooting while riding.</li>
-            <li>11. Buffalo chase.</li>
-            <li>12. Attack on a log cabin by Indians.</li>
-            <li>13. Copies of hand drawings made by the Indian chiefs Rocky Bear (war scene: depicting himself) and Black Heart (fighting buffalo). — Interior of an Indian tent.  — Scene from Indian life.</li>
-            <li>14. Portraits: Buffalo Bill Colonel W. F. Cody. — Miss Annie Oaklay. — Black Heart, Indian chief.</li>
-         </ul>
-
+         <div class="">
+            <h4>Foreword:</h4>
+            <span class="ab">A Summer Trip with Buffalo Bill.</span>
+         </div>
+         <div class="">
+            <h4>Illustrations:</h4>
+            <ul>
+               <li> 1. Buffalo Bill, Chief of the Scouts.</li>
+               <li> 2. Sioux Indian Chiefs on the Prairie.</li>
+               <li> 3. Race between Indian, Cowboy and Vaquero.</li>
+               <li> 4. Immigrant train attacked by Indians.</li>
+               <li> 5. Lassoing wild horses.</li>
+               <li> 6. Cowboys riding and taming bucking horses. Shoeing a wild horse.</li>
+               <li> 7. Scenes from the life of Cowboys.</li>
+               <li> 8. Attack on the old Deadwood coach by Sioux Indians.</li>
+               <li> 9. Indian War Dance.</li>
+               <li>10. Buffalo Bill shooting while riding.</li>
+               <li>11. Buffalo chase.</li>
+               <li>12. Attack on a log cabin by Indians.</li>
+               <li>13. Copies of hand drawings made by the Indian chiefs Rocky Bear (war scene: depicting himself) and Black Heart (fighting buffalo). — Interior of an Indian tent.  — Scene from Indian life.</li>
+               <li>14. Portraits: Buffalo Bill Colonel W. F. Cody. — Miss Annie Oaklay. — Black Heart, Indian chief.</li>
+            </ul>
+         </div>
          <div class="inline_figure">
             <div class="p">[illustration]</div>
          </div>
@@ -292,7 +292,7 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -569,17 +569,22 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
 
    <div class="note">Note 1: Charles Henckel (1862-1929), also known as Carl Henckel, a German artist from Berlin who accompanied Buffalo Bill's Wild West as it toured Germany in 1890 and also visited the 1893 World's Columbian Exposition in Chicago as an illustrator for German newspapers, drawing Sioux Indians and other elements of Buffalo Bill's Wild West.</div>
 
-   <div class="note">Note 2: <span class="persName">William "Broncho Bill" Irving</span> (1856-1903), an occasional Sioux (Lakota) interpreter during the 1887 tour and also the actor who played Yellow Hand (Yellow Hair) with Buffalo Bill Combination. Irving, who was white and married to a Lakota woman named Ella Bissonett (1867-1908), daughter of Chief Rocky Bear, was also an interpreter in the 1890 European tour. The couple had a son, Benny Irving (born in 1882), who also toured with Buffalo Bill's Wild West.</div>
+   <div class="note">Note 2: <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/irving.w"/>William "Broncho Bill" Irving</span> (1856-1903), an occasional Sioux (Lakota) interpreter during the 1887 tour and also the actor who played Yellow Hand (Yellow Hair) with Buffalo Bill Combination. Irving, who was white and married to a Lakota woman named Ella Bissonett (1867-1908), daughter of Chief Rocky Bear, was also an interpreter in the 1890 European tour. The couple had a son, Benny Irving (born in 1882), who also toured with Buffalo Bill's Wild West.</div>
 
    <div class="note">Note 3: Mr. Daci was likely Claude Lorraine Daily (or 'Daly'), a young sharpshooter from Altoona, Pennsylvania, who performed with Buffalo Bill's Wild West as a pistol and revolver expert during the 1889-92 seasons.  At age 27 Mr. Daily died of cholera in Brussels in 1892.</div>
 
-   <div class="note">Note 4: <span class="persName">William Frank "Doc" Carver</span>.</div>
+   <div class="note">Note 4: <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/carver.w"/>William Frank "Doc" Carver</span>.</div>
 
-   <div class="note">Note 5: <span class="persName">Black Heart</span> (William Black Heart), or <em class="hi">Cante Sapa</em>, (born 1855), an Oglala Lakota.</div>
+   <div class="note">Note 5: <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/blackheart.w"/>Black Heart</span> (William Black Heart), or <em class="hi">Cante Sapa</em>, (born 1855), an Oglala Lakota.</div>
 
-   <div class="note">Note 6: <span class="persName">Black Fox</span> (Joe Black Fox), or <em class="hi">Strigi-La-Sapa</em> (c1844-c1928), an Oglala Lakota.</div>
+   <div class="note">Note 6: <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/blackfox.j"/>Black Fox</span> (Joe Black Fox), or <em class="hi">Strigi-La-Sapa</em> (c1844-c1928), an Oglala Lakota.</div>
 
-   <div class="note">Note 7: <span class="persName">Rocky Bear</span>, <em class="hi">Inyan Mato</em> or <em class="hi">Eya Matao</em> (b. 1836), an Oglala Sioux chief.</div>
+   <div class="note">Note 7: <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rockybear"/>Rocky Bear</span>, <em class="hi">Inyan Mato</em> or <em class="hi">Eya Matao</em> (b. 1836), an Oglala Sioux chief.</div>
 
    <div class="note">Note 8: Little Chief (<em class="hi">Macaci-Kaola</em> or <em class="hi">Itancan Cikala</em>), next in authority to Red Shirt, was a sub-chief of the Oglala Lakota at Pine Ridge Reservation, with family ties to the Sicangu at Rosebud Reservation. Little Chief appeared with Buffalo Bill's Wild West from 1887 through perhaps as late as 1909.</div>
 
@@ -600,4 +605,3 @@ The justice system of the Cherokees cost only 17,528 dollars and 45 cents in the
    <div class="note">Note 15: Margaret "Ma" Whittaker was Mrs. Frank Whittaker, who appeared with Buffalo Bill's Wild West during the  1886-87 and 1890-92 tours.</div>
 
 </div>
-

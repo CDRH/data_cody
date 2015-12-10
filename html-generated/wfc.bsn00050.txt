@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -27,7 +27,8 @@ CODY.  </div>
       <span class="dateline">January 29, 1910.</span>
 
 
-      <span class="persName">Mr. Bronson Rumsey</span>,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>,
 
 680 Ellicott Square,
 
@@ -70,7 +71,7 @@ Enc. statement.</div>
       </a>
    </span>
 
-   <div class="record doublespace ">
+   <div class="record">
       <p>Statement of business transacted at Cody, Wyoming, by the Lincoln Land Company, with respect to the one-half interest of Bronson Rumsey, trustee, for the six months ending December 31, 1909.</p>
 
       <div class="note">[View image of six-month financial statement ending December 31, 1909, for full display.]</div>
@@ -93,4 +94,3 @@ Enc. statement.</div>
 
 
 </div>
-

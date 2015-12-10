@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,7 +21,13 @@
       </span>
 
 
-      <p>That William F. Cody, <span class="persName">George T. Beck</span>, <span class="persName">Bronson Rumsey</span>, <span class="persName">Nathan Salsbury</span>, <span class="persName">George Bleistein</span>, <span class="persName">Horace C. Alger</span>, and <span class="persName">H. Montgomery Gerrans</span>, are the equal and joint owners of an undivided one-half (1/2) of all of Section Numbered Thirty-two (32), in Township Numbered Fifty-three (53) North, of Range Numbered One Hundred One (101) West of the Sixth Principal Meridian, including all the unsold lots in the town of Cody, located on a portion of the above described Section:</p>
+      <p>That William F. Cody, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Nathan Salsbury</span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>George Bleistein</span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Horace C. Alger</span>, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H. Montgomery Gerrans</span>, are the equal and joint owners of an undivided one-half (1/2) of all of Section Numbered Thirty-two (32), in Township Numbered Fifty-three (53) North, of Range Numbered One Hundred One (101) West of the Sixth Principal Meridian, including all the unsold lots in the town of Cody, located on a portion of the above described Section:</p>
 
       <p>AND WHEREAS; By written instrument bearing date of the 8th day of June A.D., 1900, it was agreed that the title to said undivided one-half (1/2) interest should be placed in the LINCOLN LAND COMPANY, a corporation of the State of Nebraska, under the joint arrangement defined therein: And it was further agreed in said instrument that all purchases hereafter made in connection with the Cody townsite enterprise should be participated in equally, among the above parties one-half (1/2) and the LINCOLN LAND COMPANY one-half (1/2), but that the title to the same should be in the said LINCOLN LAND COMPANY; </p>
 
@@ -85,4 +91,3 @@ Witness:</span>
 
 
 </div>
-

@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,19 +20,19 @@
       <h3>Shot at Repeatedly and Imprisoned in Germany.</h3>
       <h3>Chiefs Who Arrive In New York Tell How They Were Robbed and Shamefully Ill-Treated, and Their Stories Corroborated.</h3>
 
-      <div class=" ">
+      <div class="">
          <p>Two of the Indian braves who have been in Europe with the Carver-Whitney show were steerage passengers on the Hamburg steamer Augusta Victoria, which arrived yesterday. They answered to the names of "Sunk Owa," or "Painted Horse," who is a nephew of Red Cloud; and "Wambali-Pa," or "Eagle Head."  They were full-blooded Sioux of the Ogallala band, and they came over with James Marsh, who was advertising agent for the show on the continent.</p>
 
          <p>Both braves were without a penny, and their entire possessions consisted of the rough shirts they wore and a railroad ticket each to Pine Ridge Agency, Dakota. "Painted Horse" said they were shamefully treated in the Carver-Whitney show, and gave an account of the ill-treatment to General O'Beirne at the Barge Office, through Rev. Father Crafts, who acted as interpreter. Substantially "Painted Horse" said:</p>
       </div>
-      <div class=" ">
+      <div class="">
          <h4>THE STORY OF ILL-USAGE.</h4>
 
          <p>There were twenty of us when we left New York besides Black Bear's squaw and their three children, and during our travels over Europe we were beaten, kicked and shot at. Dr. Carver shot at Black Bear, but failed to hit him, though he intended to kill him. I tried with four others to communicate with some of Black Bear's relatives in the Buffalo Bill Show in Hamburg. We were locked up in a German prison by the German police who were sent after us because I objected to being beaten and ill-used."</p>
 
          <p>"Dr. Carver fired at me with a revolver in Berlin fifteen days ago, but missed me. After we were locked up by the German police Carver took all our money away, about $25 each, and did not return it. Our money was not paid regularly, and the whites in both shows tried to corrupt the red men. The Indians got liquor whenever they desired. Some of Carver's and Cody's men had a row in Hamburg, but the Indians were not in it."</p>
       </div>
-      <div class=" ">
+      <div class="">
          <h4>WHITES SUFFER ALSO.</h4>
 
          <p>"Three braves were in a dying condition when we left—Bear Necklace, Brave Elk and another. The squaw was also ill and the papoose died as we were leaving. We received only five dollars besides our tickets, and now we have nothing. I was in Buffalo Bill's show before I went to Carver's. I saw him knock down two braves. Both died on their return to Pine Ridge. The food Buffalo Bill supplied was bad and the braves who ate it were sick, Buffalo Bill was brutal."</p>
@@ -45,4 +45,3 @@
 
 
 </div>
-

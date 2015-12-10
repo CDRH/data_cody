@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00564.jpg"
@@ -21,7 +21,7 @@
          <strong>Thos. T. Eckert,</strong> President and General Manager. [end heading imprint]</div>
 
 
-      <span class="ab">Number  Bu 5<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab">Number  Bu 5<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="ab">Sent By  Co</span>
@@ -31,16 +31,18 @@
       <span class="ab">Check  29 Pd</span>
 
 
-      <span class="ab">Received at  1208P<br/>Aug 28 1895<a href="../doc/n02" class="internal_link">2</a>
+      <span class="ab">Received at  1208P<br/>Aug 28 1895<a href="#n02" class="internal_link">2</a>
       </span>
 
       <span class="ab">Dated  Youngstown O 28</span>
 
-      <span class="ab">To  <span class="persName">Geo T Beck</span>
+      <span class="ab">To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
          <br/>Bufo</span>
 
 
-      <p>Think <span class="persName">Bleistein</span> would like to go out with you &amp; look situation over and select place. Place for showing club and have hunt see all parties wire me quick</p>
+      <p>Think <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> would like to go out with you &amp; look situation over and select place. Place for showing club and have hunt see all parties wire me quick</p>
 
 
       <span class="closer">
@@ -56,4 +58,3 @@
    <div class="note">Note 2: Buffalo Bill's Wild West performed in Youngstown, Ohio, on August 28, 1895.</div>
 
 </div>
-

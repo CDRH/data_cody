@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11355.jpg"
@@ -13,7 +13,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <h3>GREAT AUDIENCE IS HELD IN TENSE WONDER BY THE BUFFALO BILL INDIAN WAR PICTURES</h3>
         
         <h3>Famous Scout Tells How He Conceived the Plan of Perpetuating This Page of American History and Of Being Given Financial Backing in Denver.</h3>
@@ -30,7 +30,7 @@
         
         <p>The new art of moving pictures made it possible to reproduce some wonderful fights. But to accomplish all this it was necessary to have the approval and help of the government, a strong financial backing and the sanction of the famous generals who had helped to make history. He heard, while in the wilderness, that the secretary of war was in Colorado. "So," said Cody, "I chased myself down to Denver, met Mr. Garrison, laid my idea before him and he gave it cordial approval, promising the hearty support of the war department.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h3>LANE PROMISES TO GIVE SUPPORT</h3>
         
         <p>"Later I saw Secretary of the Interior Lane at Colorado Springs and asked his cooperation. He had the Indians under his supervision. He was a necessary factor. He took to the proposition warmly.</p>
@@ -43,7 +43,7 @@
         
         <p>"We all — General Miles directing — went to the old fighting ground, and there, with wonderful accuracy, we reproduced, after weeks of work, the most wonderful series of Indian war scenes the world has known.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h3>INDORSED BY PRESIDENT WILSON.</h3>
         
         <p>"When completed, they had first to be shown to the president and his cabinet at Washington, to receive their approval or disapproval, for, if found satisfactory they were to be placed in the archives of the war department and the interior department. Last week, before the cabinet, the leading senators and diplomats, they were shown in the government building and formally indorsed.</p>
@@ -60,4 +60,3 @@
       </div>
    </div>
     </div>
-

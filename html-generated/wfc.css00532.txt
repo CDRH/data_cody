@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00532.jpg"
@@ -19,18 +19,19 @@
 
 
 
-      <span class="dateline">Lynchburg. Va<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Lynchburg. Va<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
 Apr. 24<u>th</u> 99</span>
 
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
 
-      <p>Ex Gov. Richards<a href="../doc/n02" class="internal_link">2</a> says we ought to fix up our affairs so that our Settlers and our selves can proove up. by doing this our company can get in some ready cash. let me hear from you, and when you expect have water runing into Cody. for goodness sakes George rush it a long—</p>
+      <p>Ex Gov. Richards<a href="#n02" class="internal_link">2</a> says we ought to fix up our affairs so that our Settlers and our selves can proove up. by doing this our company can get in some ready cash. let me hear from you, and when you expect have water runing into Cody. for goodness sakes George rush it a long—</p>
 
 
       <span class="closer">
@@ -51,4 +52,3 @@ Apr. 24<u>th</u> 99</span>
 
 
 </div>
-

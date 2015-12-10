@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="dateline">Omaha, Neb., February 6th, 1901.</span>
 
@@ -28,4 +28,3 @@ President, Burlington, Iowa.
 
 
 </div>
-

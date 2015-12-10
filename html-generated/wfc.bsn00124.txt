@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -22,7 +22,8 @@
       <span class="ab">Feb.27,1917.</span>
 
 
-      <span class="ab">M<span class="persName">George Bleistein</span>,
+      <span class="ab">M<span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>George Bleistein</span>,
 
 Buffalo, N. Y.</span>
 
@@ -322,4 +323,3 @@ Notary public
 
 
 </div>
-

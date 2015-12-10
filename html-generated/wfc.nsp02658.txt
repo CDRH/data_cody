@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -34,7 +34,8 @@
 
       <p>The dramatic success of it was overwhelming and complete and from that moment forward the success of the Wild West was assured. It was new, it was genuine, it was grand and thrilling. The remainder of the entertainment was received with rapturous applause and the following day the crowd could not be accommodated.</p>
 
-      <p>Cody and his partner, <span class="persName">Salisbury</span>, took in over $1,000,000 during the season. Efforts were made to get them over to Paris and Berlin, but they thought it might be too great a hazard to go into a country where a foreign tongue was spoken, so they stuck to England, and are well satisfied with the result. They are now coming home, and their countrymen will be glad to see them.—Washington Republican, May 8.</p>
+      <p>Cody and his partner, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salisbury</span>, took in over $1,000,000 during the season. Efforts were made to get them over to Paris and Berlin, but they thought it might be too great a hazard to go into a country where a foreign tongue was spoken, so they stuck to England, and are well satisfied with the result. They are now coming home, and their countrymen will be glad to see them.—Washington Republican, May 8.</p>
 
 
    </div>
@@ -42,4 +43,3 @@
 
 
 </div>
-

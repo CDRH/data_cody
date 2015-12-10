@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -17,7 +17,8 @@
       </span>
 
       <p>
-         <div class="center">LAST WILL AND TESTAMENT OF <span class="persName">HORACE C. ALGER</span>.</div>
+         <div class="center">LAST WILL AND TESTAMENT OF <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>HORACE C. ALGER</span>.</div>
       </p>
 
       <p>IN THE NAME OF GOD, AMEN;</p>
@@ -28,8 +29,7 @@
 
       <p>HORACE C. ALGER. (seal)</p>
 
-      <p>Signed, Sealed, Published and Declared by the said Horace C. Alger the testator as and for his last will and testament; and we at <a rel="tooltip" class="sic" title="​ ">j</a>
-    ​ his request and in his presence and in the presence of each other have hereunto subscribed our names as witnesses thereto, thus 23 rd day of January, A.D. 1894.</p>
+      <p>Signed, Sealed, Published and Declared by the said Horace C. Alger the testator as and for his last will and testament; and we at <a rel="tooltip" class="sic" title="​ &#xA;    ">j</a> his request and in his presence and in the presence of each other have hereunto subscribed our names as witnesses thereto, thus 23 rd day of January, A.D. 1894.</p>
 
       <span class="closer">
          <span class="salute">WITNESSES.</span>
@@ -40,7 +40,7 @@
 
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
       <span class="ab">
          <div class="center">C E R T I F I C A T E . </div>
       </span>
@@ -69,7 +69,7 @@ Clerk of Court.</span>
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <span class="ab">
          <div class="center">Evidence of sale<br/>
 of Alger's 1/14 Interest<br/>
@@ -89,4 +89,3 @@ Sheridan Wyo</div>
 
 
 </div>
-

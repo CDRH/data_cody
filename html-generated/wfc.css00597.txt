@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">WAR DEPARTMENT,
@@ -24,7 +24,7 @@
       <span class="dateline">August 29th, 1913.</span>
       <div class="note">5-180
   <br/>
-  Comm. Sells<a href="../doc/n01" class="internal_link">1</a>
+  Comm. Sells<a href="#n01" class="internal_link">1</a>
       </div>
   6685
   Interior Dept.
@@ -37,17 +37,17 @@
   106528
   Ans'd Sep 9 1913
   
-<span class="salute">Dear Mr. Secretary<a href="../doc/n02" class="internal_link">2</a> :</span>
+<span class="salute">Dear Mr. Secretary<a href="#n02" class="internal_link">2</a> :</span>
 
 
 
 
-      <p>I have the honor to enclose herewith a letter, addressed to the Secretary of War<a href="../doc/n03" class="internal_link">3</a> by Colonel W. F. Cody, (Buffalo Bill), dated August 24th, 1913.</p>
+      <p>I have the honor to enclose herewith a letter, addressed to the Secretary of War<a href="#n03" class="internal_link">3</a> by Colonel W. F. Cody, (Buffalo Bill), dated August 24th, 1913.</p>
       <p>The Colonel is very much interested in carrying out the plan proposed in his letter and presented the matter to the Secretary of War, who, I understand, is favorably impressed with the idea. Personally, I think it is a good thing, as the characters referred to are most of them old men, and this is about the last chance we will have to get a reproduction of what took place at Pine Ridge.</p>
       
       <span class="closer">
          <span class="salute">Very sincerely yours,</span>
-         <br/>Leonard Wood<a href="../doc/n04" class="internal_link">4</a>
+         <br/>Leonard Wood<a href="#n04" class="internal_link">4</a>
   Hon. Franklin K. Lane,
     Secretary of the Interior,
     Washington, D. C.
@@ -66,4 +66,3 @@
   <div class="note">Note 4: Leonard Wood (1860-1927) was a physician who served as the Chief of Staff of the United States Army (1910-1914), Military Governor of Cuba, and Governor General of the Philippines; Wood was a recipient of the Medal of Honor.</div>
 
 </div>
-

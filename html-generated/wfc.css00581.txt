@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00581.jpg"
@@ -30,16 +30,18 @@
 
 
 
-      <span class="ab">193 P. YX. BX. 66Paid.<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab">193 P. YX. BX. 66Paid.<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="ab">Ch, Philadelphia, Pa., April 14th-1896.</span>
 
 
       <span class="ab">
-         <span class="persName">George T. Beck</span>, Auditorium Hotel Annex, Chicago, Ill's.</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>, Auditorium Hotel Annex, Chicago, Ill's.</span>
 
-      <span class="ab">Take a first class interpreter and interview the head of each family and ascertain beyond doubt just what nagle<a href="../doc/n02" class="internal_link">2</a> has promised them especially on what terms necessary implements were to be furnished and who was to furnish them find out if possible who the middleman is between settlers and our company ask nagle why he made a deal with <span class="persName">Rumsey</span> without notif[y]ing me at the time.</span>
+      <span class="ab">Take a first class interpreter and interview the head of each family and ascertain beyond doubt just what nagle<a href="#n02" class="internal_link">2</a> has promised them especially on what terms necessary implements were to be furnished and who was to furnish them find out if possible who the middleman is between settlers and our company ask nagle why he made a deal with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span> without notif[y]ing me at the time.</span>
 
       <span class="closer">
          <br/>W F. Cody.
@@ -58,4 +60,3 @@
    <div class="note">Note 2: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands that were to be irrigated by the Cody Canal.</div>
 
 </div>
-

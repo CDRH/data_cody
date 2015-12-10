@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Buffalo Bill's Wild West Co. W. F. Cody (Buffalo Bill), President. Nate Salsbury, Vice-President. John M. Burke, Gen. Manager.</div>
@@ -41,4 +41,3 @@ Your friend</span>
 
 
 </div>
-

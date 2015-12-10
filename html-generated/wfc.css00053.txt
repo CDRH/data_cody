@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
       <div class="note">
          <p>Write me Toledo. O. Oct.2-3th</p>
@@ -72,4 +72,3 @@ he feels confident of our winning.</p>
 
 
 </div>
-

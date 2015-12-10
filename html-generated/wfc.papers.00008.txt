@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
 
       <h3>Buffalo Bill's Great Plains, 1846-1879</h3>
@@ -25,4 +25,3 @@ Lincoln, Nebraska, January 18, 2012</h3>
 
 
 </div>
-

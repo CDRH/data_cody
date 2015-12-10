@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00548.jpg"
@@ -19,19 +19,20 @@
 
 
 
-      <span class="dateline">San. Francisco-<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">San. Francisco-<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
-Sep. 12th / 02<a href="../doc/n02" class="internal_link">2</a>
+Sep. 12th / 02<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>.</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>.</span>
 
 
       <p>Wired you to contract east end immediately get work started. Write each stock holder <u>fully</u>— telling them what the money will be used for— then later the contract can be let for upper end— You have <del>r</del> dried lumber for flumes long ago as we talked that over— the timber &amp; lumber must be gotten this fall ready— Assess each of us to do the east end &amp; pay contractors now then later make another assessment for upper end—</p>
 
-      <p>How does the prospects look for the Governorship<a href="../doc/n03" class="internal_link">3</a>?</p>
+      <p>How does the prospects look for the Governorship<a href="#n03" class="internal_link">3</a>?</p>
 
       <span class="closer">
          <span class="salute">Kind regards and success attend you—</span>
@@ -48,7 +49,7 @@ Sep. 12th / 02<a href="../doc/n02" class="internal_link">2</a>
 
    <div class="note">Note 2: Cody inscribes September 12th / 02, though the year as written looks more like 1912.</div>
 
-   <div class="note">Note 3: Beck was running for governor of Wyoming as a Democrat in the 1902 election; he lost the election to the incumbent Republican governor, DeForest Richards, who, incidentally, had defeated <span class="persName">Horace C. Alger</span> in the 1898 election.</div>
+   <div class="note">Note 3: Beck was running for governor of Wyoming as a Democrat in the 1902 election; he lost the election to the incumbent Republican governor, DeForest Richards, who, incidentally, had defeated <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Horace C. Alger</span> in the 1898 election.</div>
 
 </div>
-
