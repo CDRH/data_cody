@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -42,7 +42,7 @@ Clerk of Court.
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <div class="note">COPY.</div>
 
       <span class="ab">
@@ -50,7 +50,8 @@ Clerk of Court.
       </span>
 
       <span class="ab">In the Matter of the Estate of<br/>
-         <span class="persName">Horace C. Alger</span>, Deceased.</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Horace C. Alger</span>, Deceased.</span>
 
       <span class="ab">
          <div class="center">
@@ -181,4 +182,3 @@ Judge of the District Court.</span>
 
 
 </div>
-

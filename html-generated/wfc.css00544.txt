@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00544.jpg"
@@ -19,19 +19,19 @@
 
 
 
-      <span class="dateline">Brooklyn<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Brooklyn<a href="#n01" class="internal_link">1</a>
          <br/>
 
-May 9th<a href="../doc/n02" class="internal_link">2</a>
+May 9th<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
 
-      <p>Have you sent the Bond back to Mr Clark<a href="../doc/n03" class="internal_link">3</a> 
-         <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ necessary he has it soon as possible. Say that contract with Wallenburg<a href="../doc/n04" class="internal_link">4</a>— does it state when Wallenburg must pay for land? May be we can get him on that clause— Let me know what Sisters<a href="../doc/n05" class="internal_link">5</a> first payment on her 160 is &amp; I will send the money to you</p>
+      <p>Have you sent the Bond back to Mr Clark<a href="#n03" class="internal_link">3</a> 
+         <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> necessary he has it soon as possible. Say that contract with Wallenburg<a href="#n04" class="internal_link">4</a>— does it state when Wallenburg must pay for land? May be we can get him on that clause— Let me know what Sisters<a href="#n05" class="internal_link">5</a> first payment on her 160 is &amp; I will send the money to you</p>
 
       <p>Business is great with me.</p>
 
@@ -60,4 +60,3 @@ May 9th<a href="../doc/n02" class="internal_link">2</a>
 
    <div class="note">Note 5: "Sisters" is a reference to the payment owed by Helen Cody Wetmore (1850-1911), William F. Cody's sister.</div>
 </div>
-

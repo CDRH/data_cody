@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00549.001.jpg"
@@ -19,17 +19,16 @@
 
 
 
-      <span class="dateline">Santabarbra Cal<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Santabarbra Cal<a href="#n01" class="internal_link">1</a>
          <br/>
 
 Sep 22d 1902</span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>.</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>.</span>
 
 
-      <p>Yours letter Sep 16th have wired you to make assessment to pay engineer &amp; surveys— This you should have done long ago if you knew you would be short of money— Why <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ you collect? <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ due co It will be your neglect if money not there to pay them And the blame shall be placed where it belongs— Wire me engineers estimate for doing earth work soon as you get it. Are there any contractors there who will take the work? We men who have to put up the money have lore for information— Some thing you could give us in a few minutes</p>
+      <p>Yours letter Sep 16th have wired you to make assessment to pay engineer &amp; surveys— This you should have done long ago if you knew you would be short of money— Why <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you collect? <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> due co It will be your neglect if money not there to pay them And the blame shall be placed where it belongs— Wire me engineers estimate for doing earth work soon as you get it. Are there any contractors there who will take the work? We men who have to put up the money have lore for information— Some thing you could give us in a few minutes</p>
 
       <p>Our company are liable to be blamed if surveyors money not there— And if so we will surely make a stand—</p>
 
@@ -76,4 +75,3 @@ Sep 22d 1902</span>
 
 
 </div>
-

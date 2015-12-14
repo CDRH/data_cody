@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -32,13 +32,13 @@ Boston, Mass.
 <span class="salute">Dear Clarence;</span>
 
 
-      <p>Everything is going fine. The Prince of Monaco is enjoying himself hugely in the mountains. We have our permanent camp about 70 miles northwest of the Town of Cody in the very heart of the Rockies.<a href="../doc/n01" class="internal_link">1</a>
+      <p>Everything is going fine. The Prince of Monaco is enjoying himself hugely in the mountains. We have our permanent camp about 70 miles northwest of the Town of Cody in the very heart of the Rockies.<a href="#n01" class="internal_link">1</a>
       </p>
 
-      <p>We have taken quite a good many thousands of feet of reels since we arrived here. His Royal Highness took great pleasure in participating in our pictures, which will all strength and value to the same.<a href="../doc/n02" class="internal_link">2</a>
+      <p>We have taken quite a good many thousands of feet of reels since we arrived here. His Royal Highness took great pleasure in participating in our pictures, which will all strength and value to the same.<a href="#n02" class="internal_link">2</a>
       </p>
 
-      <p>I think I wrote you that the name of our picture company is the Col. W. F. Cody ("Buffalo Bill") Historical Pictures Company. My partners are Bonfil and Tammen of the Denver Post and the Kansas City Post, also proprietors of the Sells-Floto Circus, and Mr. Spoor, president of the Essanay Company.<a href="../doc/n03" class="internal_link">3</a> These gentlemen are all millionaires and pretty good fellows to have as partners, as they furnish all the money and I receive 1/3 of all the profits of the Company. I think I am in line here, at least all the moving picture people think so, to make a lot of money yet this winter.</p>
+      <p>I think I wrote you that the name of our picture company is the Col. W. F. Cody ("Buffalo Bill") Historical Pictures Company. My partners are Bonfil and Tammen of the Denver Post and the Kansas City Post, also proprietors of the Sells-Floto Circus, and Mr. Spoor, president of the Essanay Company.<a href="#n03" class="internal_link">3</a> These gentlemen are all millionaires and pretty good fellows to have as partners, as they furnish all the money and I receive 1/3 of all the profits of the Company. I think I am in line here, at least all the moving picture people think so, to make a lot of money yet this winter.</p>
 
       <p>Now, as to the mines. The Detroit and Toronto men are going out in October and if they approve of our mines we will make
 
@@ -59,10 +59,10 @@ Cody, Wyoming,</div>
 
          <span class="h6">C.W.R.     #2.</span>
 
-the sale.<a href="../doc/n04" class="internal_link">4</a>
+the sale.<a href="#n04" class="internal_link">4</a>
       </p>
 
-      <p>Now, Charlie, I am awfully busy and you can write me here at Cody up to October 5th. During the month of October my address will be Pine Ridge, South Dakota.<a href="../doc/n05" class="internal_link">5</a>
+      <p>Now, Charlie, I am awfully busy and you can write me here at Cody up to October 5th. During the month of October my address will be Pine Ridge, South Dakota.<a href="#n05" class="internal_link">5</a>
       </p>
 
       <span class="closer">
@@ -72,7 +72,7 @@ the sale.<a href="../doc/n04" class="internal_link">4</a>
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -122,4 +122,3 @@ Mass.
 
 
 </div>
-

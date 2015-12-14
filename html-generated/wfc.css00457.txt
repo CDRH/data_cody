@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -24,18 +24,19 @@
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-      <span class="dateline">Charleston. S. C.<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Charleston. S. C.<a href="#n01" class="internal_link">1</a>
          <br/>
-Oct. 16th<a href="../doc/n02" class="internal_link">2</a>
+Oct. 16th<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">Beck</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
 
-      <p>I wrote you a long letter yesterday. What brings this so quickly after the other. I understand the Atlantic Exposition is a failure &amp; I am <a rel="tooltip" class="sic" title="preparing​ ">prepairing</a>
-    ​ to close Nov 2d  if I do we will all be out there by Nov 15. You said we would go in from Billings.<a href="../doc/n03" class="internal_link">3</a> let me know how far it is from Billings And all about it as <span class="persName">Alger</span> has been there. I presume you have all been together &amp; have the muddle about Town Site<a href="../doc/n04" class="internal_link">4</a> fixed up. It ought to be in shape by the time we get there so as to please the men who will put up the money. You bet I am going to be pinched for cash my self &amp; by the way I have the balance of that note to pay for <span class="persName">Heckart</span> and for the time those teams of ours work give me credit for So you <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ have that to pay out in cash. Say George I find too many <u>Foremens</u> names on 
+      <p>I wrote you a long letter yesterday. What brings this so quickly after the other. I understand the Atlantic Exposition is a failure &amp; I am <a rel="tooltip" class="sic" title="preparing​ &#xA;    ">prepairing</a> to close Nov 2d  if I do we will all be out there by Nov 15. You said we would go in from Billings.<a href="#n03" class="internal_link">3</a> let me know how far it is from Billings And all about it as <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> has been there. I presume you have all been together &amp; have the muddle about Town Site<a href="#n04" class="internal_link">4</a> fixed up. It ought to be in shape by the time we get there so as to please the men who will put up the money. You bet I am going to be pinched for cash my self &amp; by the way I have the balance of that note to pay for <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t"/>Heckart</span> and for the time those teams of ours work give me credit for So you <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> have that to pay out in cash. Say George I find too many <u>Foremens</u> names on 
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -55,9 +56,7 @@ Oct. 16th<a href="../doc/n02" class="internal_link">2</a>
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-that statement you have more <u>Foreman</u> than working men. Heck is drawing pay for Foreman And we can play no favorites. In this fight of hours if he cant get up and attend to business He will have to be let out. <a rel="tooltip" class="sic" title="Don't​ ">Dont</a>
-    ​ keep a man you <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ need. We must make a showing when these men get there or our gig is up—</p>
+that statement you have more <u>Foreman</u> than working men. Heck is drawing pay for Foreman And we can play no favorites. In this fight of hours if he cant get up and attend to business He will have to be let out. <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> keep a man you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> need. We must make a showing when these men get there or our gig is up—</p>
 
       <p>Now George— make every man jump to his work— <u>&amp; stick to it. have you ordered the lumber for headgate</u>? </p>
 
@@ -82,4 +81,3 @@ that statement you have more <u>Foreman</u> than working men. Heck is drawing pa
 
 
 </div>
-

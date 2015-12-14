@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,7 +20,7 @@
       <div class="note">Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East</div>
 
       <span class="dateline">Carrollton Mo
-Sep. 25<a href="../doc/n01" class="internal_link">1</a>
+Sep. 25<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">Dear Clarence</span>
@@ -34,9 +34,9 @@ Sep. 25<a href="../doc/n01" class="internal_link">1</a>
          <br/>Col.
 </span>
 
-      <p>We cant get Deer Bear. &amp; quails <del>ne</del> at Campo Bonito<a href="../doc/n02" class="internal_link">2</a>
+      <p>We cant get Deer Bear. &amp; quails <del>ne</del> at Campo Bonito<a href="#n02" class="internal_link">2</a>
       </p>
-      <div class="note">Col Dyer-uses a No 12 Winchester Pump shot gun<a href="../doc/n03" class="internal_link">3</a>
+      <div class="note">Col Dyer-uses a No 12 Winchester Pump shot gun<a href="#n03" class="internal_link">3</a>
       </div>
 
    </div>
@@ -52,4 +52,3 @@ Sep. 25<a href="../doc/n01" class="internal_link">1</a>
 
 
 </div>
-

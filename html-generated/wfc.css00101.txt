@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00101.001.jpg"
@@ -21,13 +21,14 @@ Buffalo Bill's Wild West</div>
 
       <span class="dateline">New. York<br/>
 
-Apr. 15th 1901<a href="../doc/n01" class="internal_link">1</a>
+Apr. 15th 1901<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear Hinkle</span>
 
 
-      <p>Your favor with application for lease of school section <a rel="tooltip" class="abbr" title="received​ ">recd</a>​— I donot know which school section this is but I am going to fill it out and lease it just the same.<a href="../doc/n02" class="internal_link">2</a> Now Hinkle. Some time ago— I filed in the names of Charles. De Marris and my self— on the waters of the hot springs near Cody— Will you please examine these fillings and give me the laws and particulars. regarding same—this is very important for me to know at once. As I am doing something. that will be of great interest to the state—I have incorporated a company of which I am President—What will be known as—</p>
+      <p>Your favor with application for lease of school section <a rel="tooltip" class="abbr" title="received​ &#xA;    ">recd</a>​
+— I donot know which school section this is but I am going to fill it out and lease it just the same.<a href="#n02" class="internal_link">2</a> Now Hinkle. Some time ago— I filed in the names of Charles. De Marris and my self— on the waters of the hot springs near Cody— Will you please examine these fillings and give me the laws and particulars. regarding same—this is very important for me to know at once. As I am doing something. that will be of great interest to the state—I have incorporated a company of which I am President—What will be known as—</p>
 
       <p>Cody. Military. College International Academy. of. Rough. Riders.
 
@@ -45,11 +46,10 @@ Apr. 15th 1901<a href="../doc/n01" class="internal_link">1</a>
          <div class="note">Louis E. Cooke, Gen'l Agt.<br/>
 Buffalo Bill's Wild West</div>
 
-to teach young young men all branches of Military <a rel="tooltip" class="sic" title="Science​ ">Sceience</a>
-    ​—its taking like wild fire— Our company will commence the permanent construction of the barracks in June— And will establish a military camp in tents at once— General. E. V. Sumner<a href="../doc/n03" class="internal_link">3</a>—U.S.A. Military Commander— in command. This Organization was to be located in Colorado— But I got it changed to Wyo— You can have this sent out by associated press from Cheyenne— if you choose—I enclose a circular of the first Co that was gotten up for Colorado— But its now all to go to Wyo— near Cody<a href="../doc/n04" class="internal_link">4</a>
+to teach young young men all branches of Military <a rel="tooltip" class="sic" title="Science​ &#xA;    ">Sceience</a>—its taking like wild fire— Our company will commence the permanent construction of the barracks in June— And will establish a military camp in tents at once— General. E. V. Sumner<a href="#n03" class="internal_link">3</a>—U.S.A. Military Commander— in command. This Organization was to be located in Colorado— But I got it changed to Wyo— You can have this sent out by associated press from Cheyenne— if you choose—I enclose a circular of the first Co that was gotten up for Colorado— But its now all to go to Wyo— near Cody<a href="#n04" class="internal_link">4</a>
       </p>
 
-      <p>Gov. Richards is here<a href="../doc/n05" class="internal_link">5</a>—</p>
+      <p>Gov. Richards is here<a href="#n05" class="internal_link">5</a>—</p>
 
       <span class="closer">
          <span class="salute">Yours very truly</span>
@@ -68,10 +68,10 @@ to teach young young men all branches of Military <a rel="tooltip" class="sic" t
       </a>
    </span>
 
-   <div class="addition doublespace ">
+   <div class="addition">
 
 
-      <span class="dateline">State of Wyo<a href="../doc/n06" class="internal_link">6</a>
+      <span class="dateline">State of Wyo<a href="#n06" class="internal_link">6</a>
          <br/>
 
 State Engineers Office</span>
@@ -112,4 +112,3 @@ State Engs Office
 
 
 </div>
-

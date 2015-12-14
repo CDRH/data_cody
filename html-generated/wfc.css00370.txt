@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <span class="dateline">Omaha, Neb., November 17th, 1899.</span>
@@ -33,4 +33,3 @@ W. H. S.
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -16,7 +16,13 @@
          </a>
       </span>
 
-      <p>THIS AGREEMENT, made and entered into this 24th day of September A.D., 1901, by and between the LINCOLN LAND COMPANY, a corporation organized and existing under the laws of the State of Nebraska, and authorized to do business in the State of Wyoming, party of the first part; and <span class="persName">Bronson Rumsey</span>, of the City of Buffalo, and State of New York, acting as Trustee for William F. Cody, <span class="persName">George T. Beck</span>, <span class="persName">Nathan Salsbury</span>, <span class="persName">George Bleistein</span>, <span class="persName">Horace C. Alger</span>, <span class="persName">H. Montgomery Gerrans</span> and Bronson Rumsey, party of the second part:</p>
+      <p>THIS AGREEMENT, made and entered into this 24th day of September A.D., 1901, by and between the LINCOLN LAND COMPANY, a corporation organized and existing under the laws of the State of Nebraska, and authorized to do business in the State of Wyoming, party of the first part; and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, of the City of Buffalo, and State of New York, acting as Trustee for William F. Cody, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Nathan Salsbury</span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>George Bleistein</span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Horace C. Alger</span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H. Montgomery Gerrans</span> and Bronson Rumsey, party of the second part:</p>
 
       <span class="ab">
          <div class="center">WITNESSETH: </div>
@@ -121,7 +127,7 @@ As Trustee.
 </span>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
 
       <span class="ab">:-:-:-:-:-:-:-:-:-:-</span>
 
@@ -141,7 +147,7 @@ Notary Public
       </span>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
 
       <span class="ab">-:-:-:-:-:-:-:-:-:-:-</span>
 
@@ -174,7 +180,7 @@ Notary Public
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <span class="ab">EXHIBIT "A". </span>
 
       <ul>
@@ -227,4 +233,3 @@ Notary Public
 
 
 </div>
-

@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="telegram ">
+   <div class="telegram">
 
 
       <div class="note">20,000 OFFICES IN AMERICA. <br/> CABLE SERVICE TO ALL THE WORLD. <br/>
@@ -26,7 +26,7 @@
       <div class="note">RECEIVED AT</div>
 A191D KN 58 GOVERNMENT
 PINE RIDGE S_D AUG 27 1913
- LANE<a href="../doc/n01" class="internal_link">1</a> SEC'Y OF INTERIOR
+ LANE<a href="#n01" class="internal_link">1</a> SEC'Y OF INTERIOR
   COLO-SPRINGS, COLO
 
 
@@ -36,7 +36,7 @@ PINE RIDGE S_D AUG 27 1913
   <p>Your wire today I advised Col Cody this morning that I would be pleased to cooperate with him in his plan as outlined in his telegram and yours can see no objections to the plan and will be pleased to do all I can to make the affair a success</p>
       
       <span class="closer">
-         <br/>Brennan<a href="../doc/n02" class="internal_link">2</a>
+         <br/>Brennan<a href="#n02" class="internal_link">2</a>
          <br/>
     Supt
   <br/>
@@ -50,4 +50,3 @@ PINE RIDGE S_D AUG 27 1913
   <div class="note">Note 2: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.</div>
 
 </div>
-

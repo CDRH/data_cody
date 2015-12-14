@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-            <div class="article ">
+            <div class="article">
                 
                 <h3>RIDERS OF THE WORLD</h3>
                 <h3>THE FAMOUS SCOUT AND PLAINSMAN REVIEWS THE CHARACTERISTICS OF RIDERS IN ALL LANDS AND AMONG ALL HORSE-LOVING PEOPLE.</h3>
@@ -44,4 +44,3 @@
             
         
     </div>
-

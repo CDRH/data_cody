@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11350.jpg"
@@ -80,4 +80,3 @@
         <p>Last night's assemblage was composed of guests of Secretary Lane of the Interior department and included: Mrs. Lane, Secretary of Labor Wilson, former Secretary of the Interior Fisher, Assistant Secretary of the Interior and Mrs. Jones, Senator and Mrs. Francis E. Warren of Wyoming, Senator and Benjamin T. Tillman of South Carolina, Senator John F. Shaffroth of Colorado, Representative and Mrs. James A. Frear of Wisconsin [sic]: Representative and Mrs. Addison T. Smith of Idaho, Representative and Mrs. Philip P. Campbell of Kansas, Representative William H. Murray of of [sic] Oklahoma, Representative Nicholas J. Sinnett of Oregon, Representative and Mrs. Clarence Miller of Minnesota, Representative William Kent of California, Representative and Mrs. James M. Grapham of Illinois, Representative and Mrs. John H. Stephens of Texas; Representative and Mrs. John E. Raker of California; Commissioner of Indian Affairs and Mrs. Cato Sells, Commissioner of General Land Office and Mrs. Clay Tallman; George Ottis Smith, director of the geological survey; Thomas Ewing commissioner of patents; J. A. Holms, director of bureau of mines; Dr. Van Barveneld, director mining and metal lurgical [sic] exhibit of Panama-Pacific exposition; Assistant Commissioner of Indian Affairs and Mrs. E. B. Merritt; Franklin K. Lane, Jr.; Dr. and Mrs. Sheap of Idaho and Frank Johnson of Denver.</p>
    </div>
     </div>
-

@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -25,7 +25,8 @@ May 27th 1904
 </span>
 
 
-      <span class="persName">John R. Brennan</span> — Agent
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/"/>John R. Brennan</span> — Agent
 Pine Ridge Agency
 S. Dak.
 
@@ -33,7 +34,7 @@ S. Dak.
 <span class="salute">Dear Major—</span>
 
 
-      <p>I am sending two Indians home who have lung trouble. And the only care for return is dry air which they can't have here. Sitting Bull Jr.<a href="../doc/n01" class="internal_link">1</a> and Jonas Spider<a href="../doc/n02" class="internal_link">2</a> the rest are all well and happy. I will take good care of them. I enclose my route. Will be glad to hear how you settled with the Rail Road— In regard to those who were killed and injured—<a href="../doc/n03" class="internal_link">3</a>
+      <p>I am sending two Indians home who have lung trouble. And the only care for return is dry air which they can't have here. Sitting Bull Jr.<a href="#n01" class="internal_link">1</a> and Jonas Spider<a href="#n02" class="internal_link">2</a> the rest are all well and happy. I will take good care of them. I enclose my route. Will be glad to hear how you settled with the Rail Road— In regard to those who were killed and injured—<a href="#n03" class="internal_link">3</a>
       </p>
 
       <span class="closer">
@@ -54,4 +55,3 @@ S. Dak.
 
 
 </div>
-

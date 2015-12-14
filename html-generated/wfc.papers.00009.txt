@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
 
       <h3>The Wild West Side of American Existence: Buffalo Bill and Theodore Roosevelt as Cultural Ambassadors of the American Frontier Experience</h3>
@@ -24,4 +24,3 @@
 
 
 </div>
-

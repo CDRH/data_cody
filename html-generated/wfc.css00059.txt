@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">
@@ -48,20 +48,20 @@ Apr. 22 1886
       </a>
    </span>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
 
-      <div class="return ">
+      <div class="return">
          <span class="ab">Scout's Rest Stock Ranch,</span>
          <span class="ab">Hon. W. F. Cody, Proprietor. <del>C. A. Dillon</del>, Foreman.</span>
          <span class="ab">North Platte, Neb.</span>
       </div>
 
-      <div class="postmark ">
+      <div class="postmark">
          <span class="ab">North Platte 26 Apr 1886</span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <span class="ab">Miss. Mollie Moses</span>
          <span class="ab">Morganfield</span>
          <span class="ab">K. Y. </span>
@@ -74,4 +74,3 @@ Apr. 22 1886
 
 
 </div>
-

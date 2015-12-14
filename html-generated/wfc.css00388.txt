@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00388.001.jpg"
@@ -25,27 +25,25 @@ Hotel La Salle<br/>
 
 
 
-      <span class="dateline">Chicago Dec. <span class="unclear overwritten">[1314?]</span> 191__<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Chicago Dec. <span class="unclear overwritten">[1314?]</span> 191__<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">Tait</span>.</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j"/>Tait</span>.</span>
 
 
 
 
-      <p>Your letter just came. Hope you seen Fred Hutchison and asked him for me to put Carlo to work.<a href="../doc/n02" class="internal_link">2</a>
+      <p>Your letter just came. Hope you seen Fred Hutchison and asked him for me to put Carlo to work.<a href="#n02" class="internal_link">2</a>
       </p>
 
 
-      <p>We met Mr <span class="persName">Spoor</span>. And <span class="persName">Tammen</span> and I am to be <a rel="tooltip" class="sic" title="shown​ ">showen</a>
-    ​ part of the <a rel="tooltip" class="sic" title="pictures​ ">picturers</a>
-    ​ tomorrow Sunday Spoor told us these our <a rel="tooltip" class="sic" title="pictures​ ">picturers</a>
-    ​ would be the best money getters of any <a rel="tooltip" class="sic" title="movies​ ">moovies</a>
-    ​ ever produced but as there are 26000 feet over five Miles of them it takes time to arrange and finish them.<a href="../doc/n03" class="internal_link">3</a>
+      <p>We met Mr <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/spoor.g"/>Spoor</span>. And <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/tammen.h"/>Tammen</span> and I am to be <a rel="tooltip" class="sic" title="shown​ &#xA;    ">showen</a> part of the <a rel="tooltip" class="sic" title="pictures​ &#xA;    ">picturers</a> tomorrow Sunday Spoor told us these our <a rel="tooltip" class="sic" title="pictures​ &#xA;    ">picturers</a> would be the best money getters of any <a rel="tooltip" class="sic" title="movies​ &#xA;    ">moovies</a> ever produced but as there are 26000 feet over five Miles of them it takes time to arrange and finish them.<a href="#n03" class="internal_link">3</a>
       </p>
 
-      <p>After seeing the <a rel="tooltip" class="sic" title="pictures​ ">picturers</a>
-    ​ or part of them tomorrow. Some place to exhibit them will be formulated. then Ill let you know. We are liable to be here quite a while Am still short on Muzzaska.<a href="../doc/n04" class="internal_link">4</a> Here is 10—</p>
+      <p>After seeing the <a rel="tooltip" class="sic" title="pictures​ &#xA;    ">picturers</a> or part of them tomorrow. Some place to exhibit them will be formulated. then Ill let you know. We are liable to be here quite a while Am still short on Muzzaska.<a href="#n04" class="internal_link">4</a> Here is 10—</p>
 
       <span class="closer">
          <span class="salute">Good luck.</span>
@@ -68,4 +66,3 @@ Hotel La Salle<br/>
    <div class="note">Note 4: "Muzzaska" is Cody's spelling of a Siouan term for "money," likely from the Lakota language.</div>
 
 </div>
-

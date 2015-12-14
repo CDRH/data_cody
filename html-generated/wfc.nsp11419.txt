@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -36,7 +36,7 @@
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <h3>At Buffalo Bill's.</h3>
 
@@ -52,7 +52,8 @@
 
       <p>These Americans all know how to ride like the devil when his grandmother is after him. And they can ride not only on their own horses, but also on the bucking broncs, who still are not tamed yet. It is very amusing to see which tricks the cowboys use to get onto the back of these horses. Yesterday it was two of these untamed animals that had to be brought down to the ground first so that the riders could get a hold of them and jump into the saddle at the moment the animal reared up. </p>
 
-      <p>The accomplishments of the Buffalo Bill troupe in the area of shooting are astounding also. <span class="persName">Miss Annie Oakley</span>, a child, not only electrifyingly shoots down glass balls thrown into the air with astounding accuracy; it does not seem to matter to her whether she does it from a normal shooting position or if she turns around and shoots over her shoulder while taking aim through a mirror. The same virtuosity is demonstrated by Mr. C. L. Daly with a revolver. The head of the group, Colonel Cody, is of course not satisfied with this yet. While riding full stride he shoots in the air and hits the flying glass balls with unerring accuracy. An admirable trick of his is the fact that he first grazes the balls without shattering them and then, in a second shot, hits them again. </p>
+      <p>The accomplishments of the Buffalo Bill troupe in the area of shooting are astounding also. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a"/>Miss Annie Oakley</span>, a child, not only electrifyingly shoots down glass balls thrown into the air with astounding accuracy; it does not seem to matter to her whether she does it from a normal shooting position or if she turns around and shoots over her shoulder while taking aim through a mirror. The same virtuosity is demonstrated by Mr. C. L. Daly with a revolver. The head of the group, Colonel Cody, is of course not satisfied with this yet. While riding full stride he shoots in the air and hits the flying glass balls with unerring accuracy. An admirable trick of his is the fact that he first grazes the balls without shattering them and then, in a second shot, hits them again. </p>
 
       <p>Buffalo Bill, the old scout, also hit the target by finding his way to Berlin. The Berlin audience will certainly frequent his show in great numbers. </p>
 
@@ -64,4 +65,3 @@
 
 
 </div>
-

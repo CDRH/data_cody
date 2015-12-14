@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>AROUND AN EAGLE FEATHER.</h3>
       <h3>A Token Which No Indian Warrior Touched Unless He Had Killed an Enemy.</h3>
@@ -16,4 +16,3 @@
 
 
 </div>
-

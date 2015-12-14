@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00537.001.jpg"
@@ -18,22 +18,21 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
 
-      <span class="dateline">Abberdeen- So Dak<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Abberdeen- So Dak<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
-Sep 6<a href="../doc/n02" class="internal_link">2</a>
+Sep 6<a href="#n02" class="internal_link">2</a>
       </span>
 
 
-      <span class="salute">Dear <span class="persName">Beck</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
 
-      <p>Your favor of Aug 31 pleases me— Yes we must surely have a directors<a href="../doc/" class="internal_link">3</a> meeting and see if we <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ get a <a rel="tooltip" class="sic" title="move​ ">moove</a>
-    ​ on them— I wish you would be prepared with some estimates and suggestions, George keep the water coming till it freezes up— I wrote <span class="persName">Schwoob</span> Cody Trading Co. Should build a big cistern— or the Town<a href="../doc/n05" class="internal_link">5</a> should chip in and build a big one— See if you <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ get them at it— Keep me posted about the hotel<a href="../doc/n06" class="internal_link">6</a>. I hope it will go through.</p>
+      <p>Your favor of Aug 31 pleases me— Yes we must surely have a directors<a href="#" class="internal_link">3</a> meeting and see if we <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> get a <a rel="tooltip" class="sic" title="move​ &#xA;    ">moove</a> on them— I wish you would be prepared with some estimates and suggestions, George keep the water coming till it freezes up— I wrote <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j"/>Schwoob</span> Cody Trading Co. Should build a big cistern— or the Town<a href="#n05" class="internal_link">5</a> should chip in and build a big one— See if you <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> get them at it— Keep me posted about the hotel<a href="#n06" class="internal_link">6</a>. I hope it will go through.</p>
 
       <span class="closer">
          <span class="salute">Yours</span>  
@@ -67,7 +66,9 @@ Sep 6<a href="../doc/n02" class="internal_link">2</a>
 
    <div class="note">Note 2: The year is not inscribed by Cody but is 1899.</div>
 
-   <div class="note">Note 3: The "directors" are the investors in Shoshone Irrigation Company, including <span class="persName">Rumsey</span>, <span class="persName">Gerrans</span>, and <span class="persName">Bleistein</span>.</div>
+   <div class="note">Note 3: The "directors" are the investors in Shoshone Irrigation Company, including <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>, <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>, and <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span>.</div>
 
 </div>
-

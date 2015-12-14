@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
 
       <h3>Nebraska Plainsman to the Nation, 1869-1883</h3>
@@ -24,4 +24,3 @@
 
 
 </div>
-

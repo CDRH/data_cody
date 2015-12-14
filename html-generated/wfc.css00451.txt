@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,18 +23,20 @@
          </div>
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
-      <span class="dateline">Patterson—<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Patterson—<a href="#n01" class="internal_link">1</a>
          <br/>
 
-Sep. 23<a href="../doc/n02" class="internal_link">2</a>
+Sep. 23<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
-      <p>I spent <a rel="tooltip" class="sic" title="yesterday​ ">yestarday</a>
-    ​ with <span class="persName">Salsbury</span> &amp; <span class="persName">Bleistein</span>. We are all coming out when I close. Do you think we can kill an Elk then or will the snow be to deep find out from the people ho the winters are Salsbury &amp; Bleistein say we ought to have in our contracts to parties who we sell Waterrights<a href="../doc/n03" class="internal_link">3</a> that they are to work so many days a year on roads. So we will have good <a rel="tooltip" class="sic" title="roads​ ">rods</a>
-    ​<a href="../doc/n04" class="internal_link">4</a>—</p>
+      <p>I spent <a rel="tooltip" class="sic" title="yesterday​ &#xA;    ">yestarday</a> with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span>. We are all coming out when I close. Do you think we can kill an Elk then or will the snow be to deep find out from the people ho the winters are Salsbury &amp; Bleistein say we ought to have in our contracts to parties who we sell Waterrights<a href="#n03" class="internal_link">3</a> that they are to work so many days a year on roads. So we will have good <a rel="tooltip" class="sic" title="roads​ &#xA;    ">rods</a>
+         <a href="#n04" class="internal_link">4</a>—</p>
 
       <p>
          <u>Write me</u>
@@ -58,4 +60,3 @@ Sep. 23<a href="../doc/n02" class="internal_link">2</a>
 
 
 </div>
-

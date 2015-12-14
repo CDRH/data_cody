@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,7 +20,7 @@
 
       <h3>GENERAL MENTION.</h3>
 
-      <p>The New York <em class="hi">Sun</em> says: "A report is in circulation that Mrs. Alice Shaw,<a href="../doc/n01" class="internal_link">1</a> the whistler, is to be married to the Hon. William F. Cody, better known as Buffalo Bill. Mr. Horton,<a href="../doc/n02" class="internal_link">2</a> Mrs. Shaw's father, said last night the report was untrue. 'Buffalo Bill,' said Mr. Horton, 'is an old friend of mine and of my family, but there is absolutely no ground for such an absurd story. Mrs. Shaw sailed for Liverpool on the 18th, and Buffalo Bill sailed from Manchester for this country soon after her arrival. They did not meet in England. They have not met for over a year.' Buffalo Bill, it may be added, is married. Mrs. Shaw is, too, but is suing for a divorce."</p>
+      <p>The New York <em class="hi">Sun</em> says: "A report is in circulation that Mrs. Alice Shaw,<a href="#n01" class="internal_link">1</a> the whistler, is to be married to the Hon. William F. Cody, better known as Buffalo Bill. Mr. Horton,<a href="#n02" class="internal_link">2</a> Mrs. Shaw's father, said last night the report was untrue. 'Buffalo Bill,' said Mr. Horton, 'is an old friend of mine and of my family, but there is absolutely no ground for such an absurd story. Mrs. Shaw sailed for Liverpool on the 18th, and Buffalo Bill sailed from Manchester for this country soon after her arrival. They did not meet in England. They have not met for over a year.' Buffalo Bill, it may be added, is married. Mrs. Shaw is, too, but is suing for a divorce."</p>
 
 
    </div>
@@ -33,4 +33,3 @@
 
 
 </div>
-

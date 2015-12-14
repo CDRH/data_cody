@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -27,7 +27,8 @@ Jno. M. Burke, General Manager.
       <span class="dateline">Brussels, May 8th 1891</span>
 
       <span class="salute">
-Capt. <span class="persName">Charles. G. Penney.</span>
+Capt. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/penney.c"/>Charles. G. Penney.</span>
          <br/>
 Acting U. S. Indian Agent.<br/>
 Pine Ridge Agency, S. D.<br/>
@@ -36,7 +37,7 @@ Dear Sir
 </span>
 
 
-      <p>Your letter to Col Cody is before me. And as the managing partner of the Col I make you the following statement which I hope will be a satisfactory answer to the question of Mr Herbert Welsh.<a href="../doc/n01" class="internal_link">1</a>
+      <p>Your letter to Col Cody is before me. And as the managing partner of the Col I make you the following statement which I hope will be a satisfactory answer to the question of Mr Herbert Welsh.<a href="#n01" class="internal_link">1</a>
       </p>
 
       <p>I find on a cursory examination of our books that we have paid to Sioux Indians since 1885 the sum of $74,300. This sum does not include the wages we have also paid to Pawnee and Omaha Indians who have been in our employ. nor does it include any part of the expense for their transportation and maintainance.</p>
@@ -60,7 +61,7 @@ Nate Salsbury, Vice-President and Director.<br/>
 Jno. M. Burke, General Manager.
 </div>
 
-      <p>I am sorry that no record has been kept of the money sent home by them. I am confident such a record would more than substantiate my estimate that at least one third of their wages have been sent back to the Reservation. Add to this, the sum that each man takes with him on discharge, and I am sure the aggregate will reach one half his wages. For example -- When the Indians left Pine Ridge this spring we became responsible for about $1,200 worth of goods which they purchased from Messrs Asay,<a href="../doc/n02" class="internal_link">2</a> Finlay,<a href="../doc/n03" class="internal_link">3</a> &amp; Dawson<a href="../doc/n04" class="internal_link">4</a> for distribution among their families. They have repaid this sum to us. They have sent $200 home, and they have credit with our Treasurer for $600 — These sums practically represent $2,000 saved by the Indians in about two months. A pretty good showing I think— to say nothing of the money they may have in their pockets.</p>
+      <p>I am sorry that no record has been kept of the money sent home by them. I am confident such a record would more than substantiate my estimate that at least one third of their wages have been sent back to the Reservation. Add to this, the sum that each man takes with him on discharge, and I am sure the aggregate will reach one half his wages. For example -- When the Indians left Pine Ridge this spring we became responsible for about $1,200 worth of goods which they purchased from Messrs Asay,<a href="#n02" class="internal_link">2</a> Finlay,<a href="#n03" class="internal_link">3</a> &amp; Dawson<a href="#n04" class="internal_link">4</a> for distribution among their families. They have repaid this sum to us. They have sent $200 home, and they have credit with our Treasurer for $600 — These sums practically represent $2,000 saved by the Indians in about two months. A pretty good showing I think— to say nothing of the money they may have in their pockets.</p>
 
       <p>We do not pretend to control the disposition of their wages. In the first place we have no shadow of a right to do so. In the next place we find that an Indian knows the value of a dollar
 
@@ -107,7 +108,7 @@ get all that belongs to them. Some of them going so far as to enquire the rate o
 
       <p>In conclusion sir, I am at your service regarding any information specific or otherwise, that you may desire to have about our Indians. Your letter betrays a keener knowledge of Indian character than I have ever known to be expressed in so few words.</p>
 
-      <p>Any real friend of the Indians in our employ, can have any information he desires regarding them. We only resent the impertinence and abuse of people who know no more about the real character of an Indian than they do about a degraded Hottentot.<a href="../doc/n05" class="internal_link">5</a>
+      <p>Any real friend of the Indians in our employ, can have any information he desires regarding them. We only resent the impertinence and abuse of people who know no more about the real character of an Indian than they do about a degraded Hottentot.<a href="#n05" class="internal_link">5</a>
       </p>
 
       <span class="closer">
@@ -143,4 +144,3 @@ Buffalo Bill's Wild West Co—
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,7 +19,7 @@
       <h6 class="fw">The Sporting Chronicle.</h6>
       <h6 class="fw">THURSDAY, MAY 3, 1888.</h6>
 
-      <p>SALE OF BUFFALO BILL'S STOCK.—Yesterday forenoon a sale of the surplus stock of animals belonging to the "Wild West" Show took place at the Manchester Racecourse, when there was a good attendance of buyers and spectators. Mr. Cross,<a href="../doc/n01" class="internal_link">1</a> the well-known Liverpool naturalist, was present and secured the principal wild animals. A large buffalo was knocked down to him for £101, after some spirited bidding; and he also secured three elks for £19, £27, and £26 respectively. The well-known circus proprietors, Messrs. Sanger,<a href="../doc/n02" class="internal_link">2</a> were also represented, and to them went a pair of grey mules for £31, a she elk for £21, two American deer for £10, a pair of reindeer, with sledge and harness, for £40; besides several horses. A pair of splendid carriage horses were bought by Mr. Goodall,<a href="../doc/n03" class="internal_link">3</a> of Altrincham, for £80; and a bear fell to Mr. Cross for £20. For the remainder of the horses and ponies the prices reached from £5 10s. to £24 10s.</p>
+      <p>SALE OF BUFFALO BILL'S STOCK.—Yesterday forenoon a sale of the surplus stock of animals belonging to the "Wild West" Show took place at the Manchester Racecourse, when there was a good attendance of buyers and spectators. Mr. Cross,<a href="#n01" class="internal_link">1</a> the well-known Liverpool naturalist, was present and secured the principal wild animals. A large buffalo was knocked down to him for £101, after some spirited bidding; and he also secured three elks for £19, £27, and £26 respectively. The well-known circus proprietors, Messrs. Sanger,<a href="#n02" class="internal_link">2</a> were also represented, and to them went a pair of grey mules for £31, a she elk for £21, two American deer for £10, a pair of reindeer, with sledge and harness, for £40; besides several horses. A pair of splendid carriage horses were bought by Mr. Goodall,<a href="#n03" class="internal_link">3</a> of Altrincham, for £80; and a bear fell to Mr. Cross for £20. For the remainder of the horses and ponies the prices reached from £5 10s. to £24 10s.</p>
 
 
    </div>
@@ -33,4 +33,3 @@
    <div class="note">Note 3: Mr. B. Goodall, a noted horse breeder of Altrincham, England, who challenged Buffalo Bill's mustangs in a horse race. The mustangs won the race.</div>
 
 </div>
-

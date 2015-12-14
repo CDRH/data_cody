@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="historiography ">
+   <div class="historiography">
 
 
       <h3>Historiography</h3>
@@ -120,4 +120,3 @@
 
 
 </div>
-

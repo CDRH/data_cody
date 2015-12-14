@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,15 +21,15 @@
 
       <span class="dateline">Columbia S. C.
 
-Oct- 26th 01<a href="../doc/n01" class="internal_link">1</a>
+Oct- 26th 01<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear Hinkle</span>
 
 
-      <p>Yours to hand I will take good care of the papers you sent and return them<a href="../doc/n02" class="internal_link">2</a>— I will be in Cody- Nov- 12th- Will leave Cody for a hunt Nov 14 be gone two weeks then— I will be at or near Cody through dec—</p>
+      <p>Yours to hand I will take good care of the papers you sent and return them<a href="#n02" class="internal_link">2</a>— I will be in Cody- Nov- 12th- Will leave Cody for a hunt Nov 14 be gone two weeks then— I will be at or near Cody through dec—</p>
 
-      <p>Come &amp; See me<a href="../doc/n03" class="internal_link">3</a>
+      <p>Come &amp; See me<a href="#n03" class="internal_link">3</a>
       </p>
 
       <span class="closer">
@@ -48,4 +48,3 @@ Oct- 26th 01<a href="../doc/n01" class="internal_link">1</a>
    <div class="note">Note 3: Another letter from William F. Cody to Hinkle, also dated October 26, 1901, includes an invitation for Hinkle to join Cody on this hunting trip.  Buffalo Bill's Wild West gave its last performance of the 1901 season on October 28.  Cody often came to the Big Horn Basin for hunting trips at the conclusion of the show season.</div>
 
 </div>
-

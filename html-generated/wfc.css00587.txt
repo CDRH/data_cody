@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00587.jpg"
@@ -19,18 +19,20 @@
 
 
 
-      <span class="dateline">April 2, 1902<a href="../doc/" class="internal_link">1</a>
+      <span class="dateline">April 2, 1902<a href="#" class="internal_link">1</a>
       </span> 
 
 
-      <span class="persName">H. C. Alger</span> Esq<a href="../doc/n02" class="internal_link">2</a>
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>H. C. Alger</span> Esq<a href="#n02" class="internal_link">2</a>
 Sheridan Wyo.
 
 
 <span class="salute">Dear Sir</span>
 
 
-      <p>At a meeting of the Board of Directors of the Shoshone Irrigation Co held April 1st 1902 at the Hoffman House, City of New York, <span class="persName">Mr. George T. Beck</span> was elected Treasurer of the Company for the next ensuing year. We therefore request you as former Treasurer to deliver to Mr. Beck, all books records papers, contracts monies and other property of the company in your possession.</p>
+      <p>At a meeting of the Board of Directors of the Shoshone Irrigation Co held April 1st 1902 at the Hoffman House, City of New York, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Mr. George T. Beck</span> was elected Treasurer of the Company for the next ensuing year. We therefore request you as former Treasurer to deliver to Mr. Beck, all books records papers, contracts monies and other property of the company in your possession.</p>
 
 
       <span class="closer">
@@ -51,4 +53,3 @@ President</span>
    <div class="note">Note 2: Letter is handwritten by clerk or William F. Cody assignee; "W. F. Cody" signature is Cody's.</div>
 
 </div>
-

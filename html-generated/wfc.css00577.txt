@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00577.jpg"
@@ -27,16 +27,18 @@
 
       <span class="ab">586.Ch.Up.On. 13 Paid. 124o Pm.</span>
 
-      <span class="ab">Ch., Philadelphia Pa.Apl.11-1896<a href="../doc/n01" class="internal_link">1</a>. </span>
+      <span class="ab">Ch., Philadelphia Pa.Apl.11-1896<a href="#n01" class="internal_link">1</a>. </span>
 
 
       <span class="ab">
-         <span class="persName">Geo.T. Beck</span>,<br/>McTagues Hotel<a href="../doc/" class="internal_link">2</a>,</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo.T. Beck</span>,<br/>McTagues Hotel<a href="#" class="internal_link">2</a>,</span>
 
       <span class="ab">Omaha Neb.</span>
 
 
-      <p>Think <span class="persName">Paxton</span> and Postmaster of Omaha<a href="../doc/n03" class="internal_link">3</a> will come in. See them, wire decision.</p>
+      <p>Think <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w"/>Paxton</span> and Postmaster of Omaha<a href="#n03" class="internal_link">3</a> will come in. See them, wire decision.</p>
 
       <span class="closer">
          <br/>Col.</span>
@@ -53,4 +55,3 @@
    <div class="note">Note 3: "Postmaster of Omaha" in 1896 was Euclid Martin.</div>
 
 </div>
-

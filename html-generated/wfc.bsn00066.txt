@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -37,12 +37,14 @@ J M Schwoob,
 Cody WYo
 
 
-<p>Draw on <span class="persName">Bleistein</span> for fifteen hundred  care of Hotel Iroquois which will enable you to take care of the draft</p>
+<p>Draw on <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> for fifteen hundred  care of Hotel Iroquois which will enable you to take care of the draft</p>
 
 
       <span class="closer">
          <br/>
-         <span class="persName">G M Gerrans</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.g"/>G M Gerrans</span>
 
          <span class="dateline">10'14am</span>
       </span>
@@ -51,4 +53,3 @@ Cody WYo
 
 
 </div>
-

@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>BUFFALO BILL'S INDIANS HERE</h3>
       <h3>Come from Rosebud and Pine Ridge for the Wild West Show.</h3>
@@ -16,4 +16,3 @@
 
 
 </div>
-

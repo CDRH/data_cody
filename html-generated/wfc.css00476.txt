@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -30,13 +30,15 @@
 
 
 
-      <span class="dateline">May 5th<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">May 5th<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My. Dear. <span class="persName">George</span>—</span>
+      <span class="salute">My. Dear. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
-      <p>I sent <span class="persName">Alger</span> $3000— A letter from him. Saying wants 5 to 6000 more for 10th pay day. I will have to do it all as I <a rel="tooltip" class="sic" title="believe​ ">beleive</a>
-    ​ others have got discouraged— as no water even to Sulphur creek yet— and can get no estimate on probable cost to finish up 25000 acre tract I admit I am getting discouraged my self— I have given up all hopes of your <u>ever</u> getting to Sulphur Creek<a href="../doc/n02" class="internal_link">2</a>— or getting an estimate on cost to finish— 25000 acres— Never heard if <span class="persName">Mead</span> went up with you. I thought if he went up there he would give us an estimate on something—</p>
+      <p>I sent <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> $3000— A letter from him. Saying wants 5 to 6000 more for 10th pay day. I will have to do it all as I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> others have got discouraged— as no water even to Sulphur creek yet— and can get no estimate on probable cost to finish up 25000 acre tract I admit I am getting discouraged my self— I have given up all hopes of your <u>ever</u> getting to Sulphur Creek<a href="#n02" class="internal_link">2</a>— or getting an estimate on cost to finish— 25000 acres— Never heard if <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e"/>Mead</span> went up with you. I thought if he went up there he would give us an estimate on something—</p>
 
       <p>I will have to do the putting up— and I know nothing of your expenses or what you are doing.</p>
 
@@ -52,4 +54,3 @@
    <div class="note">Note 2: "Sulphur Creek" is a natural streambed located west of Cody, Wyoming, flowing north toward the Shoshone River along the base of Cedar Mountain.</div>
 
 </div>
-

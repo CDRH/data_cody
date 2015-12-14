@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">The Denver Post
@@ -37,7 +37,7 @@ August 24th, 1913
     Sep 3, 1913
     <br/>
     106528
-To the Hon. Lindley M. Garrison <a href="../doc/n01" class="internal_link">1</a>
+To the Hon. Lindley M. Garrison <a href="#n01" class="internal_link">1</a>
 Secretary of War
 Fort Leavenworth, Kansas.
 
@@ -60,4 +60,3 @@ Fort Leavenworth, Kansas.
   <div class="note">Note 1: Lindley Miller Garrison (1864-1932), New Jersey lawyer, served as Secretary of War under President Woodrow Wilson between 1913 and 1916.</div>
 
 </div>
-

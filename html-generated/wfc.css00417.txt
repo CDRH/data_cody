@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="photograph ">
+   <div class="photograph">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00417.01.jpg"
@@ -20,7 +20,7 @@
       </div>
    </div>
 
-   <div class="letter doublespace ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00417.02.jpg"
@@ -45,22 +45,9 @@ Mr. H. H. Tammen
 
 
       <p>
-         <a rel="tooltip" class="sic" title="Enclose​ ">Inclose</a>
-    ​ a picture of three of the <a rel="tooltip" class="sic" title="original​ ">orignal</a>
-    ​ <a rel="tooltip" class="sic" title="Pony​ ">Ponney</a>
-    ​ Express riders Col Cody and two <a rel="tooltip" class="sic" title="more​ ">moor</a>
-    ​ <a rel="tooltip" class="sic" title="also​ ">allso</a>
-    ​ the spot in St. Joe Mo. <a rel="tooltip" class="sic" title="where​ ">whare</a>
-    ​ the first start was made<a rel="tooltip" class="sic" title=".​ "/>
-    ​ the grave you see is whare the first man to <a rel="tooltip" class="sic" title="carry​ ">carrey</a>
-    ​ the mail is buried<a rel="tooltip" class="sic" title=".​ "/>
-    ​ he started from the spot the monument is on<a rel="tooltip" class="sic" title=".​ "/>
-    ​ the one on the right of the Col. took the 2 relay &amp; the other on the left <a rel="tooltip" class="sic" title="also​ ">allso</a>
-    ​ was a carrier<a rel="tooltip" class="sic" title=".​ "/>
-    ​ this was taken in 1915<a rel="tooltip" class="sic" title=".​ "/>
-    ​ it is the only one I have<a rel="tooltip" class="sic" title=".​ "/>
-    ​ Please <a rel="tooltip" class="sic" title="send​ ">sent</a>
-    ​ it back</p>
+         <a rel="tooltip" class="sic" title="Enclose​ &#xA;    ">Inclose</a> a picture of three of the <a rel="tooltip" class="sic" title="original​ &#xA;    ">orignal</a> 
+         <a rel="tooltip" class="sic" title="Pony​ &#xA;    ">Ponney</a> Express riders Col Cody and two <a rel="tooltip" class="sic" title="more​ &#xA;    ">moor</a> 
+         <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> the spot in St. Joe Mo. <a rel="tooltip" class="sic" title="where​ &#xA;    ">whare</a> the first start was made<a rel="tooltip" class="sic" title=".​ &#xA;    "/> the grave you see is whare the first man to <a rel="tooltip" class="sic" title="carry​ &#xA;    ">carrey</a> the mail is buried<a rel="tooltip" class="sic" title=".​ &#xA;    "/> he started from the spot the monument is on<a rel="tooltip" class="sic" title=".​ &#xA;    "/> the one on the right of the Col. took the 2 relay &amp; the other on the left <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> was a carrier<a rel="tooltip" class="sic" title=".​ &#xA;    "/> this was taken in 1915<a rel="tooltip" class="sic" title=".​ &#xA;    "/> it is the only one I have<a rel="tooltip" class="sic" title=".​ &#xA;    "/> Please <a rel="tooltip" class="sic" title="send​ &#xA;    ">sent</a> it back</p>
 
       <span class="closer">
          <span class="salute">Best regards to you and yours</span>
@@ -77,4 +64,3 @@ Mr. H. H. Tammen
 
 
 </div>
-

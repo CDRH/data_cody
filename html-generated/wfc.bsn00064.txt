@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -29,7 +29,8 @@
       <span class="dateline">Buffalo NY Aug 1 1913</span>
 
 
-      <span class="persName">J M Schwoob</span>,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/schwoob.j"/>J M Schwoob</span>,
 
 Cody Trading Co
 
@@ -37,12 +38,14 @@ Cody WYo
 
 
 <p>
-         <span class="persName">Bleistein</span> has drawn on you for twenty five hundred dollars take care of it temporarily</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> has drawn on you for twenty five hundred dollars take care of it temporarily</p>
 
 
       <span class="closer">
          <br/>
-         <span class="persName">H M Gerrans</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H M Gerrans</span>
 
 
          <span class="dateline">2:27P</span>
@@ -52,4 +55,3 @@ Cody WYo
 
 
 </div>
-

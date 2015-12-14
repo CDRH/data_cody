@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -28,19 +28,19 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">Springfield. O<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Springfield. O<a href="#n01" class="internal_link">1</a>
          <br/>
 
 July 7<u>th</u> 96 </span>
 
-My Dear <span class="persName">Beck</span>—
+My Dear <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—
 
-<p>I dont know whether I am doing this right or not or whether you can understand it. So I want you to answer me at once and let me know. If I am wrong I will correct it. Annother thing I fear without you have a good functional reliable man to handle the sales of water rights Lots &amp;c— Our co sooner or later will have trouble on their hands that they cannot say <a rel="tooltip" class="sic" title="let's​ ">lets</a>
-    ​ pocket the losses and let it go. But it will involve not only our company into endless trouble but the purchaser and the state, and <a rel="tooltip" class="sic" title="finally​ ">finaly</a>
-    ​ the government— So I wish you would please let me know who has charge of this department.</p>
+<p>I dont know whether I am doing this right or not or whether you can understand it. So I want you to answer me at once and let me know. If I am wrong I will correct it. Annother thing I fear without you have a good functional reliable man to handle the sales of water rights Lots &amp;c— Our co sooner or later will have trouble on their hands that they cannot say <a rel="tooltip" class="sic" title="let's​ &#xA;    ">lets</a> pocket the losses and let it go. But it will involve not only our company into endless trouble but the purchaser and the state, and <a rel="tooltip" class="sic" title="finally​ &#xA;    ">finaly</a> the government— So I wish you would please let me know who has charge of this department.</p>
 
       <p>Now as <u>
-            <span class="persName">Alger</span>
+            <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span>
          </u> is in the Basin— I send you $500 payable to him. Now please be careful and understand &amp; make no mistake
 
 
@@ -69,15 +69,17 @@ My Dear <span class="persName">Beck</span>—
 
 and if I am wrong correct me—</p>
 
-      <p>William Sweeny<a href="../doc/n02" class="internal_link">2</a> $200.— to pay on his $160. first payment and <del>$1</del> of $160. and $40 to go to the state. George. Berch<a href="../doc/n03" class="internal_link">3</a>— $200. same as Sweeney.</p>
+      <p>William Sweeny<a href="#n02" class="internal_link">2</a> $200.— to pay on his $160. first payment and <del>$1</del> of $160. and $40 to go to the state. George. Berch<a href="#n03" class="internal_link">3</a>— $200. same as Sweeney.</p>
 
-      <p>The $100 check is to pay the State charges on the lands of William Snyder<a href="../doc/n04" class="internal_link">4</a> 
-         <span class="persName">Louis H. Baker</span>. each 160 acres $40 each— and $20 to pay on M. F. Polhamus<a href="../doc/n05" class="internal_link">5</a> 80 acres— The $160 each from Snyder &amp; Baker and the $80 Polhamus charge to me <u>
-            <a rel="tooltip" class="sic" title="personally​ ">personaly</a>
-    ​</u>. as the company owe me they can give me credit for it. And I will take chances on collecting it from Snyder Baker Polhamus.</p>
+      <p>The $100 check is to pay the State charges on the lands of William Snyder<a href="#n04" class="internal_link">4</a> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/baker.l"/>Louis H. Baker</span>. each 160 acres $40 each— and $20 to pay on M. F. Polhamus<a href="#n05" class="internal_link">5</a> 80 acres— The $160 each from Snyder &amp; Baker and the $80 Polhamus charge to me <u>
+            <a rel="tooltip" class="sic" title="personally​ &#xA;    ">personaly</a>
+         </u>. as the company owe me they can give me credit for it. And I will take chances on collecting it from Snyder Baker Polhamus.</p>
 
-      <p>Now as I wrote you as <span class="persName">E. R. Goodman</span>
-         <a href="../doc/n06" class="internal_link">6</a> is to act as Agent for these parties he expects the 10% commission but should not receive but 5% out of first payment. The Snyder. Baker &amp; Polhamus commission. I will pay him for. So you can charge me up with half what their first payment on water rights come to— And I will pay Goodmans
+      <p>Now as I wrote you as <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/goodman.e"/>E. R. Goodman</span>
+         <a href="#n06" class="internal_link">6</a> is to act as Agent for these parties he expects the 10% commission but should not receive but 5% out of first payment. The Snyder. Baker &amp; Polhamus commission. I will pay him for. So you can charge me up with half what their first payment on water rights come to— And I will pay Goodmans
 
 
 <span class="hr"> </span>
@@ -115,11 +117,9 @@ commission to him. he can give receipt for same.</p>
          <br/>W. F. Cody</span>
 
 
-      <p>P.S. Please show this to any of the company who are there. if <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ not right I will correct it—</p>
+      <p>P.S. Please show this to any of the company who are there. if <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> not right I will correct it—</p>
 
-      <p>I sent H. C. Alger Treasurer $3000 to day as per his telegram of <a rel="tooltip" class="sic" title="yesterday​ ">yestarday</a>
-    ​—</p>
+      <p>I sent H. C. Alger Treasurer $3000 to day as per his telegram of <a rel="tooltip" class="sic" title="yesterday​ &#xA;    ">yestarday</a>—</p>
 
 
       <span class="closer">
@@ -142,4 +142,3 @@ commission to him. he can give receipt for same.</p>
    <div class="note">Note 6: Edward R. Goodman was the agent for the members of Buffalo Bill's Wild West for whom Cody was reserving land parcels.</div>
 
 </div>
-

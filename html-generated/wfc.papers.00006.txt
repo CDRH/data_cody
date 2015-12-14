@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
 
       <h3>The William F. Cody Archive</h3>
@@ -28,4 +28,3 @@ University of Nebraska-Lincoln, Lincoln, Nebraska, March 28-30, 2012</h3>
 
 
 </div>
-

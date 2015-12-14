@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,14 +19,15 @@
 
 
       <span class="dateline">Walla. Walla Wash
-Aug. 21st 1902<a href="../doc/n01" class="internal_link">1</a>
+Aug. 21st 1902<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My. Dear Mr <span class="persName">Woods</span>
+      <span class="salute">My. Dear Mr <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Woods</span>
       </span>
 
 
-      <p>Mr Martin writes me there has been trouble at the hotel.<a href="../doc/n02" class="internal_link">2</a> Men quitting and fighting because the non arrival of Mr Harry Stevens—<a href="../doc/n03" class="internal_link">3</a> I have wired you twice without an answer. Whats the matter what am I to expect.</p>
+      <p>Mr Martin writes me there has been trouble at the hotel.<a href="#n02" class="internal_link">2</a> Men quitting and fighting because the non arrival of Mr Harry Stevens—<a href="#n03" class="internal_link">3</a> I have wired you twice without an answer. Whats the matter what am I to expect.</p>
 
       <p>Will you let me hear from you? Is Stevens going to finish his contract if so when?</p>
 
@@ -52,7 +53,7 @@ Aug. 21st 1902<a href="../doc/n01" class="internal_link">1</a>
 
 
    </div>
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -96,4 +97,3 @@ Nebr
    <div class="note">Note 3: "Harry Stevens" was actually Henry A. Stephens, an owner of the Stephens Bros. construction firm, then located at 2418 N Street in Lincoln, Nebraska. On August 16, 1902, the  <em class="hi">Lincoln Trade Review</em> reported that Stephens Bros. was the general contractor for William F. Cody's Irma Hotel in Cody, Wyoming.</div>
 
 </div>
-

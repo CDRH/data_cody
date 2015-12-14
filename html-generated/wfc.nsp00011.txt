@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>INDIANS WELL TREATED.</h3>
 
@@ -15,4 +15,3 @@
 
 
 </div>
-

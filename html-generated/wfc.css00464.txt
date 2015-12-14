@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,17 +25,16 @@
 
 
 
-      <span class="dateline">Billings, Montana, Mar. 10th 1896<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Billings, Montana, Mar. 10th 1896<a href="#n01" class="internal_link">1</a>
       </span>
 
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
 
-      <p>I will be down tomorrow and will have much to say to you regarding our <u>co</u>. As you left so <a rel="tooltip" class="sic" title="suddenly​ ">suddently</a>
-    ​ I felt sure matters of importance had been neglected. So I pulled my self together And went back to Marquette with a clear head. And found as I feared, that nothing was being done on business principles. And so I took charge and let Peterson<a href="../doc/n02" class="internal_link">2</a> a mile of that hardest work. brought the <a rel="tooltip" class="sic" title="teams​ ">teems</a>
-    ​ in from the Logging camp put all teams to work I could get a hold of— as Hans<a href="../doc/n03" class="internal_link">3</a> had one six mule plow to work and just <u>one</u> Scraper— Found nothing in order No harness in repair No double trees. Nothing to work with. Every thing laying around loose. I am about through with Mr Flood<a href="../doc/n04" class="internal_link">4</a>— will See you tomorrow. and talk it over—</p>
+      <p>I will be down tomorrow and will have much to say to you regarding our <u>co</u>. As you left so <a rel="tooltip" class="sic" title="suddenly​ &#xA;    ">suddently</a> I felt sure matters of importance had been neglected. So I pulled my self together And went back to Marquette with a clear head. And found as I feared, that nothing was being done on business principles. And so I took charge and let Peterson<a href="#n02" class="internal_link">2</a> a mile of that hardest work. brought the <a rel="tooltip" class="sic" title="teams​ &#xA;    ">teems</a> in from the Logging camp put all teams to work I could get a hold of— as Hans<a href="#n03" class="internal_link">3</a> had one six mule plow to work and just <u>one</u> Scraper— Found nothing in order No harness in repair No double trees. Nothing to work with. Every thing laying around loose. I am about through with Mr Flood<a href="#n04" class="internal_link">4</a>— will See you tomorrow. and talk it over—</p>
       <span class="closer">
          <span class="salute">Yours as ever—</span>
 
@@ -55,4 +54,3 @@
    <div class="note">Note 4: "Flood" is likely "D. P. Flood" who corresponded with Beck in 1896 and is mentioned by Cody in 1896 letters to Beck. Cody writes directly to Flood on May 22, 1896 (CSS00485) regarding poor treatment of Cody's livestock. Flood's association with Cody is not fully known, but Cody states he is "...about through with Mr. Flood."</div>
 
 </div>
-

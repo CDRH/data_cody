@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -18,14 +18,14 @@
 
       <div class="note">The Cataract.<br/>Fred H. Synder.<br/>Sioux Falls, South Dakota.</div>
 
-      <span class="dateline">Sep. 20 1896<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Sep. 20 1896<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
-      <p>If you hear what the Northern Pacific R.R. Officials done about building a branch to Bear Creek coal fields<a href="../doc/n02" class="internal_link">2</a> let me— If they commence to build. I understand <del>that</del> from good authority that the B &amp; M.<a href="../doc/n03" class="internal_link">3</a> will also. This I got at St Paul from a way up Burlington RR<a href="../doc/n04" class="internal_link">4</a> official. Let Charley Trego<a href="../doc/n05" class="internal_link">5</a> know at once if you want me to take the Hotel<a href="../doc/n06" class="internal_link">6</a>— If so the Building should be put in good s<del>p</del>hape— made warm— Offering to donate lots &amp; Park &amp; $5000 building ought to be a body blow to the other Towns And if you can get a <a rel="tooltip" class="sic" title="copy​ ">coppy</a>
-    ​ of that into the hands of every voter which you can do— and get some good talkers out among them you ought to land the seat
+      <p>If you hear what the Northern Pacific R.R. Officials done about building a branch to Bear Creek coal fields<a href="#n02" class="internal_link">2</a> let me— If they commence to build. I understand <del>that</del> from good authority that the B &amp; M.<a href="#n03" class="internal_link">3</a> will also. This I got at St Paul from a way up Burlington RR<a href="#n04" class="internal_link">4</a> official. Let Charley Trego<a href="#n05" class="internal_link">5</a> know at once if you want me to take the Hotel<a href="#n06" class="internal_link">6</a>— If so the Building should be put in good s<del>p</del>hape— made warm— Offering to donate lots &amp; Park &amp; $5000 building ought to be a body blow to the other Towns And if you can get a <a rel="tooltip" class="sic" title="copy​ &#xA;    ">coppy</a> of that into the hands of every voter which you can do— and get some good talkers out among them you ought to land the seat
 
 
 <span class="hr"> </span>
@@ -40,9 +40,7 @@
 
          <div class="note">The Cataract.<br/>Fred H. Synder.<br/>Sioux Falls, South Dakota. ________ 189__</div>
 
-and if you do land the seat The company should acknowledge your valuable services. I wish I was there to help you. We would drive all the horses to death seeing the voters. I am as much <a rel="tooltip" class="sic" title="interested​ ">interrested</a>
-    ​ in that Election as I am in the <a rel="tooltip" class="sic" title="Presidential​ ">Presedential</a>
-    ​ Election— If by hiring a <del>a</del> good man or <del>tor</del> two to work among the people it will help you do so. I will see that they get their pay. Keep the thing red hot and win if possible</p>
+and if you do land the seat The company should acknowledge your valuable services. I wish I was there to help you. We would drive all the horses to death seeing the voters. I am as much <a rel="tooltip" class="sic" title="interested​ &#xA;    ">interrested</a> in that Election as I am in the <a rel="tooltip" class="sic" title="Presidential​ &#xA;    ">Presedential</a> Election— If by hiring a <del>a</del> good man or <del>tor</del> two to work among the people it will help you do so. I will see that they get their pay. Keep the thing red hot and win if possible</p>
 
       <span class="closer">
          <span class="salute">Yours</span>
@@ -66,4 +64,3 @@ and if you do land the seat The company should acknowledge your valuable service
    <div class="note">Note 6: "Take the Hotel" instructs Beck to use Cody's offer to build a hotel to secure Cody, Wyoming, as the county seat.</div>
 
 </div>
-

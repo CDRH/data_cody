@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -24,12 +24,14 @@ Long Branch, NJ
 <span class="dateline">June 18<u>th</u> /06</span>
 
 
-      <span class="persName">Mr Bronson Rumsey</span>
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr Bronson Rumsey</span>
 
 
       <span class="salute">My dear Sir,</span>
 
-      <p>I herewith acknowledge receipt of check for $1000—. which I send in <span class="persName">Mr Bleistein's</span> care not having your present address. Thanking you for same I am very truly yours</p>
+      <p>I herewith acknowledge receipt of check for $1000—. which I send in <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Mr Bleistein's</span> care not having your present address. Thanking you for same I am very truly yours</p>
 
 
       <span class="closer">
@@ -62,7 +64,7 @@ Wyo.</div>
 
 
 
-   <div class=" doublespace ">
+   <div class="">
       <span class="ab">Mrs. Salsbury</span>
       <span class="ab">______________</span>
 
@@ -77,4 +79,3 @@ Wyo.</div>
 
 
 </div>
-

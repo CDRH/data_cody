@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -24,8 +24,9 @@
       <div class="milestone line"> </div>
       <h3>Flat Iron, Brave Bird and Little Money Went to Abbey's on Friday. Their Quaint Comments on the Performance.</h3>
 
-      <div class=" ">
-         <p>Maza-ba-las-ka (Flat Iron), an Ogallalla Sioux, the crier or orator of his tribe; Zit-ka-la O-hi-taka (Brave Bird), a Brule Sioux, son of Iron Heel, the famous fighting chief, and the six-year-old papoose of Brave Bird, attended the performance of "Cinderella," at Abbey's Theatre last night. They were accompanied by <span class="persName">George C. Crager,</span> the government interpreter, and the representative of the MAIL AND EXPRESS.</p>
+      <div class="">
+         <p>Maza-ba-las-ka (Flat Iron), an Ogallalla Sioux, the crier or orator of his tribe; Zit-ka-la O-hi-taka (Brave Bird), a Brule Sioux, son of Iron Heel, the famous fighting chief, and the six-year-old papoose of Brave Bird, attended the performance of "Cinderella," at Abbey's Theatre last night. They were accompanied by <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/crager.g"/>George C. Crager,</span> the government interpreter, and the representative of the MAIL AND EXPRESS.</p>
 
          <p>Flat Iron is 66 years of age. He never saw a railroad train until two years ago. He never before saw the interior of an entertainment hall or theatre. His knowledge of the English language is confined to one word—"Good." Brave Bird is 34 years old. His first ride in a railroad train was three months ago, and on Friday afternoon he put his moccasined foot for the first time on board a steamboat. Like Flat Iron he had never before seen the inside of a theatre, and had no conception of a stage or its accesories.</p>
 
@@ -34,7 +35,7 @@
          <p>Col. William F. Cody is under bond to the United States Government for the safe keeping of the Indians from the several Agencies, and now on leave of absence to take part in the Wild West Show, and it was only after he had fully assured himself that his charges would be properly taken of, and not permitted to commit any act that would vitiate his contract, that he permitted them to go out of his custody. Manager McVicker provided a balcony box where an excellent view of the performance might be had, and it is safe to say that more attentive or more astonished spectators never sat in it.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>ON THE WAY TO THE THEATRE.</h4>
 
          <p>It was originally intended to bring the Indians from the show grounds, Thirty-ninth street, Brooklyn, to New York in a carriage, but they asked to go on the boat and then to ride in the cars that "go without horses." In spite of the drizzling rain, they sat on the deck all the way over to the Battery so they could see the river craft. The son of Iron Heel had very little to say. His face very rarely changed expression. Old Flat Iron was voluble, and commented freely on everything he saw.</p>
@@ -46,7 +47,7 @@
          <p>"That rag has gone up into the sky."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>THE PLAY.</h4>
 
          <p>The red men were given places in the box where they could see everything. The interpreter sat between them, so that he could hear their comments and translate them for the benefit of the MAIL AND EXPRESS representative, who sat back of his chair. Brave Bird looked first at the moving figures on the stage. Then, with a quick glance, his eyes took in the tier of galleries. After that he became motionless, and remained in one position throughout the performance. During intermission he gave vent to several grunts and said "Wishtah!" (good) two or three times. Flat Iron was in marked contrast. His face became a study the moment he got in his chair. First he looked at the stage. His lips were parted, and his beadlike eyes were popping out as far as beady eyes could pop. He turned to Crager and patted him on the knee, as though to make sure he was not dreaming. Then he leaned over and looked at the people in the auditorium, His eyes sought the stage again, and he gave utterance to a sound not unlike the Scotchman's "Tut, tut." The old fellow rubbed his chin. He clasped and unclasped his hands. Metaphorically he hugged himself. Pointing to the Grand Chamberlain, he said: "Look at that old man. Why is he so proud?"</p>
@@ -67,7 +68,7 @@
          <p>When the big eggs opened and the fairies stepped out, Flat Iron held up two fingers. "Two," he said, "but they are not chickens. Those eggs are too big."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h4>PRACTICAL COMMENTS.</h4>
          <p>Again his mind reverted to the tinsel scintillating in the electric light, and he repeated that it must have all come from the Black Hills. He wanted to know how long it took to build in the theatre and how much it cost. For ten minutes he remained quiet. Turning suddenly to Crager, he asked:</p>
@@ -96,7 +97,7 @@
          <p>Pedro, the Baron's servant, wears a red wig. "Look," said Flat Iron, "that looks like Red Dog. He was a bad Indian."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>PLEASED BY THE BLACK CAT.</h4>
 
          <p>In the scene where Cinderella is discovered seated at the fireplace with the pot boiling over the glowing coals the painted critic remarked that the cook was not attending to her business. The loud "me-ou-uw" that preceded the entrance of the Black Cat caused both Indians to exclaim simultaneously "A cat!" Flat Iron laughed outright when Mr. Abrahams, in his grotesque make-up, leaped on the stage. Even Brave Bird allowed his features to relax for a moment. The cat hadn't been on the stage five seconds before Flat Iron called attention to the feet of the hind legs.</p>
@@ -117,7 +118,7 @@
 
          <p>"The rag has fallen out of the sky."</p>
 
-         <span class="byline">VINCENT S. COOKE.<a href="../doc/n01" class="internal_link">1</a>
+         <span class="byline">VINCENT S. COOKE.<a href="#n01" class="internal_link">1</a>
          </span>
       </div>
 
@@ -130,4 +131,3 @@
    </div>
 
 </div>
-

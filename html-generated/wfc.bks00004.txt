@@ -15,7 +15,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>Colonel W. F. Cody and Colonel Henry Inman.</p>
@@ -92,7 +92,7 @@ Topeka.</div>
          </a>
       </span>
 
-      <div class=" doublespace ">
+      <div class="">
          <h3>PREFACE.</h3>
 
          <p>There are seven historic trails crossing the great plains of the
@@ -166,7 +166,7 @@ the adventures which marked the long and weary march.</p>
          </a>
       </span>
 
-      <div class=" doublespace ">
+      <div class="">
 
 
          <h3>CONTENTS.</h3>
@@ -422,7 +422,7 @@ Location of the Military Post of D. A. Russell and the Town of Cheyenne
 
 
 
-   <div class="chapter ">
+   <div class="chapter">
       <h3>The Great Salt Lake Trail</h3>
 
       <h3>CHAPTER I.</h3>
@@ -520,13 +520,13 @@ villages established by the original French colonists of the region
 then known as the Province of Louisiana, they met the celebrated
 Daniel Boone, who was then in his eighty-fifth year, and the next
 morning they were visited by John Coulter, who had been with Lewis and
-Clarke on their memorable expedition eight years previously.<a href="../doc/n001" class="internal_link">[1]</a>
+Clarke on their memorable expedition eight years previously.<a href="#n001" class="internal_link">[1]</a>
 Since the return of Lewis and Clarke's expedition, Coulter had made
 a wonderful journey on his own account. He floated down the whole
 length of the Missouri River in a small canoe, accomplishing the
 passage of three thousand miles in a month.</p>
 
-      <p>On the 8th of April Hunt's party came in sight of Fort Osage,<a href="../doc/n002" class="internal_link">[2]</a>
+      <p>On the 8th of April Hunt's party came in sight of Fort Osage,<a href="#n002" class="internal_link">[2]</a>
 where they remained for three days, and were delightfully entertained
 by the officers of the garrison. On the 10th they again embarked and
 ascended the Missouri. On the 28th the party landed at the mouth
@@ -566,7 +566,7 @@ was filled with perils, and he was selected for the dangerous duty
 on account of his nerve and strength. He was a young man, and although
 he had never crossed the Rocky Mountains, he had already given proofs,
 on other perilous expeditions, of his competence for the new duty.
-His companions were Ben Jones and John Day,<a href="../doc/n003" class="internal_link">[3]</a> both Kentuckians,
+His companions were Ben Jones and John Day,<a href="#n003" class="internal_link">[3]</a> both Kentuckians,
 two Canadians, and some others who had become tired of the wild life,
 and had determined to go back to civilization.</p>
 
@@ -1310,7 +1310,7 @@ base, to their great joy, they discovered an abundant stream,
 running between willowed banks. Here they halted for the night.
 Ben Jones having luckily trapped a beaver and killed two buffalo bulls,
 they remained there the next day, feasting, reposing, and allowing
-their jaded horse to rest from his labours.<a href="../doc/n004" class="internal_link">[4]</a>
+their jaded horse to rest from his labours.<a href="#n004" class="internal_link">[4]</a>
       </p>
 
       <p>Pursuing the course of this stream for about twenty miles, they came
@@ -1775,7 +1775,7 @@ merely for their hides, wherewith to make a shelter for the night.</p>
       <p>They journeyed on for about a hundred miles, and the first landmark
 by which they were able to conjecture their position with any degree
 of confidence was an island about seventy miles in length, which they
-presumed to be <em class="hi">Le Grande Isle</em>.<a href="../doc/n005" class="internal_link">[5]</a> They now knew that they were not
+presumed to be <em class="hi">Le Grande Isle</em>.<a href="#n005" class="internal_link">[5]</a> They now knew that they were not
 a very great distance from the Missouri River, if their presumption
 was correct. They went on, therefore, with renewed hope, and on the
 evening of the third day met an Otoe Indian, who informed them they
@@ -1808,7 +1808,7 @@ Fort Osage, where they were again received hospitably by the officers
 of the garrison, and where they enjoyed that luxury, bread, which
 they had not tasted for over a year. Reembarking, they arrived
 in St. Louis on the 30th of April, without experiencing any further
-adventure worthy of note.<a href="../doc/n006" class="internal_link">[6]</a>
+adventure worthy of note.<a href="#n006" class="internal_link">[6]</a>
       </p>
 
       <div class="inline_figure">
@@ -1827,7 +1827,7 @@ adventure worthy of note.<a href="../doc/n006" class="internal_link">[6]</a>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER II.</h3>
 
@@ -2358,7 +2358,7 @@ before them. They were determined to know positively, so they
 approached the spot very cautiously, with their fingers on the
 triggers of their rifles, ready to repel an attack. When they had
 approached sufficiently near, they saw that the horse was carefully
-fastened to the brush, and a short distance away was Carson<a href="../doc/n007" class="internal_link">[7]</a>
+fastened to the brush, and a short distance away was Carson<a href="#n007" class="internal_link">[7]</a>
 lying down with his head resting on the saddle! At first the men
 thought him dead, but found out that he was only in a profound sleep,
 indeed, really enjoying the most delightful dreams. When they aroused
@@ -2489,7 +2489,7 @@ sick man, who was lying on his blankets in a dying condition.
 They gathered some roots from the prairie, and assured the captain
 that if the man would take them he would certainly recover; they also
 urged their manner of sweating and bathing, but the appliances were
-not at hand, so the advice had to be declined.<a href="../doc/n008" class="internal_link">[8]</a>
+not at hand, so the advice had to be declined.<a href="#n008" class="internal_link">[8]</a>
       </p>
 
       <p>That evening the sick man died; an event that was looked for, but
@@ -3086,7 +3086,7 @@ the fellow, suspecting that his character was not good, but it was
 a difficult matter to induce men to join an expedition fraught with
 so much daring and danger. So the refugee was dropped among the Crows,
 whose habits of life were much more congenial to the feelings of
-such a man than the restraints of civilization.<a href="../doc/n009" class="internal_link">[9]</a>
+such a man than the restraints of civilization.<a href="#n009" class="internal_link">[9]</a>
       </p>
 
 
@@ -3220,7 +3220,7 @@ finally reached the great Arkansas Valley in safety.</p>
    </span>
 
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER III.</h3>
 
       <h3>GENERAL W.H. ASHLEY'S TRAPPING EXPEDITION—JIM BECKWOURTH'S STORY—TWO AXE—KILL FOURTEEN HUNDRED BUFFALOES—
@@ -4093,7 +4093,7 @@ met with very great success."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER IV.</h3>
 
@@ -4111,7 +4111,7 @@ WIND RIVER MOUNTAINS</h3>
          <p>A Coyote</p>
       </div>
 
-      <p>IN 1832 Captain William Sublette,<a href="../doc/n010" class="internal_link">[10]</a> a partner in the Rocky Mountain
+      <p>IN 1832 Captain William Sublette,<a href="#n010" class="internal_link">[10]</a> a partner in the Rocky Mountain
 Fur Company, and one of the most active, intrepid, and renowned
 leaders in the trade, started on a trapping expedition up the Platte
 Valley. He was accompanied by Robert Campbell, another of the
@@ -4195,7 +4195,7 @@ were themselves discovered, and came down yelling and whooping into
 the plain. On nearer approach, they were ascertained to be Blackfeet.</p>
 
       <p>One of the trappers of Sublette's brigade, a half-breed, named
-Antoine Godin,<a href="../doc/n011" class="internal_link">[11]</a> now mounted his horse, and rode forth as if to hold
+Antoine Godin,<a href="#n011" class="internal_link">[11]</a> now mounted his horse, and rode forth as if to hold
 a conference. In company with Antoine was a Flathead Indian,
 whose once powerful tribe had been completely broken down in their
 wars with the Blackfeet. Both of them, however, cherished the most
@@ -4530,7 +4530,7 @@ set out on his return to St. Louis, accompanied by Campbell.
 As they had a number of packhorses, richly laden with peltries,
 to convoy, they chose a different route through the mountains,
 out of the way, as they hoped, of the lurking bands of Blackfeet.
-They succeeded in making the frontier in safety.<a href="../doc/n012" class="internal_link">[12]</a>
+They succeeded in making the frontier in safety.<a href="#n012" class="internal_link">[12]</a>
       </p>
 
 
@@ -4733,7 +4733,7 @@ over three years. During all that time he had made no report to the
 War Department, which thought he had perished on his venturesome
 journey, and his name was stricken from the rolls of the army.
 Several months after his arrival in Washington, and a satisfactory
-explanation having been rendered, he was restored to his position.<a href="../doc/n013" class="internal_link">[13]</a>
+explanation having been rendered, he was restored to his position.<a href="#n013" class="internal_link">[13]</a>
       </p>
 
       <p>On the 22d of May, 1842, Lieutenant John C. Fremont, of the
@@ -4808,7 +4808,7 @@ the pony express, and the building of the Union Pacific Railroad.</p>
    </span>
 
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER V.</h3>
 
       <h3>TRADING-POSTS OF THE GREAT FUR COMPANIES—FORT VASQUES
@@ -4995,7 +4995,7 @@ removed to far-off reservations.</p>
       <p>In 1826 Jim Bridger joined General Ashley's trapping expedition, and
 eleven years afterward, in 1837, built Fort Bridger, for a long time
 one of the most famous of the trading-posts. It was located on
-the Black Fork of Green River<a href="../doc/n014" class="internal_link">[14]</a> where that stream branched into
+the Black Fork of Green River<a href="#n014" class="internal_link">[14]</a> where that stream branched into
 three principal channels, forming several large islands, upon one of
 which the fort was erected. It was constructed of two adjoining
 log houses, with sod roofs, enclosed by a fence of pickets eight feet
@@ -5251,7 +5251,7 @@ and in an instant the apartment became filled to the point of
 suffocation,—too much so for the Indians, who gladly made
 a precipitate retreat.</p>
 
-      <p>"They were told it was the 'Long-Knife Medicine.'<a href="../doc/n015" class="internal_link">[15]</a> During
+      <p>"They were told it was the 'Long-Knife Medicine.'<a href="#n015" class="internal_link">[15]</a> During
 the visit of the savages at the fort, a warrior called
 "Big Eagle" was struck over the head by a half-drunken trader,
 an incident which came very near terminating seriously, but
@@ -5386,7 +5386,7 @@ his friends will all be glad with him. But that
          </span>
 
 they may bless the
-Long-Knife, let him fill up the hollow-wood<a href="../doc/n016" class="internal_link">[16]</a> with fire-water, and
+Long-Knife, let him fill up the hollow-wood<a href="#n016" class="internal_link">[16]</a> with fire-water, and
 Bull Tail will take it to his lodge; then Chint-zille will be yours."</p>
 
       <p>"But Chint-zille grieves, she does not love the Long-Knife."</p>
@@ -5419,7 +5419,7 @@ depicted on his withered face.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER VI</h3>
 
       <h3>THE MOST DESOLATE OF DESERTS MADE TO BLOSSOM AS THE
@@ -5883,7 +5883,7 @@ remained but their boot-tops and the scraps of leather from their
 wagon. Even the neck-piece of a buffalo-skin which had served as
 a door-mat was used for food. Thus they kept themselves alive until
 spring, when they subsisted on thistle-roots and wild garlic, until
-at length relief came from Salt Lake City.<a href="../doc/n017" class="internal_link">[17]</a>
+at length relief came from Salt Lake City.<a href="#n017" class="internal_link">[17]</a>
       </p>
 
       <p>On the 5th of December, 1857, John B. Floyd, then
@@ -6013,7 +6013,7 @@ subsisted on the rations intended for the troops, completely
 
 controverting what was implied in the orders to General Harney.</p>
 
-      <p>On the day after the departure from Salt Lake of the officers<a href="../doc/n018" class="internal_link">[18]</a> sent
+      <p>On the day after the departure from Salt Lake of the officers<a href="#n018" class="internal_link">[18]</a> sent
 on a special mission to investigate the condition of affairs in Utah,
 Brigham Young issued a proclamation declaring martial law in Utah,
 forbidding all armed forces to enter the territory under any pretence
@@ -6024,7 +6024,7 @@ this date from four to five thousand men.</p>
 
       <p>Though imperfectly armed and equipped, and, of course, no match for
 regular troops, the Mormons were not to be held in contempt. In July,
-1857,<a href="../doc/n019" class="internal_link">[19]</a> the Nauvoo Legion had been reorganized, the two cohorts,
+1857,<a href="#n019" class="internal_link">[19]</a> the Nauvoo Legion had been reorganized, the two cohorts,
 now termed divisions, having each a nominal strength of two thousand.
 The division consisted of two brigades; the brigades of two regiments;
 the regiments of five battalions, each of a hundred men, the
@@ -6066,7 +6066,7 @@ on their windward, so as, if possible, to envelop their
 trains. Leave no grass before them that can be burned.
 Keep your men concealed as much as possible, and guard
 against surprises. Save life always, when it is possible;
-we do not wish to shed a drop of blood if it can be avoided."<a href="../doc/n020" class="internal_link">[20]</a>
+we do not wish to shed a drop of blood if it can be avoided."<a href="#n020" class="internal_link">[20]</a>
       </p>
 
       <p>When General Harney had joined his command and heard of the state
@@ -6101,7 +6101,7 @@ constructed, by means of which the road could be submerged to a depth
 of several feet. At the eastern side stone heaps were collected
 and bowlders loosened from the overhanging rocks, so that a slight
 leverage would hurl them on the passing troops, and parapets were
-built as a protection for sharp-shooters.<a href="../doc/n021" class="internal_link">[21]</a>
+built as a protection for sharp-shooters.<a href="#n021" class="internal_link">[21]</a>
       </p>
 
       <p>At this juncture a letter from General Wells was delivered to
@@ -6525,7 +6525,7 @@ inspiration from heaven.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER VII</h3>
 
@@ -6804,7 +6804,7 @@ tragedy, he left the valley of
          </span>
 
 the Great Salt Lake, and hid himself
-in one of the canons of the Colorado,<a href="../doc/n022" class="internal_link">[22]</a> where he remained for years
+in one of the canons of the Colorado,<a href="#n022" class="internal_link">[22]</a> where he remained for years
 suffering that terrible anxiety which comes to all fugitives from
 justice, sooner or later, and which is said by those who have
 experienced it to be absolutely unbearable.</p>
@@ -6954,13 +6954,13 @@ through my heart. Don't let them mangle my body."</p>
 on the still morning air, and without a groan or quiver the body of
 the criminal fell back lifeless on his coffin.</p>
 
-      <p>God was more merciful to him than he had been to his victims.<a href="../doc/n023" class="internal_link">[23]</a>
+      <p>God was more merciful to him than he had been to his victims.<a href="#n023" class="internal_link">[23]</a>
       </p>
 
       <p>Once one of Russell, Majors, &amp; Waddell's trains, upon arriving at
 the Little Blue River below Kearney, en route to Fort Laramie, had
 a little skirmish with the Sioux. One of the party, who was going
-to the Fort to erect a sawmill for the government,<a href="../doc/n024" class="internal_link">[24]</a> tells about it
+to the Fort to erect a sawmill for the government,<a href="#n024" class="internal_link">[24]</a> tells about it
 as follows:—</p>
 
       <p>"I had travelled ahead of the train a mile or more, had gotten
@@ -7475,7 +7475,7 @@ located. The reservation extended across the river, and included
 the mouth of Pole Creek, a small tributary of the Platte, which
 debouches into it from the north.</p>
 
-      <p>The original Julesburg, at that time,<a href="../doc/n025" class="internal_link">[25]</a> was a mere hamlet of crude
+      <p>The original Julesburg, at that time,<a href="#n025" class="internal_link">[25]</a> was a mere hamlet of crude
 frame buildings, and but for the proximity of Fort Sedgwick it would
 have been destroyed long before it was.</p>
 
@@ -7810,7 +7810,7 @@ and the "Winter Creek Irrigation Company"!</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER VIII</h3>
 
@@ -7856,7 +7856,7 @@ Mexico as "Duke Gwinn," first made the suggestion to the proprietors
 of the Overland Stage Line that if they could carry the mails to the
 Pacific coast in a shorter time than it then required, and would
 keep the line open all the year, increased emigration and the building
-of a railroad by the government would be the result.<a href="../doc/n026" class="internal_link">[26]</a>
+of a railroad by the government would be the result.<a href="#n026" class="internal_link">[26]</a>
       </p>
 
       <p>The following is an authentic history of the Pony Express, as related
@@ -8386,7 +8386,7 @@ shot at by a lot of fool emigrants, who, when I took them to
 task about it on my return trip, excused themselves by saying,
 'We thought you was an Indian.'"</p>
 
-      <p>Another of the daring riders of the Pony Express was Robert Haslam.<a href="../doc/n027" class="internal_link">[27]</a>
+      <p>Another of the daring riders of the Pony Express was Robert Haslam.<a href="#n027" class="internal_link">[27]</a>
 He says:
 "About eight months after the Pony Express was established,
 the Pi-Ute war commenced in Nevada. Virginia City, then the
@@ -8587,7 +8587,7 @@ introduction here of the part taken by one of them in this service.
 Their old friend Colonel Majors, a well-known figure for many years
 in frontier life, when speaking of "Billy" Cody, as he was called in
 those days, says that while engaged in the express service, his route
-lay between Red Buttes and Three Crossings,<a href="../doc/n028" class="internal_link">[28]</a> a distance of one
+lay between Red Buttes and Three Crossings,<a href="#n028" class="internal_link">[28]</a> a distance of one
 hundred and sixteen miles. It was a most dangerous, long, and lonely
 trail, including the perilous crossing
 
@@ -9650,7 +9650,7 @@ on his bed of robes.</p>
 
       <p>The young Pawnee had a very strange love for horses. He would always
 hug the animals as they came off their long trip, pat their noses, and
-softly murmur, "Cayuse, cayuse."<a href="../doc/n029" class="internal_link">[29]</a>
+softly murmur, "Cayuse, cayuse."<a href="#n029" class="internal_link">[29]</a>
       </p>
 
       <p>The precocious little savage was known to every rider on the trail
@@ -9877,7 +9877,7 @@ to him, "See! see!"</p>
       <p>Looking down closely into the face of the object of the boy's wrath,
 he discovered by that hideous scar the fiend who had captured Little
 Cayuse when a mere baby, the scar-faced Sioux from whom Whipsaw had
-purchased the boy.<a href="../doc/n030" class="internal_link">[30]</a>
+purchased the boy.<a href="#n030" class="internal_link">[30]</a>
       </p>
 
       <p>The employees of the Pony Express were different in character from
@@ -9897,7 +9897,7 @@ an old French-Canadian trapper, whose name was Jules Bernard, who
 lived on a ranch on the eastern border of Colorado. While he lived
 there he got into a quarrel with Slade, and the latter swore he would
 kill Jules on sight. Slade waited five years for his opportunity.
-The story is told by an eye-witness as follows:<a href="../doc/n031" class="internal_link">[31]</a>—</p>
+The story is told by an eye-witness as follows:<a href="#n031" class="internal_link">[31]</a>—</p>
 
 
 
@@ -9982,7 +9982,7 @@ in the bank, but we could not find any bank-book, and if he
 had one it was probably on his person. I was just a child and
 did not know what to do. In a day or two a man came along who
 lived on a ranch farther west; he was going to Denver for
-goods; he took me, the man, and woman with him to Denver."<a href="../doc/n032" class="internal_link">[32]</a>
+goods; he took me, the man, and woman with him to Denver."<a href="#n032" class="internal_link">[32]</a>
       </p>
 
       <p>Slade eventually drifted into Montana, and in 1865 was hanged by the
@@ -10106,7 +10106,7 @@ hundred thousand dollars immediately enhanced to three hundred
 thousand. The stock at once rose to the value of eighty-five cents,
 and he sold out his original one hundred thousand dollars for eight
 hundred and fifty thousand, still retaining two hundred thousand
-dollars worth of stock.<a href="../doc/n033" class="internal_link">[33]</a>
+dollars worth of stock.<a href="#n033" class="internal_link">[33]</a>
       </p>
 
       <p>With the completion of the telegraph across the continent all the
@@ -10134,7 +10134,7 @@ Overland Stage such a railroad was regarded as an idle dream.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER IX</h3>
 
@@ -10203,7 +10203,7 @@ May, 1859, and its advent was regarded as a great success by those
 who knew nothing of the immense expense attending the enterprise.
 When the ninety-day notes given in payment for the outfit of the
 new route became due, the money was not forthcoming, and it became
-necessary for the wealthy firm of Russell, Majors, &amp; Waddell<a href="../doc/n034" class="internal_link">[34]</a> to
+necessary for the wealthy firm of Russell, Majors, &amp; Waddell<a href="#n034" class="internal_link">[34]</a> to
 meet the outstand-
 
 
@@ -10236,12 +10236,12 @@ were established at distances varying from ten to fifteen miles along
 the whole route.</p>
 
       <p>The original trail ran up the valley of the Smoky Hill, or the Smoky
-Hill Fork of the Republican,<a href="../doc/n035" class="internal_link">[35]</a> but was shortly after changed to the
-valley of the Platte, and starting from St. Joseph,<a href="../doc/n036" class="internal_link">[36]</a> went on to
+Hill Fork of the Republican,<a href="#n035" class="internal_link">[35]</a> but was shortly after changed to the
+valley of the Platte, and starting from St. Joseph,<a href="#n036" class="internal_link">[36]</a> went on to
 Fort Kearney, thence following the river to Julesburg, where it
 crossed the stream. From there to Fort Laramie, to Fort Bridger,
 thence to Salt Lake, through Camp Floyd, Ruby Valley, Carson City,
-Placerville, and Folsom to Sacramento.<a href="../doc/n037" class="internal_link">[37]</a>
+Placerville, and Folsom to Sacramento.<a href="#n037" class="internal_link">[37]</a>
       </p>
 
 
@@ -10316,7 +10316,7 @@ discipline, and the system was as nearly perfect as possible.</p>
 organized and operated it, the entire expense exceeding the receipts
 by many hundreds of thousands of dollars. Messrs. Russell, Majors, &amp; 
 Waddell, however, continued its operation until March, 1862, when the
-whole concern was transferred to Ben Holliday.<a href="../doc/n038" class="internal_link">[38]</a>
+whole concern was transferred to Ben Holliday.<a href="#n038" class="internal_link">[38]</a>
       </p>
 
       <p>When Holliday took charge, the United States mail was given to it and
@@ -10751,7 +10751,7 @@ had vanished forever.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER X</h3>
 
       <h3>SCENERY AND HISTORICAL LOCALITIES ON THE ROUTE OF THE
@@ -11237,7 +11237,7 @@ to their village, and had kindly cared for him ever since.</p>
       <p>He expired while the trappers were conversing with him.</p>
 
       <p>One of the historic places on the left bank of the North Fork of the
-Platte is Ash Hollow,<a href="../doc/n039" class="internal_link">[39]</a> twelve miles distant from the main stream,
+Platte is Ash Hollow,<a href="#n039" class="internal_link">[39]</a> twelve miles distant from the main stream,
 famous for a battle between Little Thunder, chief of the Brûlé Sioux,
 and the Second Regiment of United States Dragoons, under command of
 Brevet Brigadier William S. Harney; in which some eighty Indians were
@@ -11951,7 +11951,7 @@ which the earnest pilgrims should travel.</p>
       <p>The existence of a large lake of salt water somewhere amid the wilds
 west of the Rocky Mountains seems to have been vaguely known as long
 ago as two hundred years. As early as May, 1689, the Baron
-La Hontan,<a href="../doc/n040" class="internal_link">[40]</a>
+La Hontan,<a href="#n040" class="internal_link">[40]</a>
 
 
          <span class="hr"> </span>
@@ -12195,7 +12195,7 @@ flowing into
          </span>
 
 it, in the hopes of enlarging their field of
-beaver trapping, antedates Fremont's many years."<a href="../doc/n041" class="internal_link">[41]</a>
+beaver trapping, antedates Fremont's many years."<a href="#n041" class="internal_link">[41]</a>
       </p>
 
       <p>Captain Stansbury, of the United States army, made the first survey
@@ -12230,7 +12230,7 @@ Professor Gilbert to have been at a place now called Red Rock Pass.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER XI</h3>
 
@@ -12285,7 +12285,7 @@ allusion to the lines from Shakespeare:—</p>
       </span>
 
       <p>In a deep carousal which took place one night in the village, in 1822,
-his brother, a fine fellow, named Blue-eyes (that colour being rare<a href="../doc/n042" class="internal_link">[42]</a>
+his brother, a fine fellow, named Blue-eyes (that colour being rare<a href="#n042" class="internal_link">[42]</a>
 among the Indians), had the misfortune to bite off a small piece of
 I-e-tan's nose. So soon as he became sensible of this irreparable
 injury, to which, as an Indian, he was, perhaps, even more sensitive
@@ -12495,7 +12495,7 @@ with them, but nine years afterward
          </span>
 
 Catlin found them so hostile that
-it was dangerous to attempt any intercourse with them.<a href="../doc/n049" class="internal_link">[43]</a>
+it was dangerous to attempt any intercourse with them.<a href="#n049" class="internal_link">[43]</a>
       </p>
 
       <p>All of the early French writers have much to say of the Pawnees, but
@@ -12699,7 +12699,7 @@ passed through it to insure success in their use. The flesh
 was hacked from the body, buried in the corn patches, thrown
 to the dogs, or disposed of in any way that caprice might
 direct. The skeleton was allowed to remain in position till,
-loosened by decay, it fell to the ground.<a href="../doc/n044" class="internal_link">[44]</a>
+loosened by decay, it fell to the ground.<a href="#n044" class="internal_link">[44]</a>
       </p>
 
       <p>The last time this sacrifice was made, according to official reports,
@@ -13198,7 +13198,7 @@ very old, and at last he died."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XII</h3>
 
       <h3>THE SIOUX NATION—CAUSE OF THEIR HATRED FOR THE
@@ -13210,7 +13210,7 @@ WA-SHU-PA AND OGALLALLA—INDIAN FIGHT AT ASH HOLLOW—INDIAN TRADITION OF A FLO
 
 
       <p>A little more than half a century ago the many bands of the great
-Sioux nation<a href="../doc/n045" class="internal_link">[45]</a> hardly knew anything of the civilization of the
+Sioux nation<a href="#n045" class="internal_link">[45]</a> hardly knew anything of the civilization of the
 whites in any part of the continent; none of their chiefs had ever
 visited the capital of the nation, or, for that matter, any American
 settlement. They knew nothing of the English language. The few
@@ -13441,7 +13441,7 @@ them—until then let us have a truce.</p>
       <p>"'To this I answered, Says the Crow peace?</p>
 
       <p>"'This said, we shook hands and sat down by the fountain.
-To amuse my enemy I proposed a game of "hand."<a href="../doc/n046" class="internal_link">[46]</a>
+To amuse my enemy I proposed a game of "hand."<a href="#n046" class="internal_link">[46]</a>
 He accepted my challenge, and we first played for an arrow
 against an arrow, then bow for bow, robe for robe, and scalp
 for scalp. I was out of luck and lost everything. I handed
@@ -13494,7 +13494,7 @@ them were left for the deer and buffalo to graze. Then the creeks and
 rivers slowly rose, and the land of the Shoshones was greatly reduced
 by the encroachment of the water. Years passed on, and the tribe,
 attracted by some more suitable region, went away, or were driven off
-by the hostile bands, especially the Scarred-Arms (the Cheyennes<a href="../doc/n047" class="internal_link">[47]</a>).</p>
+by the hostile bands, especially the Scarred-Arms (the Cheyennes<a href="#n047" class="internal_link">[47]</a>).</p>
 
       <p>In the course of a great many years the Sioux and the Scarred-Arms
 always fought with each other with varying success, whenever they met;
@@ -13585,7 +13585,7 @@ long since sought homes in other lands. One crossed the Snow-hills,
 toward the sun-setting; the Sioux shall visit them and avenge the
 blood and wrongs of ages. The other journeyed far toward the sun of
 winter, and now live to the leftward of the places where Hispanola
-builds his earth-lodge.<a href="../doc/n048" class="internal_link">[48]</a>
+builds his earth-lodge.<a href="#n048" class="internal_link">[48]</a>
       </p>
 
       <p>"Then came the Scarred-Arms from a far-off country, a land of much
@@ -13883,7 +13883,7 @@ people whom he could handle and who would not defy him.</p>
             </a>
          </span>
 
-is a misnomer;<a href="../doc/n049" class="internal_link">[49]</a>
+is a misnomer;<a href="#n049" class="internal_link">[49]</a>
 it really signifies dreamer, or prophet, and is synonymous with the
 word "prophet" in the Old Testament. The Indian form of government
 may be characterized as a theocracy, and the medicine-man is the high
@@ -13907,7 +13907,7 @@ Spirit, the sacred ark of their faith.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XIII</h3>
 
       <h3>THE CROWS—COUNCIL AT FORT PHILIP KEARNY IN JULY,
@@ -13921,7 +13921,7 @@ THE LEGEND OF THE BLIND MEN—THE PIS-KUN</h3>
          <p>Blackfoot &amp; Squaw</p>
       </div>
 
-      <p>The tribe of Indians known as the Crows<a href="../doc/n050" class="internal_link">[50]</a> are entitled to the very
+      <p>The tribe of Indians known as the Crows<a href="#n050" class="internal_link">[50]</a> are entitled to the very
 marked distinction of being the most manly in their conduct in its
 relation to the whites. The integrity of their friendship has been
 tested on many occasions, and they have never proved false to their
@@ -13987,7 +13987,7 @@ was becoming too numerous.</p>
          </span>
 
 Crows was
-A-ra-poo-ash. The celebrated Jim Beckwourth<a href="../doc/n051" class="internal_link">[51]</a> had already become
+A-ra-poo-ash. The celebrated Jim Beckwourth<a href="#n051" class="internal_link">[51]</a> had already become
 a leader among the Crows, and shortly after the death of A-ra-poo-ash
 was unanimously chosen in his place.</p>
 
@@ -14165,7 +14165,7 @@ regarded that the costliest gems of emperors seemed poor
 
 in comparison.
 All these were thrown into the kettle willingly, along with a bountiful
-contribution of fingers<a href="../doc/n052" class="internal_link">[52]</a> until it could hold no more. Then weights
+contribution of fingers<a href="#n052" class="internal_link">[52]</a> until it could hold no more. Then weights
 were attached to it, when it was carried to an air-hole in the ice
 where the river was very deep, and there sunk with becoming ceremony,
 young maidens habited in the best apparel bearing the burden.</p>
@@ -14181,7 +14181,7 @@ companionship.</p>
       <p>The incantations seemed to have had a good effect, for on another
 expedition shortly afterward the war-party returned with lots of
 scalps and thirteen hundred horses, which they had stolen from the
-Blackfeet.<a href="../doc/n053" class="internal_link">[53]</a>
+Blackfeet.<a href="#n053" class="internal_link">[53]</a>
       </p>
 
       <p>The Crows enjoyed a practical joke as well as their more humorous
@@ -14271,7 +14271,7 @@ and with a salutation of terrible war-whoops, dashed off for Fort Platte.</p>
       </span>
 
       <p>When they reached Fort Platte, having tumbled two platforms of their
-dead enemies on the trail,<a href="../doc/n054" class="internal_link">[54]</a> they told the same story to the
+dead enemies on the trail,<a href="#n054" class="internal_link">[54]</a> they told the same story to the
 commanding officer, who felt disposed to humour their joke and
 accordingly gave the tobacco to the savages. Upon this they turned
 over the Frenchman, nearly frightened to death, and rode away in
@@ -14568,7 +14568,7 @@ of all tribes.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER XIV</h3>
 
@@ -15258,7 +15258,7 @@ Pah-Utes, Indians that live about the water. The word was
 spelled in various ways, 'Yutas' by the early Spaniards.
 This is perhaps the proper way. Other spellings are 'Youta,'
 'Eutaw,' 'Utaw,' and 'Utah,' which is now the accepted
-one.<a href="../doc/n056" class="internal_link">[56]</a>
+one.<a href="#n056" class="internal_link">[56]</a>
       </p>
 
       <p>The Utes, unquestionably, were the Indians concerned in the "Mountain
@@ -15607,7 +15607,7 @@ the exception of Lieutenant Cherry, of the Fifth Cavalry.
 The Indians killed from one hundred and fifty to two hundred
 mules belonging to the government. Surgeon Grimes was wounded
 but was able for duty. The troops had about six days'
-supplies."<a href="../doc/n057" class="internal_link">[57]</a>
+supplies."<a href="#n057" class="internal_link">[57]</a>
       </p>
 
       <p>One of the greatest chiefs of the Ute Nation was Ouray. His character
@@ -15664,7 +15664,7 @@ Ouray's father and mother decided to wed, they were married in the
 little adobe church on a hill in the village at the Red River Crossing.
 A priest performed the ceremony according to the Catholic ritual.
 When Ouray was born, he was taken to the same building and baptized
-into the Catholic faith.<a href="../doc/n058" class="internal_link">[58]</a>
+into the Catholic faith.<a href="#n058" class="internal_link">[58]</a>
       </p>
 
 
@@ -15938,7 +15938,7 @@ the wings of an immense bird, which was supposed by the
 wandering warriors to be a messenger of the Great Spirit,
 right to the abode of the blessed. His name is revered to
 this day, and the young men are encouraged to emulate his
-virtues, the story of which has come down through untold aeons.<a href="../doc/n059" class="internal_link">[59]</a>"</p>
+virtues, the story of which has come down through untold aeons.<a href="#n059" class="internal_link">[59]</a>"</p>
 
 
 
@@ -16062,7 +16062,7 @@ be his wish to live at peace with the people she loved so well.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER XV</h3>
 
@@ -16088,7 +16088,7 @@ officer, commanding the whole.</p>
 
       <p>Some of the operations of this expedition and personal adventures have
 been told by George P. Belden, then belonging to the First Nebraska
-Cavalry.<a href="../doc/n060" class="internal_link">[60]</a> He was a
+Cavalry.<a href="#n060" class="internal_link">[60]</a> He was a
 
 
 
@@ -17026,7 +17026,7 @@ replied Springer.</p>
       <p>"'How did you kill them?' inquired the foremost Indian warrior.</p>
 
       <p>"'You see,' said Springer, who, being part Sioux, spoke the
-language perfectly, 'we were coming down from the Neobarrah,<a href="../doc/n061" class="internal_link">[61]</a>
+language perfectly, 'we were coming down from the Neobarrah,<a href="#n061" class="internal_link">[61]</a>
 and going over to the Republican to see Spotted Tail and our
 friends, the Ogallallas, when some soldiers fired on us here,
 and seeing there were but four of them, we attacked and killed
@@ -17734,7 +17734,7 @@ part of the govern-
          </span>
 
 ment there occurred a series of massacres, and a
-prolonged war, which cost millions of dollars.<a href="../doc/n062" class="internal_link">[62]</a>
+prolonged war, which cost millions of dollars.<a href="#n062" class="internal_link">[62]</a>
       </p>
 
       <p>One of the stipulations on the part of the Commission was that the
@@ -17755,7 +17755,7 @@ depriving them of their favourite hunting-grounds, that a messenger,
 sent out to induce the chiefs to come in, was badly whipped, insulted,
 and ordered to go back to where he came from.</p>
 
-      <p>Old Major Bridger, the celebrated scout, and Jack Stead,<a href="../doc/n063" class="internal_link">[63]</a> the
+      <p>Old Major Bridger, the celebrated scout, and Jack Stead,<a href="#n063" class="internal_link">[63]</a> the
 interpreter of the Commission, had no faith in the propositions of
 some of the chiefs, notably Black Horse, who agreed to accept the
 proposition of the Commission and ally themselves with the whites.
@@ -18002,10 +18002,10 @@ furnished him for a state of profound peace."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XVI</h3>
 
-      <h3>BUFFALO BILL'S<a href="../doc/n064" class="internal_link">[64]</a> ADVENTURES ON THE SALT LAKE TRAIL—IN
+      <h3>BUFFALO BILL'S<a href="#n064" class="internal_link">[64]</a> ADVENTURES ON THE SALT LAKE TRAIL—IN
 CHARGE OF A HERD OF BEEF CATTLE—KILLS AN INDIAN—
 WITH LEW SIMPSON—HELD UP—ATTACKED AT CEDAR
 BLUFFS—A BRUSH WITH SIOUX—THE PRINT OF A WOMAN'S
@@ -19439,7 +19439,7 @@ taken any scalps.'</p>
 of them—a sergeant—soon found out that they had run across a party
 of Sioux who were following a large Indian trail. These Indians had
 evidently been in a fight, for two or three of them had been wounded,
-and they were conveying the injured persons on travois.<a href="../doc/n065" class="internal_link">[65]</a>
+and they were conveying the injured persons on travois.<a href="#n065" class="internal_link">[65]</a>
 The Pawnees had 'jumped' them and killed
 
 
@@ -19641,7 +19641,7 @@ they at once retreated without further attempt to dislodge us.</p>
 together again, and had an engagement with the Sioux, in which more
 than three hundred warriors and a large number of ponies were captured,
 together with several hundred squaws, among the latter being Tall
-Bull's widow, who told with pathetic interest how the Prairie Chief<a href="../doc/n066" class="internal_link">[66]</a>
+Bull's widow, who told with pathetic interest how the Prairie Chief<a href="#n066" class="internal_link">[66]</a>
 had killed her husband.</p>
 
       <div class="inline_figure">
@@ -19660,7 +19660,7 @@ had killed her husband.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XVII</h3>
 
       <h3>BUFFALO BILL'S ADVENTURES CONTINUED—HUNTING AT FORT
@@ -19812,7 +19812,7 @@ winter of 1869-1870, we reorganized to accompany this expedition.
 I was glad of this, as I had become quite attached to one of the
 officers, Major North, and to many of the Indians. The only white
 scout we had at the post, besides myself, at that time, was John Y.
-Nelson, whose Indian name was Sha-Cha-Cha-Opoyeo,<a href="../doc/n067" class="internal_link">[67]</a> which interpreted
+Nelson, whose Indian name was Sha-Cha-Cha-Opoyeo,<a href="#n067" class="internal_link">[67]</a> which interpreted
 means Red Willow fill the Pipe. This man is a character in his way;
 he has a Sioux squaw for a wife, and consequently a half-breed family.</p>
 
@@ -21184,7 +21184,7 @@ the Missouri."</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XVIII</h3>
 
       <h3>AROUND THE CAMP-FIRE IN A TRAPPER'S BIVOUAC—TELLING
@@ -21223,7 +21223,7 @@ their supply, or the
          </span>
 
 traders had failed to bring enough at the last
-rendezvous<a href="../doc/n068" class="internal_link">[68]</a> to go round. Then they were compelled to resort to the
+rendezvous<a href="#n068" class="internal_link">[68]</a> to go round. Then they were compelled to resort to the
 substitutes of the Indians. Among some tribes the bark of the red
 willow, dried and bruised, was used; others, particularly the mountain
 savages, smoked the genuine kin-nik-i-nick, a little evergreen vine
@@ -21326,7 +21326,7 @@ find the cache! And now if I didn't kiss the rock that I had pecked
 with my butcher-knife to mark the place, I'm ungrateful. Maybe the
 gravel wasn't scratched up from that place, and to me as would have
 given all my traps for some Taos lightning, just rolled in the
-delicious fluid.<a href="../doc/n069" class="internal_link">[69]</a>
+delicious fluid.<a href="#n069" class="internal_link">[69]</a>
       </p>
 
       <p>"I was weaker than a goat in the spring, but when the Taos was opened,
@@ -21355,14 +21355,14 @@ now most under
             </a>
          </span>
 
-the old twin peaks of 'Wa-te-yah'<a href="../doc/n070" class="internal_link">[70]</a>; the cold snow
+the old twin peaks of 'Wa-te-yah'<a href="#n070" class="internal_link">[70]</a>; the cold snow
 on top looking mighty cool and refreshing.</p>
 
       <p>"Something was wrong; I must be shoving backwards, I thought, and that
 before long, or I'd go under, so I jerked the rein, but I'll be dog-goned,
 and it's true as there's meat running, Blue kept going forward.
 I laid back and cussed and kicked till I saw blood, certain. Then I
-put out my hand for my knife to kill the beast, but the 'Green River'<a href="../doc/n071" class="internal_link">[71]</a>
+put out my hand for my knife to kill the beast, but the 'Green River'<a href="#n071" class="internal_link">[71]</a>
 wouldn't come. I tell you some unvisible spirit had a paw there,
 and it's me that says it, 'bad medicine' it was, that trapping time.</p>
 
@@ -22148,7 +22148,7 @@ ridge of the mountains. The colonel asked me if I had any
 scouts out in that direction, and I told him I had not.
 We naturally supposed that it was an Indian. He kept drawing
 nearer and nearer to us, until we made out it was a white man,
-and as he came on I recognized him to be California Joe.<a href="../doc/n072" class="internal_link">[72]</a>
+and as he came on I recognized him to be California Joe.<a href="#n072" class="internal_link">[72]</a>
       </p>
 
       <p>"When he got within hailing distance, I sung out, 'Hello, Joe,'
@@ -22358,7 +22358,7 @@ ground and never got the colour of a piece of gold; then they
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XIX</h3>
 
       <h3>MORE STORIES OF THE TRAIL—FRAZIER AND THE BEAR—AN
@@ -23532,7 +23532,7 @@ necessarily be of a most desperate character.</p>
 severely punished them, and they made no further attempt to molest
 the trappers, much to the relief of the beleaguered men.</p>
 
-      <p>Jim Cockrell,<a href="../doc/n073" class="internal_link">[73]</a> as he was known in the mountains, was one of the
+      <p>Jim Cockrell,<a href="#n073" class="internal_link">[73]</a> as he was known in the mountains, was one of the
 earliest of the old trappers. He left his home in Missouri in the
 spring of 1822, and started for the heart of the Rocky Mountains,
 with a single packhorse to carry his camp equipage, and a single
@@ -23625,7 +23625,7 @@ were looking on screamed with laughter and made fun, greatly to the
 mortification of Nolan. Smith then told the hostler to take good care
 of his horse, and, his apparent indignation changing to a smile,
 he walked back to the house. Then he invited every one up to the bar
-and spent twenty or thirty dollars before he left for his room.<a href="../doc/n074" class="internal_link">[74]</a>
+and spent twenty or thirty dollars before he left for his room.<a href="#n074" class="internal_link">[74]</a>
       </p>
 
       <div class="inline_figure">
@@ -23644,7 +23644,7 @@ and spent twenty or thirty dollars before he left for his room.<a href="../doc/n
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XX</h3>
 
       <h3>THE STORY OF THE BUILDING OF THE UNION PACIFIC RAILROAD—EXTRACT FROM GENERAL SHERMAN'S MEMOIRS—
@@ -24517,7 +24517,7 @@ from the additional moisture falling during the year—rain and
 snow. Professor Agassiz, in 1867, after a visit to Colorado,
 predicted that this increase of moisture would come by the
 disturbance of the electric currents, caused by the building
-of the Pacific railroads and settlement of the country.<a href="../doc/n075" class="internal_link">[75]</a>
+of the Pacific railroads and settlement of the country.<a href="#n075" class="internal_link">[75]</a>
       </p>
 
       <p>"It must be admitted, however, that the growth of the once vast
@@ -25044,4 +25044,3 @@ of atmospheric variation, it is a fact.</div>
 
 
 </div>
-

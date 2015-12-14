@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00125.001.jpg"
@@ -47,8 +47,7 @@ Absolutely Fire Proof.</div>
 
          <span class="h6">2</span>
 
-it to fine &amp; costly to rent it to any one. I am going to have the finest of furniture, am going to run it on the European plan—right up to date—the Ladies to go into the office when they choose—A ladies writing &amp; reception room Adjoining the office—a big sixteen foot porch around the hotel—a <a rel="tooltip" class="sic" title="regular​ ">rigular</a>
-    ​ tourist hotel. The prices will be so high that the tough &amp; bums cant hang around— Now I believe you could over
+it to fine &amp; costly to rent it to any one. I am going to have the finest of furniture, am going to run it on the European plan—right up to date—the Ladies to go into the office when they choose—A ladies writing &amp; reception room Adjoining the office—a big sixteen foot porch around the hotel—a <a rel="tooltip" class="sic" title="regular​ &#xA;    ">rigular</a> tourist hotel. The prices will be so high that the tough &amp; bums cant hang around— Now I believe you could over
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -95,7 +94,7 @@ you till she gets married All girls get married out there—You could sell out a
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -134,4 +133,3 @@ Neb.
 
 
 </div>
-

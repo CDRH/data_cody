@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00400.01.jpg"
@@ -15,38 +15,37 @@
          </a>
       </span>
       <div class="note">
-2932 Lafayette St.<a href="../doc/n01" class="internal_link">1</a>
+2932 Lafayette St.<a href="#n01" class="internal_link">1</a>
       </div>
 
 
-      <span class="dateline">Denver, Colo. July. 25 191_<a href="../doc/n02" class="internal_link">2</a>
+      <span class="dateline">Denver, Colo. July. 25 191_<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">Tait</span>.</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j"/>Tait</span>.</span>
 
 
 
-      <p>Well the old show is closed—<a href="../doc/n03" class="internal_link">3</a>
+      <p>Well the old show is closed—<a href="#n03" class="internal_link">3</a>
       </p>
 
-      <p>But <a rel="tooltip" class="sic" title="I'll​ ">Ill</a>
-    ​ soon have a better one— And with different management.</p>
+      <p>But <a rel="tooltip" class="sic" title="I'll​ &#xA;    ">Ill</a> soon have a better one— And with different management.</p>
 
-      <p>You know who.<a href="../doc/n04" class="internal_link">4</a>
+      <p>You know who.<a href="#n04" class="internal_link">4</a>
       </p>
 
-      <p>I am allright. But while things are being reorganized I am going to see my Ranches hotels &amp;c— in the summer. I have never seen them in the summer.<a href="../doc/n05" class="internal_link">5</a>
+      <p>I am allright. But while things are being reorganized I am going to see my Ranches hotels &amp;c— in the summer. I have never seen them in the summer.<a href="#n05" class="internal_link">5</a>
       </p>
 
-      <p>Give my love to all— and tell them <a rel="tooltip" class="sic" title="I'll​ ">Ill</a>
-    ​ be rolling soon— And to have faith in</p>
+      <p>Give my love to all— and tell them <a rel="tooltip" class="sic" title="I'll​ &#xA;    ">Ill</a> be rolling soon— And to have faith in</p>
 
       <span class="closer">
          <br/>The old Scout.
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <div class="note">2932 Lafayette St.<br/>
 Denver, Colo. </div>
@@ -59,7 +58,7 @@ Denver, Colo. </div>
       </div>
 
 
-      <div class="note">June &amp; July<a href="../doc/n06" class="internal_link">6</a>
+      <div class="note">June &amp; July<a href="#n06" class="internal_link">6</a>
       </div>
 
       <span class="ab address">
@@ -84,11 +83,12 @@ Arizona
 
    <div class="note">Note 3: Cody refers to the final closure of Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East in Denver on July 22, 1913. The local sheriff seized and sold the show's assets, ostensibly to satisfy debts owed to a printing company.</div>
 
-   <div class="note">Note 4: Possibly a reference to <span class="persName">Henry Heye Tammen</span>, co-owner of the <em class="hi">Denver Post</em> and the Sells-Floto Circus. Tammen is believed by some historians to have orchestrated the sheriff's seizure of the Wild West in order to break up the partnership between Cody and <span class="persName">Gordon W. "Pawnee Bill" Lillie</span>. Cody signed a contract with Tammen to perform with the Sells-Floto Circus, an arrangement that lasted through the 1914 and 1915 show seasons.</div>
+   <div class="note">Note 4: Possibly a reference to <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/tammen.h"/>Henry Heye Tammen</span>, co-owner of the <em class="hi">Denver Post</em> and the Sells-Floto Circus. Tammen is believed by some historians to have orchestrated the sheriff's seizure of the Wild West in order to break up the partnership between Cody and <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/lillie.g"/>Gordon W. "Pawnee Bill" Lillie</span>. Cody signed a contract with Tammen to perform with the Sells-Floto Circus, an arrangement that lasted through the 1914 and 1915 show seasons.</div>
 
    <div class="note">Note 5: William F. Cody refers to his properties in and around the town of Cody, Wyoming. Due to his travels with the various iterations of Buffalo Bill's Wild West, he had not yet been in the town during the summer.</div>
 
    <div class="note">Note 6: This notation is written in pencil on the left side of the envelope, perpendicular to the address lines.</div>
 
 </div>
-

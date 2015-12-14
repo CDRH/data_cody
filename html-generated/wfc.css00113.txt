@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <div class="note">Buffalo Bill's Wild West</div>
 
@@ -28,4 +28,3 @@ Sep- 25th 01
 
 
 </div>
-

@@ -4,14 +4,14 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
 
 
       <h3>A LETTER FROM BUFFALO BILL.</h3>
       <div class="milestone line"> </div>
 
-      <div class="note">We are permitted to publish the following from a letter from the Hon. Wm. F. Cody, alias Buffalo Bill, to a friend at Fort Reno, I.T.:<a href="../doc/n01" class="internal_link">1</a>
+      <div class="note">We are permitted to publish the following from a letter from the Hon. Wm. F. Cody, alias Buffalo Bill, to a friend at Fort Reno, I.T.:<a href="#n01" class="internal_link">1</a>
       </div>
 
       <span class="dateline">GRAND HOTEL ALFRED HAUSER,<br/>
@@ -19,7 +19,7 @@ NAPLES, Feb. 8, 1890.</span>
 
       <span class="salute">My Dear Friend,</span>
 
-      <p>Pardon my neglect in not answering your most welcome letter sooner. I was delighted to hear that promotion had carried you to the gallant Fifth Cavalry, my beau ideal of a cavalry regiment and of which I will always entertain the happiest recollections. How I would have enjoyed your fall maneuvers, with yourself, Captain Hayes<a href="../doc/n02" class="internal_link">2</a> and others of ye olden times.</p>
+      <p>Pardon my neglect in not answering your most welcome letter sooner. I was delighted to hear that promotion had carried you to the gallant Fifth Cavalry, my beau ideal of a cavalry regiment and of which I will always entertain the happiest recollections. How I would have enjoyed your fall maneuvers, with yourself, Captain Hayes<a href="#n02" class="internal_link">2</a> and others of ye olden times.</p>
 
       <p>When I finish up this scout of mine around the world, with my own command I am coming to visit the Fifth cavalry, and the pleasure of living old times over again with old friends of the regiment is one of my happiest anticipations.</p>
 
@@ -42,4 +42,3 @@ NAPLES, Feb. 8, 1890.</span>
 
    <div class="note">Note 2: Edward Mortimer Hayes (1842-1912) began his military career during the Civil War in 1860; was promoted through the ranks to become a Major in the U.S. Army, for "gallant services in action against Indians at Beaver Creek, Kansas, October 25-26, 1868."; and served in Cuba, and the Philippines before retiring his military career as a Brigadier General in 1902. He was familiarly known as "Fighting Jack" Hayes.</div>  
 </div>
-

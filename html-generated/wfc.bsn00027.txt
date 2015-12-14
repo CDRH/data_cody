@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -24,7 +24,8 @@
 
       <span class="dateline">Jan. 10, 1903.</span>
 
-      <span class="persName">Mr. Bronson Rumsey</span>, Trustee,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>, Trustee,
 
 78 Exchange St.,
 
@@ -52,7 +53,7 @@ Sec'y
 
    </div>
 
-   <div class="record doublespace ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -99,4 +100,3 @@ $1,277.59</span>
 
 
 </div>
-

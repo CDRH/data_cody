@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="biography ">
+   <div class="biography">
 
       <p> At the turn of the 20th century “Buffalo Bill” Cody was the most famous American in the world. His path from frontier poverty and obscurity to international celebrity is one of the most remarkable stories of America’s Gilded Age. It begins on February 26th, 1846, in Le Claire, Iowa, where William Frederick Cody was born to Isaac and Mary Ann Laycock Cody. At age eight he moved with his family to the Kansas frontier where his father hoped to homestead. The family experienced a series of financial and personal setbacks brought on by the turmoil of the slavery debate and culminating in Isaac Cody’s death in 1857. As the oldest male member of the household, eleven year old Will took it upon himself to find work and soon joined the freighting firm Russell, Majors, and Waddell as a cattle drover and teamster. Over the next few years Cody would pursue the life of the Plainsman, accompanying westbound military supply trains. He also met and became friends with James Butler "Wild Bill" Hickok. In his 1879 autobiography Cody claims to have also pursued gold prospecting, fur trapping, and work as a Pony Express rider during this period. </p>
 
@@ -57,4 +57,3 @@
 
 
 </div>
-

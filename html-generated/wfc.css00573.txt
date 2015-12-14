@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00573.jpg"
@@ -21,7 +21,7 @@
       </div>
 
 
-      <span class="ab"> Number<br/>Sent By  aw w<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab"> Number<br/>Sent By  aw w<a href="#n01" class="internal_link">1</a>
       </span>
 
 
@@ -38,14 +38,16 @@
       <span class="ab"> Dated  Cheyenne wyo</span>
 
 
-      <span class="ab"> To  <span class="persName">Geo T Beck</span>
+      <span class="ab"> To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
       </span>
 
 
-      <span class="ab">care a Bell<a href="../doc/n02" class="internal_link">2</a> Red Lodge Mont</span>
+      <span class="ab">care a Bell<a href="#n02" class="internal_link">2</a> Red Lodge Mont</span>
 
 
-      <p>water bond contracts printed here <span class="persName">Mead</span> says no word from you Its very discouraging to have business neglected send me report of progress there  </p>
+      <p>water bond contracts printed here <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e"/>Mead</span> says no word from you Its very discouraging to have business neglected send me report of progress there  </p>
 
 
       <span class="closer">
@@ -63,4 +65,3 @@
 
 
 </div>
-

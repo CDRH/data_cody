@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Buffalo Bill's Wild West Co</div>
@@ -58,4 +58,3 @@ Your old friend</span>
 
 
 </div>
-

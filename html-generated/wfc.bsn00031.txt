@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,7 +21,8 @@
 
       <span class="dateline">July 2nd 1904</span>
 
-      <span class="persName">Mr. Bronson Rumsey,</span>
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey,</span>
 
 Buffalo, N. Y.
 
@@ -48,4 +49,3 @@ Cashier,
 
 
 </div>
-

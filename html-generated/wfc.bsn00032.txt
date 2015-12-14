@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-  <div class="letter ">
+  <div class="letter">
 
 
       <span class="hr"> </span>
@@ -19,7 +19,8 @@
       <span class="dateline">August 16, 1904.</span>
     
     
-      <span class="persName">Bronson Rumsey</span>, Esq.,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, Esq.,
     
  78 Exchange St., Buffalo, N.Y.
     
@@ -33,7 +34,7 @@
     
          <br/>PHOEBE A. HEARST
     
-     Wm B. Cravath<a href="../doc/n01" class="internal_link">1</a>
+     Wm B. Cravath<a href="#n01" class="internal_link">1</a>
       </span>
 
 
@@ -44,4 +45,3 @@
 
    <div class="note">Note 1: William B. Cravath (1868-1951) was business secretary for the Hearst Estate. </div>
 </div>
-

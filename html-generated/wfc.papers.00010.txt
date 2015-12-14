@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
 
       <h3>From Toronto to Grasshopper Falls: The Westering Impulse of the Codys to 1865</h3>
@@ -24,4 +24,3 @@
 
 
 </div>
-

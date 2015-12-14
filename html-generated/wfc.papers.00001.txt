@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
       <h3>Exceptionalists Abroad: Mark Twain, Buffalo Bill and Venture Cosmopolitanism</h3>
 
@@ -25,4 +25,3 @@
 
 
 </div>
-

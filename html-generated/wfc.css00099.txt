@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00099.001.jpg"
@@ -28,9 +28,7 @@ Mar. 7th 1901—
       <span class="salute">My. Dear. Hinkle.</span>
 
 
-      <p>Your telegram came and I now I am looking for <a rel="tooltip" class="sic" title="another​ ">annother</a>
-    ​ one saying everything is <a rel="tooltip" class="sic" title="all right​ ">allright</a>
-    ​— W. A. Richards promised to rush papers through as soon as they got there from Lander—<a href="../doc/n01" class="internal_link">1</a>
+      <p>Your telegram came and I now I am looking for <a rel="tooltip" class="sic" title="another​ &#xA;    ">annother</a> one saying everything is <a rel="tooltip" class="sic" title="all right​ &#xA;    ">allright</a>— W. A. Richards promised to rush papers through as soon as they got there from Lander—<a href="#n01" class="internal_link">1</a>
       </p>
 
       <span class="closer">
@@ -40,12 +38,12 @@ Mar. 7th 1901—
 
          <br/>W. F. Cody
 
-<span class="dateline">Hoffman House—<a href="../doc/n02" class="internal_link">2</a>
+<span class="dateline">Hoffman House—<a href="#n02" class="internal_link">2</a>
          </span>
       </span>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -80,4 +78,3 @@ Wyo.
    <div class="note">Note 2: The Hoffman House was a leading New York hotel at the time.</div>
 
 </div>
-

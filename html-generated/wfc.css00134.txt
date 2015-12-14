@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,23 +20,22 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Boise. Ida.
-Aug 18th 1902<a href="../doc/n01" class="internal_link">1</a>
+Aug 18th 1902<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My. Dear. <span class="persName">Hinkle</span>—</span>
+      <span class="salute">My. Dear. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Hinkle</span>—</span>
 
 
-      <p>A Mr. M. P. Pels- President of the great Maxwell Grant in Southern Col and New Mexico-Will call on you.<a href="../doc/n02" class="internal_link">2</a> To Know all about Cody and Salsbury Canal- We have decided to follow the upper Meade Quarry around the foot of <a rel="tooltip" class="sic" title="Heart​ ">Hart</a>
-    ​ Mountain— this will join on both sides of the river about 120000 acres of irrigable land—<a href="../doc/n03" class="internal_link">3</a> I know this is asking much of you and giving you extra work- but you wait till I land this enterprise I have the money in site in England to do this work— but if I can get it sooner here. I will take it. So try &amp; land Mr Pell. Introduce him to the <a rel="tooltip" class="sic" title="Governor​ ">Govenor</a>
-    ​ and Board- and Mr Bond.<a href="../doc/n04" class="internal_link">4</a>
+      <p>A Mr. M. P. Pels- President of the great Maxwell Grant in Southern Col and New Mexico-Will call on you.<a href="#n02" class="internal_link">2</a> To Know all about Cody and Salsbury Canal- We have decided to follow the upper Meade Quarry around the foot of <a rel="tooltip" class="sic" title="Heart​ &#xA;    ">Hart</a> Mountain— this will join on both sides of the river about 120000 acres of irrigable land—<a href="#n03" class="internal_link">3</a> I know this is asking much of you and giving you extra work- but you wait till I land this enterprise I have the money in site in England to do this work— but if I can get it sooner here. I will take it. So try &amp; land Mr Pell. Introduce him to the <a rel="tooltip" class="sic" title="Governor​ &#xA;    ">Govenor</a> and Board- and Mr Bond.<a href="#n04" class="internal_link">4</a>
       </p>
 
-      <p>Will you please ask Mr. Tynan if he wants my application in writing for the rerental of those leased lands of mine in Big Horn Co—<a href="../doc/n05" class="internal_link">5</a>
+      <p>Will you please ask Mr. Tynan if he wants my application in writing for the rerental of those leased lands of mine in Big Horn Co—<a href="#n05" class="internal_link">5</a>
       </p>
 
       <p>Please let me hear from you </p>
 
-      <p>Mike Russell is still with me.<a href="../doc/n06" class="internal_link">6</a>
+      <p>Mike Russell is still with me.<a href="#n06" class="internal_link">6</a>
       </p>
 
       <span class="closer">
@@ -47,7 +46,7 @@ Aug 18th 1902<a href="../doc/n01" class="internal_link">1</a>
 
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -90,4 +89,3 @@ Wyo.
    <div class="note">Note 6: The Irish-born Michael R. Russell (1847-1930) met William F. Cody in Kansas during the 1860s, and the two men formed a lasting friendship. Russell moved to Deadwood, South Dakota, in 1877 and took up business interests that included saloonkeeping and mining operations. About 1895, Russell sold Cody a herd of horses and the "TE" brand, which Cody used to establish his TE Ranch on the South Fork of the Shoshone River southwest of Cody, Wyoming.</div>
 
 </div>
-

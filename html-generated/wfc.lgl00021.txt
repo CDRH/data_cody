@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -17,7 +17,8 @@
       </span>
 
       <div class="note">
-         <span class="persName">C. E. Hayden</span>, Engineer and Surveyor</div>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c"/>C. E. Hayden</span>, Engineer and Surveyor</div>
 
 
       <span class="ab">Burlington pump house</span>
@@ -53,4 +54,3 @@ May, 1906<br/>
 
 
 </div>
-

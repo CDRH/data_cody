@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -27,13 +27,18 @@
       <span class="byline">[SPECIAL CORRESPONDENCE OF THE WORLD.]</span>
       <span class="dateline">WASHINGTON, Feb. 10.</span>
 
-      <p>THE WORLD'S special correspondent visited the Indians after the council held with the Commissioner of Indian Affairs yesterday, and found that they were well pleased with the promises and encouragement given them by Commissioner Morgan;<a href="../doc/n01" class="internal_link">1</a> more especially the Indians from Cheyenne River, Standing Rock, Lower Brule and Crow Creek agencies.</p>
+      <p>THE WORLD'S special correspondent visited the Indians after the council held with the Commissioner of Indian Affairs yesterday, and found that they were well pleased with the promises and encouragement given them by Commissioner Morgan;<a href="#n01" class="internal_link">1</a> more especially the Indians from Cheyenne River, Standing Rock, Lower Brule and Crow Creek agencies.</p>
 
       <p>They feel that the Commissioner is doing all he can to have the treaties enforced. The Ogallallas and Brules will have their talk on Wednesday. They are now busy consulting as to whether it would be better to reduce their talks to writing, as proposed Monday afternoon.</p>
 
-      <p>THE WORLD published on Monday some of the leading questions which will be asked by the Ogallallas, which were translated from the Dakota language by <span class="persName">G. C. Crager</span>, and these questions will be handed to the Commissioner. It is, however, apparent that there is something of a misunderstanding between the Ogallallas and Northern Sioux. The Northern Agency Indians are continually asking for schools, while the Ogallallas and Brules are asking that they first be properly fed and clothed, that they get what was promised them in exchange for their lands. They, too, want their children educated, and they also want those who are educated and qualified therefor to be allowed to take positions on the agency which are now held by white men and that those of Indian blood shall receive the same pay for the same work as the white men. They want nothing but plain schools, which in due time can be taught by Indian graduates. They want a ration to be issued to these schools for each pupil in attendance, so that the children can be fed there.</p>
+      <p>THE WORLD published on Monday some of the leading questions which will be asked by the Ogallallas, which were translated from the Dakota language by <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g"/>G. C. Crager</span>, and these questions will be handed to the Commissioner. It is, however, apparent that there is something of a misunderstanding between the Ogallallas and Northern Sioux. The Northern Agency Indians are continually asking for schools, while the Ogallallas and Brules are asking that they first be properly fed and clothed, that they get what was promised them in exchange for their lands. They, too, want their children educated, and they also want those who are educated and qualified therefor to be allowed to take positions on the agency which are now held by white men and that those of Indian blood shall receive the same pay for the same work as the white men. They want nothing but plain schools, which in due time can be taught by Indian graduates. They want a ration to be issued to these schools for each pupil in attendance, so that the children can be fed there.</p>
 
-      <p> The Commissioner said yesterday that he could not furnish all the Indians with work, but that they must, as the white people do, seek employment wkerever they can find it. One of the chiefs commenting on this to-day, said: "Why do they object to our men seeking money, clothes and food by doing work with Buffalo Bill that we can do without an effort? Ugh! this makes me smile. Buffalo Bill does not take school-children, farmers or students for the ministry. He takes men who know how to ride and shoot, and when they come back they know much abaut the world and they tell us about it; tell the school-children what is true in their books; tell the old men how the world goes on; tell the would-be warriors what they would have to fight against; and it makes such good men as Maj. Sword, American Horse, <span class="persName">Rocky Bear</span>, <span class="persName">Red Shirt</span>, Lone Wolf, Stand Fast, <span class="persName">Black Heart</span>, Yankton Charlie, <span class="persName">No Neck</span>, &amp;c., and the many men who stood firm by the Ogallallas in favor of peace and against war by the knife, gun and pistol. These chiefs are still loyal to their race and willing to fight the battle of their people by appeal, by eloquence and by argument with the white chiefs in Washington.</p>
+      <p> The Commissioner said yesterday that he could not furnish all the Indians with work, but that they must, as the white people do, seek employment wkerever they can find it. One of the chiefs commenting on this to-day, said: "Why do they object to our men seeking money, clothes and food by doing work with Buffalo Bill that we can do without an effort? Ugh! this makes me smile. Buffalo Bill does not take school-children, farmers or students for the ministry. He takes men who know how to ride and shoot, and when they come back they know much abaut the world and they tell us about it; tell the school-children what is true in their books; tell the old men how the world goes on; tell the would-be warriors what they would have to fight against; and it makes such good men as Maj. Sword, American Horse, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rockybear"/>Rocky Bear</span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Red Shirt</span>, Lone Wolf, Stand Fast, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/blackheart.w"/>Black Heart</span>, Yankton Charlie, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/noneck"/>No Neck</span>, &amp;c., and the many men who stood firm by the Ogallallas in favor of peace and against war by the knife, gun and pistol. These chiefs are still loyal to their race and willing to fight the battle of their people by appeal, by eloquence and by argument with the white chiefs in Washington.</p>
 
       <p>"Not one of the men who have travelled with 'Long Hair' (Buffalo Bill) deserted the Government in the late troubles, and not one of them but will argue to the last for justice to their people before the authorities here. They have been taught that that is the proper way to appeal to the white man's chiefs, and not to go on the warpath. Is that not good employment? 'Long Hair' pays us from $25 to $50 a month in cash, besides clothing, food and attendance. The police on the agency only get $10 per month and they furnish their own horses.</p>
 
@@ -41,7 +46,8 @@
 
       <p> "We learn from the newspapers that there is much snow in our country now. It is very cold there: We wonder how our people fare. Are they starving for want of food? Are they freezing for want of clothing? Instead of all this talk let the white chiefs act. That is a wise man's part."</p>
 
-      <p>The Indians feel highly grieved that <span class="persName">Gen. Miles</span>, who is and has been proved to be their friend, has not been sent for. "Why are they afraid to send for him?" the chiefs are asking. "There are some important facts we wish to prove by him. But we must abide by the decisions of the White Chiefs."</p>
+      <p>The Indians feel highly grieved that <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/miles.n"/>Gen. Miles</span>, who is and has been proved to be their friend, has not been sent for. "Why are they afraid to send for him?" the chiefs are asking. "There are some important facts we wish to prove by him. But we must abide by the decisions of the White Chiefs."</p>
   
       <span class="hr"> </span>
       <span class="pageimage">
@@ -72,4 +78,3 @@
    <div class="note">Note 1: Thomas Jefferson Morgan (1839-1902), Commissioner of Indian Affairs from 1889-1893.</div>
 
 </div>
-

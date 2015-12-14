@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -18,19 +18,17 @@
 
       <div class="note">Buffalo Bill's Wild West</div>
 
-      <span class="dateline">Burlington<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Burlington<a href="#n01" class="internal_link">1</a>
          <br/>
 
-Aug 17<a href="../doc/n02" class="internal_link">2</a>
+Aug 17<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
-      <p>I find that Jones<a href="../doc/n03" class="internal_link">3</a> is very unpopular in Kewanee<a href="../doc/n04" class="internal_link">4</a> and I <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ think he will ever go there again. And <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ Most Necessary that we should have a salesman there Mr. E. D. Mayhew Post Master<a href="../doc/n05" class="internal_link">5</a> wants the appointment for Kewanee and the county Henry Co. I wish you would send him the appointment at <u>once</u> As He wants to send some people out in Sep. And he wants to go to Chicago to see Eustis<a href="../doc/n06" class="internal_link">6</a> to make rates. he <a rel="tooltip" class="sic" title="also​ ">allso</a>
-    ​ wants an Exhibit of grain to show at the Fair.<a href="../doc/n07" class="internal_link">7</a> Will you kindly see that Mayhew gets his appointment and at once. Without putting off—</p>
+      <p>I find that Jones<a href="#n03" class="internal_link">3</a> is very unpopular in Kewanee<a href="#n04" class="internal_link">4</a> and I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> think he will ever go there again. And <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> Most Necessary that we should have a salesman there Mr. E. D. Mayhew Post Master<a href="#n05" class="internal_link">5</a> wants the appointment for Kewanee and the county Henry Co. I wish you would send him the appointment at <u>once</u> As He wants to send some people out in Sep. And he wants to go to Chicago to see Eustis<a href="#n06" class="internal_link">6</a> to make rates. he <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> wants an Exhibit of grain to show at the Fair.<a href="#n07" class="internal_link">7</a> Will you kindly see that Mayhew gets his appointment and at once. Without putting off—</p>
 
       <span class="closer">
          <span class="salute">Very truly yours</span>
@@ -58,4 +56,3 @@ Aug 17<a href="../doc/n02" class="internal_link">2</a>
    <div class="note">Note 7: "Exhibit of grain to show at the Fair" likely refers to samples of grain grown in the Big Horn Basin.</div>
 
 </div>
-

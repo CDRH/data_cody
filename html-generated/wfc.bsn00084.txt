@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -22,7 +22,8 @@
 
 
 
-      <span class="persName">Mr. B. Rumsey</span>,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. B. Rumsey</span>,
 
 Ellicott Square Bldg.,
 
@@ -32,7 +33,8 @@ Buffalo, N.Y.
 <span class="salute">Dear Mr. Rumsey:</span>
 
 
-      <p>I have yours of the 1st, stating that you had purchased <span class="persName">Mr. Bleistein's</span> stock. I think it is a mighty good deal, as, if we were to close out, it surely would bring more than par.</p>
+      <p>I have yours of the 1st, stating that you had purchased <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Mr. Bleistein's</span> stock. I think it is a mighty good deal, as, if we were to close out, it surely would bring more than par.</p>
 
       <p>I am returning herewith the release which you no doubt want to hand to Mr. Bleistein. I have affixed the corporate seal.</p>
 
@@ -50,4 +52,3 @@ Buffalo, N.Y.
 
 
 </div>
-

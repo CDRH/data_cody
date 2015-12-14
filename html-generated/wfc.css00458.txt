@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,18 +23,19 @@
          </div>
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
-      <span class="dateline">Macon. Ga<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Macon. Ga<a href="#n01" class="internal_link">1</a>
          <br/>
-Oct. 19th<a href="../doc/n02" class="internal_link">2</a>
+Oct. 19th<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
-      <p>No letter for several days Recd a letter from Arta<a href="../doc/n03" class="internal_link">3</a> Said she met <span class="persName">Mr Heckert</span> on train going to Sheridan after <u>Blankets</u>. I do hope you and he both did not leave the work at the same time. And its strange if Heckert had to go after <u>Blankets</u>. These things should have been thought if not why does so important a man have to go after blankets?</p>
+      <p>No letter for several days Recd a letter from Arta<a href="#n03" class="internal_link">3</a> Said she met <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t"/>Mr Heckert</span> on train going to Sheridan after <u>Blankets</u>. I do hope you and he both did not leave the work at the same time. And its strange if Heckert had to go after <u>Blankets</u>. These things should have been thought if not why does so important a man have to go after blankets?</p>
 
-      <p>I am uneasy about these things and over anxious as I am getting other peoples money to spend in this <a rel="tooltip" class="sic" title="enterprise​ ">enterprize</a>
-    ​. And I want nothing done wrong. You are the Boss there. And My Dear Friend I hope you will take the same interest. I will feel awful if money is uselessly squandered there. And no good results to show. I may be there by
+      <p>I am uneasy about these things and over anxious as I am getting other peoples money to spend in this <a rel="tooltip" class="sic" title="enterprise​ &#xA;    ">enterprize</a>. And I want nothing done wrong. You are the Boss there. And My Dear Friend I hope you will take the same interest. I will feel awful if money is uselessly squandered there. And no good results to show. I may be there by
 
 
 <span class="hr"> </span>
@@ -59,17 +60,15 @@ November 15th or 20<u>th</u> with the party. And I want them to feel that we are
 
       <p>Say. George.</p>
 
-      <p>Please send me some more of that building rock Gypsom. Sulphur. Asphalt. And anything I can show or talk on. Send it quick. And please write me <a rel="tooltip" class="sic" title="what's​ ">whats</a>
-    ​ being done and how you are doing it. And that you see that every body does an honest days work And no time is lost.</p>
+      <p>Please send me some more of that building rock Gypsom. Sulphur. Asphalt. And anything I can show or talk on. Send it quick. And please write me <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> being done and how you are doing it. And that you see that every body does an honest days work And no time is lost.</p>
 
-      <p>If I get out there and these businessmen sees that the work is being extravagantly done— I fear they <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ put up any more money. For Gods sake hoof them up. </p>
+      <p>If I get out there and these businessmen sees that the work is being extravagantly done— I fear they <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> put up any more money. For Gods sake hoof them up. </p>
 
       <span class="closer">
          <br/>Cody
 </span>
 
-      <p>PS. Denbeigh<a href="../doc/n04" class="internal_link">4</a> has written me for his money.</p>
+      <p>PS. Denbeigh<a href="#n04" class="internal_link">4</a> has written me for his money.</p>
 
    </div>
 
@@ -85,4 +84,3 @@ November 15th or 20<u>th</u> with the party. And I want them to feel that we are
 
 
 </div>
-

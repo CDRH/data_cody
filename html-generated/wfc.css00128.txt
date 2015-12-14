@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,18 +19,19 @@
 
       <div class="note">Buffalo Bill's Wild West</div>
 
-      <span class="dateline">Philadelphia. Pa<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Philadelphia. Pa<a href="#n01" class="internal_link">1</a>
          <br/>
 May. 14th 1902
 </span>
-      <span class="salute">My. Dear. <span class="persName">Hinkle</span>—</span>
+      <span class="salute">My. Dear. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Hinkle</span>—</span>
 
 
-      <p>Yours 9th to hand Mr. Hawks<a href="../doc/n02" class="internal_link">2</a> &amp; Nelson— are now at Cody looking the Cody- and Salsbury Canal over— They will be in Cheyenne soon They will ask for water for placer mining. as well as for irrigation and it will be for the best interest of the state to be liberal as the building of this expensive canal means much—</p>
+      <p>Yours 9th to hand Mr. Hawks<a href="#n02" class="internal_link">2</a> &amp; Nelson— are now at Cody looking the Cody- and Salsbury Canal over— They will be in Cheyenne soon They will ask for water for placer mining. as well as for irrigation and it will be for the best interest of the state to be liberal as the building of this expensive canal means much—</p>
 
-      <p>Yes Cody is still in line for the Elks Home.<a href="../doc/n03" class="internal_link">3</a> And I trust that the Wyo Elks will work for it.</p>
+      <p>Yes Cody is still in line for the Elks Home.<a href="#n03" class="internal_link">3</a> And I trust that the Wyo Elks will work for it.</p>
 
-      <p>With very kindest regards to the Govrnor<a href="../doc/n04" class="internal_link">4</a> and others.</p>
+      <p>With very kindest regards to the Govrnor<a href="#n04" class="internal_link">4</a> and others.</p>
 
       <span class="closer">
          <span class="salute">Yours very truly</span>
@@ -39,7 +40,7 @@ May. 14th 1902
 </span>
    </div>
 
-   <div class="type doublespace ">
+   <div class="type">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -82,4 +83,3 @@ Wyo
    <div class="note">Note 4: DeForest Richards (1846-1903) was then the governor of Wyoming.</div>
 
 </div>
-

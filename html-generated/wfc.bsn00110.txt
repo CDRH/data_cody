@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -27,7 +27,8 @@
 
 
 
-      <span class="persName">Mr. Bronson Rumsey</span>, Trustee,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>, Trustee,
 
 696 Ellicott Square,
 
@@ -99,7 +100,7 @@ CLB</div>
    </div>
 
 
-   <div class="record doublespace ">
+   <div class="record">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.bsn00110.002.jpg"
@@ -114,7 +115,7 @@ CLB</div>
 
       <p>State of Business Transacted by the Lincoln Land Company, at Cody, Wyoming, with respect to the one-half interest of Bronson Rumsey, Trustee, for the six months ending December 31st, 1928.</p>
 
-      <div class=" ">
+      <div class="">
          <h3>
             <u>SALES.</u>
          </h3>
@@ -143,7 +144,7 @@ CLB</div>
          </table>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>
             <u>RECEIPTS &amp; DISBURSEMENTS.</u>
          </h3>
@@ -224,7 +225,7 @@ CLB</div>
          </table>
 
       </div>
-      <div class=" ">
+      <div class="">
          <h3>Bronson Rumsey, Trustee,<br/>
 In Account with Lincoln Land Company.</h3>
 
@@ -297,4 +298,3 @@ In Account with Lincoln Land Company.</h3>
 
 
 </div>
-

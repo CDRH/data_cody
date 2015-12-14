@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,7 +21,8 @@
       <span class="dateline">Jan. 25, 1918.</span>
 
 
-      <span class="persName">Mr. H. M. Gerrans</span>, 
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Mr. H. M. Gerrans</span>, 
 
 Hotel Iroquios,
 
@@ -56,7 +57,8 @@ Buffalo, N. Y.
 
 will come on to Buffalo.</p>
 
-      <p>I wish you would show these to <span class="persName">Mr. Rumsey</span>, so that he will know what is doing. I think we will show a reasonable profit for 1917. We have got things systematized and going much better <del>than</del> the last couple of years since we are selling for cash than we ever had before. It has been a question of being able to increase the cash business so that we will make something. Making a change from credit to cash it was sure to decrease the volume, but we feel we are getting it back to where it belongs, and where it was originally under the charge basis, so that we should do very well. </p>
+      <p>I wish you would show these to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Rumsey</span>, so that he will know what is doing. I think we will show a reasonable profit for 1917. We have got things systematized and going much better <del>than</del> the last couple of years since we are selling for cash than we ever had before. It has been a question of being able to increase the cash business so that we will make something. Making a change from credit to cash it was sure to decrease the volume, but we feel we are getting it back to where it belongs, and where it was originally under the charge basis, so that we should do very well. </p>
 
 
       <span class="closer">
@@ -64,7 +66,8 @@ will come on to Buffalo.</p>
 
 
          <br/>
-         <span class="persName">J. M. Schwoob</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/schwoob.j"/>J. M. Schwoob</span>
 
 
          <div class="note">JMS/HS</div>
@@ -75,4 +78,3 @@ will come on to Buffalo.</p>
 
 
 </div>
-

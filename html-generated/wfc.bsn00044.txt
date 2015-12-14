@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,7 +23,8 @@
 
       <span class="dateline">January 18, 1908.</span>
 
-      <span class="persName">Mr. Bronson Rumsey</span>, Trustee,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>, Trustee,
 
 Onota Farm, 
 
@@ -61,7 +62,7 @@ CLB</div>
       </a>
    </span>
 
-   <div class="record doublespace ">
+   <div class="record">
 
       <p>Statement of business transacted at Cody, Wyoming, by the Lincoln Land Company, with respect to the one-half interest of Bronson Rumsey, trustee, for the six months ending December 31, 1907.</p>
 
@@ -85,4 +86,3 @@ CLB</div>
 
 
 </div>
-

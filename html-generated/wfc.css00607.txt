@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">DEPARTMENT OF THE INTERIOR <br/> WASHINGTON </div>
@@ -47,7 +47,7 @@ been had, and it is therefore requested that you state the reason for the delay 
 
       <span class="closer">
          <span class="salute">Cordially yours,</span>
-    (Sgd) E. J. AYERS<a href="../doc/n01" class="internal_link">1</a>
+    (Sgd) E. J. AYERS<a href="#n01" class="internal_link">1</a>
          <br/>Chief Clerk.
     <div class="note">McC</div>
       </span>
@@ -58,4 +58,3 @@ been had, and it is therefore requested that you state the reason for the delay 
   <div class="note">Note 1: Ezekiel Jarman Ayers (1866-1931) was Chief Clerk, Department of Interior, Superintendent of Buildings, and Acting Assistant Secretary of Interior; he was appointed by Secretary of War Franklin K. Lane in 1911, serving until his resignation in 1920.</div>
 
 </div>
-

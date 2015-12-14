@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,19 +20,19 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">The Dalles, Ore
-Aug. 25th 1902<a href="../doc/n01" class="internal_link">1</a>
+Aug. 25th 1902<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear. Hinkle.</span>
 
 
-      <p>Many thanks my dear friend— Hope to be able to make good some day for your many acts of kindness Yes Mike is still on his job. having a good time— and he is a good fellow— he says remember him.<a href="../doc/n02" class="internal_link">2</a>
+      <p>Many thanks my dear friend— Hope to be able to make good some day for your many acts of kindness Yes Mike is still on his job. having a good time— and he is a good fellow— he says remember him.<a href="#n02" class="internal_link">2</a>
       </p>
 
-      <p>Do your prettiest to land Pels if he shows up. A man who could handle the Maxwell Grant near two million acres is a good man for Wyo.<a href="../doc/n03" class="internal_link">3</a>
+      <p>Do your prettiest to land Pels if he shows up. A man who could handle the Maxwell Grant near two million acres is a good man for Wyo.<a href="#n03" class="internal_link">3</a>
       </p>
 
-      <p>Regards to Govenor— and others<a href="../doc/n04" class="internal_link">4</a>
+      <p>Regards to Govenor— and others<a href="#n04" class="internal_link">4</a>
       </p>
 
       <span class="closer">
@@ -42,7 +42,7 @@ Aug. 25th 1902<a href="../doc/n01" class="internal_link">1</a>
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00136.002.jpg"
@@ -85,4 +85,3 @@ Wyo.
    <div class="note">Note 4: DeForest Richards (1846-1903) was then the governor of Wyoming.</div>
 
 </div>
-

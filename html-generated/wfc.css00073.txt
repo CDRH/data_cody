@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <span class="hr"> </span>
@@ -23,15 +23,13 @@
 
       <span class="salute">My. Dear. Peake</span>
 
-      <p>Yours to hand. And I regret much that you are going to leave the Press. But as you say Mrs W. can get a man much cheaper to do the work. But I fear not nearly so good. I will be <a rel="tooltip" class="sic" title="gratified​ ">grattified</a>
-    ​ to know that you have not left us entirely <span class="unclear ">[?]</span> will interest you in the Advertising department I have just written Mrs W. about transportation &amp;c—</p>
+      <p>Yours to hand. And I regret much that you are going to leave the Press. But as you say Mrs W. can get a man much cheaper to do the work. But I fear not nearly so good. I will be <a rel="tooltip" class="sic" title="gratified​ &#xA;    ">grattified</a> to know that you have not left us entirely <span class="unclear ">[?]</span> will interest you in the Advertising department I have just written Mrs W. about transportation &amp;c—</p>
 
       <span class="closer">
          <span class="salute">You have my best wishes where ever you go—</span>
 
          <span class="salute">
-            <a rel="tooltip" class="sic" title="Always​ ">Allways</a>
-    ​ your friend</span>
+            <a rel="tooltip" class="sic" title="Always​ &#xA;    ">Allways</a> your friend</span>
 
          <br/>W. F. Cody
 </span>
@@ -40,4 +38,3 @@
 
 
 </div>
-

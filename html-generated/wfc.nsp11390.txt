@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -15,7 +15,8 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <p>It is said that Buffalo Bill's daughter<a href="../doc/n01" class="internal_link">1</a> has come over to England at the express request of her <span class="persName">Majesty</span>, who has signified her desire that she should be presented at Court. The lady is 22, and is described as being very handsome.</p>
+      <p>It is said that Buffalo Bill's daughter<a href="#n01" class="internal_link">1</a> has come over to England at the express request of her <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Majesty</span>, who has signified her desire that she should be presented at Court. The lady is 22, and is described as being very handsome.</p>
 
    </div>
 
@@ -24,4 +25,3 @@
    <div class="note">Note 1: Arta Cody (1866-1904) was the eldest daughter of Louisa and William F. Cody.</div> 
 
 </div>
-

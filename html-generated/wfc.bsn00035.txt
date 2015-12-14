@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,7 +25,8 @@
       <span class="dateline">December 14, 1905.</span>
 
 
-      <span class="persName">Mr. Bronson Rumsey</span>, Trustee,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>, Trustee,
 
 78 Exchange Street,
 
@@ -35,8 +36,7 @@ Buffalo, N. Y.
 <span class="salute">Dear Sir:</span>
 
 
-      <p>By request of Col. Cody, we send you herewith draft on the Chemical National Bank of New York No. 391544 of the First National Bank of this city for $11,000 as advance payment on proceeds of the one-half interest in the Cody property held by you as Trustee. A final accounting with statement <a rel="tooltip" class="sic" title="and remittance​ ">andremittance</a>
-    ​ will be made at the usual time at the close of the year. Be kind enough to receipt and return the accompanying voucher.</p>
+      <p>By request of Col. Cody, we send you herewith draft on the Chemical National Bank of New York No. 391544 of the First National Bank of this city for $11,000 as advance payment on proceeds of the one-half interest in the Cody property held by you as Trustee. A final accounting with statement <a rel="tooltip" class="sic" title="and remittance​ &#xA;    ">andremittance</a> will be made at the usual time at the close of the year. Be kind enough to receipt and return the accompanying voucher.</p>
 
 
       <span class="closer">
@@ -64,7 +64,7 @@ Sec'y
       </a>
    </span>
 
-   <div class="letter doublespace ">
+   <div class="letter">
 
       <div class="note">Office of Lincoln Land Company<br/>Rooms 33-36, 1241 O Street<br/>Lincoln, Neb.<br/>C. H. Morrill, President.<br/>A. B. Minor, Sec'y and Treasurer.<br/>Quotations of Prices Are Subject to Change without Notice.</div>
 
@@ -109,7 +109,7 @@ Sec'y
       </a>
    </span>
 
-   <div class="report doublespace ">
+   <div class="report">
 
       <p>Statement of business transacted at Cody, Wyoming, by the Lincoln Land Company, with respect to the one-half interest of Bronson Rumsey, Trustee, for the six months ending December 30, 1905.</p>
       <div class="note">[View image of page one of six-month financial statement ending December 30, 1905, for full display.]</div>
@@ -166,4 +166,3 @@ Sec'y
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="scrapbook ">
+   <div class="scrapbook">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -16,7 +16,7 @@
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h3>SOUVENIR ALBUM<br/>
 of the visit of<br/>
 HER MAJESTY QUEEN VICTORIA<br/>
@@ -36,7 +36,7 @@ AMERICAN EXHIBITION.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">Buffalo Bill Museum<br/>CODY, WYOMING</div>
 
          <div class="note">
@@ -57,7 +57,7 @@ AMERICAN EXHIBITION.</h3>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -71,34 +71,34 @@ AMERICAN EXHIBITION.</h3>
 OF HER MAJESTY'S JUBILEE, JUNE 20TH, 1887.</h3>
          <div class="milestone line"> </div>
 
+         <div class="">
+            <h4>THE AMERICAN EXHIBITION.</h4>
 
-         <h4>THE AMERICAN EXHIBITION.</h4>
-
-         <span class="dateline">
-            <em class="hi">EXECUTIVE OFFICES, WEST BROMPTON, S.W., <br/>
+            <span class="dateline">
+               <em class="hi">EXECUTIVE OFFICES, WEST BROMPTON, S.W., <br/>
 
 June 20th, 1887.</em>
-         </span>
+            </span>
 
-         <p>The Executive Council, the Executive Officers, and the Exhibitors of the American Exhibition, now being held in London—the first exclusively American Exhibition ever held beyond the limits of the National Territory—desire to respectfully tender their earnest and sincere congratulations to Her Majesty Queen Victoria, whose glorious and beneficent reign of fifty years is unique in the history of the world, and to pray that Her Majesty may long be spared to Her people, and to this great country, which Americans consider, and will ever consider, as the one nearest and dearest to them, after their own native land.</p>
+            <p>The Executive Council, the Executive Officers, and the Exhibitors of the American Exhibition, now being held in London—the first exclusively American Exhibition ever held beyond the limits of the National Territory—desire to respectfully tender their earnest and sincere congratulations to Her Majesty Queen Victoria, whose glorious and beneficent reign of fifty years is unique in the history of the world, and to pray that Her Majesty may long be spared to Her people, and to this great country, which Americans consider, and will ever consider, as the one nearest and dearest to them, after their own native land.</p>
 
-         <span class="closer">
-            <span class="salute">ON BEHALF OF THE EXECUTIVE COUNCIL,<br/>
+            <span class="closer">
+               <span class="salute">ON BEHALF OF THE EXECUTIVE COUNCIL,<br/>
 THE EXECUTIVE OFFICERS AND THE EXHIBITORS,</span>
-            <br/>JOHN R. WHITLEY,<br/>
+               <br/>JOHN R. WHITLEY,<br/>
 Director-General.</span>
+         </div>
 
-
-
-         <span class="dateline">
-            <em class="hi">WINDSOR CASTLE,<br/> 
+         <div class="">
+            <span class="dateline">
+               <em class="hi">WINDSOR CASTLE,<br/> 
 June 24th, 1887.</em>
-         </span>
+            </span>
 
-         <p>
-            <em class="hi">"Sir Henry Ponsonby is commanded by The Queen to thank the Executive Council, the Executive Officers, and the Exhibitors of the American Exhibition for their kind congratulations."</em>
-         </p>
-
+            <p>
+               <em class="hi">"Sir Henry Ponsonby is commanded by The Queen to thank the Executive Council, the Executive Officers, and the Exhibitors of the American Exhibition for their kind congratulations."</em>
+            </p>
+         </div>
       </div>
 
       <span class="hr"> </span>
@@ -111,7 +111,7 @@ June 24th, 1887.</em>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -138,7 +138,7 @@ June 24th, 1887.</em>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="note">
             <div class="inline_figure">
@@ -177,7 +177,7 @@ June 24th, 1887.</em>
          </div>
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <blockquote>
             <p>
@@ -197,7 +197,7 @@ June 24th, 1887.</em>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -340,7 +340,7 @@ June 24th, 1887.</em>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -525,7 +525,7 @@ LONDON, 1887.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="note">
             <div class="inline_figure">
@@ -598,7 +598,7 @@ LONDON, 1887.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -667,7 +667,7 @@ LONDON, 1887.</h3>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -740,7 +740,7 @@ LONDON, 1887.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -769,7 +769,7 @@ LONDON, 1887.</span>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -844,7 +844,7 @@ year till May of 1887. Since that time the executive officers have been hard at 
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -926,7 +926,7 @@ gardens of England have been enriched from the flora of the great Western Contin
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -1320,7 +1320,7 @@ gardens of England have been enriched from the flora of the great Western Contin
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div> 
@@ -1358,7 +1358,7 @@ OF THE GROUNDS, COVERING ABOUT SEVEN ACRES OF LAND.</em>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="note">
             <div class="inline_figure">
@@ -1388,7 +1388,7 @@ OF THE GROUNDS, COVERING ABOUT SEVEN ACRES OF LAND.</em>
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>PROGRAMME OF EXHIBITION BEFORE THE QUEEN.</h3>
          <div class="milestone line"> </div>
          <ul>
@@ -1413,7 +1413,7 @@ OF THE GROUNDS, COVERING ABOUT SEVEN ACRES OF LAND.</em>
 
 
       </div>
-      <div class=" ">
+      <div class="">
          <p>
             <em class="hi">Names of those persons connected with the</em> "WILD WEST" <em class="hi">who were presented to the QUEEN</em>—COL. W. F. CODY, Mr. NATE SALSBURY (Director), Mr. FRANK RICHMOND,
 "RED SHIRT" (Sioux Chief), Miss ANNIE OAKLEY, Miss LILIAN SMITH, BRONCHO BILL (Interpreter), ELLA IRVING (Half-breed Woman) and Child, LIZZIE, UNPA-TO-HA (Indian Woman) and Child, HA-PE-AH (Indian Woman) and Child.</p>
@@ -1430,7 +1430,7 @@ OF THE GROUNDS, COVERING ABOUT SEVEN ACRES OF LAND.</em>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div>
@@ -1471,7 +1471,7 @@ EXHIBITION.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div>
@@ -1517,7 +1517,7 @@ EXHIBITION.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div>
@@ -1554,7 +1554,7 @@ EXHIBITION.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div>
@@ -1587,7 +1587,7 @@ EXHIBITION.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="note">
             <div class="inline_figure">
@@ -1612,7 +1612,7 @@ EXHIBITION.</h3>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div>
@@ -1637,7 +1637,7 @@ EXHIBITION.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div>
@@ -1747,7 +1747,7 @@ EXHIBITION.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="note">
             <div class="inline_figure">
@@ -2106,7 +2106,7 @@ EXHIBITION.</h3>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">
             <div class="inline_figure">
                <div class="p">[illustration]</div>
@@ -2692,4 +2692,3 @@ EXHIBITION.</h3>
 
 
 </div>
-

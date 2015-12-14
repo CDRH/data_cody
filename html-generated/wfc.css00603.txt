@@ -14,13 +14,13 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">DEPARTMENT OF THE INTERIOR <br/> WASHINGTON <br/> Address Only The Secretary of the Interior</div>
       <span class="dateline">January 28, 1916.</span>
   
-      <span class="salute">MEMORANDUM FOR MR. AYERS<a href="../doc/n01" class="internal_link">1</a>:</span>
+      <span class="salute">MEMORANDUM FOR MR. AYERS<a href="#n01" class="internal_link">1</a>:</span>
 
 
 
@@ -29,7 +29,7 @@
       
       <span class="closer">
          <span class="salute">The letter from Colonel Cody is herewith.</span>
-         <br/>D. C.<a href="../doc/n02" class="internal_link">2</a>
+         <br/>D. C.<a href="#n02" class="internal_link">2</a>
       </span>
    </div>
 
@@ -39,4 +39,3 @@
   <div class="note">Note 2: "D. C." is unidentified.</div>
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
 
       <h3>William F. Cody and the Railroads: The Role of the Old West and the New West in the Development of Cody, Wyoming</h3>
@@ -24,4 +24,3 @@
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00575.jpg"
@@ -22,7 +22,7 @@
       </div>
 
 
-      <span class="ab"> Number  J<a href="../doc/n01" class="internal_link">1</a> /</span>
+      <span class="ab"> Number  J<a href="#n01" class="internal_link">1</a> /</span>
 
 
       <span class="ab"> Sent By  K /</span>
@@ -35,20 +35,21 @@
 
 
 
-      <span class="ab"> Received at  120pm<br/>4/7  1896<a href="../doc/n02" class="internal_link">2</a>
+      <span class="ab"> Received at  120pm<br/>4/7  1896<a href="#n02" class="internal_link">2</a>
       </span>
 
 
       <span class="ab"> Dated  New York N Y 7</span>
 
 
-      <span class="ab"> To  <span class="persName">George T Beck</span>
+      <span class="ab"> To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T Beck</span>
       </span>
 
       <span class="ab">Sheridan, Wyo</span>
 
 
-      <p>Are you ready for sturips expects stumps experts<a href="../doc/n03" class="internal_link">3</a> kind regards every one.</p>
+      <p>Are you ready for sturips expects stumps experts<a href="#n03" class="internal_link">3</a> kind regards every one.</p>
 
 
       <span class="closer">
@@ -68,4 +69,3 @@
 
 
 </div>
-

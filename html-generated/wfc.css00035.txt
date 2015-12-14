@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">The Col. W. F. Cody (Buffalo Bill) Historical Pictures Co. F. G. Bonfils, President Col. W.F. Cody, Vice-President Geo K. Spoor, Treasurer H.H. Tammen, Secretary 237 Symes Building Denver, Colo. 521 First National Bank Bldg. Chicago. Ill.</div>
@@ -46,4 +46,3 @@ Wyo
 
 
 </div>
-

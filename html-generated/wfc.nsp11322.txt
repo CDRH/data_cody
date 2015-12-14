@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11322.jpg"
@@ -20,12 +20,12 @@
         <h3>REAL HISTORY REPEATED</h3>
         
         <h3>Actual Scenes Seem to Flash Before People As Lens Projects Them.</h3>
-        <div class=" ">
+        <div class="">
         <p>Washington, D. C., Feb. 28 — Official Washington, including members of the cabinet, senators, representatives, chiefs of all departments, tonight fixed their sign of approval on the moving pictures telling the story of historical Indian battles, which were taken under the direction of Col. W. F. Cody.</p>
         
         <p>The private exhibition of these marvelous reels was given at the Home Club, which is a social organization of the interior department, under the patronage of Secretary Lane. His was the idea that the exhibition be given in order that the president and all of officialdom might have a chance to see the wonderful educational value of the pictures, as his was the order by which the Indians were assembled on the Pine Ridge reservation, the scene of those battles that closed 200 years of savagery and brought the red man into friendly relations with his white conqueror.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h4>SECRETARY GARRISON EQUALLY INTERESTED.</h4>
         
         <p>As head of the army Secretary Garrison equally had been interested in preserving to posterity the vivid records of the accomplishments of the troopers. Both Secretaries Lane and Garrison expressed the deepest satisfaction with the pictures, declaring them to be historically correct in every detail. Secretary Garrison placed troops of the federal cavalry at the disposal of Colonel Cody, and thus to him, as to Secretary Lane, is due much of the credit for these historical documents by which the past ever will be kept alive to those who people the present and the future.</p>
@@ -40,7 +40,7 @@
         
         <p>"It has been my object and my desire," answered Colonel Cody, in response, "to preserve history by the aid of the camera, with the living participants who took an active part in the closing Indian wars of America. I first preached this subject to Secretary of War Garrison and Secretary of the Interior Lane. They gave me permission for the taking of the pictures on the condition that they would be made historically correct, showing the Indian wars and savagery of the Indian and following his progress to the present time.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h4>LANE AUTHORIZED GATHERING OF INDIANS.</h4>
         
         <p>Secretary Garrison gave permission for the United States troops to participate in this expedition, and Secretary Lane authorized the mobilization of such Indians as were required for this purpose.</p>
@@ -61,7 +61,7 @@
         
         <p>"And having been an actor in these early wars, having played my part with all the courage that was in me, courage kept warm and burning by my love of my country and my hope of a better day, when all men shall stand as brothers under a common flag. I know that the pictures you look at tonight are true to life. They were taken on the actual battleground; they were taken under bright or gray skies, such as lowered or gleamed on those days; they were commanded by men who commanded then and the children of tomorrow and the men and women of today, in these pictures, have history true, faithful, reliable. Lieut. Gen. Nelson Miles — the great "Bear Coat" — leads today as he led when we were trying to force back the frontier. Then, as now, we knew in him the brave pacificator. Maj. Gen. Jesse M. Lee, Maj. Gen. Charles King, Brig. Gen. Frank Baldwin, Brig. Gen. Marion P. Maus, Colonel Sickles, leading and assisting the gallant Twelfth U. S. cavalry appear.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h4>SIX MILES OF FILM USED FOR PICTURES.</h4>
         
         <p>"Then, as now, the red men followed the teachings of Chief Short Bull. Now, as then, we see the Messiah Medicine Man, with the leading warriors of the Red Cloud Sioux.</p>
@@ -72,4 +72,3 @@
       </div>
    </div>
     </div>
-

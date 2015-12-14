@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -21,7 +21,9 @@ ON EVERYDAY TEXTS.</h3>
 
       <h3>IV.—THE RED INDIAN IN LEEDS.</h3>
 
-      <p>"<span class="persName">Short Bull</span>" and "<span class="persName">Kicking Bear</span>" are amongst the Sioux Indians of Buffalo Bill's Wild West Show now exhibiting in Leeds.—<em class="hi">Daily Paper.</em>
+      <p>"<span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/short.bull"/>Short Bull</span>" and "<span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/kicking.bear"/>Kicking Bear</span>" are amongst the Sioux Indians of Buffalo Bill's Wild West Show now exhibiting in Leeds.—<em class="hi">Daily Paper.</em>
       </p>
 
       <div class="inline_figure">
@@ -50,7 +52,7 @@ ON EVERYDAY TEXTS.</h3>
          </span>
 
          <span class="lg">
-            <span class="l">"What d'ye think of Mayor Cooke?<a href="../doc/n01" class="internal_link">1</a>
+            <span class="l">"What d'ye think of Mayor Cooke?<a href="#n01" class="internal_link">1</a>
             </span>
             <span class="l">Tell me, Kicking Bear, and look,</span>
             <span class="l indent">You make no digression."</span>
@@ -64,7 +66,7 @@ ON EVERYDAY TEXTS.</h3>
             <span class="l">"Now, Short Bull, your turn comes next, </span>
             <span class="l">Don't evade on false pretext.</span>
             <span class="l indent">What think you of Spark, now?"</span>
-            <span class="l">"Doctor Sparkee,<a href="../doc/n02" class="internal_link">2</a> makee noise,</span>
+            <span class="l">"Doctor Sparkee,<a href="#n02" class="internal_link">2</a> makee noise,</span>
             <span class="l">Please the little girls and boys,</span>
             <span class="l">In Far West he'd givee joys,</span>
             <span class="l indent">But you keep it dark now."</span>
@@ -83,7 +85,7 @@ ON EVERYDAY TEXTS.</h3>
          <span class="lg">
             <span class="l">"Once again, then, Short Bull, say,</span>
             <span class="l">What think you of our Sir J.—</span>
-            <span class="l indent">That is, Sir James Kitson?"<a href="../doc/n03" class="internal_link">3</a>
+            <span class="l indent">That is, Sir James Kitson?"<a href="#n03" class="internal_link">3</a>
             </span>
             <span class="l">"Man of iron, very strong, </span>
             <span class="l">Fightee bravely, right or wrong,</span>
@@ -102,7 +104,7 @@ ON EVERYDAY TEXTS.</h3>
          </span>
 
          <span class="lg">
-            <span class="l">"Roundhay Park<a href="../doc/n04" class="internal_link">4</a> you've seen, Short Bull, </span>
+            <span class="l">"Roundhay Park<a href="#n04" class="internal_link">4</a> you've seen, Short Bull, </span>
             <span class="l">When with Sunday people full,</span>
             <span class="l indent">Is it not most charming?"</span>
             <span class="l">"If horse ridee very well,</span>
@@ -136,4 +138,3 @@ ON EVERYDAY TEXTS.</h3>
    <div class="note">Note 4: Roundhay Park, Leeds, West Yorkshire, where the first public trolley system (electric tram with overhead power) was installed in Britain in 1891.</div>
 
 </div>
-

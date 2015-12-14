@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>LIMMINGS.</h3>
 
@@ -32,4 +32,3 @@
 
 
 </div>
-

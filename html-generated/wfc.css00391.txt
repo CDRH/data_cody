@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00391.001.jpg"
@@ -26,18 +26,19 @@
 
       <div class="note">6 D. SQ. 12</div>
 
-      <span class="dateline">H- Omaha Nebr Mar 18-1914<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">H- Omaha Nebr Mar 18-1914<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">
-         <span class="persName">John H. Tait</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j"/>John H. Tait</span>
       </span>
 
 Albany Ho. Denver Colo
 
 
 
-<p>Tell hotel others Mrs. Cody and self will be there Friday morning<a href="../doc/n02" class="internal_link">2</a>
+<p>Tell hotel others Mrs. Cody and self will be there Friday morning<a href="#n02" class="internal_link">2</a>
       </p>
 
 
@@ -52,7 +53,7 @@ Albany Ho. Denver Colo
 
    <div class="note">Note 1: Cody had been in Omaha exhibiting his motion picture <em class="hi">The Indian Wars</em>.</div>
 
-   <div class="note">Note 2: "Friday morning" would have been March 20, 1914. The purpose for this trip to Denver may have been to rendezvous with the Sells-Floto Circus, whose winter quarters were in Denver. Cody would spend the 1914 and 1915 seasons with the circus. His first performance of the 1914 season was on March 28 in Albuquerque, New Mexico. Buffalo Bill's wife, <span class="persName">Louisa Frederici Cody</span>, often accompanied him on the road during his last years in show business.</div>
+   <div class="note">Note 2: "Friday morning" would have been March 20, 1914. The purpose for this trip to Denver may have been to rendezvous with the Sells-Floto Circus, whose winter quarters were in Denver. Cody would spend the 1914 and 1915 seasons with the circus. His first performance of the 1914 season was on March 28 in Albuquerque, New Mexico. Buffalo Bill's wife, <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/cody.l"/>Louisa Frederici Cody</span>, often accompanied him on the road during his last years in show business.</div>
 
 </div>
-

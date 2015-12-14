@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -23,9 +23,12 @@
       <h3>Most of the Indians' Troubles Were Due to the Wild Dissipation at the French Capital.</h3>
       <div class="milestone line"> </div>
 
-      <p>By far the most distinguished saloon passenger who landed from Europe yesterday from the North German Lloyd steamer Kaiser Wilhelm II. was <span class="persName">No-neck</span>, the Sioux chief, who has been travelling with Buffalo Bill in the Wild West combination now performing among the palefaces in Europe.</p>
+      <p>By far the most distinguished saloon passenger who landed from Europe yesterday from the North German Lloyd steamer Kaiser Wilhelm II. was <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/noneck"/>No-neck</span>, the Sioux chief, who has been travelling with Buffalo Bill in the Wild West combination now performing among the palefaces in Europe.</p>
 
-      <p>No-neck was met by the <span class="persName">Rev. Father Craft</span>, the Indian Missionary at the Pine Ridge settlement, who is also a chief of the Sioux tribe, and Interpreter <span class="persName">George C. Crager</span>, of the Department of Indian Affairs.</p>
+      <p>No-neck was met by the <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/craft.f"/>Rev. Father Craft</span>, the Indian Missionary at the Pine Ridge settlement, who is also a chief of the Sioux tribe, and Interpreter <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g"/>George C. Crager</span>, of the Department of Indian Affairs.</p>
 
       <p>Later in the afternoon No-neck told the reporters what he knew about the treatment received by the Indians travelling with the Wild West Show. The Rev. Father Craft acted as interpreter.</p>
 
@@ -50,7 +53,9 @@ clothes, cut in the latest European style, and a flannel shirt, ornamented with 
 
       <p>His replies were sometimes directly to the point, but when he did not wish to answer a question he smiled in a bland and childlike manner and gave some reply which displayed such cunning ignorance as would have delighted the District-Attorney if he wanted to empanel him on a jury.</p>
 
-      <p>He said that <span class="persName">Rocky Bear</span> and <span class="persName">Red Shirt</span> had trouble after the show left Paris, Bruin being jealous of favors shown by the Parisienne belles to the other gentleman. In consequence Red Shirt came home.</p>
+      <p>He said that <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rockybear"/>Rocky Bear</span> and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Red Shirt</span> had trouble after the show left Paris, Bruin being jealous of favors shown by the Parisienne belles to the other gentleman. In consequence Red Shirt came home.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -70,7 +75,8 @@ clothes, cut in the latest European style, and a flannel shirt, ornamented with 
 
       <p>This was all told by No-Neck with a most solemn face, and he was equally unmoved apparently when he admitted to Father Craft, amid loud laughter, that, as he found he could not keep the Indians in the way they should go, he thought he might as well take a hand himself and he sallied forth and saw the elephant on his own account.</p>
 
-      <p>He would not say whether he had any complaint against Colonel Cody or <span class="persName">Mate Salisbury</span>, and evaded the question by smiling in a bland manner and saying that his wife and three children had died while he was away and he was glad to get home.</p>
+      <p>He would not say whether he had any complaint against Colonel Cody or <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Mate Salisbury</span>, and evaded the question by smiling in a bland manner and saying that his wife and three children had died while he was away and he was glad to get home.</p>
 
       <p>He said: "I like the United States better than any country I have visited. Europe too little ground for big heap people." Thus showing that the old man is a keen observer of the labor problem, which he further showed when he said: "If body wants any more Indians from Pine Ridge he must pay them $50 a month."</p>
 
@@ -86,4 +92,3 @@ clothes, cut in the latest European style, and a flannel shirt, ornamented with 
 
 
 </div>
-

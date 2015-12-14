@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,14 +25,15 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
       <span class="dateline">Wilmington N. C.<br/>
-Oct 6<a href="../doc/n01" class="internal_link">1</a>
+Oct 6<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">George</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
 
-      <p>I have not heard if you approove of nameing the streets after the leading Generals<a href="../doc/n02" class="internal_link">2</a> if you do I will send you my favorites they come in rotation as I write them. I leave it to you to put in and name the Southern Generals. I dont know how many streets you are going to have but here goes<a href="../doc/n03" class="internal_link">3</a>
+      <p>I have not heard if you approove of nameing the streets after the leading Generals<a href="#n02" class="internal_link">2</a> if you do I will send you my favorites they come in rotation as I write them. I leave it to you to put in and name the Southern Generals. I dont know how many streets you are going to have but here goes<a href="#n03" class="internal_link">3</a>
       </p>
 
       <ul>
@@ -41,13 +42,14 @@ Oct 6<a href="../doc/n01" class="internal_link">1</a>
          <li>Sheridan</li>
          <li>Custer</li>
          <li>
-            <span class="persName">Miles</span>
+            <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/miles.n"/>Miles</span>
          </li>
          <li>Carr</li>
          <li>Merritt</li>
          <li>Crook</li>
          <li>Guss <u>an uncle of mine</u>
-            <a href="../doc/n04" class="internal_link">4</a>
+            <a href="#n04" class="internal_link">4</a>
          </li>
          <li>Terry</li>
          <li>Royal</li>
@@ -100,4 +102,3 @@ Oct 6<a href="../doc/n01" class="internal_link">1</a>
 
 
 </div>
-

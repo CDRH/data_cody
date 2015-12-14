@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00403.01.jpg"
@@ -39,4 +39,3 @@ Col. W. F. Cody, Owner<br/>Telegraph and Railroad Station, Cody, Wyo<br/>F. H. G
 
 
 </div>
-

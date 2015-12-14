@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -24,7 +24,10 @@
 
       <p>The ceremony took place at St. Clement's Church, and a crowd of spectators assembled, all the notabilities of the Show being well to the fore.</p>
 
-      <p>It would have brought tears of joy to a Wild Western editor's eyes to have heard <span class="persName">Broncho Bill</span>—of the Smith and Western persuasion—making the responses for <span class="persName">Little Chief</span>. But the nicest thing of all was to see <span class="persName">Major Burke</span> assisting to take the collection. There are few things the genial Major has not taken in his career, from scalps downwards, but this is the first occasion, I should imagine, on which he has ever assisted in a "show" of this kind.</p>
+      <p>It would have brought tears of joy to a Wild Western editor's eyes to have heard <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/irving.w"/>Broncho Bill</span>—of the Smith and Western persuasion—making the responses for <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/little.chief"/>Little Chief</span>. But the nicest thing of all was to see <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/burke.j"/>Major Burke</span> assisting to take the collection. There are few things the genial Major has not taken in his career, from scalps downwards, but this is the first occasion, I should imagine, on which he has ever assisted in a "show" of this kind.</p>
 
 
    </div>
@@ -32,4 +35,3 @@
 
 
 </div>
-

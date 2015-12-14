@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00566.jpg"
@@ -22,7 +22,7 @@
       </div>
 
 
-      <span class="ab">Number  J<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab">Number  J<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="ab">Sent By  K</span>
@@ -34,18 +34,20 @@
 
       <span class="ab">Received at  205 P<br/>9/10  1895</span>
 
-      <span class="ab">Dated  York Pa 10<a href="../doc/n02" class="internal_link">2</a>
+      <span class="ab">Dated  York Pa 10<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="ab">To  <span class="persName">Geo. S. Beck</span>
+      <span class="ab">To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo. S. Beck</span>
          <br/>Sheridan Inn<br/>Sheridan Wyo</span>
 
 
-      <p>Be sure and settle with <span class="persName">Ryan</span> and Hillsbury<a href="../doc/n03" class="internal_link">3</a> before Commencing work wire me fully</p>
+      <p>Be sure and settle with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/ryan.j"/>Ryan</span> and Hillsbury<a href="#n03" class="internal_link">3</a> before Commencing work wire me fully</p>
 
 
       <span class="closer">
-         <br/>H. F. Cody<a href="../doc/n04" class="internal_link">4</a>
+         <br/>H. F. Cody<a href="#n04" class="internal_link">4</a>
       </span>
    </div>
 
@@ -62,4 +64,3 @@
 
 
 </div>
-

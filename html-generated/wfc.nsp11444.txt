@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -22,9 +22,9 @@
       <span class="byline">BY A LADY.</span>
       <p>The American Exhibition was opened on Monday, the 9th inst. Thanks to the kindness of a courteous editor I was able to be present, and also by invitation to partake of the first-rate luncheon usually provided for the privileged few. It was a feast indeed. Every luxury that the season does and does not afford was on the table. The fruit delicious, the wines also. I can treat my readers to a sort of barmecide feast by describing my share of the repast. First, soup, then salmon, with mayonnaise sauce; then chicken, tongue and salad, ices, and two slices of pine apple, followed by muscatel grapes. I was kept in countenance at the luncheon table by very few of my own sex, only about six I think, while there must have been at least three hundred gentlemen present;  and I noticed the number of my waiter was 175, so that we were well cared for.</p>
 	
-      <p>I sat very near to Mr Wyndham,<a href="../doc/n01" class="internal_link">1</a> the David Garrick<a href="../doc/n02" class="internal_link">2</a> of Criterion celebrity,<a href="../doc/n03" class="internal_link">3</a> and he seemed quite as attractive off the stage as he did upon it.</p>	
+      <p>I sat very near to Mr Wyndham,<a href="#n01" class="internal_link">1</a> the David Garrick<a href="#n02" class="internal_link">2</a> of Criterion celebrity,<a href="#n03" class="internal_link">3</a> and he seemed quite as attractive off the stage as he did upon it.</p>	
 
-      <p>I noticed Mr and Mrs Bancroft<a href="../doc/n04" class="internal_link">4</a> also, and later Mr and Mrs Ledger,<a href="../doc/n05" class="internal_link">5</a> he being the editor of the theatrical organ, the <em class="hi">Era</em>.</p>	
+      <p>I noticed Mr and Mrs Bancroft<a href="#n04" class="internal_link">4</a> also, and later Mr and Mrs Ledger,<a href="#n05" class="internal_link">5</a> he being the editor of the theatrical organ, the <em class="hi">Era</em>.</p>	
 
       <p>The heat and the crush were terrible. I advise those who go to take their opera glasses with them. I left mine behind and suffered in consequence. As in the case of similar recent exhibitions held at South Kensington, everything looked as if in need of the touch of the “Fairy order.”</p>
 
@@ -52,7 +52,9 @@
 	
       <p>There is a young person of 15 years, not by the way very prepossessing looking, who seems as much at home with her rifle as most of us are with the needle; as a proof of this, of glass balls thrown from the hand she scored 323 successive hits, without a miss, and out of 400 in all, broke 395 balls.</p>
 	
-      <p>The name of this lady is <span class="persName">Lilian T. Smith</span>, and a sister in arms is <span class="persName">Miss Annie Oakley</span>. At the age of 14, by the sale of game and skins, shot and trapped by herself, Miss Oakley freed her father’s farm from a heavy mortgage.</p>
+      <p>The name of this lady is <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/smith.l"/>Lilian T. Smith</span>, and a sister in arms is <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a"/>Miss Annie Oakley</span>. At the age of 14, by the sale of game and skins, shot and trapped by herself, Miss Oakley freed her father’s farm from a heavy mortgage.</p>
 	
       <p>As a rider her skill is most remarkable. It is said a gentleman possessed of a very vicious horse that none could break, offered it to this girl of 21 if she could make it tractable, and in three days the feat was accomplished and the prize secured.</p>
 	
@@ -72,7 +74,7 @@
 	
       <p>The race of "Mexican thoroughbreds," which turned out to be very stupid donkeys, and, like the proverbial mule, persisted in going every way but to the right, to the rolicking suggestive tune, "We won’t go home till morning," was a very amusing feature of the proceedings, and a pleasant change from the blood-and-thunder aspect of the preceding exhibitions.</p>
 	
-      <p>The Royal family were conspicuous by their absence. Canon Farrar<a href="../doc/n06" class="internal_link">6</a> read the opening prayer, and a sort of general thanksgiving, in which all present were expected to join, concluded the religious part of the proceedings. As a pleasant lounge, the American Exhibition will supply what we have lost by the closing of the gardens at South Kensington. There are, I believe, at West Brompton thirty-three acres of recreation grounds where, in fine weather, we may expect to enjoy fresh air, good music, and flowers as in past years; and we have reason to be grateful to the enterprise which provides such pleasant recreation for the dwellers in, and visitors to, the Metropolis. </p>
+      <p>The Royal family were conspicuous by their absence. Canon Farrar<a href="#n06" class="internal_link">6</a> read the opening prayer, and a sort of general thanksgiving, in which all present were expected to join, concluded the religious part of the proceedings. As a pleasant lounge, the American Exhibition will supply what we have lost by the closing of the gardens at South Kensington. There are, I believe, at West Brompton thirty-three acres of recreation grounds where, in fine weather, we may expect to enjoy fresh air, good music, and flowers as in past years; and we have reason to be grateful to the enterprise which provides such pleasant recreation for the dwellers in, and visitors to, the Metropolis. </p>
 
    </div>
 
@@ -93,4 +95,3 @@
 
 
 </div>
-

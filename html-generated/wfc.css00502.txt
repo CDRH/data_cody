@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -29,17 +29,17 @@
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
 
-      <span class="dateline">Green Bay Wis<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Green Bay Wis<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
 Sep 3d 96</span>
 
 
-      <span class="salute">My Dear <span class="persName">George</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
-      <p>What will the people at Irma<a href="../doc/n02" class="internal_link">2</a> do for water when the ditch is not running this winter. Will they not have to have <u>cistern</u>? If so had they not better be built this fall. I know <a rel="tooltip" class="sic" title="that's​ ">thats</a>
-    ​ their look out. But they should be told and warned. And persuaded to build them. Same for the Town.<a href="../doc/n03" class="internal_link">3</a> Let me know if you are providing for these things— And had thought of it— Anxiously waiting to hear how long it will take you to get around <del>bl</del> red bluff<a href="../doc/n04" class="internal_link">4</a> &amp; through rock work with present force— and if Trego<a href="../doc/n05" class="internal_link">5</a> is going to finish up from there to Town.</p>
+      <p>What will the people at Irma<a href="#n02" class="internal_link">2</a> do for water when the ditch is not running this winter. Will they not have to have <u>cistern</u>? If so had they not better be built this fall. I know <a rel="tooltip" class="sic" title="that's​ &#xA;    ">thats</a> their look out. But they should be told and warned. And persuaded to build them. Same for the Town.<a href="#n03" class="internal_link">3</a> Let me know if you are providing for these things— And had thought of it— Anxiously waiting to hear how long it will take you to get around <del>bl</del> red bluff<a href="#n04" class="internal_link">4</a> &amp; through rock work with present force— and if Trego<a href="#n05" class="internal_link">5</a> is going to finish up from there to Town.</p>
 
       <span class="closer">
          <span class="salute">Yours</span>
@@ -61,4 +61,3 @@ Sep 3d 96</span>
    <div class="note">Note 5: Charles Trego (1856-1925), a personal friend of Cody's and foreman for both Scout's Rest Ranch in North Platte, Nebraska, and the TE Ranch in Cody, Wyoming.</div>
 
 </div>
-

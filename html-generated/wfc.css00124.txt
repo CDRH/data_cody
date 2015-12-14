@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00124.001.jpg"
@@ -28,11 +28,11 @@ Absolutely Fire Proof.</div>
 
       <span class="dateline">New York, Mar. 23 1902</span>
 
-      <span class="salute">My Dear <span class="persName">Mr Wood</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Mr Wood</span>—</span>
 
 
-      <p>Am glad that the bids begin to look more reasonable.<a href="../doc/n01" class="internal_link">1</a> I would like to see the first story built of those different colored cobble stone. on the two front sides of the hotel the second of grey stone <a rel="tooltip" class="sic" title="trimmed​ ">trimed</a>
-    ​ with red— she would then be a house that would get talked about—</p>
+      <p>Am glad that the bids begin to look more reasonable.<a href="#n01" class="internal_link">1</a> I would like to see the first story built of those different colored cobble stone. on the two front sides of the hotel the second of grey stone <a rel="tooltip" class="sic" title="trimmed​ &#xA;    ">trimed</a> with red— she would then be a house that would get talked about—</p>
 
       <span class="closer">
          <span class="salute">Yours truly</span>
@@ -41,7 +41,7 @@ Absolutely Fire Proof.</div>
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -88,4 +88,3 @@ Neb
    <div class="note">Note 1: Cody probably refers to cost estimates for the Irma Hotel.</div>
 
 </div>
-

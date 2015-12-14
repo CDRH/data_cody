@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00585.jpg"
@@ -22,7 +22,7 @@
       </div>
 
 
-      <span class="ab"> Number  A<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab"> Number  A<a href="#n01" class="internal_link">1</a>
       </span>
 
 
@@ -40,16 +40,18 @@
          <br/> 5/12  <strong>189</strong>6</span>
 
 
-      <span class="ab"> Dated  Columbus Ind 12<a href="../doc/n02" class="internal_link">2</a>
+      <span class="ab"> Dated  Columbus Ind 12<a href="#n02" class="internal_link">2</a>
       </span>
 
 
-      <span class="ab"> To  <span class="persName">Geo T Beck</span>
-c/o A Bell<a href="../doc/n03" class="internal_link">3</a>
+      <span class="ab"> To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
+c/o A Bell<a href="#n03" class="internal_link">3</a>
       </span>
 
 
-      <p>Every member company from <span class="persName">Alger</span> down complaining can get no reports from you</p>
+      <p>Every member company from <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> down complaining can get no reports from you</p>
 
 
 
@@ -68,4 +70,3 @@ c/o A Bell<a href="../doc/n03" class="internal_link">3</a>
 
 
 </div>
-

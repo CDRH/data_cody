@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East.</div>
@@ -22,12 +22,7 @@
       <span class="salute">Now. Frank.</span>
 
 
-      <p>I can make it <a rel="tooltip" class="sic" title="interesting​ ">interresting</a>
-    ​ for you. Will give you a good commission on all the stock you can sell. Besides present you with some of the stock. I have $100,000 worth of <a rel="tooltip" class="sic" title="preferred​ ">prefered</a>
-    ​ stock of this company that draws 10%-interest. there is only $200,000 of this <a rel="tooltip" class="sic" title="preferred​ ">prefered</a>
-    ​. out of 5,000,000 which makes it very attractive. The owner of this stock is <a rel="tooltip" class="sic" title="bound​ ">bund</a>
-    ​ to get his 10% annually. before any other dividends are <a rel="tooltip" class="sic" title="declared​ ">declaired</a>
-    ​. I know I you can make some good money for your self. as well as in helping me.</p>
+      <p>I can make it <a rel="tooltip" class="sic" title="interesting​ &#xA;    ">interresting</a> for you. Will give you a good commission on all the stock you can sell. Besides present you with some of the stock. I have $100,000 worth of <a rel="tooltip" class="sic" title="preferred​ &#xA;    ">prefered</a> stock of this company that draws 10%-interest. there is only $200,000 of this <a rel="tooltip" class="sic" title="preferred​ &#xA;    ">prefered</a>. out of 5,000,000 which makes it very attractive. The owner of this stock is <a rel="tooltip" class="sic" title="bound​ &#xA;    ">bund</a> to get his 10% annually. before any other dividends are <a rel="tooltip" class="sic" title="declared​ &#xA;    ">declaired</a>. I know I you can make some good money for your self. as well as in helping me.</p>
 
       <p>Keep me posted by telegraph send them collect.</p>
 
@@ -36,9 +31,9 @@
 
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
-      <div class="return ">
+      <div class="return">
 
          <span class="ab">
 
@@ -50,13 +45,13 @@ Cody, Wyoming
 </span>
       </div>
 
-      <div class="postmark ">
+      <div class="postmark">
 
          <span class="gap torn">[torn]</span>
 
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <span class="ab">
 
@@ -73,4 +68,3 @@ Ontario.
 
 
 </div>
-

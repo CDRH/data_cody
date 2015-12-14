@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -22,15 +22,15 @@
 
       <p>The El Paso Inter-Republics of July 7 contains the following:</p>
 
-      <p>Colonel William Roy<a href="../doc/n01" class="internal_link">1</a> of this city, an old friend and comrade of Buffalo Bill, is in receipt of a frank and characteristic letter from the great scout. It shows conclusively that he is the same Bill, howe'er fortune has smiled. The letter runs as follows:</p>
+      <p>Colonel William Roy<a href="#n01" class="internal_link">1</a> of this city, an old friend and comrade of Buffalo Bill, is in receipt of a frank and characteristic letter from the great scout. It shows conclusively that he is the same Bill, howe'er fortune has smiled. The letter runs as follows:</p>
 
       <span class="floatingText">
 
          <span class="dateline">LONDON, June 23, 1887.</span>
 
-         <p>My Dear Colonel--It was a genuine pleasant surprise to receive your letter. I have often thought of you and wondered what had become of you. So glad you are still on top of the earth. Well, ever since I got out of the mud hole in New Orleans,<a href="../doc/n02" class="internal_link">2</a> things have been coming my way pretty smooth and I have captured this country from the queen down, and am doing them to the tune of $10,000 a day. Talk about show business, there never was anything like it ever known and never will be again, and, with my European reputation, you can easily guess the business I will do when I get back to my own country.</p>
+         <p>My Dear Colonel--It was a genuine pleasant surprise to receive your letter. I have often thought of you and wondered what had become of you. So glad you are still on top of the earth. Well, ever since I got out of the mud hole in New Orleans,<a href="#n02" class="internal_link">2</a> things have been coming my way pretty smooth and I have captured this country from the queen down, and am doing them to the tune of $10,000 a day. Talk about show business, there never was anything like it ever known and never will be again, and, with my European reputation, you can easily guess the business I will do when I get back to my own country.</p>
 
-         <p>It's pretty hard work with two and three performances a day and the society racket, receptions, dinners, etc. No man, not even Grant,<a href="../doc/n03" class="internal_link">3</a> was received better than your humble servant. I have dined with every one of the royalty from Albert, Prince of Wales, down. I sometimes wonder if it is the same old Bill Cody, the bull whacker. Well, colonel, I still wear the same sized hat, and when I make my fill I am coming back to visit all the old boys. If you meet any of them, tell them I ain't got the big-head worth a cent. I am over here for dust. Will be glad to hear from any of them. Write me again. Your old-time friend.</p>
+         <p>It's pretty hard work with two and three performances a day and the society racket, receptions, dinners, etc. No man, not even Grant,<a href="#n03" class="internal_link">3</a> was received better than your humble servant. I have dined with every one of the royalty from Albert, Prince of Wales, down. I sometimes wonder if it is the same old Bill Cody, the bull whacker. Well, colonel, I still wear the same sized hat, and when I make my fill I am coming back to visit all the old boys. If you meet any of them, tell them I ain't got the big-head worth a cent. I am over here for dust. Will be glad to hear from any of them. Write me again. Your old-time friend.</p>
 
          <span class="closer">
             <br/>BILL CODY.
@@ -50,4 +50,3 @@
 
 
 </div>
-

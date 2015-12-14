@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -18,26 +18,26 @@
 
       <div class="note">Buffalo Bill's Wild West</div>
 
-      <span class="dateline">Big. Rapids. Mich<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Big. Rapids. Mich<a href="#n01" class="internal_link">1</a>
          <br/>
 
 July. 20<u>th</u> 98</span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—</span>
 
-      <p>Your letter of the 13th sent Manistee<a href="../doc/n02" class="internal_link">2</a> forwarded here. <a rel="tooltip" class="sic" title="It's​ ">Its</a>
-    ​ too bad about the Dam washing out, as Gen. Manager. you should bar cloud bursts. Well it <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ be helped. And you done perfectly right In repairing the damage and getting water to the farms and Cody. As soon as possible. I hope you have pushed the work. I know the importance of getting the water quick. I will send <span class="persName">Alger</span> $200. and will ask <span class="persName">Salsbury</span> to do the same. Also the other stock holders<a href="../doc/n03" class="internal_link">3</a>. Keep me posted—</p>
+      <p>Your letter of the 13th sent Manistee<a href="#n02" class="internal_link">2</a> forwarded here. <a rel="tooltip" class="sic" title="It's​ &#xA;    ">Its</a> too bad about the Dam washing out, as Gen. Manager. you should bar cloud bursts. Well it <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> be helped. And you done perfectly right In repairing the damage and getting water to the farms and Cody. As soon as possible. I hope you have pushed the work. I know the importance of getting the water quick. I will send <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> $200. and will ask <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> to do the same. Also the other stock holders<a href="#n03" class="internal_link">3</a>. Keep me posted—</p>
 
       <span class="closer">
-         <span class="salute">Yours <a rel="tooltip" class="sic" title="hastily​ ">hastly</a>
-    ​</span>
+         <span class="salute">Yours <a rel="tooltip" class="sic" title="hastily​ &#xA;    ">hastly</a>
+         </span>
 
          <br/>W. F. Cody
 </span>
 
-      <p>P. S. I fear the mill will have to hold over <a rel="tooltip" class="sic" title="another​ ">annother</a>
-    ​ year—</p>
+      <p>P. S. I fear the mill will have to hold over <a rel="tooltip" class="sic" title="another​ &#xA;    ">annother</a> year—</p>
 
       <span class="closer">
          <br/>W. F. C</span>
@@ -53,4 +53,3 @@ July. 20<u>th</u> 98</span>
    <div class="note">Note 3: "Stock holders" are the directors and investors of Shoshone Irrigation Company.</div>
 
 </div>
-

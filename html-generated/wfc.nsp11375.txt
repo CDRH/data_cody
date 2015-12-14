@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -17,7 +17,9 @@
       </span>
       <h3>THE AMERICAN EXHIBITION</h3>
       <div class="milestone line"> </div>
-      <p>This Exhibition will be formally inaugurated to-day at 3.30 p.m., the doors being opened to invited guests at two o’clock. The proceedings will be of a simple and unostentatious description. "Hail Columbia" will be performed by the Grenadier Guards band, Mr. Dan Godfrey<a href="../doc/n01" class="internal_link">1</a> (conductor), and this will be followed by prayer. "God Save the Queen" will next be performed, and <span class="persName">Lord Ronald Gower</span> will then read an address on behalf of the committee of "Welcome," which will be replied to by the President of the Exhibition, Colonel Henry L. Russell. The "Star-spangeled Banner" and "Rule Britannia" will then be sung by Madlle Lilian Nordica<a href="../doc/n02" class="internal_link">2</a>, and <span class="persName">Mr. John Robinson Whitely</span>, Director-General of the Exhibition, having delivered an address, the machinery in the main gallery will be started by Colonel Russell. At 4.30 p.m. will be the first grand public performance of Buffalo Bill's "Wild West" Entertainment. The Exhibition is rapidly assuming a finished appearance. The Art Gallery is almost completed, and will be, it is hoped, entirely so to-day. The buildings in the gardens, the soda-water stand, the club-houses, and the panorama of New York are also nearly ready, and, in short, everything bids fair to be in complete working order before the close of the week. Admission to the Exhibition will be up to five o’clock by way of the Lillie-bridge entrance only.</p>
+      <p>This Exhibition will be formally inaugurated to-day at 3.30 p.m., the doors being opened to invited guests at two o’clock. The proceedings will be of a simple and unostentatious description. "Hail Columbia" will be performed by the Grenadier Guards band, Mr. Dan Godfrey<a href="#n01" class="internal_link">1</a> (conductor), and this will be followed by prayer. "God Save the Queen" will next be performed, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Lord Ronald Gower</span> will then read an address on behalf of the committee of "Welcome," which will be replied to by the President of the Exhibition, Colonel Henry L. Russell. The "Star-spangeled Banner" and "Rule Britannia" will then be sung by Madlle Lilian Nordica<a href="#n02" class="internal_link">2</a>, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j"/>Mr. John Robinson Whitely</span>, Director-General of the Exhibition, having delivered an address, the machinery in the main gallery will be started by Colonel Russell. At 4.30 p.m. will be the first grand public performance of Buffalo Bill's "Wild West" Entertainment. The Exhibition is rapidly assuming a finished appearance. The Art Gallery is almost completed, and will be, it is hoped, entirely so to-day. The buildings in the gardens, the soda-water stand, the club-houses, and the panorama of New York are also nearly ready, and, in short, everything bids fair to be in complete working order before the close of the week. Admission to the Exhibition will be up to five o’clock by way of the Lillie-bridge entrance only.</p>
 
    </div>
 
@@ -29,4 +31,3 @@
    <div class="note">Note 2: Lilian Nordica, real name Lillian Norton (1857-1914), an American opera singer acclaimed for her opulent voice and dramatic presence during the late 19th and early 20th centuries.</div>
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00530.001.jpg"
@@ -26,15 +26,16 @@
       <span class="dateline">Mar. 10 1899</span>
 
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
 
-      <p>Yours recd Buffalo parties<a href="../doc/n01" class="internal_link">1</a> dont seem to feel like putting up Any more money. I have written them about the bridge<a href="../doc/n02" class="internal_link">2</a>.</p>
+      <p>Yours recd Buffalo parties<a href="#n01" class="internal_link">1</a> dont seem to feel like putting up Any more money. I have written them about the bridge<a href="#n02" class="internal_link">2</a>.</p>
 
-      <p>I dont <a rel="tooltip" class="sic" title="believe​ ">beleive</a>
-    ​ <span class="persName">Salsbury</span> will put up a dollar- for he Says the money is so badly <a rel="tooltip" class="sic" title="handled​ ">handeled</a>
-    ​. If I ask him to put up with me to bring water to Cody &amp; flats<a href="../doc/n03" class="internal_link">3</a>. He will say who is to take charge of work- You know George that heretofore no money has been properly used
+      <p>I dont <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> will put up a dollar- for he Says the money is so badly <a rel="tooltip" class="sic" title="handled​ &#xA;    ">handeled</a>. If I ask him to put up with me to bring water to Cody &amp; flats<a href="#n03" class="internal_link">3</a>. He will say who is to take charge of work- You know George that heretofore no money has been properly used
 
 
 <span class="hr"> </span>
@@ -76,11 +77,9 @@ that is the men hired to do work have not been managed right. No boss— no one 
 
 
 
-their work— be with them in the mornings and see that they work go over the ditch your self- and see what it needs &amp;c- If you will write Salsbury that you will do this, I will <a rel="tooltip" class="sic" title="guarantee​ ">guarntee</a>
-    ​ that the $1000 be placed to your credit at once</p>
+their work— be with them in the mornings and see that they work go over the ditch your self- and see what it needs &amp;c- If you will write Salsbury that you will do this, I will <a rel="tooltip" class="sic" title="guarantee​ &#xA;    ">guarntee</a> that the $1000 be placed to your credit at once</p>
 
-      <p>If you<del>g</del> will get down to business and write us that you will be on the job the money will be at Carbon Co Bank<a href="../doc/n04" class="internal_link">4</a>- But we <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ stand any more slip-
+      <p>If you<del>g</del> will get down to business and write us that you will be on the job the money will be at Carbon Co Bank<a href="#n04" class="internal_link">4</a>- But we <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> stand any more slip-
 
 
 <span class="hr"> </span>
@@ -101,11 +100,7 @@ their work— be with them in the mornings and see that they work go over the di
 
 
 
-shod way of <a rel="tooltip" class="sic" title="having​ ">haveing</a>
-    ​ our money wasted. I should think that you would want water for your own farm and would be willing to use every energy to get it there. We have to work hard for our money and I <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ blame our stock holders <a rel="tooltip" class="sic" title="refusing​ ">refuseing</a>
-    ​ to put up. When the men who handle it <a rel="tooltip" class="sic" title="​ ">wont</a>
-    ​ work—</p>
+shod way of <a rel="tooltip" class="sic" title="having​ &#xA;    ">haveing</a> our money wasted. I should think that you would want water for your own farm and would be willing to use every energy to get it there. We have to work hard for our money and I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> blame our stock holders <a rel="tooltip" class="sic" title="refusing​ &#xA;    ">refuseing</a> to put up. When the men who handle it <a rel="tooltip" class="sic" title="​ &#xA;    ">wont</a> work—</p>
 
 
       <span class="closer">
@@ -121,7 +116,10 @@ shod way of <a rel="tooltip" class="sic" title="having​ ">haveing</a>
 
 
 
-   <div class="note">Note 1: "Buffalo parties" refers to the investors from Buffalo, N.Y., primarily <span class="persName">Bleistein</span>, <span class="persName">Gerrans</span>, and <span class="persName">Rumsey</span>.</div>
+   <div class="note">Note 1: "Buffalo parties" refers to the investors from Buffalo, N.Y., primarily <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span>, <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>, and <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>.</div>
 
    <div class="note">Note 2: "Bridge" refers to Cody's efforts to finance building a bridge over the Shoshone River near Cody.</div>
 
@@ -130,4 +128,3 @@ shod way of <a rel="tooltip" class="sic" title="having​ ">haveing</a>
    <div class="note">Note 4: Carbon County Bank was located in Red Lodge, Montana, the county seat; the bank was built before 1900.</div>
 
 </div>
-

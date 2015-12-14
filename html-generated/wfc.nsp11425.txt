@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,7 +20,7 @@
 
    </div>
 
-   <div class="article doublespace ">
+   <div class="article">
 
       <p>
          <strong>The management of the Buffalo Bill Wild West Co.</strong> has, in agreement with its finance department, decided to introduce the following improvements, effective today, which will most likely be received with appreciation by the large audience. As opposed to previous rules, access to the camp of the Indians and cowboys as well as the animal herds will be permitted starting at 1:30 pm until the end of the performances. Furthermore, the audience will not need to leave the area during the first and second performance in the future, but may remain in the camp. There will be military concerts in the actual camp and in the adjacent restaurants during the intermissions, as well as in between the first and second performance and in the evening after the last performance. The whole large terrain will be lit in the evenings by electric lights at a power of 200,000 candles and multiple small fires according to the system of the English Welsh-lamps.</p>
@@ -31,4 +31,3 @@
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
 
       <h3>American Exceptionalism Meets Indian Enthusiasm: Germany Welcomes the Wild West</h3>
@@ -30,4 +30,3 @@
 
 
 </div>
-

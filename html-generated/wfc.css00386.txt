@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00386.001.jpg"
@@ -29,14 +29,14 @@
 
 
       <span class="salute">
-         <span class="persName">John H Tait</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j"/>John H Tait</span>
       </span>
 
 Albany Hotel Denver Colo
 
 
-<p>Leaving here tomorrow for New Willard Hotel Washington with pictures<a href="../doc/n01" class="internal_link">1</a> did you get letter from Billings am feeling pretty well I want you with me personally this summer.<a href="../doc/n02" class="internal_link">2</a> And <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ you forget it. Ewing made another strike<a href="../doc/n03" class="internal_link">3</a>
+<p>Leaving here tomorrow for New Willard Hotel Washington with pictures<a href="#n01" class="internal_link">1</a> did you get letter from Billings am feeling pretty well I want you with me personally this summer.<a href="#n02" class="internal_link">2</a> And <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you forget it. Ewing made another strike<a href="#n03" class="internal_link">3</a>
       </p>
 
       <span class="closer">
@@ -52,7 +52,7 @@ Albany Hotel Denver Colo
 
    <div class="note">Note 2: Cody spent the summer of 1914 performing with the Sells-Floto Circus.</div>
 
-   <div class="note">Note 3: Cody refers to E. J. Ewing, a mining engineer engaged by Cody's partner <span class="persName">Daniel Burns Dyer</span> to examine Cody and Dyer's Arizona mining operations in 1912. Ewing later leased and operated some of the Cody-Dyer mine properties.</div>
+   <div class="note">Note 3: Cody refers to E. J. Ewing, a mining engineer engaged by Cody's partner <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/dyer.d"/>Daniel Burns Dyer</span> to examine Cody and Dyer's Arizona mining operations in 1912. Ewing later leased and operated some of the Cody-Dyer mine properties.</div>
 
 </div>
-

@@ -4,19 +4,19 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
 
 
       <h3>THE LION OF LONDON.</h3>
       <div class="milestone line"> </div>
-      <h3>A Morning with Buffalo Bill and His Daughter<a href="../doc/n01" class="internal_link">1</a> in the English Metropolis.</h3>
+      <h3>A Morning with Buffalo Bill and His Daughter<a href="#n01" class="internal_link">1</a> in the English Metropolis.</h3>
       <div class="milestone line"> </div>
-      <p>London, July 29.—There is no doubt about it, Buffalo Bill is the great lion of the season. Mr. John Sartain,<a href="../doc/n02" class="internal_link">2</a> the affable Philadelphia artist and the manager of the Art Department of the American Exhibition, said to me yesterday: "Without Buffalo Bill this whole enterprise would have been a dead failure. He draws the immense crowds, after the show they flock into the picture galleries, and find often to their astonishment that we have some fine paintings here. However, without the 'Wild West' attractions we should never have got our crowds at all."</p>
+      <p>London, July 29.—There is no doubt about it, Buffalo Bill is the great lion of the season. Mr. John Sartain,<a href="#n02" class="internal_link">2</a> the affable Philadelphia artist and the manager of the Art Department of the American Exhibition, said to me yesterday: "Without Buffalo Bill this whole enterprise would have been a dead failure. He draws the immense crowds, after the show they flock into the picture galleries, and find often to their astonishment that we have some fine paintings here. However, without the 'Wild West' attractions we should never have got our crowds at all."</p>
 
-      <p>A lady who was present at a reception given some time since by the Marchioness of Ely,<a href="../doc/n03" class="internal_link">3</a> told me that Mr. Cody stood in the centre of the room, under the great chandelier, his long hair streaming down over his broad, stout shoulders, literally surrounded by a circle of titled admirers, and at the supper table he sat at the right hand of the Princess of Wales.<a href="../doc/n04" class="internal_link">4</a> The fact is, he is a very handsome man, and he has succeeded, by honest enterprise, in giving the Londoners an exhibition which certainly has the unaccustomed charm of absolute novelty. Naturally, they are grateful, and for the moment he is their hero.</p>
+      <p>A lady who was present at a reception given some time since by the Marchioness of Ely,<a href="#n03" class="internal_link">3</a> told me that Mr. Cody stood in the centre of the room, under the great chandelier, his long hair streaming down over his broad, stout shoulders, literally surrounded by a circle of titled admirers, and at the supper table he sat at the right hand of the Princess of Wales.<a href="#n04" class="internal_link">4</a> The fact is, he is a very handsome man, and he has succeeded, by honest enterprise, in giving the Londoners an exhibition which certainly has the unaccustomed charm of absolute novelty. Naturally, they are grateful, and for the moment he is their hero.</p>
 
-      <p>Hardly less amusing than his extraordinary social success are the heated discussions as to his real merit. The following is a good illustration of this. It happened at a recent ball in this city. Buffalo Bill was parading grandly through the rooms, with Mrs. Bigelow<a href="../doc/n05" class="internal_link">5</a> on his arm. Hon. James G. Blaine<a href="../doc/n06" class="internal_link">6</a> was there, too, and so was Minister Phelps,<a href="../doc/n07" class="internal_link">7</a> as well as a host of other distinguished Americans, but Buffalo Bill was, nevertheless, the centre of attractions, and as he advanced slowly, he was kept bowing without intermission to the dozens of pretty faces which happened to be in his path—quite by accident, of course. He bows, by the way, with the grace and dignity of a king. It was during this grand ovation that I overheard the following conversation between a titled English lady and an independent American damsel:</p>
+      <p>Hardly less amusing than his extraordinary social success are the heated discussions as to his real merit. The following is a good illustration of this. It happened at a recent ball in this city. Buffalo Bill was parading grandly through the rooms, with Mrs. Bigelow<a href="#n05" class="internal_link">5</a> on his arm. Hon. James G. Blaine<a href="#n06" class="internal_link">6</a> was there, too, and so was Minister Phelps,<a href="#n07" class="internal_link">7</a> as well as a host of other distinguished Americans, but Buffalo Bill was, nevertheless, the centre of attractions, and as he advanced slowly, he was kept bowing without intermission to the dozens of pretty faces which happened to be in his path—quite by accident, of course. He bows, by the way, with the grace and dignity of a king. It was during this grand ovation that I overheard the following conversation between a titled English lady and an independent American damsel:</p>
 
       <p>"Isn't he a splendid man?" said the Duchess with enthusiasm.</p>
 
@@ -58,7 +58,7 @@
 
       <p>I withdrew, and on my way home pondered on the destinies of man.</p>
 
-      <span class="byline">CLEVELAND L. MOFFETT.<a href="../doc/n08" class="internal_link">8</a>
+      <span class="byline">CLEVELAND L. MOFFETT.<a href="#n08" class="internal_link">8</a>
       </span>
 
    </div>
@@ -82,4 +82,3 @@
 
    <div class="note">Note 8: Cleveland L. Moffett (1863-1926), an American journalist, author and playwright.</div>
 </div>
-

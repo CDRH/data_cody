@@ -4,7 +4,7 @@
     <div class="main_content">
         
 
-            <div class="type ">
+            <div class="type">
                 
                 <h3>Canning the Wild West.</h3>
                 <div class="note">1913</div>
@@ -15,4 +15,3 @@
             </div>
         
     </div>
-

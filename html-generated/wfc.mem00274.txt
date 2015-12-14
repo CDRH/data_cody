@@ -41,30 +41,30 @@
 
 
 
-   <div class="program ">
+   <div class="program">
 
-      <div class=" ">
-  
-         <h5>THERE CAN BE ONLY ONE LIKE THIS</h5>
-         <p>Simply because the world will not permit two suns; therefore</p>
-  
-  
-         <h5>BUFFALO BILL'S WILD WEST<br/>
+      <div class="">
+         <div class="">
+            <h5>THERE CAN BE ONLY ONE LIKE THIS</h5>
+            <p>Simply because the world will not permit two suns; therefore</p>
+         </div>
+         <div class="">
+            <h5>BUFFALO BILL'S WILD WEST<br/>
 AND CONGRESS OF ROUGH RIDERS</h5>
 
-         <div class="inline_figure">
-            <div class="p">[illustration]</div>
-         </div>
-         <p>Differs from all other exhibitions as night from day. Taken as an amusement enterprise, it stands alone, peculiar to itself, <u>unique</u>, because its chief, BUFFALO BILL, is an <u>individual</u> whose counterpart has never been discovered; hence his <u>Wild West</u> 
-            <u>can</u> 
-            <u>never</u> 
-            <u>be</u> 
-            <u>duplicated.</u> It is not "a circus" in any sense of the word. It differs from everything commonly known as a "show". Its tents are different. Its programme is different. Its people are different. Its plan and scope is different. Its very announcements are different, and the whole ensemble is totally dissimilar from anything the ingenuity of man has heretofore conceived or devised. It is the one only, the solitary, exception in the great sea of amusement that relies on its originality, realism and worth for its power to please. It is in fact and feature a grand example of <u>genuine merit,</u> and therein lies its lusty, virile strength. 
-<div class="inline_figure">
+            <div class="inline_figure">
                <div class="p">[illustration]</div>
             </div>
+            <p>Differs from all other exhibitions as night from day. Taken as an amusement enterprise, it stands alone, peculiar to itself, <u>unique</u>, because its chief, BUFFALO BILL, is an <u>individual</u> whose counterpart has never been discovered; hence his <u>Wild West</u> 
+               <u>can</u> 
+               <u>never</u> 
+               <u>be</u> 
+               <u>duplicated.</u> It is not "a circus" in any sense of the word. It differs from everything commonly known as a "show". Its tents are different. Its programme is different. Its people are different. Its plan and scope is different. Its very announcements are different, and the whole ensemble is totally dissimilar from anything the ingenuity of man has heretofore conceived or devised. It is the one only, the solitary, exception in the great sea of amusement that relies on its originality, realism and worth for its power to please. It is in fact and feature a grand example of <u>genuine merit,</u> and therein lies its lusty, virile strength. 
+<div class="inline_figure">
+                  <div class="p">[illustration]</div>
+               </div>
 It is a living page torn from the world's history, where everything is just what it is represented to be. The native tribes, nomads, and noble specimens of mankind are "true color" and perfect to the core. There is nothing about the Wild West that is not real. Even the horses used are born, bred and branded with the stamp of nativity. Every part, parcel and combination of the equipment bears the hall-mark of perfection. These facts stand the test of closest scrutiny, and <u>defy contradiction</u>; therefore its popularity is easily understood, and its welcome most royal in every community. In point of magnitude, it has more men, more horses, more novelties and a greater seating capacity than any other exhibition extant.</p>
-  
+         </div>
       </div>
 
       <span class="hr"> </span>
@@ -77,7 +77,7 @@ It is a living page torn from the world's history, where everything is just what
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <span class="floatingText">
             <span class="front">
                <span class="titlePage">
@@ -138,7 +138,7 @@ BUFFALO, N.Y. </span>
             <h6 class="fw">2</h6>
             <h6 class="fw">THE ROUGH RIDER. </h6>
 
-            <div class=" ">
+            <div class="">
                <span class="ab">THE ROUGH RIDER<br/>
 AN ILLUSTRATED PERIODICAL, PUBLISHED BY<br/>
 CODY &amp; SALSBURY.<br/>
@@ -152,7 +152,7 @@ FROM WHOM SAMPLE COPIES MAY BE OBTAINED.</span>
                <div class="milestone line"> </div>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>THE MAN, </h3>
                <h3>The Epitome of His Time.</h3>
 
@@ -200,7 +200,7 @@ of course an essential qualification for the young plainsman, and extraordinary 
             <h6 class="fw">THE ROUGH RIDER.</h6> 
             <h6 class="fw">3</h6>  
 
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <span class="ab creditline">COPYRIGHT 1902 BY The Courier Co. BUFFALO N.Y. </span>
@@ -208,26 +208,26 @@ of course an essential qualification for the young plainsman, and extraordinary 
                </div>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>ROOSEVELT'S ROUGH RIDERS.</h3>
                <p>UNIQUE, superb and possessing an elan peculiarly their own, the Roosevelt Rough Riders really belong to the twentieth century. Recruited from all ranks of society, every avocation in American life, these Rough Riders combine the solidity of the trained cavalryman and the wild, headlong dash of the cattle-herders of the Western plains. Amenable to military discipline they were accustomed to act as individuals while in action. Ready to advance in line of battle on command, the men who served so gallantly under Leonard Wood and Theodore Roosevelt manifested a personal bravery only equaled by the Ironsides of Cromwell, the Cavaliers of King Charles, or the steel-clad horsemen of the great Gustavus of Sweden. Cowboys and plainsmen, college graduates and football heroes, they climbed the slopes of San Juan Hill and showed what Americans could accomplish when led by fearless commanders. The Rough Riders who appear in the Wild West Exhibition are recruited from the ranks of President Roosevelt's famous regiment, and all were present and fought from Siboney to Santiago. No finer body of horsemen could be found than these heroes of the Spanish-American war.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <p>MR. NATE SALSBURY, MANAGER AND DIRECTOR-GENERAL OF THE WILD WEST EXHIBITION.</p>
                </div>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <p>A GROUP OF ROOSEVELT'S ROUGH RIDERS, WHO PARTICIPATED IN THE BATTLE OF SAN JUAN HILL.</p>
                </div>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>DAILY DALLIANCE WITH DEATH.</h3>
 
                <p>IT is an error to suppose the soldier's trade any more dangerous than certain avocations of peace. The chances are a thousand to one that the soldier going into battle will not be killed, an hundred to one that he will not even be hurt; but there is hardly one chance in a thousand that the cowboy, mixed up in a stampede herd of cattle on a dark night, will escape with his life, and certainly not one in ten thousand that he will live a minute if his pony falls with him there. There cannot be any call for duty in itself more terrifying than the cattle stampede. Thousands of powerful beasts, maddened by panic, suddenly start galloping at full speed in a straight course away from some imaginary danger. Their eyes blaze with frenzy, their long, sharp horns tossed aloft rattle like machinery, their labored breathing and panting is like the noise of many engines, and they move at an astonishing pace. The weaker among them, as they become exhausted, fall and are trampled to a bloody mire in a few seconds. If they come to a precipice, they go over it <em class="hi">en masse</em>. If a river crosses their path they plunge into it, drowning many. And all that usually happens at night and in storms.</p>
@@ -246,14 +246,14 @@ of course an essential qualification for the young plainsman, and extraordinary 
                </a>
             </span>
 
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <p>AN ACTUAL SCENE—SHOWING THE CANVAS, OPEN AIR PLAN AND CONSTRUCTION OF THE WILD WEST EXHIBITION—SEATS FOR 20,000 PEOPLE.</p>
                </div>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>IN THE OPEN.</h3>
                <h3>Health-Giving Recreation Under the Blue Dome of Heaven.</h3>
                <p>NOTE today the discussion of the learned sanitarians on the various methods to add to mankind's physical ability to avoid the "ills that flesh is heir to". Materia medica can prescribe, like the cobbler, matter for mending only, not for shielding. What are now the medicine man's injunctions? Light, air, outdoor amusement, outdoor exercise! From the baby carriage through school-day games to the tent in sickness; to the walk to the office; to ripe old age's carriage ride, the constant command is air, fresh air! It is a legal maxim that "ignorance of the law is no excuse against a penalty". It is the same with Nature's law. Among the first amusement enterprises to combine health with recreation was BUFFALO BILL'S WILD WEST, with its outdoor necessities; its spaciously grand open arena, where the play-ground of its rugged nomads was the earth's grassy sward, their only covering heaven's azure-tinted canopy. Differing in arrangement and manner of construction from all other methods used to accommodate multitudes of people, there is naturally an avoidance of the many ills attendant on contact with confined, stuffy, stifled, tainted atmosphere. With its unpoled acres of arenic space, it minimizes the dangers of sudden atmospheric disturbances and meets the requirements of the hygienic savants. The quadratic seating arrangement, with comfortable capacity for 20,000 persons, gives perfect view, and being covered by taut water-proof canvas, impossible of sagging, assures immunity from drenching in the heaviest rainstorms; and while protecting the spectator from the sun's fiercest rays, gives a physical gratification  associated with a breeze-engendering colossal summer marquee. Thus can one enjoy this soul-stirring exhibition of the World's Wondrous Horsemen, and at the same time have a holiday that is really an outing. The accompanying picture is a photographic bird's-eye view taken at the Buffalo Pan-American Exhibition, and illustrates the detailed plan of construction as only can the camera; an instrument whose accuracy is assured, and presents an idea of the magnitude of the tented city and arena necessary for Buffalo Bill's Wild West and Congress of Rough Riders of the World.</p>
@@ -262,7 +262,7 @@ of course an essential qualification for the young plainsman, and extraordinary 
 
             <div class="milestone section"> </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>LULLABIES ON THE PLAINS.</h3>
                <p>THE cowboy must be a vocalist, not merely enough of a singer to aggravate a choral disturbance, but able to give a solo performance.</p>
 
@@ -293,8 +293,8 @@ of course an essential qualification for the young plainsman, and extraordinary 
             <h6 class="fw">THE ROUGH RIDER.</h6> 
             <h6 class="fw">5</h6>  
 
-            <div class=" doublespace ">
-               <div class=" ">
+            <div class="">
+               <div class="">
                   <h4>THE LIFE-SAVING SERVICE.</h4>
                   <p>THE world knows, by this time, that the title of the Wild West exhibition, is simply a trade-mark for a huge, thoroughly original and distinctively American institution, covering an infinitely wider field than its thrilling realistic presentation of the most stirring phases of Western life. All doughty deeds done by earnest, strong, virile men, individually or in association with others, for advancement, honor, patriotism or altruistic purpose, are within its province. Life, purposeful, vigorous human life, on the plains and 
 
@@ -343,7 +343,7 @@ in the mountains, following the warpath and upon the battlefield, has been and e
 
                   <p>This season it is enabled to present, as one of its intensely interesting, instructive and picturesque features, never before exhibited to the public, a display of the</p>
                </div>
-               <div class=" ">
+               <div class="">
 
                   <h4>Actual Work of the U.S. Life-Saving Service.</h4>
 
@@ -361,7 +361,7 @@ with the ship is to be made, others prepare the gun which is to throw across the
                </div>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>BEWILDERING BEDOUINS.</h3>
                <p>THE troupe of Bedouin Arabs with Buffalo Bill's Wild West are not only wild and wondrous horsemen, but athletic gymnasts of a strange kind it would repay a journey across the great desert to see. They whirl their long muskets in the air until they look like cart-wheels spoked with a thousand sunbeams.
 
@@ -385,7 +385,7 @@ They build of themselves high, living pyramids, with the agility of cats and the
             <h6 class="fw">6 </h6> 
             <h6 class="fw">THE ROUGH RIDER. </h6> 
 
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <span class="ab creditline">COPYRIGHT 1899 BY<br/>
@@ -402,7 +402,7 @@ BUFFALO, N.Y.</span>
 
             <div class="milestone section"> </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>THE MEXICAN VAQUEROS.</h3>
 
                <p>SOMEWHAT akin to the cowboy, the Mexican Vaquero is a herder, a scout or a hunter. Picturesque and often extravagant in his attire, the 
@@ -416,7 +416,7 @@ BUFFALO, N.Y.</span>
 rough rider of Mexico betrays the influence of climate. Wild as a hawk and merciless as a cougar, he is the border policeman and the irregular soldier of our sister republic. His large, silver-laced hat, embossed demi-peaked saddle, large spurs and the rows of silver buttons on his close-fitting jacket, give the Vaquero a somewhat theatric air, but it is from the ranks of these men that the Government can, when necessary, draw its cavalry for war or defense. The men now with the Wild West Exhibition came from the Rio Grande, the plains of the Madre Sierras and the wide territory lying south of the City of Mexico.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>THE BIG HORN DANCE.</h3>
                <span class="byline">BY A LOCAL POET.</span>
 
@@ -473,7 +473,7 @@ rough rider of Mexico betrays the influence of climate. Wild as a hawk and merci
 
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <p>THE WYOMING BRONCO BALL.</p>
@@ -517,7 +517,7 @@ rough rider of Mexico betrays the influence of climate. Wild as a hawk and merci
             <div class="milestone section"> </div>
 
 
-            <div class=" doublespace ">
+            <div class="">
                <p>SPEAKING of Buffalo Bill's Wild West to its youthful readers, <em class="hi">Harper's Young People</em> says: "In a few years, probably before many of the readers of the <em class="hi">Young People</em> have grown old, all this will be a reminiscence; the "Border" will be no more; there will be no necessity for a cowboy, little for the army, and the poor Indian will either have been absorbed with his land by the neighboring whites or killed off by diseases and civilization." These are among the very excellent reasons why the children should have a chance to visit Colonel Cody's remarkable, elevating and instructive, historical, ethnologic and enthralling exhibition.</p>
 
                <p>The opportunity is now at hand; embrace it while you may.</p>
@@ -544,7 +544,7 @@ rough rider of Mexico betrays the influence of climate. Wild as a hawk and merci
             <h6 class="fw">THE ROUGH RIDER.</h6> 
             <h6 class="fw">7</h6> 
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>JOHNNY BAKER, THE MARKSMAN.</h3>
 
                <p>THAT a youth who grew to manhood in the environment surrounding this most skillful young marksman should be a fine shot is not to be wondered at. The skill of Johnny Baker today is the result of being ever where the rifle was a necessity for safety, and an indispensable instrument with which to secure food.</p>
@@ -560,7 +560,7 @@ FOSTER SON AND PUPIL OF "BUFFALO BILL" AND THE ARENIC DIRECTOR OF THE WILD WEST 
                </div>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>DO NOT MISS THE OPPORTUNITY.</h3>
 
                <p>COLONEL CODY has happily named his assemblage of horsemen "A Congress of the Rough Riders of the World". Here we see the war-painted red man, the last of his once formidable race. He rides his bareback mustang stripped to the waist and daubed with ochre, brilliant with beads and feathers. Next we have the American Cowboy, a rapidly diminishing remnant of a class which fought the Sioux, the Cheyennes, the Apache, the Pawnee and other desperate tribes. These plainsmen were the advance guard of the pioneer settlers. Besides watching their herds they rallied to the protection of emigrant trains and established trails over which the railroad tracks now extend. They hunted game for food, fought for territory foot by foot, and derived their generic title of "Cowboy" by herding enormous herds of half-wild cattle. The Vaquero comes from the hot, dusty plains of Mexico; the Gauchos come from the pampas of South America; the Cossack belongs to the steppes of Russia; the German Cuirassiers to the brilliant court of the great war lord of Europe;  the United States Cavalry are fresh from barrack and camp; the Artillery from the seaboard posts. There is no deception, no imitation,—everything real, tried and true. This realism it is that makes the Wild West a school for the study of history, of life in many lands during the past and the present. It was a happy thought when Messrs. Cody and Salsbury decided on such an exhibition. In a few years its basic material must vanish, so the opportunity for visiting it now should not be missed, as especially to the young it is most instructive and to the old refreshingly reminiscent.</p>
@@ -573,7 +573,7 @@ FOSTER SON AND PUPIL OF "BUFFALO BILL" AND THE ARENIC DIRECTOR OF THE WILD WEST 
 
             <div class="milestone section"> </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>THE TITLE PAGE.</h3>
                <p>NOTHING could be more indicative of the Wild West's connection with the artistic, picturesque and historic in American life than the title page of this year's ROUGH RIDER. In the foreground we have Col. Cody (Buffalo Bill) mounted on the famous war-horse "Duke", formerly owned and ridden by and presented to Col. Cody by General Miles, with the good-natured remark, "He is too much for me. You take him, Bill, and see if you can wear him out".</p>
 
@@ -600,7 +600,7 @@ FOSTER SON AND PUPIL OF "BUFFALO BILL" AND THE ARENIC DIRECTOR OF THE WILD WEST 
             <h6 class="fw">THE ROUGH RIDER.</h6> 
             <h6 class="fw">9</h6>
 
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <p>BUFFALO BILL AND SAN JUAN HILL</p>
@@ -689,7 +689,7 @@ The second scene reveals the regiments already named, massed in the forks of the
             </div>
 
             <div class="milestone section"> </div>
-            <div class=" doublespace ">
+            <div class="">
                <p>Buffalo Bill's Wild West exhibitions are given in the largest entertainment arena in the world, with a seating capacity for 20,000 people, who will be sheltered amply from the rain or sun, although there are no tents for the winds to dangerously sport with.</p>
             </div>
 
@@ -707,7 +707,7 @@ The second scene reveals the regiments already named, massed in the forks of the
             <h6 class="fw">10</h6> 
             <h6 class="fw">THE ROUGH RIDER.</h6> 
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>EARTH'S FAVORED FARM-YARD.</h3>
                <h3>Mineralists' Magic Mecca—Humanity's Health Haven.<br/>
 A New Railroad Rattles the Rockies.</h3>
@@ -763,7 +763,7 @@ DEFINING THE EXACT LOCATION OF THE BIG HORN COUNTRY AND TOWN OF CODY, WYOMING.</
             <h6 class="fw">THE ROUGH RIDER.</h6> 
             <h6 class="fw">11</h6>   
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>BUFFALO BILL'S RETREAT.</h3>
 
                <p>THE photographic views on this page illustrate the central camp and expedition of one of the latest hunting trips in the Rocky Mountains, being taken last December, 1901, at the top of the Great Divide. The central picture is a splendid scene in the natural park just
@@ -815,7 +815,7 @@ to the Red River Country, to Hudson's Bay to form icebergs at the North Pole. To
             <h6 class="fw">12</h6> 
             <h6 class="fw">THE ROUGH RIDER.</h6> 
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>THE LIVELY LOOP.</h3>
 
                <p>THE one thing readily learned and never forgotten by even the worst of the bad broncos is the unwisdom of fighting against the rope. The instant in which the snaky coil of a lariat—or lasso—settles about his neck or tautens on one of his legs, the brute stops and behaves himself until it is cast off. Against man, saddle and bridle he will fight madly, even risking his neck and limbs in savage fury, but he knows what the rope can do to him and fears it. Cattle, too, there is good reason to believe, not only learn by experience a wholesome respect for the rope but actually spread their knowledge among their fellows, so that a cowboy whirling his lariat about his head may start a panic in a lot of steers, not one of 
@@ -850,7 +850,7 @@ impossible unless some substitute were adopted, such as the bolas of the South A
 
             <div class="milestone section"> </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>COWBOYS AND "OUTLAW" BRONCOS.</h3>
 
                <p>THE cowboy finds it neither unexpected, unreasonable nor disagreeable when he is called upon to do hard and dangerous things. He philosophically considers that they "all go in the day's work", and belongs to a type of men to whom the consciousness of conquering is as wine in the blood. There is nothing more elastic than a cowboy's "day's work". It commences at any time when he can be waked up and ends when there is nothing more to do. Not infrequently, after being in the saddle all day, tiring out half a dozen or more tough broncos in succession, and "riding herd" a couple of hours in the evening, he may be roused out of his first doze to mount and gallop after the cattle that have been stampeded by a storm.</p>
@@ -880,7 +880,7 @@ actually "broken"—<em class="hi">i.e.</em>, made to recognize man as his maste
             <h6 class="fw">THE ROUGH RIDER.</h6> 
             <h6 class="fw">13</h6>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>CUBAN PATRIOTS.</h3>
 
                <div class="inline_figure">
@@ -912,14 +912,14 @@ much also depends on the crew, the masses, to conduct the ship to the safe harbo
 a picture of pantomimic patriotic prayer, that was soon answered. In the next year the Wild West gave the public the climax in a representation of the successful battle of San Juan Hill. Grateful for the Wild West's influence a detachment of wounded Cuban patriots have been delegated to tour with the Wild West, to give that genuine atmosphere so identified with Buffalo Bill's historic pictures. A squad lends interest this season to the great battle scene of the charge up San Juan Hill, the diorama having added interest by the presence of participating Roosevelt Rough Riders. We present photos of General Palma, Señor Quesada and a specimen of the heroic men who charged with Garcia, Marti, Gomez and Maceo behind the drapeau of Cuba Libre and assisted, materially, in bringing about the very amicable relations which we now enjoy.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>WARM FRIENDS.</h3>
 
                <p>"THE judiciary reception is the most dignified social event at the White House. The reception was, in fact, like a wheel within a wheel. The Chief Justice and his colleagues on the illustrious bench, when they had been received by the President, proceeded to the East Room, and there they held receptions of their own. Col. WM. F. CODY, "Buffalo Bill", of Wild West fame, was among the guests, and when he reached the receiving party the President gave him a heartier welcome than he had extended to any guest during the evening. The President seized both his hands and shook them vigorously, all the while voicing his delight at seeing the famous Westerner once again."—<em class="hi">Post, Washington, January 15, 1902.</em>
                </p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
 
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
@@ -960,7 +960,7 @@ daring, vigorous and skillful riders whom he has brought together from all quart
 
             <div class="milestone section"> </div>
 
-            <div class=" doublespace ">
+            <div class="">
 
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
@@ -972,12 +972,12 @@ daring, vigorous and skillful riders whom he has brought together from all quart
 
             <div class="milestone section"> </div>
 
-            <div class=" doublespace ">
+            <div class="">
 
                <p>AT the night exhibitions of Buffalo Bill's Wild West the arena is lighted most brilliantly by an electric plant of two hundred and fifty thousand candle power, the largest portable apparatus of the kind ever manufactured.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <p>HUNTING BUFFALO. THE LAST OF THE BUFFALO. THE ONLY LIVING HERD. </p>
@@ -997,41 +997,41 @@ daring, vigorous and skillful riders whom he has brought together from all quart
             <h6 class="fw">14</h6> 
             <h6 class="fw">THE ROUGH RIDER.</h6>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>THE UNITED STATES CAVALRYMEN.</h3>
                <p>THE years of employment of the cavalry arm of the service of the United States troops on the frontier in Indian warfare has developed a body of men not excelled in the world as light cavalrymen. To the discipline and training of the army he has been compelled to add the accomplishments of the scout and cowboy, and the combination is a complete success. His uniform is not of the showy and eye-pleasing character but it is serviceable and exactly suited to the needs of the wearer.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <p>THE ARRIVAL OF THE EXHIBITION TRAINS.</p>
                </div>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>THE COSSACK.</h3>
                <p>THE world has never produced a more aptly named horseman than the Cossack—meaning Free Lance—originally a native of the borderland between Europe and Asia, leading a roving life, his courage and skill as a horseman and fighter led to his alliance with the Russian Czar to fight his hereditary foe, the Turk, and quickly his fearlessness and loyalty to the throne earned him the title of "the life of the Tsar". Riding the peculiar saddles of their country, they seem equally at ease riding, standing, swinging from or seated in their saddles; using rifle, pistol or sword with equal and marvelous rapidity and effectiveness, they are formidable enemies to encounter.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>ROOSEVELT'S ROUGH RIDERS.</h3>
                <p>ARE veterans of the most extraordinary military organization of modern times. Resigning his position as an Assistant Secretary of War, Colonel Roosevelt quickly gathered around him a band of cowboys, scouts and plainsmen, and led them, as no one but a born leader could have led such apparently discordant elements, to the capture of San Juan Hill.</p>
                <p>The mingled elements recruited from the West, supplemented by the football players of the great colleges, made a record which will last as long as the history of the Spanish war is told in song or story.</p>
             </div>
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <p>THE BUFFALOES ON THE WAY TO THE LOT.</p>
                </div>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>THE COWBOY</h3>
                <p>IS absolutely a law unto himself. While he shares many of his virtues in common with other men, particularly those who live on the borders of civilization, yet he has many admirable qualities which are wholly his own. He lives his life largely alone; his bovine charges for his only companions, except his horse. He risks his life daily in the discharge of his duties with a nonchalance born of familiarity with danger which has all the force of habit. He is generous with the generosity of a sailor, accumulating money by hardship, and receiving it at the threshold of opportunity for its disbursement.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>AMERICAN INDIANS.</h3>
                <p>THE Rough Riders, collected from all the continents of the world, vary widely in their styles of riding and their accouterments, but the North American Indian, the terror of our forefathers, and of all the pioneers who pushed the borders of civilization Westward to the Pacific Ocean, is pre-eminently the rough rider of the world, for he rides the wild horse of the plains bareback, without either saddle or bit.</p>
 
@@ -1043,7 +1043,7 @@ daring, vigorous and skillful riders whom he has brought together from all quart
 lists he walks behind and holds his tail to steer. His wealth he measured in horseflesh, which was his principle circulatiug medium, and one from which he sometimes separated an original owner, while at gaming, or mayhap while he slept and slumbered.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>MEXICAN RURALIES.</h3>
                <p>THE sister republic, which adjoins our territory on the south, contributes to the world's roughest riders her quota of Ruralies, who occupy the same relation to her government as the Mounted Police do to the Canadian people.</p>
 
@@ -1059,22 +1059,22 @@ lists he walks behind and holds his tail to steer. His wealth he measured in hor
 throwing the lasso, a necessary accomplishment practiced from childhood, all contribute to make him one of the most picturesque figures the world can produce.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>GERMAN CUIRASSIERS.</h3>
                <p>THE famous Garde Cuirassíers, familiarly and affectionately known as the "White Guard of the Kaiser", and in whom "the war lord of Europe" delights more than in any other of the countless regiments which make up the vast standing army of "der Vaterland", are adequately represented in the aggregation of the world's soldiers presented by the Wild West. These men are selected from the various cavalry regiments of the German army and their brilliant trappings and athletic appearance account for the affectionate regard in which they are held by the whole people, as well as by the Kaiser.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>UNITED STATES ARTILLERY.</h3>
                <p>IN flying light artillery, with which the enemy can be pursued almost as rapidly as by cavalry, the commanding general of an army possesses today an advantage not dreamed of in the long ago. The skill with which these fieldpieces are driven constitutes one of the most fascinating and exciting incidents of the Wild West Exhibition. The guns are brought into the arena, and the drill of harnessing and unharnessing the horses, limbering and unlimbering the guns is illustrated, and then they are driven around as they would be if in pursuit of a flying enemy. To convey an object lesson as to the skill of the drivers and their absolute control over their horses and guns, they are driven at full speed between loosely set willow wands, with only a leeway of a few inches in which to pass, and never disturb a single barrier.</p>
             </div>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>THE ARABS,</h3>
                <p>SOUTH American Gauchos and other horsemen, heretofore identified with the Wild West, will fill out and complete the Roster of the horsemen of the world, and all will be under the leadership of the famous hunter, guide and scout, whose peerless horsemanship and distinguished personality are household words in two continents—COL. W. F. CODY (BUFFALO BILL), assisted in the picturesque presentation and alignment by that civil war veteran and widely experienced and gifted manager, MR. NATE SALSBURY, Director of the Wild West.</p>
 
             </div>
-            <div class=" doublespace ">
+            <div class="">
                <div class="inline_figure">
                   <div class="p">[illustration]</div>
                   <p>COLONEL CODY (BUFFALO BILL) AT LUNCH "IN CAMP".</p>
@@ -1094,7 +1094,7 @@ throwing the lasso, a necessary accomplishment practiced from childhood, all con
             <h6 class="fw">THE ROUGH RIDER.</h6> 
             <h6 class="fw">15</h6>
 
-            <div class=" doublespace ">
+            <div class="">
                <h3>JUST A BEGINNING.</h3>
                <p>THE WILD WEST is the only organization in the world to which would be at all possible such an opening scene as it presents at each performance. This is not simply because it alone has the material for such a presentation, but for the reason that anything even approximating such
 
@@ -1139,14 +1139,14 @@ of a certain chief and representative of one of the numerous divisions of the gr
             <h6 class="fw">16</h6>
             <h6 class="fw">THE ROUGH RIDER.</h6>  
 
-            <div class=" doublespace ">
-               <div class=" ">
+            <div class="">
+               <div class="">
                   <span class="ab">SEN-SEN GUM</span>
                   <span class="ab">MADE IN POPULAR FLAVORS. <br/>CLEAN AND WHOLESOME. <br/>SOLD WITH THIS EXHIBITION <br/>AND <br/>BY DEALERS EVERYWHERE <br/>IN 5C. PACKAGES. </span>
                   <span class="ab">REFUSE SUBSTITUTES</span>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <span class="ab">A FINE TABLE RELISH </span>
                   <div class="milestone line"> </div>
                   <span class="ab">SOLD ONLY IN BOTTLES.</span>
@@ -1161,7 +1161,7 @@ of a certain chief and representative of one of the numerous divisions of the gr
                   </div>
                </div>
 
-               <div class=" ">
+               <div class="">
 
                   <div class="inline_figure">
                      <div class="p">[illustration]</div>
@@ -1171,21 +1171,21 @@ of a certain chief and representative of one of the numerous divisions of the gr
                   <span class="ab">IN THE MORNING DRINK RUNKEL BRO'S BREAKFAST COCOA <br/>SUPERIOR IN FLAVOR NOURISHING &amp; DIGESTIVE.</span>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <span class="ab">SA-YO MINT JUJUBES<br/>
 RELIEVE COUGHS AND THROAT IRRITATIONS. <br/>
 5c. BOXES. <br/>
 A HANDSOME PHOTO FOLDER IN EACH BOX.</span>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <span class="ab">Canfield DRESS SHIELDS </span>
                   <span class="ab">TRADE MARK Canfield </span>
                   <span class="ab">-RECORD- 25 Years Superiority <br/>-RESULT- Now Sold Everywhere.</span>
                   <span class="ab">ASK FOR AND INSIST ON HAVING Canfield DRESS SHIELDS</span>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <span class="ab">MENNEN'S BORATED TALCUM TOILET POWDER </span>
                   <div class="inline_figure">
                      <div class="p">[illustration]</div>
@@ -1198,20 +1198,20 @@ A HANDSOME PHOTO FOLDER IN EACH BOX.</span>
                   <span class="ab">GERHARD MENNEN COMPANY, Newark, N.J.</span>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <span class="ab">FOR OVER SIXTY YEARS AN OLD AND WELL-TRIED REMEDY. </span>
                   <span class="ab">MRS. WINSLOW'S SOOTHING SYRUP has been used for over Sixty Years by Millions of Mothers for their Children While Teething, with Perfect Success. It Soothes the Child, Softens the Gums, Allays all Pain; Cures Wind Colic, and is the best remedy for Diarrhœa. Sold by Druggists in every part of the world. Be sure and ask for </span>
                   <span class="ab">Mrs. Winslow's Soothing Syrup,</span>
                   <span class="ab">And Take No Other Kind. 25 cents a Bottle.</span>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <span class="ab">FAULTLESS NIPPLES <br/>BEST MADE. </span>
                   <span class="ab">Sample for 2-cent stamp and your druggist's name. </span>
                   <span class="ab">THE FAULTLESS RUBBER CO. <br/>AKRON, Ohio.</span>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <span class="ab">SOCIETY SMOKE</span> 
                   <div class="inline_figure">
                      <div class="p">[illustration]</div>
@@ -1253,7 +1253,7 @@ A HANDSOME PHOTO FOLDER IN EACH BOX.</span>
                   <span class="ab">L. MILLER &amp; SONS, 153, 155, 157, CROSBY S<u>t</u>. NEW YORK, U.S.A.</span>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <div class="inline_figure">
                      <div class="p">[illustration]</div>
                      <span class="ab">"Barker Brand"</span>
@@ -1267,14 +1267,14 @@ A HANDSOME PHOTO FOLDER IN EACH BOX.</span>
                   <span class="ab">FIT WELL. BUY THEM.</span>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <span class="ab">Millions of Women</span> 
                   <p>USE CUTICURA SOAP, assisted by Cuticura Ointment, for preserving, purifying, and beautifying the skin, for cleansing the scalp of crusts, scales and dandruff, and the stopping of falling hair, for softening, whitening, and soothing red, rough and sore hands, for baby rashes, itchings, and chafings, in the form of baths for annoying irritations and inflammations, or too free or offensive perspiration, in the form of washes for ulcerative weaknesses, and many sanative antiseptic purposes which readily suggest themselves to women and mothers, and for all the purposes of the toilet, bath and nursery. No amount of persuasion can induce those who have once used these great skin purifiers and beautifiers to use any others. CUTICURA SOAP combines delicate emollient properties derived from CUTICURA, the great skin cure, with the purest of cleansing ingredients and the most refreshing of flower odours. It unites in ONE SOAP at ONE PRICE, the BEST skin and complexion soap, and the BEST toilet and baby soap in the world.</p>
 
                   <p>Complete External and Internal Treatment for Every Humour, Consisting of CUTICURA SOAP, to cleanse the skin of crusts and scales, and soften the thickened cuticle; CUTICURA OINTMENT, to instantly allay the itching, inflammation, and irritation, and soothe and heal; and CUTICURA RESOLVENT, to cool and cleanse the blood. A SINGLE SET is often sufficient to cure the most torturing, disfiguring, itching, burning, and scaly skin, scalp, and blood humours, with loss of hair, when all else fails.</p>
                </div>
 
-               <div class=" ">
+               <div class="">
                   <div class="inline_figure">
                      <div class="p">[illustration]</div>
                      <span class="ab">SWEET, ORR &amp; COs.</span>
@@ -1302,7 +1302,7 @@ A HANDSOME PHOTO FOLDER IN EACH BOX.</span>
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>"AU REVOIR, BUT NOT GOOD-BYE".<br/>
 THE GREAT WILD WEST WILL POSITIVELY SAIL FOR EUROPE THIS FALL<br/>
 THIS YEAR IT WILL TOUR THE AMERICAN CONTINENT<br/>
@@ -1351,7 +1351,7 @@ FULLY EQUIPPED AND READY FOR WAR.</h3>
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class=" doublespace ">
+   <div class="">
       <div class="inline_figure">
          <div class="p">[illustration]</div>
          <span class="ab">BUFFALO BILL REVIEWING<br/>
@@ -1364,4 +1364,3 @@ THE ROUGH RIDERS OF THE WORLD </span>
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00580.jpg"
@@ -22,7 +22,7 @@
       </div>
 
 
-      <span class="ab">Number  24 ch<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab">Number  24 ch<a href="#n01" class="internal_link">1</a>
       </span>
 
 
@@ -35,14 +35,15 @@
       <span class="ab">Check  23 Paid</span>
 
 
-      <span class="ab">Received at  Auditorium Hotel Annex  52 op.<br/>4/14  1896<a href="../doc/n02" class="internal_link">2</a>
+      <span class="ab">Received at  Auditorium Hotel Annex  52 op.<br/>4/14  1896<a href="#n02" class="internal_link">2</a>
       </span>
 
 
       <span class="ab">Dated   Ch Philadelphia Pa 14</span>
 
 
-      <span class="ab">[To]   <span class="persName">George T Beck</span>
+      <span class="ab">[To]   <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T Beck</span>
       </span>
 
 
@@ -51,7 +52,7 @@
 
 
 
-      <p>Nagle<a href="../doc/n03" class="internal_link">3</a> represented each head family had four hundred cash let him give up his first commission for wagons and collect it from settlers.</p>
+      <p>Nagle<a href="#n03" class="internal_link">3</a> represented each head family had four hundred cash let him give up his first commission for wagons and collect it from settlers.</p>
 
 
       <span class="closer">

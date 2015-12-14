@@ -25,7 +25,7 @@ NEW-YORK.
 
 
 
-   <div class="book ">
+   <div class="book">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -680,4 +680,3 @@ NEW-YORK.
 
 
 </div>
-

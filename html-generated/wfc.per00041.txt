@@ -4,7 +4,7 @@
     <div class="main_content">
         
             
-            <div class=" ">
+            <div class="">
                 <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.per00041.jpg"
@@ -30,4 +30,3 @@
             </div>
         
     </div>
-

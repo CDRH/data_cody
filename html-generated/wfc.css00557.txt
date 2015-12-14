@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00557.jpg"
@@ -20,34 +20,34 @@
       </div>
 
 
-      <span class="dateline">Guthrie, Okla<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Guthrie, Okla<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
-Sep. 25<a href="../doc/n02" class="internal_link">2</a>
+Sep. 25<a href="#n02" class="internal_link">2</a>
       </span>
 
 
-      <span class="salute">Dear <span class="persName">George</span>,</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>,</span>
 
 
-      <p>Here is a letter from Everhart.<a href="../doc/n03" class="internal_link">3</a> You can write Kaufman.<a href="../doc/n04" class="internal_link">4</a> Say George  if <span class="persName">Old Iron Tail</span>
-         <a href="../doc/n05" class="internal_link">5</a> shows up in time take him on a hunt</p>
+      <p>Here is a letter from Everhart.<a href="#n03" class="internal_link">3</a> You can write Kaufman.<a href="#n04" class="internal_link">4</a> Say George  if <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/iron.tail"/>Old Iron Tail</span>
+         <a href="#n05" class="internal_link">5</a> shows up in time take him on a hunt</p>
 
-      <p>I am <a rel="tooltip" class="sic" title="having​ ">haveing</a>
-    ​ a hard Show fight. the biggest Circus fight on record. </p>
+      <p>I am <a rel="tooltip" class="sic" title="having​ &#xA;    ">haveing</a> a hard Show fight. the biggest Circus fight on record. </p>
       <ul>
          <li>The Barnum &amp; Bailey.</li>
          <li>Ringling Bros.</li>
          <li>Sells Floto</li>
          <li>Heggenbeck Wallace</li>
-         <li>Miller Bros. 101 ranch<a href="../doc/n06" class="internal_link">6</a>
+         <li>Miller Bros. 101 ranch<a href="#n06" class="internal_link">6</a>
          </li>
          <li>And our show all bunched in this country</li>
       </ul>
 
-      <p>So far we are the only show thats <a rel="tooltip" class="sic" title="made​ ">mad</a>
-    ​ a dollar.</p>
+      <p>So far we are the only show thats <a rel="tooltip" class="sic" title="made​ &#xA;    ">mad</a> a dollar.</p>
 
 
       <span class="closer">
@@ -74,4 +74,3 @@ Sep. 25<a href="../doc/n02" class="internal_link">2</a>
    <div class="note">Note 6: Official organizational names: Barnum &amp; Bailey; Ringling Brothers Barnum and Bailey Combined Shows; Sells-Floto Circus; Hagenbeck-Wallace Circus; and Miller Bros. &amp; Arlington 101 Ranch Real Wild West.</div>
 
 </div>
-

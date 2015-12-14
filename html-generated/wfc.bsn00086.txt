@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="record ">
+   <div class="record">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -385,4 +385,3 @@ November 30, 1917.</h3>
 
 
 </div>
-

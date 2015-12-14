@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,13 +19,14 @@
       <h3>The Queen at the Wild West Show.</h3>
       <div class="milestone line"> </div>
       <span class="lg">
-         <h4>THE SONG OF PUNCHIWATHA.<a href="../doc/n01" class="internal_link">1</a>
+         <h4>THE SONG OF PUNCHIWATHA.<a href="#n01" class="internal_link">1</a>
          </h4>
          <span class="lg">
             <span class="l indented">Would you hear how Col. Cody</span>
             <span class="l">Gave his wondrous exhibition,</span>
             <span class="l">Of his Indians on the war path,</span>
-            <span class="l">In the sight of <span class="persName">Queen Victoria</span>;</span>
+            <span class="l">In the sight of <span class="persName">
+                  <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Queen Victoria</span>;</span>
             <span class="l">Listen to this simple story</span>
             <span class="l">From the mouth of Punchiwatha;</span>
          </span>
@@ -34,9 +35,9 @@
             <span class="l indented">When she reached the exhibition,</span>
             <span class="l">Lo! a box near the arena</span>
             <span class="l">Was propared for her reception;</span>
-            <span class="l">Whitely too, and Col. Russell<a href="../doc/n02" class="internal_link">2</a>
+            <span class="l">Whitely too, and Col. Russell<a href="#n02" class="internal_link">2</a>
             </span>
-            <span class="l">And the wily Townsend Percy<a href="../doc/n03" class="internal_link">3</a>
+            <span class="l">And the wily Townsend Percy<a href="#n03" class="internal_link">3</a>
             </span>
             <span class="l">As an escort to the lady,</span>
             <span class="l">To the empress of the North Land.</span>
@@ -55,7 +56,7 @@
 
          <span class="lg">
             <span class="l indented">To the queen came Ogila-sa,</span>
-            <span class="l">Sioux chief,<a href="../doc/n04" class="internal_link">4</a> and bowed before her;</span>
+            <span class="l">Sioux chief,<a href="#n04" class="internal_link">4</a> and bowed before her;</span>
             <span class="l">He across the Big Sea-Water</span>
             <span class="l">Came to see the queen and empress,</span>
             <span class="l">And will tell the wondrous story</span>
@@ -97,8 +98,8 @@
 
    <div class="note">Note 3: Townsend Percy, the official Press Representative for the American Exhibition and a member of the Royal Geographical Society of London, was an author and lecturer.</div>
 
-   <div class="note">Note 4: Ogila-sa (Ogilesha, Ogle Sa, Ogilasa, and Ógle Lúta among other variants) was <span class="persName">Chief Red Shirt</span>.</div>
+   <div class="note">Note 4: Ogila-sa (Ogilesha, Ogle Sa, Ogilasa, and Ógle Lúta among other variants) was <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Chief Red Shirt</span>.</div>
 
 
 </div>
-

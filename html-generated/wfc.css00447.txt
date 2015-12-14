@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -28,18 +28,17 @@
 John M. Burke. General Manager.<br/>Jule Keen, Treasurer.</div>
 
 
-      <span class="dateline">Sep. 10th<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Sep. 10th<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">George</span>—</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
 
-      <p>Wreck last week<a href="../doc/n02" class="internal_link">2</a> cold rain this week. Say George— be careful about <del>see</del> 
-         <a rel="tooltip" class="sic" title="taking​ ">takeing</a>
-    ​ Nagle<a href="../doc/n03" class="internal_link">3</a> &amp; settlers property or we will get into an everlasting law suit. And the cry will go out that we get settlers out there and then take their all away from them— should such a report get out we are ruined</p>
+      <p>Wreck last week<a href="#n02" class="internal_link">2</a> cold rain this week. Say George— be careful about <del>see</del> 
+         <a rel="tooltip" class="sic" title="taking​ &#xA;    ">takeing</a> Nagle<a href="#n03" class="internal_link">3</a> &amp; settlers property or we will get into an everlasting law suit. And the cry will go out that we get settlers out there and then take their all away from them— should such a report get out we are ruined</p>
 
-      <p>Let me know the conditions No statements yet guess <a rel="tooltip" class="sic" title="typewriter​ ">type writter</a>
-    ​ got to much to do—</p>
+      <p>Let me know the conditions No statements yet guess <a rel="tooltip" class="sic" title="typewriter​ &#xA;    ">type writter</a> got to much to do—</p>
 
       <span class="closer">
          <br/>Bill
@@ -57,4 +56,3 @@ John M. Burke. General Manager.<br/>Jule Keen, Treasurer.</div>
 
 
 </div>
-

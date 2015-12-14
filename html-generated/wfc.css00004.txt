@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -38,4 +38,3 @@ Sir:—<br/>
 
 
 </div>
-

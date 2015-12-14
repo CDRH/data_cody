@@ -14,12 +14,12 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Essanay Film Manufacturing Company <br/> Geo. K. Spoor, President <br/> G. M. Anderson, Secretary <br/> Studios: 1333 Argyle Street <br/> Telephone Edgewater 2476 <br/> City Office <br/> 521 First National Bank Building <br/> Telephone Randolph 1732 <br/> All Films Manufactured and Sold by Us under the Edison Re-issued Letters Patent No. 12,192. <br/> Dated January 12, 1904. <br/> Chicago,</div>
       <span class="dateline">March <br/> 21st <br/> 1916</span>
-  Mr. E. J. Ayers<a href="../doc/n01" class="internal_link">1</a>,
+  Mr. E. J. Ayers<a href="#n01" class="internal_link">1</a>,
   Chief Clerk,
   Department of the Interior,
   Washington, D. C.
@@ -31,14 +31,14 @@
 
 
       <p>We have received both of your letters relative to the Indian War pictures filmed on the Indian Reservation at Pine Ridge, S. D. in 1913.</p>
-      <p>We furnished a set of these films to Col. W. F. Cody who, I believe, deposited them with the Department of War, but Mr. Spoor<a href="../doc/n02" class="internal_link">2</a> claims to know nothing about any further promise made. He has not been advised relative to any offers by any parties concerned.</p>
-      <p>Would suggest you take this matter up with the party who informed you (Col. W. F. Cody) relative to the depositing of films with the Department of Interior. If any such promise has been made it must have been made to the Honorable Mr. Lane<a href="../doc/n03" class="internal_link">3</a> personally, and would suggest that he take it up personally with the party who made the promise.</p>
+      <p>We furnished a set of these films to Col. W. F. Cody who, I believe, deposited them with the Department of War, but Mr. Spoor<a href="#n02" class="internal_link">2</a> claims to know nothing about any further promise made. He has not been advised relative to any offers by any parties concerned.</p>
+      <p>Would suggest you take this matter up with the party who informed you (Col. W. F. Cody) relative to the depositing of films with the Department of Interior. If any such promise has been made it must have been made to the Honorable Mr. Lane<a href="#n03" class="internal_link">3</a> personally, and would suggest that he take it up personally with the party who made the promise.</p>
 
       <span class="closer">
          <span class="salute">Yours very truly,</span>
          <br/>ESSANAY FILM MANUFACTURING CO.
     <br/>
-      V. R. Day<a href="../doc/n04" class="internal_link">4</a>
+      V. R. Day<a href="#n04" class="internal_link">4</a>
          <div class="note">VRD-B</div>
       </span>
    </div>
@@ -51,4 +51,3 @@
   <div class="note">Note 4: Vernon R. Day (1869-1945) was manager of Essanay Studies ; 'Essanay' was created from the initials of its founders, George K. Spoor and Gilbert Maxwell Aronson ('S' and 'A').</div>
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="envelope ">
+   <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00390.001.jpg"
@@ -35,7 +35,7 @@ J. H. Tait
 
    </div>
 
-   <div class="letter doublespace ">
+   <div class="letter">
       <div class="note">Mrs. W. F. Cody,<br/>F. H. Garlow, Manager.<br/>..Scout's Rest Ranch..<br/>Baled Alfalfa and Prairie Hay . . . .<br/>North Platte, Neb.,</div>
 
 
@@ -65,4 +65,3 @@ J. H. Tait
 
 
 </div>
-

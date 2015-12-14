@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11341.jpg"
@@ -18,26 +18,26 @@
         <h3>Four Miles of Celluloid Negatives Contain the Most Wonderful Pictures Ever Taken — War of Messiah Shown in All Its Harrowing Detail.</h3>
         
         <p>(By RYLEY COOPER.)</p>
-        <div class=" ">
+        <div class="">
         <p>Up at Pine Ridge, S. D., there is loneliness now and quiet. The little hotel, a blazing center of activity for the last month, has reverted to its old status of quietude. The Indians roam the streets somewhat mournfully, while out where once there sounded the voices of many men and women, where once there echoed loud and disturbing the <span class="unclear illegible">["snokome-engo-o-o-o!"?]</span> of the Sioux announcer, all to peace again, and the dull hills once more form the foraging ground of the wandering, hungry coyote. The greatest event that Pine Ridge has known since the War of the Messiah is past. The taking of motion pictures is over.</p>
         
         <p>And that means a great deal, for the motion picture camp which established itself six weeks in the vicinity of Pine Ridge was the greatest the industry had ever known. And it had to be — for that camp was there for the purpose of reproducing history. The various phases of the War of the Messiah, the battles of the War Bonnet and Summit Springs, in which Buffalo Bill played the stellar part, were invidents [sic] of history which could not be reproduced with a few supers in blue coats playing as soldiers and a few more supers dressed to represent Indians. Lieut. Gen. Nelson A. Miles was there. Brig. Gen. Frank D. Baldwin, Brig. Gen. Marion P. Maus, Maj. Gen. Jesse M. Lee and Brig. Gen. Charles King were there — they had seen the original history and they were present to superintend its reproduction. And everything had to come up to the standard set by the generals.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h4>800 SIOUX INDIANS PLAYED THEIR PARTS.</h4>
         
         <p>And so, that history might be preserved as truthfully as possible, 800 Sioux Indians, the finest appearing Indians alive today, gathered at Pine Ridge. Tepee after tepee stretched its conical height upon the field. Acre after acre was taken up with tents and tepees and horses and wagons and <span class="unclear illegible">[travels?]</span>. Hundreds of squaws, hundreds of children — all were present and all were working in the great production.</p>
         
         <p>Across the valley there showed the brown tents of the soldiers — real soldiers, hundreds of them — who had made the long march from Fort Robinson that they might impersonate the various troops which took part in the actual battles of the past. And with them was Col. H. G. Sickel, who was present at the battle of Wounded Knee, and who had come to Pine Ridge, that he might give his aid in bringing forth history exactly as history was made. More, in Crawford, awaiting the time when he would be needed, was Maj. Carter P. Johnson, an Indian fighter of many years experience, planning the happenings around the fort that he might be ready with every possible event to help the pictures.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h4>OLD TIMERS HOLD GREAT GATHERING.</h4>
         
         <p>And the gathering of the old timers that it meant! From everywhere, it seemed, there came men who had fought in the various battles, to gather around the stove at nights with Colonel Cody and the generals and talk of the wars of the past, to hurry out in the daytime and re-enact the fights which they had known in the days of long ago.</p>
         
         <p>There was Philip Wells, who lost his nose, and regained it in the battle of Wounded Knee. There were the generals, with General Miles and General Maus playing bridge, General Baldwin riding and hunting, General Lee telling stories, Colonel Cody enlightening the audience with stories of the Indian sign language. There was Mike Russell of Deadwood, telling the stories of the past which gave him the name of Buckshot Mike. There was Hank Simmons, army wagonmaster of the long ago. There was Maj. John M. Burke, relating the burgling of his famous woodpile during the attack on the agency. And they all had only one thought — the reproduction of history as history happened.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h4>JOHNNY BAKER PETS OLD CHIEFS.</h4>
         
         <p>And out at camp where the tepee fires showed through the painted canvas, where the announcers strode here and there calling out the news of the day, where Johnny Baker, champion shot of the world, talked and harangued and petted the old chiefs whom he had known for so many years, there were other survivors of the past.</p>
@@ -50,7 +50,7 @@
         
         <p>There is shown, too, the moving armies, and the efforts of the generals to bring in the Indians. The attacks on the rendezvous are shown; how the soldiers drove back the red men inch by inch, foot by foot, to the agency. The Battle of Wounded Knee is shown, the Battle of the Missions and, finally, the surrender. There is not a detail of that whole battle that is neglected on the films.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h4>YELLOW HAWK RIDES BEFORE HIS ARMY.</h4>
         
         <p>And when the older battles came — those of the Warbonnet and of Summit Springs, the camera was just as truthful. Again Yellowhead rode before his army, patting his chest, shouting out his prowess as a warrior and calling upon Pahaska to come forth and fight him. Again there shot a streak of humanity from the lines of Eugene Carr's soldiers. Again the struggles, the swing of the tomahawk, the flash of a knife and Buffalo Bill stood holding a scalp aloft and shouting:</p>
@@ -65,4 +65,3 @@
       </div>
    </div>
     </div>
-

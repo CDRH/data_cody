@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11346.jpg"
@@ -20,14 +20,14 @@
         <h3>EVERY DETAIL CORRECT.</h3>
         
         <h3>Denver Will Have Opportunity to See Them All of Next Week.</h3>
-        <div class=" ">
+        <div class="">
         <p>The Washington Herald of last Saturday has an elaborate story of the Indian war pictures as presented before the officials of the nation last week. The article which follows, gives an idea of what the people of Denver will be able to see at the Tabor Opera house all next week beginning Sunday afternoon:</p>
         
         <p>Army officers, active and retired, grizzled veterans of the Indian wars, yesterday lived again their battles during two complimentary presentations of moving pictures of frontier battles, in which many of them participated. The pictures were shown first at the Columbia in the afternoon, and the Home Club of the interior department in the evening.</p>
         
         <p>Under the direction of Col. William F. Cody, dear to the hearts of hundreds of thousands the world over as Buffalo Bill, the Indian fights through which he passed as a chief scout with United States troops, were re-enacted last summer on the scenes of the original engagements.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h4>PICTURES ARE ALMOST UNCANNY IN REALISM.</h4>
         
         <p>The war department loaned United States troops for the purpose, and the interior department permitted the mobilization of Indians, and then virtually all survivors on both sides of the conflicts were gathered into a council to make the scenes historically correct. The result is a set of films almost uncanny in their realism. The realism was carried even to the point of having officers of general rank, "active and retired, re-enact the parts they played in battles as young lieutenants. Maj. Gen. Miles is seen reviewing again on the plains of South Dakota, the victorious troops following the battle of Wounded Knee, the last battle of the great Indian uprising. And gathered around him are many who sat their horses during the review twenty-two years before. In an earlier picture, Col. H. G. Sickles, now in command of the Twelfth cavalry, is seen scouting on his stomach through the sage brush, in company with Buffalo Bill, watching a wagon train which was about to be attacked by a band of Cheyennes — a part he had played as a young lieutenant, and upon the identical spot.</p>
@@ -38,7 +38,7 @@
         
         <p>Many of the scenes are beautiful, many are inspiring, others impress through the terrible realism they show. All defy a detailed description, but the verdict of the audiences who sat spellbound through the two presentations may be indicated from the remark of Brigadier General Hall, a veteran of the Custer campaign and most of the Indian fights.</p>
       </div>
-        <div class=" ">
+        <div class="">
         <h4>WAR DEPARTMENT TO PRESERVE THE REELS.</h4>
         
         <p>"Bill, I didn't think it could be done," he said, clasping Colonel Cody's hand during the performance at the Columbia. "I didn't think until I saw these pictures that it would be possible to reproduce what we went through out there."</p>
@@ -51,4 +51,3 @@
       </div>
    </div>
     </div>
-

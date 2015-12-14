@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,14 +20,13 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Hull England<br/>
-July. 2d 1904<a href="../doc/n01" class="internal_link">1</a>
+July. 2d 1904<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear Hinckle</span>
 
 
-      <p>Thanks for your favor— Am sorry our Govenor did not get the nomination.<a href="../doc/n02" class="internal_link">2</a> But such is life I compliment you on your deserved promotion.<a href="../doc/n03" class="internal_link">3</a> Well if we do get out of office this fall. we will still remain good citizens of our state. I am enjoying the finest of health And my prospects never looked better. have commenced building a hotel near our old hunting camp at mouth of middle fork.<a href="../doc/n04" class="internal_link">4</a> And will add forty more rooms to the Irma— <a rel="tooltip" class="sic" title="Also​ ">Allso</a>
-    ​ getting my coal mine in to shape to ship coal—<a href="../doc/n05" class="internal_link">5</a> That dear old country eats up my money faster than I can make it.</p>
+      <p>Thanks for your favor— Am sorry our Govenor did not get the nomination.<a href="#n02" class="internal_link">2</a> But such is life I compliment you on your deserved promotion.<a href="#n03" class="internal_link">3</a> Well if we do get out of office this fall. we will still remain good citizens of our state. I am enjoying the finest of health And my prospects never looked better. have commenced building a hotel near our old hunting camp at mouth of middle fork.<a href="#n04" class="internal_link">4</a> And will add forty more rooms to the Irma— <a rel="tooltip" class="sic" title="Also​ &#xA;    ">Allso</a> getting my coal mine in to shape to ship coal—<a href="#n05" class="internal_link">5</a> That dear old country eats up my money faster than I can make it.</p>
 
       <span class="closer">
          <span class="salute">Regards to all</span>
@@ -37,7 +36,7 @@ July. 2d 1904<a href="../doc/n01" class="internal_link">1</a>
 
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
 
       <span class="hr"> </span>
@@ -84,4 +83,3 @@ U. S. A.
    <div class="note">Note 5: William F. Cody organized a company called Cody's Wyoming Coal Company, which worked coal deposits near the Burlington Railroad right-of-way northeast of the town of Cody. The coal was not of high quality, and sold only in local markets. William F. Cody's stock certificates for this company were issued in February 1904.</div>
 
 </div>
-

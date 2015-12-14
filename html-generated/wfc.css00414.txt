@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00414.01.jpg"
@@ -24,8 +24,7 @@ Feby 12 —1914</span>
       <span class="salute">Mr Tate:</span>
 
 
-      <p>I received the copies of the Post you kindly sent me for which I thank you very much. I find there will not be enough to go around and will ask you to send me about six or eight more copies if the issue is not <a rel="tooltip" class="sic" title="exhausted​ ">exausted</a>
-    ​.</p>
+      <p>I received the copies of the Post you kindly sent me for which I thank you very much. I find there will not be enough to go around and will ask you to send me about six or eight more copies if the issue is not <a rel="tooltip" class="sic" title="exhausted​ &#xA;    ">exausted</a>.</p>
 
       <p>There is enclosed $1.00. pay for the papers and then you and Hank go out and take something for the change.</p>
 
@@ -36,7 +35,7 @@ Feby 12 —1914</span>
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00414.02.jpg"
@@ -74,4 +73,3 @@ Col.
 
 
 </div>
-

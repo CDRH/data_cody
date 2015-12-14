@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>COLONEL WILLIAM F. CODY — BUFFALO BILL.</h3>
       <h3>He Describes the Rise and Fall of the Romantic Period of the Great West.</h3>
@@ -144,4 +144,3 @@
 
 
 </div>
-

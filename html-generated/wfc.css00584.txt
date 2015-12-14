@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00584.jpg"
@@ -28,23 +28,25 @@
 
 
 
-      <span class="ab">62 P YX AZ<br/> 9<br/>Paid.<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab">62 P YX AZ<br/> 9<br/>Paid.<a href="#n01" class="internal_link">1</a>
          <br/> 
          <strong>788</strong>
       </span>
 
 
 
-      <span class="ab">Philadelphia Pa Apl 19-96<a href="../doc/n02" class="internal_link">1</a>
+      <span class="ab">Philadelphia Pa Apl 19-96<a href="#n02" class="internal_link">1</a>
       </span>
 
 
       <span class="ab">
-         <span class="persName">Geo T Beck</span>, Annex Auditorium, Hotel. Chicago Ills.</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>, Annex Auditorium, Hotel. Chicago Ills.</span>
 
 
 
-      <span class="ab">Wire <span class="persName">cunningham</span> at once to get his settlers ready.</span>
+      <span class="ab">Wire <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/cunningham.d"/>cunningham</span> at once to get his settlers ready.</span>
 
 
       <span class="closer">
@@ -65,4 +67,3 @@
 
 
 </div>
-

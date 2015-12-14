@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00568.jpg"
@@ -31,12 +31,13 @@
 
       <span class="ab">122P MH DO 17 Paid 2Pm </span>
 
-      <span class="ab">New York Jan 24th-96<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab">New York Jan 24th-96<a href="#n01" class="internal_link">1</a>
       </span>
 
 
       <span class="ab">
-         <span class="persName">Geo T Beck</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
       </span>
 
       <span class="ab">Chamberlins Hotel</span>
@@ -44,7 +45,7 @@
       <span class="ab">Washn</span>
 
 
-      <p>See president<a href="../doc/n02" class="internal_link">2</a> vice president<a href="../doc/n03" class="internal_link">3</a> if not hing can be done we must close down on work at once</p>
+      <p>See president<a href="#n02" class="internal_link">2</a> vice president<a href="#n03" class="internal_link">3</a> if not hing can be done we must close down on work at once</p>
 
 
       <span class="closer">
@@ -63,4 +64,3 @@
 
 
 </div>
-

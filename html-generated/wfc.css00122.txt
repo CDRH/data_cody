@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -28,11 +28,11 @@ R. H. Southgate, Manager. </div>
 
       <span class="dateline">Chicago, Mar-10th 1902</span>
 
-      <span class="salute">My. Dear. <span class="persName">Hinkle</span>.</span>
+      <span class="salute">My. Dear. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hinkle.l"/>Hinkle</span>.</span>
 
 
-      <p>I am here seeing some Gentlemen- Who are talking of building the Cody &amp; Salsbury Canal. In a few days they may send their attorney to consult the Board and Engineer.<a href="../doc/n01" class="internal_link">1</a> I am <a rel="tooltip" class="sic" title="using​ ">useing</a>
-    ​ my best energy to get that Canal built. And I hope they will take the water out in the Canyon. So that a big water power can be developed near Cody and then that big tract
+      <p>I am here seeing some Gentlemen- Who are talking of building the Cody &amp; Salsbury Canal. In a few days they may send their attorney to consult the Board and Engineer.<a href="#n01" class="internal_link">1</a> I am <a rel="tooltip" class="sic" title="using​ &#xA;    ">useing</a> my best energy to get that Canal built. And I hope they will take the water out in the Canyon. So that a big water power can be developed near Cody and then that big tract
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -53,7 +53,7 @@ R. H. Southgate, Manager. </div>
 
          <span class="h6">2</span>
 
-of land near hart mountain- can be watered.<a href="../doc/n02" class="internal_link">2</a> It was lucky that the Mormons did not get any more land off the lower end or this great expensive Canal would never have been built and all that fine land next the Mountains would have for ever remained unsettled.<a href="../doc/n03" class="internal_link">3</a> And there never would have been a great power plant to turn the wheels of industry I wish that the Board and
+of land near hart mountain- can be watered.<a href="#n02" class="internal_link">2</a> It was lucky that the Mormons did not get any more land off the lower end or this great expensive Canal would never have been built and all that fine land next the Mountains would have for ever remained unsettled.<a href="#n03" class="internal_link">3</a> And there never would have been a great power plant to turn the wheels of industry I wish that the Board and
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -97,10 +97,9 @@ Chicago________ 190_ </div>
 
          <span class="h6">4</span>
 
-My way to Buffalo with Mr Wiley to meet the Directors of the Shoshone Irrigation Co-<a href="../doc/n05" class="internal_link">5</a> rest <a rel="tooltip" class="sic" title="assured​ ">a sured</a>
-    ​ I am not idle And am doing my level best to build up Northern Wyo—</p>
+My way to Buffalo with Mr Wiley to meet the Directors of the Shoshone Irrigation Co-<a href="#n05" class="internal_link">5</a> rest <a rel="tooltip" class="sic" title="assured​ &#xA;    ">a sured</a> I am not idle And am doing my level best to build up Northern Wyo—</p>
 
-      <p>Please remember me to the Govenor &amp; Gentlemen of the Board &amp; also Mr Bond—<a href="../doc/n06" class="internal_link">6</a>
+      <p>Please remember me to the Govenor &amp; Gentlemen of the Board &amp; also Mr Bond—<a href="#n06" class="internal_link">6</a>
       </p>
 
       <span class="closer">
@@ -109,14 +108,14 @@ My way to Buffalo with Mr Wiley to meet the Directors of the Shoshone Irrigation
          <br/>W.F. Cody
 
 <span class="dateline">Address<br/>
-Hoffman House<a href="../doc/n07" class="internal_link">7</a>
+Hoffman House<a href="#n07" class="internal_link">7</a>
             <br/>
 New York</span>
       </span>
 
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -165,11 +164,11 @@ Wyo
 
    <div class="note">Note 4: Cody's promise of a large band of Swedish settlers in the Big Horn Basin did not materialize.</div>
 
-   <div class="note">Note 5: Cody and his partners in the Shoshone Irrigation Company were then considering an offer from Omaha businessman <span class="persName">Solon L. Wiley</span> to buy them out.  Wiley was unable to secure the needed financing, and the deal eventually fell apart.</div>
+   <div class="note">Note 5: Cody and his partners in the Shoshone Irrigation Company were then considering an offer from Omaha businessman <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/wiley.s"/>Solon L. Wiley</span> to buy them out.  Wiley was unable to secure the needed financing, and the deal eventually fell apart.</div>
 
    <div class="note">Note 6: DeForest Richards (1846-1903) was then the governor of Wyoming.  Fred Bond (1856-1903) was then Wyoming state engineer.</div>
 
    <div class="note">Note 7: The Hoffman House was then a leading New York City hotel.  Cody often stayed at the Hoffman House when he was in the city.</div>
 
 </div>
-

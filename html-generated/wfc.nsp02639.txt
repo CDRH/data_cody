@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,7 +20,7 @@
 
       <span class="gap sampling">[sampling]</span>
 
-      <p>A well-known Epsom<a href="../doc/n01" class="internal_link">1</a> racing man, Jesse Winfield,<a href="../doc/n02" class="internal_link">2</a> has challenged Buffalo Bill to produce a cowboy to ride from London to York against a sixty-year-old man he will back. This is the same course as that made by the famous highwayman, Dick Turpin.<a href="../doc/n03" class="internal_link">3</a>
+      <p>A well-known Epsom<a href="#n01" class="internal_link">1</a> racing man, Jesse Winfield,<a href="#n02" class="internal_link">2</a> has challenged Buffalo Bill to produce a cowboy to ride from London to York against a sixty-year-old man he will back. This is the same course as that made by the famous highwayman, Dick Turpin.<a href="#n03" class="internal_link">3</a>
       </p>
 
       <span class="gap sampling">[sampling]</span>
@@ -37,4 +37,3 @@
 
 
 </div>
-

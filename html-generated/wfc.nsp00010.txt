@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>SUCCESS AT ERASTINA.</h3>
 
@@ -13,4 +13,3 @@
 
 
 </div>
-

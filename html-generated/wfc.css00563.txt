@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00563.jpg"
@@ -32,19 +32,22 @@
       <span class="ab">27 CH DE D<br/>24 Paid<br/>855 am July 23, 1895</span>
 
 
-      <span class="ab">White River Junct. Vt. 23<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab">White River Junct. Vt. 23<a href="#n01" class="internal_link">1</a>
       </span>
 
 
       <span class="ab">
-         <span class="persName">George T. Beck</span>,</span>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>,</span>
 
-      <span class="ab">MacTagues Hotel<a href="../doc/n02" class="internal_link">2</a>.</span>
+      <span class="ab">MacTagues Hotel<a href="#n02" class="internal_link">2</a>.</span>
 
 
       <p>
-         <span class="persName">Salsbury</span> in. Is Higby<a href="../doc/n03" class="internal_link">3</a> in can Asay<a href="../doc/n04" class="internal_link">4</a> produce when does <span class="persName">Beckert</span>
-         <a href="../doc/n05" class="internal_link">5</a> commence work did you get contract from state land board Wyoming for land.</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> in. Is Higby<a href="#n03" class="internal_link">3</a> in can Asay<a href="#n04" class="internal_link">4</a> produce when does <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/heckert.t"/>Beckert</span>
+         <a href="#n05" class="internal_link">5</a> commence work did you get contract from state land board Wyoming for land.</p>
 
 
       <span class="closer">
@@ -66,4 +69,3 @@
 
 
 </div>
-

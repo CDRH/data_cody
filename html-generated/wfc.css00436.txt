@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -39,15 +39,15 @@
       </div>
 
 
-      <span class="dateline">Allentown. May 9 1895.<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Allentown. May 9 1895.<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">Dear- <span class="persName">George</span>
+      <span class="salute">Dear- <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
 
-      <p>There is no telling where a letter will reach you. If you get this will you write. Would like to know about the Shoshone Co— <a rel="tooltip" class="sic" title="also​ ">allso</a>
-    ​ about the horses at your ranch.</p>
+      <p>There is no telling where a letter will reach you. If you get this will you write. Would like to know about the Shoshone Co— <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> about the horses at your ranch.</p>
 
       <p>Please write.</p>
 
@@ -58,13 +58,13 @@
 </span>
 
 
-      <p>P.S. I am simply worked to death— but am getting there. Salsbury has been dangerously ill—<a href="../doc/n02" class="internal_link">2</a>
+      <p>P.S. I am simply worked to death— but am getting there. Salsbury has been dangerously ill—<a href="#n02" class="internal_link">2</a>
       </p>
 
-      <p>You see Assay of Rushville is ready to take Indian &amp; find mine<a href="../doc/n03" class="internal_link">3</a>
+      <p>You see Assay of Rushville is ready to take Indian &amp; find mine<a href="#n03" class="internal_link">3</a>
       </p>
 
-      <p>Write him-<a href="../doc/n04" class="internal_link">4</a>
+      <p>Write him-<a href="#n04" class="internal_link">4</a>
       </p>
 
 
@@ -89,4 +89,3 @@
 
 
 </div>
-

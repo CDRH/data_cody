@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -17,7 +17,9 @@
       </span>
 
       <p>
-         <span class="persName">Otakte</span>, or "Kill Many," one of Buffalo Bill's Sioux, who returned from Europe on Saturday seriously injured by a fall from his horse while with the show in Berlin, died in Bellevue Hospital on Tuesday. His body will be taken to the Sioux reservation by "Hank" Clifford<a href="../doc/n01" class="internal_link">1</a> and <span class="persName">George C. Crager</span>, who were with Buffalo Bill as interpreters.</p> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/otakte"/>Otakte</span>, or "Kill Many," one of Buffalo Bill's Sioux, who returned from Europe on Saturday seriously injured by a fall from his horse while with the show in Berlin, died in Bellevue Hospital on Tuesday. His body will be taken to the Sioux reservation by "Hank" Clifford<a href="#n01" class="internal_link">1</a> and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g"/>George C. Crager</span>, who were with Buffalo Bill as interpreters.</p> 
 
    </div>
 
@@ -26,4 +28,3 @@
    <div class="note">Note 1. "Hank" Clifford is not further identified.</div>
 
 </div>
-

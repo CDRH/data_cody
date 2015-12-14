@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,7 +25,8 @@
       <span class="dateline">July 7, 1904.</span>
 
 
-      <span class="persName">Mr. Bronson Rumsey</span>, Trustee,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>, Trustee,
 
 78 Exchange St., 
 
@@ -60,7 +61,7 @@ Sec'y.
       </a>
    </span>
 
-   <div class="record doublespace ">
+   <div class="record">
       <p>Statement of business transacted at Cody, Wyoming, by the Lincoln Land Company. with respect to the one-hald interest of Bronson Rumsey, Trustee, for the six months ending June 30, 1904.</p>
 
       <div class="note">[View page one image of six-month financial statement ending June 30, 1904, for full display.]</div>
@@ -95,4 +96,3 @@ Sec'y.
 
 
 </div>
-

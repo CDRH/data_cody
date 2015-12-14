@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00533.jpg"
@@ -18,21 +18,21 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
 
-      <span class="dateline">Nashville Tenn<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Nashville Tenn<a href="#n01" class="internal_link">1</a>
          <br/>
 
 Apr 30th 99</span>
 
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
 
-      <p>Please let me know how you are getting on with ditch. When do you expect to have water to town<a href="../doc/n02" class="internal_link">2</a>. How are you <a rel="tooltip" class="sic" title="making​ ">makeing</a>
-    ​ it with <span class="persName">Darrah</span>? Say if the rest of the Company <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ put up to pay interest on Hearst loan<a href="../doc/n03" class="internal_link">3</a>— What had best be done?</p>
+      <p>Please let me know how you are getting on with ditch. When do you expect to have water to town<a href="#n02" class="internal_link">2</a>. How are you <a rel="tooltip" class="sic" title="making​ &#xA;    ">makeing</a> it with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/darrah.h"/>Darrah</span>? Say if the rest of the Company <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> put up to pay interest on Hearst loan<a href="#n03" class="internal_link">3</a>— What had best be done?</p>
 
-      <p>Love to Bettie<a href="../doc/n04" class="internal_link">4</a>
+      <p>Love to Bettie<a href="#n04" class="internal_link">4</a>
       </p>
 
 
@@ -57,4 +57,3 @@ Apr 30th 99</span>
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <div class="note">(COPY)</div>
       <span class="dateline">Omaha, Neb., March 8th, 1900.</span>
@@ -32,4 +32,3 @@ No. 710 Sears Bldg., Boston, Mass.
 
 
 </div>
-

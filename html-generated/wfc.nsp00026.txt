@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>ARRIVAL OF BUFFALO BILL'S INDIANS.</h3>
 
@@ -13,4 +13,3 @@
 
 
 </div>
-

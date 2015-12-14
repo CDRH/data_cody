@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -19,15 +19,17 @@
       <div class="note">The Continental<br/>L. U. Maltby<br/>Philadelphia</div>
 
 
-      <span class="dateline">Apr 13 1896<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Apr 13 1896<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">George</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
 
-      <p>I hope the 80% of Capital<a href="../doc/n02" class="internal_link">2</a> will find out that they have laid out a good route.</p>
+      <p>I hope the 80% of Capital<a href="#n02" class="internal_link">2</a> will find out that they have laid out a good route.</p>
 
-      <p>I guess you found out that Nagles<a href="../doc/n03" class="internal_link">3</a> outfit was allright. George— I do know that <span class="persName">Hayden</span> cannot do all the engineering and superintend the construction. I do know that the 80% wants to know how long its going to take to finish up the first 25000 acres— and the probable cost of same and if the construction is going to be managed
+      <p>I guess you found out that Nagles<a href="#n03" class="internal_link">3</a> outfit was allright. George— I do know that <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c"/>Hayden</span> cannot do all the engineering and superintend the construction. I do know that the 80% wants to know how long its going to take to finish up the first 25000 acres— and the probable cost of same and if the construction is going to be managed
 
 
 <span class="hr"> </span>
@@ -44,10 +46,8 @@
          <div class="note">The Continental<br/>L. U. Maltby<br/>Philadelphia __________ 189__ </div>
 
 
-on business principles &amp;c— <span class="persName">Cunningham</span> writes me he has a good colony ready to go— and men with money. And <del>if</del> I <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ see why they are bared George. I dont want to quarrel and especially with you— You know I have been your friend But I <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ see how you can <a rel="tooltip" class="sic" title="figuring​ ">figureing</a>
-    ​ it that you are doing right or working for the good of our enterprise. By being away <del>s</del>from the work all the time— And leaving it run loose— and will give no one a report
+on business principles &amp;c— <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/cunningham.d"/>Cunningham</span> writes me he has a good colony ready to go— and men with money. And <del>if</del> I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> see why they are bared George. I dont want to quarrel and especially with you— You know I have been your friend But I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> see how you can <a rel="tooltip" class="sic" title="figuring​ &#xA;    ">figureing</a> it that you are doing right or working for the good of our enterprise. By being away <del>s</del>from the work all the time— And leaving it run loose— and will give no one a report
 
 
 <span class="hr"> </span>
@@ -63,12 +63,11 @@ on business principles &amp;c— <span class="persName">Cunningham</span> writes
 
          <div class="note">The Continental<br/>L. U. Maltby<br/>Philadelphia __________ 189__ </div>
 
-of <a rel="tooltip" class="sic" title="what's​ ">whats</a>
-    ​ been doing or how long its going to take to finish the 25000 &amp; the cost. You know that the land for the first colony<a href="../doc/n04" class="internal_link">4</a> will have to be surveyed &amp;c—</p>
+of <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> been doing or how long its going to take to finish the 25000 &amp; the cost. You know that the land for the first colony<a href="#n04" class="internal_link">4</a> will have to be surveyed &amp;c—</p>
 
-      <p>I dont see the <a rel="tooltip" class="sic" title="necessity​ ">necessaty</a>
-    ​ of your staying East when there is so much to do— If <span class="persName">Holdrege</span>
-         <a href="../doc/n05" class="internal_link">5</a> does think so—</p>
+      <p>I dont see the <a rel="tooltip" class="sic" title="necessity​ &#xA;    ">necessaty</a> of your staying East when there is so much to do— If <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/holdrege.g"/>Holdrege</span>
+         <a href="#n05" class="internal_link">5</a> does think so—</p>
 
       <span class="closer">
          <span class="salute">Your friend</span>
@@ -90,4 +89,3 @@ of <a rel="tooltip" class="sic" title="what's​ ">whats</a>
    <div class="note">Note 5: "Holdrege" is George Holdrege (1847-1926) who was the general manager of the Burlington rail lines west of the Mississippi. He was interested in all development along the proposed rail lines including the irrigation project Cody had undertaken.</div>
 
 </div>
-

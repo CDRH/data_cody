@@ -11,7 +11,7 @@
               class="display &#xA;            "/>
       </a>
    </span>
-  <div class="letter ">
+  <div class="letter">
 
       <div class="note">
    Capital $100,000.00<br/>Bank of Commerce<br/>Masonic Temple.<br/>Sheridan, Wyo.<br/>B. F. Perkins<br/>President.<br/>H. C. Bostwick<br/>Vice President.<br/>H. C. Alger<br/>Cashier.<br/>Geo. D. Barnard &amp; Co. St. Louis. Mo.
@@ -20,7 +20,7 @@
 
       <div class="note">
          <u>ans</u>
-         <a href="../doc/n01" class="internal_link">1</a>Jan 28. 1907</div>
+         <a href="#n01" class="internal_link">1</a>Jan 28. 1907</div>
 
 
 
@@ -28,7 +28,8 @@
 
       <span class="dateline">Jany, 24. 1907</span>
 
-      <span class="persName">Mr Bronson Rumsey</span>,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr Bronson Rumsey</span>,
 
 Buffalo, N. Y.
 
@@ -37,7 +38,8 @@ Buffalo, N. Y.
 
       <p>Can you tell me how many acres of land is included in the Cody Townsite, &amp; number of acres adjoining the Town now being managed by the Lincoln Land Co. How much has been paid to you as trustee for the 7 owners of the 1/2 interest, &amp; how much, if any, is now in your hands as trustee?</p>
 
-      <p>I wish to get some idea of the extent of this property, and the value of the interest held by <span class="persName">Mr. Alger.</span> Is there any incumbrance, or condition , of any kind, attaching to Mr. Alger's interest, and how is this interest evidenced?</p>
+      <p>I wish to get some idea of the extent of this property, and the value of the interest held by <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Mr. Alger.</span> Is there any incumbrance, or condition , of any kind, attaching to Mr. Alger's interest, and how is this interest evidenced?</p>
 
       <p>In your judgment what is the value of the 1/7 of 1/2 interest owned by the Alger Estate?</p>
 
@@ -64,4 +66,3 @@ administrator Estate H. C. Alger deceased.
    <div class="note">Note 1: The handwritten 'ans' at top left likely indicates the letter was answered on January 28, 1907.</div>
 
 </div>
-

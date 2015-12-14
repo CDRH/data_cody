@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -30,9 +30,9 @@
 
       <p>Professor Henry A. Ward, of Rochester, N. Y., the famous natural scientist, had as much to do with the development of that success as any one. Perhaps he gave the impulse to the evolution.</p>
 
-      <p>It was in January of 1872 that a grand buffalo hunt was arranged for the Duke Alexis.<a href="../doc/n01" class="internal_link">1</a> Professor Ward<a href="../doc/n02" class="internal_link">2</a> was honored with an invitation, whichj he received so late he did not reach the hunting grounds until the hunt was over. Not a bad thing for him, however, for he found horses and hunters in plenty for the scientific ends he had in view, and then he met Buffalo Bill for the first time, and the rifle of the expert hunter was at once engaged for an expedition in the interests of Ward's Natural Science establishment.</p>
+      <p>It was in January of 1872 that a grand buffalo hunt was arranged for the Duke Alexis.<a href="#n01" class="internal_link">1</a> Professor Ward<a href="#n02" class="internal_link">2</a> was honored with an invitation, whichj he received so late he did not reach the hunting grounds until the hunt was over. Not a bad thing for him, however, for he found horses and hunters in plenty for the scientific ends he had in view, and then he met Buffalo Bill for the first time, and the rifle of the expert hunter was at once engaged for an expedition in the interests of Ward's Natural Science establishment.</p>
 
-      <p>Professor Ward's estimate of William F. Cody has known no decrease from that time to this. It is the old story of enthusiastic admiration for Buffalo Bill. Cody told him of his invitation to visit New York by the Union club and the Jeromes,<a href="../doc/n03" class="internal_link">3</a> and his reluctance to accept. Ward urged him to go—insisted upon it; Cody should go east in his company, which changed the view of the journey. Finally Cody decided to go, but Ward must wait until Mrs. Cody could make a suit of clothing for the traveler. Mrs. Cody did her best and as speedily as possible, and, so arrayed, the hunter turned his face eastward, little thinking he would return as a scout of the plains no more. He was surprised at
+      <p>Professor Ward's estimate of William F. Cody has known no decrease from that time to this. It is the old story of enthusiastic admiration for Buffalo Bill. Cody told him of his invitation to visit New York by the Union club and the Jeromes,<a href="#n03" class="internal_link">3</a> and his reluctance to accept. Ward urged him to go—insisted upon it; Cody should go east in his company, which changed the view of the journey. Finally Cody decided to go, but Ward must wait until Mrs. Cody could make a suit of clothing for the traveler. Mrs. Cody did her best and as speedily as possible, and, so arrayed, the hunter turned his face eastward, little thinking he would return as a scout of the plains no more. He was surprised at
 
 <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -56,7 +56,7 @@ the attentions he received on his journey and in New York. Everybody, of course,
       <p>From London Cody intended going around the world with his Wild West show, and Jerusalem was on the list of cities where Indians, buck jumpers and cowboys were to give performances, showing how the Pony Express carried the news of Abraham Lincoln's election, and how the Deadwood coach was often surrounded by redskins, and what the massacre of frontier settlers was like. What a spectacle all that would have been for Asiatics, and who but a typical American, a genuine son of the west, would conceive the idea?</p>
 
       <p>Col. Cody is 46 years old. Sixteen years ago his wife was bravely doing her best here in Rochester to save and make thrifty expenditure of his earnings. She remains on his ranch in Nebraska most of the time, looking after his business there. He does not find the reward of his labor in the shouts that greet his every entrance into the ring, nor does he wear his heart upon his sleeve, great as it is.</p>
-      <span class="byline">JANE MARSH PARKER.<a href="../doc/n04" class="internal_link">4</a>
+      <span class="byline">JANE MARSH PARKER.<a href="#n04" class="internal_link">4</a>
       </span>
 
    </div>
@@ -72,4 +72,3 @@ the attentions he received on his journey and in New York. Everybody, of course,
    <div class="note">Note 4: Jane Marsh Parker (1836-1913), also known as Jenny Marsh Parker, a resident of Rochester, New York, was a writer of poetry and essays on history, travel, missionaries, etc.</div>
 
 </div>
-

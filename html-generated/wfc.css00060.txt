@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Office of the Scout's Rest Stock Ranch, Breeder of Draft, Trotting and Road Horses, Also, Short Horn and Hertford Cattle. Hon. W.F. Cody, Proprietor. <del>C. A. Dillon,</del> Foreman</div>
@@ -25,13 +25,11 @@ North Platte, Neb,
 
 Apr. 26th 1886
 </span>
-      <span class="salute">My Dear <span class="persName">Mollie</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/moses.m"/>Mollie</span>—</span>
 
 
-      <p>Enclosed find a P.O. for $25.<a href="../doc/n01" class="internal_link">1</a> I presume you are getting about ready to come to St. Louis. Wish you would start from home in time to arrive in St. Louis about the 2nd or <a rel="tooltip" class="sic" title="3rd​ ">3th</a>
-    ​ of May. Go to the. St. James Hotel if I <a rel="tooltip" class="sic" title="ain't​ ">aint</a>
-    ​ there to meet you. I will be there any how by the <a rel="tooltip" class="sic" title="3rd​ ">3th</a>
-    ​.<a href="../doc/n02" class="internal_link">2</a> I have got you the white horse. and a fine saddle. Suppose you have your habit.<a href="../doc/n03" class="internal_link">3</a>
+      <p>Enclosed find a P.O. for $25.<a href="#n01" class="internal_link">1</a> I presume you are getting about ready to come to St. Louis. Wish you would start from home in time to arrive in St. Louis about the 2nd or <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a> of May. Go to the. St. James Hotel if I <a rel="tooltip" class="sic" title="ain't​ &#xA;    ">aint</a> there to meet you. I will be there any how by the <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a>.<a href="#n02" class="internal_link">2</a> I have got you the white horse. and a fine saddle. Suppose you have your habit.<a href="#n03" class="internal_link">3</a>
       </p>
 
       <p>Will be glad to see you—</p>
@@ -52,4 +50,3 @@ Apr. 26th 1886
    <div class="note">Note 3: Cody refers to a "riding habit," a set of tailored clothing then considered proper dress for women riding horseback.</div>
 
 </div>
-

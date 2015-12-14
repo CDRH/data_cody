@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -17,8 +17,7 @@ C. H. M.
       <span class="salute">My dear Mr. Perkins,—</span>
 
 
-      <p>I herewith enclose a statement made by Mr. Griggs, your attorney in Wyoming in regard to the condition of the Cody irrigation scheme.  I thought perhaps you might like to know the facts in the case as Cody has stated he could put three or four hundred thousand dollars in it almost any time if railroad was to be built.  I think most of the money he has put in <a rel="tooltip" class="sic" title="there​ ">their</a>
-    ​ has been invested in wines and probably will be in the future.  That, also, is Mr. Calvert's opinion.</p>
+      <p>I herewith enclose a statement made by Mr. Griggs, your attorney in Wyoming in regard to the condition of the Cody irrigation scheme.  I thought perhaps you might like to know the facts in the case as Cody has stated he could put three or four hundred thousand dollars in it almost any time if railroad was to be built.  I think most of the money he has put in <a rel="tooltip" class="sic" title="there​ &#xA;    ">their</a> has been invested in wines and probably will be in the future.  That, also, is Mr. Calvert's opinion.</p>
 
       <p>Mr. Black came in this morning.</p>
 
@@ -32,4 +31,3 @@ C. H. M.
 
 
 </div>
-

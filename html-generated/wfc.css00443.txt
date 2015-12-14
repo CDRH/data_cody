@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,14 +25,18 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
 
-      <span class="dateline">Montpelier July 24<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Montpelier July 24<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">George</span>—</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
-      <p>I have wired &amp; wrote you— I wrote <span class="persName">Alger</span> &amp; <span class="persName">Heckart</span>— But no reply. I hope nothing will prevent the meeting at Sheridan Aug. 1st And George have it settled then and there— would like to know if Higby<a href="../doc/n02" class="internal_link">2</a> is in if he is <span class="persName">Russell</span> will be in. Two good Men— What about <u>Leighter</u>
-         <a href="../doc/n03" class="internal_link">3</a>. Have you fixed contract with Wyo. State Land Board? We must have our contract before we go to far— Organize Town Site Co. also Aug 1st I wrote <span class="persName">Hymer</span> to put the Sulphur Springs<a href="../doc/n04" class="internal_link">4</a> in to the Townsite Co— Then find out best way to get good title to Land for Town. Take it cool but get there— And have things Iron bound— &amp; <a rel="tooltip" class="sic" title="let's​ ">lets</a>
-    ​ get to work—</p>
+      <p>I have wired &amp; wrote you— I wrote <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t"/>Heckart</span>— But no reply. I hope nothing will prevent the meeting at Sheridan Aug. 1st And George have it settled then and there— would like to know if Higby<a href="#n02" class="internal_link">2</a> is in if he is <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/russell.m"/>Russell</span> will be in. Two good Men— What about <u>Leighter</u>
+         <a href="#n03" class="internal_link">3</a>. Have you fixed contract with Wyo. State Land Board? We must have our contract before we go to far— Organize Town Site Co. also Aug 1st I wrote <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> to put the Sulphur Springs<a href="#n04" class="internal_link">4</a> in to the Townsite Co— Then find out best way to get good title to Land for Town. Take it cool but get there— And have things Iron bound— &amp; <a rel="tooltip" class="sic" title="let's​ &#xA;    ">lets</a> get to work—</p>
 
       <span class="closer">
          <br/>Bill</span>
@@ -52,4 +56,3 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
 </div>
-

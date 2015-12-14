@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">(COPY)</div>
@@ -89,4 +89,3 @@ G. S., Lincoln.
 
 
 </div>
-

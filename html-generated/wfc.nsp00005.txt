@@ -3,12 +3,12 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
       <h3>MISS COLLINS ATTACKS COL. CODY.</h3>
       <h3>Her Arraignment of "Wild West" Shows—Resolutions Adopted by the Club.</h3>
 
-      <div class=" ">
+      <div class="">
          <p>Miss Mary C. Collins, for sixteen years a Congregational missionary among the Sioux Indians, followed Gen. Morgan and devoted much of her time to telling of the "great wrong" that was being done to the Indians by the Government officials, who allowed men to cart them about the country with shows. In the course of her remarks she said:</p>
 
          <p>"I consider it a privilege to speak to an audience which I know can help the Indians. I almost forget at times that I am not an Indian. I have been with them so long and have been interested in their welfare so much. I could scarcely keep back the tears when I sat there and heard Dr. Eastman speak. I remember so well when he was a little boy and started out in life under the care of our mission. I remember also his father, who was a chief, and though he could not speak a word of English he was a Christian.</p>
@@ -21,7 +21,7 @@
 
          <p>Continuing, she told how she had gone out to Fort Sheridan, and how the Indians had said they would be hung when they were sent back to the reservation unless they went with Buffalo Bill to Europe.  And the authorities at the fort allowed the prisoners to be taken out to neighboring towns and put on exhibition.  While she was holding services in a tent at the fort Sunday a man came and broke up the meeting in order that the Indians might be taken out to be exhibited.</p>
       </div>
-      <div class=" ">
+      <div class="">
          <h4>Resolution Adopted.</h4>
 
          <p>When she finished her talk Gen. C. H. Howard presented the following resolutions and moved their adoption:</p>
@@ -51,4 +51,3 @@
 
 
 </div>
-

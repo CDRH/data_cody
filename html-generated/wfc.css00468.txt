@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -22,14 +22,13 @@
 
       <span class="dateline">Mar. 31 [189]6</span>
 
-      <span class="salute">My Dear <span class="persName">Beck</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
       </span>
 
       <p>
-         <span class="persName">Mead</span> leaves Cheyenne tomorrow to go and consult with you if we ever needed his services it is right now to examine and <a rel="tooltip" class="sic" title="aprove​ ">approove</a>
-    ​ of our ditch and give us an estimate on both propositions North &amp; South side. and <a rel="tooltip" class="sic" title="also​ ">allso</a>
-    ​ help getting <a rel="tooltip" class="sic" title="around​ ">arround</a>
-    ​ or through those red bluffs<a href="../doc/n01" class="internal_link">1</a> where we take the water out of Sulphur creek.<a href="../doc/n02" class="internal_link">2</a> I would suggest that he be allowed to go over the accounts &amp; see what the work so far has cost. The amount of lumber needed and the prospect of getting it So he can give a full report. And with his re-
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e"/>Mead</span> leaves Cheyenne tomorrow to go and consult with you if we ever needed his services it is right now to examine and <a rel="tooltip" class="sic" title="aprove​ &#xA;    ">approove</a> of our ditch and give us an estimate on both propositions North &amp; South side. and <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> help getting <a rel="tooltip" class="sic" title="around​ &#xA;    ">arround</a> or through those red bluffs<a href="#n01" class="internal_link">1</a> where we take the water out of Sulphur creek.<a href="#n02" class="internal_link">2</a> I would suggest that he be allowed to go over the accounts &amp; see what the work so far has cost. The amount of lumber needed and the prospect of getting it So he can give a full report. And with his re-
 
 
 <span class="hr"> </span>
@@ -48,7 +47,7 @@
 
 port I may be able to raise the money to push work through—</p>
 
-      <p>Will you send to Red Lodge<a href="../doc/n03" class="internal_link">3</a> for him and give him what assistance you can so as to hurry his report.</p>
+      <p>Will you send to Red Lodge<a href="#n03" class="internal_link">3</a> for him and give him what assistance you can so as to hurry his report.</p>
 
       <span class="closer">
          <span class="salute">Yours</span>
@@ -58,7 +57,8 @@ port I may be able to raise the money to push work through—</p>
 
       <p>
 PS.
-George <span class="persName">Dennis Cunningham</span> has a man here who says he Knows how to put those graders together &amp; run them. he wants $2<u>00</u> per day &amp; board. if you want him write Dennis.</p>
+George <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/cunningham.d"/>Dennis Cunningham</span> has a man here who says he Knows how to put those graders together &amp; run them. he wants $2<u>00</u> per day &amp; board. if you want him write Dennis.</p>
 
       <span class="closer">
          <br/>Cody</span>
@@ -75,4 +75,3 @@ George <span class="persName">Dennis Cunningham</span> has a man here who says h
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00579.jpg"
@@ -21,7 +21,7 @@
       </div>
 
 
-      <span class="ab"> Number  23 ch<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab"> Number  23 ch<a href="#n01" class="internal_link">1</a>
       </span>
 
 
@@ -37,15 +37,16 @@
       <span class="ab"> Received at  Auditorium Hotel Annex.<br/> 517 P. 4/14  1896</span>
 
 
-      <span class="ab"> Dated  Ch Philadelphia Pa 14<a href="../doc/n02" class="internal_link">2</a>
+      <span class="ab"> Dated  Ch Philadelphia Pa 14<a href="#n02" class="internal_link">2</a>
       </span>
 
 
-      <span class="ab"> To  <span class="persName">Geo T Beck</span>
+      <span class="ab"> To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
       </span>
 
 
-      <p>Cannot understand either yours or Nagles <a href="../doc/n03" class="internal_link">3</a> telegram nagle had no agreement with me about starting store &amp; yesterday wired would load today fearful blunder some place we cannot buy wagons for Colony wish
+      <p>Cannot understand either yours or Nagles <a href="#n03" class="internal_link">3</a> telegram nagle had no agreement with me about starting store &amp; yesterday wired would load today fearful blunder some place we cannot buy wagons for Colony wish
  
 
 <span class="hr"> </span>
@@ -80,4 +81,3 @@ you would please write</p>
 
 
 </div>
-

@@ -14,24 +14,23 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East.</div>
 
       <span class="dateline">
 Zanesville, O.
-Jun. 29th<a href="../doc/n01" class="internal_link">1</a>
+Jun. 29th<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">The Elwells<a href="../doc/n02" class="internal_link">2</a>
+      <span class="salute">The Elwells<a href="#n02" class="internal_link">2</a>
          <br/>
 My Very Dear Friends</span>
 
 
 
-      <p>So glad to get your letters and know that you are well and prosperous. But still the Call of the Wild is in your hearts. How I long for the Mountains and sage brush. I cannot be truly happy away from there. <a rel="tooltip" class="sic" title="Maybe​ ">Maby</a>
-    ​ we may meet out in our glorious Mountains again. I am well.</p>
+      <p>So glad to get your letters and know that you are well and prosperous. But still the Call of the Wild is in your hearts. How I long for the Mountains and sage brush. I cannot be truly happy away from there. <a rel="tooltip" class="sic" title="Maybe​ &#xA;    ">Maby</a> we may meet out in our glorious Mountains again. I am well.</p>
 
       <span class="closer">
          <span class="salute">Love to all</span>
@@ -48,7 +47,7 @@ My Very Dear Friends</span>
          </a>
       </span>
 
-      <p>My grand son Cody<a href="../doc/n03" class="internal_link">3</a> is at Pahaska<a href="../doc/n04" class="internal_link">4</a>. and the other day killed a Bear— The help had sit up with him 3 nights</p>
+      <p>My grand son Cody<a href="#n03" class="internal_link">3</a> is at Pahaska<a href="#n04" class="internal_link">4</a>. and the other day killed a Bear— The help had sit up with him 3 nights</p>
 
    </div>
 
@@ -59,7 +58,8 @@ My Very Dear Friends</span>
 
    <div class="note">Note 1: Buffalo Bill's Wild West combined with Pawnee Bill's Great Far East performed in Zanesville, Ohio, on June 29, 1912.</div>
 
-   <div class="note">Note 2: <span class="persName">Robert Farrington Elwell</span> (1874-1962) and his wife, Mary Ellen (Taylor) Elwell.</div>
+   <div class="note">Note 2: <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/elwell.r"/>Robert Farrington Elwell</span> (1874-1962) and his wife, Mary Ellen (Taylor) Elwell.</div>
 
    <div class="note">Note 3: Most likely William Cody Boal (1896-1962), son of Arta Cody.</div>
 
@@ -67,4 +67,3 @@ My Very Dear Friends</span>
 
 
 </div>
-

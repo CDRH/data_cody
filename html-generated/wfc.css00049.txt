@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
 
@@ -28,8 +28,8 @@ Aug.17th 188_
       <span class="salute">My. Dear. Sam.</span>
 
 
-      <p>Yours recd. I met <span class="persName">Ingraham</span> yesterday. Do you know I begin to <a rel="tooltip" class="sic" title="believe​ ">beleive</a>
-    ​ like your self that he is a bad egg. or that he is a forked tongue. he told me. or at least wrote me he had placed your MSS. in B.&amp;. A. hands. Yesterday he Says B.&amp;.A. don't want them. But that he has them ready. whether he has or not I cant
+      <p>Yours recd. I met <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/ingraham.p"/>Ingraham</span> yesterday. Do you know I begin to <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> like your self that he is a bad egg. or that he is a forked tongue. he told me. or at least wrote me he had placed your MSS. in B.&amp;. A. hands. Yesterday he Says B.&amp;.A. don't want them. But that he has them ready. whether he has or not I cant
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -41,8 +41,7 @@ Aug.17th 188_
             </a>
          </span>
 
-say. I have so much to do. I can't take time to see B&amp; A for a few days. But when I do I will ask them. I have paid out so much money of late in buying cattle that I am pushed for ready funds at present. I do hope you will come out right side up yet. My <a rel="tooltip" class="sic" title="companies​ ">companys</a>
-    ​ is all made up for this season.</p>
+say. I have so much to do. I can't take time to see B&amp; A for a few days. But when I do I will ask them. I have paid out so much money of late in buying cattle that I am pushed for ready funds at present. I do hope you will come out right side up yet. My <a rel="tooltip" class="sic" title="companies​ &#xA;    ">companys</a> is all made up for this season.</p>
 
       <p>I will not have the time to come and see you this fall. until I play there in Dec. Give my love to Seal &amp; family.</p>
 
@@ -57,4 +56,3 @@ say. I have so much to do. I can't take time to see B&amp; A for a few days. But
 
 
 </div>
-

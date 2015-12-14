@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -20,13 +20,14 @@
 
 
 
-      <span class="dateline">May 8<u>th</u> 96<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">May 8<u>th</u> 96<a href="#n01" class="internal_link">1</a>
       </span>
 
 
-      <span class="salute">My Dear <span class="persName">George</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
 
-      <p>Your 2d letter from stenographer<a href="../doc/n02" class="internal_link">2</a> was the most satisfactory letter I ever recd from you. It gave me some idea of what you were doing. And what you proposed to do— I hope the next letter will tell me more of your plans— You know how anxious I am to get an estimate on proposed work— and how you propose to do it. What you are going to do about
+      <p>Your 2d letter from stenographer<a href="#n02" class="internal_link">2</a> was the most satisfactory letter I ever recd from you. It gave me some idea of what you were doing. And what you proposed to do— I hope the next letter will tell me more of your plans— You know how anxious I am to get an estimate on proposed work— and how you propose to do it. What you are going to do about
 
 
 <span class="hr"> </span>
@@ -41,11 +42,10 @@
 
 
 
-the Townsite<a href="../doc/n03" class="internal_link">3</a> &amp;c &amp;c I <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ hear one word from <span class="persName">Alger</span> by wire or other wise— or from any one else— what May pay day will be. you might have told me—</p>
+the Townsite<a href="#n03" class="internal_link">3</a> &amp;c &amp;c I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> hear one word from <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> by wire or other wise— or from any one else— what May pay day will be. you might have told me—</p>
 
-      <p>I want to guard our credit— But no one will tell me how much it is— Wish you would write a <a rel="tooltip" class="sic" title="news​ ">newis</a>
-    ​ letter </p>
+      <p>I want to guard our credit— But no one will tell me how much it is— Wish you would write a <a rel="tooltip" class="sic" title="news​ &#xA;    ">newis</a> letter </p>
 
       <span class="closer">
 Your friend
@@ -63,7 +63,7 @@ Cody
          </a>
       </span>
 
-      <p>PS. Much obliged for paying Henrys<a href="../doc/n04" class="internal_link">4</a> men off—</p>
+      <p>PS. Much obliged for paying Henrys<a href="#n04" class="internal_link">4</a> men off—</p>
 
 
       <span class="closer">
@@ -82,4 +82,3 @@ Cody
    <div class="note">Note 4: "Henrys" or "Henry" is not identified.</div>
 
 </div>
-

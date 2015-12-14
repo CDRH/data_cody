@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -30,7 +30,7 @@ Absolutely Fire Proof.</div>
       <span class="salute">My. Dear Hinkle.</span>
 
 
-      <p>I forgot to ask you. If you have heard when that six mile strip of land next the Timber Reserve is going to be surveyed<a href="../doc/n01" class="internal_link">1</a>— I hope it will be done early this spring before high water.</p>
+      <p>I forgot to ask you. If you have heard when that six mile strip of land next the Timber Reserve is going to be surveyed<a href="#n01" class="internal_link">1</a>— I hope it will be done early this spring before high water.</p>
 
       <span class="closer">
          <span class="salute">Yours truly</span>
@@ -39,7 +39,7 @@ Absolutely Fire Proof.</div>
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00123.002.jpg"
@@ -82,4 +82,3 @@ Wyo
    <div class="note">Note 1: The "Timber Reserve" Cody mentions here was the Yellowstone National Park Timber Land Reserve, established in 1891. The reserve was later divided into several national forests. Assuming that the land parcel William F. Cody describes in this letter was east of Yellowstone and near the town of Cody, Wyoming, it is now known as the Shoshone National Forest.</div>
 
 </div>
-

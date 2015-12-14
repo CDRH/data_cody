@@ -59,7 +59,7 @@ Lieutenant-General Philip H. Sheridan. Colonel W. F. Cody, (Buffalo Bill.) Gener
 
    <h6 class="fw">2 The Rough Rider.</h6>
 
-   <div class="masthead ">
+   <div class="masthead">
 
       <h3>The Rough Rider</h3>
       <h3>An Illustrated Periodical, Published by<br/>
@@ -74,7 +74,7 @@ From Whom Sample Copies May be Obtained.</span>
 
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
 
       <h3>Heroic History.</h3>
 
@@ -92,7 +92,7 @@ have a counterpart, is the only possible introduction and reproduction to Americ
 
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Origin of the name, "Rough Riders."</h3>
 
       <p>The designation "Rough Riders" was originated by Colonel Cody, and first used as a part of the title of "Buffalo Bill's Wild West and Congress of Rough Riders of the World," during that exhibition's season at the World's Fair, Chicago, in 1893. Its vigorous appropriateness was at once recognized by the public, as indicating the martial and daredevil character of both the equestrianism and the men identified with the entertainment, and recently so largely represented in the First United States Volunteer Cavalry, that the name was naturally transferred to and fitted it like a glove. These facts were so generally known that it is surprising Colonel Theodore Roosevelt was not acquainted with them. In the opening chapter of his "Story of The Rough Riders," contributed to <em class="hi">Scribner's Magazine</em>, he says:</p>
@@ -116,7 +116,7 @@ have a counterpart, is the only possible introduction and reproduction to Americ
 
    <h6 class="fw">The Rough Rider. 3</h6>
 
-   <div class="segment doublespace ">
+   <div class="segment">
 
       <h3>Buffalo Bill and the Bullfighters.</h3>
 
@@ -143,7 +143,7 @@ have a counterpart, is the only possible introduction and reproduction to Americ
       <p>"I did, and, by jiminy, it was a sight! The court was jammed with men as mad as so many mad bulls, and they were flying here, there and everywhere, threatening to tear me limb from limb. I dressed leisurely and put a Colt's revolver in my hip pocket—just to keep me company, you know—and then I went down stairs. I got the interpreter to ask them what they meant. Their spokesman demanded to know why I had put such an insult to them in the papers, and at that every matador of 'em brandished a morning paper. I told them that I had merely made that wager and was ready to stick to it. Then they asked how much I would wager. Now the people of Spain are distressingly poor, so I offered to bet 200,000 pesetas, for I knew they couldn't cover it. This crazed them and they tried to get at me. In the meantime my agent had gone for the American Consul and police officers to protect me and quell the riot, and I saw I had to talk for time. I began to drop, offering 175,000 pesetas, and I had got down to 50,000 and was losing wind when the Consul and officials arrived. The Consul saw that there was blood on the face of the moon, and he and the police advised me to withdraw my challenge. The bullfighters told them that I had attempted to ruin the national sport and had grossly insulted them; that they had to make the people believe that these bulls were very fierce and that no one in the world could capture and ride them but themselves, or else the sport would die an ignominious death, so I withdrew my wager. But I had to have police protection during the rest of my stay in Spain."</p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>The Rough Rider Recruits.</h3>
 
       <p>The opening chapter of "Colonel Theodore Roosevelt's Story of the Rough Rider," begun in the January number of Scribner's Magazine, deals specially with the personality of that already world-famous regiment, and shows that even before it won its spurs before Santiago it was, in the antipodal diversity and individual character of its make-up, the most extraordinary and unique organization in all the annals of war; representing, and without one single faltering exception, a superb unity of physical prowess, unqualified bravery and equestrian, athletic and sharpshooting skill.</p>
@@ -184,7 +184,7 @@ there could be no better material for soldiers than that afforded by these grim 
 
    <div class="note">The biggest spurs do not indicate the surest seat.</div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>A Military Masterpiece.</h3>
       <h3>The Battle of San Juan.</h3>
 
@@ -295,7 +295,7 @@ the sharp rattle of the reveille arouses the camp to preparation for the onward 
    </span>
    <h6 class="fw">6 The Rough Rider.</h6>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Artillery in Action.</h3>
 
       <p>One of the most impressive and enthusing features in Buffalo Bill's Wild West programme of historic revivals, master horsemanship, battle scenes and pastimes of the plains is the introduction of a light battery of artillery detached veterans (Captain Thorpe's), Fifth United States regulars. This detachment is made up of genuine soldiers, not performers. They drill with marvelous skill and precision. They have two six-pounders, each drawn by six horses, and to see them whirl round in full career, unlimber the guns and come into the battery is a sight well worth going a long way to witness. The firing is like clockwork; both pieces are discharged so exactly at the same moment that only 
@@ -317,7 +317,7 @@ one report is distinguishable. Quickness and precision in drill, however, are to
 been purchased from the Government by Mr. Nate Salsbury. The public are not familiar with the maneuvering of these arbiters of the fate of nations, as it is confined to army posts or occasional encampments, hence its illustration is a novel and spirited attraction.</p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>A High Tribute.</h3>
 
       <p>At the last National Convention of Military Surgeons, one of the prominent members, on hearing Colonel Cody's name mentioned, remarked:</p>
@@ -325,13 +325,13 @@ been purchased from the Government by Mr. Nate Salsbury. The public are not fami
       <p>"It is singular how popular, to use the word in its very best sense, Buffalo Bill is among the nations, regardless of creed, color or conditions. I returned to this country a few weeks ago after touring the world for two years, and everywhere I heard the name of Buffalo Bill. In the highways of civilization and in out-of-the-way corners it was just the same, and if I had not known something of the history of my countryman I should have thought that this same Buffalo Bill was a demigod, a new but peaceful Napoleon come to satisfy the longing souls of the hero-worshippers of these progressive days. At the great Jubilee celebration in London and among all men who were prominent in the minds and whose names were in the mouths of the people, none had more frequent mention or attracted more genuine attention than Colonel Cody. It was the same at the Paris Exposition in 1889; the travelers of the world and very many of its greatest celebrities were there, Indian princes, Arabian sheiks, Egyptian pashas, African potentates, Tartar chiefs, Shah of Persia and hundreds of other notables, but not one of them reached the pinnacle of popular glory upon which Buffalo Bill was placed by common acclaim. This was repeated at the World's Fair, where he was an attraction not eclipsed by the glories of the great Dream City, and the representatives of the various quaint and savage nations assembled there took with them to their far-off homes no more interesting mementos than those which served as souvenirs of the famous American scout, whose fame they will extend to the uttermost ends of the earth. If any man has achieved fame, and a fame, too, in which there is no meretricious vein, in its most worthy form, it is Colonel Cody. And what has been the mainspring of his success? His skill, his manly bearing, his uniform courtesy, his warm-hearted and prompt generosity, his cool bravery and his promptness all have conduced to that success, but it is the ceaseless and well-directed energy which has been the crowning quality of his mental and physical make-up. In a word he has shown the world what well-directed energy can do."</p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>From the Kaiser's Bodyguard.</h3>
 
       <p>The martial efficiency and perfect discipline of Emperor William's tremendous army is brilliantly illustrated in the powerful personality, imperial equipment, masterly drill and soldierly riding of the contingent of regular cavalry in Buffalo Bill's Wild West, representing the formidable Empire consolidated by Bismarck's gigantic intellect and iron hand. The regiment from which these stalwart troopers have been furloughed has the distinction of serving as the Emperor's bodyguard. They form a splendid feature in the Wild West daily morning parade, in the grand opening Review of Nations, with which each performance is inaugurated, and in the rival illustrations of martial equestrianism.</p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Buffalo Bill's Cowboy Band.</h3>
 
       <p>Everything associated with the performances and parades of "Buffalo Bill's Wild West" is altogether unique, original, spirited and attractive, and this applies as well to what may be appropriately termed its "Bronco Cowboy Band," as the thirty-six skilled frontier equestrian musicians composing that martially melodious organization appear in parade and in the great arena on horseback, discoursing stirring and popular tunes in the saddle—a very different thing from playing on <em class="hi">terra firma</em>, or in a stable seat. Not only is the preliminary  concert which, under the accomplished leadership of Mr. William Sweeney, formerly of the 5th Infantry, United States Regulars, they give before each performance, a source of exhilaration and pleasure, but the music with which every event and display is accompanied is of a most effective and appropriate character. These real frontier virtuosos created a most favorable impression among the musical connoisseurs and leaders and members of the finest bands in Europe; Lieutenant Dan Godfrey, the leader of the famous Grenadier Guards Band, having presented Mr. Sweeney, after a six months' engagement in the gardens connected with the Wild West in London, with a solid gold cornet.</p>
@@ -349,14 +349,14 @@ been purchased from the Government by Mr. Nate Salsbury. The public are not fami
    </span>
    <h6 class="fw">The Rough Rider.</h6>
 
-   <div class="segment doublespace ">
+   <div class="segment">
 
       <h3>Buffalo Bill's Bounding Bedouins.</h3>
 
       <p>In  perfecting his great and inimitable Wild West exhibition Colonel Cody has lassoed and brought into camp such an unbranded lot of genuine Riffian—but not ruffian—Arabs as never before rode, twisted, twirled and tumbled for the edification of infidel eyes. The troupe is named after and commanded by Sheik Hadj Tahar, and comprises a lot of the faithful sons of Allah, whose horsemanship and weird and wondrous athletic feats Mahomet himself would view with much pious satisfaction and pride. Their inimitable Ishmaelitish repertory includes the manipulation of their long guns until each one seems a flashing circle of spinning sunbeams; sprawling and side somersaults, long leaps and high dives over bayonets and swords, head to head equilibristic balancing, such as it would seem that only necks of iron and winged buoyancy could master; whirling handspring flights the entire length of the arena, which it would take a smart pair of civilized legs to keep up with; tumbling and tossing beyond all circus ring limitations, and living pyramids, built up with catlike agility, where one Sahara Samson carries nine of his fellows. During the entire time required for the presentation of these and other feats the esteemed and reverend Dervish of the tribe makes of himself a human top and keeps spinning around with a velocity and persistency suggesting perpetual motion incarnate. What renders these performances all the more remarkable is that they are given in the open air and upon the rough ground, instead of on carpet in a carefully leveled ring.</p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>The Supreme Test of Its Genuineness.</h3>
 
       <p>Last season Buffalo Bill for the first time took his exhibition to some of the smaller towns in Nebraska, Colorado, Kansas and to Cheyenne, Wyoming, which latter place, by the way, much to his surprise, proved one of the banner stands of the whole season, big as the receipts in so many cities were. There was more of sentiment than business in the trip, large audiences being a seemingly impossible thing to corral in so sparsely populated a section, but Colonel Cody wanted a last chance to get around over those old trails, where he had hunted the buffalo, whacked bulls, drove stagecoach and rode pony express before the days of the railroads. Besides, he was always getting letters from old-timers, asking him why he never visited them with his Wild West.</p>
@@ -366,7 +366,7 @@ been purchased from the Government by Mr. Nate Salsbury. The public are not fami
       <p>"Did they?" replied Colonel Cody. "They gave me the grandest ovation I ever received. I didn't expect to make a cent of money on the trip, but I did make it hand over fist. People drove 300 miles to see me and my exhibition. They came so far that their cows went dry before they got back home. Yes, that's a fact. I got letters from them telling me their cows went dry."</p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>What Is Meant by "Rough Riders."</h3>
 
       <p>"You know," said Colonel Cody in a recent interview, "I originated the name of 'Rough Riders.' I have been calling my men Rough Riders for ten years. Why should I call them Rough Riders? Next year I am going to call them smooth riders, for they're the smoothest riders on earth."</p>
@@ -385,7 +385,7 @@ an unsurpassable exemplar of the peculiar style of equitation of the country fro
       <p>Used as a transitive verb, the term "Rough" is appropriately applicable to the troopers appearing by special permission from various governments in Buffalo Bill's Wild West, as it is defined, "to break in, as a horse, especially for military purposes."</p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Mule Batteries.</h3>
 
       <p>Among the advanced warlike novelties for the first time introduced to peaceful public attention by Colonel Cody in the great Wild West arena is a mountain battery, similar to those with which Uncle Sam has provided our armies in Cuba, Porto Rico and the Philippines. These guns, as their name indicates, are intended for use in rough, hilly country, which may be impassable for the heavier fieldpieces.</p>
@@ -396,13 +396,13 @@ an unsurpassable exemplar of the peculiar style of equitation of the country fro
       <div class="note">The Mexican Vaqueros are the dandies in Buffalo Bill's Congress of Rough Riders of the World, but must not be underestimated on account of their semi-barbarous penchant for gorgeous raiment, for they rank well up with the cowboys as lariat-throwers and horsemen. Indeed, they do things with the lariat—fancy maneuvers, showing their control of it—which none others in the outfit attempt. </div>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Cossacks of the Volga,</h3>
 
       <p>The contingent of Russian Cossack Rough Riders with Buffalo Bill's Wild West are natives of the vast steppes stretching from the base of the Ural Mountains and are known as Cossacks of the Volga, who form a most important and effective part of the Light Cavalry of the Czar. They are totally different in drill, equipment and style of riding from the Cossacks of the Don, and the sword—which they wield with marvelous expertness—is their principal weapon, while the latter are armed with lances. They belong to the same branch of the great Cossack family, the Zaporogians, into whose wild domain, Mazeppa—subsequently the most famous of their Hetmen, or chiefs—was carried, inhumanly bound, upon the back of that Tartar steed of Ukraine breed, who "looked as though the speed of thought were in his limbs." </p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Col. Cockerill on Col. Cody.</h3>
 
       <p>In one of his graphic letters from the far West to the New York <em class="hi">Herald</em>, Col. John A. Cockerill said:</p>
@@ -421,12 +421,12 @@ an unsurpassable exemplar of the peculiar style of equitation of the country fro
    </span>
    <h6 class="fw">8 The Rough Rider.</h6>
 
-   <div class="segment doublespace ">
+   <div class="segment">
 
       <h3>"Cody Day"</h3>
       <h3>At the Great Trans-Mississippi Exposition.</h3>
 
-      <div class=" ">
+      <div class="">
          <p>On the 31st day of last August, at Omaha, Neb., an assemblage of twenty-five thousand people or more, and which included the most prominent officials and leaders of all political parties, and 
 
 <div class="inline_figure">
@@ -453,7 +453,7 @@ West and Congress of Rough Riders of the World" at the point occupied by the Wes
          </p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>A Career Watched with Personal Interest.</h4>
 
          <p>In the course of an eloquent tribute, the Governor said: 
@@ -509,7 +509,7 @@ him a man's wages because he can ride a pony just as well as a man can. He was l
          </p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>Senator Thurston's Eloquent Tribute.</h4>
 
          <p>The closing address of welcome was made by Senator Thurston, who said:
@@ -522,7 +522,7 @@ him a man's wages because he can ride a pony just as well as a man can. He was l
          </p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>Colonel Cody's Response.</h4>
 
          <p>Another hurricane burst of cheers greeted Colonel Cody as he advanced to the front of the platform to reply to these felicitations, and he was so deeply moved that at first his voice well-nigh failed him. As soon as he could regain composure, he said:
@@ -557,7 +557,7 @@ him a man's wages because he can ride a pony just as well as a man can. He was l
 Knee. At the Administration Arch the cavalcade was reviewed by the members of the executive committee of the Exposition.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>The Old-Time Lions at Luncheon.</h4>
 
          <p>The official and popular reception was notably supplemented by an informal luncheon, given to the old-timers by Colonel Cody, and never before had such a party of representative pioneers met around
@@ -573,13 +573,13 @@ the banquet table and exchanged reminiscences of the stirring days of their youn
       </div>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>Unsophisticated Czikos.</h3>
 
       <p>Exceptional interest attaches to the Hungarian Czikos with Buffalo Bill's Wild West. They are descendants of the Huns, hereditary to the cattle herders from the plains of Hungary, who, in consequence of the marvelous service of their ancestors as flying cavalrymen, have, by royal edict, enjoyed the rights and exemptions of the minor nobility ever since 1605. Very picturesque fellows they are, daring riders, gallant fighters and wild as hawks. Until they started to come here, they had never seen railway cars, and the new world is as full of themes for amazement to them as it is to the most savage of the red men.</p>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>Buffalo Bill's Shooting.</h3>
 
       <p>The exhibition of equestrian sharpshooting in Buffalo Bill's Wild West is given by Colonel Cody himself, and with a skill that evokes enthusiastic applause. He uses a Winchester, and on horseback and at full gallop breaks glass balls, successively and rapidly thrown in midair, with a precision that is marvelous. His steady hand and quick eye were not acquired by long and patient practice on shooting-ranges, but in the grand hunting and battlefields of the untrodden West, with giant mountains and boundless plains as an audience, and painted red devils, buffaloes, antelopes, wolves and mountain lions as targets. It is one thing to display what is termed "nerve" and self-control at a "trap," but quite another to do so when a miss may involve death to the hunter.</p>
@@ -601,7 +601,7 @@ the banquet table and exchanged reminiscences of the stirring days of their youn
    </span>
    <h6 class="fw">The Rough Rider. 11</h6>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Historic War Horses.</h3>
 
       <p>The hundreds of horses from different countries and of different strain employed by Buffalo Bill's Wild West in transportation, parade, and exhibition, collectively, form a living attraction, full of nobility, beauty, intelligence, fire and fleetness, while in the great gathering are individual steeds full worthy of more than passing inspection and mention. Among these are included "Knickerbocker" and "Lancer," which Colonel Cody sent with the army to Porto Rico, for his own use in the event of his being called to the front by General Miles, and which were the only horses accompanying the invading forces that were returned to American soil, as the following note from General Miles to Colonel Cody shows:
@@ -639,7 +639,7 @@ thirty-seven of them, whom he rode to a finish and nearly out of their saddles d
       <p>Returning with these martial steeds came a splendid little Porto Rico-born "Palmero Stallion," purchased for the special use of General Miles's twelve-year-old son, who accompanied the expedition with his father. That he is a chip of the old block may be inferred from the statement of one of the officers of Troop A, who says: "We made the return in less than five hours, sticking at the trot which General Miles rode to perfection. His twelve-year-old son, a bright-looking little chap, accompanied him on one of the little Porto Rico ponies. The boy was game, for he stuck right at the heels of the iron-gray, handicapped as he was by his mount's short, pounding strides."</p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Mack's Bugle Call at Valparaiso.</h3>
 
       <p>Sergeant Mack, who is in command of the field battery of artillery with Buffalo Bill's Wild West, is a soldier and sailor of many years' experience. He served as bugler on the San Francisco when Sampson [was] its captain, and was on the Baltimore when that vessel was commanded by Winfield Scott Schley, one of the heroes of the naval battle off Santiago. The stirring incident at Valparaiso during the Chilian rebellion, when Schley showed the kind of stuff he is made of, is fresh in the memory of the Sergeant, and he tells it this way:</p>
@@ -680,46 +680,46 @@ thirty-seven of them, whom he rode to a finish and nearly out of their saddles d
    </span>
    <h6 class="fw">12 The Rough Rider.</h6>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>A Cody Enterprise.</h3>
 
-      <div class=" ">
+      <div class="">
          <p>To those best acquainted with Col. W. F. Cody and his governing ambition and noble purposes it has long been an open secret that for years it has been the one dominant purpose of his life to become, in the truest and most useful and praiseworthy sense of the term, a great public benefactor, by devoting his means and energy to the agricultural and commercial development of that far Great West, in whose reclamation from savage hands he played so brave and conspicuous a part. That was the ulterior object in view when "Buffalo Bill's Wild West and Congress of Rough Riders of the World" was first organized, and the profits resulting from that extraordinarily successful and popular exhibition have been largely dedicated to its accomplishment. Cody Day at the Omaha Exposition—an account of which is elsewhere given, and which was the grandest compliment ever paid a private citizen by a State and the public—was largely suggested by the desire to notably and worthily honor Colonel Cody, as a maker as well as a conqueror of empire. His efforts to provide cheap and fruitful homes for toiling millions cover a broad area of effort and include many costly enterprises. Some facts regarding the last and grandest of them all will be found both interesting and profitable. To reclaim a vast territory, establish a city, and lead whole communities to prosperity, means a fixed purpose for which Colonel Cody has long been noted, and in whose honor the city of Cody, Wyoming, was created.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>Shoshone Irrigation Company.</h4>
 
          <p>In March 1895, the Shoshone Irrigation Company was organized with the following officers and directors:</p>
 
-
-         <h5>Officers.</h5>
-         <p>W. F. Cody, President, Cody, Wyoming; Bronson Rumsey, Vice-President, Buffalo, N. Y.; H. C. Alger, Treasurer, Sheridan, Wyoming; George T. Beck, Secretary and Manager, Cody, Wyoming.</p>
-
-
-
-         <h5>Directors.</h5>
-         <p>W. F. Cody, Cody, Wyoming; Nate Salsbury, New York City; Bronson Rumsey, Buffalo, N. Y.; George Bleistein, Buffalo, N. Y.; George T. Beck, Cody, Wyoming; H. C. Alger, Sheridan, Wyoming.</p>
-
-         <p>Entered into contracts with the State of Wyoming <span class="unclear missing">[?]</span> the reclamation of Arid Lands. Have at present about twenty thousand acres under irrigation and ready for selection and settlement, at the prices fixed by the State of Wyoming, viz.: fifty cents per acre for the land, one-half payable upon application for the land, the other half payable at time of making final proof. Perpetual water right $10.00 per acre, if settled upon the first year the water can be put upon the lands. If not until the second year, $11.00; third year, $12.00; fourth year, $13.00; fifth year, $14.00. In other words, the State does not make it compulsory, but permits the Canal Company to charge one dollar per acre per annum additional to the $10.00 per acre up to five years. Making the maximum for perpetual water right that can be charged on land that has been subject to irrigation and not filed upon by a settler until after five years' completion of the Canal, $15.00 per acre.</p>
-
-         <div class="inline_figure">
-            <div class="p">[illustration]</div>
-            <p>Winter scene—come, go shooting!</p>
+         <div class="">
+            <h5>Officers.</h5>
+            <p>W. F. Cody, President, Cody, Wyoming; Bronson Rumsey, Vice-President, Buffalo, N. Y.; H. C. Alger, Treasurer, Sheridan, Wyoming; George T. Beck, Secretary and Manager, Cody, Wyoming.</p>
          </div>
 
-         <p>One share or water right is for 40 acres. One head of a family, person or settler can take one, two, three or four shares, representing respectively 40, 80, 120 or 160 acres.</p>
+         <div class="">
+            <h5>Directors.</h5>
+            <p>W. F. Cody, Cody, Wyoming; Nate Salsbury, New York City; Bronson Rumsey, Buffalo, N. Y.; George Bleistein, Buffalo, N. Y.; George T. Beck, Cody, Wyoming; H. C. Alger, Sheridan, Wyoming.</p>
 
-         <p>The terms of payment for water rights are fixed by the Shoshone Irrigation Company, and are as follows: Cash or one-fifth cash, the balance of principal in one, two, three or four years equal semiannual payments, six per cent. interest on deferred payments, payable semiannually</p>
+            <p>Entered into contracts with the State of Wyoming <span class="unclear missing">[?]</span> the reclamation of Arid Lands. Have at present about twenty thousand acres under irrigation and ready for selection and settlement, at the prices fixed by the State of Wyoming, viz.: fifty cents per acre for the land, one-half payable upon application for the land, the other half payable at time of making final proof. Perpetual water right $10.00 per acre, if settled upon the first year the water can be put upon the lands. If not until the second year, $11.00; third year, $12.00; fourth year, $13.00; fifth year, $14.00. In other words, the State does not make it compulsory, but permits the Canal Company to charge one dollar per acre per annum additional to the $10.00 per acre up to five years. Making the maximum for perpetual water right that can be charged on land that has been subject to irrigation and not filed upon by a settler until after five years' completion of the Canal, $15.00 per acre.</p>
 
-         <span class="closer">
-            <br/>George T. Beck, Land Commissioner,
+            <div class="inline_figure">
+               <div class="p">[illustration]</div>
+               <p>Winter scene—come, go shooting!</p>
+            </div>
+
+            <p>One share or water right is for 40 acres. One head of a family, person or settler can take one, two, three or four shares, representing respectively 40, 80, 120 or 160 acres.</p>
+
+            <p>The terms of payment for water rights are fixed by the Shoshone Irrigation Company, and are as follows: Cash or one-fifth cash, the balance of principal in one, two, three or four years equal semiannual payments, six per cent. interest on deferred payments, payable semiannually</p>
+
+            <span class="closer">
+               <br/>George T. Beck, Land Commissioner,
 <span class="dateline">Cody, Big Horn County, Wyoming.</span>
-         </span>
-
+            </span>
+         </div>
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h4>Letter from State Engineer.</h4>
 
@@ -744,14 +744,14 @@ Shoshone Irrigation Co., Cody, Wyoming.
 </span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>Cattle grazing in the foot hills, near Cody, Wyoming.</p>
          </div>
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <h4>Soil.</h4>
 
@@ -770,15 +770,15 @@ Shoshone Irrigation Co., Cody, Wyoming.
 vegetable elements, and therefore favorable to the growth of cereals, vegetables, fruits and everything else, which it is desirable to include in a scheme of diversified farming. The Big Horn Basin has a climate of its own with an altitude of 4,500 feet above the sea level. The soil is rich, deep and kindly—the water supply unfailing. All the vegetables, cereals, grasses, small fruits, with all the meat products and those of the dairy, can be successfully grown.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>What Residents Say.</h4>
 
+         <div class="">
+            <h5>Products—Grain.</h5>
 
-         <h5>Products—Grain.</h5>
 
-
-         <p>In the production of wheat, oats, barley and rye, Wyoming is a "prize winner," and nowhere in the State do they grow to greater perfection than in the Basin; oats yield as high as <em class="hi">one hundred and thirty bushels per acre</em>. The barley is of superior quality, equal to the famous Canadian barley. As there is no rain or dew the barley produced is in quantity, color and weight the very best.</p>
-
+            <p>In the production of wheat, oats, barley and rye, Wyoming is a "prize winner," and nowhere in the State do they grow to greater perfection than in the Basin; oats yield as high as <em class="hi">one hundred and thirty bushels per acre</em>. The barley is of superior quality, equal to the famous Canadian barley. As there is no rain or dew the barley produced is in quantity, color and weight the very best.</p>
+         </div>
 
          <span class="hr"> </span>
          <span class="pageimage">
@@ -791,49 +791,49 @@ vegetable elements, and therefore favorable to the growth of cereals, vegetables
          </span>
          <h6 class="fw">The Rough Rider. 13</h6>
 
+         <div class="">
+            <h5>Yield.</h5>
 
-         <h5>Yield.</h5>
+            <p>The yield of these crops (wheat, oats, barley and rye) is enormous. Wheat has been known to exceed fifty bushels, and an average of thirty-eight bushels to the acre would be a conservative estimate.</p>
 
-         <p>The yield of these crops (wheat, oats, barley and rye) is enormous. Wheat has been known to exceed fifty bushels, and an average of thirty-eight bushels to the acre would be a conservative estimate.</p>
+            <p>
+               <em class="hi">Oats</em> will average sixty bushels to the acre. On ranches in the vicinity of the Company's land a yield of from eighty to one hundred bushels to the acre is not uncommon, weighing from forty-two to forty-five pounds per bushel.</p>
 
-         <p>
-            <em class="hi">Oats</em> will average sixty bushels to the acre. On ranches in the vicinity of the Company's land a yield of from eighty to one hundred bushels to the acre is not uncommon, weighing from forty-two to forty-five pounds per bushel.</p>
+            <p>
+               <em class="hi">Forage and Hay.</em> Alfalfa is the principal forage crop, soil and climate both being well suited; two crops—sometimes three—being cut each season. The average yield for each cutting is about two tons per acre, leaving in addition an aftermath for fall and winter pasturage, which of itself is quite a valuable item.</p>
 
-         <p>
-            <em class="hi">Forage and Hay.</em> Alfalfa is the principal forage crop, soil and climate both being well suited; two crops—sometimes three—being cut each season. The average yield for each cutting is about two tons per acre, leaving in addition an aftermath for fall and winter pasturage, which of itself is quite a valuable item.</p>
+            <p>
+               <em class="hi">Timothy</em> is the next hay crop of importance; thrives to perfection in this soil and climate, yielding from one and one-half to two and one-half tons per acre. The curing of hay is never attended with any of the difficulties which prevail in rainy districts, as the weather is always clear and dry.</p>
 
-         <p>
-            <em class="hi">Timothy</em> is the next hay crop of importance; thrives to perfection in this soil and climate, yielding from one and one-half to two and one-half tons per acre. The curing of hay is never attended with any of the difficulties which prevail in rainy districts, as the weather is always clear and dry.</p>
+            <p>
+               <em class="hi">Corn,</em> either as a forage plant or for grain, has not been grown to any great extent in the Basin, but enough has been done to prove that it can be safely depended on for a paying crop.</p>
 
-         <p>
-            <em class="hi">Corn,</em> either as a forage plant or for grain, has not been grown to any great extent in the Basin, but enough has been done to prove that it can be safely depended on for a paying crop.</p>
+            <p>
+               <em class="hi">Vegetables.</em> Potatoes, turnips, beets, onions, peas, cabbages, and all the other hardy vegetables obtain a growth and yield unsurpassed in any portion of the country. Potatoes will yield on an average five hundred bushels to the acre under proper cultivation, and the yield of the others is in proportion. Beets of all varieties yield enormously.</p>
 
-         <p>
-            <em class="hi">Vegetables.</em> Potatoes, turnips, beets, onions, peas, cabbages, and all the other hardy vegetables obtain a growth and yield unsurpassed in any portion of the country. Potatoes will yield on an average five hundred bushels to the acre under proper cultivation, and the yield of the others is in proportion. Beets of all varieties yield enormously.</p>
+            <p>
+               <em class="hi">Cucumbers</em> and early varieties of beans and half-hardy vegetables can be depended on as sure crops. Pumpkins of enormous size are grown, and a sure crop.</p>
 
-         <p>
-            <em class="hi">Cucumbers</em> and early varieties of beans and half-hardy vegetables can be depended on as sure crops. Pumpkins of enormous size are grown, and a sure crop.</p>
+            <p>
+               <em class="hi">Cabbage.</em> This is the home of the cabbage; heads weighing all the way from <em class="hi">ten to forty pounds.</em> There are no insect pests in this portion of the country. Vegetables and farm crops are safe on this score, and hailstorms within the memory of the oldest settlers have never been knowm to injure any crop yet. </p>
 
-         <p>
-            <em class="hi">Cabbage.</em> This is the home of the cabbage; heads weighing all the way from <em class="hi">ten to forty pounds.</em> There are no insect pests in this portion of the country. Vegetables and farm crops are safe on this score, and hailstorms within the memory of the oldest settlers have never been knowm to injure any crop yet. </p>
+            <p>
+               <em class="hi">The Small Fruits.</em> Currant, gooseberry, strawberry, raspberry, are as sure crop as are oats and wheat. Apples have proven successful where tried.</p>
 
-         <p>
-            <em class="hi">The Small Fruits.</em> Currant, gooseberry, strawberry, raspberry, are as sure crop as are oats and wheat. Apples have proven successful where tried.</p>
+            <p>
+               <em class="hi">Celery and Asparagus</em> of superior quality and flavor. It is a common remark, by all who visit this section of Wyoming, that they never tasted finer flavored vegetables; they certainly never saw a finer quality nor a larger yield grown in any country.</p>
 
-         <p>
-            <em class="hi">Celery and Asparagus</em> of superior quality and flavor. It is a common remark, by all who visit this section of Wyoming, that they never tasted finer flavored vegetables; they certainly never saw a finer quality nor a larger yield grown in any country.</p>
+            <p>
+               <em class="hi">Fruits.</em> It takes much time and experience to determine what fruits may be grown in a new country. But the experiments made show that all kinds of small fruits, such as raspberries, strawberries, currants and gooseberries, and large fruits of a hardy variety, such as apples, pears, plums, cherries, etc., can be successfully cultivated.</p>
 
-         <p>
-            <em class="hi">Fruits.</em> It takes much time and experience to determine what fruits may be grown in a new country. But the experiments made show that all kinds of small fruits, such as raspberries, strawberries, currants and gooseberries, and large fruits of a hardy variety, such as apples, pears, plums, cherries, etc., can be successfully cultivated.</p>
-
-         <div class="inline_figure">
-            <div class="p">[illustration]</div>
-            <p>Irma Valley, near Cody, looking north.</p>
+            <div class="inline_figure">
+               <div class="p">[illustration]</div>
+               <p>Irma Valley, near Cody, looking north.</p>
+            </div>
          </div>
-
       </div>
 
-      <div class=" ">
+      <div class="">
          <h4>Climate.</h4>
 
          <p>It is hardly possible to describe the charms and health-giving qualities of the climate of this region without indulging in what would seem to be extravagance. The air is dry and 
@@ -856,7 +856,7 @@ radiance, stimulating and healthful. Fogs and gloomy spells of weather are unkno
       </div>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Curious Cossacks.</h3>
 
       <p>The Cossacks, from the steppes of Russia, are a notable feature in Colonel Cody's Congress of Rough Riders of the World. Their wild, dashing style of riding presents a spirited and almost fierce freedom and capacity for independent personal demonstration unknown to any other race of equestrians. They wear handsome but somber uniforms, ride the lithe, small horses of the steppes, and are mounted on small troop saddles, very high front and rear, which are built up with pads fully four inches thick, so that they seem to perch far above their horses. Their stirrups are very small, only big enough to get the points of the toes into, and drawn short. A man must be a good rider who can occupy that aerial roost and steady himself by those toy stirrups. Their feats set one to guessing what they do them for. Do they twine themselves all over their horses because it is hard to do, or has it all some warlike purpose? The most of it looks as if it were just the dare-devil nature of the men, but such perfection of the management of a horse, and of one's self in the saddle must be useful to a fighting man, too.</p>
@@ -864,13 +864,13 @@ radiance, stimulating and healthful. Fogs and gloomy spells of weather are unkno
       <p>The ability to ride backwards on the horse as well as forwards must make the delivery of Parthian shots especially easy and effective, and must sometimes give the opportunity to turn defeat into victory. To ride hanging down on the horse's side, like a dead body hung in the saddle, is, of course, a protection from the shots of the enemy and compels the horse to take the most of the danger. But it looks as if a fall from a horse which was shot when going at that furious rate would be about as bad for a man as to be shot himself.</p>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>A Wonderful Western Marksman.</h3>
 
       <p>Both as a field and trap shot, Johnny Baker of Buffalo Bill's Wild West, stands in the very front rank of the world's most famous experts. He has been a frequent prize winner at some of the greatest shooting tournaments in both America and Europe, and his entirely original illustrations of gymnastic shooting are phenomenally unique and difficult. It is no exaggeration whatever to say—and he proves it daily—that he can shoot more accurately while standing on his head than many crack shots can do standing on their feet.</p>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>Sherman's Thanks To Cody.</h3>
 
       <p>When General Sherman first saw "Buffalo Bill's Wild West," as compared with its present scope and size, it was but an incomplete production, and yet even then the grim old warrior, turning to his trusted scout with tears in his eyes, said: "<em class="hi">Billy, for my children and grandchildren, who can never see these things as we saw them, I thank you</em>."</p>
@@ -898,7 +898,7 @@ radiance, stimulating and healthful. Fogs and gloomy spells of weather are unkno
    </span>
    <h6 class="fw">14 The Rough Rider.</h6>
 
-   <div class="segment doublespace ">
+   <div class="segment">
 
       <h3>Famous Annie Oakley.</h3>
 
@@ -913,13 +913,13 @@ was so impressed with her skill that he adopted her into the Sioux Nation under 
    </div>
 
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Old Glory's Bareback Heroes.</h3>
 
       <p>It is one thing to pose and poise upon a methodically cantering horse, dominated in a small circle by a ringmaster's whip, but quite another to stand in boots or shoes, upon the slippery back of a bronco, tearing straight away, as if escaping from a prairie fire. With the former style of equitation everybody is familiar. The latter kind will be one of the striking and stirring originalities to be seen in Buffalo Bill's Wild West, as presented by a detachment from the Sixth United States Cavalry. These regular army dare-devils have learned many wrinkles from the Cossack, Arab, Indian and Cowboy horsemen, and in some respects improved upon the same in a manner to put the circus ring in total eclipse. They have succeeded in combining all the natural excellencies for which the army was formerly famed with the agility of the wilder schools, and also brought the swift and agile bronco into service. Don't for a moment imagine that they amble steadily around in a ring, upon horses carefully trained to emulate a rocking-chair's movements, with well-rosined slippers to stick their feet to an equally well-rosined quarterdeck back. Nothing of the sort. Dressed from head to foot for service, they ride at full speed straight away over the rough ground, dismount from their naked steeds, run alongside of them, remount on the jump, ride single and double standing, now facing the horses' heads, now their tails; now balancing on one horse, then on two and three, or riding in couples on three horses. It is an exhibition of equitation that would make a Centaur rear right up and applaud until he smashed his hoofs, and the old-time sawdust equestrians regard it with an admiring envy tinged with apprehension.</p>
    </div>
 
-   <div class="segment doublespace ">
+   <div class="segment">
       <h3>Wild West Pageant.</h3>
 
       <p>This cosmographic street cavalcade is the realism of racial individuality; a mounted march and organized babel of widely differing nationalities and tongues; a vivid [missing] and peculiar characters and singular and unfamiliar customs, such as would be utterly impossible without the co-operation and consent of foreign governments and home authorities, and one which no other management on earth has the material to duplicate or the official and individual influence to compass. It includes the Indian as Miles Standish, Penn, Washington, Boone, Carson and Custer saw and knew him, and riding with him the very men who played so large and brave a part in blazing, in blood, torture 
@@ -949,7 +949,7 @@ and deprivation, the pathway for civilization through the last and remotest of h
    </span>
    <h6 class="fw">The Rough Rider. 15</h6>
 
-   <div class="segment doublespace ">
+   <div class="segment">
 
       <h3>"Buffalo Bill" A Knight of the West</h3>
       <h3>To Col. W. F. Cody</h3>
@@ -1121,7 +1121,7 @@ and deprivation, the pathway for civilization through the last and remotest of h
 
    <h6 class="fw">16 The Rough Rider.</h6>
 
-   <div class=" doublespace ">
+   <div class="">
       <div class="inline_figure">
          <div class="p">[illustration]</div>
  
@@ -1190,4 +1190,3 @@ and deprivation, the pathway for civilization through the last and remotest of h
 
 
 </div>
-

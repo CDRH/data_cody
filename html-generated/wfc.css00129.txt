@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="type ">
+   <div class="type">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -28,10 +28,8 @@ May 22nd  1902
 
 
       <p>
-         <a rel="tooltip" class="abbr" title="Received​ ">Recd</a>​ your letter this morning. I think I can get you transportation—North Platte to Rawlins &amp; back to Denver. It would give you a good <a rel="tooltip" class="sic" title="insight​ ">insite</a>
-    ​ to how a hotel is run if you could spend two or three weeks with your Rawlings friends—And study it well. from the buying of provisions cooking them. <a rel="tooltip" class="sic" title="serving​ ">serveing</a>
-    ​ them— wages of cooks helpers. waiters &amp; c. I think I should build an outside house for Laundry. &amp; sleeping rooms for servants. What do you think? You will have to study how to run the bed rooms. how often sheets are changed—how many rooms one chambermaid takes care of &amp; c. I am going to buy the very best of furniture &amp; bedsteads &amp; <a rel="tooltip" class="sic" title="mattresses​ ">matrasses</a>
-    ​. have got fine oil paintings for office Parlors &amp; dining
+         <a rel="tooltip" class="abbr" title="Received​ &#xA;    ">Recd</a>​
+ your letter this morning. I think I can get you transportation—North Platte to Rawlins &amp; back to Denver. It would give you a good <a rel="tooltip" class="sic" title="insight​ &#xA;    ">insite</a> to how a hotel is run if you could spend two or three weeks with your Rawlings friends—And study it well. from the buying of provisions cooking them. <a rel="tooltip" class="sic" title="serving​ &#xA;    ">serveing</a> them— wages of cooks helpers. waiters &amp; c. I think I should build an outside house for Laundry. &amp; sleeping rooms for servants. What do you think? You will have to study how to run the bed rooms. how often sheets are changed—how many rooms one chambermaid takes care of &amp; c. I am going to buy the very best of furniture &amp; bedsteads &amp; <a rel="tooltip" class="sic" title="mattresses​ &#xA;    ">matrasses</a>. have got fine oil paintings for office Parlors &amp; dining
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -46,9 +44,7 @@ May 22nd  1902
 room. And over two hundred etchings from the paintings of artists like Fred Remington &amp; others all framed— I will have two Pianos one for Parlor. &amp; one for dining room. I tell 
 you I am going to have this hotel out of sight—I will make it the talk of the West—</p>
 
-      <p>I think I have found a manager and one without a wife—I dont want any wife to be bothering you. You are to be the mother of that hotel—<del>Let</del> I play Denver Aug. 6th &amp; 7th You could make your visit to Rawlings in July then Aug the 8th start for Cody— Your future home. I have got a mountain picked out big enough for us all to be <a rel="tooltip" class="sic" title="buried​ ">burried</a>
-    ​ on. Finley wrote me and wanted me to start him with a harness shop. I told him that he must first <a rel="tooltip" class="sic" title="prove​ ">proove</a>
-    ​ to
+      <p>I think I have found a manager and one without a wife—I dont want any wife to be bothering you. You are to be the mother of that hotel—<del>Let</del> I play Denver Aug. 6th &amp; 7th You could make your visit to Rawlings in July then Aug the 8th start for Cody— Your future home. I have got a mountain picked out big enough for us all to be <a rel="tooltip" class="sic" title="buried​ &#xA;    ">burried</a> on. Finley wrote me and wanted me to start him with a harness shop. I told him that he must first <a rel="tooltip" class="sic" title="prove​ &#xA;    ">proove</a> to
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -67,7 +63,7 @@ me that he was worthy of it. So far he had not made a hit with me. I was so in h
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -96,4 +92,3 @@ Neb.
 
 
 </div>
-

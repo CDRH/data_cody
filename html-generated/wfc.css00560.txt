@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00560.jpg"
@@ -22,7 +22,7 @@
       </div>
 
 
-      <span class="ab"> am 10 05<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab"> am 10 05<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="ab">Number  2 </span>
@@ -40,13 +40,15 @@
       <span class="ab">Dated  Plattsmouth Neb 2<del>2</del> 
       </span>
 
-      <span class="ab">To  <span class="persName">Geo <del>R</del>T Beck</span>. </span>
+      <span class="ab">To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo <del>R</del>T Beck</span>. </span>
 
 
       <span class="ab">Auditorium Annex Chgo</span>
 
 
-      <p>Telegram from Albany signed Cody Says <span class="persName">hymer</span> on way omaha. important meeting please join him &amp; go to Omaha wire you there. </p>
+      <p>Telegram from Albany signed Cody Says <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>hymer</span> on way omaha. important meeting please join him &amp; go to Omaha wire you there. </p>
 
 
       <span class="closer">
@@ -59,7 +61,7 @@
 
    <div class="note">Note 1: Telegram is handwritten by a clerk or William F. Cody assignee.</div>
 
-   <div class="note">Note 2: Cody was pitching the irrigation project and hoping to find financial backing among the wealthy businessmen of Omaha, including <span class="persName">William A. Paxton</span> and John A. Creighton (1831-1907), pioneer businessman, philanthropist, and founder of Creighton University.</div>
+   <div class="note">Note 2: Cody was pitching the irrigation project and hoping to find financial backing among the wealthy businessmen of Omaha, including <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w"/>William A. Paxton</span> and John A. Creighton (1831-1907), pioneer businessman, philanthropist, and founder of Creighton University.</div>
 
 </div>
-

@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Colorado Springs, Colo.
@@ -22,7 +22,7 @@
       <span class="dateline">
 August 27th, 1913
 </span>
-Hon. Franklin K. Lane<a href="../doc/n01" class="internal_link">1</a>,
+Hon. Franklin K. Lane<a href="#n01" class="internal_link">1</a>,
 Antlers Hotel, City.
 
   
@@ -31,13 +31,13 @@ Antlers Hotel, City.
 
 
 
-      <p>Mr. Bonfils<a href="../doc/n02" class="internal_link">2</a>of the Denver Post, and Col. Cody, have requested me to ask you to forward to them, care of The Post at Denver, your decision in reference to their request to reproduce in moving pictures the events of the Wounded Knee Mission at Pine Ridge Agency, supplimenting Col. Cody's interview with you, he desires me to say that the Reunion between the Indians and their old time enemies will be as amiable as the recent reunion at Gettysburg, in which opposing factions once engaged in bitterest hatred were brought to gether in a spirit of fine friendliness. The Indians will not have to step off their reservation; they will be well cared for in every way by Col. Cody and the friends who are backing him in this his last history making venture, and everything will be done to insure the future generation a most worthy document of a great event, which has few of its distinguished participants left to tell the story.</p>
+      <p>Mr. Bonfils<a href="#n02" class="internal_link">2</a>of the Denver Post, and Col. Cody, have requested me to ask you to forward to them, care of The Post at Denver, your decision in reference to their request to reproduce in moving pictures the events of the Wounded Knee Mission at Pine Ridge Agency, supplimenting Col. Cody's interview with you, he desires me to say that the Reunion between the Indians and their old time enemies will be as amiable as the recent reunion at Gettysburg, in which opposing factions once engaged in bitterest hatred were brought to gether in a spirit of fine friendliness. The Indians will not have to step off their reservation; they will be well cared for in every way by Col. Cody and the friends who are backing him in this his last history making venture, and everything will be done to insure the future generation a most worthy document of a great event, which has few of its distinguished participants left to tell the story.</p>
       
       <span class="closer">
          <span class="salute">Thanking you for your unfailing courtesy,
       <br/>
       Very respectfully yours,</span>
-         <br/>Francis Belford-Wayne <a href="../doc/n03" class="internal_link">3</a>
+         <br/>Francis Belford-Wayne <a href="#n03" class="internal_link">3</a>
          <span class="salute"> For Mr. Bonfils &amp; Col. Cody</span>
       </span>
    </div>
@@ -49,4 +49,3 @@ Antlers Hotel, City.
   <div class="note">Note 3: Francis Belford-Wayne appears to have been an agent or representative for Frederick Gilmer Bonfils.</div>
 
 </div>
-

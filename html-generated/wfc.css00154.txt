@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -33,9 +33,7 @@ Absolutely Fire Proof.</div>
       <span class="salute">My. Dear. Hinckle.</span>
 
 
-      <p>Its taken some days to organize company. And am still Waiting for illustrated Prospectus to be finished. in Mean time have sold quite a lot of stock wish you would tell our Govenor. that I will get there. And that I must still hold my water <a rel="tooltip" class="sic" title="rights​ ">writes</a>
-    ​ and Segregation<a href="../doc/n01" class="internal_link">1</a>. As I am <a rel="tooltip" class="sic" title="Making​ ">Makeing</a>
-    ​ that one of the Star features. wish
+      <p>Its taken some days to organize company. And am still Waiting for illustrated Prospectus to be finished. in Mean time have sold quite a lot of stock wish you would tell our Govenor. that I will get there. And that I must still hold my water <a rel="tooltip" class="sic" title="rights​ &#xA;    ">writes</a> and Segregation<a href="#n01" class="internal_link">1</a>. As I am <a rel="tooltip" class="sic" title="Making​ &#xA;    ">Makeing</a> that one of the Star features. wish
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -58,7 +56,7 @@ J. P. Caddagan, Manager.<br/>
 Absolutely Fire Proof.<br/>
 New York 190_</div>
 
-you would wire me to the above address Soon as you talk with the Govenor and Tynan and Johnson wire my expense I hope to see you all by Jan. 1st.<a href="../doc/n02" class="internal_link">2</a>
+you would wire me to the above address Soon as you talk with the Govenor and Tynan and Johnson wire my expense I hope to see you all by Jan. 1st.<a href="#n02" class="internal_link">2</a>
       </p>
 
 
@@ -84,4 +82,3 @@ you would wire me to the above address Soon as you talk with the Govenor and Tyn
    <div class="note">Note 2: Thomas T. Tynan (1860-1925), was Wyoming's superintendent of public instruction and a member of the Board of Land Commissioners from 1899 to 1907. Tynan later served as mayor of Sheridan, Wyoming, from 1914 to 1915. "Johnson" is probably a reference to Clarence T. Johnston (1872-1970), who served as Wyoming state engineer from 1903 to 1911.</div>
 
 </div>
-

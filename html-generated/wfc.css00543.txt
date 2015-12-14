@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00543.001.jpg"
@@ -19,18 +19,21 @@
 </div>
 
 
-      <span class="dateline">May 4th 1902<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">May 4th 1902<a href="#n01" class="internal_link">1</a>
       </span>
 
 
-      <span class="salute">My Dear <span class="persName">Beck</span>—</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—</span>
 
-      <p>Yours received Am glad you can keep the water coming. What have you done with <span class="persName">Alger</span> 
-         <span class="persName">Salsbury</span> says for you as Manager to demand a settlement. tell him to send in his bill for salary— &amp; you refer it to the company. if he <a rel="tooltip" class="sic" title="won't​ ">wont</a>
-    ​ do it make him do it by law.</p>
+      <p>Yours received Am glad you can keep the water coming. What have you done with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> 
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> says for you as Manager to demand a settlement. tell him to send in his bill for salary— &amp; you refer it to the company. if he <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> do it make him do it by law.</p>
 
       <p>
-         <span class="persName">Bleistein</span> will remit I guess at once. Wrote Martin<a href="../doc/n02" class="internal_link">2</a> to pay my water rights assessment. Mrs Wetmore<a href="../doc/n03" class="internal_link">3</a> will send her payment on land
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g"/>Bleistein</span> will remit I guess at once. Wrote Martin<a href="#n02" class="internal_link">2</a> to pay my water rights assessment. Mrs Wetmore<a href="#n03" class="internal_link">3</a> will send her payment on land
 
 
 <span class="hr"> </span>
@@ -48,13 +51,13 @@
 </div>
 
 
-soon. Kelsey<a href="../doc/n04" class="internal_link">4</a> writes me he has sent maps &amp; report of survey— I presume you have let <span class="persName">Wiley</span>
-         <a href="../doc/n05" class="internal_link">5</a> use them as agreed.</p>
+soon. Kelsey<a href="#n04" class="internal_link">4</a> writes me he has sent maps &amp; report of survey— I presume you have let <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/wiley.s"/>Wiley</span>
+         <a href="#n05" class="internal_link">5</a> use them as agreed.</p>
 
       <p>The Wild West closed big engagement here open Brooklyn tomorrow sent route—</p>
 
-      <p>The Gold Mine<a href="../doc/n06" class="internal_link">6</a> is a winner I guess beyond doubt its being kept quiet just now as we want some property Adjoining it and a water right from a stream near by. We are getting out ore and the vein <a rel="tooltip" class="sic" title="prove​ ">proove</a>
-    ​ a true fissure</p>
+      <p>The Gold Mine<a href="#n06" class="internal_link">6</a> is a winner I guess beyond doubt its being kept quiet just now as we want some property Adjoining it and a water right from a stream near by. We are getting out ore and the vein <a rel="tooltip" class="sic" title="prove​ &#xA;    ">proove</a> a true fissure</p>
 
 
       <span class="closer">
@@ -81,4 +84,3 @@ soon. Kelsey<a href="../doc/n04" class="internal_link">4</a> writes me he has se
 
    <div class="note">Note 6: "Gold Mine" may be a reference to Campo Bonito, a gold mine near Oracle, Arizona, leased by Cody-Dyer Mining and Milling Company.</div>
 </div>
-

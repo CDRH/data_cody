@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <span class="dateline">
@@ -24,14 +24,15 @@ June 20th/07</span>
 
 
 
-Major <span class="persName">John R. Brennan</span>
+Major <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/"/>John R. Brennan</span>
 Pine Ridge
 
 
 <span class="salute">Dear Major</span>
 
 
-      <p>Sam Lone Bear<a href="../doc/n01" class="internal_link">1</a> goes home to take his wife who is very sick. Lone Bear is a good riliable man— Any favor you can show him will be appreciated</p>
+      <p>Sam Lone Bear<a href="#n01" class="internal_link">1</a> goes home to take his wife who is very sick. Lone Bear is a good riliable man— Any favor you can show him will be appreciated</p>
 
       <span class="closer">
          <span class="salute">By yours truly</span>
@@ -48,4 +49,3 @@ Pine Ridge
 
 
 </div>
-

@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,7 +25,8 @@
       <span class="dateline">January 22nd, 1914.</span>
 
 
-      <span class="persName">Mr. Bronson Rumsey</span>, Trustee,
+      <span class="persName">
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>, Trustee,
 
 696 Ellicott Square,
 
@@ -54,7 +55,7 @@ CLB</div>
 
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.bsn00071.002.jpg"
@@ -87,4 +88,3 @@ Dec. 31. 1913</span>
 
 
 </div>
-

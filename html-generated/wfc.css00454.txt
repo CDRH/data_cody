@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -25,13 +25,16 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
       <span class="dateline">Richmond. Va<br/>
-Oct 4th<a href="../doc/n01" class="internal_link">1</a>
+Oct 4th<a href="#n01" class="internal_link">1</a>
       </span>
 
-      <span class="salute">Dear <span class="persName">Beck</span>—</span>
+      <span class="salute">Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—</span>
 
 
-      <p>I have not been able to write a letter to any one. Since I got near N. Y. then came Baltimore &amp; Washington<a href="../doc/n02" class="internal_link">2</a>. And to day we did not get here until 11 am— had to make parade &amp; just finished first show. I recd your letters— I have just wired <span class="persName">Hymer</span> &amp; <span class="persName">Alger</span> to send you word <u>quick</u> to make ditch 20 feet wide on bottom. I have written 25 letters at least saying no use to build a little ditch I came near falling dead. &amp; I some some tall cussing when I read your letter about a 15 foot ditch after all the letters I have 
+      <p>I have not been able to write a letter to any one. Since I got near N. Y. then came Baltimore &amp; Washington<a href="#n02" class="internal_link">2</a>. And to day we did not get here until 11 am— had to make parade &amp; just finished first show. I recd your letters— I have just wired <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> to send you word <u>quick</u> to make ditch 20 feet wide on bottom. I have written 25 letters at least saying no use to build a little ditch I came near falling dead. &amp; I some some tall cussing when I read your letter about a 15 foot ditch after all the letters I have 
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -51,17 +54,16 @@ Oct 4th<a href="../doc/n01" class="internal_link">1</a>
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-written to the contrary. if it <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ be 20 feet on the bottom call me out I will quit. hope you are looking out for lumber for headgate. How do you like Mr. <u>Foote</u>
-         <a href="../doc/n03" class="internal_link">3</a>? I seen Hoke Smith<a href="../doc/n04" class="internal_link">4</a>. Also Senator Warren<a href="../doc/n05" class="internal_link">5</a>— And told them that if they <a rel="tooltip" class="sic" title="believed​ ">beleived</a>
-    ​ him<a href="../doc/n06" class="internal_link">6</a> And did not want the ditches built for my part I would quit.</p>
+written to the contrary. if it <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> be 20 feet on the bottom call me out I will quit. hope you are looking out for lumber for headgate. How do you like Mr. <u>Foote</u>
+         <a href="#n03" class="internal_link">3</a>? I seen Hoke Smith<a href="#n04" class="internal_link">4</a>. Also Senator Warren<a href="#n05" class="internal_link">5</a>— And told them that if they <a rel="tooltip" class="sic" title="believed​ &#xA;    ">beleived</a> him<a href="#n06" class="internal_link">6</a> And did not want the ditches built for my part I would quit.</p>
 
       <p>Well I will write you Sunday. Must go &amp; give a show— There is twenty people waiting to see me—</p>
 
       <span class="closer">
          <br/>Bill.
 </span>
-      <p>Say. I got a letter from <span class="persName">Heck</span>.</p>
+      <p>Say. I got a letter from <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/heck.t"/>Heck</span>.</p>
    </div>
 
 
@@ -80,4 +82,3 @@ written to the contrary. if it <a rel="tooltip" class="sic" title="can't​ ">ca
 
 
 </div>
-

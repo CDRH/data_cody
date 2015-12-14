@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -28,21 +28,17 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">St Louis Mo<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">St Louis Mo<a href="#n01" class="internal_link">1</a>
          <br/>
 
 May 22/96</span>
 
-      <span class="salute">My Dear Flood<a href="../doc/n02" class="internal_link">2</a>
+      <span class="salute">My Dear Flood<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <p>Thanks for statements and letter. As far as they go they are <a rel="tooltip" class="sic" title="all right​ ">allright</a>
-    ​. But <a rel="tooltip" class="sic" title="it's​ ">its</a>
-    ​ the outside bills that are contracted that we <a rel="tooltip" class="sic" title="can't​ ">cant</a>
-    ​ hear from. But thats not your fault.</p>
+      <p>Thanks for statements and letter. As far as they go they are <a rel="tooltip" class="sic" title="all right​ &#xA;    ">allright</a>. But <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> the outside bills that are contracted that we <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> hear from. But thats not your fault.</p>
 
-      <p>I have asked for a statement several times for the work my teams have done. <u>You</u> could give that— Flood— I am <a rel="tooltip" class="sic" title="informed​ ">imformed</a>
-    ​ That my stock is being cruelly treated if so I blame <u>you</u> for that. I understand that they have been over worked all day long pulled to death without water then tied
+      <p>I have asked for a statement several times for the work my teams have done. <u>You</u> could give that— Flood— I am <a rel="tooltip" class="sic" title="informed​ &#xA;    ">imformed</a> That my stock is being cruelly treated if so I blame <u>you</u> for that. I understand that they have been over worked all day long pulled to death without water then tied
 
 
 <span class="hr"> </span>
@@ -69,7 +65,8 @@ May 22/96</span>
             <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
 
-up all night long without water. If this is so— there is not words strong enough in any language to express my feelings— And if I find out that this is true Some one will be called down and left out for it. Any man who cruelly treats a dumb brute Is not fit to live. <span class="persName">Frank Grouard</span> has my stock in charge and what he says about them goes— There will be some rapid changes if I<del>f</del> find my poor dumb brutes are being cruelly treated
+up all night long without water. If this is so— there is not words strong enough in any language to express my feelings— And if I find out that this is true Some one will be called down and left out for it. Any man who cruelly treats a dumb brute Is not fit to live. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/grouard.f"/>Frank Grouard</span> has my stock in charge and what he says about them goes— There will be some rapid changes if I<del>f</del> find my poor dumb brutes are being cruelly treated
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -96,8 +93,7 @@ up all night long without water. If this is so— there is not words strong enou
 
 I will stand most anything else but that—</p>
 
-      <p>I know what you have to contend with and I might say all alone— And I often feel for you— And <a rel="tooltip" class="sic" title="believe​ ">beleive</a>
-    ​ with a half a chance And left to you all would go different—</p>
+      <p>I know what you have to contend with and I might say all alone— And I often feel for you— And <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> with a half a chance And left to you all would go different—</p>
 
       <span class="closer">
          <span class="salute">Yours truly yours</span>
@@ -114,4 +110,3 @@ I will stand most anything else but that—</p>
    <div class="note">Note 2: "Mr. Flood" is likely "D. P. Flood" who wrote to Beck in 1896 and is mentioned by Cody in 1896 letters to Beck. Flood may have been a foreman or livestock handler employed on the irrigation project; his exact role is not known.</div>
 
 </div>
-

@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11329.jpg"
@@ -26,4 +26,3 @@
         <p>Colonel Cody is director general of both parties, but will continue with Anderson and the Prince of Monaco on one trail, while Gates and his companions, under the guidance of Frost and Richards, two of the most noted guides in this section, enter the heart of the mountains in another direction.</p>
    </div>
     </div>
-

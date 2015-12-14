@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="telegram ">
+   <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00561.jpg"
@@ -22,7 +22,7 @@
          <strong>Norvin Green,</strong> President.</div>
 
 
-      <span class="ab">Number  397<a href="../doc/n01" class="internal_link">1</a>
+      <span class="ab">Number  397<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="ab">Sent By  ChQs</span>
@@ -36,17 +36,20 @@
       <span class="ab">
          <strong>Received at 212 South 13th Street, Omaha, Neb.</strong>  943p<br/>M. Standard TIme  June 8 189  5</span>
 
-      <span class="ab">Dated  Fitchburg Mass 8<a href="../doc/n02" class="internal_link">2</a>
+      <span class="ab">Dated  Fitchburg Mass 8<a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="ab">To  <span class="persName">George T Beck</span>
+      <span class="ab">To  <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T Beck</span>
       </span>
 
-      <span class="ab">MacTague Hotel<a href="../doc/n03" class="internal_link">3</a> Omaha neb</span>
+      <span class="ab">MacTague Hotel<a href="#n03" class="internal_link">3</a> Omaha neb</span>
 
 
       <p>
-         <span class="persName">Paxton</span> party out anxiously waiting your report have <span class="persName">Hymer</span> stop expense have every body pay share expense</p>
+         <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w"/>Paxton</span> party out anxiously waiting your report have <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> stop expense have every body pay share expense</p>
 
 
       <span class="closer">
@@ -66,4 +69,3 @@
    <div class="note">Note 3: McTague Hotel: James Hugh McTague (1858-1926) was the owner of a catering service in Omaha, Nebraska, and opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.</div>
 
 </div>
-

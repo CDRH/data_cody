@@ -13,7 +13,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -72,7 +72,7 @@ All rights reserved.
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="dedication doublespace ">
+      <div class="dedication">
 
          <span class="ab">
 To<br/>
@@ -108,7 +108,7 @@ THE AUTHOR.
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="introduction doublespace ">
+      <div class="introduction">
          <h3>INTRODUCTORY.</h3>
          <p>The life and adventures of Hon. William F. Cody—Buffalo Bill—as told
 by himself, make up a narrative which reads more like romance than
@@ -299,7 +299,7 @@ and intensely interesting to both young and old.</p>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="contents doublespace ">
+      <div class="contents">
  
          <h3>Illustrations.</h3>  
  
@@ -1314,7 +1314,7 @@ experience in Washington—Home Once More.
       </a>
    </span>
    
-   <div class="chapter ">
+   <div class="chapter">
       <h3>CHAPTER I.</h3>
       <h3>CHILDHOOD.</h3>
 
@@ -1513,7 +1513,7 @@ they nearly all came up and congratulated him on his success, asked him why he h
       </a>
    </span>
    
-   <div class="chapter doublespace ">
+   <div class="chapter">
  
       <h3>CHAPTER II</h3>
       <h3>EARLY INFLUENCES.</h3>
@@ -1777,7 +1777,7 @@ in California. The horses had to be caught with a lasso, with which he was very 
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
   
       <h3>CHAPTER III.</h3>
       <h3>BOY DAYS IN KANSAS.</h3>
@@ -2107,7 +2107,7 @@ stairs where father was lying in bed, unable to rise. Taking a double-barreled p
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
    
       <h3>CHAPTER IV.</h3>
@@ -2340,7 +2340,7 @@ that we could accompany the troops. On reaching the place where the Indians had 
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
    
       <h3>CHAPTER V.</h3>
@@ -2613,7 +2613,7 @@ afloat in a hostile country, without giving us our arms," said Simpson, who had 
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER VI.</h3>
       <h3>HARD TIMES.</h3>
@@ -2863,7 +2863,7 @@ begged of me to give it up, as it would surely kill me. She was right about this
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER VII.</h3>
       <h3>ACCIDENTS AND ESCAPES.</h3>
@@ -3039,7 +3039,7 @@ ciently for what he had done for her darling boy, as she called me. Harrington c
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER VIII.</h3>
       <h3>ADVENTURES ON THE OVERLAND ROAD.</h3>
@@ -3375,7 +3375,7 @@ stage-drivers, stock-tenders and ranchmen were galloping in the direction of the
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER IX.</h3>
       <h3>FAST DRIVING.</h3>
@@ -3489,7 +3489,7 @@ made for the open doorway. Capt. Cricket, the messenger, and Scott got down in t
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
    
       <h3>CHAPTER X.</h3>
@@ -3664,7 +3664,7 @@ hitting Tutt squarely in the forehead and killing him instantly.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">  
+   <div class="chapter">  
 
       <h3>CHAPTER XI.</h3>
       <h3>A SOLDIER.</h3>
@@ -3825,7 +3825,7 @@ within about a quarter of a mile of us, one of them fell from his horse to rise 
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XII.</h3>
       <h3>A WEDDING.</h3>
@@ -4000,7 +4000,7 @@ while another large party of the latter were dancing around the captured cannon,
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XIII.</h3>
       <h3>A MILLIONAIRE.</h3>
@@ -4254,7 +4254,7 @@ bugle then gave the re-call, but some of the darkies did not get back until morn
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
    
       <h3>CHAPTER XIV.</h3>
       <h3>EARNING A TITLE.</h3>
@@ -4439,7 +4439,7 @@ a success. The Indians saw the soldiers at about the same time that we did, and 
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XV.</h3>
       <h3>CHAMPION BUFFALO KILLER.</h3>
@@ -4573,7 +4573,7 @@ same clever pony that he always was. It seemed as if he almost remembered me, an
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XVI.</h3>
       <h3>A COURIER.</h3>
@@ -5013,7 +5013,7 @@ from Fort Hays to Fort Dodge, a distance of ninety-five miles. The following nig
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XVII.</h3>
       <h3>AN APPOINTMENT.</h3>
@@ -5139,7 +5139,7 @@ Their women and children began to disappear about noon, and then the Indians tri
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XVIII.</h3>
       <h3>SCOUTING.</h3>
@@ -5405,7 +5405,7 @@ they did some fine work, sending the bullets thick and fast where they would do 
       </a>
    </span>
 
-   <div class="chapter doublespace ">  
+   <div class="chapter">  
 
       <h3>CHAPTER XIX.</h3>
       <h3>A TOUGH TIME.</h3>
@@ -5623,7 +5623,7 @@ General Carr said to me: "Cody, there are plenty of antelopes in the country, an
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XX.</h3>
       <h3>AN EXCITING CHASE.</h3>
@@ -5892,7 +5892,7 @@ Plains at his old tricks. He sent word by the gentleman from whom I gained this 
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXI.</h3>
       <h3>A MILITARY EXPEDITION.</h3>
 
@@ -6118,7 +6118,7 @@ by showing them how I killed buffaloes. Although the Pawnees were excellent buff
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
    
       <h3>CHAPTER XXII.</h3>
       <h3>A DESPERATE FIGHT.</h3>
@@ -6365,7 +6365,7 @@ higher so that it drove those proud and conceited giants from the low grounds to
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
   
       <h3>CHAPTER XXIII.</h3>
       <h3>ADMINISTERING JUSTICE.</h3>
@@ -6655,7 +6655,7 @@ this we succeeded, and reached the fort in safety. The General wanted to have th
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER XXIV.</h3>
       <h3>HUNTING EXPEDITION.</h3>
@@ -6949,7 +6949,7 @@ that I had put up the trick, but as he was always fond of a good joke himself, h
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XXV.</h3>
       <h3>HUNTING WITH A GRAND DUKE.</h3>
@@ -7172,7 +7172,7 @@ we were to obtain a fresh relay, and there I succeeded in checking them. The Gra
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
       <h3>CHAPTER XXVI.</h3>
       <h3>SIGHT-SEEING.</h3>
 
@@ -7301,7 +7301,7 @@ my carelessness, invited me to accompany him to the Liederkranz  masked ball, wh
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XXVII.</h3>
       <h3>HONORS.</h3>
@@ -7442,7 +7442,7 @@ wait any longer but rode into camp and notified Captain Russell, who immediately
       </a>
    </span>
 
-   <div class="chapter doublespace ">   
+   <div class="chapter">   
 
       <h3>CHAPTER XXVIII.</h3>
       <h3>AN ACTOR.</h3>
@@ -7667,7 +7667,7 @@ Buntline saw I was "stuck," and a happy thought occurred to him. He said—as if
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER XXIX.</h3>
       <h3>STARRING.</h3>
@@ -7909,7 +7909,7 @@ afforded us considerable amusement. We finally surprised Little Wolf's  band of 
       </a>
    </span>
 
-  <div class="chapter doublespace ">
+  <div class="chapter">
 
       <h3>CHAPTER XXX.</h3>
 
@@ -8263,7 +8263,7 @@ General Crook's forces, and had reported that the Sioux were coming.</p>
       </a>
    </span>
 
-   <div class="chapter doublespace ">
+   <div class="chapter">
 
       <h3>CHAPTER XXXI.</h3>
       <h3>DANGEROUS WORK.</h3>
@@ -8448,7 +8448,7 @@ the cattle business in company with my old friend, Major Frank North, and while 
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class=" doublespace ">
+   <div class="">
 
       <h3>CHAPTER XXXII. </h3>
       <h3>CONCLUSION.</h3>
@@ -8529,4 +8529,3 @@ asked him if he intended depriving me of my Indian actors. He said that he did, 
    </div>
 
 </div>
-

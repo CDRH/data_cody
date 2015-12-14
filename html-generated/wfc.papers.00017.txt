@@ -4,7 +4,7 @@
   <div class="main_content">
     
 
-      <div class="type ">
+      <div class="type">
 
 
         <h3>Exporting American Exceptionalism: The Wild West in Germany</h3>
@@ -35,4 +35,3 @@
 
      
   </div>
-

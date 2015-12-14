@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00421.01.jpg"
@@ -40,7 +40,7 @@ The New Willard, Pennsylvania Avenue, Fourteenth &amp; F Streets,<br/>
 </span>
    </div>
 
-   <div class="envelope doublespace ">
+   <div class="envelope">
       <div class="note">The New Willard<br/>Pennsylvania Avenue, 14th and F Streets<br/>Washington, D. C.<br/>F. S. Hight, Manager.</div>
 
       <span class="ab postmark">Washington<br/>D. C.<br/>Feb. 24<br/>130 AM<br/>1914</span>
@@ -61,4 +61,3 @@ Colo
 
 
 </div>
-

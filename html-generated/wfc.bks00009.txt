@@ -12,7 +12,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <p>Four Years in Europe with Buffalo Bill</p>
       </div>
       <span class="hr"> </span>
@@ -24,7 +24,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" doublespace ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>W. F. Cody, "Buffalo Bill" 1906.</p>
@@ -70,7 +70,7 @@ STAGE PUBLISHING CO.<br/>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="publicationinfo doublespace ">
+      <div class="publicationinfo">
          <p>COPYRIGHT, 1908, BY CHARLES ELDRIDGE GRIFFIN.<br/>
 ALL RIGHTS RESERVED.<br/>
          </p>
@@ -84,7 +84,7 @@ ALL RIGHTS RESERVED.<br/>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="tableofcontents doublespace ">
+      <div class="tableofcontents">
          <h3>Table of Contents</h3>
          <table>
             <tr>
@@ -199,7 +199,7 @@ ALL RIGHTS RESERVED.<br/>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="frontmatter doublespace ">
+      <div class="frontmatter">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>It was fun to watch the sea-gulls dive for biscuits which we would throw into the sea.</p>
@@ -215,7 +215,7 @@ ALL RIGHTS RESERVED.<br/>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="listofillustrations doublespace ">
+      <div class="listofillustrations">
          <h3>List of Illustrations</h3>
          <table>
             <tr>
@@ -381,7 +381,7 @@ ALL RIGHTS RESERVED.<br/>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class="figure doublespace ">
+      <div class="figure">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>"All Going Out, Nothing Coming In."</p>
@@ -396,7 +396,7 @@ ALL RIGHTS RESERVED.<br/>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" doublespace ">
+      <div class="">
          <div class="note">Fac Simile of Letter from Col. Wm. F. Cody (Buffalo Bill).</div>
          <div class="note">Wapiti Inn, Yellowstone Park Road.<br/>
 Pahaska Teepe, Yellowstone Park Road.<br/>
@@ -426,7 +426,7 @@ The Irma Hotel, European Plan</div>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" doublespace ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>Fred "Eques" Martin</p>
@@ -448,7 +448,7 @@ The Irma Hotel, European Plan</div>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" doublespace ">
+      <div class="">
          <div class="note">Fac Simile of Letter from Lord George Sanger, the British Barnum</div>
 
          <span class="dateline">Park Farm, East Finchley, London, NW. Eng.</span>
@@ -469,7 +469,7 @@ C. E. Griffin, Esq.</span>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" doublespace ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>A Visit to Chateau D'If — Monte Cristo Island.</p>
@@ -487,7 +487,7 @@ C. E. Griffin, Esq.</span>
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" doublespace ">
+      <div class="">
          <h3>Buffalo Bill — A Sketch.</h3>
          <p>Although Col. Wm. F. Cody (Buffalo Bill) has a vast army of personal friends, his tremendous successes (yes, I meant that to be plural) have made him many envious enemies, who assiduously exaggerate and circulate all kinds of villainous and scurrilous stories about the great scout—but that is one of the penalties of being great and famous.</p>
          <p>It is really too bad that everybody cannot know the Colonel as his friends know him.  He is truly one of the best fellows in the world—open hearted and generous to a fault.  Why, his managers have to hedge him in and keep the people from him during the season, otherwise he would have his tents filled with free tickets, and that would not do, as it takes an enormous pile of money to keep so vast a concern moving from day to day.</p>
@@ -521,7 +521,7 @@ the family, when but eight years of age.  His father was assassinated by the “
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" doublespace ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>James Anthony Bailey</p>
@@ -537,7 +537,7 @@ the family, when but eight years of age.  His father was assassinated by the “
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" doublespace ">
+      <div class="">
          <h3>James Anthony Bailey.</h3>
          <p>The subject of this sketch was born at Detroit, Mich., July 4, 1847, of Scotch-Irish parentage.  He left home at ten years of age, and for a time worked on a farm at $3.50 per month.</p>
          <p>While serving as a bell-boy in a hotel at Pontiac, Mich., Fred Bailey, general agent of the Lake &amp; Robinson Circus, came there and engaged young Bailey to assist him.</p>
@@ -576,7 +576,7 @@ ascertained the price of cattle, hogs, flour, potatoes, cotton, tobacco, butter,
       </a>
    </span>
 
-   <div class=" ">
+   <div class="">
       <h3>Foreword.</h3>
       <p>When the late James A. Bailey, undisputed king of the show world, visited the Ringling Bros.’ Circus, at Canton, Ohio, in June, 1902, he unconsciously, perhaps, paid the Ringling Bros. the greatest compliment that could be paid to a rival concern, inasmuch as he had never before deigned to visit a similar institution personally.  However, he would keep himself thoroughly posted in their movements by means of his many agents.</p>
       <p>On this occasion several employees of the Ringling Show were approached in regard to a tour of England with Buffalo Bill’s Wild West, the following Spring.</p>
@@ -611,7 +611,7 @@ the Prince and Princess of Wales, together with numerous other royal personages,
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class=" doublespace ">
+   <div class="">
       <p>Notice.— Every reader of this book should know the true life story of “Buffalo Bill,” contained in “The Last of the Great Scouts,” by Colonel Cody’s sister, Helen Cody Whetmore.  This book is an ornament to any library, contains 244 pages, large, clear type, gold side and back stamp, copiously illustrated by Frederic Remington and E. W. Deming, and intensely interesting and thrilling throughout.  Sent postpaid on receipt of $1.00 by</p>
       <span class="lg">
          <span class="l">Stage Publishing Co.,</span>
@@ -628,7 +628,7 @@ the Prince and Princess of Wales, together with numerous other royal personages,
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class=" doublespace ">
+   <div class="">
       <div class="inline_figure">
          <div class="p">[illustration]</div>
          <p>In winter quarters, Marseilles, France, 1905-6.</p>
@@ -643,7 +643,7 @@ the Prince and Princess of Wales, together with numerous other royal personages,
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class=" doublespace ">
+   <div class="">
       <h3>Four Years in Europe with Buffalo Bill.</h3>
       <h3>CHAPTER I.—1903.</h3>
       <h3>Our Ocean Voyage—General Impressions of Old England.</h3>
@@ -754,7 +754,7 @@ it very difficult for a stranger to get anything to eat on a Sunday, even at suc
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <div class="inline_figure">
          <div class="p">[illustration]</div>
          <p>Working under the southern sun, December, 1905.</p>
@@ -771,7 +771,7 @@ it very difficult for a stranger to get anything to eat on a Sunday, even at suc
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER II.—Summer 1903.</h3>
       <h3>Opening of the Season—Accident to Buffalo Bill.</h3>
       <p>We opened the tenting season of 1903 at Brook’s Bar, Manchester, April 13, Bankers’ Holiday, to turn away business, in a cold drizzling rain, which turned to snow.  At the opening performance Colonel Cody was thrown from his horse, or, rather, the horse stumbled, severely spraining one of the Colonel’s ankles, consequently he was unable to ride during the three weeks’ engagement at Manchester, but was driven around the arena in a carriage at each performance.</p>
@@ -873,7 +873,7 @@ at Stoke-on-Trent.  We had a very pleasant and prosperous season, notwithstandin
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class=" doublespace ">
+   <div class="">
       <div class="inline_figure">
          <div class="p">[illustration]</div>
          <p>Street scene, Genoa, Italy, March, 1906</p>
@@ -911,7 +911,7 @@ at Stoke-on-Trent.  We had a very pleasant and prosperous season, notwithstandin
               class="display &#xA;            "/>
       </a>
    </span>
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER III.— Winter 1903-4.</h3>
       <h3>Wintering in London — Sights and Scenes of the Great City—A Trip to “Gay Paree,” the Fashion Capital of the World.</h3>
       <p>We left Burton, our closing stand, at 8.30 A. M., Oct. 24, by the Midland Railway, and arrived at St. Pancreas Station, London, at 12.30, noon.</p>
@@ -1106,12 +1106,12 @@ and 80 cents each; mutton, 8 cents and 14 cents per pound.  Well, I ate plenty o
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER IV.— 1904.</h3>
       <h3>Second Year of Buffalo Bill in Great Britain — A Visit to the Potteries — Bonnie Scotland.</h3>
       <p>I left the English metropolis to begin my second tour of Great Britain about the middle of April, beginning the season with Buffalo Bill’s Wild West, at Stoke-on-Trent, Monday, April 25.</p>
       <p>Mr. Lew Graham had during the Winter resigned as manager of privileges, and returned to the States to take the same department with Ringling Bros.’ World’s Greatest Shows, and I was selected by the management to fill his position with the Wild West.</p>
-      <p>Stoke is the centre of the potteries district, and the Winter quarters of Barnum &amp; Bailey, Ltd.,<a href="../doc/n01" class="internal_link">1</a>  which forms a small city in itself.  There are twelve buildings of brick and iron, everything being under cover from railway cars to stakes and toe-pins.  Here everything connected with the Wild West had been gone over, repairs made where necessary, painted and renewed during the Winter months, a force of two hundred men being employed for this purpose.</p>
+      <p>Stoke is the centre of the potteries district, and the Winter quarters of Barnum &amp; Bailey, Ltd.,<a href="#n01" class="internal_link">1</a>  which forms a small city in itself.  There are twelve buildings of brick and iron, everything being under cover from railway cars to stakes and toe-pins.  Here everything connected with the Wild West had been gone over, repairs made where necessary, painted and renewed during the Winter months, a force of two hundred men being employed for this purpose.</p>
       <p>This was my first visit to Stoke, and I found it very interesting.  It reminded me of Johnstown, Pa., before the flood—a dingy conglomeration of villages under separate
 
 <div class="note">* In December, 1907, the Ringling Bros. acquired, by purchase, all the rights, titles and interests of the Barnum &amp; Bailey, Ltd., which was an English syndicate. This makes the five Ringlings, viz., Al., Otto, John, Charlie and Alf. T., the most extensive owners of show property in the world—the Ringling Bros.' World's Greatest Shows, Barnum &amp; Bailey's Greatest Show on Earth and the Adam Forepaugh &amp; Sells Bros.' Combined Shows, comprising the three biggest shows in the world, excepting, of course, Buffalo Bill's Wild West.</div>
@@ -1190,7 +1190,7 @@ pare so favorably with Glasgow for business, notwithstanding our success was ver
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER V — Winter, 1904-5.</h3>
       <h3>Again in London — Shop Showing —The Waverly Carnival — Studying French.</h3>
       <p>At the close of the season of 1904 I returned to my studio at West Kensington, London.  By this time I was well acquainted in the big city and found it a first class place to live.  During this time I had all kinds of experiences in show business, from “penny gaffs” to music halls and society entertainments— my adventures in that line will make a book of itself.</p>
@@ -1334,7 +1334,7 @@ traits of Scottish kings; Lord Darnley’s rooms, from which a private stairway 
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER VI— 1905.</h3>
       <h3>Grand Opening at Paris — A Zigzag Tour of France — Disease Among the Horses —Tragedie de les Cheveaux.</h3>
       <p>I left London for Paris, March 15, to rejoin Buffalo Bill’s Wild West for a tour of continental Europe.  As our season did not commence until April 2, we had about two weeks for sightseeing.</p>
@@ -1638,7 +1638,7 @@ their favorite pastimes on this occasion was throwing stones at the drivers, out
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER VII.— WINTER 1905-6.</h3>
       <h3>Marseilles, the Gateway to the Orient — Wintering Under Canvas — More Observations of French Manners and Customs.</h3>
       <p>From November, 1905, until March, 1906, we Wintered under canvas at Marseilles, the semi-tropical climate of that latitude rendering such a heretofore unheard of proposition possible.  When Manager Fred Hutchinson first spoke of doing this, the old boys shook their heads, but Colonel Cody, having full confidence in his young manager, after pulling us safely through one of the most strenuous seasons ever experienced by any show, thought “Freddy” knew best — and “Freddy” did know best.  “All’s well that ends well,” and Mr. Hutchinson received great credit from everyone for his forethought in saving the firm a lot of trouble and expense.</p>
@@ -1715,7 +1715,7 @@ to get for fifty cents at a French restaurant in Twenty-eighth Street, New York,
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER VIII.—1906.</h3>
       <h3>Opening of the Season at Marseilles—Tour of Italy, Austria-Hungary, Germany and Belgium.</h3>
       <p>Buffalo Bill’s Wild West inaugurated their twenty-fourth annual tour at Marseilles, France, March 4, 1906, on the same grounds where we closed our 1905 tour, and where the show was Wintered.</p>
@@ -1955,7 +1955,7 @@ hard-working little wives to slave their lives away in keeping a grocery, or a l
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>CHAPTER IX.—1906-7.</h3>
       <h3>Closing of the Tour—Departure for and Arrival at New York—Impressions of New York After Four Years Abroad.</h3>
       <p>The last of our four years abroad (1906), during which we encountered sixteen different languages, was a particularly trying one.  When we closed our season at Ghent, Belgium, afternoon of Sept. 21, I felt as though I was on the verge of nervous prostration, having been at a high nervous tension all Summer, as a result of the constant effort to understand and make myself understood in so many foreign lands.</p>
@@ -2011,7 +2011,7 @@ Battle of the Skies” —which, for general grandeur, mysterious effects, femin
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>Official Roster of Buffalo Bill's Wild West</h3>
       <h3>Season of 1907</h3>
       <h3>U.S.A.</h3>
@@ -2148,7 +2148,7 @@ Battle of the Skies” —which, for general grandeur, mysterious effects, femin
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>With Buffalo Bill</h3>
       <table>
          <tr>
@@ -2219,7 +2219,7 @@ Musical Artists; Horace E. Tudor, Master of Side Show Canvas.</p>
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>Programme Buffalo Bill's Wild West</h3>
       <h3>Season of 1907</h3>
       <h3>U.S.A.</h3>
@@ -2310,7 +2310,7 @@ blow open the safe.  Meanwhile the passengers are lined up and despoiled of thei
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>Other Books by Same Author</h3>
       <div class="inline_figure">
          <div class="p">[illustration]</div>
@@ -2328,7 +2328,7 @@ blow open the safe.  Meanwhile the passengers are lined up and despoiled of thei
       </a>
    </span>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>"The Last of the Great Scouts</h3>
       <div class="inline_figure">
          <div class="p">[illustration]</div>
@@ -2336,10 +2336,9 @@ blow open the safe.  Meanwhile the passengers are lined up and despoiled of thei
       </div>
    </div>
 
-   <div class=" doublespace ">
+   <div class="">
       <h3>Notes</h3>
       <div class="note">In December, 1907, the Ringling Bros. acquired, by purchase, all the rights, titles and interests of the Barnum &amp; Bailey, Ltd., which was an English syndicate.  This makes the five Ringlings, viz., Al., Otto, John, Charlie and Alf. T., the most extensive owners of show property in the world—the Ringling Bros.’ World’s Greatest Shows, Barnum &amp; Bailey’s Greatest Show on Earth and the Adam Forepaugh &amp; Sells Bros.’ Combined Shows, comprising the three biggest shows in the world, excepting, of course, Buffalo Bill’s Wild West.</div>
    </div>
 
 </div>
-

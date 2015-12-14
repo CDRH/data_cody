@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -24,13 +24,16 @@
       <span class="dateline">Mar. 17th 1896</span>
 
 
-      <span class="salute">My Dear <span class="persName">Alger</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span>
       </span>
 
 
 
 
-      <p>Please send me a copy of <span class="persName">W. E. Hymers</span>  expense account and money he received. He gave it to <span class="persName">Beck</span> last fall. Send it to me to North Platte<a href="../doc/n01" class="internal_link">1</a>—</p>
+      <p>Please send me a copy of <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>W. E. Hymers</span>  expense account and money he received. He gave it to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span> last fall. Send it to me to North Platte<a href="#n01" class="internal_link">1</a>—</p>
 
       <span class="closer">
          <span class="salute">Very truly yours</span>
@@ -44,4 +47,3 @@
    <div class="note">Note 1: Scout's Rest Ranch was William F. Cody's ranch in North Platte, Nebraska.</div>
 
 </div>
-

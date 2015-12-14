@@ -3,7 +3,7 @@
 
     <div class="main_content">
         
-            <div class="article ">
+            <div class="article">
 
                 <h6 class="fw">212 SUCCESS June, 1900</h6>
 
@@ -80,4 +80,3 @@
 
             
     </div>
-

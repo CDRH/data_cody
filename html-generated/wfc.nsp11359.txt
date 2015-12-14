@@ -3,7 +3,7 @@
     
     <div class="main_content">
         
-   <div class=" ">
+   <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.nsp11359.001.jpg"
@@ -126,4 +126,3 @@
         <p>EVEN then in the moment of his breathless victory, there was peril for Buffalo Bill. Astonished though they were at the sight of this onslaught of a handful of foes, the Cheyennes along the mile-away ridge were quick to realize what had happened, and in one magnificent dash they came charging down to the rescue. One minute the broad, sun-lit slope was fairly alive with mounted warriors, full twenty score, all full panoplied in Indian fashion, lurid with paint, brilliant with flashing ornaments, their wild war bonnets streaming behind them. On they came, yelling hate, vengeance, death and defiance, and for the moment it looked as though Cody and his little band would be swallowed up in the rush. Only for a moment though, for before half the distance from ridge to knoll had been covered, up from the screen of bluffs to the north came line after line, troop after troop of blue-shirted riders, their guidons flashing, their carbines unslung and advanced, and in a burst of cheers and a thunder of hoofs, the Fifth cavalry swooped down at the gallop. The sight was too much even for Cheyenne nerves, and, leaving their dead on the field, the bewildered, out-generaled warriors reined in, whirled about, turned and fled — never stopping until safe within the limits of the reservation, where — no matter what their sins, they were safe from soldier hands. Thither followed the Fifth — and there that night, awe-stricken Indians crept about their bivouac fires, intent on seeing the chief who had beaten them at their own game, and with fear, hatred and baffled vengeance in their eyes, following and studying the famous scout who that day had stripped them of their daring leader — Yellow Hand. In all Merritt's hard-riding column, there was no man who did not accord the honors of the day to Buffalo Bill.</p>
    </div>
     </div>
-

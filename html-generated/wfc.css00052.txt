@@ -14,7 +14,7 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <span class="dateline">
@@ -26,8 +26,8 @@ Feb 3th <div class="note">1883</div>
       <span class="salute">Dear. Sister.</span>
 
 
-      <p>Your Letter <a rel="tooltip" class="abbr" title="received​ ">recd</a>​— found me still playing in poor luck Money is awful <a rel="tooltip" class="sic" title="scarce​ ">scarse</a>
-    ​ and the Exposition. a financial failure— Now if any of you have friends coming where I am I will always be glad to see and entertain them all I can. I am always glad to hear from you. &amp; Al and the children. About the Cleveland suit Judge Thoman informs me that its not abandoned
+      <p>Your Letter <a rel="tooltip" class="abbr" title="received​ &#xA;    ">recd</a>​
+— found me still playing in poor luck Money is awful <a rel="tooltip" class="sic" title="scarce​ &#xA;    ">scarse</a> and the Exposition. a financial failure— Now if any of you have friends coming where I am I will always be glad to see and entertain them all I can. I am always glad to hear from you. &amp; Al and the children. About the Cleveland suit Judge Thoman informs me that its not abandoned
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -54,4 +54,3 @@ by any means— Now about that Note— Arta does not even answer my letters any 
 
 
 </div>
-

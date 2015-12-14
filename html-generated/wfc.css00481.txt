@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -28,24 +28,22 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">Anderson— Ind<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Anderson— Ind<a href="#n01" class="internal_link">1</a>
          <br/>
 
 May 11<u>th</u>
-         <a href="../doc/n02" class="internal_link">2</a>
+         <a href="#n02" class="internal_link">2</a>
       </span>
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
-      <p>Since writing you this morn we have had a lively cyclone. But the Wild West went all the same— Just recd a letter from Boyd<a href="../doc/n03" class="internal_link">3</a>— he wants to make a sixty days prospecting tour— What do you think about it. he <a rel="tooltip" class="sic" title="also​ ">allso</a>
-    ​ wants $35— I guess you had better send it to him— I sent in another $5.000. Its <a rel="tooltip" class="sic" title="making​ ">makeing</a>
-    ​ me hump to carry the whole thing. I want to know how I stand—</p>
+      <p>Since writing you this morn we have had a lively cyclone. But the Wild West went all the same— Just recd a letter from Boyd<a href="#n03" class="internal_link">3</a>— he wants to make a sixty days prospecting tour— What do you think about it. he <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> wants $35— I guess you had better send it to him— I sent in another $5.000. Its <a rel="tooltip" class="sic" title="making​ &#xA;    ">makeing</a> me hump to carry the whole thing. I want to know how I stand—</p>
 
       <p>Do write me fully— Just once Just for luck—</p>
 
-      <p>I am a little busy my self. But I will write you to death if your <a rel="tooltip" class="sic" title="don't​ ">dont</a>
-    ​ tell me what I want to know—</p>
+      <p>I am a little busy my self. But I will write you to death if your <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> tell me what I want to know—</p>
 
       <span class="closer">Bill</span>
 
@@ -60,4 +58,3 @@ May 11<u>th</u>
    <div class="note">Note 3: "Boyd" is not identified.</div>
 
 </div>
-

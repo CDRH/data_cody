@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="article ">
+   <div class="article">
 
 
 
@@ -15,7 +15,7 @@
          <p>BUFFALO BILL AND BOUNCING JOE.<br/>
 ECLIPSING THE GAIETY OF NATIONS.</p>
          <p>"<em class="hi">The gallant Colonel leaves us, 'never, never, never to return!'</em> "—Vide Posters.</p>
-         <p>"<em class="hi">Mr. Chamberlain<a href="../doc/n01" class="internal_link">1</a> is going abroad shortly, and will not make any further political speeches this year!!</em>" —Vide "Pall Mall."</p>
+         <p>"<em class="hi">Mr. Chamberlain<a href="#n01" class="internal_link">1</a> is going abroad shortly, and will not make any further political speeches this year!!</em>" —Vide "Pall Mall."</p>
          <div class="note"> [See Cartoon Verses, p. 167.</div>
       </div>
 
@@ -73,4 +73,3 @@ ECLIPSING THE GAIETY OF NATIONS.</p>
    <div class="note">Note 1: Joseph Chamberlain (1836-1914), a British statesman, renowned orator, and liberal politician, was Secretary of State for the Colonies from 1895 to 1903.</div>
 
 </div>
-

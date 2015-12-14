@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="program ">
+   <div class="program">
 
       <span class="hr"> </span>
       <span class="pageimage">
@@ -15,7 +15,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="head">The Wild West Buffalo Bill and Dr. Carver</span>
@@ -37,7 +37,7 @@
                  class="display &#xA;            "/>
          </a>
       </span>
-      <div class=" ">
+      <div class="">
 
          <div class="note">
             <p>This Book was printed by The Calhoun Printing &amp; Engraving 'Co Hartford Conn probably about 1883 —</p>
@@ -65,7 +65,7 @@ Toledo, Ohio
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Hon. W. F. CODY—"Buffalo Bill,"</h3>
 
@@ -128,7 +128,7 @@ Toledo, Ohio
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="head">AT PEACE.</span>
@@ -146,7 +146,7 @@ Toledo, Ohio
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <h3>Dr. W. F. CARVER.—The Evil Spirit of the Plains.</h3>
 
          <div class="inline_figure">
@@ -198,7 +198,7 @@ Champion Cup," valued at £200, and £100 sweepstakes. This victory is justly co
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>EXHIBITION OF MARKSMANSHIP<br/>
 BEFORE<br/>
@@ -284,7 +284,7 @@ of America.</li>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Major FRANK J. NORTH, Chief of Pawnee Scouts.</h3>
 
@@ -327,7 +327,7 @@ of America.</li>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>THE HUNT OF THE BISON.</h3>
 
@@ -409,7 +409,7 @@ to be witnessed, and wondering how I would "pan out" in the view of my "red brot
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="head">Dr Wm F. Carver Champion Rifle Shot of the World</span>
@@ -428,7 +428,7 @@ to be witnessed, and wondering how I would "pan out" in the view of my "red brot
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="head">The Wild West Buffalo Bill and Dr Carver's Rocky Mountain &amp; Prairie Exhibition</span>
@@ -449,7 +449,7 @@ rescue by the Scouts and Plainsmen.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
 
          <h3>A Historical Coach of the Deadwood Line.</h3>
@@ -487,19 +487,19 @@ rescue by the Scouts and Plainsmen.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>Terrors of a Stampede.</p>
          </div>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>The Cow Boys.</h3>
          <p>Among the many features of "the wild West," not the least attractive will be the advent in the East of a band of veritable "cow-boys," a class without whose aid the great grazing Pampas of the West would be valueless, and the Eastern necessities of the table, the tan-yard, and the factory would be meagre. These will be the genuine cattle herders of a reputable trade, and not the later misnomers of "the road," who, in assuming an honored title, have tarnished it in the East, while being in fact the cow-boys' greatest foe, the thieving, criminal "rustler." To <em class="hi">Wilkes' Spirit</em>, of March, the editor is indebted for a just tribute and description of the American ranchman.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>THE COW-BOY.</h3>
          <p>"The cow-boy! How often spoken of, how falsely imagined, how greatly despised (where not known), how little understood! I've been there considerable. How sneeringly referred to, and how little appreciated, although his title has been gained by the possession of many of the noblest qualities that form the romantic hero of the poet, novelist, and historian: the plainsman and the scout. What a school it has been for the latter? As "tall oaks from little acorns grow," the cow-boy serves a purpose, and often develops into the most celebrated ranchman, guide, cattle king, Indian fighter, and dashing ranger. How old Sam Houston loved them, how the Mexicans hated them, how Davy Crockett admired them, how the Comanches feared them, and how much you "beef-eaters" of the rest of the country owe to them, is a large-sized conundrum. Composed of many "to the manner born," but recruited largely from Eastern young men, they were taught at school to admire the deceased little Georgie in exploring adventures, and, though not equaling him in the "cherry-tree goodness," were more disposed to kick against the buldozing of teachers, parents, and guardians.</p>
 
@@ -578,19 +578,19 @@ can be considered such.</p>
             <br/>J. B. Omohundro (Texas Jack).</span>
       </div>
 
-      <div class=" ">
+      <div class="">
          <p>Among the leading celebrities in the present party will be the renowned BUCK TAYLOR, a man whose great strength, nerve, endurance, and skill is historical in the West; JIM LAWSON, equally distinguished as a lassoist and roper; Bud Ayers, Dick Bean, and others, who will appear in feats of horsemanship, riding bucking mustangs, roping cattle, throwing buffalo, etc., eclipsing in agility and danger the Spanish matadors of old.</p>
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>Mexicans</p>
          </div>
       </div>
 
-      <div class=" ">
+      <div class="">
 
 
          <h3>The Vaquero of the Southwest.</h3>
@@ -615,7 +615,7 @@ can be considered such.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -623,7 +623,7 @@ can be considered such.</p>
          </div>
       </div>
 
-      <div class=" ">
+      <div class="">
          <span class="lg">
             <h4>Shakespeare on the Horse.</h4>
             <h4>IN "VENUS AND ADONIS."</h4>
@@ -696,7 +696,7 @@ can be considered such.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Dead, but not Forgotten.</h3>
 
@@ -872,7 +872,7 @@ can be considered such.</p>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Bow and Arrow.</h3>
          <p>The bow is the natural weapon of the wild tribes of the West. Previous to the introduction of firearms it was the
@@ -885,13 +885,13 @@ weapon supreme of every savage's outfit, in fact his principal
 dependence, backed by personal skill in its use, for sustenance for himself and his pappooses. It still retains its favor, as it is not always safe to rely on the white man's mechanism, as in case of lack of ammunition or deranged lock or trigger, time and location prevent it being "mended." As a weapon of economy it is also to be commended, as the hunting arrow is made so that the rear shoulders of the long tapering blade slope backward, thus facilitating its withdrawal from the wounded game. On the other hand, in the war arrow, the rear shoulders slope forward, forming barbs, as it is intended to remain and eventually kill. The possession, therefore, of firearms has not affected the Indian's love of this reliable weapon of the chase, which being his first childish plaything is still, no matter how well armed or rich he may be, an indispensable possession. At short distances it is a terribly effective arm, and the Indian expert can seize five to ten arrows in his left hand and dispatch them with such rapidity that the last will be on its flight before the first touches the ground. In close quarters they prefer to rely on it to depending on the rifle, as it can be of deadly force at thirty to forty yards, and creating a bad wound at much greater distance. In buffalo hunting, where the horseman can approach near, it is invaluable and economic, and is often buried to the feathers. "Two Lance," an Indian chief, during the Grand Duke's hunt, sent an arrow clear through a bison, Alexis retaining the light-winged messenger of death as a souvenir of his hunt on the American Plains.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>The Pawnees Astonished.</h3>
 
          <p>W. F. Cody, although having established his right to the title of "Buffalo Bill" for years before, had not had opportunity to convince the Pawnees of the justice of the claim previous to the time of the following incident. A short while previously a band of marauding red skin renegades from that nation, while on a stealing excursion near Ellsworth, had occasion to regret their temerity and cause to remember him to the extent of three killed, which fact for a time resulted in an enmity that needed something out of the usual run to establish him in their favor. While on a military expedition under Gen. E. A. Carr upon the Republican he met Major North and the Pawnee scouts. One day a herd of buffalo were descried, and Cody desired to join in the hunt. The Indians objected, telling the Major "the white talker would only scare them away." Seventy-three Indians attacked the herd and killed twenty-three. Later in the day another herd were discovered, and Major North insisted that the white chief have a chance to prove his skill. After much grumbling, they acquiesced grudgingly, and with ill-concealed smiles of derision consented to be spectators. Judge of their surprise, when Cody charged the herd, and single-handed and alone fairly amazed them by killing forty-eight buffalo in thirty minutes, thus forever gaining their admiration and a firm friendship that has since often accrued to his benefit.</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>Colonel Royal's Wagons.</h3>
          <p>Once upon the South Fork of the Solomon, Col. Royal ordered Cody to kill some buffalo that were in sight to feed his men, but declined to send his wagons until assured of the game. Bill rounded the herd, and, getting them in a line for camp, drove them in and killed seven near headquarters; or, as the colonel afterwards laughingly remarked, "furnishing grub and his own transportation."</p>
          <div class="inline_figure">
@@ -911,7 +911,7 @@ dependence, backed by personal skill in its use, for sustenance for himself and 
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>An Indian's Religion.</h3>
 
@@ -965,7 +965,7 @@ never escape, but remains with or hovering near the remains, even after complete
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="head">Buffalo Bill</span>
@@ -986,7 +986,7 @@ HARTFORD CONN</span>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Elk.</h3>
          <p>This animal is the largest of the genus <em class="hi">Ruminantia</em>, being higher at the shoulders than any horse. Its horns weigh sometimes over fifty pounds; accordingly, to bear this heavy weight, its neck is short and strong, taking
@@ -998,12 +998,12 @@ no other effect. In America it resides between the forty-fourth and forty-third 
 and over the whole of Canada and New Brunswick. The largest elk ever killed in this country was shot by Buffalo Bill, the horns weighing over seventy pounds (one of the heaviest ever known), and were presented by him to the New York Lodge of Elks. A band of these noble animals will form a feature in Cody &amp; Carver's "Wild West."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>The Buffalo.</h3>
          <p>The Buffalo is the true bison of the ancients. It is distinguished by an elevated stature, measuring six to seven feet at the shoulders and ten to twelve feet from nose to tail. Many there are under the impression that the buffalo was never an inhabitant of any country save ours. Their bones have been discovered in the superficial strata of temperate Europe; they were common in Germany in the eighth century. Primitive man in America found this animal his principal means of subsistence, while to pioneers, hunters, emigrants, settlers, and railroad builders this fast-disappearing monarch of the plains was invaluable. Messrs. Cody &amp; Carver have a herd of healthy specimens of this hardy bovine in connection with their instructive exhibition, "The Wild West."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>Cody's Corral; or, the Scouts and the Sioux.</h3>
          <span class="byline">BY "BUCKSKIN SAM."</span>
          <span class="lg">
@@ -1086,7 +1086,7 @@ and over the whole of Canada and New Brunswick. The largest elk ever killed in t
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Dr. Carver's Wonderful Success.</h3>
          <div class="note">1883</div>
@@ -1260,7 +1260,7 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Rifle as an Aid to Civilization.</h3>
 
@@ -1276,7 +1276,7 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
 </p>
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>The Clay Pigeons.</h3>
 
          <p>A device has been invented that is well calculated to put to a severe test the best of marksmen. It may be described as follows, with the preliminary remark that on the 7th of April, 1883, Dr. Carver, in a match with Capt. Bogardus on the grounds of the Jersey City Gun Club, at Marion, N. J., broke 98 out of 100:</p>
@@ -1287,7 +1287,7 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
 
       </div>
 
-      <div class=" ">
+      <div class="">
          <h3>Indian Names of States.</h3>
 
          <p>Massachusetts, from the Indian language, signifying the country about the great hills.</p>
@@ -1318,7 +1318,7 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>John Nelson—"Cha-Sha-Sha-na-po-ge-o ",</h3>
          <h3>AND HIS INDIAN FAMILY,</h3>
@@ -1331,7 +1331,7 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
          <p>Will be one of the objects of interest in the camp of "The Wild West." To the majority of dwellers in the realms of civilization it is hard to realize that hundreds of our own race and blood, very often intelligent and even accomplished men, gladly exchange all the comforts and the advantages of our mode of life for the privations and danger, relieved by the freedom and fascinations of the nomads of the Plains. Such, however, is the fact, and many by their marrying into the tribe are adopted as members, achieve tribal honors and possess great influence for good or evil, generally becoming interpreters, through whom all government communications pass. Among the most honored and reliable of these in his section is John Nelson, who, by general honesty of character and energy, has gained fame and respect among whites and Indians. Being a thorough Plainsman, years ago his standing as a train guide was most enviable, being sought for by all. He guided Brigham Young and the Mormons across the then "Great Desert" to their present location in Utah. He married Chief Lone Wolf's daughter of the Ogallala tribe, has six children whom he supports in comfort by hunting, being especially expert as a trapper of beaver and otter. Nelson is a representative of the best class of "Squaw Men."</p>
       </div>
 
-      <div class=" ">
+      <div class="">
 
          <div class="inline_figure">
             <div class="p">[illustration]</div>
@@ -1349,7 +1349,7 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="head">The Wild West <br/> Buffalo Bill &amp; Dr. Carver <br/> Rocky Mountain &amp; Prairie Exhibition</span>
@@ -1369,7 +1369,7 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
 
          <h3>Indian War Dance.</h3>
          <p>Mr. J. H. Connelly, a distinguished New York Journalist relates the following:</p>
@@ -1379,7 +1379,7 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
       </div>
 
 
-      <div class=" ">
+      <div class="">
 
 
          <h3>A Glimpse of Real Indian Life.</h3>
@@ -1389,7 +1389,7 @@ with these ancient enemies of their nation, the Pawnees had been led by a white 
       </div>
 
 
-      <div class=" ">
+      <div class="">
 
          <h3>Major Frank North.</h3>
          <p>Serving as a scout and leader of this Indian tribe, he held by authority the rank, pay, and emoluments of a major in the regular service. All the honor he had was fairly and hardly won. No political interest, or social influence, or personal "pull" at Washington obtained for him and enabled him to hold that position as War Chief of the Pawnee Nation. It had been got by hard and desperate fighting, by deeds of daring that commanded the admiration of the Indians, by feats of endurance that seemed to them almost superhuman, by skill and cunning in savage warfare that put to the blush their oldest and wiliest chiefs. Had one arisen superior to him in any of these characteristics, it is hardly probable that Major North's tawny warriors would have followed him after the advent of a leader great than he, for the untutored red man, stranger to the pretences of so-called civilization, acknowledges only the mastery of merit superior to his own. But Major North never found his greater on the trail, in the battle, or at the council fire.</p>
@@ -1397,7 +1397,7 @@ with these ancient enemies of their nation, the Pawnees had been led by a white 
       </div>
 
 
-      <div class=" ">
+      <div class="">
 
          <h3>A Wild and Fascinating Sight,</h3>
          <p>that was, which was presented to the excursionists on the occasion of their meeting Major North for the first time. The Indian encampment had been pitched on a sloping plain at the edge of the river Platte. At a little distance from the tepees, a great brush fire darted its lurid tongues of flame up into the black dome of night. Around the fire, in wildest contortions and gesticulations—expressive by a sort of rude but very vigorous pantomine of the incidents of combat with the Sioux—leaped, danced, stamped, crouched, writhed, and wielded
@@ -1406,7 +1406,7 @@ their weapons, two score Pawnee braves. Hoarse, gutteral exclamations burst from
       </div>
 
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Pean of a Glorious Deed.</h3>
          <p>They extemporised it as they went along, and a condensed, rough translation of it, ran:
@@ -1432,7 +1432,7 @@ their weapons, two score Pawnee braves. Hoarse, gutteral exclamations burst from
       </div>
 
 
-      <div class=" ">
+      <div class="">
 
          <h3>The Hero</h3>
          <p>of the event thus narrated, wandered meanwhile through the crowd of excursionists bashfully, taking much comfort to himself that not three other white men present understood the language in which his praises were being sung, and looked little like the desperate chief described—of medium height, a figure so admirably proportioned that it seemed even more slender than it was, with light brown hair and mild, pleasant blue eyes, evidently shy in meeting strangers, and meeting an address with an engaging smile and frank openness of expression. Major Frank North looked much more like an amiable gentleman seeking a field for the spiritualizing influence of moral pocket-handkerchiefs, than the fierce leader of savages, who followed a trail for twenty-six days into the enemy's country and tore the reeking scalp from every ultimately overtaken foe." But that's the sort of man he was, all the same, for the Pawnees said so, and they ought to know. What he looks like now, the public will see for themselves, as he will accompany the great troupe organized by his partner, Buffalo Bill, and Dr. W. F. Carver, and attend the nightly reproduction of this thrilling scene in the camp of "The Wild West."</p>
@@ -1447,7 +1447,7 @@ their weapons, two score Pawnee braves. Hoarse, gutteral exclamations burst from
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="head">Killing of Tall Bull By Buffalo Bill July 11th, 1869</span>
@@ -1466,43 +1466,43 @@ Calhoun Printing Co.</span>
          </a>
       </span>
 
-      <div class=" ">
-
-         <h4>WESTERN CYCLONE!</h4>
-         <h4>GRAND PARADE.</h4>
-         <span class="ab">Allegorical representation of the March: Progress of Civilization. Natural Parks the Playground! General
+      <div class="">
+         <div class="">
+            <h4>WESTERN CYCLONE!</h4>
+            <h4>GRAND PARADE.</h4>
+            <span class="ab">Allegorical representation of the March: Progress of Civilization. Natural Parks the Playground! General
 Equestrianism and Feats of Horsemanship! Indian Foot Races! Feats of Archery! Broncho
 Lassoing! Riding of Buck Ponies! Chase! Lassoing! Tying Down the Texas Bovine!
 Bareback Races and Trials of Speed between the Anglo-Saxon, Castilian, and
 Indian! The Historic Relic of the Overland Route! Indian
 Attack on Deadwood Stage Coach! Rescue by the
 Scouts! A mimic Border War!</span>
-
-
-         <div class="inline_figure">
-            <div class="p">[illustration]</div>
-            <p>Indian Buffalo Dance.</p>
          </div>
+         <div class="">
+            <div class="inline_figure">
+               <div class="p">[illustration]</div>
+               <p>Indian Buffalo Dance.</p>
+            </div>
+         </div>
+         <div class="">
+            <h4>BUFFALO BILL</h4>
+            <span class="ab">IN A SERIES OF FEATS OF AGILITY, GRACE AND SKILL.</span>
+         </div>
+         <div class="">
 
+            <h4>Dr. W. F. CARVER,</h4>
+            <h4>And CAPT. BOGARDUS.</h4>
 
-         <h4>BUFFALO BILL</h4>
-         <span class="ab">IN A SERIES OF FEATS OF AGILITY, GRACE AND SKILL.</span>
-
-
-
-         <h4>Dr. W. F. CARVER,</h4>
-         <h4>And CAPT. BOGARDUS.</h4>
-
-         <span class="ab">REVELATIONS IN CLAY PIGEON CONTESTS.</span>
-         <span class="ab">MEXICANS, COW-BOYS SIOUX and PAWNEES Struggling for Prize and Honor
+            <span class="ab">REVELATIONS IN CLAY PIGEON CONTESTS.</span>
+            <span class="ab">MEXICANS, COW-BOYS SIOUX and PAWNEES Struggling for Prize and Honor
 in Familiar Sports.</span>
-         <span class="ab">The GREAT BOGARDUS and his Shot-Gun.</span>
-         <span class="ab">Major FRANK NORTH, "White Chief of the	
+            <span class="ab">The GREAT BOGARDUS and his Shot-Gun.</span>
+            <span class="ab">Major FRANK NORTH, "White Chief of the	
 Pawnees," the Pilot of the Prairie, Protector of the Border.</span>
-         <span class="ab">JOHN NELSON, "Cha-sha-sha-na-po-ge-o,"	Hunter, Trapper, Whip, Interpreter.</span>
-         <span class="ab">BUCK TAYLOR, the Centaur Ranchman of the Plains.</span>
-         <span class="ab">JIM LAWSON, the modern Matador—Emperor of the rope.</span>
-
+            <span class="ab">JOHN NELSON, "Cha-sha-sha-na-po-ge-o,"	Hunter, Trapper, Whip, Interpreter.</span>
+            <span class="ab">BUCK TAYLOR, the Centaur Ranchman of the Plains.</span>
+            <span class="ab">JIM LAWSON, the modern Matador—Emperor of the rope.</span>
+         </div>
       </div>
 
       <span class="hr"> </span>
@@ -1515,7 +1515,7 @@ Pawnees," the Pilot of the Prairie, Protector of the Border.</span>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="note">#5105</div>
       </div>
 
@@ -1529,7 +1529,7 @@ Pawnees," the Pilot of the Prairie, Protector of the Border.</span>
          </a>
       </span>
 
-      <div class=" ">
+      <div class="">
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <span class="head">The Wild West.</span>
@@ -1542,4 +1542,3 @@ Pawnees," the Pilot of the Prairie, Protector of the Border.</span>
 
 
 </div>
-

@@ -14,22 +14,20 @@
       </a>
    </span>
 
-   <div class="letter ">
+   <div class="letter">
 
 
       <div class="note">Wild West Camp, Earl's Court, S. W.</div>
 
       <span class="dateline">
-May. <a rel="tooltip" class="sic" title="23rd​ ">23th</a>
-    ​ 92
+May. <a rel="tooltip" class="sic" title="23rd​ &#xA;    ">23th</a> 92
 </span>
 
       <span class="salute">My. Dear Cousins</span>
 
 
 
-      <p>This will introduce. Mrs. General Crook— A Lovely Lady. <a rel="tooltip" class="sic" title="Whom​ ">Whoom</a>
-    ​ I wish you to know.</p>
+      <p>This will introduce. Mrs. General Crook— A Lovely Lady. <a rel="tooltip" class="sic" title="Whom​ &#xA;    ">Whoom</a> I wish you to know.</p>
 
       <p>She will tell you all about your tough cousin.</p>
 
@@ -44,4 +42,3 @@ May. <a rel="tooltip" class="sic" title="23rd​ ">23th</a>
 
 
 </div>
-

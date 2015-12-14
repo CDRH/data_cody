@@ -4,7 +4,7 @@
 <div class="main_content">
 
 
-   <div class="letter ">
+   <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
          <a href="http://codyarchive.org/figures/large/wfc.css00510.jpg"
@@ -19,19 +19,21 @@
 
 
 
-      <span class="dateline">Dubuque Ia<a href="../doc/n01" class="internal_link">1</a>
+      <span class="dateline">Dubuque Ia<a href="#n01" class="internal_link">1</a>
          <br/>
 
 
-Sep- 28<a href="../doc/n02" class="internal_link">2</a>
+Sep- 28<a href="#n02" class="internal_link">2</a>
       </span>
 
 
-      <span class="salute">My Dear <span class="persName">George</span>
+      <span class="salute">My Dear <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
       </span>
 
 
-      <p>In reply to your letter about Millis &amp; Co<a href="../doc/n03" class="internal_link">3</a> and others from Red Lodge<a href="../doc/n04" class="internal_link">4</a>. I sent <span class="persName">Alger</span> on the 16<u>th</u> Sep- $5.000 asking him to pay all Red Lodge debts<a href="../doc/n04" class="internal_link">4</a>- since then I have telegraphed him three times and asked him to answer at my expense if he had paid them— Not a word can I get out of him. If our Co gets into trouble it will be Algers neglect— for he has never called on me for money and failed to get it—</p>
+      <p>In reply to your letter about Millis &amp; Co<a href="#n03" class="internal_link">3</a> and others from Red Lodge<a href="#n04" class="internal_link">4</a>. I sent <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> on the 16<u>th</u> Sep- $5.000 asking him to pay all Red Lodge debts<a href="#n04" class="internal_link">4</a>- since then I have telegraphed him three times and asked him to answer at my expense if he had paid them— Not a word can I get out of him. If our Co gets into trouble it will be Algers neglect— for he has never called on me for money and failed to get it—</p>
 
 
       <span class="closer">
@@ -53,4 +55,3 @@ Sep- 28<a href="../doc/n02" class="internal_link">2</a>
    <div class="note">Note 4: "Others from Red Lodge" (Montana) and "Red Lodge debts" refer to the suppliers and the money owed them by Shoshone Irrigation Company.</div>
 
 </div>
-

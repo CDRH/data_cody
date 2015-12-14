@@ -3,7 +3,7 @@
 
 <div class="main_content">
 
-   <div class="article ">
+   <div class="article">
 
 
 
@@ -374,4 +374,3 @@ name.</p>
 
 
 </div>
-
