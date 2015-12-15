@@ -77,10 +77,14 @@
    <div class="life_item" id="company.ct">
       <h3>Cody Trading Company</h3>
       <p>Cody Trading Company was established in 1898 through the financial backing of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Henry Montgomery Gerrans</span>, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey II</span>, and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>George Bleistein</span>, all businessmen from Buffalo, New York. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j"/>Jacob "Jake" M. Schwoob</span>, also from Buffalo, was hired to manage the general mercantile store. The building was leveled by fire in 1913; it was rebuilt in a different location the following year. Schwoob's successful management of the business kept Cody Trading Company a popular venue throughout the Big Horn Basin for those needing supplies. By 1920 Jacob M. Schwoob was sole-owner of the business and advertised "We Sell Everything." Cody Trading Company’s doors closed in 1963.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Henry Montgomery Gerrans</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey II</a>
+         </span>, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">George Bleistein</a>
+         </span>, all businessmen from Buffalo, New York. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j">Jacob "Jake" M. Schwoob</a>
+         </span>, also from Buffalo, was hired to manage the general mercantile store. The building was leveled by fire in 1913; it was rebuilt in a different location the following year. Schwoob's successful management of the business kept Cody Trading Company a popular venue throughout the Big Horn Basin for those needing supplies. By 1920 Jacob M. Schwoob was sole-owner of the business and advertised "We Sell Everything." Cody Trading Company’s doors closed in 1963.</p>
    </div>
    <div class="life_item" id="company.ll">
       <h3>Lincoln Land Company</h3>
@@ -94,7 +98,8 @@
    <div class="life_item" id="company.t">
       <h3>W. F. Cody Transportation Company</h3>
       <p>The W. F. Cody Transportation Co. was started in 1894 and operated in conjunction with Cody's Sheridan Inn, Sheridan, Wyoming. Both enterprises were managed by William F. Cody's friend <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/canfield.g"/>George Canfield</span>.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/canfield.g">George Canfield</a>
+         </span>.</p>
    </div>
    <div class="life_item" id="exhibition.am">
       <h3>American Exhibition</h3>
