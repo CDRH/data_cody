@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00592.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00592.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00592.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00592.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00592.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00592.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -23,7 +23,7 @@
 August 27th, 1913
 </span>
 Hon. Franklin K. Lane<a name="n01.ref"> </a>
-      <a href="#n01.note" class="ref">[1]</a>,
+      <a href="#n01.note" class="ref">1</a>,
 Antlers Hotel, City.
 
   
@@ -33,14 +33,14 @@ Antlers Hotel, City.
 
 
       <p>Mr. Bonfils<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>of the Denver Post, and Col. Cody, have requested me to ask you to forward to them, care of The Post at Denver, your decision in reference to their request to reproduce in moving pictures the events of the Wounded Knee Mission at Pine Ridge Agency, supplimenting Col. Cody's interview with you, he desires me to say that the Reunion between the Indians and their old time enemies will be as amiable as the recent reunion at Gettysburg, in which opposing factions once engaged in bitterest hatred were brought to gether in a spirit of fine friendliness. The Indians will not have to step off their reservation; they will be well cared for in every way by Col. Cody and the friends who are backing him in this his last history making venture, and everything will be done to insure the future generation a most worthy document of a great event, which has few of its distinguished participants left to tell the story.</p>
+         <a href="#n02.note" class="ref">2</a>of the Denver Post, and Col. Cody, have requested me to ask you to forward to them, care of The Post at Denver, your decision in reference to their request to reproduce in moving pictures the events of the Wounded Knee Mission at Pine Ridge Agency, supplimenting Col. Cody's interview with you, he desires me to say that the Reunion between the Indians and their old time enemies will be as amiable as the recent reunion at Gettysburg, in which opposing factions once engaged in bitterest hatred were brought to gether in a spirit of fine friendliness. The Indians will not have to step off their reservation; they will be well cared for in every way by Col. Cody and the friends who are backing him in this his last history making venture, and everything will be done to insure the future generation a most worthy document of a great event, which has few of its distinguished participants left to tell the story.</p>
       
       <span class="closer">
          <span class="salute">Thanking you for your unfailing courtesy,
       <br/>
       Very respectfully yours,</span>
          <br/>Francis Belford-Wayne <a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n03.note" class="ref">3</a>
          <span class="salute"> For Mr. Bonfils &amp; Col. Cody</span>
       </span>
    </div>

@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00455.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00455.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00455.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00455.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00455.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00455.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -26,7 +26,7 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
       <span class="dateline">Wilmington N. C.<br/>
 Oct 6<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -36,8 +36,8 @@ Oct 6<a name="n01.ref"> </a>
 
 
       <p>I have not heard if you approove of nameing the streets after the leading Generals<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> if you do I will send you my favorites they come in rotation as I write them. I leave it to you to put in and name the Southern Generals. I dont know how many streets you are going to have but here goes<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n02.note" class="ref">2</a> if you do I will send you my favorites they come in rotation as I write them. I leave it to you to put in and name the Southern Generals. I dont know how many streets you are going to have but here goes<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a>
       </p>
 
       <ul>
@@ -55,7 +55,7 @@ Oct 6<a name="n01.ref"> </a>
          <li>Crook</li>
          <li>Guss <u>an uncle of mine</u>
             <a name="n04.ref"> </a>
-            <a href="#n04.note" class="ref">[4]</a>
+            <a href="#n04.note" class="ref">4</a>
          </li>
          <li>Terry</li>
          <li>Royal</li>

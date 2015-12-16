@@ -9,10 +9,10 @@
       <div class="note">
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00382.001.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00382.001.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00382.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00382.001.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00382.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00382.001.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -42,22 +42,22 @@ Denver, Colorado </p>
 
 
       <span class="dateline">Denver Aug 25th<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">Dear John.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </span>
 
       <p>
          <a rel="tooltip" class="sic" title="I'll​ &#xA;    ">Ill</a> know day after tomorrow if the moving picture deal goes through as I am on the Committee to entertain <del>g</del> Mr. Lane, the Secretary of the Interior. All we want now is his permission for us to go on the Pine Ridge Agency to take the historical pictures.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> While there we will take the Custer Battle, Summits Springs. Yellow Hand fight and dual &amp;c &amp;c.<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> If we do it. You sell your chicks &amp; come to Denver— and go with me— I will have Baker, Compton Carlo &amp; a lot of the old trustys—<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>
+         <a href="#n03.note" class="ref">3</a> While there we will take the Custer Battle, Summits Springs. Yellow Hand fight and dual &amp;c &amp;c.<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a> If we do it. You sell your chicks &amp; come to Denver— and go with me— I will have Baker, Compton Carlo &amp; a lot of the old trustys—<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a>
       </p>
 
       <p>I will run on to Kansas City &amp; Canada first to try &amp; sell the mines.<a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a> Address. Denver Post. </p>
+         <a href="#n06.note" class="ref">6</a> Address. Denver Post. </p>
       <span class="closer">
          <span class="salute">Love</span>
 

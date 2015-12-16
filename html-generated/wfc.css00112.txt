@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00112.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00112.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00112.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00112.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00112.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00112.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -19,7 +19,7 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Olney- Ill<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
 Sep— 24th 1901
 </span>
 
@@ -27,7 +27,7 @@ Sep— 24th 1901
 
 
       <p>Your favor of Sep 20th received-—Just a couple of days ago I had written you on the same subject— As per your letter you will be in St Louis next Sunday 29th — And I will be in Bellville Ill. about fourteen miles from St Louis— Torlly<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> cars connection I wish you would run over to Belleville either Sunday or Monday— I have several things I want to see you on—</p>
+         <a href="#n02.note" class="ref">2</a> cars connection I wish you would run over to Belleville either Sunday or Monday— I have several things I want to see you on—</p>
 
       <p>Please let me know if I may expect you— I will be in my private car near the depot— Sunday— I may not reach Belleville till near noon Sunday as its a long run—</p>
 
@@ -38,10 +38,10 @@ Sep— 24th 1901
 </span>
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00112.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00112.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00112.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00112.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00112.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00112.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -52,7 +52,7 @@ Sep— 24th 1901
       <p>PS</p>
 
       <p>I have changed my running time And will arrive in Belleville Early Monday morning—come &amp; see me Monday come direct to show ground<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n03.note" class="ref">3</a>
       </p>
       <span class="closer">
          <br/>Cody
@@ -64,10 +64,10 @@ Sep— 24th 1901
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00112.003.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00112.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00112.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00112.003.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00112.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00112.003.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -85,7 +85,7 @@ Sep— 24th 1901
 
 C. L. Hinkle
  c/-Dr- Horner-E. Bailey<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>
+         <a href="#n04.note" class="ref">4</a>
 404. Century- Bldg
 9th &amp; Olive.
  St Louis

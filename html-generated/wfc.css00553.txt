@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00553.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00553.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00553.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00553.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00553.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00553.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,7 +20,7 @@
 
 
       <span class="dateline">Gladback<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 Sep. 8th / 06</span>
@@ -32,12 +32,12 @@ Sep. 8th / 06</span>
 
  
       <p>Your letter came to day And as Geo. B. Harris<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> is so anxious to know what the people of Cody &amp; my self are doing about the high line canal— I took the liberty of sending him your letter.</p>
+         <a href="#n02.note" class="ref">2</a> is so anxious to know what the people of Cody &amp; my self are doing about the high line canal— I took the liberty of sending him your letter.</p>
 
       <p>Well George— <a rel="tooltip" class="sic" title="Yesterday​ &#xA;    ">Yestarday</a> Mr Geo. O. Starr<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> Presedent of the Barnum &amp; Bailey Ltd. Co. came over from America to see me— About showing in America. And I signed the best show contract for Little Willie<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> that he has ever had— And the first good one I have ever had. Mr Starr left soon as the contract was signed for America to commence building an entire new outfit for me— 60 new cars— &amp;c. I got L<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a> in Hungary &amp; Poland but have <a rel="tooltip" class="sic" title="pulled​ &#xA;    ">puled</a> out in Germany.</p>
+         <a href="#n03.note" class="ref">3</a> Presedent of the Barnum &amp; Bailey Ltd. Co. came over from America to see me— About showing in America. And I signed the best show contract for Little Willie<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a> that he has ever had— And the first good one I have ever had. Mr Starr left soon as the contract was signed for America to commence building an entire new outfit for me— 60 new cars— &amp;c. I got L<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a> in Hungary &amp; Poland but have <a rel="tooltip" class="sic" title="pulled​ &#xA;    ">puled</a> out in Germany.</p>
 
       <p>
          <a rel="tooltip" class="sic" title="I'll​ &#xA;    ">Ill</a> tell you all about it in the Rockies when we make our ten days hunt</p>
@@ -45,7 +45,7 @@ Sep. 8th / 06</span>
 
       <span class="closer">
          <span class="salute">Love to family. Kiss Betty<a name="n06.ref"> </a>
-            <a href="#n06.note" class="ref">[6]</a> for me</span>
+            <a href="#n06.note" class="ref">6</a> for me</span>
 
 
          <br/>Col</span>

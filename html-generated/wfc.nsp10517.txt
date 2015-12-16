@@ -12,7 +12,7 @@
       <div class="milestone line"> </div>
 
       <div class="note">We are permitted to publish the following from a letter from the Hon. Wm. F. Cody, alias Buffalo Bill, to a friend at Fort Reno, I.T.:<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </div>
 
       <span class="dateline">GRAND HOTEL ALFRED HAUSER,<br/>
@@ -21,7 +21,7 @@ NAPLES, Feb. 8, 1890.</span>
       <span class="salute">My Dear Friend,</span>
 
       <p>Pardon my neglect in not answering your most welcome letter sooner. I was delighted to hear that promotion had carried you to the gallant Fifth Cavalry, my beau ideal of a cavalry regiment and of which I will always entertain the happiest recollections. How I would have enjoyed your fall maneuvers, with yourself, Captain Hayes<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> and others of ye olden times.</p>
+         <a href="#n02.note" class="ref">2</a> and others of ye olden times.</p>
 
       <p>When I finish up this scout of mine around the world, with my own command I am coming to visit the Fifth cavalry, and the pleasure of living old times over again with old friends of the regiment is one of my happiest anticipations.</p>
 

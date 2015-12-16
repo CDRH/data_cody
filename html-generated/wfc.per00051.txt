@@ -77,7 +77,7 @@
 
       <span class="closer">
          <br/>DUNRAVEN.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
   
       <div class="note">¹ The Americans have retained the original meaning of the word 'bug,' and apply it to various insects: for instance, a daddy-long-legs, fire-fly, or lady-bird would be called a straddle bug, a lightning bug, or a lady bug. The peculiar reptile which has monopolized the term among us is distinguished in the States by prefixing the name of that article of furniture in which he loves to lurk, and where his presence murders sweet repose.</div>

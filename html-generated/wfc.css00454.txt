@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00454.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00454.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00454.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00454.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00454.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00454.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -26,7 +26,7 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
       <span class="dateline">Richmond. Va<br/>
 Oct 4th<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -35,7 +35,7 @@ Oct 4th<a name="n01.ref"> </a>
 
 
       <p>I have not been able to write a letter to any one. Since I got near N. Y. then came Baltimore &amp; Washington<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>. And to day we did not get here until 11 am— had to make parade &amp; just finished first show. I recd your letters— I have just wired <span class="persName">
+         <a href="#n02.note" class="ref">2</a>. And to day we did not get here until 11 am— had to make parade &amp; just finished first show. I recd your letters— I have just wired <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
          </span> &amp; <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
@@ -43,10 +43,10 @@ Oct 4th<a name="n01.ref"> </a>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00454.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00454.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00454.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00454.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00454.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00454.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -61,10 +61,10 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 written to the contrary. if it <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> be 20 feet on the bottom call me out I will quit. hope you are looking out for lumber for headgate. How do you like Mr. <u>Foote</u>
          <a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>? I seen Hoke Smith<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>. Also Senator Warren<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>— And told them that if they <a rel="tooltip" class="sic" title="believed​ &#xA;    ">beleived</a> him<a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a> And did not want the ditches built for my part I would quit.</p>
+         <a href="#n03.note" class="ref">3</a>? I seen Hoke Smith<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a>. Also Senator Warren<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a>— And told them that if they <a rel="tooltip" class="sic" title="believed​ &#xA;    ">beleived</a> him<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">6</a> And did not want the ditches built for my part I would quit.</p>
 
       <p>Well I will write you Sunday. Must go &amp; give a show— There is twenty people waiting to see me—</p>
 

@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00488.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00488.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00488.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00488.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00488.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00488.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -22,7 +22,7 @@
          </div>F. E. Van Devort,<br/>E. H. Bunstine.<br/>Hotel Beckel,<br/>Under New Management.<br/>Dayton, Ohio.</div>
 
       <span class="dateline">July 5th 1896<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
 
@@ -33,15 +33,15 @@
 
 
       <p>The contracts for Sweeney.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> Berch.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> Snyder.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> 
+         <a href="#n02.note" class="ref">2</a> Berch.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">2</a> Snyder.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> 
          <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/baker.l">Baker</a>
          </span>
          <a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> &amp; Polhamus<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> arrived and it will be attended <a rel="tooltip" class="sic" title="tomorrow​ &#xA;    ">to morrow</a> Monday. would be done to day but <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> Sunday. You say to Send the $640 to <span class="persName">
+         <a href="#n03.note" class="ref">3</a> &amp; Polhamus<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a> arrived and it will be attended <a rel="tooltip" class="sic" title="tomorrow​ &#xA;    ">to morrow</a> Monday. would be done to day but <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> Sunday. You say to Send the $640 to <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
          </span>. I may not be doing right. And if so correct me— These parties want <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/goodman.e">E. R. Goodman</a>
@@ -49,10 +49,10 @@
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00488.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00488.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00488.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00488.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00488.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00488.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -66,8 +66,8 @@ the reason to him. And <a rel="tooltip" class="sic" title="don't​ &#xA;    ">d
          <br/>W. F. Cody</span>
 
       <p>PS. How I would like some photographs of things out there. Irma.<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a> Shoshone<a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a> &amp;c—</p>
+         <a href="#n05.note" class="ref">5</a> Shoshone<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">6</a> &amp;c—</p>
 
       <span class="closer">
          <br/>Col</span>

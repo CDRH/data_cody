@@ -10,10 +10,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00196.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00196.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00196.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00196.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00196.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00196.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -24,20 +24,20 @@
 
       <span class="dateline">Danville. Ills
 Aug 20th<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My. Dear Hinkle</span>
 
 
       <p>I was very glad to hear from you. And I have given your regards to Baker &amp; Sweeney.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> We are all well- and busy. We <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> lost but one performance this season. While the Barnum Circus have lost eleven.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> This show has beaten all big shows on receipts this so far. And we propose to do so for the rest of the season. </p>
+         <a href="#n02.note" class="ref">2</a> We are all well- and busy. We <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> lost but one performance this season. While the Barnum Circus have lost eleven.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> This show has beaten all big shows on receipts this so far. And we propose to do so for the rest of the season. </p>
 
       <p>I will hope to see you some time this winter.</p>
 
       <p>Please remember me to the Governor and the rest-<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>
+         <a href="#n04.note" class="ref">4</a>
       </p>
 
       <span class="closer">
@@ -51,10 +51,10 @@ Aug 20th<a name="n01.ref"> </a>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00196.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00196.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00196.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00196.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00196.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00196.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>

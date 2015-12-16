@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp11434.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp11434.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11434.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11434.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11434.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp11434.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -28,7 +28,7 @@
       <p>During the week a rumour has been freely circulated that the "Wild West," which is now situated on the Manchester Racecourse, was not going to carry out its previously arranged programme of visiting Paris, Brussels, and other Continental towns. In response to this rumour, a representative of "The Umpire" waited on <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">Jno. M. Burke</a>
          </span> the general manager of the Show, who was in company at the time with Mr. Richard Mansell,<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> of the Queen's Theatre, one of the local managers, and our reporter asked respecting the truth of the rumor.</p>
+         <a href="#n01.note" class="ref">1</a> of the Queen's Theatre, one of the local managers, and our reporter asked respecting the truth of the rumor.</p>
 
       <p>"Is it not true," said our representative, "that you have had invitations from various large towns to visit them?"</p>
 

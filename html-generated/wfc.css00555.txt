@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00555.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00555.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00555.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00555.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00555.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00555.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -19,7 +19,7 @@
 
 
       <span class="dateline">May. 11th / 09<a name=".ref"> </a>
-         <a href="#.note" class="ref">[1]</a>
+         <a href="#.note" class="ref">1</a>
       </span>
 
 
@@ -29,10 +29,10 @@
 
 
       <p>Thanks for your letter. I will see Mr Murphy<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> week after next. he lives in Philadelphia. I am in touch with lots of <a rel="tooltip" class="sic" title="financial​ &#xA;    ">finalcial</a> men now. But did not mention Oil to them, only Gold. Silver &amp; Copper But It may be an oil deal would strike them favorably. What about the Painter Copper<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> property? I wish you would find out for sure if I am the 9th man<a name=".ref"> </a>
-         <a href="#.note" class="ref">[4]</a>. Tom Foley<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a> is so forgetful.</p>
+         <a href="#n02.note" class="ref">2</a> week after next. he lives in Philadelphia. I am in touch with lots of <a rel="tooltip" class="sic" title="financial​ &#xA;    ">finalcial</a> men now. But did not mention Oil to them, only Gold. Silver &amp; Copper But It may be an oil deal would strike them favorably. What about the Painter Copper<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> property? I wish you would find out for sure if I am the 9th man<a name=".ref"> </a>
+         <a href="#.note" class="ref">4</a>. Tom Foley<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a> is so forgetful.</p>
 
       <p>Write me fully what to say to Mr Murphy.</p>
 
@@ -50,7 +50,7 @@
          <li>
             <strong>Route</strong>
             <a name="n06.ref"> </a>
-            <a href="#n06.note" class="ref">[6]</a>
+            <a href="#n06.note" class="ref">6</a>
          </li>
          <li>Brooklyn N. Y. May 17th to 22d</li>
          <li>Philadelphia.  23 " 29</li>

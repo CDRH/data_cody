@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.rpt00006.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.rpt00006.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.rpt00006.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.rpt00006.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.rpt00006.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.rpt00006.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -84,10 +84,10 @@ Total</div>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.rpt00006.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.rpt00006.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.rpt00006.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.rpt00006.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.rpt00006.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.rpt00006.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -126,10 +126,10 @@ President.</span>
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.rpt00006.003.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.rpt00006.003.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.rpt00006.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.rpt00006.003.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.rpt00006.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.rpt00006.003.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -165,10 +165,10 @@ Notary Public.</span>
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.rpt00006.004.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.rpt00006.004.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.rpt00006.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.rpt00006.004.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.rpt00006.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.rpt00006.004.jpg"
               class="display &#xA;            "/>
       </a>
    </span>

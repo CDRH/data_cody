@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.bsn00086.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.bsn00086.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bsn00086.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.bsn00086.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00086.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.bsn00086.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>

@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00103.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00103.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00103.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00103.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00103.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00103.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,7 +20,7 @@
 
       <span class="dateline">Owensborro-Ky
 May <del>9</del>10th<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My. Dear <span class="persName">
@@ -28,8 +28,8 @@ May <del>9</del>10th<a name="n01.ref"> </a>
          </span>Elwell</span>
 
       <p>Why dont you write? Say I wish I had told you to measure the number of acres under cultivation at TE &amp; Carter—<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> if you have time. before survey commences May 20th  do it— how much new land each place got plowed this spring— I wrote Martin for either you or he go with Mrs Thompson &amp; photograph— Rock Creek ranch— up under the rim rock<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n02.note" class="ref">2</a> if you have time. before survey commences May 20th  do it— how much new land each place got plowed this spring— I wrote Martin for either you or he go with Mrs Thompson &amp; photograph— Rock Creek ranch— up under the rim rock<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a>
       </p>
 
       <p>I havent heard from either you or Martin for weeks</p>
@@ -43,10 +43,10 @@ May <del>9</del>10th<a name="n01.ref"> </a>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00103.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00103.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00103.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00103.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00103.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00103.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -67,7 +67,7 @@ May <del>9</del>10th<a name="n01.ref"> </a>
 R. Farrington. Elwell
 c/- J. H. Martin
 <del>Cody</del>Ishawooa TE<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>
+         <a href="#n04.note" class="ref">4</a>
 Big Horn Co
 Wyo
 

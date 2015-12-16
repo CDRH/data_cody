@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp11534.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp11534.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11534.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11534.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11534.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp11534.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -32,7 +32,7 @@
       </span>
 
       <p>These lines have not been struck off by a local poet to celebrate Buffalo Bill's visit to the Potteries; they are part of a poem, entitled "My Ride for Life," written by Jouquin Miller,<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> a poet of the Sierra Nevadas, in illustration of a thrilling episode in the life of General Cody. They are quoted here because in them the poet sings of the sociability and hospitality of the Western people, a distinguishable feature in General Cody and his staff, and they have about them the freshness and the breezy freedom (both in metre and sentiment) of the prairie itself, a marked characteristic of everything attached to the Wild West. One of our representatives had a stroll through the camp yesterday and picked up several interesting items about some of the performers. Of Buffalo Bill himself we shall attempt to say nothing here. He is so well known as to make it quite unnecessary, and has been interviewed so often that the process must have by this become monotonous even to an American, although it was his own country which gave birth to the system.</p>
+         <a href="#n01.note" class="ref">1</a> a poet of the Sierra Nevadas, in illustration of a thrilling episode in the life of General Cody. They are quoted here because in them the poet sings of the sociability and hospitality of the Western people, a distinguishable feature in General Cody and his staff, and they have about them the freshness and the breezy freedom (both in metre and sentiment) of the prairie itself, a marked characteristic of everything attached to the Wild West. One of our representatives had a stroll through the camp yesterday and picked up several interesting items about some of the performers. Of Buffalo Bill himself we shall attempt to say nothing here. He is so well known as to make it quite unnecessary, and has been interviewed so often that the process must have by this become monotonous even to an American, although it was his own country which gave birth to the system.</p>
 
       <p>
          <span class="persName">
@@ -54,10 +54,10 @@
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.nsp11534.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.nsp11534.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11534.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11534.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11534.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.nsp11534.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>

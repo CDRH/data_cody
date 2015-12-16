@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00523.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00523.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00523.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00523.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00523.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00523.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -21,7 +21,7 @@
       <span class="dateline">Erie. Pa<br/>
 
 July 9th 98<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -29,17 +29,17 @@ July 9th 98<a name="n01.ref"> </a>
          </span>
       </span>
       <a name="n02.ref"> </a>
-      <a href="#n02.note" class="ref">[2]</a>
+      <a href="#n02.note" class="ref">2</a>
 
       <p>Yours recd— I am just as anxious as you are for the mill— Why the people will run us out of the Country if <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> not built. Try Every body Forbes<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>— De Mairs<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> — Russell<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>— Webster<a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a> the Mormon Carpenter<a name="n07.ref"> </a>
-         <a href="#n07.note" class="ref">[7]</a>. <span class="persName">
+         <a href="#n03.note" class="ref">3</a>— De Mairs<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a> — Russell<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a>— Webster<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">6</a> the Mormon Carpenter<a name="n07.ref"> </a>
+         <a href="#n07.note" class="ref">7</a>. <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/darrah.h">Darrah</a>
          </span>. Tom Percell<a name="n08.ref"> </a>
-         <a href="#n08.note" class="ref">[8]</a> to take stock— we must build the mill and there is not a day to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a>. You can count on Me for $2000. Now George jump to it. And <a rel="tooltip" class="sic" title="let's​ &#xA;    ">lets</a> get the work started. Wire me Soon as possible what can be done—</p>
+         <a href="#n08.note" class="ref">8</a> to take stock— we must build the mill and there is not a day to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a>. You can count on Me for $2000. Now George jump to it. And <a rel="tooltip" class="sic" title="let's​ &#xA;    ">lets</a> get the work started. Wire me Soon as possible what can be done—</p>
 
       <span class="closer">
          <span class="salute">Yours truly</span>
@@ -47,7 +47,7 @@ July 9th 98<a name="n01.ref"> </a>
          <br/>W. F. Cody</span>
 
       <p>I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> Newton<a name="n09.ref"> </a>
-         <a href="#n09.note" class="ref">[9]</a> will take $500 or a $1000 worth of stock. If work is commenced. <u>rush</u> 
+         <a href="#n09.note" class="ref">9</a> will take $500 or a $1000 worth of stock. If work is commenced. <u>rush</u> 
          <u>it</u>.</p>
 
 

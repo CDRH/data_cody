@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.nsp00739.001.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.nsp00739.001.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp00739.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp00739.001.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00739.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.nsp00739.001.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -36,7 +36,7 @@
          <p>Since Columbus sailed for the wild West in search of the New World beyond the water, no such voyage as this is recorded in history.</p>
 
          <p>London held its breath when it was announced that they had sailed, and never breathed freely again until it was flashed over the wires that the good ship State of Nebraska<a name="n01.ref"> </a>
-            <a href="#n01.note" class="ref">[1]</a> was sighted off the Lizard and had signaled "Report us all well."</p>
+            <a href="#n01.note" class="ref">1</a> was sighted off the Lizard and had signaled "Report us all well."</p>
       </div>
 
       <div class="">
@@ -50,15 +50,15 @@
          <p>Because, to have let it be generally known when and where they were to arrive would have been to gather from the 5,000,000 of inhabitants of London a mob of excited and curious people that would have been beyond control. That Buffalo Bill's entry into London was a quiet one is solely due to the fact that to have given him any reception of a public character would have involved such a risk to be present that it would have made it a matter presenting too serious difficulties for it to be considered for a moment. When, therefore, it was telegraphed that the State of Nebraska was due at Gravesend at 3 o'clock, about a score of gentlemen connected with the American Exhibition were marshaled by the Director General, <span class="persName">
                <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. John R. Whitley</a>
             </span>,<a name="n02.ref"> </a>
-            <a href="#n02.note" class="ref">[2]</a> to Victoria station, where they were put on board a special tug, and in an hour arrived at Gravesend. Here a steam tug was in waiting at the pier, and the steamship had just come to anchor in the stream.</p>
+            <a href="#n02.note" class="ref">2</a> to Victoria station, where they were put on board a special tug, and in an hour arrived at Gravesend. Here a steam tug was in waiting at the pier, and the steamship had just come to anchor in the stream.</p>
       </div>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp00739.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp00739.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp00739.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp00739.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00739.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp00739.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -75,10 +75,10 @@
             <div class="center">Royal Pastimes.</div>
          </h4>
          <p>The Easter holidays are over, and the weather is fine and warm. This is to say that Mayfair is full, Hyde Park is fuller, and Piccadilly is fullest. From now on for the next four months the season, and the season in jubilee year is going to make London the gayest, brightest, and most charming place on top of the globe. Apropos of this <em class="hi">Society</em> remarks: "It is now the third week in April, and as yet there is no prominent candidate for the much-coveted post of chief back-scratcher to the Prince.<a name="n03.ref"> </a>
-            <a href="#n03.note" class="ref">[3]</a> Mrs. Mackay<a name=".ref"> </a>
-            <a href="#.note" class="ref">[4]</a> has made no sign--neither for the matter of that has the Prince. Mrs. Brown-Potter<a name="n05.ref"> </a>
-            <a href="#n05.note" class="ref">[5]</a> has come, and seen, and comported herself, as our 'Powder Puff' truly said last week, in a manner which may be put down as a conquest or not, as you may please to read Man and Wife. Miss Adele Grant<a name=".ref"> </a>
-            <a href="#.note" class="ref">[6]</a> is not with us yet, and, in the absence of any new Yankee 'notion,' and with the failure to come to the 'scratch' of last year's play-things, it seems probable that unless Buffalo Bill has a likely squaw in his following, Americanism as a royal pastime is at an end."</p>
+            <a href="#n03.note" class="ref">3</a> Mrs. Mackay<a name=".ref"> </a>
+            <a href="#.note" class="ref">4</a> has made no sign--neither for the matter of that has the Prince. Mrs. Brown-Potter<a name="n05.ref"> </a>
+            <a href="#n05.note" class="ref">5</a> has come, and seen, and comported herself, as our 'Powder Puff' truly said last week, in a manner which may be put down as a conquest or not, as you may please to read Man and Wife. Miss Adele Grant<a name=".ref"> </a>
+            <a href="#.note" class="ref">6</a> is not with us yet, and, in the absence of any new Yankee 'notion,' and with the failure to come to the 'scratch' of last year's play-things, it seems probable that unless Buffalo Bill has a likely squaw in his following, Americanism as a royal pastime is at an end."</p>
          <span class="gap sampling">[sampling]</span>
       </div>
 

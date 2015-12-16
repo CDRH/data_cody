@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00529.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00529.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00529.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00529.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00529.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00529.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -19,7 +19,7 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">New Albany Ind<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 Oct 9th 98</span>
@@ -29,20 +29,20 @@ Oct 9th 98</span>
             <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Bick</a>
          </span>.</span>
       <a name="n02.ref"> </a>
-      <a href="#n02.note" class="ref">[2]</a>
+      <a href="#n02.note" class="ref">2</a>
 
 
       <p>As the time grows near for My going to the Basin— I feel like letting you know that I hope we may meet as friends. I admit that at times I have felt hurt at the annoyances of our troubles there. But I know that you have had a hard time to do with nothing As our stock holders have fallen down entirely. And you and I have had to stand the brunt. And I expect we will still have to do it. As <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
          </span> writes me that the Buffalo parties<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> wish to sell out I am perfectly willing that they should. I <a rel="tooltip" class="sic" title="do not​ &#xA;    ">donot</a> know how you have
+         <a href="#n03.note" class="ref">3</a> wish to sell out I am perfectly willing that they should. I <a rel="tooltip" class="sic" title="do not​ &#xA;    ">donot</a> know how you have
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00529.001.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00529.001.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00529.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00529.001.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00529.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00529.001.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -52,9 +52,9 @@ Oct 9th 98</span>
 fixed it with the saw mill men and Darrow— And would like to know if I could before I come out.</p>
 
       <p>I will be at North Platte<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> the 19th to 24<u>th</u>
+         <a href="#n04.note" class="ref">4</a> the 19th to 24<u>th</u>
          <a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>
+         <a href="#n05.note" class="ref">5</a>
       </p>
 
 
@@ -72,7 +72,7 @@ I hope we can have a nice time this winter if we <a rel="tooltip" class="sic" ti
             <a href="http://rosie.unl.edu/cody_archive/doc/miles.n">General Miles</a>
          </span>
          <a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a> will be out with me if he can get away—</p>
+         <a href="#n06.note" class="ref">6</a> will be out with me if he can get away—</p>
 
       <span class="closer">
          <br/>Bill</span>

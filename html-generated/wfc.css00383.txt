@@ -7,16 +7,16 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00383.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00383.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00383.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00383.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00383.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00383.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
 
       <div class="note">Klopp &amp; Bartlett Co. Omaha<br/>The Henshaw Hotel<br/>Absolutely Fireproof<br/>European Plan<br/>T. J. O' Brien, Proprietor. Omaha, Neb.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>LAMH UACHTAR LAIDIRAN</p>
@@ -33,7 +33,7 @@
 
 
       <p>Show notices to John Brisbin Walker. Dutton Fred Hutch and others.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </p>
 
       <span class="closer">

@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00531.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00531.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00531.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00531.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00531.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00531.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -19,7 +19,7 @@
 
 
       <span class="dateline">Linchburg Va<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 
@@ -33,7 +33,7 @@ Apr- 23d 99</span>
 
 
       <p>Yours 15<u>th</u> I do hope you will push the work and get the water down. You should have commenced sooner. I told you I would send the 1000- did I ever fail yet. When we get a rail road which will be in side of three years— and our town numbers thousands and land worth $100 an acre— then I wont have such hard work getting my colleagues to put up— The B.M.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> will build to us sure—</p>
+         <a href="#n02.note" class="ref">2</a> will build to us sure—</p>
 
       <p>Our settlers should plant every acre possible. They will get their own prices next winter. Now is the time to farm before the rail road gets there—</p>
 

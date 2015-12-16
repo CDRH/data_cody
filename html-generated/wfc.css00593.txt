@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00593.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00593.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00593.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00593.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00593.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00593.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -21,7 +21,7 @@
 A138D HS 71 GOVT
 CA WASHINGTON D C AUG 27 1913
  HON FRANKLIN K LANE<a name="n01.ref"> </a>
-      <a href="#n01.note" class="ref">[1]</a> SECY INTERIOR
+      <a href="#n01.note" class="ref">1</a> SECY INTERIOR
   COLOSP S COLO
 
 
@@ -29,12 +29,12 @@ CA WASHINGTON D C AUG 27 1913
 
 
   <p>No objection here to having moving pictures made at Pineridge in accordance with your telegram twenty sixth  if taken on reservation with understanding that such action will not interfere with industrial or educational pursuits of training suggest pictures be taken under supervision Supt Brennan<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> unless for some special reason it is desirable that Major Mclaughlin<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> or some other official supervise them.</p>
+         <a href="#n02.note" class="ref">2</a> unless for some special reason it is desirable that Major Mclaughlin<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> or some other official supervise them.</p>
       
       <span class="closer">
          <br/>Sells<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> commr
+         <a href="#n04.note" class="ref">4</a> commr
   <br/>
   3~32pm
 </span>

@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00435.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00435.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00435.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00435.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00435.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00435.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -41,7 +41,7 @@
 
 
       <span class="dateline">Pottsville. Pa. May 5 1895<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -49,7 +49,7 @@
          </span>—</span>
 
       <p>Your wire <a rel="tooltip" class="sic" title="received​ &#xA;    ">recd.</a> was surprised to know that you are still waiting on Paxton. Say old fellow are we going to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a> all this summer and get nothing done. If Mr Paxton had not told me he would go I would have made different arrangements— Now George will you write and let me know if the Paxton outfit is going to do anything. If not I would like to know it. We would never got our <a rel="tooltip" class="sic" title="concession​ &#xA;    ">consession</a> if I had not pushed it.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> And now I am going on with it if I go it alone— So take a <a rel="tooltip" class="sic" title="moment's​ &#xA;    ">moments</a> time &amp; write me— </p>
+         <a href="#n02.note" class="ref">2</a> And now I am going on with it if I go it alone— So take a <a rel="tooltip" class="sic" title="moment's​ &#xA;    ">moments</a> time &amp; write me— </p>
 
       <span class="closer">
          <span class="salute">Awfully busy</span>

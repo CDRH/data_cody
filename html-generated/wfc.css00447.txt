@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00447.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00447.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00447.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00447.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00447.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00447.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -29,7 +29,7 @@ John M. Burke. General Manager.<br/>Jule Keen, Treasurer.</div>
 
 
       <span class="dateline">Sep. 10th<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -38,9 +38,9 @@ John M. Burke. General Manager.<br/>Jule Keen, Treasurer.</div>
 
 
       <p>Wreck last week<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> cold rain this week. Say George— be careful about <del>see</del> 
+         <a href="#n02.note" class="ref">2</a> cold rain this week. Say George— be careful about <del>see</del> 
          <a rel="tooltip" class="sic" title="taking​ &#xA;    ">takeing</a> Nagle<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> &amp; settlers property or we will get into an everlasting law suit. And the cry will go out that we get settlers out there and then take their all away from them— should such a report get out we are ruined</p>
+         <a href="#n03.note" class="ref">3</a> &amp; settlers property or we will get into an everlasting law suit. And the cry will go out that we get settlers out there and then take their all away from them— should such a report get out we are ruined</p>
 
       <p>Let me know the conditions No statements yet guess <a rel="tooltip" class="sic" title="typewriter​ &#xA;    ">type writter</a> got to much to do—</p>
 

@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00602.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00602.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00602.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00602.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00602.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00602.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -27,7 +27,7 @@
   DEPARTMENT OF THE INTERIOR
   <span class="dateline">January 27th —16</span>
   E. J. Ayers<a name="n01.ref"> </a>
-      <a href="#n01.note" class="ref">[1]</a>, Chief Clerk
+      <a href="#n01.note" class="ref">1</a>, Chief Clerk
   Department of the Interior
   Washington
   D. C.
@@ -38,8 +38,8 @@
 
 
       <p>In reply to your favor of Jan 14th 1916 — Will say The reason <del>the</del> of the long delay for the delivery of the Indian War Pictures was that I was in the west. But in December last I took the Reels my self to Washington. I called at Secretary Lanes<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> office. But failing to find him I called on Secretary Garrison<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>. And left the Reels or Films with his Secretary who promised to notify Secretary Lane that he had a set of the Reels or films for his department. If you will kindly communicate <del>with</del> with the Secretary to Secretary Garrison, I think you will find everything allright.</p>
+         <a href="#n02.note" class="ref">2</a> office. But failing to find him I called on Secretary Garrison<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a>. And left the Reels or Films with his Secretary who promised to notify Secretary Lane that he had a set of the Reels or films for his department. If you will kindly communicate <del>with</del> with the Secretary to Secretary Garrison, I think you will find everything allright.</p>
       
       <span class="closer">
          <span class="salute">Very truly yours</span>

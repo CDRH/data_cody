@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp11525.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp11525.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11525.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11525.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11525.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp11525.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -55,7 +55,7 @@ ON EVERYDAY TEXTS.</h3>
 
          <span class="lg">
             <span class="l">"What d'ye think of Mayor Cooke?<a name="n01.ref"> </a>
-               <a href="#n01.note" class="ref">[1]</a>
+               <a href="#n01.note" class="ref">1</a>
             </span>
             <span class="l">Tell me, Kicking Bear, and look,</span>
             <span class="l indent">You make no digression."</span>
@@ -70,7 +70,7 @@ ON EVERYDAY TEXTS.</h3>
             <span class="l">Don't evade on false pretext.</span>
             <span class="l indent">What think you of Spark, now?"</span>
             <span class="l">"Doctor Sparkee,<a name="n02.ref"> </a>
-               <a href="#n02.note" class="ref">[2]</a> makee noise,</span>
+               <a href="#n02.note" class="ref">2</a> makee noise,</span>
             <span class="l">Please the little girls and boys,</span>
             <span class="l">In Far West he'd givee joys,</span>
             <span class="l indent">But you keep it dark now."</span>
@@ -90,7 +90,7 @@ ON EVERYDAY TEXTS.</h3>
             <span class="l">"Once again, then, Short Bull, say,</span>
             <span class="l">What think you of our Sir J.—</span>
             <span class="l indent">That is, Sir James Kitson?"<a name="n03.ref"> </a>
-               <a href="#n03.note" class="ref">[3]</a>
+               <a href="#n03.note" class="ref">3</a>
             </span>
             <span class="l">"Man of iron, very strong, </span>
             <span class="l">Fightee bravely, right or wrong,</span>
@@ -110,7 +110,7 @@ ON EVERYDAY TEXTS.</h3>
 
          <span class="lg">
             <span class="l">"Roundhay Park<a name="n04.ref"> </a>
-               <a href="#n04.note" class="ref">[4]</a> you've seen, Short Bull, </span>
+               <a href="#n04.note" class="ref">4</a> you've seen, Short Bull, </span>
             <span class="l">When with Sunday people full,</span>
             <span class="l indent">Is it not most charming?"</span>
             <span class="l">"If horse ridee very well,</span>

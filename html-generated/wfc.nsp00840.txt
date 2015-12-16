@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp00840.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp00840.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp00840.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp00840.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00840.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp00840.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -23,20 +23,20 @@
       <div class="milestone line"> </div>
 
       <p>LONDON, June 20.—The royalties who now throng London, and who have assembled here in greater numbers than ever before in any one place in Europe, apparently take more interest in the Wild West show than in the jubilee performance. The queen of Belgium<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> said to one of the English gentlemen who called on her this morning that she did not come to London at all on account of the jubilee, but that she came here because she was dying to see the Wild West performance. There was a private exhibition given this morning by Buffalo Bill and his men for the benefit of the visiting royalties. The general public was not admitted. There were not over twenty guests outside of the people who had been invited by the prince of Wales. Judging by the interest displayed by the royal guests at the Wild West Show this morning, it is very evident that Col. Cody could go through Europe and command the same attention for his performance that he has obtained in London. There were never so many crowned heads before at any private or public entertainment given in Europe. The prince of Wales brought with him four reigning sovereigns and the crown princes of the most prominent countries in Europe. There were four kings present, namely, the king of Denmark,<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> the king of Greece,<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> the king of Saxony<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> and the king of the Belgians.<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a> Besides these were the Crown Prince Rudolph, of Austria, the hereditary prince and princess of Saxe-Meiningen,<a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a> the crown prince and princess of Germany,<a name="n07.ref"> </a>
-         <a href="#n07.note" class="ref">[7]</a> the crown prince of Sweden and Norway,<a name="n08.ref"> </a>
-         <a href="#n08.note" class="ref">[8]</a> the Princess Victoria, of Prussia,<a name="n07.ref"> </a>
-         <a href="#n07.note" class="ref">[7]</a> the duke of Sparta,<a name="n09.ref"> </a>
-         <a href="#n09.note" class="ref">[9]</a> Prince George of Greece,<a name="n10.ref"> </a>
-         <a href="#n10.note" class="ref">[10]</a> Prince Louis of Baden<a name="n11.ref"> </a>
-         <a href="#n11.note" class="ref">[11]</a> and the prince and princess of Wales, Prince Albert Victor and Prince George of Wales,<a name="n12.ref"> </a>
-         <a href="#n12.note" class="ref">[12]</a> and the Princesses Victoria and Maud of Wales.<a name="n13.ref"> </a>
-         <a href="#n13.note" class="ref">[13]</a> These were attended by a numerous suit of lords and gentlemen and ladies-in-waiting. The entire Wild West performance was gone through with from beginning to end, and the royal visitors became so excited and interested that they had to go into the arena in order to observe the shooting and manœuvres at close range. All of the royal visitors wore black frock coats and high silk hats with the exception of the prince of Wales. He wore a light spring suit with a light drab overcoat buttoned tightly to his chin. In the buttonhole of his coat there was a rose. He was the only one among the visitors who wore a high white hat. The prince of Wales acted as the master of ceremonies. He gave the directions when the performance should begin, and could not remain in his seat in the box. In his capacity as exhibitor he walked uneasily up and down, and every time that there was anything that especially pleased him, he would go out into the arena with all of the royal visitors. The shooting principally seemed to interest the king of Denmark and the crown prince of Austria. When <span class="persName">
+         <a href="#n01.note" class="ref">1</a> said to one of the English gentlemen who called on her this morning that she did not come to London at all on account of the jubilee, but that she came here because she was dying to see the Wild West performance. There was a private exhibition given this morning by Buffalo Bill and his men for the benefit of the visiting royalties. The general public was not admitted. There were not over twenty guests outside of the people who had been invited by the prince of Wales. Judging by the interest displayed by the royal guests at the Wild West Show this morning, it is very evident that Col. Cody could go through Europe and command the same attention for his performance that he has obtained in London. There were never so many crowned heads before at any private or public entertainment given in Europe. The prince of Wales brought with him four reigning sovereigns and the crown princes of the most prominent countries in Europe. There were four kings present, namely, the king of Denmark,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">2</a> the king of Greece,<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> the king of Saxony<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a> and the king of the Belgians.<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a> Besides these were the Crown Prince Rudolph, of Austria, the hereditary prince and princess of Saxe-Meiningen,<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">6</a> the crown prince and princess of Germany,<a name="n07.ref"> </a>
+         <a href="#n07.note" class="ref">7</a> the crown prince of Sweden and Norway,<a name="n08.ref"> </a>
+         <a href="#n08.note" class="ref">8</a> the Princess Victoria, of Prussia,<a name="n07.ref"> </a>
+         <a href="#n07.note" class="ref">7</a> the duke of Sparta,<a name="n09.ref"> </a>
+         <a href="#n09.note" class="ref">9</a> Prince George of Greece,<a name="n10.ref"> </a>
+         <a href="#n10.note" class="ref">10</a> Prince Louis of Baden<a name="n11.ref"> </a>
+         <a href="#n11.note" class="ref">11</a> and the prince and princess of Wales, Prince Albert Victor and Prince George of Wales,<a name="n12.ref"> </a>
+         <a href="#n12.note" class="ref">12</a> and the Princesses Victoria and Maud of Wales.<a name="n13.ref"> </a>
+         <a href="#n13.note" class="ref">13</a> These were attended by a numerous suit of lords and gentlemen and ladies-in-waiting. The entire Wild West performance was gone through with from beginning to end, and the royal visitors became so excited and interested that they had to go into the arena in order to observe the shooting and manœuvres at close range. All of the royal visitors wore black frock coats and high silk hats with the exception of the prince of Wales. He wore a light spring suit with a light drab overcoat buttoned tightly to his chin. In the buttonhole of his coat there was a rose. He was the only one among the visitors who wore a high white hat. The prince of Wales acted as the master of ceremonies. He gave the directions when the performance should begin, and could not remain in his seat in the box. In his capacity as exhibitor he walked uneasily up and down, and every time that there was anything that especially pleased him, he would go out into the arena with all of the royal visitors. The shooting principally seemed to interest the king of Denmark and the crown prince of Austria. When <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Oakley</a>
          </span> had finished her shooting both the Danish king and the Austrian crown prince insisted upon examining her gun and sighted it, as if they were anxious to try their skill. The riding and shooting were greatly admired. The royal party seemed bent upon a lark. Several of the numbers of the programme were given before the princess of Wales arrived. She came conducted by <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">Major Burke</a>
@@ -46,16 +46,16 @@
   
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp00840.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp00840.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp00840.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp00840.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00840.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp00840.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
 
       <p>Buffalo Bill and the leading members of the show were subsequently presented to the various royalties. Mr. Cody, every one conceded, looked much more at ease among the kings than any of the royal party. After he had cracked his bull whip <a name="n14.ref"> </a>
-         <a href="#n14.note" class="ref">[14]</a> the prince of Wales sent out for it. He showed his relatives that it weighed thirty pounds, and that what looked so simple and easy required extraordinary strength and skill to handle. During the Indian war dance a little Indian papoose, not over five years of age, took part in the dance. The little fellow was stripped naked all but a yellow clout and a line of feathers. The royalties insisted upon this youthful chief being presented. He came forward very much against his will. But at length, making up his mind to be kind to the royal visitors, he extended his little red paw in the most patronizing manner, and after he had shaken hands with all the royalties he deliberately turned his little brown bare back on the distinguished group and gave his entire attention to the more interesting war dance.</p>
+         <a href="#n14.note" class="ref">14</a> the prince of Wales sent out for it. He showed his relatives that it weighed thirty pounds, and that what looked so simple and easy required extraordinary strength and skill to handle. During the Indian war dance a little Indian papoose, not over five years of age, took part in the dance. The little fellow was stripped naked all but a yellow clout and a line of feathers. The royalties insisted upon this youthful chief being presented. He came forward very much against his will. But at length, making up his mind to be kind to the royal visitors, he extended his little red paw in the most patronizing manner, and after he had shaken hands with all the royalties he deliberately turned his little brown bare back on the distinguished group and gave his entire attention to the more interesting war dance.</p>
 
       <p>This was not all. After the royalties had seen all there was to be seen of the Wild West show they went over to the open park beyond the regular American exhibition, and there they all took a ride on the switchback railroad. It was a sight for democratic visitors to see these four sovereigns, with all the princes and princesses hanging on behind, riding like mad and yelling in perfect ecstacy of enjoyment at the swift motion and novel enjoyment of the switchback railroad.</p>
 

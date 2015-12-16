@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00157.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00157.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00157.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00157.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00157.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00157.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,21 +20,21 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Wales<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>—<br/>
+         <a href="#n01.note" class="ref">1</a>—<br/>
 May. 7th 1904</span>
 
       <span class="salute">My. Dear. Hinkle.</span>
 
 
       <p>Well I have been just too busy to write you. I am well started and doing much better than last season— And I look to make good money. I will in the fall <a rel="tooltip" class="sic" title="move​ &#xA;    ">moove</a> to france will show Paris this winter and France next summer it means <a rel="tooltip" class="sic" title="continuous​ &#xA;    ">continous</a> hard work.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> But if I live to a good old age it means. I wont have to worry for money. And I feel better working. I must be busy at something And the show business is the surest money maker—</p>
+         <a href="#n02.note" class="ref">2</a> But if I live to a good old age it means. I wont have to worry for money. And I feel better working. I must be busy at something And the show business is the surest money maker—</p>
 
       <p>Please say to the <a rel="tooltip" class="sic" title="Governor​ &#xA;    ">Govenor</a> if he wants me to do anything special Politically for him to let me know Or in any other way.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n03.note" class="ref">3</a>
       </p>
 
       <p>Will be glad to hear from you. Remember me to Tynan— Johnson and all— <a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>
+         <a href="#n04.note" class="ref">4</a>
       </p>
 
       <span class="closer">
@@ -47,10 +47,10 @@ May. 7th 1904</span>
    <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00157.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00157.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00157.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00157.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00157.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00157.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -59,7 +59,7 @@ May. 7th 1904</span>
       <span class="ab address">
 
 Col. C. L. Hinkle<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>
+         <a href="#n05.note" class="ref">5</a>
 Cheyenne
 Wyo.
 U. S. A.

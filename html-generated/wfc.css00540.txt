@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00540.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00540.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00540.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00540.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00540.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00540.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -21,7 +21,7 @@
 
 
       <span class="dateline">Lafayette  LA<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 
@@ -35,11 +35,11 @@ Oct. 24th 1900</span>
 
       <p>Have just wired you to immediately have coal <a rel="tooltip" class="sic" title="filing​ &#xA;    ">fileing</a> 
          <a rel="tooltip" class="sic" title="transfered​ &#xA;    ">trasfered</a> to us— we should have learnt a lesson by this time— So that no one else can beat us— And not trust to our own opinion too much— I should have filed on that coal land my self— But you thought our segregation would hold it— So <a rel="tooltip" class="sic" title="let's​ &#xA;    ">lets</a> take no more chances— Van Orsdel<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> &amp; Burdick<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> wanted to know as soon as we fixed <span class="persName">
+         <a href="#n02.note" class="ref">2</a> &amp; Burdick<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> wanted to know as soon as we fixed <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/darrah.h">Darrahs</a>
          </span> contest on land— so I wired them <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a>— Morrill<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>—</p>
+         <a href="#n04.note" class="ref">4</a>—</p>
 
       <p>Get our matters safe quick or some one else will protest or jump coal land— <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> delay an hour in protecting our rights—</p>
 

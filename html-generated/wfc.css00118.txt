@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00118.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00118.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00118.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00118.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00118.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00118.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -22,14 +22,14 @@
       <span class="dateline">
          <del>Ch</del>Columbia—S. C.<br/>
 Oct- 26th 01<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My. Dear, Hinkle—</span>
 
 
       <p>I will probaly leave North Platte for Cody the 9th or 10th When I get to Cody I go on a two weeks hunt.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> would be delighted to have you as my guest</p>
+         <a href="#n02.note" class="ref">2</a> would be delighted to have you as my guest</p>
 
       <span class="closer">
          <span class="salute">Yours truly</span>
@@ -39,7 +39,7 @@ Oct- 26th 01<a name="n01.ref"> </a>
 
       <p>Same invitation Extends to Tynan </p>
       <p>I sent him a check to day to pay rent of leased lands<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n03.note" class="ref">3</a>
       </p>
       <span class="closer">
          <br/>W.F.C
@@ -51,10 +51,10 @@ Oct- 26th 01<a name="n01.ref"> </a>
    <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00118.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00118.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00118.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00118.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00118.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00118.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>

@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00532.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00532.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00532.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00532.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00532.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00532.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,7 +20,7 @@
 
 
       <span class="dateline">Lynchburg. Va<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 
@@ -34,7 +34,7 @@ Apr. 24<u>th</u> 99</span>
 
 
       <p>Ex Gov. Richards<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> says we ought to fix up our affairs so that our Settlers and our selves can proove up. by doing this our company can get in some ready cash. let me hear from you, and when you expect have water runing into Cody. for goodness sakes George rush it a long—</p>
+         <a href="#n02.note" class="ref">2</a> says we ought to fix up our affairs so that our Settlers and our selves can proove up. by doing this our company can get in some ready cash. let me hear from you, and when you expect have water runing into Cody. for goodness sakes George rush it a long—</p>
 
 
       <span class="closer">

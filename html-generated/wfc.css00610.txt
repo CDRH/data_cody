@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00610.001.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00610.001.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00610.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00610.001.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00610.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00610.001.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -21,7 +21,7 @@
       <span class="dateline">Mar 31st, 1916</span>
   APR 5 — 1916 <br/> DEPARTMENT OF THE INTERIOR
   A. J. Ayers<a name="n01.ref"> </a>
-      <a href="#n01.note" class="ref">[1]</a>
+      <a href="#n01.note" class="ref">1</a>
   Washington
   
   <span class="salute">Dear Sir.</span>
@@ -30,21 +30,21 @@
 
 
       <p>In regard to the Reels and Enclosed letter from the Essanay people. Mr Spoor<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> was told by my self That a sett of the Reels were to go to the Interior Dept. as well as to the War Dept. I have written this to the Company. and if the Co dont carry out their obligations Ill pay personally for a sett of reels and send them to the Interior
+         <a href="#n02.note" class="ref">2</a> was told by my self That a sett of the Reels were to go to the Interior Dept. as well as to the War Dept. I have written this to the Company. and if the Co dont carry out their obligations Ill pay personally for a sett of reels and send them to the Interior
   
   <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00610.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00610.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00610.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00610.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00610.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00610.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
   
   Department. But I cant do this until I get my show started.</p>
       <p>I promised Secretary Franklin K Lane<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> His department should have a sett. And Ill see he gets them</p>
+         <a href="#n03.note" class="ref">3</a> His department should have a sett. And Ill see he gets them</p>
 
       <span class="closer">
          <span class="salute">Very truly yours</span>

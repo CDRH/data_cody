@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00599.001.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00599.001.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00599.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00599.001.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00599.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00599.001.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -23,22 +23,22 @@
   SEP -9 1913
   
 <span class="salute">My dear Mr. Secretary<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>:</span>
+         <a href="#n01.note" class="ref">1</a>:</span>
 
 
 
 
       <p>I have the honor to acknowledge receipt of your letter dated August 29, 1913, enclosing a communication to you from Colonel William F. Cody (Buffalo Bill) relative to visiting the Pine Ridge Indian Reservation for the purpose of making arrangements for and having moving picture reproductions made of the last battles between the Indians of that reservation and the United States troops, together with the last surrender of the Indians.</p>
       <p>In reply, you are advised that there is no objection to Colonel Cody's visiting the reservation for that purpose,provided such action will not interfere with the industrial or educational pursuits or training of the Indians engaged, and the Superintendent<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> in charge of the reservation, or some other official, supervises the taking of such pictures.</p>
+         <a href="#n02.note" class="ref">2</a> in charge of the reservation, or some other official, supervises the taking of such pictures.</p>
       <p>It is suggested that Colonel Cody communicate directly with the Superintendent in charge of the reserva-
   
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00599.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00599.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00599.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00599.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00599.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00599.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -50,7 +50,7 @@ tion and make arrangements with him for carrying out the plans contemplated</p>
       <span class="closer">
          <span class="salute">Yours very truly,</span>
          <br/>A. A. Jones<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n03.note" class="ref">3</a>
          <br/>
   First Assistant Secretary.
   <div class="note">

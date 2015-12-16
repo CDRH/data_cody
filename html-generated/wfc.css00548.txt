@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00548.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00548.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00548.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00548.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00548.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00548.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,12 +20,12 @@
 
 
       <span class="dateline">San. Francisco-<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 
 Sep. 12th / 02<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -36,7 +36,7 @@ Sep. 12th / 02<a name="n02.ref"> </a>
       <p>Wired you to contract east end immediately get work started. Write each stock holder <u>fully</u>— telling them what the money will be used for— then later the contract can be let for upper end— You have <del>r</del> dried lumber for flumes long ago as we talked that over— the timber &amp; lumber must be gotten this fall ready— Assess each of us to do the east end &amp; pay contractors now then later make another assessment for upper end—</p>
 
       <p>How does the prospects look for the Governorship<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>?</p>
+         <a href="#n03.note" class="ref">3</a>?</p>
 
       <span class="closer">
          <span class="salute">Kind regards and success attend you—</span>

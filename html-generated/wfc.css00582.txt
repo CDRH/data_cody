@@ -7,10 +7,10 @@
    <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00582.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00582.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00582.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00582.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00582.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00582.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -21,7 +21,7 @@
 
 
       <span class="ab">Number  17 ch<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[1]</a>
+         <a href="#n02.note" class="ref">1</a>
       </span>
 
 
@@ -33,7 +33,7 @@
 
       <span class="ab">
          <strong>Received at</strong> [hand stamped] Auditorium Hotel Annex<br/> 223p<br/>4/15 <strong>189</strong>6<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </span>
 
 

@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00107.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00107.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00107.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00107.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00107.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00107.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -21,14 +21,14 @@
 
       <span class="dateline">
          <a rel="tooltip" class="sic" title="Pottsville​ &#xA;    ">Pottsville</a>, Pa, June 4th, 1901.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My dear Hinkle:—</span>
 
 
       <p>I wrote you some time ago that I wanted to put in an application for some of the waters of those mineral springs to be used for the benefit of humanity.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> The cost of the work to make those waters available to mankind will be enormous and until this money is spent no benefit of any magnitude can come to the public from these waters. I now have surveyors an and draughtsmen at work near there on the Cody &amp; Salsbury canal that I can have make plans, maps &amp;c for the State officials that cannot fail to convince them that it is for the benefit of the whole public that these springs be given over to capital that will improve them and bring within the reach of the public their health giving qualities. As the waters are now they can only be of use to a very few at any season of the year while in May, June and July they are <a rel="tooltip" class="sic" title="unaccessible​ &#xA;    ">unaccessable</a>, being covered by the river. There are no <a rel="tooltip" class="sic" title="accommodations​ &#xA;    ">accomodations</a> for the public so that from November to March they are again not <a rel="tooltip" class="sic" title="accessible​ &#xA;    ">accessable</a>. Please see officials and let me know.</p>
+         <a href="#n02.note" class="ref">2</a> The cost of the work to make those waters available to mankind will be enormous and until this money is spent no benefit of any magnitude can come to the public from these waters. I now have surveyors an and draughtsmen at work near there on the Cody &amp; Salsbury canal that I can have make plans, maps &amp;c for the State officials that cannot fail to convince them that it is for the benefit of the whole public that these springs be given over to capital that will improve them and bring within the reach of the public their health giving qualities. As the waters are now they can only be of use to a very few at any season of the year while in May, June and July they are <a rel="tooltip" class="sic" title="unaccessible​ &#xA;    ">unaccessable</a>, being covered by the river. There are no <a rel="tooltip" class="sic" title="accommodations​ &#xA;    ">accomodations</a> for the public so that from November to March they are again not <a rel="tooltip" class="sic" title="accessible​ &#xA;    ">accessable</a>. Please see officials and let me know.</p>
 
       <span class="closer">
          <span class="salute">Very truly yours,</span>
@@ -37,7 +37,7 @@
 </span>
 
       <p>P S When I was in Washington W. A. Richards told me the segregation papers for the land under the Cody &amp; <a rel="tooltip" class="sic" title="Salsbury​ &#xA;    ">Sal sbury</a> canal would be ready in sixty days.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> What do you know about this?</p>
+         <a href="#n03.note" class="ref">3</a> What do you know about this?</p>
       <span class="closer">
          <br/>W. F. C.
 </span>
@@ -49,10 +49,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00107.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00107.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00107.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00107.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00107.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00107.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>

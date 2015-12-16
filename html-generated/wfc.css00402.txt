@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00402.01.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00402.01.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00402.01.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00402.01.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00402.01.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00402.01.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -19,14 +19,14 @@
 
 
       <span class="dateline">Urbana O. 10/14, '99.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
 
       <p>This is to certify that <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/tait.j">John H. Tait</a>
          </span> has been in the employ of Buffalo Bill's Wild West during the past season and has performed all his duties in a satisfactory manner<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </p>
 
       <span class="closer">
@@ -43,7 +43,7 @@
       </p>
       <p>
          <a name="n02.note"> </a>Note 2: Cody wrote a more glowing assessment of Tait in a letter of recommendation dated <a name="texts/wfc.css00401.ref"> </a>
-         <a href="#texts/wfc.css00401.note" class="ref">[June 1, 1914]</a>.<a href="#n02.ref"> [back]</a>
+         <a href="#texts/wfc.css00401.note" class="ref">June 1, 1914</a>.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

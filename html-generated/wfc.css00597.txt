@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00597.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00597.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00597.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00597.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00597.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00597.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -25,7 +25,7 @@
       <div class="note">5-180
   <br/>
   Comm. Sells<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </div>
   6685
   Interior Dept.
@@ -39,19 +39,19 @@
   Ans'd Sep 9 1913
   
 <span class="salute">Dear Mr. Secretary<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> :</span>
+         <a href="#n02.note" class="ref">2</a> :</span>
 
 
 
 
       <p>I have the honor to enclose herewith a letter, addressed to the Secretary of War<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> by Colonel W. F. Cody, (Buffalo Bill), dated August 24th, 1913.</p>
+         <a href="#n03.note" class="ref">3</a> by Colonel W. F. Cody, (Buffalo Bill), dated August 24th, 1913.</p>
       <p>The Colonel is very much interested in carrying out the plan proposed in his letter and presented the matter to the Secretary of War, who, I understand, is favorably impressed with the idea. Personally, I think it is a good thing, as the characters referred to are most of them old men, and this is about the last chance we will have to get a reproduction of what took place at Pine Ridge.</p>
       
       <span class="closer">
          <span class="salute">Very sincerely yours,</span>
          <br/>Leonard Wood<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>
+         <a href="#n04.note" class="ref">4</a>
   Hon. Franklin K. Lane,
     Secretary of the Interior,
     Washington, D. C.

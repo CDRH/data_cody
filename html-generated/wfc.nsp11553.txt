@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp11553.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp11553.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11553.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11553.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11553.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp11553.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -47,7 +47,7 @@
          <p>"But did you never see Buffalo Bill until you joined this show?"</p>
 
          <p>"Yes, I saw him long ago, but we never spoke until a little while since. All the men of the Sioux nation know Buffalo Bill by reputation. The first time I saw him was at the fight at War Barnard Creek,<a name="n01.ref"> </a>
-            <a href="#n01.note" class="ref">[1]</a> when the white men were too many for the poor Indians. It was twelve or thirteen years ago, but (and here his eyes twinkled ominously) that fight I can see now. Buffalo Bill in the struggle killed <span class="persName">
+            <a href="#n01.note" class="ref">1</a> when the white men were too many for the poor Indians. It was twelve or thirteen years ago, but (and here his eyes twinkled ominously) that fight I can see now. Buffalo Bill in the struggle killed <span class="persName">
                <a href="http://rosie.unl.edu/cody_archive/doc/yellow.hair">Yellow Hand</a>
             </span>, a great Indian brave, and took his scalp. I tried to fight my way to the white man to revenge my brother, and although we got very near I could not reach him. Had we met one would have died; but the soldiers were encircling us; five of our men were shot down, and we fled. Then we would have killed each other, but now we have the same heart, and we are brothers. Yes, Colonel Cody is very good to me and my people."</p>
       </div>
@@ -70,7 +70,7 @@
          <h4>THE RESULT OF THE FIGHT</h4>
 
          <p>All, however, were not killed, for we took 36 squaws prisoners, and carried them back to the Sioux camp, where we were hailed with shouts of victory, for we had brought back with us over 500 scalps to show that these bad Indians had been punished. Besides we had all their horses and stores and trophies to make glad the hearts of our squaws. That fight took place in the southern country of the Big Beaver,<a name="n02.ref"> </a>
-            <a href="#n02.note" class="ref">[2]</a> but the white man holds that land now, and the Indian has gone nearer the setting sun. Another Grand Council was held on our return, when we agreed to send the 36 prisoners back to their tribe—for we felt some pity for them then—mounted on our best horses and loaded with presents, and the message we sent with them was that we had tried to make a treaty with them, but they would not listen to our words, and they continued to attack our people and steal our horses. Now we had killed all we could find except the women, and those we sent back to tell them how we punished bad Indians who interfere with the Sioux nation."</p>
+            <a href="#n02.note" class="ref">2</a> but the white man holds that land now, and the Indian has gone nearer the setting sun. Another Grand Council was held on our return, when we agreed to send the 36 prisoners back to their tribe—for we felt some pity for them then—mounted on our best horses and loaded with presents, and the message we sent with them was that we had tried to make a treaty with them, but they would not listen to our words, and they continued to attack our people and steal our horses. Now we had killed all we could find except the women, and those we sent back to tell them how we punished bad Indians who interfere with the Sioux nation."</p>
 
          <p>I may here remark that the Chief of the Sioux nation is Red Cloud, who has, I am told, a pretty clear idea of the fate of the Indian. He is the third chief of the tribe, is a born orator, and great in the councils of the nation. Red Cloud is the Chief over all the Sioux, while "The Young Man afraid of his Horses" stands second to him in power and influence, while Red Shirt comes next.</p>
       </div>
@@ -101,10 +101,10 @@
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.nsp11553.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.nsp11553.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11553.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11553.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11553.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.nsp11553.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>

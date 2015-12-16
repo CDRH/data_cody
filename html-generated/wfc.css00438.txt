@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00438.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00438.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00438.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00438.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00438.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00438.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -26,7 +26,7 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
       <span class="dateline">Hartford <del>May</del> June 3th<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -36,11 +36,11 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
       <p>Your telegram just recdreceived found me quite ill but getting better. I got prostrated by the heat last friday in New Haven—<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> and I tell you its been a tough go to pull through. And perform twice a day But I done it. Am glad Paxton and party are going in.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> As I am so anxious to have Paxton of all men— Let Paxton &amp; party say what they want to do. And how much money all are to put up. And Salsbury and I will be on deck with ours—<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> and by the 20th of June I can help you out— As every body is so down on Hymer— Let Paxton select a General Superintendent.<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a> I am Satisfied. What about Cunningham &amp; Ryan &amp; Hymer putting up?<a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a>
+         <a href="#n02.note" class="ref">2</a> and I tell you its been a tough go to pull through. And perform twice a day But I done it. Am glad Paxton and party are going in.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> As I am so anxious to have Paxton of all men— Let Paxton &amp; party say what they want to do. And how much money all are to put up. And Salsbury and I will be on deck with ours—<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a> and by the 20th of June I can help you out— As every body is so down on Hymer— Let Paxton select a General Superintendent.<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a> I am Satisfied. What about Cunningham &amp; Ryan &amp; Hymer putting up?<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">6</a>
       </p>
       <span class="closer">
          <span class="salute">

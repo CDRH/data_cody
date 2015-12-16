@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00023.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00023.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00023.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00023.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00023.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00023.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -23,7 +23,7 @@
       <span class="dateline">Pine Ridge Agency, July 9, 1899.</span>
 
       <span class="salute">The Honorable Commissioner of Indian Affairs,<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
   Washington, D. C.<br/> 
          <br/>
@@ -36,7 +36,7 @@
   
       <p>I refer to the increasing demand for Indians for show purposes. Having been for some years at this Agency, from which the
   Wild West show has recruited its Indians annually,<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> I am in a position to judge of the effects of
+         <a href="#n02.note" class="ref">2</a> I am in a position to judge of the effects of
   using them for exhibition purposes. It is claimed by those desiring to employ these Indians that the opportunities afforded
   them to see what white men have done and are doing, to realize the resources of the country, both in numbers and in wealth,
   would educate the Indian and deter him from outbreaks, and that seeing the manner in which the whites live, would stimulate
@@ -46,10 +46,10 @@
     
     <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00023.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00023.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00023.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00023.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00023.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00023.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -73,10 +73,10 @@
     
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00023.003.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00023.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00023.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00023.003.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00023.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00023.003.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -100,10 +100,10 @@
     
     <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00023.004.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00023.004.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00023.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00023.004.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00023.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00023.004.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -115,7 +115,7 @@
     civilization; his desire for change and excitement intensified, his all too faint aspirations for the benefits of
     civilization checked if not destroyed, and with a conviction that the boasted morality of the whites is nothing to be proud
     of or to copy. The Agency Physician states that nearly all of the unnamable diseases<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> now occuring on this reservation
+         <a href="#n03.note" class="ref">3</a> now occuring on this reservation
       are traceable to those Indians who have returned from shows and Expositions.</p>
       
       <span class="closer">

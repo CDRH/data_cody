@@ -8,22 +8,22 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00274.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00274.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00274.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00274.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00274.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00274.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
 
 
       <div class="note">2932 Lafayette St.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </div>
 
 
       <span class="dateline">Denver, Colo., July 25th 191[3]<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </span>
 
 
@@ -31,7 +31,7 @@
 
 
       <p>The old show went out of business on the 22d— It nearly broke my heart.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> And could have been avoided if Lillie had not been like a dog in the manger.</p>
+         <a href="#n03.note" class="ref">3</a> And could have been avoided if Lillie had not been like a dog in the manger.</p>
 
       <p>For three or four years the management has been bad And I am glad its all over. I am going off into the rockies for a little mental &amp; <a rel="tooltip" class="sic" title="bodily​ &#xA;    ">bodly</a> rest. Then Ill go at em— with my old time Vim, I am not down and out by a long jump.</p>
 
@@ -48,10 +48,10 @@
    <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00274.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00274.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00274.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00274.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00274.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00274.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -82,10 +82,10 @@ Mass
    <div class="enclosure">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00274.003.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00274.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00274.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00274.003.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00274.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00274.003.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>

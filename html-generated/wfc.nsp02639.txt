@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp02639.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp02639.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp02639.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp02639.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp02639.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp02639.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -21,9 +21,9 @@
       <span class="gap sampling">[sampling]</span>
 
       <p>A well-known Epsom<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> racing man, Jesse Winfield,<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> has challenged Buffalo Bill to produce a cowboy to ride from London to York against a sixty-year-old man he will back. This is the same course as that made by the famous highwayman, Dick Turpin.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n01.note" class="ref">1</a> racing man, Jesse Winfield,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">2</a> has challenged Buffalo Bill to produce a cowboy to ride from London to York against a sixty-year-old man he will back. This is the same course as that made by the famous highwayman, Dick Turpin.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a>
       </p>
 
       <span class="gap sampling">[sampling]</span>

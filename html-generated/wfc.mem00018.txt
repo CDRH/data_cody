@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -30,10 +30,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -57,10 +57,10 @@ Toledo, Ohio
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.003.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.003.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.003.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -90,10 +90,10 @@ Toledo, Ohio
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.prog.1883.004.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.prog.1883.004.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.004.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.prog.1883.004.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -138,10 +138,10 @@ Toledo, Ohio
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.005.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.005.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.005.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.005.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -162,10 +162,10 @@ Toledo, Ohio
 
 <span class="hr"> </span>
             <span class="pageimage">
-               <a href="http://codyarchive.org/figures/large/wfc.prog.1883.006.jpg"
+               <a href="http://codyarchive.org/figures/800/wfc.prog.1883.006.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.006.jpg"
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/250/wfc.prog.1883.006.jpg"
                        class="display &#xA;            "/>
                </a>
             </span>
@@ -190,10 +190,10 @@ Champion Cup," valued at £200, and £100 sweepstakes. This victory is justly co
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.007.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.007.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.007.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.007.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -276,10 +276,10 @@ of America.</li>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.008.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.008.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.008.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.008.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -319,10 +319,10 @@ of America.</li>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.009.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.009.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.009.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.009.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -360,10 +360,10 @@ March 1, 1877.</span>
 
 <span class="hr"> </span>
                <span class="pageimage">
-                  <a href="http://codyarchive.org/figures/large/wfc.prog.1883.010.jpg"
+                  <a href="http://codyarchive.org/figures/800/wfc.prog.1883.010.jpg"
                      rel="prettyPhoto[pp_gal]"
-                     title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                     <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.010.jpg"
+                     title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                     <img src="http://codyarchive.org/figures/250/wfc.prog.1883.010.jpg"
                           class="display &#xA;            "/>
                   </a>
                </span>
@@ -401,10 +401,10 @@ to be witnessed, and wondering how I would "pan out" in the view of my "red brot
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.011.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.011.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.011.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.011.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -420,10 +420,10 @@ to be witnessed, and wondering how I would "pan out" in the view of my "red brot
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.012.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.012.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.012.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.012.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -441,10 +441,10 @@ rescue by the Scouts and Plainsmen.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.013.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.013.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.013.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.013.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -479,10 +479,10 @@ rescue by the Scouts and Plainsmen.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.014.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.014.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.014.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.014.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -506,10 +506,10 @@ rescue by the Scouts and Plainsmen.</p>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.prog.1883.015.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.prog.1883.015.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.015.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.prog.1883.015.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -534,10 +534,10 @@ prairie to seek fortune and experience. If he don't get his system full, it's on
 
 <span class="hr"> </span>
             <span class="pageimage">
-               <a href="http://codyarchive.org/figures/large/wfc.prog.1883.016.jpg"
+               <a href="http://codyarchive.org/figures/800/wfc.prog.1883.016.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.016.jpg"
+                  title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="http://codyarchive.org/figures/250/wfc.prog.1883.016.jpg"
                        class="display &#xA;            "/>
                </a>
             </span>
@@ -607,10 +607,10 @@ can be considered such.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.017.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.017.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.017.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.017.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -688,10 +688,10 @@ can be considered such.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.018.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.018.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.018.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.018.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -845,10 +845,10 @@ can be considered such.</p>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.prog.1883.019.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.prog.1883.019.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.019.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.prog.1883.019.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -864,10 +864,10 @@ can be considered such.</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.020.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.020.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.020.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.020.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.020.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.020.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -903,10 +903,10 @@ dependence, backed by personal skill in its use, for sustenance for himself and 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.021.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.021.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.021.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.021.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.021.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.021.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -957,10 +957,10 @@ never escape, but remains with or hovering near the remains, even after complete
       </div>
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.022.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.022.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.022.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.022.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.022.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.022.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -978,10 +978,10 @@ HARTFORD CONN</span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.023.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.023.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.023.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.023.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.023.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.023.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -1078,10 +1078,10 @@ and over the whole of Canada and New Brunswick. The largest elk ever killed in t
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.024.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.024.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.024.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.024.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.024.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.024.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -1252,10 +1252,10 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.025.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.025.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.025.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.025.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.025.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.025.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -1310,10 +1310,10 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.026.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.026.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.026.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.026.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.026.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.026.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -1341,10 +1341,10 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.027.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.027.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.027.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.027.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.027.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.027.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -1361,10 +1361,10 @@ not again be seen in the nineteenth century. Each of the marksmen made the follo
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.028.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.028.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.028.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.028.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.028.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.028.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -1439,10 +1439,10 @@ their weapons, two score Pawnee braves. Hoarse, gutteral exclamations burst from
       </div>
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.029.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.029.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.029.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.029.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.029.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.029.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -1458,10 +1458,10 @@ Calhoun Printing Co.</span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.030.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.030.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.030.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.030.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.030.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.030.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -1507,10 +1507,10 @@ Pawnees," the Pilot of the Prairie, Protector of the Border.</span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.031.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.031.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.031.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.031.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.031.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.031.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -1521,10 +1521,10 @@ Pawnees," the Pilot of the Prairie, Protector of the Border.</span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.prog.1883.032.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.prog.1883.032.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.prog.1883.032.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.prog.1883.032.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.prog.1883.032.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.prog.1883.032.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>

@@ -7,10 +7,10 @@
    <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00568.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00568.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00568.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00568.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00568.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00568.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -32,7 +32,7 @@
       <span class="ab">122P MH DO 17 Paid 2Pm </span>
 
       <span class="ab">New York Jan 24th-96<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
 
@@ -48,8 +48,8 @@
 
 
       <p>See president<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> vice president<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> if not hing can be done we must close down on work at once</p>
+         <a href="#n02.note" class="ref">2</a> vice president<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> if not hing can be done we must close down on work at once</p>
 
 
       <span class="closer">

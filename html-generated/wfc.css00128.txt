@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00128.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00128.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00128.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00128.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00128.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00128.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,7 +20,7 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Philadelphia. Pa<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 May. 14th 1902
 </span>
@@ -30,13 +30,13 @@ May. 14th 1902
 
 
       <p>Yours 9th to hand Mr. Hawks<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> &amp; Nelson— are now at Cody looking the Cody- and Salsbury Canal over— They will be in Cheyenne soon They will ask for water for placer mining. as well as for irrigation and it will be for the best interest of the state to be liberal as the building of this expensive canal means much—</p>
+         <a href="#n02.note" class="ref">2</a> &amp; Nelson— are now at Cody looking the Cody- and Salsbury Canal over— They will be in Cheyenne soon They will ask for water for placer mining. as well as for irrigation and it will be for the best interest of the state to be liberal as the building of this expensive canal means much—</p>
 
       <p>Yes Cody is still in line for the Elks Home.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> And I trust that the Wyo Elks will work for it.</p>
+         <a href="#n03.note" class="ref">3</a> And I trust that the Wyo Elks will work for it.</p>
 
       <p>With very kindest regards to the Govrnor<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> and others.</p>
+         <a href="#n04.note" class="ref">4</a> and others.</p>
 
       <span class="closer">
          <span class="salute">Yours very truly</span>
@@ -49,10 +49,10 @@ May. 14th 1902
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00128.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00128.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00128.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00128.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00128.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00128.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>

@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00550.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00550.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00550.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00550.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00550.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00550.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -18,11 +18,11 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
 Liverpool—<a name="n01.ref"> </a>
-      <a href="#n01.note" class="ref">[1]</a>
+      <a href="#n01.note" class="ref">1</a>
       <br/>
 
 May. 15<u>th</u> / 03.<a name=".ref"> </a>
-      <a href="#.note" class="ref">[2]</a>
+      <a href="#.note" class="ref">2</a>
       <br/>
 
       <span class="salute">My Dear <span class="persName">
@@ -32,7 +32,7 @@ May. 15<u>th</u> / 03.<a name=".ref"> </a>
 
 
       <p>How are they coming? Hope you are well and happy. I have had a tough time with a sprained ankle and shoulder. and the worst weather England ever had— and thats saying a heep. Have been looking for your report for quite a while. Would like to know about the Shoshone Irrigation Co— business. how the New Canal is. how much land sold &amp;c. If you will have money to meet the Hearsts<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> interest &amp;c—</p>
+         <a href="#n03.note" class="ref">3</a> interest &amp;c—</p>
 
 
       <span class="closer">

@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00490.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00490.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00490.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00490.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00490.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00490.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -30,7 +30,7 @@
 
 
       <span class="dateline">Springfield. O<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 July 7<u>th</u> 96 </span>
@@ -41,12 +41,12 @@ July 7<u>th</u> 96 </span>
       </span>
 
       <p>When in Chicago Millis <del>a</del> co<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> was some $2.700. You said you had paid $500 on it. And you had $1,200 co money you said you would pay on it on your return It appears nothing has been paid and the bill is $3.000</p>
+         <a href="#n02.note" class="ref">2</a> was some $2.700. You said you had paid $500 on it. And you had $1,200 co money you said you would pay on it on your return It appears nothing has been paid and the bill is $3.000</p>
 
       <p>Can you explain this?</p>
 
       <p>I wrote you that Yegen<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> says the co owe him $1000 since April &amp; May. this you did not mention in Chicago. Can you in any way list the different amounts the co owes and give them to <span class="persName">
+         <a href="#n03.note" class="ref">3</a> says the co owe him $1000 since April &amp; May. this you did not mention in Chicago. Can you in any way list the different amounts the co owes and give them to <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Mr. Alger</a>
          </span> &amp; <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>

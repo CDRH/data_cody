@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00543.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00543.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00543.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00543.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00543.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00543.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,7 +20,7 @@
 
 
       <span class="dateline">May 4th 1902<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
 
@@ -39,16 +39,16 @@
          <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g">Bleistein</a>
          </span> will remit I guess at once. Wrote Martin<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> to pay my water rights assessment. Mrs Wetmore<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> will send her payment on land
+         <a href="#n02.note" class="ref">2</a> to pay my water rights assessment. Mrs Wetmore<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> will send her payment on land
 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00543.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00543.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00543.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00543.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00543.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00543.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -59,16 +59,16 @@
 
 
 soon. Kelsey<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> writes me he has sent maps &amp; report of survey— I presume you have let <span class="persName">
+         <a href="#n04.note" class="ref">4</a> writes me he has sent maps &amp; report of survey— I presume you have let <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/wiley.s">Wiley</a>
          </span>
          <a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a> use them as agreed.</p>
+         <a href="#n05.note" class="ref">5</a> use them as agreed.</p>
 
       <p>The Wild West closed big engagement here open Brooklyn tomorrow sent route—</p>
 
       <p>The Gold Mine<a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a> is a winner I guess beyond doubt its being kept quiet just now as we want some property Adjoining it and a water right from a stream near by. We are getting out ore and the vein <a rel="tooltip" class="sic" title="prove​ &#xA;    ">proove</a> a true fissure</p>
+         <a href="#n06.note" class="ref">6</a> is a winner I guess beyond doubt its being kept quiet just now as we want some property Adjoining it and a water right from a stream near by. We are getting out ore and the vein <a rel="tooltip" class="sic" title="prove​ &#xA;    ">proove</a> a true fissure</p>
 
 
       <span class="closer">

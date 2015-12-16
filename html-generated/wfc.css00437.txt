@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00437.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00437.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00437.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00437.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00437.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00437.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -26,7 +26,7 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>
 
 
       <span class="dateline">Scranton, Pa., May 12 1895<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -37,8 +37,8 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>
 
 
       <p>Yours from Omaha <a rel="tooltip" class="sic" title="received​ &#xA;    ">Recd</a>— Now George we must not let any one get <a rel="tooltip" class="sic" title="ahead​ &#xA;    ">a head</a> of us on the land we propose to irrigate on either side of the river.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> I fear you <a rel="tooltip" class="sic" title="do not​ &#xA;    ">donot</a> appreciate that <a rel="tooltip" class="sic" title="enterprise​ &#xA;    ">enterprize</a> as much as I do. And if the Paxton party <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> get up there soon And decide whether they are going into it or not we will <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a> at lot of our land.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> We must get to work and do something and that right away.</p>
+         <a href="#n02.note" class="ref">2</a> I fear you <a rel="tooltip" class="sic" title="do not​ &#xA;    ">donot</a> appreciate that <a rel="tooltip" class="sic" title="enterprise​ &#xA;    ">enterprize</a> as much as I do. And if the Paxton party <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> get up there soon And decide whether they are going into it or not we will <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a> at lot of our land.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> We must get to work and do something and that right away.</p>
 
       <p>Will you put your shoulder
 
@@ -46,10 +46,10 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00437.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00437.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00437.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00437.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00437.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00437.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>

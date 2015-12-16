@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp00762.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp00762.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp00762.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp00762.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00762.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp00762.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -28,10 +28,10 @@
 
       <div class="">
          <p>LONDON, May 1--The Queen has returned from the Continent, and "jubileemania"<a name="n01.ref"> </a>
-            <a href="#n01.note" class="ref">[1]</a> is gaining ground.</p>
+            <a href="#n01.note" class="ref">1</a> is gaining ground.</p>
 
          <p>The papers are full of notes on the preparations. Among the noble guests will be Prince Rudolph of Austria, the Crown Princess Stephanie, the King of the Belgians and the Queen of the Sandwich Islands.<a name="n02.ref"> </a>
-            <a href="#n02.note" class="ref">[2]</a> The jubilee service at Westminster Abbey will cost the monstrous sum of $100,000 All the ladies are commanded to appear in full evening dress, in order to gratify the Queen's passion for bare necks, and some of the religious journals are loudly denouncing this regulation as a sacrilege.</p>
+            <a href="#n02.note" class="ref">2</a> The jubilee service at Westminster Abbey will cost the monstrous sum of $100,000 All the ladies are commanded to appear in full evening dress, in order to gratify the Queen's passion for bare necks, and some of the religious journals are loudly denouncing this regulation as a sacrilege.</p>
       </div>
 
       <div class="">
@@ -40,7 +40,7 @@
          </h4>
 
          <p>The Queen's regalia are to be furbished up on this jubilee occasion. A suggestion has even been made (though it will not certainly be acted on), to insert the Koh-i-noor in the crown. A new crown was made for George IV, at enormous cost; but this, which weighed seven pounds, was too heavy and too large for the Queen's head, so another was made of less than half the weight--a cap of blue velvet, with hoops of silver, brilliant with diamonds, pearls, rubies, sapphires and emeralds. Above it rose a ball covered with small diamonds, surmounted by a Maltese cross of brilliants, with a splendid sapphire in its centre. In front of the crown was another Maltese cross, bearing the enormous heart-shaped ruby once worn by Edward the Black Prince.<a name="n03.ref"> </a>
-            <a href="#n03.note" class="ref">[3]</a> There are 2166 precious stones of all sizes on the crown, worth £113,000.</p>
+            <a href="#n03.note" class="ref">3</a> There are 2166 precious stones of all sizes on the crown, worth £113,000.</p>
       </div>
 
       <div class="">
@@ -49,16 +49,16 @@
          </h4>
 
          <p>The American Exhibition will not open on the 9th of May,<a name="n04.ref"> </a>
-            <a href="#n04.note" class="ref">[4]</a> but will be in a very advanced state of completion. All the exhibitors exclaim at the magnitude and beauty of the buildings and grounds, to which no description can do full justice.</p>
+            <a href="#n04.note" class="ref">4</a> but will be in a very advanced state of completion. All the exhibitors exclaim at the magnitude and beauty of the buildings and grounds, to which no description can do full justice.</p>
 
          <p>Colonel Henry S. Russell, of Boston, who has accepted the presidency of the exhibition, and Mr. Burnett Landreth, of Philadelphia,<a name="n05.ref"> </a>
-            <a href="#n05.note" class="ref">[5]</a> have arrived, and highly gratified with the state of affairs, have put their shoulders to the wheel, and are doing their best to aid in the preparations.</p>
+            <a href="#n05.note" class="ref">5</a> have arrived, and highly gratified with the state of affairs, have put their shoulders to the wheel, and are doing their best to aid in the preparations.</p>
 
          <p>
             <span class="persName">
                <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. John Robinson Whitley</a>
             </span>,<a name="n06.ref"> </a>
-            <a href="#n06.note" class="ref">[6]</a> director general, wears the aspect of a general in command of an army doing a forced march in the enemy's country. But a short time will enable every one connected with the work to congratulate themselves on the completion of one of the most gigantic enterprises ever undertaken by private persons.</p>
+            <a href="#n06.note" class="ref">6</a> director general, wears the aspect of a general in command of an army doing a forced march in the enemy's country. But a short time will enable every one connected with the work to congratulate themselves on the completion of one of the most gigantic enterprises ever undertaken by private persons.</p>
       </div>
 
       <div class="">

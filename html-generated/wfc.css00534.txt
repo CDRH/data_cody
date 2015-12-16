@@ -7,10 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00534.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00534.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00534.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00534.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00534.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00534.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -29,7 +29,7 @@ John M. Burke, General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jul
 
 
       <span class="dateline">Phila Pa<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 
@@ -45,7 +45,7 @@ June. 2<u>d</u> 99</span>
       <p>Every day now every mail every telegrame Boy I see- I say there is water running in the streets of Cody.</p>
 
       <p>Say. I think we should fix the road through to Frosts<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> I understand it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> cost over $25—</p>
+         <a href="#n02.note" class="ref">2</a> I understand it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> cost over $25—</p>
 
 
       <span class="closer">

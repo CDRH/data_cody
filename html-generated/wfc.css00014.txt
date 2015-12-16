@@ -5,10 +5,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00014_img_0.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00014_img_0.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00014_img_0.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00014_img_0.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00014_img_0.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00014_img_0.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -41,8 +41,8 @@ J. W. Boyer, Farm Foreman.</div>
 
 
       <p>I presume you were informed by the Interior Dept.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> that I have permission for Indians. I am writing Shangrau. <a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> And I don't wish to commence looking up Indians. Until I have your permission so if you see Shangrau will you please speak to him about it. I will not want the Indians much before May.  but its well to be letting them know. I will try my best to come after them my self—</p>
+         <a href="#n01.note" class="ref">1</a> that I have permission for Indians. I am writing Shangrau. <a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">2</a> And I don't wish to commence looking up Indians. Until I have your permission so if you see Shangrau will you please speak to him about it. I will not want the Indians much before May.  but its well to be letting them know. I will try my best to come after them my self—</p>
 
 
       <span class="closer">

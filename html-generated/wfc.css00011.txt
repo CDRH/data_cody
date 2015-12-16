@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00011_img_0.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00011_img_0.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00011_img_0.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00011_img_0.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00011_img_0.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00011_img_0.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -30,14 +30,14 @@ Pine Ridge Agency, S. D.
 
   
       <p>Ghost Dog<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> who has been with my Company for several years has returned to the Agency, having been summoned there by his family who I understand have been in poor health. I want to tell you that Ghost Dog has been a good man while in my employ and I am glad to recommend him to all as such. I had John Long Bull examined by a very able physician in Omaha and am sorry to say he is suffering from consumption.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> I had him sent home where I hope the air will be more agreeable to his complaint.</p>
+         <a href="#n01.note" class="ref">1</a> who has been with my Company for several years has returned to the Agency, having been summoned there by his family who I understand have been in poor health. I want to tell you that Ghost Dog has been a good man while in my employ and I am glad to recommend him to all as such. I had John Long Bull examined by a very able physician in Omaha and am sorry to say he is suffering from consumption.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">2</a> I had him sent home where I hope the air will be more agreeable to his complaint.</p>
 
       <p>I also wish to let you know that Bad Cob<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> with his wife and boy, also Alfred Black Bear<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> and Takes Away From Them <a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a> left us at Sioux City Iowa on August 27th without my consent or knowledge, and that Red Bear <a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a> deserted at Omaha, thereby breaking their contract with me. I mention these facts simply that you may know them.</p>
+         <a href="#n03.note" class="ref">3</a> with his wife and boy, also Alfred Black Bear<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a> and Takes Away From Them <a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a> left us at Sioux City Iowa on August 27th without my consent or knowledge, and that Red Bear <a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">6</a> deserted at Omaha, thereby breaking their contract with me. I mention these facts simply that you may know them.</p>
 
       <span class="closer">
          <span class="salute">With kindest regards, I am yours truly</span>

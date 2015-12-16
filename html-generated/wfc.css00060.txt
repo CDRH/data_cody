@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00060.001.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00060.001.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00060.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00060.001.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00060.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00060.001.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -31,9 +31,9 @@ Apr. 26th 1886
 
 
       <p>Enclosed find a P.O. for $25.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> I presume you are getting about ready to come to St. Louis. Wish you would start from home in time to arrive in St. Louis about the 2nd or <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a> of May. Go to the. St. James Hotel if I <a rel="tooltip" class="sic" title="ain't​ &#xA;    ">aint</a> there to meet you. I will be there any how by the <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a>.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> I have got you the white horse. and a fine saddle. Suppose you have your habit.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n01.note" class="ref">1</a> I presume you are getting about ready to come to St. Louis. Wish you would start from home in time to arrive in St. Louis about the 2nd or <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a> of May. Go to the. St. James Hotel if I <a rel="tooltip" class="sic" title="ain't​ &#xA;    ">aint</a> there to meet you. I will be there any how by the <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a>.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">2</a> I have got you the white horse. and a fine saddle. Suppose you have your habit.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a>
       </p>
 
       <p>Will be glad to see you—</p>

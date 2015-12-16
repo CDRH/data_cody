@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css0502.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css0502.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css0502.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css0502.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css0502.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css0502.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -30,7 +30,7 @@
 
 
       <span class="dateline">Green Bay Wis<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 
@@ -42,10 +42,10 @@ Sep 3d 96</span>
          </span>—</span>
 
       <p>What will the people at Irma<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> do for water when the ditch is not running this winter. Will they not have to have <u>cistern</u>? If so had they not better be built this fall. I know <a rel="tooltip" class="sic" title="that's​ &#xA;    ">thats</a> their look out. But they should be told and warned. And persuaded to build them. Same for the Town.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> Let me know if you are providing for these things— And had thought of it— Anxiously waiting to hear how long it will take you to get around <del>bl</del> red bluff<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> &amp; through rock work with present force— and if Trego<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a> is going to finish up from there to Town.</p>
+         <a href="#n02.note" class="ref">2</a> do for water when the ditch is not running this winter. Will they not have to have <u>cistern</u>? If so had they not better be built this fall. I know <a rel="tooltip" class="sic" title="that's​ &#xA;    ">thats</a> their look out. But they should be told and warned. And persuaded to build them. Same for the Town.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> Let me know if you are providing for these things— And had thought of it— Anxiously waiting to hear how long it will take you to get around <del>bl</del> red bluff<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a> &amp; through rock work with present force— and if Trego<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a> is going to finish up from there to Town.</p>
 
       <span class="closer">
          <span class="salute">Yours</span>

@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00102.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00102.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00102.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00102.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00102.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00102.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,7 +20,7 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Norfolk V. A.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 Apr 27th 1901</span>
@@ -29,8 +29,8 @@ Apr 27th 1901</span>
 
 
       <p>Thanks for finding out about those hot springs near Cody— now what I want to know is what the State proposes to do with them.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> You know I am working hard to establish a Military College in our state— and it will be a great advertisement for the state.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> And as I was the first man to make application to the state for those mineral waters I should be <a rel="tooltip" class="sic" title="considered​ &#xA;    ">considdered</a>— And as I am bringing the Military College— I should know as soon as possible. Please find out what I can do to get use of those springs.</p>
+         <a href="#n02.note" class="ref">2</a> You know I am working hard to establish a Military College in our state— and it will be a great advertisement for the state.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> And as I was the first man to make application to the state for those mineral waters I should be <a rel="tooltip" class="sic" title="considered​ &#xA;    ">considdered</a>— And as I am bringing the Military College— I should know as soon as possible. Please find out what I can do to get use of those springs.</p>
 
       <p>And let me know at once—</p>
 
@@ -41,15 +41,15 @@ Apr 27th 1901</span>
 </span>
 
       <p>PS. Telegraph me if the school town section is allright now<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>—</p>
+         <a href="#n04.note" class="ref">4</a>—</p>
 
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00102.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00102.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00102.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00102.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00102.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00102.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -64,16 +64,16 @@ Apr 27th 1901</span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00102.003.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00102.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00102.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00102.003.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00102.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00102.003.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
 
       <p>10 -—of cubic ft<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>
+         <a href="#n05.note" class="ref">5</a>
          <br/>
 130,000 Gals per day<br/>
 to <span class="unclear ">[?]</span> soon nor used as asked for.</p>

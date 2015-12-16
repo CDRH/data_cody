@@ -7,10 +7,10 @@
    <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00564.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00564.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00564.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00564.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00564.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00564.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -22,7 +22,7 @@
 
 
       <span class="ab">Number  Bu 5<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="ab">Sent By  Co</span>
@@ -33,7 +33,7 @@
 
 
       <span class="ab">Received at  1208P<br/>Aug 28 1895<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </span>
 
       <span class="ab">Dated  Youngstown O 28</span>

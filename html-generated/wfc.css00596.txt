@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00596.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00596.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00596.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00596.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00596.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00596.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -23,7 +23,7 @@
       <span class="dateline">August 28, 1913</span>
 
  To Brennan<a name="n01.ref"> </a>
-      <a href="#n01.note" class="ref">[1]</a>, Indian Reservation,
+      <a href="#n01.note" class="ref">1</a>, Indian Reservation,
   Pine Ridge, South Dakota.
 
 
@@ -31,13 +31,13 @@
 
 
   <p>You may proceed along the lines of Colonel Cody's suggestion guarding in every way the welfare of the Indians. Commissioner Sells<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> sends me the following answer to my telegram to him quote no objection here to having moving pictures made at Pine Ridge in accordance with your telegram twenty sixth if taken on reservation with understanding that such action will not interfere with industrial or educational pursuits or training. Suggest pictures be taken under supervision Superintendent Brennan unless for some special reason it is desirable that Major McLaughlin<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> or some other official supervise them end quote. I have notified Bonfils<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>, Cody and Sells.</p>
+         <a href="#n02.note" class="ref">2</a> sends me the following answer to my telegram to him quote no objection here to having moving pictures made at Pine Ridge in accordance with your telegram twenty sixth if taken on reservation with understanding that such action will not interfere with industrial or educational pursuits or training. Suggest pictures be taken under supervision Superintendent Brennan unless for some special reason it is desirable that Major McLaughlin<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> or some other official supervise them end quote. I have notified Bonfils<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a>, Cody and Sells.</p>
       
       <span class="closer">
          <br/>Lane<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>, Secretary.
+         <a href="#n05.note" class="ref">5</a>, Secretary.
 </span>
    </div>
 

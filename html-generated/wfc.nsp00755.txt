@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp00755.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp00755.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp00755.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp00755.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00755.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp00755.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -43,8 +43,8 @@
          <p>On Friday night <span class="persName">
                <a href="http://rosie.unl.edu/cody_archive/doc/irving.h">Mr. Henry Irving</a>
             </span> sent a warm telegram of welcome to Cody, and on Saturday night he gave him a supper at the Garrick Club. Sunday, Mr. Irving, Miss Terry<a name="n01.ref"> </a>
-            <a href="#n01.note" class="ref">[1]</a> and Lord Lymington<a name="n02.ref"> </a>
-            <a href="#n02.note" class="ref">[2]</a> visited the camp and the American Exhibition grounds and buildings, where they were received by <span class="persName">
+            <a href="#n01.note" class="ref">1</a> and Lord Lymington<a name="n02.ref"> </a>
+            <a href="#n02.note" class="ref">2</a> visited the camp and the American Exhibition grounds and buildings, where they were received by <span class="persName">
                <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. John R. Whitley</a>
             </span>, the Director-General, and enjoyed themselves hugely. The Indians, too, have not been neglected. On Tuesday they went to the Lyceum Theatre to see "Faust," and in their bright war paint they attracted a most extraordinary amount of attention. Last night they went to Drury Lane, and saw the pantomime of "The Forty Thieves." <span class="persName">
                <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r">Red Shirt</a>
@@ -56,12 +56,12 @@
             <div class="center">The Exhibition Buildings</div>
          </h4>
          <p>are now virtually complete, and the exhibitors are placing their goods in position. The S.S. White Dental Company of Philadelphia led off as the first in place last Saturday, and Albert Weber, the piano manufacturer, was a good second, being represented by Fred Eustis, the well-known leader and composer. The effect on entering the main building is very charming. The light frame work of railway rails affords a good basis for decoration and is painted in a neutral tint. From these hang myriads of decorative banners. On either side of the main entrance the doors of Mr. Whitley, the director general's office, and the executive offices are guarded by two civilized Indians, from the Lincoln Institution, in Philadelphia. They are fine fellows, and in their uniforms, which resemble those of the United States army, they attract an immense amount of attention. Mr. Smith, the chief of installation,<a name="n03.ref"> </a>
-            <a href="#n03.note" class="ref">[3]</a> has his hands full daily with the constant arrival of exhibitors, and Mr. Speed,<a name="n04.ref"> </a>
-            <a href="#n04.note" class="ref">[4]</a> the secretary, and Chief of Staff Penfield<a name="n05.ref"> </a>
-            <a href="#n05.note" class="ref">[5]</a> are hard at it organizing the administrative department.</p>
+            <a href="#n03.note" class="ref">3</a> has his hands full daily with the constant arrival of exhibitors, and Mr. Speed,<a name="n04.ref"> </a>
+            <a href="#n04.note" class="ref">4</a> the secretary, and Chief of Staff Penfield<a name="n05.ref"> </a>
+            <a href="#n05.note" class="ref">5</a> are hard at it organizing the administrative department.</p>
 
          <p>Mr John Sartain<a name="n06.ref"> </a>
-            <a href="#n06.note" class="ref">[6]</a> has over a thousand pictures now on hand, and is deeply interested in their effective arrangement in the big brick art gallery.</p>
+            <a href="#n06.note" class="ref">6</a> has over a thousand pictures now on hand, and is deeply interested in their effective arrangement in the big brick art gallery.</p>
       </div>
 
       <div class="">
@@ -76,11 +76,11 @@
          <p>Among the visitors to the grounds recently, in addition to those I have mentioned, have been <span class="persName">
                <a href="http://rosie.unl.edu/cody_archive/doc/gower.r">Lord Ronald Gower</a>
             </span>, Sir Phillip Cunliffe Owen,<a name="n07.ref"> </a>
-            <a href="#n07.note" class="ref">[7]</a> late director of the South Kensington Exhibitions, and who was astonished and delighted at the magnitude and attractions of the place, and who predicts for it a great success; Miss Grace Hawthorne,<a name="n08.ref"> </a>
-            <a href="#n08.note" class="ref">[8]</a> James Barton Key,<a name="n09.ref"> </a>
-            <a href="#n09.note" class="ref">[9]</a> W. W. Kelly<a name="n10.ref"> </a>
-            <a href="#n10.note" class="ref">[10]</a> and Charles Overton,<a name="n11.ref"> </a>
-            <a href="#n11.note" class="ref">[11]</a> the American managers.</p>
+            <a href="#n07.note" class="ref">7</a> late director of the South Kensington Exhibitions, and who was astonished and delighted at the magnitude and attractions of the place, and who predicts for it a great success; Miss Grace Hawthorne,<a name="n08.ref"> </a>
+            <a href="#n08.note" class="ref">8</a> James Barton Key,<a name="n09.ref"> </a>
+            <a href="#n09.note" class="ref">9</a> W. W. Kelly<a name="n10.ref"> </a>
+            <a href="#n10.note" class="ref">10</a> and Charles Overton,<a name="n11.ref"> </a>
+            <a href="#n11.note" class="ref">11</a> the American managers.</p>
       </div>
 
       <div class="">
@@ -89,8 +89,8 @@
          </h4>
 
          <p>Labouchere<a name="n12.ref"> </a>
-            <a href="#n12.note" class="ref">[12]</a> evidently isn't a whale on Shakespeare. When in doubt what to say, abuse somebody, is the motto of the senior member for Northampton, and the other night he wanted to say something abusive of Mr. Goschen.<a name="n13.ref"> </a>
-            <a href="#n13.note" class="ref">[13]</a> He had heard that the Chancellor's ancestors came from Italy, he believed from Venice, and a bright though struck him. Accordingly, obviously with Shylock in his mind, Mr. Labouchere proceeded to dilate on the fact that Mr. Goschen was a "lineal descendant of the old merchant who lived there." But surely, Henry ought to know that Shylock was not the merchant of Venice at all. Verily, a little learning is a marvelous dangerous thing. So is a little goak, Henry, when thou art not sure of thy ground.</p>
+            <a href="#n12.note" class="ref">12</a> evidently isn't a whale on Shakespeare. When in doubt what to say, abuse somebody, is the motto of the senior member for Northampton, and the other night he wanted to say something abusive of Mr. Goschen.<a name="n13.ref"> </a>
+            <a href="#n13.note" class="ref">13</a> He had heard that the Chancellor's ancestors came from Italy, he believed from Venice, and a bright though struck him. Accordingly, obviously with Shylock in his mind, Mr. Labouchere proceeded to dilate on the fact that Mr. Goschen was a "lineal descendant of the old merchant who lived there." But surely, Henry ought to know that Shylock was not the merchant of Venice at all. Verily, a little learning is a marvelous dangerous thing. So is a little goak, Henry, when thou art not sure of thy ground.</p>
       </div>
 
    </div>

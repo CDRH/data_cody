@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00519.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00519.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00519.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00519.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00519.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00519.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -24,7 +24,7 @@
 
 
       <span class="dateline">Memphis. Oct 4th 97<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -33,13 +33,13 @@
       </span>
 
       <p>The Directors<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> want to know why construction for Aug was so much and no construction done— You should get expenses down out there. it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> do. you must have a number of people on salary doing nothing. And the rest soldiering on the company. The directors ask me why the expenses are so high. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> answer them.</p>
+         <a href="#n02.note" class="ref">2</a> want to know why construction for Aug was so much and no construction done— You should get expenses down out there. it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> do. you must have a number of people on salary doing nothing. And the rest soldiering on the company. The directors ask me why the expenses are so high. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> answer them.</p>
 
       <p>Will do all I can to get Jones<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> out there with men who will buy—</p>
+         <a href="#n03.note" class="ref">3</a> out there with men who will buy—</p>
 
       <p>Hope the placer<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> will be a success— I am worn out took 24 hours to get here Two weeks now of long runs. I will be glad to get out there—</p>
+         <a href="#n04.note" class="ref">4</a> will be a success— I am worn out took 24 hours to get here Two weeks now of long runs. I will be glad to get out there—</p>
 
       <span class="closer">
          <span class="salute">Yours—</span> 

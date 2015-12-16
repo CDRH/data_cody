@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00481.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00481.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00481.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00481.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00481.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00481.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -29,12 +29,12 @@
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
       <span class="dateline">Anderson— Ind<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 May 11<u>th</u>
          <a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -43,7 +43,7 @@ May 11<u>th</u>
       </span>
 
       <p>Since writing you this morn we have had a lively cyclone. But the Wild West went all the same— Just recd a letter from Boyd<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>— he wants to make a sixty days prospecting tour— What do you think about it. he <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> wants $35— I guess you had better send it to him— I sent in another $5.000. Its <a rel="tooltip" class="sic" title="making​ &#xA;    ">makeing</a> me hump to carry the whole thing. I want to know how I stand—</p>
+         <a href="#n03.note" class="ref">3</a>— he wants to make a sixty days prospecting tour— What do you think about it. he <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> wants $35— I guess you had better send it to him— I sent in another $5.000. Its <a rel="tooltip" class="sic" title="making​ &#xA;    ">makeing</a> me hump to carry the whole thing. I want to know how I stand—</p>
 
       <p>Do write me fully— Just once Just for luck—</p>
 

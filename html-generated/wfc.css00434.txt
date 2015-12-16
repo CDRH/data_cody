@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00434.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00434.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00434.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00434.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00434.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00434.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,7 +20,7 @@
       <span class="dateline">No Platte Neb<br/>
 
 Mar. 2d 99<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -29,8 +29,8 @@ Mar. 2d 99<a name="n01.ref"> </a>
       </span> 
 
       <p>Am in <a rel="tooltip" class="sic" title="receipt​ &#xA;    ">recept</a> of letter from Irma Valley Saying Burns is herding his sheep in their door yards.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> Now George you promised to stop this herding of sheep on our segregated lands. Why <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you do it? Why is it that no one will try to look after our <a rel="tooltip" class="sic" title="company's​ &#xA;    ">companys</a> interests out there?<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> 
+         <a href="#n02.note" class="ref">2</a> Now George you promised to stop this herding of sheep on our segregated lands. Why <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you do it? Why is it that no one will try to look after our <a rel="tooltip" class="sic" title="company's​ &#xA;    ">companys</a> interests out there?<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> 
          <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> a shame— I will see the Directors when I get east and see what can be done.</p>
 
       <span class="closer">

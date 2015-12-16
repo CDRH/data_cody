@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp00868.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp00868.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp00868.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp00868.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00868.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp00868.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -48,7 +48,7 @@
 as they madly rushed by, making the very earth tremble.</p>
 
       <p>General A. T. Smith<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> has often told me that when he was a young officer crossing the plains—years before my time—the buffalo were so numerous they were compelled to use their howitzers at times to turn them from the trail.</p>
+         <a href="#n01.note" class="ref">1</a> has often told me that when he was a young officer crossing the plains—years before my time—the buffalo were so numerous they were compelled to use their howitzers at times to turn them from the trail.</p>
 
       <p>It seems impossible, especially to any one who, only twenty-five years ago, saw them on their natural pastures, apparently as numberless as the sands on the sea shore, that they could ever be destroyed, but when I look back only a little more than a decade and remember that right here, where I pen this letter, how they roamed in such numbers, and now how far away are the few hundreds which remain, I am compelled to accept the sad fiat that in a very short period they will take their place with the dodo and the great auk, stuffed, and in a glass case in the halls of our museums, monuments of an extinct genus, annihilated by the wantonness of man.</p>
 
@@ -57,7 +57,7 @@ as they madly rushed by, making the very earth tremble.</p>
       <p>The Hon. William F. Cody ("Buffalo Bill"), who is now hobnobbing with royalty on the other side of the water, gained his world-known sobriquet for his carnage among these monarchs of the prairies in 1869.</p>
 
       <p>Charlie Rath,<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> one of our best citizens, prince of good fellows, and a large bank account to his credit to-day, can number the hides he has procured by the hundred thousand, for several years successively.</p>
+         <a href="#n02.note" class="ref">2</a> one of our best citizens, prince of good fellows, and a large bank account to his credit to-day, can number the hides he has procured by the hundred thousand, for several years successively.</p>
 
       <p>I have purchased many a fine silk-robe, smoke-tanned and beaded from the Indians in early days for half a loaf of bread or a pound of sugar; now $50 in cash would not procure me such a magnificent article—for it does not exist.</p>
 
@@ -76,18 +76,18 @@ as they madly rushed by, making the very earth tremble.</p>
       <p>I have seen the track of the Atchison, Topeka and Santa Fe piled up on both sides with buffalo bones for a distance of fifteen miles at a stretch.</p>
 
       <p>These "bald blear"<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> skeletons of the desert were the salvation of the primitive occupants of the rich and prosperous counties of the Kansas of to-day. Then the whole region was the "theater of the tornado and the race-course of the winds,"<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> the locusts' habitat and the debatable ground of the continent. But for that demand of chemistry for animal charcoal in the purification of the product of the cane our pioneers would have been driven away by the very sterility of their surroundings.</p>
+         <a href="#n03.note" class="ref">3</a> skeletons of the desert were the salvation of the primitive occupants of the rich and prosperous counties of the Kansas of to-day. Then the whole region was the "theater of the tornado and the race-course of the winds,"<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a> the locusts' habitat and the debatable ground of the continent. But for that demand of chemistry for animal charcoal in the purification of the product of the cane our pioneers would have been driven away by the very sterility of their surroundings.</p>
 
       <p>With the extinction of the desiccated remains of these once famous sovereigns of the plains, the phenomenal mutations of climate began, and the wilderness was redeemed—man subordinated nature to his demands—and the "desert blossomed as the rose."</p>
 
       <p>The first authentic record we have of the American buffalo—or, properly, bison—is found in the itinerary of the famous Spaniard Coronado, of his<br/> 
          <div class="center">MARCH ACROSS THE PLAINS</div> of Colorado and Kansas, only forty-eight years after the discovery of America, by his historian Castenado.<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>
+         <a href="#n05.note" class="ref">5</a>
       </p>
 
       <p>He says: "At Cicuye,<a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a> one of the Indians told them of cows, and showed the picture of one painted on his body."</p>
+         <a href="#n06.note" class="ref">6</a> one of the Indians told them of cows, and showed the picture of one painted on his body."</p>
 
       <p>(They, the Spaniards, always wrote of the buffalo as vacas (cows).]</p>
 
@@ -96,7 +96,7 @@ as they madly rushed by, making the very earth tremble.</p>
       <p>"We would never have guessed it from seeing the skins of these animals, for they are covered with a frizzled hair which resembles wool."</p>
 
       <p>The following quaint description is given by Castenado of the Great Plains, over which the exhausted Spaniards wandered after the treachery of their guide, El Turco:<a name="n07.ref"> </a>
-         <a href="#n07.note" class="ref">[7]</a>
+         <a href="#n07.note" class="ref">7</a>
       </p>
 
       <p>"All that way of plains are as full of crooked-back oxen as the mountain serrena in Spain is of sheep, but there is no such people as keep those cattle.</p>
@@ -106,7 +106,7 @@ as they madly rushed by, making the very earth tremble.</p>
       <p>"They have no bread or any kind of grain, as they say, which I accounted a very great matter.</p>
 
       <p>"Their chief food is flesh, and that oftentimes they eat raw, either of custom or for lack of wood. They eat the fat as they take it out of the ox, and drink the blood hot, and do not die withal, though the ancient writers say that it killeth, as Empedocles<a name="n08.ref"> </a>
-         <a href="#n08.note" class="ref">[8]</a> and others affirmed."</p>
+         <a href="#n08.note" class="ref">8</a> and others affirmed."</p>
 
       <p>The writer of this has seen the Cheyennes eat the hot and quivering liver and fat torn from a freshly killed antelope when out hunting with them.</p>
 
@@ -125,7 +125,7 @@ as they madly rushed by, making the very earth tremble.</p>
       <p>"Their masters have no other riches nor substance; of them they eat, they drink, they apparel, they shoe themselves, and of their hides they make many things, as houses, shoes, and apparel, and ropes; of their bones, they make bodkins; of their sinews and hair, thread; of their, horns, mawes, and bladders, vessels; of their dung, fire, and of their calves' skins budgets, wherein they draw and keep water. To be short, they make as many things of them as they have need of, or as many as suffice them in the use of this life."</p>
 
       <p>Thus Castenado tells us, as quaintly translated in the English of the period (Hakluyt's Voyages,<a name="n09.ref"> </a>
-         <a href="#n09.note" class="ref">[9]</a> vol. iii. London, 1600), how:
+         <a href="#n09.note" class="ref">9</a> vol. iii. London, 1600), how:
 
 <span class="floatingText">
 

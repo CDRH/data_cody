@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp11566.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp11566.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp11566.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp11566.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11566.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp11566.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -20,9 +20,9 @@
       <h6 class="fw">THURSDAY, MAY 3, 1888.</h6>
 
       <p>SALE OF BUFFALO BILL'S STOCK.—Yesterday forenoon a sale of the surplus stock of animals belonging to the "Wild West" Show took place at the Manchester Racecourse, when there was a good attendance of buyers and spectators. Mr. Cross,<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> the well-known Liverpool naturalist, was present and secured the principal wild animals. A large buffalo was knocked down to him for £101, after some spirited bidding; and he also secured three elks for £19, £27, and £26 respectively. The well-known circus proprietors, Messrs. Sanger,<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> were also represented, and to them went a pair of grey mules for £31, a she elk for £21, two American deer for £10, a pair of reindeer, with sledge and harness, for £40; besides several horses. A pair of splendid carriage horses were bought by Mr. Goodall,<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> of Altrincham, for £80; and a bear fell to Mr. Cross for £20. For the remainder of the horses and ponies the prices reached from £5 10s. to £24 10s.</p>
+         <a href="#n01.note" class="ref">1</a> the well-known Liverpool naturalist, was present and secured the principal wild animals. A large buffalo was knocked down to him for £101, after some spirited bidding; and he also secured three elks for £19, £27, and £26 respectively. The well-known circus proprietors, Messrs. Sanger,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">2</a> were also represented, and to them went a pair of grey mules for £31, a she elk for £21, two American deer for £10, a pair of reindeer, with sledge and harness, for £40; besides several horses. A pair of splendid carriage horses were bought by Mr. Goodall,<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> of Altrincham, for £80; and a bear fell to Mr. Cross for £20. For the remainder of the horses and ponies the prices reached from £5 10s. to £24 10s.</p>
 
 
    </div>

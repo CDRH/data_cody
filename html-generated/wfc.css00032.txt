@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00032.001.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00032.001.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00032.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00032.001.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00032.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00032.001.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -23,17 +23,17 @@
 New. Rochelle, N.Y.
 
 Mar 5th<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My Dear Elwell<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </span>
 
 
       <p>I thought sure you would let me know how you made out with Mr Haggard<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>. I seen him. and he. said he liked your work and would write you. I want you to do the <a rel="tooltip" class="sic" title="illustrating​ &#xA;    ">illustrateing</a>. And I am here <a rel="tooltip" class="sic" title="writing​ &#xA;    ">writeing</a> about 9000 words a day and would like to talk over the <a rel="tooltip" class="sic" title="illustrating​ &#xA;    ">illustrateing</a>. But as you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> write me. I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> know who the illustrator will be<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>—</p>
+         <a href="#n03.note" class="ref">3</a>. I seen him. and he. said he liked your work and would write you. I want you to do the <a rel="tooltip" class="sic" title="illustrating​ &#xA;    ">illustrateing</a>. And I am here <a rel="tooltip" class="sic" title="writing​ &#xA;    ">writeing</a> about 9000 words a day and would like to talk over the <a rel="tooltip" class="sic" title="illustrating​ &#xA;    ">illustrateing</a>. But as you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> write me. I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> know who the illustrator will be<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a>—</p>
       <span class="closer">
          <span class="salute">Love to all</span>
          <br/>Col

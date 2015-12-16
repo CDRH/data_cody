@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp02659.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp02659.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp02659.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp02659.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp02659.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp02659.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -21,8 +21,8 @@
       <h3>GENERAL MENTION.</h3>
 
       <p>The New York <em class="hi">Sun</em> says: "A report is in circulation that Mrs. Alice Shaw,<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> the whistler, is to be married to the Hon. William F. Cody, better known as Buffalo Bill. Mr. Horton,<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> Mrs. Shaw's father, said last night the report was untrue. 'Buffalo Bill,' said Mr. Horton, 'is an old friend of mine and of my family, but there is absolutely no ground for such an absurd story. Mrs. Shaw sailed for Liverpool on the 18th, and Buffalo Bill sailed from Manchester for this country soon after her arrival. They did not meet in England. They have not met for over a year.' Buffalo Bill, it may be added, is married. Mrs. Shaw is, too, but is suing for a divorce."</p>
+         <a href="#n01.note" class="ref">1</a> the whistler, is to be married to the Hon. William F. Cody, better known as Buffalo Bill. Mr. Horton,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">2</a> Mrs. Shaw's father, said last night the report was untrue. 'Buffalo Bill,' said Mr. Horton, 'is an old friend of mine and of my family, but there is absolutely no ground for such an absurd story. Mrs. Shaw sailed for Liverpool on the 18th, and Buffalo Bill sailed from Manchester for this country soon after her arrival. They did not meet in England. They have not met for over a year.' Buffalo Bill, it may be added, is married. Mrs. Shaw is, too, but is suing for a divorce."</p>
 
 
    </div>

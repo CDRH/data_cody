@@ -7,10 +7,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.bsn00036.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.bsn00036.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.bsn00036.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.bsn00036.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00036.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.bsn00036.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -39,7 +39,7 @@ Buffalo, New York;
 
 <span class="salute">Dear sir;</span>
       <p>In accordance with yours of the 20" of April I have platted that portion of your land which is on the first high bench above the river. I tried in the first place to locate a diagonal street along bench and get more lots but after a trial I gave that up and platted the land regularly. Some of the lots lay along the bench just below town but if you give Mr Houx the liberty to use his judgement, he can likely work them upwith the rest and so dispose of all. I Send you an extra print which you keep for reference as I have one for Mr Houx.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </p>
 
       <p>You will have to acknowledge the affidavit. The best way is to go before a Wyoming Commissioner if there is one in Buffalo, or a notary public</p>

@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.mem00017.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.mem00017.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00017.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00017.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.mem00017.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.mem00017.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -115,10 +115,10 @@ MR. MATT MORGAN, OF NEW YORK.</span>
       </div>
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.mem00017.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.mem00017.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00017.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00017.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.mem00017.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.mem00017.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -214,10 +214,10 @@ AMERICA'S NATIONAL ENTERTAINMENT.</h3>
 
          <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.mem00017.003.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.mem00017.003.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00017.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00017.003.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.mem00017.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.mem00017.003.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>
@@ -313,10 +313,10 @@ AMERICA'S NATIONAL ENTERTAINMENT.</h3>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.mem00017.004.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.mem00017.004.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.mem00017.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.mem00017.004.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.mem00017.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.mem00017.004.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>

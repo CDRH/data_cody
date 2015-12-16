@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00501.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00501.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00501.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00501.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00501.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00501.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -29,7 +29,7 @@
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
       <span class="dateline">Appleton— Wis<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
          <br/>
 
 
@@ -43,11 +43,11 @@ S<del>p</del>ep— 1<u>st</u> 96</span>
 
 
       <p>What do you think about stock wintering on the grass up there. Trego<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> thinks they will starve— give me your opinion is the grass so much worse than last year— Say are those settlers all <a rel="tooltip" class="sic" title="leaving​ &#xA;    ">leaveing</a> Irma?<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> 
+         <a href="#n02.note" class="ref">2</a> thinks they will starve— give me your opinion is the grass so much worse than last year— Say are those settlers all <a rel="tooltip" class="sic" title="leaving​ &#xA;    ">leaveing</a> Irma?<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> 
          <a rel="tooltip" class="sic" title="Can't​ &#xA;    ">Cant</a> I put an attachment on those <a rel="tooltip" class="sic" title="wagons​ &#xA;    ">waggons</a> &amp; harness I have to pay for that was charged to me and Nagle<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a> took. I have written 4th Post Master Gen. about P.O.<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>
+         <a href="#n04.note" class="ref">4</a> took. I have written 4th Post Master Gen. about P.O.<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a>
       </p>
 
 

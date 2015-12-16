@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00034.001.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00034.001.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00034.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00034.001.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00034.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00034.001.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -23,20 +23,20 @@
 Pittsburg
 
 May 29<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My. Dear Elwell<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a>
+         <a href="#n02.note" class="ref">2</a>
       </span>
 
 
 
       <p>Glad to get your nice letter—From camp—Its strange to me—that people cant learn to <a rel="tooltip" class="sic" title="always​ &#xA;    ">allways</a> set there camps in <a rel="tooltip" class="sic" title="secluded​ &#xA;    ">se cluded</a> places out of the wind. This should be done— Speak to Mr Kelsey. <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> try and locate the camp where there is grass—I am surprised that active work was not commenced at once—Tell Mr Martin<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> to let you keep the Pony for your use—Will be glad to see your sketches &amp; letter in the Enterprise<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>. I <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent </a> heard from Mrs Elwell<a name="n05.ref"> </a>
-         <a href="#n05.note" class="ref">[5]</a>—if she got the money—Keep the Mexican saddle for your use <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> bother about going to TE<a name="n06.ref"> </a>
-         <a href="#n06.note" class="ref">[6]</a>— to measure the land—till you are there some time. Do you think water can be taken out of the river by a head gate and put on the truck—</p>
+         <a href="#n03.note" class="ref">3</a> to let you keep the Pony for your use—Will be glad to see your sketches &amp; letter in the Enterprise<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">4</a>. I <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent </a> heard from Mrs Elwell<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">5</a>—if she got the money—Keep the Mexican saddle for your use <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> bother about going to TE<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">6</a>— to measure the land—till you are there some time. Do you think water can be taken out of the river by a head gate and put on the truck—</p>
 
       <span class="closer">
          <br/>Cody

@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00439.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00439.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00439.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00439.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00439.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00439.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -25,7 +25,7 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
       <span class="dateline">Boston. June 14th 95<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
 
@@ -37,10 +37,10 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
       <p>Yours of the 11th to hand. And it cheered me up For from <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w">Mr Paxtons</a>
          </span> letter I took it for granted they were out of the deal entirely. But am glad they are not. We can put the 28000 acre tract through lay off Town. &amp;c— and make money out of it.<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> And it will be the starter for the others if we wish to go on with them <span class="persName">
+         <a href="#n02.note" class="ref">2</a> And it will be the starter for the others if we wish to go on with them <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
          </span> And I were getting up a Boston party to go out— And go into it.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> But if the Paxton party stays we <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> need them wire me quick. Do as you think best about <span class="persName">
+         <a href="#n03.note" class="ref">3</a> But if the Paxton party stays we <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> need them wire me quick. Do as you think best about <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
          </span>— only <a rel="tooltip" class="sic" title="let's​ &#xA;    ">lets</a> carry it out—</p>
       <span class="closer">

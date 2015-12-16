@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00446.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00446.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00446.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00446.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00446.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00446.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -25,7 +25,7 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
       <span class="dateline">Altoona Sep 7th<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -34,16 +34,16 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
       <p>Yours 5th to [simple drawing of hand]<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> allright. No I dont see how Cody City can get a long without a gin mill &amp; Bob<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a> would be a Dandy. only he would keep me full all the time. But as you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> drink it would make no difference to you— Now George— <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> over look a thing wire me from Sheridan about joint stock Co— Let me know about contract for our land from State Land Board
+         <a href="#n02.note" class="ref">2</a> allright. No I dont see how Cody City can get a long without a gin mill &amp; Bob<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">3</a> would be a Dandy. only he would keep me full all the time. But as you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> drink it would make no difference to you— Now George— <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> over look a thing wire me from Sheridan about joint stock Co— Let me know about contract for our land from State Land Board
 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/large/wfc.css00446.002.jpg"
+            <a href="http://codyarchive.org/figures/800/wfc.css00446.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00446.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/thumbnails/wfc.css00446.002.jpg"
+               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00446.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="http://codyarchive.org/figures/250/wfc.css00446.002.jpg"
                     class="display &#xA;            "/>
             </a>
          </span>

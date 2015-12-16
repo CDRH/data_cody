@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00310.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00310.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00310.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00310.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00310.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00310.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -35,7 +35,7 @@ Col. W. F. Cody</div>
 
       <span class="dateline">Green Bay Wis.<br/>
 July 18th.<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a>
+         <a href="#n01.note" class="ref">1</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -44,14 +44,14 @@ July 18th.<a name="n01.ref"> </a>
 
 
       <p>Your welcome Letter<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> of July10th. received, and I was glad to hear from you, so far we have had a <a rel="tooltip" class="sic" title="very​ &#xA;    ">verry</a> tough season, it has simply rained all the time so to speak.</p>
+         <a href="#n02.note" class="ref">2</a> of July10th. received, and I was glad to hear from you, so far we have had a <a rel="tooltip" class="sic" title="very​ &#xA;    ">verry</a> tough season, it has simply rained all the time so to speak.</p>
 
       <p>I am <a rel="tooltip" class="sic" title="enclosing​ &#xA;    ">encloseing</a> you my Route but I cant say positively if I will be away from the Show a few days or not, as there are going to be great doings at Cody Wyoming the latter part of July, and the first days of August, as Automobiles are <a rel="tooltip" class="sic" title="permitted​ &#xA;    ">permited</a> to enter The Park on Aug.1st. and of course all my people out there want be to be there at this opening, as it is myself who found <a rel="tooltip" class="sic" title="wear​ &#xA;    ">whear</a> a wagon road could be built from the Town of Cody into Yellow Stone Park, and it was through my efforts, that I persuaded United States Gov. to build this Road, and my friends want me to be the first men to the Park by Automobile, in other words to lead the Procession.<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>
+         <a href="#n03.note" class="ref">3</a>
       </p>
 
       <p>I note what you say in regards to our Arizona Mines and I have two prospective buyers there at the present time. The Tungsten Mines seems to be the favorite over the Gold at the present time owing to the high price of Tungsten.<a name="n04.ref"> </a>
-         <a href="#n04.note" class="ref">[4]</a>
+         <a href="#n04.note" class="ref">4</a>
       </p>
 
       <p>I have not <a rel="tooltip" class="sic" title="forgotten​ &#xA;    ">forgoten</a> you for a moment, but the Show <a rel="tooltip" class="sic" title="Business​ &#xA;    ">Buissness</a> had been on the wrong side of the Ledger for nearly a year. With my kindest regards.</p>
@@ -65,10 +65,10 @@ July 18th.<a name="n01.ref"> </a>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.css00310.002.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.css00310.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00310.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.css00310.002.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00310.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.css00310.002.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>

@@ -6,10 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/large/wfc.css00595.jpg"
+      <a href="http://codyarchive.org/figures/800/wfc.css00595.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.css00595.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/thumbnails/wfc.css00595.jpg"
+         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00595.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="http://codyarchive.org/figures/250/wfc.css00595.jpg"
               class="display &#xA;            "/>
       </a>
    </span>
@@ -26,7 +26,7 @@
  5-180</div>
 
  To Bonfils<a name="n01.ref"> </a>
-      <a href="#n01.note" class="ref">[1]</a>, Denver Post,
+      <a href="#n01.note" class="ref">1</a>, Denver Post,
   Denver, Colorado.
 
 
@@ -34,11 +34,11 @@
 
 
   <p>Instructions have been sent Major Brennan<a name="n02.ref"> </a>
-         <a href="#n02.note" class="ref">[2]</a> to permit arrangements you desire. Your efforts must be carried on so as not to interfere with industries and education at the reservation and strict regulations as to the mode of life of the Indians. Trust you will bring out strongly as possible Colonel Cody's suggestion for program showing the advance of the Indians <del>xcxng</del> under modern conditions. Please advise Colonel Cody that I received his note and found that he had gone.</p>
+         <a href="#n02.note" class="ref">2</a> to permit arrangements you desire. Your efforts must be carried on so as not to interfere with industries and education at the reservation and strict regulations as to the mode of life of the Indians. Trust you will bring out strongly as possible Colonel Cody's suggestion for program showing the advance of the Indians <del>xcxng</del> under modern conditions. Please advise Colonel Cody that I received his note and found that he had gone.</p>
       
       <span class="closer">
          <br/>Lane<a name="n03.ref"> </a>
-         <a href="#n03.note" class="ref">[3]</a>, Secretary.
+         <a href="#n03.note" class="ref">3</a>, Secretary.
 </span>
    </div>
 

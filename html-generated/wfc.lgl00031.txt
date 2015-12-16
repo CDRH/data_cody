@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.lgl00031.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.lgl00031.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.lgl00031.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.lgl00031.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00031.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.lgl00031.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -34,7 +34,7 @@
 
 
       <p>We the undersigned hereby agree that all moneys received by Bronson Rumsey as trustee for one half interest in the Cody Townsite Co. shall first be applied to the payment of water rights due the Shoshone Irrigation Co. &amp; there after where said water rights are fully paid, <del>the</del> all moneys received from the Lincoln Land Co. shall be paid by Bronson Rumsey to Phoebe Hearst<a name="n01.ref"> </a>
-         <a href="#n01.note" class="ref">[1]</a> until a certain note of thirty thousand dollars owing her, from the Shoshone Irrigation Co is fully paid. </p>
+         <a href="#n01.note" class="ref">1</a> until a certain note of thirty thousand dollars owing her, from the Shoshone Irrigation Co is fully paid. </p>
 
       <span class="closer">
          <br/>W. F. Cody 

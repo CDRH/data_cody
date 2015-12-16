@@ -8,10 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/large/wfc.nsp00768.001.jpg"
+         <a href="http://codyarchive.org/figures/800/wfc.nsp00768.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/large/wfc.nsp00768.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/thumbnails/wfc.nsp00768.001.jpg"
+            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00768.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="http://codyarchive.org/figures/250/wfc.nsp00768.001.jpg"
                  class="display &#xA;            "/>
          </a>
       </span>
@@ -28,9 +28,9 @@
          <p>The <span class="persName">
                <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen</a>
             </span> was accompanied by Princess Beatrice and Prince Henry of Battenberg. She was attended by the Dowager Duchess of Athole, Lady in Waiting, and Miss Cadogan, Main of Honor. Gen.Gardiner and Sir Henry Ewart were in attendance on horseback.<a name="n01.ref"> </a>
-            <a href="#n01.note" class="ref">[1]</a> The party were received by the Marquis of Lorne,<a name="n02.ref"> </a>
-            <a href="#n02.note" class="ref">[2]</a> who presented Col. Henry S. Russell, President of the American Exhibition, J.R. Whitley<a name="n03.ref"> </a>
-            <a href="#n03.note" class="ref">[3]</a> and Vincent Alpin to her Majesty.</p>
+            <a href="#n01.note" class="ref">1</a> The party were received by the Marquis of Lorne,<a name="n02.ref"> </a>
+            <a href="#n02.note" class="ref">2</a> who presented Col. Henry S. Russell, President of the American Exhibition, J.R. Whitley<a name="n03.ref"> </a>
+            <a href="#n03.note" class="ref">3</a> and Vincent Alpin to her Majesty.</p>
 
          <p>Lord Ronald Gower, Col. Hughes Hallett, Mrs. John Priestman, Sir John Maxwell Herron, Mr. Lee Thornton, Col. Griffin, Mr. J. G. Speed, Mr. C. F. Eganfield, Mr. Townsend Percy, Mr. R. M. Smith, Mr. Alfred Packard, Mr. John Sartan, Mr. William Goldring, Florence O'Driscoll, Dr. J. D. Badlack, of the Executive Reception Committee. On the stand were Mrs. Whitley, Mrs Packard, Mrs. Priestman, Mrs. Salsbury, Lady Archibald Campbell, Miss Applin, Mrs. H. S. Russell and the Misses Russell.</p>
       </div>
@@ -41,7 +41,7 @@
          <p>The Queen entered the royal box, which was heavily canopied with crimson velvet and seated herself in the centre, with Princess Beatrice on her right and Prince Henry, of Battenberg, who remained standing, on her left. The Marquis of Lorne was on the right of the Princess and the Dowager Duchess, of Athole, was behind the Queen. The front of the box was filled with a mass of rare orchids.</p>
 
          <p>About two-thirds of the usual performance was gone through with, beginning with the usual grand entree. The two young girls, Annie Oakley and Lillian Smith,<a name="n04.ref"> </a>
-            <a href="#n04.note" class="ref">[4]</a> were sent for by the Queen, who spoke a few words of praise to each.</p>
+            <a href="#n04.note" class="ref">4</a> were sent for by the Queen, who spoke a few words of praise to each.</p>
 
          <p>At the conclusion of the performance Col. Cody (Buffalo Bill) had the honor of being presented to Her Majesty, who expressed herself as greatly pleases with the exhibition she had witnessed. Col. Cody asked her if it was too long, to which she replied, "Not at all" She only regretted that her time was so limited and said she would like to come again.</p>
       </div>
