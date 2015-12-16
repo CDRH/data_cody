@@ -21,7 +21,8 @@
          <strong>Thos. T. Eckert,</strong> President and General Manager. [end heading imprint]</div>
 
 
-      <span class="ab">Number  Bu 5<a href="#n01" class="internal_link">1</a>
+      <span class="ab">Number  Bu 5<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="ab">Sent By  Co</span>
@@ -31,7 +32,8 @@
       <span class="ab">Check  29 Pd</span>
 
 
-      <span class="ab">Received at  1208P<br/>Aug 28 1895<a href="#n02" class="internal_link">2</a>
+      <span class="ab">Received at  1208P<br/>Aug 28 1895<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
       <span class="ab">Dated  Youngstown O 28</span>
@@ -56,12 +58,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Telegram is handwritten by clerk or William F. Cody assignee. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West performed in Youngstown, Ohio, on August 28, 1895.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Buffalo Bill's Wild West performed in Youngstown, Ohio, on August 28, 1895.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

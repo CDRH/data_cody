@@ -20,7 +20,8 @@
 
       <div class="note">
          <u>ans</u>
-         <a href="#n01" class="internal_link">1</a>Jan 28. 1907</div>
+         <a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>Jan 28. 1907</div>
 
 
 
@@ -66,8 +67,7 @@ administrator Estate H. C. Alger deceased.
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The handwritten 'ans' at top left likely indicates the letter was answered on January 28, 1907.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The handwritten 'ans' at top left likely indicates the letter was answered on January 28, 1907.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

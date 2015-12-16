@@ -21,15 +21,18 @@
 
       <span class="dateline">Columbia S. C.
 
-Oct- 26th 01<a href="#n01" class="internal_link">1</a>
+Oct- 26th 01<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My. Dear Hinkle</span>
 
 
-      <p>Yours to hand I will take good care of the papers you sent and return them<a href="#n02" class="internal_link">2</a>— I will be in Cody- Nov- 12th- Will leave Cody for a hunt Nov 14 be gone two weeks then— I will be at or near Cody through dec—</p>
+      <p>Yours to hand I will take good care of the papers you sent and return them<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>— I will be in Cody- Nov- 12th- Will leave Cody for a hunt Nov 14 be gone two weeks then— I will be at or near Cody through dec—</p>
 
-      <p>Come &amp; See me<a href="#n03" class="internal_link">3</a>
+      <p>Come &amp; See me<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </p>
 
       <span class="closer">
@@ -42,16 +45,13 @@ Oct- 26th 01<a href="#n01" class="internal_link">1</a>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Columbia, South Carolina, on October 26, 1901.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Columbia, South Carolina, on October 26, 1901.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The papers Cody mentions could have dealt with lands he leased from the state of Wyoming, or with either of his two Big Horn Basin irrigation projects: the Cody Canal and the Cody-Salsbury Canal.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The papers Cody mentions could have dealt with lands he leased from the state of Wyoming, or with either of his two Big Horn Basin irrigation projects: the Cody Canal and the Cody-Salsbury Canal.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Another letter from William F. Cody to Hinkle, also dated October 26, 1901, includes an invitation for Hinkle to join Cody on this hunting trip.  Buffalo Bill's Wild West gave its last performance of the 1901 season on October 28.  Cody often came to the Big Horn Basin for hunting trips at the conclusion of the show season.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Another letter from William F. Cody to Hinkle, also dated October 26, 1901, includes an invitation for Hinkle to join Cody on this hunting trip.  Buffalo Bill's Wild West gave its last performance of the 1901 season on October 28.  Cody often came to the Big Horn Basin for hunting trips at the conclusion of the show season.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -26,7 +26,8 @@
       <div class="note">RECEIVED AT</div>
 A191D KN 58 GOVERNMENT
 PINE RIDGE S_D AUG 27 1913
- LANE<a href="#n01" class="internal_link">1</a> SEC'Y OF INTERIOR
+ LANE<a name="n01.ref"> </a>
+      <a href="#n01.note" class="ref">[1]</a> SEC'Y OF INTERIOR
   COLO-SPRINGS, COLO
 
 
@@ -36,7 +37,8 @@ PINE RIDGE S_D AUG 27 1913
   <p>Your wire today I advised Col Cody this morning that I would be pleased to cooperate with him in his plan as outlined in his telegram and yours can see no objections to the plan and will be pleased to do all I can to make the affair a success</p>
       
       <span class="closer">
-         <br/>Brennan<a href="#n02" class="internal_link">2</a>
+         <br/>Brennan<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
          <br/>
     Supt
   <br/>
@@ -47,12 +49,10 @@ PINE RIDGE S_D AUG 27 1913
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

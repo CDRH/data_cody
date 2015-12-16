@@ -15,7 +15,8 @@
          </a>
       </span>
 
-      <div class="note">Klopp &amp; Bartlett Co. Omaha<br/>The Henshaw Hotel<br/>Absolutely Fireproof<br/>European Plan<br/>T. J. O' Brien, Proprietor. Omaha, Neb.<a href="#n01" class="internal_link">1</a>
+      <div class="note">Klopp &amp; Bartlett Co. Omaha<br/>The Henshaw Hotel<br/>Absolutely Fireproof<br/>European Plan<br/>T. J. O' Brien, Proprietor. Omaha, Neb.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <div class="inline_figure">
             <div class="p">[illustration]</div>
             <p>LAMH UACHTAR LAIDIRAN</p>
@@ -31,7 +32,8 @@
       </span>
 
 
-      <p>Show notices to John Brisbin Walker. Dutton Fred Hutch and others.<a href="#n02" class="internal_link">2</a>
+      <p>Show notices to John Brisbin Walker. Dutton Fred Hutch and others.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </p>
 
       <span class="closer">
@@ -234,12 +236,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: This undated note was probably written before August 1915, based on the presence of the attached route card for the Sells-Floto Circus' scheduled performances in that month.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: This undated note was probably written before August 1915, based on the presence of the attached route card for the Sells-Floto Circus' scheduled performances in that month.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: John Brisben Walker (1847-1931) had a varied career in manufacturing, ranching, real estate speculation, and journalism. His ranching and real estate activities were centered around Denver, Colorado, from about 1879 to 1889; he then moved to New York. From 1889 to 1915 he owned <em class="hi">Cosmopolitan</em> magazine. In June 1894 the magazine published an article signed by Cody entitled "Famous Hunting Parties on the Plains." Walker sold <em class="hi">Cosmopolitan</em> to William Randolph Hearst in 1915 for a large profit. "Dutton" may refer to either Samuel F. Dutton (born c. 1869), who was then the proprietor of the Albany Hotel in Denver, or his younger brother Frank R. Dutton, who helped manage the hotel. The Dutton brothers were pallbearers at Cody's funeral in 1917. "Fred Hutch" is probably Frederick Bailey Hutchinson, nephew of the famous showman James A. Bailey (1847-1906). Hutchinson served as manager for Buffalo Bill's Wild West during its final European tour, 1902-1906.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: John Brisben Walker (1847-1931) had a varied career in manufacturing, ranching, real estate speculation, and journalism. His ranching and real estate activities were centered around Denver, Colorado, from about 1879 to 1889; he then moved to New York. From 1889 to 1915 he owned <em class="hi">Cosmopolitan</em> magazine. In June 1894 the magazine published an article signed by Cody entitled "Famous Hunting Parties on the Plains." Walker sold <em class="hi">Cosmopolitan</em> to William Randolph Hearst in 1915 for a large profit. "Dutton" may refer to either Samuel F. Dutton (born c. 1869), who was then the proprietor of the Albany Hotel in Denver, or his younger brother Frank R. Dutton, who helped manage the hotel. The Dutton brothers were pallbearers at Cody's funeral in 1917. "Fred Hutch" is probably Frederick Bailey Hutchinson, nephew of the famous showman James A. Bailey (1847-1906). Hutchinson served as manager for Buffalo Bill's Wild West during its final European tour, 1902-1906.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

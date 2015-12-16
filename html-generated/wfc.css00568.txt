@@ -31,7 +31,8 @@
 
       <span class="ab">122P MH DO 17 Paid 2Pm </span>
 
-      <span class="ab">New York Jan 24th-96<a href="#n01" class="internal_link">1</a>
+      <span class="ab">New York Jan 24th-96<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
 
@@ -46,7 +47,9 @@
       <span class="ab">Washn</span>
 
 
-      <p>See president<a href="#n02" class="internal_link">2</a> vice president<a href="#n03" class="internal_link">3</a> if not hing can be done we must close down on work at once</p>
+      <p>See president<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> vice president<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> if not hing can be done we must close down on work at once</p>
 
 
       <span class="closer">
@@ -58,16 +61,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West occupied winter quarters in Bridgeport, Connecticut, from November 3, 1895 through April 17, 1896.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West occupied winter quarters in Bridgeport, Connecticut, from November 3, 1895 through April 17, 1896.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: President Grover Cleveland (1837-1908). Cody hoped Cleveland would soon sign over the lands for settlement in the Big Horn Basin under the Carey Act of 1894.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: President Grover Cleveland (1837-1908). Cody hoped Cleveland would soon sign over the lands for settlement in the Big Horn Basin under the Carey Act of 1894.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Adlai E. Stevenson I (1835-1914), was Vice-president of the United States at this time.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Adlai E. Stevenson I (1835-1914), was Vice-president of the United States at this time.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

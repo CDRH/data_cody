@@ -20,9 +20,12 @@
          <div class="center">Buffalo Bill's Little Joke.</div>
       </h3>
 
-      <p>To a number of his intimates, a few evenings ago, Mr. Sam Kayzer of the Chicago conservatory<a href="#n01" class="internal_link">1</a>, unbent so far as to tell one of the experiences of his recent trip abroad. "There's quite a town over there they call London," he began, "but there was very little English, you know, about it when I was there. It was very American. From 'is royal 'ighness down to the bootblacks, the tendency of the British intellect was towards the formation of American habits and customs, as illustrated by Buffalo Bill and his wild westerners.</p>
+      <p>To a number of his intimates, a few evenings ago, Mr. Sam Kayzer of the Chicago conservatory<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>, unbent so far as to tell one of the experiences of his recent trip abroad. "There's quite a town over there they call London," he began, "but there was very little English, you know, about it when I was there. It was very American. From 'is royal 'ighness down to the bootblacks, the tendency of the British intellect was towards the formation of American habits and customs, as illustrated by Buffalo Bill and his wild westerners.</p>
 
-      <p>"I had been in town only over night when I ran across two Chicago newspaper men—Vance Thompson<a href="#n02" class="internal_link">2</a> and the younger Busby<a href="#n03" class="internal_link">3</a>. Together we set out to see what we could see. We found the entire population headed for the Wild West show. Somebody said 'is royal 'ighness would be there on the usual free pass, so we went, followed the crowd, and chipped in our few shillings for the encouragement of home talent. We managed to worm ourselves into a conspicuous position on the very edge of the track just as the old coach drove up preparatory to being pursued by a mob of whooping savages—at $20 a month and found. Buffalo Bill rode up alongside and the Britishers cheered themselves hoarse. He glanced in our direction, and, recognizing Busby, winked for him to get into the carriage with his friends and help fire blank cartridges at the pursuing redskins. We got in and the old coach rattled up in front of the grand stand, where, in the front row, sat 'is royal 'ighness explaining to the duchess of something or other that the Americans were really quite intelligent as a class and would doubtless get over some of their rough and bloody ways as they grew older.</p>
+      <p>"I had been in town only over night when I ran across two Chicago newspaper men—Vance Thompson<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> and the younger Busby<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>. Together we set out to see what we could see. We found the entire population headed for the Wild West show. Somebody said 'is royal 'ighness would be there on the usual free pass, so we went, followed the crowd, and chipped in our few shillings for the encouragement of home talent. We managed to worm ourselves into a conspicuous position on the very edge of the track just as the old coach drove up preparatory to being pursued by a mob of whooping savages—at $20 a month and found. Buffalo Bill rode up alongside and the Britishers cheered themselves hoarse. He glanced in our direction, and, recognizing Busby, winked for him to get into the carriage with his friends and help fire blank cartridges at the pursuing redskins. We got in and the old coach rattled up in front of the grand stand, where, in the front row, sat 'is royal 'ighness explaining to the duchess of something or other that the Americans were really quite intelligent as a class and would doubtless get over some of their rough and bloody ways as they grew older.</p>
 
       <p>"It seems it had been arranged for 'is royal 'ighness to ride in the coach that day, and he came down to get in, but as he put his foot on the steps, he saw us inside, and so exclusive is he that it nettled him. He wanted us put out before he would get in. But Bill came to our rescue. He had invited us, so he proposed to stand by us. 'You see,' said he, familiarly to the prince, 'those fellows are half-breeds, and pretty ugly ones, too. I don't think it would be wise to stir up any fuss with 'em. The're bad citizens when the're riled.' So the prince went back to his perch in the grand stand and we remained in the old Deadwood stage.</p>
 
@@ -39,16 +42,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1. Samuel Kayzer, founder of the Chicago Conservatory of Music and Dramatic Art and its president during 1887; Kayzer was later appointed Commissioner of Music for America to the World's Fair in Paris, 1900.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1. Samuel Kayzer, founder of the Chicago Conservatory of Music and Dramatic Art and its president during 1887; Kayzer was later appointed Commissioner of Music for America to the World's Fair in Paris, 1900.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Charles Vance Thompson (1863-1925), known as Vance Thompson, was an author, playwright, and newspaper correspondent.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Charles Vance Thompson (1863-1925), known as Vance Thompson, was an author, playwright, and newspaper correspondent.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Busby Thompson is not further identified.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Busby Thompson is not further identified.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

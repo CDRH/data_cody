@@ -23,7 +23,8 @@
             <p>London &amp; North Western Railway Company</p>
          </div> 
 
-North Western Hotel, Liverpool<a href="#n01" class="internal_link">1</a>
+North Western Hotel, Liverpool<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 Hotels at the following stations are under the Company's Management<br/>
 Euston. London. Liverpool. Birmingham. Preston. Crewe. Holyhead. Greenore. North Wall. Dublin. Bletchley.
@@ -38,7 +39,8 @@ Euston. London. Liverpool. Birmingham. Preston. Crewe. Holyhead. Greenore. North
          </span>.</span>
 
 
-      <p>As there will be no Park travel this summer- I will not build the big addition now. but will build an annex and let the contract to home contractors.<a href="#n02" class="internal_link">2</a> You can send me your bill up to date.</p>
+      <p>As there will be no Park travel this summer- I will not build the big addition now. but will build an annex and let the contract to home contractors.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> You can send me your bill up to date.</p>
 
       <span class="closer">
          <span class="salute">Very truly Yours</span>
@@ -96,12 +98,10 @@ U. S. A.
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: This letter is written on the right half of a folded piece of hotel stationery. Several penciled calculations of sums appear on the left half of the paper. Buffalo Bill's Wild West performed in Liverpool, England, from May 4 to May 23, 1903.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: This letter is written on the right half of a folded piece of hotel stationery. Several penciled calculations of sums appear on the left half of the paper. Buffalo Bill's Wild West performed in Liverpool, England, from May 4 to May 23, 1903.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: William F. Cody had considered building an addition to his Irma Hotel in the town of Cody, Wyoming, but ultimately decided not to proceed. Cody's comment regarding "no Park travel" very likely refers to the low number of visitors then accessing Yellowstone National Park via the town of Cody as compared to other possible routes.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: William F. Cody had considered building an addition to his Irma Hotel in the town of Cody, Wyoming, but ultimately decided not to proceed. Cody's comment regarding "no Park travel" very likely refers to the low number of visitors then accessing Yellowstone National Park via the town of Cody as compared to other possible routes.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

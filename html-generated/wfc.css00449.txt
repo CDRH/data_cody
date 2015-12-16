@@ -24,7 +24,8 @@
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-      <span class="dateline">Cortland. N. Y.<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Cortland. N. Y.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 Sep. 16th 95</span>
 
@@ -37,7 +38,8 @@ Sep. 16th 95</span>
             <a href="http://rosie.unl.edu/cody_archive/doc/ryan.j">Ryan</a>
          </span> &amp; <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/cunningham.d">Cunningham</a>
-         </span> &amp; Hillsberry<a href="#n02" class="internal_link">2</a>. I fear you did not get to the country to quick to get any option on <u>feed</u>. I wrote <span class="persName">
+         </span> &amp; Hillsberry<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>. I fear you did not get to the country to quick to get any option on <u>feed</u>. I wrote <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t">Heck</a>
          </span> some time ago to Send a man there to do that. But as those people up there ought to encourage <a rel="tooltip" class="sic" title="enterprise​ &#xA;    ">enterprize</a> they may not sinch you— Post your self on Wyoming <del>w</del> irrigation laws so we will <a rel="tooltip" class="sic" title="always​ &#xA;    ">allways</a> be on the safe side. Am dam glad I am to get but few letters from Sheridan during the three years I have been doing business there. Not a single man ever wrote me a letter from there only just as the train was leaving
 
@@ -72,12 +74,10 @@ or else they made that as an excuse to quit. How many trains have Marquette a da
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: BBWW performed in Cortland, New York, on September 16, 1895.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: BBWW performed in Cortland, New York, on September 16, 1895.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Hillsberry" refers to Laban Hillberry (or Labin Hillsberry), a prospector who was looking for investors in a water development project in the Big Horn Basin in 1893 when he met George Beck. Hillberry encouraged Beck to explore the potential for diverting water from the South Fork of the "Stinking Water" (Shoshone River) to irrigate the area. Beck then sent Jerry Ryan to evaluate the country for him; Ryan's report encouraged Beck to seriously consider the Big Horn Basin.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Hillsberry" refers to Laban Hillberry (or Labin Hillsberry), a prospector who was looking for investors in a water development project in the Big Horn Basin in 1893 when he met George Beck. Hillberry encouraged Beck to explore the potential for diverting water from the South Fork of the "Stinking Water" (Shoshone River) to irrigate the area. Beck then sent Jerry Ryan to evaluate the country for him; Ryan's report encouraged Beck to seriously consider the Big Horn Basin.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

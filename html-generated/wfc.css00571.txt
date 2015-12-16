@@ -44,7 +44,9 @@
 
       <p>Have sent word to <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
-         </span>, think Nailor<a href="#n01" class="internal_link">1</a> in will see other party<a href="#n02" class="internal_link">2</a>.</p>
+         </span>, think Nailor<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> in will see other party<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>.</p>
 
 
       <span class="closer">
@@ -57,12 +59,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Colonel Allison Nailor (1836-1908), a friend of Cody's who accompanied Cody on his trip to the Grand Canyon in 1892. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Colonel Allison Nailor (1836-1908), a friend of Cody's who accompanied Cody on his trip to the Grand Canyon in 1892. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "other party" is unidentified.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "other party" is unidentified.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -24,7 +24,8 @@
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-      <span class="dateline">New Port. June 26th 95<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">New Port. June 26th 95<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -37,7 +38,8 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
          </span> expects to start west the 1st of July. And is in hopes of <a rel="tooltip" class="sic" title="taking​ &#xA;    ">takeing</a> two or three Boston men with him. George we have got to get some one with money into it. If <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w">Paxton</a>
-         </span> and Creighton<a href="#n02" class="internal_link">2</a> would go in $50,000 will open up the the 25000 acre tract. after that it will be easy sailing. I can put <span class="persName">
+         </span> and Creighton<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> would go in $50,000 will open up the the 25000 acre tract. after that it will be easy sailing. I can put <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t">Heckerts</a>
          </span> outfit to work And commence work but I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> carry the whole scheme I will help you all I can. But George I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> put up for <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
@@ -67,7 +69,8 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-or cut bait. If this work is to be commenced— I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> start in &amp; do it all— Hymer can be let out as Manager. If Paxton &amp; Creighton object to him— Keep some one local to go up there &amp; start things. A Mr. <u>Hake</u> &amp; Bro<a href="#n03" class="internal_link">3</a> two good men with money wants to go into something they are at Sheridan I am sure they would like to go into this—</p>
+or cut bait. If this work is to be commenced— I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> start in &amp; do it all— Hymer can be let out as Manager. If Paxton &amp; Creighton object to him— Keep some one local to go up there &amp; start things. A Mr. <u>Hake</u> &amp; Bro<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> two good men with money wants to go into something they are at Sheridan I am sure they would like to go into this—</p>
 
       <p>But if this is to commence this Summer <del>some</del> you and Alger will have to put your shoulder to the wheel. And call a meeting &amp; reorganize. Those who <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> ante drop out—</p>
 
@@ -83,16 +86,13 @@ or cut bait. If this work is to be commenced— I <a rel="tooltip" class="sic" t
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed at Newport, Rhode Island, June 26, 1895. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed at Newport, Rhode Island, June 26, 1895. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Creighton" is likely John A. Creighton (1831-1907), pioneer businessman and philanthropist from Omaha, Nebraska, who founded Creighton University, owned a railroad company, and was Vice-President of the First National Bank of Omaha.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Creighton" is likely John A. Creighton (1831-1907), pioneer businessman and philanthropist from Omaha, Nebraska, who founded Creighton University, owned a railroad company, and was Vice-President of the First National Bank of Omaha.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "A Mr. Hake &amp; Bro" are not identified.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "A Mr. Hake &amp; Bro" are not identified.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

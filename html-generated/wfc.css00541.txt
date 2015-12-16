@@ -18,7 +18,8 @@
       <div class="note">Buffalo Bill's Wild West </div>
 
 
-      <span class="dateline">New York<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">New York<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 April 19th 1901</span>
@@ -33,7 +34,10 @@ April 19th 1901</span>
       <p>Glad to get your letter of the 13<u>th</u> Am glad the new ditch is completed— Am glad you are cleaning and going over the old ditch— When you want my money for the new south fork bridge <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> ready— George I am glad you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> 
          <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> all you hear. <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/peake.j">Peake</a>
-         </span> told me that last year your hogs run at large— and Many complaints were made No hogs should be allowed to run at large. Am glad you count me in on the Power &amp; <a rel="tooltip" class="sic" title="Electric​ &#xA;    ">Elictric</a> Co<a href="#n02" class="internal_link">2</a>— for I want to help make it a success— and our college<a href="#n03" class="internal_link">3</a> will light by it if we can find a location near Town<a href="#n04" class="internal_link">4</a>— We held our first meetings in New Jersey this forenoon. And I tell you
+         </span> told me that last year your hogs run at large— and Many complaints were made No hogs should be allowed to run at large. Am glad you count me in on the Power &amp; <a rel="tooltip" class="sic" title="Electric​ &#xA;    ">Elictric</a> Co<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>— for I want to help make it a success— and our college<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> will light by it if we can find a location near Town<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a>— We held our first meetings in New Jersey this forenoon. And I tell you
 
 
 <span class="hr"> </span>
@@ -50,7 +54,8 @@ April 19th 1901</span>
          <div class="note">Buffalo Bill's Wild West </div>
 
 
-this Military College— is going to be a great success— And just think of what a help it will be to our town— why no Military Government Fort near a town will be a starter to it— We have raised in four days money enough to start it— Gen. Sumner<a href="#n05" class="internal_link">5</a>— will write you— and I hope every one will do all they can to assist the General when he gets there— and before if he requires anything. here is his address—
+this Military College— is going to be a great success— And just think of what a help it will be to our town— why no Military Government Fort near a town will be a starter to it— We have raised in four days money enough to start it— Gen. Sumner<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a>— will write you— and I hope every one will do all they can to assist the General when he gets there— and before if he requires anything. here is his address—
 
 Gen. E. V. Sumner—
 Room 506 Townsend Bld
@@ -107,24 +112,19 @@ he will establish head quarters to receive the recruits— and let contract for 
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in New York City, New York, from April 2 through April 20, 1901.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in New York City, New York, from April 2 through April 20, 1901.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Beck would eventually establish the Shoshone Electric Light and Power Company in 1904.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Beck would eventually establish the Shoshone Electric Light and Power Company in 1904.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: William F. Cody announced the founding of "Cody Military College and International Academy of Rough Riders" in 1901 to considerable fanfare. However, the project never became a reality.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: William F. Cody announced the founding of "Cody Military College and International Academy of Rough Riders" in 1901 to considerable fanfare. However, the project never became a reality.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Cody, Wyoming.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Cody, Wyoming.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: General Edwin Vose Sumner, Jr. (1835-1912), was a veteran of the Civil War and the Indian Wars.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: General Edwin Vose Sumner, Jr. (1835-1912), was a veteran of the Civil War and the Indian Wars.<a href="#n05.ref"> [back]</a>
       </p>
    </div>
 

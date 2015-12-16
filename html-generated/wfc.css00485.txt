@@ -28,12 +28,14 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">St Louis Mo<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">St Louis Mo<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 May 22/96</span>
 
-      <span class="salute">My Dear Flood<a href="#n02" class="internal_link">2</a>
+      <span class="salute">My Dear Flood<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
       <p>Thanks for statements and letter. As far as they go they are <a rel="tooltip" class="sic" title="all right​ &#xA;    ">allright</a>. But <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> the outside bills that are contracted that we <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> hear from. But thats not your fault.</p>
@@ -107,12 +109,10 @@ I will stand most anything else but that—</p>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in St. Louis, Missouri, May 18-23, 1896. The day's entry in the 1896 Route Diary: "St. Louis, Mo. / Friday, May 22. To-day the weather cleared up a little and gave one good day, consequently good business; every chair in the house was sold at 7.30. Col. Cody's horse fell this afternoon and caught his foot, but did him no injury. Cowboys Bill Brace and Bob Wilkinson were thrown to-night in the bucking-horse act. The Order of the Mystic Shrine came out in a body to see us to-night."<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in St. Louis, Missouri, May 18-23, 1896. The day's entry in the 1896 Route Diary: "St. Louis, Mo. / Friday, May 22. To-day the weather cleared up a little and gave one good day, consequently good business; every chair in the house was sold at 7.30. Col. Cody's horse fell this afternoon and caught his foot, but did him no injury. Cowboys Bill Brace and Bob Wilkinson were thrown to-night in the bucking-horse act. The Order of the Mystic Shrine came out in a body to see us to-night."<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Mr. Flood" is likely "D. P. Flood" who wrote to Beck in 1896 and is mentioned by Cody in 1896 letters to Beck. Flood may have been a foreman or livestock handler employed on the irrigation project; his exact role is not known.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Mr. Flood" is likely "D. P. Flood" who wrote to Beck in 1896 and is mentioned by Cody in 1896 letters to Beck. Flood may have been a foreman or livestock handler employed on the irrigation project; his exact role is not known.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

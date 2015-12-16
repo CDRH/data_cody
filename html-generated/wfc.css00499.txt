@@ -28,7 +28,8 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">Racine Wis<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Racine Wis<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 Aug 29/ 96</span>
@@ -40,11 +41,15 @@ Aug 29/ 96</span>
       </span>
 
       <p>Thanks for letter and pictures. Send all you can as I can use them talking up our <a rel="tooltip" class="sic" title="Enterprise​ &#xA;    ">Enterprize</a>. You <del>are</del> 
-         <a rel="tooltip" class="sic" title="certainly​ &#xA;    ">ceartainly</a> are going to keep pegging away at the red bluff<a href="#n02" class="internal_link">2</a> &amp; <a rel="tooltip" class="sic" title="solid​ &#xA;    ">sollid</a> rock. <span class="persName">
+         <a rel="tooltip" class="sic" title="certainly​ &#xA;    ">ceartainly</a> are going to keep pegging away at the red bluff<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> &amp; <a rel="tooltip" class="sic" title="solid​ &#xA;    ">sollid</a> rock. <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
-         </span> told me you were and I think the Buffalo men<a href="#n03" class="internal_link">3</a> understands you are. And I think you ought to work a force large enough to work to <del>d</del> Advantage at least— As you have a stenographer<a href="#n04" class="internal_link">4</a> paid by the Co. You should let each member of the Co know <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> going on. And tell them what you would like to do— that would be of benefit to Co. &amp;c— As <span class="persName">
+         </span> told me you were and I think the Buffalo men<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> understands you are. And I think you ought to work a force large enough to work to <del>d</del> Advantage at least— As you have a stenographer<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> paid by the Co. You should let each member of the Co know <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> going on. And tell them what you would like to do— that would be of benefit to Co. &amp;c— As <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
-         </span> has paid Paxton &amp; Co<a href="#n05" class="internal_link">5</a>
+         </span> has paid Paxton &amp; Co<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a>
 
          <span class="hr"> </span>
          <span class="pageimage">
@@ -84,32 +89,27 @@ And as you have to keep men to run the store. If you can <u>sell</u> anything to
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Racine, Wisconsin, on August 29, 1896. The day's entry in the 1896 Route Diary: "Racine, Wis. / Saturday, August 29. We had a series of small things happen on our run to-night; among them was the falling of a brake-rod and a bad flat wheel, which delayed us so that we did not get into town until 6.30 A. M. One-mile haul to lot. Edward C. Wiebe, of the electric-light department, left to-day to join the Augustine Neuville Dramatic Company, at Louisville, Ky. John Curly left again to-night to go to the hospital in Milwaukee. James Rushenberger returned to-day from St. Luke's Hospital, Chicago. Indian Two Dog and wife closed to-day and left for Pine Ridge Agency to-night. M. Coyle, excursion agent and railroad manager, was with us to-day. To-night closes one of the best weeks of the season, so far as a financial basis is considered/ Weather warm, and everything that could be desired. / Business good at both performances. / Lot, Fair Grounds. / Arena, 187 x 363."<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Racine, Wisconsin, on August 29, 1896. The day's entry in the 1896 Route Diary: "Racine, Wis. / Saturday, August 29. We had a series of small things happen on our run to-night; among them was the falling of a brake-rod and a bad flat wheel, which delayed us so that we did not get into town until 6.30 A. M. One-mile haul to lot. Edward C. Wiebe, of the electric-light department, left to-day to join the Augustine Neuville Dramatic Company, at Louisville, Ky. John Curly left again to-night to go to the hospital in Milwaukee. James Rushenberger returned to-day from St. Luke's Hospital, Chicago. Indian Two Dog and wife closed to-day and left for Pine Ridge Agency to-night. M. Coyle, excursion agent and railroad manager, was with us to-day. To-night closes one of the best weeks of the season, so far as a financial basis is considered/ Weather warm, and everything that could be desired. / Business good at both performances. / Lot, Fair Grounds. / Arena, 187 x 363."<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Red Bluffs is a hill formation to the south and west of Cody, Wyoming, that stands out among the mountainous formations due to its red color.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Red Bluffs is a hill formation to the south and west of Cody, Wyoming, that stands out among the mountainous formations due to its red color.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Buffalo men" and "Buffalo parties" refer to investors from Buffalo, New York: <span class="persName">
+         <a name="n03.note"> </a>Note 3: "Buffalo men" and "Buffalo parties" refer to investors from Buffalo, New York: <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
          </span>, <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
          </span>, and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
-         </span>.<a href="#n03.ref">  [back]
-            </a>
+         </span>.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: The "stenographer" may have been Daisy May Sorrenson, whom Beck hired to work in the office of Shoshone Irrigation Company; Beck and Sorrenson married in 1897.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: The "stenographer" may have been Daisy May Sorrenson, whom Beck hired to work in the office of Shoshone Irrigation Company; Beck and Sorrenson married in 1897.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: The Paxton &amp; Gallagher Wholesale Grocery Company was founded in 1879 by <span class="persName">
+         <a name="n05.note"> </a>Note 5: The Paxton &amp; Gallagher Wholesale Grocery Company was founded in 1879 by <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w">William Paxton</a>
-         </span> and Benjamin Gallagher. Paxton was being pursued as a potential investor in Shoshone Irrigation Company but later decided against investing.<a href="#n05.ref">  [back]
-            </a>
+         </span> and Benjamin Gallagher. Paxton was being pursued as a potential investor in Shoshone Irrigation Company but later decided against investing.<a href="#n05.ref"> [back]</a>
       </p>
    </div>
 </div>

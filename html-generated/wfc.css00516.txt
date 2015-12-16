@@ -16,10 +16,12 @@
          </a>
       </span>
 
-      <span class="dateline">April 19-1897—<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">April 19-1897—<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
-      <p>The monied men of our Co. want to know what you are doing &amp; if you are going to get water to the town<a href="#n02" class="internal_link">2</a> &amp; below. They say they are tired of such management and if you can't do the work they want to know it and at once.</p>
+      <p>The monied men of our Co. want to know what you are doing &amp; if you are going to get water to the town<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> &amp; below. They say they are tired of such management and if you can't do the work they want to know it and at once.</p>
 
       <p>
          <span class="persName">
@@ -40,12 +42,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Letter is inscribed on lined notepaper by someone other than Cody, perhaps dictated by Cody to an employee. No salutation is inscribed, but it is written to George Beck.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Letter is inscribed on lined notepaper by someone other than Cody, perhaps dictated by Cody to an employee. No salutation is inscribed, but it is written to George Beck.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody, Wyoming.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody, Wyoming.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

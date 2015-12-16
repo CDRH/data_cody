@@ -39,7 +39,8 @@
 
       <p>"But did you never see Buffalo Bill until you joined this show?"</p>
 
-      <p>"Yes, I saw him long ago, but we never spoke until a little while since. All the men of the Sioux nation know Buffalo Bill by reputation. The first time I saw him was at the fight at War Barnard Creek,<a href="#n01" class="internal_link">1</a> when the white men were too many for the poor Indians. It was twelve or thirteen years ago, but (and here his bloodshot eyes twinkled ominously) that fight I can see now. Buffalo Bill in the struggle killed Yellow Hand, a great Indian brave, and took his scalp. I tried to fight my way to the white man to revenge my brother, and although we got very near I could not reach him. Had we met one would have died. But the soldiers were encircling us, five of our men were shot down, and we fled. Then we would have killed each other, but now we have the same heart, and we are brothers, Colonel Cody is awfully good to me and my people."</p>
+      <p>"Yes, I saw him long ago, but we never spoke until a little while since. All the men of the Sioux nation know Buffalo Bill by reputation. The first time I saw him was at the fight at War Barnard Creek,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> when the white men were too many for the poor Indians. It was twelve or thirteen years ago, but (and here his bloodshot eyes twinkled ominously) that fight I can see now. Buffalo Bill in the struggle killed Yellow Hand, a great Indian brave, and took his scalp. I tried to fight my way to the white man to revenge my brother, and although we got very near I could not reach him. Had we met one would have died. But the soldiers were encircling us, five of our men were shot down, and we fled. Then we would have killed each other, but now we have the same heart, and we are brothers, Colonel Cody is awfully good to me and my people."</p>
 
       <p>"Will you tell me another fight in which you were engaged?"</p>
 
@@ -60,8 +61,7 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: War Bonnet Creek.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: War Bonnet Creek.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

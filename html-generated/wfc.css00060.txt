@@ -30,7 +30,10 @@ Apr. 26th 1886
          </span>—</span>
 
 
-      <p>Enclosed find a P.O. for $25.<a href="#n01" class="internal_link">1</a> I presume you are getting about ready to come to St. Louis. Wish you would start from home in time to arrive in St. Louis about the 2nd or <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a> of May. Go to the. St. James Hotel if I <a rel="tooltip" class="sic" title="ain't​ &#xA;    ">aint</a> there to meet you. I will be there any how by the <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a>.<a href="#n02" class="internal_link">2</a> I have got you the white horse. and a fine saddle. Suppose you have your habit.<a href="#n03" class="internal_link">3</a>
+      <p>Enclosed find a P.O. for $25.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> I presume you are getting about ready to come to St. Louis. Wish you would start from home in time to arrive in St. Louis about the 2nd or <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a> of May. Go to the. St. James Hotel if I <a rel="tooltip" class="sic" title="ain't​ &#xA;    ">aint</a> there to meet you. I will be there any how by the <a rel="tooltip" class="sic" title="3rd​ &#xA;    ">3th</a>.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> I have got you the white horse. and a fine saddle. Suppose you have your habit.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </p>
 
       <p>Will be glad to see you—</p>
@@ -45,16 +48,13 @@ Apr. 26th 1886
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: A postal money order.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: A postal money order.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West opened its 1886 season in St. Louis on May 10.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Buffalo Bill's Wild West opened its 1886 season in St. Louis on May 10.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Cody refers to a "riding habit," a set of tailored clothing then considered proper dress for women riding horseback.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Cody refers to a "riding habit," a set of tailored clothing then considered proper dress for women riding horseback.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

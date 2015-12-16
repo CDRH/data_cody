@@ -24,7 +24,8 @@
 
       <span class="ab">J K WI 15 Paid</span>
 
-      <span class="ab">321 P.M. April 6 1896<a href="#n01" class="internal_link">1</a>
+      <span class="ab">321 P.M. April 6 1896<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="ab">
@@ -43,9 +44,11 @@
       <span class="ab">Sheridan Wyo.</span>
 
 
-      <p>Arranging funds have you filed placer claims<a href="#n02" class="internal_link">2</a> where is <span class="persName">
+      <p>Arranging funds have you filed placer claims<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> where is <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/mead.e">Mead</a>
-         </span> answer quick leaving for New York.<a href="#n03" class="internal_link">3</a>
+         </span> answer quick leaving for New York.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </p>
 
 
@@ -56,16 +59,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West occupied its winter quarters in Bridgeport, Connecticut, from November 3, 1895, through mid-April 1896, before their opening in Philadelphia on April 18, 1896.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West occupied its winter quarters in Bridgeport, Connecticut, from November 3, 1895, through mid-April 1896, before their opening in Philadelphia on April 18, 1896.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Occasionally Cody asked Beck to file claims for him on mining and oil interests.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Occasionally Cody asked Beck to file claims for him on mining and oil interests.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Cody would head to New York and then to Philadelphia for the opening of the 1896 season on April 18, 1896.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Cody would head to New York and then to Philadelphia for the opening of the 1896 season on April 18, 1896.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

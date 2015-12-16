@@ -21,7 +21,8 @@
 
       <p>CHRISTENING AN INDIAN BABY.—Yesterday afternoon an extraordinary scene was witnessed at St. Clement's Church, Salford, when the female child of the Sioux Indian "<span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/little.chief">Little Chief</a>
-         </span>," which was recently born in Buffalo Bill's camp, was christened in all the rites of the English Church. The entire body of Sioux and Apaché Indians at present located in the Wild West camp walked in procession to the church, which was filled to overflowing with a miscellaneous company, comprising Colonel and Miss Cody,<a href="#" class="internal_link">1</a> 
+         </span>," which was recently born in Buffalo Bill's camp, was christened in all the rites of the English Church. The entire body of Sioux and Apaché Indians at present located in the Wild West camp walked in procession to the church, which was filled to overflowing with a miscellaneous company, comprising Colonel and Miss Cody,<a name=".ref"> </a>
+         <a href="#.note" class="ref">[1]</a> 
          <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">Major Burke</a>
          </span>, <span class="persName">
@@ -37,8 +38,7 @@
 
    <div class="bibliography">
       <p>
-         <a name=".note"/>Note 1: Arta Lucille Cody (1866-1904), the eldest daughter of Louisa and William F. Cody, sailed to England on her own in 1887 to join her father during Buffalo Bill's Wild West's first tour abroad.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 1: Arta Lucille Cody (1866-1904), the eldest daughter of Louisa and William F. Cody, sailed to England on her own in 1887 to join her father during Buffalo Bill's Wild West's first tour abroad.<a href="#.ref"> [back]</a>
       </p>
    </div>
 </div>

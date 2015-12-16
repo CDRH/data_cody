@@ -24,9 +24,11 @@
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-      <span class="dateline">Atlanta<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Atlanta<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
-Oct 31<a href="#n02" class="internal_link">2</a>
+Oct 31<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -34,13 +36,16 @@ Oct 31<a href="#n02" class="internal_link">2</a>
          </span>
       </span>
 
-      <p>I close here Saturday Nov 2d<a href="#n03" class="internal_link">3</a>— <u>Busted</u>. This is the worst place we have struck no one coming to this Fair. You must close down fast or if I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> get new blood<a href="#n04" class="internal_link">4</a> in we will be in an awful tight place— Do you appreciate what I mea[n] I will do my part but get down as easy on me as you possibly can this I have written you several times.</p>
+      <p>I close here Saturday Nov 2d<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>— <u>Busted</u>. This is the worst place we have struck no one coming to this Fair. You must close down fast or if I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> get new blood<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> in we will be in an awful tight place— Do you appreciate what I mea[n] I will do my part but get down as easy on me as you possibly can this I have written you several times.</p>
 
       <p>I will give you my route as near as I can.  <del>wire</del> Nov. 6 &amp; 7. Continental Hotel Philadelphia Pa— <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsburys</a>
          </span> Address till Nov 16th Grand Opera House Philadelphia Pa Better direct there. I will try and be with <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Geo Bleistein</a>
-         </span>. Buffalo. Oct 9th then we start for you<a href="#n05" class="internal_link">5</a>—</p>
+         </span>. Buffalo. Oct 9th then we start for you<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a>—</p>
 
       <span class="closer">
          <br/>Bill
@@ -50,24 +55,19 @@ Oct 31<a href="#n02" class="internal_link">2</a>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Atlanta, Georgia, from October 28 - November 2, 1895, during the run of The Cotton States and International Exposition, also known as the Atlanta Exposition. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Atlanta, Georgia, from October 28 - November 2, 1895, during the run of The Cotton States and International Exposition, also known as the Atlanta Exposition. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1895 as determined by the Routes List. <a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The year is not inscribed by Cody but is 1895 as determined by the Routes List. <a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Buffalo Bill's Wild West closed the season on November 2nd. The run in Atlanta had been very unprofitable.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Buffalo Bill's Wild West closed the season on November 2nd. The run in Atlanta had been very unprofitable.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Cody writes that construction on the canal will need to be shut down if new investors are not found to keep the project going.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Cody writes that construction on the canal will need to be shut down if new investors are not found to keep the project going.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: A hunt in northwest Wyoming, for which Beck was preparing, was planned following the close of the season.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: A hunt in northwest Wyoming, for which Beck was preparing, was planned following the close of the season.<a href="#n05.ref"> [back]</a>
       </p>
    </div>
 </div>

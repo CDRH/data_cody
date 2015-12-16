@@ -18,7 +18,8 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
 
-      <span class="dateline">Fairbury Neb<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Fairbury Neb<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 
@@ -30,7 +31,8 @@ Aug 2d 1902</span>
          </span>—</span>
 
 
-      <p>Glad to get your letter. hope you can meet me in Cheyenne<a href="#n02" class="internal_link">2</a>. The money for the extension &amp; reconstructing our Canal is just as good as though it was in the bank. So I am informed by <span class="persName">
+      <p>Glad to get your letter. hope you can meet me in Cheyenne<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>. The money for the extension &amp; reconstructing our Canal is just as good as though it was in the bank. So I am informed by <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
          </span>. <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
@@ -53,12 +55,10 @@ Aug 2d 1902</span>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed at Fairbury, Nebraska, on August 2, 1902.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed at Fairbury, Nebraska, on August 2, 1902.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody was planning to be in Cheyenne, Wyoming, on August 9, 1902, for the scheduled performance of Buffalo Bill's Wild West.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody was planning to be in Cheyenne, Wyoming, on August 9, 1902, for the scheduled performance of Buffalo Bill's Wild West.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -30,7 +30,9 @@ May 23.th 79
          </span>.</span>
 
 
-      <p>Yours at hand I have but a few moments to write you. I just came in from my ranch for the balance of my outfit chuck &amp; c.<a href="#n01" class="internal_link">1</a> for the round up start out in two hours have a hundred different things to get together. <a rel="tooltip" class="sic" title="Won't​ &#xA;    ">Wont</a> have time to read Cody's Corrall<a href="#n02" class="internal_link">2</a> but will take it with me. and read it on the prairie. <a rel="tooltip" class="sic" title="probably​ &#xA;    ">probaly</a> it
+      <p>Yours at hand I have but a few moments to write you. I just came in from my ranch for the balance of my outfit chuck &amp; c.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> for the round up start out in two hours have a hundred different things to get together. <a rel="tooltip" class="sic" title="Won't​ &#xA;    ">Wont</a> have time to read Cody's Corrall<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> but will take it with me. and read it on the prairie. <a rel="tooltip" class="sic" title="probably​ &#xA;    ">probaly</a> it
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -42,7 +44,8 @@ May 23.th 79
             </a>
          </span>
 
-will go better there. You say your health is bad. if I had you to fork some of my pitching horses<a href="#n03" class="internal_link">3</a> and go it on corn bread straight in this great and <a rel="tooltip" class="sic" title="glorious​ &#xA;    ">glourious</a> climate for a few months I would fix you.</p>
+will go better there. You say your health is bad. if I had you to fork some of my pitching horses<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> and go it on corn bread straight in this great and <a rel="tooltip" class="sic" title="glorious​ &#xA;    ">glourious</a> climate for a few months I would fix you.</p>
 
       <p>Will old Pard <a rel="tooltip" class="sic" title="probably​ &#xA;    ">probaly</a> some time we will hoof it up together some time over the prairie. this is the boss life to lead.</p>
 
@@ -60,16 +63,13 @@ will go better there. You say your health is bad. if I had you to fork some of m
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Cody refers to resupplying food ("chuck") for his "outfit" of riders on the ranch.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Cody refers to resupplying food ("chuck") for his "outfit" of riders on the ranch.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody most likely refers to the poem "Cody's Corral, or, the Scouts and the Sioux," which was later reprinted in programs for Buffalo Bill's Wild West as early as 1885.  The 1885 program gave credit for the poem to "Buckskin Sam."<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody most likely refers to the poem "Cody's Corral, or, the Scouts and the Sioux," which was later reprinted in programs for Buffalo Bill's Wild West as early as 1885.  The 1885 program gave credit for the poem to "Buckskin Sam."<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: In this context, "to fork" means "to mount."  "Pitching" is apparently Texas slang for what other Westerners would call "bucking."<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: In this context, "to fork" means "to mount."  "Pitching" is apparently Texas slang for what other Westerners would call "bucking."<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

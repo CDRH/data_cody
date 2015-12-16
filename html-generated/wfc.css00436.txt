@@ -39,7 +39,8 @@
       </div>
 
 
-      <span class="dateline">Allentown. May 9 1895.<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Allentown. May 9 1895.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">Dear- <span class="persName">
@@ -59,13 +60,16 @@
 </span>
 
 
-      <p>P.S. I am simply worked to death— but am getting there. Salsbury has been dangerously ill—<a href="#n02" class="internal_link">2</a>
+      <p>P.S. I am simply worked to death— but am getting there. Salsbury has been dangerously ill—<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </p>
 
-      <p>You see Assay of Rushville is ready to take Indian &amp; find mine<a href="#n03" class="internal_link">3</a>
+      <p>You see Assay of Rushville is ready to take Indian &amp; find mine<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </p>
 
-      <p>Write him-<a href="#n04" class="internal_link">4</a>
+      <p>Write him-<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a>
       </p>
 
 
@@ -80,20 +84,16 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Allentown, Pennsylvania, on May 9, 1895.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Allentown, Pennsylvania, on May 9, 1895.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Very likely a manifestation of the illness that would eventually kill Salsbury in 1902.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Very likely a manifestation of the illness that would eventually kill Salsbury in 1902.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation in South Dakota, but lost his license in 1891 for selling alcohol on the reservation.  He moved his business to nearby Rushville, Nebraska, where he continued to supply goods to Indian customers.  William F. Cody was a friend of Asay and often used Rushville as a base for recruiting Lakota performers for Buffalo Bill's Wild West.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation in South Dakota, but lost his license in 1891 for selling alcohol on the reservation.  He moved his business to nearby Rushville, Nebraska, where he continued to supply goods to Indian customers.  William F. Cody was a friend of Asay and often used Rushville as a base for recruiting Lakota performers for Buffalo Bill's Wild West.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: This line and Cody's signature in the postscript are written at an angle in the lower right corner of the page.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: This line and Cody's signature in the postscript are written at an angle in the lower right corner of the page.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -20,7 +20,9 @@
 
       <span class="byline">Washington special.</span>
 
-      <p>A good story is told on Minister Phelps,<a href="#n01" class="internal_link">1</a> who was recently given a leave of absence from his post in England to lobby the fisheries treaty through the senate for the administration—in which job he failed, by the way. General Carr,<a href="#n02" class="internal_link">2</a> a well known campaigner and stump speaker in Illinois, was in London with a friend last winter, when he thought it would be the proper thing for him to call on the American minister and pay his respects. He went to the legation and sent in his card, and, after being kept in waiting for about a quarter of an hour, he was shown into a private office by a livered servant. There he saw the representative of his country standing in frigid silence, with a look of severe inquiry upon his face that chilled the western man's marrow, and made him wish he had never thought of coming. He introduced himself in an embarrassed way, however, and was permitted to shake one of Mr. Phelps' fingers. Before much had been said on either side Mr. Phelps broke in with the remark that he hoped that his visitor would not ask him to get cards of admission to the house of parliament. "I am very much bothered, you know," drawled he, "by the importunities of Americans for favors of the kind, and as they are so frequent have to refuse them, which is quite awkward and embarrassing, you know."</p>
+      <p>A good story is told on Minister Phelps,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> who was recently given a leave of absence from his post in England to lobby the fisheries treaty through the senate for the administration—in which job he failed, by the way. General Carr,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> a well known campaigner and stump speaker in Illinois, was in London with a friend last winter, when he thought it would be the proper thing for him to call on the American minister and pay his respects. He went to the legation and sent in his card, and, after being kept in waiting for about a quarter of an hour, he was shown into a private office by a livered servant. There he saw the representative of his country standing in frigid silence, with a look of severe inquiry upon his face that chilled the western man's marrow, and made him wish he had never thought of coming. He introduced himself in an embarrassed way, however, and was permitted to shake one of Mr. Phelps' fingers. Before much had been said on either side Mr. Phelps broke in with the remark that he hoped that his visitor would not ask him to get cards of admission to the house of parliament. "I am very much bothered, you know," drawled he, "by the importunities of Americans for favors of the kind, and as they are so frequent have to refuse them, which is quite awkward and embarrassing, you know."</p>
 
       <p>"Oh, don't be afraid of me," said the man from Illinois, "I won't bother you, in fact I would never have thought about it if you hadn't mentioned the matter, but the fact is I have been presented with cards of admission to the house of parliament by a very prominent American now in England, who is a personal friend of mine."</p>
 
@@ -33,12 +35,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: William Walter Phelps (1839-1894), a successful merchant and financier in New York City, held a seat in U. S. House of Representatives in 1872 and was re-elected to Congress in 1883, 1885 and 1887.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: William Walter Phelps (1839-1894), a successful merchant and financier in New York City, held a seat in U. S. House of Representatives in 1872 and was re-elected to Congress in 1883, 1885 and 1887.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Eugene Asa Carr (1830-1910), brevet-major general of volunteers and major general in the regular army during the American Civil War; served as an army general during several Indian conflicts in the West, including the Battle of Summit Springs which was staged by Buffalo Bill's Wild West.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Eugene Asa Carr (1830-1910), brevet-major general of volunteers and major general in the regular army during the American Civil War; served as an army general during several Indian conflicts in the West, including the Battle of Summit Springs which was staged by Buffalo Bill's Wild West.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -19,7 +19,8 @@
 
 
 
-      <span class="dateline">Santabarbra Cal<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Santabarbra Cal<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 Sep 22d 1902</span>
@@ -71,8 +72,7 @@ Sep 22d 1902</span>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Santa Barbara, California, on September 22, 1902.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Santa Barbara, California, on September 22, 1902.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 

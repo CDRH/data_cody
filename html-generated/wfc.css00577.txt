@@ -27,20 +27,23 @@
 
       <span class="ab">586.Ch.Up.On. 13 Paid. 124o Pm.</span>
 
-      <span class="ab">Ch., Philadelphia Pa.Apl.11-1896<a href="#n01" class="internal_link">1</a>. </span>
+      <span class="ab">Ch., Philadelphia Pa.Apl.11-1896<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>. </span>
 
 
       <span class="ab">
          <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Geo.T. Beck</a>
-         </span>,<br/>McTagues Hotel<a href="#" class="internal_link">2</a>,</span>
+         </span>,<br/>McTagues Hotel<a name=".ref"> </a>
+         <a href="#.note" class="ref">[2]</a>,</span>
 
       <span class="ab">Omaha Neb.</span>
 
 
       <p>Think <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w">Paxton</a>
-         </span> and Postmaster of Omaha<a href="#n03" class="internal_link">3</a> will come in. See them, wire decision.</p>
+         </span> and Postmaster of Omaha<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> will come in. See them, wire decision.</p>
 
       <span class="closer">
          <br/>Col.</span>
@@ -51,16 +54,13 @@
 
    <div class="bibliography">
       <p>
-         <a name=".note"/>Note 1: Buffalo Bill's Wild West occupied its winter quarters in Bridgeport, Connecticut, from November 3, 1895, through mid-April 1896, before opening in Philadelphia on April 18, 1896.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 1: Buffalo Bill's Wild West occupied its winter quarters in Bridgeport, Connecticut, from November 3, 1895, through mid-April 1896, before opening in Philadelphia on April 18, 1896.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 2: McTague Hotel: James Hugh McTague (1858-1926), the owner of a catering service in Omaha, Nebraska, who opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.  <a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 2: McTague Hotel: James Hugh McTague (1858-1926), the owner of a catering service in Omaha, Nebraska, who opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.  <a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 3: "Postmaster of Omaha" in 1896 was Euclid Martin.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 3: "Postmaster of Omaha" in 1896 was Euclid Martin.<a href="#.ref"> [back]</a>
       </p>
    </div>
 </div>

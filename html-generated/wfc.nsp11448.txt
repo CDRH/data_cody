@@ -20,7 +20,10 @@
 
       <div class="milestone line"> </div>
 
-      <p>The Princess of Wales<a href="#n01" class="internal_link">1</a> and a large party paid an unexpected and informal visit to the American Exhibition on Wednesday morning. The party included Prince Albert Victor, the Princesses Victoria, Maud, and Louise of Wales,<a href="#n02" class="internal_link">2</a> the Grand Duke Michael of Russia,<a href="#n03" class="internal_link">3</a> and gentlemen in attendance. On reaching the Exhibition at eleven o'clock, the Royal party at once proceeded to the Wild West Camp, where they were received by Colonel Cody (Buffalo Bill), <span class="persName">
+      <p>The Princess of Wales<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> and a large party paid an unexpected and informal visit to the American Exhibition on Wednesday morning. The party included Prince Albert Victor, the Princesses Victoria, Maud, and Louise of Wales,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> the Grand Duke Michael of Russia,<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> and gentlemen in attendance. On reaching the Exhibition at eleven o'clock, the Royal party at once proceeded to the Wild West Camp, where they were received by Colonel Cody (Buffalo Bill), <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Mr Nate Salisbury</a>
          </span>, and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">Major John M. Burke</a>
@@ -30,7 +33,12 @@
             <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Annie Oakley</a>
          </span> gave their exhibition of shooting, and the Grand Duke Michael then shot at a number of balls thrown from the trap and with Miss Oakley's guns, making a capital score. The Old Deadwood Stage Coach was next brought out, and, Colonel Cody himself driving, the Royal party made the tour of the ring several times. Unusual precautions against accident were taken, the subsequent attack on the coach being made, not by the Indians, but by the more trustworthy cowboys, who gave the visitors an idea of an attack on the coach by road agents or highwaymen. At the conclusion of this episode the Grand Duke Michael and a number of other gentlemen were furnished with mounts by Col. Cody and given a few hints as to the method of riding on a Mexican saddle, and then the buffaloes were stampeded in the open, and the gentlemen joined with the cowboys in the mimic buffalo hunt, having been prepared with revolvers for the purpose. They expressed themselves as greatly pleased with the experience, while the Princess was evidently highly amused at the strange spectacle. The party also visited the stable and the buffalo corral, after which the Indians sang a number of characteristic songs, and the party then returned to the American Exhibition, where they were received by <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr John R. Whitley</a>
-         </span>, Mr Vincent A. Applin,<a href="#n04" class="internal_link">4</a> Mr Burnet Landreth, and Mr Townsend Percy,<a href="#n05" class="internal_link">5</a> and conducted to the Art Gallery and trophy-rooms. After inspecting these and the other exhibits, they proceeded through the building to the Western Gardens, where the switch-back railroad had been prepared for their reception. The Princess made two round trips on the switch-back, which required two cars to convey the party. Next they proceeded to the toboggan slide, where the Princess went down twice conducted by Colonel Montague,<a href="#n06" class="internal_link">6</a> while the Princesses and other members of the party made some half-dozen trips. The Royal party expressed themselves greatly delighted with the novel and exhilarating pastime. Having inspected Bartholdi's<a href="#n07" class="internal_link">7</a> diorama of New York Harbour, Bertram and Co.'s American bar<a href="#n08" class="internal_link">8</a> was visited for refreshments, and the Princess and party partook of some "cool American drinks." The Royal party left at two p.m.</p>
+         </span>, Mr Vincent A. Applin,<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> Mr Burnet Landreth, and Mr Townsend Percy,<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a> and conducted to the Art Gallery and trophy-rooms. After inspecting these and the other exhibits, they proceeded through the building to the Western Gardens, where the switch-back railroad had been prepared for their reception. The Princess made two round trips on the switch-back, which required two cars to convey the party. Next they proceeded to the toboggan slide, where the Princess went down twice conducted by Colonel Montague,<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">[6]</a> while the Princesses and other members of the party made some half-dozen trips. The Royal party expressed themselves greatly delighted with the novel and exhilarating pastime. Having inspected Bartholdi's<a name="n07.ref"> </a>
+         <a href="#n07.note" class="ref">[7]</a> diorama of New York Harbour, Bertram and Co.'s American bar<a name="n08.ref"> </a>
+         <a href="#n08.note" class="ref">[8]</a> was visited for refreshments, and the Princess and party partook of some "cool American drinks." The Royal party left at two p.m.</p>
 
 
 
@@ -40,36 +48,28 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The Princess of Wales was Princess Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) and later Queen Alexander, consort to Edward VII, King of Great Britain, 1844-1925.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The Princess of Wales was Princess Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) and later Queen Alexander, consort to Edward VII, King of Great Britain, 1844-1925.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Prince Albert Victor of Wales was Albert Victor Christian Edward (1864-1892), the Duke of Clarence and Avondale. Princess Victoria of Wales was Victoria Alexandra Olga Mary (1868-1935); Princess Maud of Wales was Maud Charlotte Mary Victoria (1869-1938). All three were grandchildren of Queen Victoria.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Prince Albert Victor of Wales was Albert Victor Christian Edward (1864-1892), the Duke of Clarence and Avondale. Princess Victoria of Wales was Victoria Alexandra Olga Mary (1868-1935); Princess Maud of Wales was Maud Charlotte Mary Victoria (1869-1938). All three were grandchildren of Queen Victoria.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Grand Duke Michael Nikolaevich (Nicolaievich) of Russia (1832-1909), son of Tsar Nicholas I of Russia (1796-1855) and brother to Alexander II of Russia (1818-1881).<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Grand Duke Michael Nikolaevich (Nicolaievich) of Russia (1832-1909), son of Tsar Nicholas I of Russia (1796-1855) and brother to Alexander II of Russia (1818-1881).<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Vincent Augustin Applin (1850-1895), Executive Secretary for the American Exhibition and a member of the Incorporated Law Society of London and Solicitor of the Supreme Court.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Vincent Augustin Applin (1850-1895), Executive Secretary for the American Exhibition and a member of the Incorporated Law Society of London and Solicitor of the Supreme Court.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: Townsend Percy (b.~1847), the official Press Representative for the American Exhibition and a member of the Royal Geographical Society of London, was an author and lecturer.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: Townsend Percy (b.~1847), the official Press Representative for the American Exhibition and a member of the Royal Geographical Society of London, was an author and lecturer.<a href="#n05.ref"> [back]</a>
       </p>
       <p>
-         <a name="n06.note"/>Note 6: Colonel Montague is not identified.<a href="#n06.ref">  [back]
-            </a>
+         <a name="n06.note"> </a>Note 6: Colonel Montague is not identified.<a href="#n06.ref"> [back]</a>
       </p>
       <p>
-         <a name="n07.note"/>Note 7: Frédéric Auguste Bartholdi (1834-1904), the French sculptor who is best known for designing the Statue of Liberty.<a href="#n07.ref">  [back]
-            </a>
+         <a name="n07.note"> </a>Note 7: Frédéric Auguste Bartholdi (1834-1904), the French sculptor who is best known for designing the Statue of Liberty.<a href="#n07.ref"> [back]</a>
       </p>
       <p>
-         <a name="n08.note"/>Note 8: Bertram &amp; Co's American bar is not further identified.<a href="#n08.ref">  [back]
-            </a>
+         <a name="n08.note"> </a>Note 8: Bertram &amp; Co's American bar is not further identified.<a href="#n08.ref"> [back]</a>
       </p>
    </div>
 </div>

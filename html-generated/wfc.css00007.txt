@@ -33,7 +33,8 @@ Pine Ridge
 <span class="salute">Dear Major</span>
 
 
-      <p>Sam Lone Bear<a href="#n01" class="internal_link">1</a> goes home to take his wife who is very sick. Lone Bear is a good riliable man— Any favor you can show him will be appreciated</p>
+      <p>Sam Lone Bear<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> goes home to take his wife who is very sick. Lone Bear is a good riliable man— Any favor you can show him will be appreciated</p>
 
       <span class="closer">
          <span class="salute">By yours truly</span>
@@ -46,8 +47,7 @@ Pine Ridge
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Very likely Samuel Lone Bear, known as "Sammy," who was one of the Wild West performers photographed by Gertrude Käsebier in 1898.  His father, Chief Oliver Lone Bear, and younger sister Mary had also been among Käsebier's subjects. A surviving show contract from the 1907 season lists this person's name as "Sammie Lone Bear."<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Very likely Samuel Lone Bear, known as "Sammy," who was one of the Wild West performers photographed by Gertrude Käsebier in 1898.  His father, Chief Oliver Lone Bear, and younger sister Mary had also been among Käsebier's subjects. A surviving show contract from the 1907 season lists this person's name as "Sammie Lone Bear."<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

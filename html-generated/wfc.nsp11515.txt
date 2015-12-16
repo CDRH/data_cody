@@ -26,7 +26,8 @@
 
       <p>He was met at the Landing Bureau by Assistant Inspector of Immigration, <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j">Gen. O'Beirne</a>
-         </span>, the Indian Missioner, Father Crouch,<a href="#n01" class="internal_link">1</a> and an interpreter.</p>
+         </span>, the Indian Missioner, Father Crouch,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> and an interpreter.</p>
 
       <p>A reporter asked the interpreter and also Father Crouch to inquire of Low Neck if the Indians in the employ of Buffalo Bill had been ill-used, but they both refused to put the question. So did Gen. O'Beirne.</p>
 
@@ -39,10 +40,9 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Father Crouch is likely Reverend Father <span class="persName">
+         <a name="n01.note"> </a>Note 1: Father Crouch is likely Reverend Father <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/craft.f">Francis M. Craft</a>
-         </span>.<a href="#n01.ref">  [back]
-            </a>
+         </span>.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

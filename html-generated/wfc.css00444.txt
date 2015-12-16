@@ -23,7 +23,8 @@
          </div>
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
-      <span class="dateline">Auburn. Aug 8th<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Auburn. Aug 8th<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
 
@@ -32,7 +33,8 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
          </span>
       </span>
 
-      <p>Yours of 4th in it you do not say anything what is best to do— or where I am to write you. Or who is in the new Co—<a href="#n02" class="internal_link">2</a> So I have nothing to say— as I know nothing— probably <span class="persName">
+      <p>Yours of 4th in it you do not say anything what is best to do— or where I am to write you. Or who is in the new Co—<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> So I have nothing to say— as I know nothing— probably <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
          </span> will write I wrote Alger that <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bmead.e">Mead</a>
@@ -49,12 +51,10 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Auburn, New York, on August 8, 1895.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Auburn, New York, on August 8, 1895.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody's reference to "the new Co" was likely to Shoshone Land and Irrigation Company which later became Shoshone Irrigation Company.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody's reference to "the new Co" was likely to Shoshone Land and Irrigation Company which later became Shoshone Irrigation Company.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

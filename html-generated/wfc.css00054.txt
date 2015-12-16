@@ -21,7 +21,8 @@
 
 Shawneetown Ill
 
-Nov. 18th <a href="#n01" class="internal_link">1</a>
+Nov. 18th <a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
       <span class="salute">Miss <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/moses.m">Mollie Moses</a>
@@ -43,7 +44,9 @@ Nov. 18th <a href="#n01" class="internal_link">1</a>
             </a>
          </span>
 
-your home. much as I would like to have done so. Many thanks for the very Kind invitation. I <a rel="tooltip" class="sic" title="really​ &#xA;    ">realy</a>. hope we will meet again. do you anticipate visiting the Worlds Fair at New Orleans<a href="#n02" class="internal_link">2</a> if you do will you please let me know when you are there. so I may have the pleasure of thanking you in person for the flag. It would give me great pleasure to hear from you again as to how you liked the Wild West performance<a href="#n03" class="internal_link">3</a> enclosed find my route</p>
+your home. much as I would like to have done so. Many thanks for the very Kind invitation. I <a rel="tooltip" class="sic" title="really​ &#xA;    ">realy</a>. hope we will meet again. do you anticipate visiting the Worlds Fair at New Orleans<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> if you do will you please let me know when you are there. so I may have the pleasure of thanking you in person for the flag. It would give me great pleasure to hear from you again as to how you liked the Wild West performance<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> enclosed find my route</p>
 
       <span class="closer">
          <span class="salute">I remain<br/>
@@ -79,16 +82,13 @@ Yours Very Respectfully</span>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Although Cody did not include the year in this letter's dateline, 1884 was the only year that the Wild West performed in Shawneetown, Illinois.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Although Cody did not include the year in this letter's dateline, 1884 was the only year that the Wild West performed in Shawneetown, Illinois.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody refers to the World's Industrial and Cotton Centennial Exposition, held at New Orleans from December 1884 to June 1885.  Cody's Wild West held a winter season of performances at New Orleans in connection with the fair from December 1884 to April 1885. Persistent rain discouraged attendance and the exhibition suffered considerable financial loss.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody refers to the World's Industrial and Cotton Centennial Exposition, held at New Orleans from December 1884 to June 1885.  Cody's Wild West held a winter season of performances at New Orleans in connection with the fair from December 1884 to April 1885. Persistent rain discouraged attendance and the exhibition suffered considerable financial loss.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: A portion of Cody's text, beginning with this sentence and continuing to the closing and signature on this page, has been circled in pencil. The number 3, also in pencil, appears on the lower left corner of the page.  These marks appear to have been added later by an unknown person.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: A portion of Cody's text, beginning with this sentence and continuing to the closing and signature on this page, has been circled in pencil. The number 3, also in pencil, appears on the lower left corner of the page.  These marks appear to have been added later by an unknown person.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

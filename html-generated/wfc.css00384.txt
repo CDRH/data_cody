@@ -27,7 +27,8 @@ Col. Wm. F. Cody, Private Office</div>
 
       <span class="dateline">New Bedford. Mass.<br/>
 
-July. 2d —16<a href="#n01" class="internal_link">1</a>
+July. 2d —16<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">Dear. <span class="persName">
@@ -35,7 +36,10 @@ July. 2d —16<a href="#n01" class="internal_link">1</a>
          </span>.</span>
 
 
-      <p>Thanks. I will get that letter from Scott.<a href="#n02" class="internal_link">2</a> For you but if I do. you must be on the square— No monkey business not that I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> you would do it. But be careful— Better still. suppose <a rel="tooltip" class="sic" title="I'd​ &#xA;    ">Id</a> get a big. Consession. Under my own name. Would McClusky and you go and manage it.<a href="#n03" class="internal_link">3</a> I think a good deal of Mc By the way ask McClusky. To write me. About— how much a day The priveleges with that show runs a day.<a href="#n04" class="internal_link">4</a> itemize the different things. Lemonade- candy pop corn- Balloon. <a rel="tooltip" class="sic" title="Pennants​ &#xA;    ">Penants</a>— &amp;c &amp;c— <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a>—what they get a week for Lunch Counter on lot
+      <p>Thanks. I will get that letter from Scott.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> For you but if I do. you must be on the square— No monkey business not that I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> you would do it. But be careful— Better still. suppose <a rel="tooltip" class="sic" title="I'd​ &#xA;    ">Id</a> get a big. Consession. Under my own name. Would McClusky and you go and manage it.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> I think a good deal of Mc By the way ask McClusky. To write me. About— how much a day The priveleges with that show runs a day.<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> itemize the different things. Lemonade- candy pop corn- Balloon. <a rel="tooltip" class="sic" title="Pennants​ &#xA;    ">Penants</a>— &amp;c &amp;c— <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a>—what they get a week for Lunch Counter on lot
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -49,7 +53,8 @@ July. 2d —16<a href="#n01" class="internal_link">1</a>
 
 and at train. &amp;c— I want to know for my self. I'll keep it confidential. and Mc— <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> be giving any secrets away. I want to get a line on the <a rel="tooltip" class="sic" title="privileges​ &#xA;    ">privleges</a> with this show. <u>See?</u> . About what the proffits are a day or week with that show. I get a third of the <a rel="tooltip" class="sic" title="profits​ &#xA;    ">proffits</a> of all <a rel="tooltip" class="sic" title="privileges​ &#xA;    ">priveleges</a> with this show. <a rel="tooltip" class="sic" title="That's​ &#xA;    ">Thats</a> the reason I am asking. I feel sure Mc— <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> object to this— Besides it will help to give me an idea of the <a rel="tooltip" class="sic" title="profits​ &#xA;    ">proffits</a> of what we could sell to the army. See. Now attend to this immediately</p>
 
-      <p>We are doing nicely— Although Barnum &amp; Bailey either a head or behind us—<a href="#n05" class="internal_link">5</a> But we are clear of them from now- on. Our recruit station with the show gets lots of applications. but only <del>get</del> accept about seven a day— </p>
+      <p>We are doing nicely— Although Barnum &amp; Bailey either a head or behind us—<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a> But we are clear of them from now- on. Our recruit station with the show gets lots of applications. but only <del>get</del> accept about seven a day— </p>
 
       <span class="closer">
          <span class="salute">Regards to my friends</span>
@@ -63,24 +68,19 @@ and at train. &amp;c— I want to know for my self. I'll keep it confidential. a
 
    <div class="bibliography">
       <p>
-         <a name=".note"/>Note 1: Cody performed with the 101 Ranch Shows in New Bedford, Massachusetts on July 3, 1916. July 2 was a Sunday, with no performance scheduled.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 1: Cody performed with the 101 Ranch Shows in New Bedford, Massachusetts on July 3, 1916. July 2 was a Sunday, with no performance scheduled.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 2: Cody may refer to Major General Hugh L. Scott (1853-1934), who was then Chief of Staff of the United States Army. Cody had written General Scott on February 26, 1916, to request that some soldiers be furloughed for the purpose of appearing in his "military pageant" on "preparedness" that was the central feature of Cody's final season in show business.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 2: Cody may refer to Major General Hugh L. Scott (1853-1934), who was then Chief of Staff of the United States Army. Cody had written General Scott on February 26, 1916, to request that some soldiers be furloughed for the purpose of appearing in his "military pageant" on "preparedness" that was the central feature of Cody's final season in show business.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 3: "McCluskey" might be W. H. McCloskey, who was listed in the "Confectionery Department" in the 1896 route book for Buffalo Bill's Wild West.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 3: "McCluskey" might be W. H. McCloskey, who was listed in the "Confectionery Department" in the 1896 route book for Buffalo Bill's Wild West.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 4: Cody's term "privileges" seems to encompass what would be called "concessions" today. "That show" may be the Sells-Floto Circus. John Tait was employed by Sells-Floto during the 1916 show season.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 4: Cody's term "privileges" seems to encompass what would be called "concessions" today. "That show" may be the Sells-Floto Circus. John Tait was employed by Sells-Floto during the 1916 show season.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 5: The Barnum &amp; Bailey Circus was then owned by the Ringling brothers, who had purchased it following the 1906 death of James A. Bailey. The Ringlings operated it separately from their own Ringling Brothers Circus until 1919, when the two shows were combined.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 5: The Barnum &amp; Bailey Circus was then owned by the Ringling brothers, who had purchased it following the 1906 death of James A. Bailey. The Ringlings operated it separately from their own Ringling Brothers Circus until 1919, when the two shows were combined.<a href="#.ref"> [back]</a>
       </p>
    </div>
 </div>

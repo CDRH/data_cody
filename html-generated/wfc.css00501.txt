@@ -28,7 +28,8 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">Appleton— Wis<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Appleton— Wis<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 
@@ -41,8 +42,12 @@ S<del>p</del>ep— 1<u>st</u> 96</span>
       </span>
 
 
-      <p>What do you think about stock wintering on the grass up there. Trego<a href="#n02" class="internal_link">2</a> thinks they will starve— give me your opinion is the grass so much worse than last year— Say are those settlers all <a rel="tooltip" class="sic" title="leaving​ &#xA;    ">leaveing</a> Irma?<a href="#n03" class="internal_link">3</a> 
-         <a rel="tooltip" class="sic" title="Can't​ &#xA;    ">Cant</a> I put an attachment on those <a rel="tooltip" class="sic" title="wagons​ &#xA;    ">waggons</a> &amp; harness I have to pay for that was charged to me and Nagle<a href="#n04" class="internal_link">4</a> took. I have written 4th Post Master Gen. about P.O.<a href="#n05" class="internal_link">5</a>
+      <p>What do you think about stock wintering on the grass up there. Trego<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> thinks they will starve— give me your opinion is the grass so much worse than last year— Say are those settlers all <a rel="tooltip" class="sic" title="leaving​ &#xA;    ">leaveing</a> Irma?<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> 
+         <a rel="tooltip" class="sic" title="Can't​ &#xA;    ">Cant</a> I put an attachment on those <a rel="tooltip" class="sic" title="wagons​ &#xA;    ">waggons</a> &amp; harness I have to pay for that was charged to me and Nagle<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> took. I have written 4th Post Master Gen. about P.O.<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a>
       </p>
 
 
@@ -57,24 +62,19 @@ S<del>p</del>ep— 1<u>st</u> 96</span>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: BBWW performed in Appleton, Wisconsin, on September 1, 1896. The day's entry in the 1896 Route Diary: "Appleton, Wis. / Tuesday, September 1. Arrived in town at 6 A. M. One mile haul to lot. We had opposition here to-day in the shape of a County Fair across the street, but it seemed to do us no harm. / Weather clear all day, but a heavy rain at night, just as the show was closing. / Business big in the afternoon, fair at night. / Lot, College avenue, known as Clarke Lot. / Arena, 186 x 405."<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: BBWW performed in Appleton, Wisconsin, on September 1, 1896. The day's entry in the 1896 Route Diary: "Appleton, Wis. / Tuesday, September 1. Arrived in town at 6 A. M. One mile haul to lot. We had opposition here to-day in the shape of a County Fair across the street, but it seemed to do us no harm. / Weather clear all day, but a heavy rain at night, just as the show was closing. / Business big in the afternoon, fair at night. / Lot, College avenue, known as Clarke Lot. / Arena, 186 x 405."<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Charles Trego (1856-1925), a personal friend of Cody's and foreman for both Scout's Rest Ranch in North Platte, Nebraska, and the TE Ranch in Cody, Wyoming. <a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Charles Trego (1856-1925), a personal friend of Cody's and foreman for both Scout's Rest Ranch in North Platte, Nebraska, and the TE Ranch in Cody, Wyoming. <a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Irma Flats was named after Cody's daughter and located in the upper South Fork valley, where a few thousand acres would be irrigated for colonists to settle.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Irma Flats was named after Cody's daughter and located in the upper South Fork valley, where a few thousand acres would be irrigated for colonists to settle.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands in the Big Horn Basin that were to be irrigated by the Cody Canal.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands in the Big Horn Basin that were to be irrigated by the Cody Canal.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: Robert Alexander Maxwell (1838-1912) from Batavia, New York, was appointed Fourth Assistant U.S. Postmaster by President Grover Cleveland in 1893 and served until the end of March 1897.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: Robert Alexander Maxwell (1838-1912) from Batavia, New York, was appointed Fourth Assistant U.S. Postmaster by President Grover Cleveland in 1893 and served until the end of March 1897.<a href="#n05.ref"> [back]</a>
       </p>
    </div>
 </div>

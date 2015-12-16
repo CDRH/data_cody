@@ -32,12 +32,15 @@
       </span>
 
 
-      <p>Yours recd Buffalo parties<a href="#n01" class="internal_link">1</a> dont seem to feel like putting up Any more money. I have written them about the bridge<a href="#n02" class="internal_link">2</a>.</p>
+      <p>Yours recd Buffalo parties<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> dont seem to feel like putting up Any more money. I have written them about the bridge<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>.</p>
 
       <p>I dont <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> 
          <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
-         </span> will put up a dollar- for he Says the money is so badly <a rel="tooltip" class="sic" title="handled​ &#xA;    ">handeled</a>. If I ask him to put up with me to bring water to Cody &amp; flats<a href="#n03" class="internal_link">3</a>. He will say who is to take charge of work- You know George that heretofore no money has been properly used
+         </span> will put up a dollar- for he Says the money is so badly <a rel="tooltip" class="sic" title="handled​ &#xA;    ">handeled</a>. If I ask him to put up with me to bring water to Cody &amp; flats<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>. He will say who is to take charge of work- You know George that heretofore no money has been properly used
 
 
 <span class="hr"> </span>
@@ -81,7 +84,8 @@ that is the men hired to do work have not been managed right. No boss— no one 
 
 their work— be with them in the mornings and see that they work go over the ditch your self- and see what it needs &amp;c- If you will write Salsbury that you will do this, I will <a rel="tooltip" class="sic" title="guarantee​ &#xA;    ">guarntee</a> that the $1000 be placed to your credit at once</p>
 
-      <p>If you<del>g</del> will get down to business and write us that you will be on the job the money will be at Carbon Co Bank<a href="#n04" class="internal_link">4</a>- But we <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> stand any more slip-
+      <p>If you<del>g</del> will get down to business and write us that you will be on the job the money will be at Carbon Co Bank<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a>- But we <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> stand any more slip-
 
 
 <span class="hr"> </span>
@@ -119,26 +123,22 @@ shod way of <a rel="tooltip" class="sic" title="having​ &#xA;    ">haveing</a>
 
    <div class="bibliography">
       <p>
-         <a name=".note"/>Note 1: "Buffalo parties" refers to the investors from Buffalo, N.Y., primarily <span class="persName">
+         <a name=".note"> </a>Note 1: "Buffalo parties" refers to the investors from Buffalo, N.Y., primarily <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
          </span>, <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
          </span>, and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
-         </span>.<a href="#.ref">  [back]
-            </a>
+         </span>.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 2: "Bridge" refers to Cody's efforts to finance building a bridge over the Shoshone River near Cody.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 2: "Bridge" refers to Cody's efforts to finance building a bridge over the Shoshone River near Cody.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 3: "Flats" refers to acreage in the South Fork valley south of Cody, Wyoming, that would later become known as "Irma Flats," named after William F. Cody's youngest daughter. <a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 3: "Flats" refers to acreage in the South Fork valley south of Cody, Wyoming, that would later become known as "Irma Flats," named after William F. Cody's youngest daughter. <a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 4: Carbon County Bank was located in Red Lodge, Montana, the county seat; the bank was built before 1900.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 4: Carbon County Bank was located in Red Lodge, Montana, the county seat; the bank was built before 1900.<a href="#.ref"> [back]</a>
       </p>
    </div>
 </div>

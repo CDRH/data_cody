@@ -22,7 +22,8 @@
 
       <span class="dateline">
 Iowa City, Iowa
-Sep. 9th 187_<a href="#n01" class="internal_link">1</a>
+Sep. 9th 187_<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My. Dear. <span class="persName">
@@ -101,8 +102,7 @@ agree. I am all business and I would expect a man to be prompt and reliable agre
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Cody did not include the year in this letter's dateline, but the listing of dates and places on page 4 matches known performances of the Buffalo Bill Combination during the 1879 season.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Cody did not include the year in this letter's dateline, but the listing of dates and places on page 4 matches known performances of the Buffalo Bill Combination during the 1879 season.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

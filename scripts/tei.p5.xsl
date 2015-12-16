@@ -35,6 +35,27 @@
 <!--                            OVERRIDES                                 -->
 <!-- ==================================================================== -->
 
+  <xsl:template match="ref">
+    <!-- the "back" link -->
+    <a>
+      <xsl:attribute name="name">
+        <xsl:value-of select="@target"/>
+        <xsl:text>.ref</xsl:text>
+      </xsl:attribute>
+      <xsl:text> </xsl:text>
+    </a>
+    <!-- put a target and [1] -->
+    <a>
+      <xsl:attribute name="href">
+        <xsl:text>#</xsl:text>
+        <xsl:value-of select="@target"/>
+        <xsl:text>.note</xsl:text>
+      </xsl:attribute>
+      <xsl:attribute name="class">ref</xsl:attribute>
+      <xsl:value-of select="text()"/>
+    </a>
+  </xsl:template>
+
   <!-- footnotes at the bottom of the page -->
   <xsl:template match="back">
     <xsl:if test="note">
@@ -46,6 +67,7 @@
                 <xsl:value-of select="@xml:id"/>
                 <xsl:text>.note</xsl:text>
               </xsl:attribute>
+              <xsl:text> </xsl:text>
             </a>
             <xsl:apply-templates/>
             <a>
@@ -54,7 +76,7 @@
                 <xsl:value-of select="@xml:id"/>
                 <xsl:text>.ref</xsl:text>
               </xsl:attribute>
-              <xsl:text>  </xsl:text>[back]
+              <xsl:text> [back]</xsl:text>
             </a>
           </p>
         </xsl:for-each>

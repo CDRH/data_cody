@@ -19,7 +19,8 @@
   
       <span class="dateline">Pine Ridge Agency, April [3, 1897]</span>
   
-      <span class="salute">The Honorable Commissioner of Indian Affairs,<a href="#n01" class="internal_link">1</a> 
+      <span class="salute">The Honorable Commissioner of Indian Affairs,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> 
          <br/>
     Washington, D. C.<br/>
          <br/>
@@ -48,9 +49,8 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Daniel M. Browning (1846-1903) was Commissioner of Indian Affairs from April 18, 1893, to
-    May 3, 1897.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Daniel M. Browning (1846-1903) was Commissioner of Indian Affairs from April 18, 1893, to
+    May 3, 1897.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

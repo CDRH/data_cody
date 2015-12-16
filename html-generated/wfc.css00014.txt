@@ -40,7 +40,9 @@ J. W. Boyer, Farm Foreman.</div>
 
 
 
-      <p>I presume you were informed by the Interior Dept.<a href="#n01" class="internal_link">1</a> that I have permission for Indians. I am writing Shangrau. <a href="#n02" class="internal_link">2</a> And I don't wish to commence looking up Indians. Until I have your permission so if you see Shangrau will you please speak to him about it. I will not want the Indians much before May.  but its well to be letting them know. I will try my best to come after them my self—</p>
+      <p>I presume you were informed by the Interior Dept.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> that I have permission for Indians. I am writing Shangrau. <a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> And I don't wish to commence looking up Indians. Until I have your permission so if you see Shangrau will you please speak to him about it. I will not want the Indians much before May.  but its well to be letting them know. I will try my best to come after them my self—</p>
 
 
       <span class="closer">
@@ -55,12 +57,10 @@ J. W. Boyer, Farm Foreman.</div>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The Office of Indian Affairs, which administered Indian reservations, had been under civilian control as part of the Interior Department since 1849. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The Office of Indian Affairs, which administered Indian reservations, had been under civilian control as part of the Interior Department since 1849. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Probably John Shangreaux.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Probably John Shangreaux.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

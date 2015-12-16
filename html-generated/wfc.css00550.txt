@@ -17,10 +17,12 @@
 
       <div class="note">Buffalo Bill's Wild West</div>
 
-Liverpool—<a href="#n01" class="internal_link">1</a>
+Liverpool—<a name="n01.ref"> </a>
+      <a href="#n01.note" class="ref">[1]</a>
       <br/>
 
-May. 15<u>th</u> / 03.<a href="#" class="internal_link">2</a>
+May. 15<u>th</u> / 03.<a name=".ref"> </a>
+      <a href="#.note" class="ref">[2]</a>
       <br/>
 
       <span class="salute">My Dear <span class="persName">
@@ -29,7 +31,8 @@ May. 15<u>th</u> / 03.<a href="#" class="internal_link">2</a>
       </span>
 
 
-      <p>How are they coming? Hope you are well and happy. I have had a tough time with a sprained ankle and shoulder. and the worst weather England ever had— and thats saying a heep. Have been looking for your report for quite a while. Would like to know about the Shoshone Irrigation Co— business. how the New Canal is. how much land sold &amp;c. If you will have money to meet the Hearsts<a href="#n03" class="internal_link">3</a> interest &amp;c—</p>
+      <p>How are they coming? Hope you are well and happy. I have had a tough time with a sprained ankle and shoulder. and the worst weather England ever had— and thats saying a heep. Have been looking for your report for quite a while. Would like to know about the Shoshone Irrigation Co— business. how the New Canal is. how much land sold &amp;c. If you will have money to meet the Hearsts<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> interest &amp;c—</p>
 
 
       <span class="closer">
@@ -46,16 +49,13 @@ May. 15<u>th</u> / 03.<a href="#" class="internal_link">2</a>
 
    <div class="bibliography">
       <p>
-         <a name=".note"/>Note 1: Buffalo Bill's Wild West performed in Liverpool, England, May 4-23, 1903.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 1: Buffalo Bill's Wild West performed in Liverpool, England, May 4-23, 1903.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 2: The date inscribed is May 15, 1903.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 2: The date inscribed is May 15, 1903.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 3: Phoebe Apperson Hearst (1842-1919) was the wife of California senator and Comstock Lode magnate George Hearst. The Hearsts provided an indemnity bond of $30,000 at 7.5% interest for the Shoshone Irrigation Company project.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 3: Phoebe Apperson Hearst (1842-1919) was the wife of California senator and Comstock Lode magnate George Hearst. The Hearsts provided an indemnity bond of $30,000 at 7.5% interest for the Shoshone Irrigation Company project.<a href="#.ref"> [back]</a>
       </p>
    </div>
 </div>

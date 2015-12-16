@@ -24,7 +24,8 @@
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-      <span class="dateline">Altoona Sep 7th<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Altoona Sep 7th<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -32,7 +33,9 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
          </span>—</span>
 
 
-      <p>Yours 5th to [simple drawing of hand]<a href="#n02" class="internal_link">2</a> allright. No I dont see how Cody City can get a long without a gin mill &amp; Bob<a href="#n03" class="internal_link">3</a> would be a Dandy. only he would keep me full all the time. But as you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> drink it would make no difference to you— Now George— <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> over look a thing wire me from Sheridan about joint stock Co— Let me know about contract for our land from State Land Board
+      <p>Yours 5th to [simple drawing of hand]<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> allright. No I dont see how Cody City can get a long without a gin mill &amp; Bob<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> would be a Dandy. only he would keep me full all the time. But as you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> drink it would make no difference to you— Now George— <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> over look a thing wire me from Sheridan about joint stock Co— Let me know about contract for our land from State Land Board
 
 
 <span class="hr"> </span>
@@ -67,16 +70,13 @@ and Interior Dept— We must make no mistakes. or we will be laughed out of the 
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Altoona, Pennsylvania, September 7, 1895. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Altoona, Pennsylvania, September 7, 1895. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody makes a simple drawing of a hand to indicate that Beck's letter of September 5th is "in hand."<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody makes a simple drawing of a hand to indicate that Beck's letter of September 5th is "in hand."<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Bob" is unidentified.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Bob" is unidentified.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

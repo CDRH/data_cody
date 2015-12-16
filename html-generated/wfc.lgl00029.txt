@@ -16,7 +16,8 @@
          </a>
       </span>
 
-      <p>FOR VALUE RECEIVED, We, hereby sell, transfer, assign and convey to E. B. Allan<a href="#n01" class="internal_link">1</a> all of our right, title and interest of any nature whatsoever in and to a one-fourteenth interest in the real estate upon which is located the Town-site of the Town of Cody, Wyoming, and any adjoining land included in a certain agreement between the Lincoln Land Company of Lincoln, Nebraska, and <span class="persName">
+      <p>FOR VALUE RECEIVED, We, hereby sell, transfer, assign and convey to E. B. Allan<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> all of our right, title and interest of any nature whatsoever in and to a one-fourteenth interest in the real estate upon which is located the Town-site of the Town of Cody, Wyoming, and any adjoining land included in a certain agreement between the Lincoln Land Company of Lincoln, Nebraska, and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
          </span>, Trustee of Buffalo, New York, bearing date the 24th day of September, A. D. 1901, and meaning hereby to convey the entire interest of <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">H. C. Alger</a>
@@ -65,8 +66,7 @@ Notary Public.
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Erle B. Allan (1871-1952) worked his way through the ranks of the Bank of Commerce, Sheridan, Wyoming, to become the bank's president in 1930. Allan purchased the estate of H. C. Alger which included holdings in Cody, Wyoming. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Erle B. Allan (1871-1952) worked his way through the ranks of the Bank of Commerce, Sheridan, Wyoming, to become the bank's president in 1930. Allan purchased the estate of H. C. Alger which included holdings in Cody, Wyoming. <a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

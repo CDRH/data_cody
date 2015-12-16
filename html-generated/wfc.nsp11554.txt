@@ -33,7 +33,9 @@
 
       <p>Having seen the red man in all his varying phases, and realised the vast resources of a trackless western country, we do not wonder that he should have been a factor in the enterprise of exhibiting to the white man the elements of a primeval land. By his association with the western scouts, Buffalo Bill, Wild Bill, <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/omohundro.j">Texas Jack</a>
-         </span>, Major North, and Donald McKay,<a href="#n01" class="internal_link">1</a> he had opportunities of meeting the chiefs of the great Indian nations. He visited the red man in his lair, so to speak, and subsequently negotiated with the chiefs of Pawnees, the Omahas, the Witchitas, Dacotas, Unkapaka, Ogalhla,<a href="#n02" class="internal_link">2</a> and Cheyenne Sioux. <span class="persName">
+         </span>, Major North, and Donald McKay,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> he had opportunities of meeting the chiefs of the great Indian nations. He visited the red man in his lair, so to speak, and subsequently negotiated with the chiefs of Pawnees, the Omahas, the Witchitas, Dacotas, Unkapaka, Ogalhla,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> and Cheyenne Sioux. <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/sitting.bull">Sitting Bull</a>
          </span>, the notorious Sioux warrior, who occasioned the United States so much trouble, and who caused the massacre of General Custer, also received a visit from "The Major," and it was owing to the marvellous persuasive eloquence of Burke that he was induced to risk himself with the "Wild West" shortly after its formation.</p>
 
@@ -52,12 +54,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Donald McKay (1836-1899), son of Oregon fur-trader Thomas McKay and an American Cayuse Indian woman, was a frontiersman, a veteran U.S. Army scout in the Modoc Indian Wars, an actor in the Texas Jack Combination, and a translator at the Umatilla Indian Reservation in eastern Oregon until his death in 1899.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Donald McKay (1836-1899), son of Oregon fur-trader Thomas McKay and an American Cayuse Indian woman, was a frontiersman, a veteran U.S. Army scout in the Modoc Indian Wars, an actor in the Texas Jack Combination, and a translator at the Umatilla Indian Reservation in eastern Oregon until his death in 1899.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The Omahas are American Indians who settled in northeastern Nebraska; the Witchitas are American Indians indigenous to Kansas and later Oklahoma and Texas; Dacotas refer to Dakotans, members of the Sioux Nation of North American Indians, who originally occupied Minnesota and Wisconsin and later the Great Plains; Unkapaka is actually Hunkpapa, and Ogalhla should be Oglala, two groups of American Indians each comprising one of the seven bands of the Tetonwan (or Teton branch) of the Seven Council Fires of the Sioux Nation.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The Omahas are American Indians who settled in northeastern Nebraska; the Witchitas are American Indians indigenous to Kansas and later Oklahoma and Texas; Dacotas refer to Dakotans, members of the Sioux Nation of North American Indians, who originally occupied Minnesota and Wisconsin and later the Great Plains; Unkapaka is actually Hunkpapa, and Ogalhla should be Oglala, two groups of American Indians each comprising one of the seven bands of the Tetonwan (or Teton branch) of the Seven Council Fires of the Sioux Nation.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

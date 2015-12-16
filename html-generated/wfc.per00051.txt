@@ -76,7 +76,8 @@
       <p>On the way home we shot a mountain sheep. We came suddenly and unexpectedly upon three of them, started our host of the Ranche Griff Evan's huge hound Plunk after them, jumped off our horses, and put out up the mountain on foot after the dog. What a pace those sheep went up that mountain, and what a pace old Plunk went up after them, and what a ludicrously long way behind we were left! It made one quite ashamed of being a man to see the manner in which the sheep and the dog got away up the mountain and out of sight before we had panted and perspired up a few hundred feet. We might have saved ourselves the trouble of climbing, for presently down came one of the sheep, followed closely by Plunk and preceded by a small avalanche of rattling gravel and bounding stones, in such a hurry that he as nearly as possible ran between the legs of one of the sportsmen. The animal passed literally within two yards of him with such startling effect that he had no time to do anything but fire his rifle off in the air in a kind of vague and general way. Plunk stuck to the sheep gallantly, and pressed him so hard that he went to bay in the bed of the river, at a place where the water rushes foaming down a steep descent among a mass of huge boulders, and there he met his fate. The mere word 'mountain sheep' evokes such recollections of the emotions I felt on being first introduced to that strange animal, that I will endeavour to relieve my mind by trying to jot down in a future article some reminiscences of sheep.</p>
 
       <span class="closer">
-         <br/>DUNRAVEN.<a href="#n01" class="internal_link">1</a>
+         <br/>DUNRAVEN.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
   
       <div class="note">¹ The Americans have retained the original meaning of the word 'bug,' and apply it to various insects: for instance, a daddy-long-legs, fire-fly, or lady-bird would be called a straddle bug, a lightning bug, or a lady bug. The peculiar reptile which has monopolized the term among us is distinguished in the States by prefixing the name of that article of furniture in which he loves to lurk, and where his presence murders sweet repose.</div>
@@ -86,8 +87,7 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The Earl of Dunraven was Windham Thomas Wyndham-Quin, 4th Earl of Dunraven and Mount-Earl (1841-1926).<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The Earl of Dunraven was Windham Thomas Wyndham-Quin, 4th Earl of Dunraven and Mount-Earl (1841-1926).<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

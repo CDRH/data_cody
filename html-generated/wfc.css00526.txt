@@ -19,10 +19,12 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
 
-      <span class="dateline">Chicago<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Chicago<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
-July 28<a href="#n02" class="internal_link">2</a>
+July 28<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -30,9 +32,11 @@ July 28<a href="#n02" class="internal_link">2</a>
          </span>
       </span>
 
-      <p>Those Preists<a href="#n03" class="internal_link">3</a> want their deeds to their Lots— I wish you would let me know if you are now ready and will make them out for them?</p>
+      <p>Those Preists<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> want their deeds to their Lots— I wish you would let me know if you are now ready and will make them out for them?</p>
 
-      <p>Snyder<a href="#n04" class="internal_link">4</a> writes me you have gone South to work for <span class="persName">
+      <p>Snyder<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> writes me you have gone South to work for <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
          </span>— not but what I <a rel="tooltip" class="sic" title="approve​ &#xA;    ">approove</a> of it. But I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> 
          <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> that you would leave until the water was again <a rel="tooltip" class="sic" title="running​ &#xA;    ">runing</a>. If you have left our business just at this critical time— Its not right And I will so notify the Co. I hope <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> not true—</p>
@@ -48,20 +52,16 @@ July 28<a href="#n02" class="internal_link">2</a>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Chicago, Illinois, on July 25-30, 1898. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Chicago, Illinois, on July 25-30, 1898. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The year is not inscribed but is 1898.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The year is not inscribed but is 1898.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Priests" is reference to the Chicago clergy who promoted land sales and influenced their Polish and Bavarian parishioners to homestead in the Big Horn Basin.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Priests" is reference to the Chicago clergy who promoted land sales and influenced their Polish and Bavarian parishioners to homestead in the Big Horn Basin.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: "Snyder" is William "Okie" Snyder (b.1856), William F. Cody's ranch manager who had taken 160 acres near Irma Flats. <a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: "Snyder" is William "Okie" Snyder (b.1856), William F. Cody's ranch manager who had taken 160 acres near Irma Flats. <a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

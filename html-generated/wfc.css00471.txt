@@ -19,14 +19,18 @@
 
 
 
-      <span class="dateline">Apr 6th 1896<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Apr 6th 1896<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
          </span>—</span>
 
-      <p>I was in Chicago three days— The Colony<a href="#n02" class="internal_link">2</a> is to leave there the 15th I fixed up a contract with Nagle Bro.<a href="#n03" class="internal_link">3</a> which I have shown to our Co here— they seem to think Nagles should not take out their whole commission the first payment of lands but said to let it go— As Nagle<a href="#n04" class="internal_link">4</a> is to give a bond of $10,000. But Nagle said he was agreeable to leave his commissions up to $10,000 in our hands as a guarantee of good faith. He wanted $300 per month for office &amp; advertiseing expenses— I suggested 250— our friends here think
+      <p>I was in Chicago three days— The Colony<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> is to leave there the 15th I fixed up a contract with Nagle Bro.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> which I have shown to our Co here— they seem to think Nagles should not take out their whole commission the first payment of lands but said to let it go— As Nagle<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> is to give a bond of $10,000. But Nagle said he was agreeable to leave his commissions up to $10,000 in our hands as a guarantee of good faith. He wanted $300 per month for office &amp; advertiseing expenses— I suggested 250— our friends here think
 
 
 <span class="hr"> </span>
@@ -71,7 +75,9 @@ order. Why George— <span class="persName">
          </span> 
          <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> seem to worry a little bit at digging a ditch sixteen foot wide on the bottom with a Grader— And he builds several miles in a week. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> for the life of me see how our work costs so much let me know how the Graders work—</p>
 
-      <p>When do you return our people here are anxious to know if you have filed on the Placer Fields<a href="#n05" class="internal_link">5</a> &amp; want me to send Stumps<a href="#n06" class="internal_link">6</a> experts out at once— are you ready for them. </p>
+      <p>When do you return our people here are anxious to know if you have filed on the Placer Fields<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a> &amp; want me to send Stumps<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">[6]</a> experts out at once— are you ready for them. </p>
 
       <span class="closer">
          <span class="salute">Your friend</span> 
@@ -109,28 +115,22 @@ order. Why George— <span class="persName">
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: On Monday, April 6, 1896, Buffalo Bill's Wild West began preparations for the opening of the 1896 season in Philadelphia on Saturday, April 18th.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: On Monday, April 6, 1896, Buffalo Bill's Wild West began preparations for the opening of the 1896 season in Philadelphia on Saturday, April 18th.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "The Colony" refers to the group of fifty or so German migrant families who chose to settle in the Big Horn Basin because of promotions made by S. V. Nagle, an agent of the Chicago firm of F. A. Nagle Commission Merchants.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "The Colony" refers to the group of fifty or so German migrant families who chose to settle in the Big Horn Basin because of promotions made by S. V. Nagle, an agent of the Chicago firm of F. A. Nagle Commission Merchants.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Nagle Bro." refers to F. A. Nagle and S. V. Nagle of the Chicago firm of F. A. Nagle Commission Merchants, who attempted to recruit settlers to the lands to be irrigated by the Cody Canal.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Nagle Bro." refers to F. A. Nagle and S. V. Nagle of the Chicago firm of F. A. Nagle Commission Merchants, who attempted to recruit settlers to the lands to be irrigated by the Cody Canal.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: S. V. Nagle, agent of the Chicago firm of F. A. Nagle Commission Merchants, was the primary agent for the German migrant families coming to settle in the Big Horn Basin.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: S. V. Nagle, agent of the Chicago firm of F. A. Nagle Commission Merchants, was the primary agent for the German migrant families coming to settle in the Big Horn Basin.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: "Placer Fields" may refer to one of several mineral claims filed by Beck around the Cody area on behalf of Cody and other members of Shoshone Irrigation Company.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: "Placer Fields" may refer to one of several mineral claims filed by Beck around the Cody area on behalf of Cody and other members of Shoshone Irrigation Company.<a href="#n05.ref"> [back]</a>
       </p>
       <p>
-         <a name="n06.note"/>Note 6: "Stump" or "Stumps" is not identified.<a href="#n06.ref">  [back]
-            </a>
+         <a name="n06.note"> </a>Note 6: "Stump" or "Stumps" is not identified.<a href="#n06.ref"> [back]</a>
       </p>
    </div>
 </div>

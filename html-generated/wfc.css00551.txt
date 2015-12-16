@@ -18,7 +18,8 @@
       <div class="note">Buffalo Bill's Wild West<br/>Pahaska Tepee.<br/>Touring Great Britain.</div>
 
 
-      <span class="dateline">Oswestry<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Oswestry<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 
@@ -31,7 +32,9 @@ May. 11th1904</span>
       </span>
 
 
-      <p>I hope this may find you and yours well and happy. I am in excellent health— And business splendid. I wrote you from N. Y. So did Mr Clark<a href="#n02" class="internal_link">2</a> What the Hearst Estate<a href="#n03" class="internal_link">3</a> would do—</p>
+      <p>I hope this may find you and yours well and happy. I am in excellent health— And business splendid. I wrote you from N. Y. So did Mr Clark<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> What the Hearst Estate<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> would do—</p>
 
       <p>Please let me hear from you on the subject. </p>
 
@@ -49,16 +52,13 @@ May. 11th1904</span>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Oswestry, England, on May 11, 1904.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Oswestry, England, on May 11, 1904.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Mr Clark" is Edward Hardy Clark (1864-1945), the financial manager for Phoebe Hearst. <a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Mr Clark" is Edward Hardy Clark (1864-1945), the financial manager for Phoebe Hearst. <a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: The Hearst Estate provided an indemnity bond of $30,000 at 7.5% interest for the Shoshone Irrigation Company project.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: The Hearst Estate provided an indemnity bond of $30,000 at 7.5% interest for the Shoshone Irrigation Company project.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

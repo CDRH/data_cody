@@ -18,7 +18,8 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
 
-      <span class="dateline">Binghamton. N. Y.<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Binghamton. N. Y.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 
@@ -30,7 +31,10 @@ July 18th 99</span>
          </span>
       </span>
 
-      <p>I was glad to hear that you had been to see the Coal fiends<a href="#n02" class="internal_link">2</a>— <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> you think it a good proposition to look after— Am anxious to hear where the Surveyors are at— Wish you could go down and trace the croppings. And I think we had better do some <a rel="tooltip" class="sic" title="staking​ &#xA;    ">stakeing</a> and <a rel="tooltip" class="sic" title="filing​ &#xA;    ">fileing</a>— <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you? let me hear from you on the subject— Hope you will all have a nice time on the pleasure trip<a href="#n03" class="internal_link">3</a>— remember Remington<a href="#n04" class="internal_link">4</a> has a mouth and likes his toddy— so stay with him. <span class="persName">
+      <p>I was glad to hear that you had been to see the Coal fiends<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>— <a rel="tooltip" class="sic" title="Don't​ &#xA;    ">Dont</a> you think it a good proposition to look after— Am anxious to hear where the Surveyors are at— Wish you could go down and trace the croppings. And I think we had better do some <a rel="tooltip" class="sic" title="staking​ &#xA;    ">stakeing</a> and <a rel="tooltip" class="sic" title="filing​ &#xA;    ">fileing</a>— <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you? let me hear from you on the subject— Hope you will all have a nice time on the pleasure trip<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>— remember Remington<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> has a mouth and likes his toddy— so stay with him. <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
          </span> says that whiskey is the best— </p>
 
@@ -43,20 +47,16 @@ July 18th 99</span>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Binghamton, New York, on July 18, 1899. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Binghamton, New York, on July 18, 1899. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody likely meant to inscribe "Coal fields."<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody likely meant to inscribe "Coal fields."<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: In the summer of 1899 the famous painter and sculptor Frederic Remington (1861-1909) came to Cody, Wyoming, after accepting an invitation from Cody. George Beck and wife Daisy would take William F. Cody's family and the Remingtons to Carter Mountain Ranch and Irma Lake. <a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: In the summer of 1899 the famous painter and sculptor Frederic Remington (1861-1909) came to Cody, Wyoming, after accepting an invitation from Cody. George Beck and wife Daisy would take William F. Cody's family and the Remingtons to Carter Mountain Ranch and Irma Lake. <a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Frederic Remington (1861-1909), an American painter and sculptor famous for his portrayals of the American West, was an acquaintance and friend of Cody's and Beck's.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Frederic Remington (1861-1909), an American painter and sculptor famous for his portrayals of the American West, was an acquaintance and friend of Cody's and Beck's.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

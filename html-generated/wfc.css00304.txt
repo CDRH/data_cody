@@ -23,15 +23,18 @@ General Offices &amp; Winter Quarters<br/>
 Denver — Colorado</div>
 
       <span class="dateline">San Diego. Cal<br/>
-Apr 16th<a href="#n01" class="internal_link">1</a>
+Apr 16th<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
 
-      <span class="salute">Dear. Clarence. &amp;. Bessie<a href="#n02" class="internal_link">2</a>
+      <span class="salute">Dear. Clarence. &amp;. Bessie<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
 
-      <p>The old show is working again. And I am Sober and feeling like a young buck. Were we ever in Hanibal?<a href="#n03" class="internal_link">3</a>
+      <p>The old show is working again. And I am Sober and feeling like a young buck. Were we ever in Hanibal?<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </p>
 
       <span class="closer">
@@ -44,18 +47,15 @@ Apr 16th<a href="#n01" class="internal_link">1</a>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Although Cody did not include the year in the dateline of this letter, it was probably written in 1915. Cody performed with the Sells-Floto Circus in San Diego from April 15 through April 17, 1915.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Although Cody did not include the year in the dateline of this letter, it was probably written in 1915. Cody performed with the Sells-Floto Circus in San Diego from April 15 through April 17, 1915.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Clarence" is believed to be <span class="persName">
+         <a name="n02.note"> </a>Note 2: "Clarence" is believed to be <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/"/>
-         </span>Clarence W. Rowley, a prominent Boston attorney and friend of Cody.<a href="#n02.ref">  [back]
-            </a>
+         </span>Clarence W. Rowley, a prominent Boston attorney and friend of Cody.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Perhaps Cody meant Hannibal, Missouri. He performed there on at least three occasions in his show-business career, including August 20, 1898; September 29, 1911; and September 26, 1914.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Perhaps Cody meant Hannibal, Missouri. He performed there on at least three occasions in his show-business career, including August 20, 1898; September 29, 1911; and September 26, 1914.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

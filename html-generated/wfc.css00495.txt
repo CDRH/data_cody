@@ -28,7 +28,8 @@
          </div>
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
-      <span class="dateline">Muskegon— Mich<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Muskegon— Mich<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 Aug. 11th / 96</span>
@@ -38,7 +39,8 @@ My Dear <span class="persName">
          <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
       </span>—
 
-<p>What about a name for the Town.<a href="#n02" class="internal_link">2</a> That you are going to have for the County Seat? I hear you have made a trip through the county <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> the prospects for the seat? I have been <a rel="tooltip" class="sic" title="urging​ &#xA;    ">urgeing</a> 
+<p>What about a name for the Town.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> That you are going to have for the County Seat? I hear you have made a trip through the county <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> the prospects for the seat? I have been <a rel="tooltip" class="sic" title="urging​ &#xA;    ">urgeing</a> 
          <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleiystein</a>
          </span> 
@@ -50,7 +52,8 @@ My Dear <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
          </span> &amp; your signature I hope you hurried them through—</p>
 
-      <p>Say George did you get my letter about giving Trego<a href="#n03" class="internal_link">3</a> a contract— the work will have to be done as soon as the co gets funds. And as I am willing to wait for my pay until co does get funds— and as its very important that water should be down to the Town as soon as possible. I thought you would like Trego to do all the work he could—</p>
+      <p>Say George did you get my letter about giving Trego<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> a contract— the work will have to be done as soon as the co gets funds. And as I am willing to wait for my pay until co does get funds— and as its very important that water should be down to the Town as soon as possible. I thought you would like Trego to do all the work he could—</p>
 
       <p>Let me hear from you—</p>
 
@@ -59,7 +62,8 @@ My Dear <span class="persName">
 
          <br/>Cody
 </span>
-      <p>PS. I have never heard the particulars about the <u>killing</u>.<a href="#n04" class="internal_link">4</a>
+      <p>PS. I have never heard the particulars about the <u>killing</u>.<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a>
       </p>
 
 
@@ -70,7 +74,7 @@ My Dear <span class="persName">
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Muskegon, Michigan, on August 11, 1896. The day's entry in the 1896 Route Diary: "Muskegon, Mich. / Tuesday, August 11. Arrived in town at 4.45 A.M. One and one-half mile haul to lot. Bert Antes, an American soldier, fell back during parade, and while trying to catch up ran over a little boy and cut his right leg badly, and left several other bad bruises on his body. At 6.50 a wind-storm struck us and the canvas on the east side went down, and at 7.05 the west side came over into the arena, carrying electric light poles and lamps with it; both horse tents and dressing-room were let down, and in fifteen minutes the place looked like a wreck. Things were in a bad condition, and orders were given to pack as no show would be attempted to-night. It was a hard pack up, and everything went backwards, and we did not get through much before our regular time. From this time on we will keep our weather-eye open for the little white clouds. / Business big in the afternoon. / Lot, Terrace and Pine streets. / Arena, 186 x 338.
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Muskegon, Michigan, on August 11, 1896. The day's entry in the 1896 Route Diary: "Muskegon, Mich. / Tuesday, August 11. Arrived in town at 4.45 A.M. One and one-half mile haul to lot. Bert Antes, an American soldier, fell back during parade, and while trying to catch up ran over a little boy and cut his right leg badly, and left several other bad bruises on his body. At 6.50 a wind-storm struck us and the canvas on the east side went down, and at 7.05 the west side came over into the arena, carrying electric light poles and lamps with it; both horse tents and dressing-room were let down, and in fifteen minutes the place looked like a wreck. Things were in a bad condition, and orders were given to pack as no show would be attempted to-night. It was a hard pack up, and everything went backwards, and we did not get through much before our regular time. From this time on we will keep our weather-eye open for the little white clouds. / Business big in the afternoon. / Lot, Terrace and Pine streets. / Arena, 186 x 338.
 
 <span class="lg">
             <h4>"Those Little White Clouds.
@@ -103,20 +107,16 @@ My Dear <span class="persName">
                <span class="l"> To see a big show blow down."</span>
             </span>
          </span>
-         <a href="#n01.ref">  [back]
-            </a>
+         <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The "Town" was officially named Cody, Wyoming, in August 1896.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The "Town" was officially named Cody, Wyoming, in August 1896.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Trego" is Charles Trego (1856-1925) who was a personal friend of Cody's and a foreman for both Scout's Rest Ranch in North Platte, Nebraska, and the TE Ranch in Cody, Wyoming. <a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Trego" is Charles Trego (1856-1925) who was a personal friend of Cody's and a foreman for both Scout's Rest Ranch in North Platte, Nebraska, and the TE Ranch in Cody, Wyoming. <a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Cody's meaning of "particulars about the killing" is not clear.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Cody's meaning of "particulars about the killing" is not clear.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

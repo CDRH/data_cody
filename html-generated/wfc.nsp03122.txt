@@ -17,7 +17,8 @@
 
       <p>LONDON, Aug 25.—Meagre details have just been received here of a fight between the cowboy and Indian companies of Buffalo Bill and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/carver.w">Dr. Carver</a>
-         </span> in the streets of Hamburg.<a href="#n01" class="internal_link">1</a> It is understood that a fierce conflict took place, and that but for the interference of the police in force life would have been taken. Nothing else is talked of.</p>
+         </span> in the streets of Hamburg.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> It is understood that a fierce conflict took place, and that but for the interference of the police in force life would have been taken. Nothing else is talked of.</p>
 
       <p>Dr. Carver's company is but lately away from Ruseia, where in Moscow it had great trouble with the police, when blood was shed.</p>
 
@@ -32,8 +33,7 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Hamburg, Germany, August 8-31, 1890.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Hamburg, Germany, August 8-31, 1890.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

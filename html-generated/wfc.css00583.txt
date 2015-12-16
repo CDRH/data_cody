@@ -22,7 +22,8 @@
       </div>
 
 
-      <span class="ab">Number  24 ch<a href="#n01" class="internal_link">1</a>
+      <span class="ab">Number  24 ch<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
 
@@ -48,7 +49,8 @@
       <span class="ab">Audit Annex</span>
 
 
-      <p>Its most important for future success this colony<a href="#n03" class="internal_link">3</a> goes at once give every concession possible</p>
+      <p>Its most important for future success this colony<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> goes at once give every concession possible</p>
 
 
       <span class="closer">
@@ -59,16 +61,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or WFC assignee. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Telegram is handwritten by clerk or WFC assignee. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West was in preparation for the opening of the 1896 season in Philadelphia on April 18th.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Buffalo Bill's Wild West was in preparation for the opening of the 1896 season in Philadelphia on April 18th.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Colony" refers to the fifty or so German migrant families that were planning to settle in the Big Horn Basin.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Colony" refers to the fifty or so German migrant families that were planning to settle in the Big Horn Basin.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

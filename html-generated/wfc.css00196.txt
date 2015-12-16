@@ -23,17 +23,21 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
       <span class="dateline">Danville. Ills
-Aug 20th<a href="#n01" class="internal_link">1</a>
+Aug 20th<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My. Dear Hinkle</span>
 
 
-      <p>I was very glad to hear from you. And I have given your regards to Baker &amp; Sweeney.<a href="#n02" class="internal_link">2</a> We are all well- and busy. We <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> lost but one performance this season. While the Barnum Circus have lost eleven.<a href="#n03" class="internal_link">3</a> This show has beaten all big shows on receipts this so far. And we propose to do so for the rest of the season. </p>
+      <p>I was very glad to hear from you. And I have given your regards to Baker &amp; Sweeney.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> We are all well- and busy. We <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> lost but one performance this season. While the Barnum Circus have lost eleven.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> This show has beaten all big shows on receipts this so far. And we propose to do so for the rest of the season. </p>
 
       <p>I will hope to see you some time this winter.</p>
 
-      <p>Please remember me to the Governor and the rest-<a href="#n04" class="internal_link">4</a>
+      <p>Please remember me to the Governor and the rest-<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a>
       </p>
 
       <span class="closer">
@@ -79,20 +83,16 @@ Wyo
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Danville, Illinois, on August 20, 1907. While Cody did not include the year in this letter's dateline, the postmark on the accompanying envelope supplies the missing information.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Danville, Illinois, on August 20, 1907. While Cody did not include the year in this letter's dateline, the postmark on the accompanying envelope supplies the missing information.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody most likely refers to two long-time Wild West performers: Lewis H. "Johnny" Baker (1869-1931) and William Sweeney (1856-1917), leader of the Wild West's Cowboy Band from 1883 to 1913.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody most likely refers to two long-time Wild West performers: Lewis H. "Johnny" Baker (1869-1931) and William Sweeney (1856-1917), leader of the Wild West's Cowboy Band from 1883 to 1913.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Cody refers to the Barnum and Bailey Circus, which had been sold to the Ringling brothers in July 1907. The Barnum and Bailey show was combined with the Ringling Brothers Circus in 1918 to form the Ringling Brothers and Barnum and Bailey Circus, the name under which the show continues to operate.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Cody refers to the Barnum and Bailey Circus, which had been sold to the Ringling brothers in July 1907. The Barnum and Bailey show was combined with the Ringling Brothers Circus in 1918 to form the Ringling Brothers and Barnum and Bailey Circus, the name under which the show continues to operate.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Bryant B. Brooks (1861-1944) was then the governor of Wyoming.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Bryant B. Brooks (1861-1944) was then the governor of Wyoming.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

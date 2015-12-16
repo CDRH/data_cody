@@ -23,7 +23,9 @@
             <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w">Mr. Gladstone</a>
          </span>, and a large number of notable people have already visited the Indian encampments, Mexican village, corrals, and stables, and a private rehearsal of the performance was given before the Royal visitors last week. Without preliminary advertising beyond the striking pictorial posters on the hoardings a vast amount of interest has been aroused in Buffalo Bill and his remarkable company of the two hundred persons who this afternoon, and thenceforward daily, will represent episodes in the adventurous life of the Wild West. There are a score of items in the programme—all being characterised by picturesque groups and colours, dramatic and rapid action, wonderful feats on horseback, and with the rifle, suggestions of prairie warfare, camp life, wigwam customs, buffalo hunts, and savage attacks upon travelling emigrants, and the log cabin of the white man. The painted and half-naked Indian warriors do not actually destroy their victims, but they carry the action with marvellous effect up to the very scalping point. The feats of the Mexicans and cowboys with the Broncho horses and mules, and steers, are as amusing as they are exciting. In short, we very much mistake the tastes of the British public if they do not become enamoured from the outset with this grand novelty. Before engaging in this enterprise the promoters entered into calculations showing that ten millions of people reside within an hour's, and half that number within thirty minutes' railway journey of the site. The Exhibition may be reached by alighting at West Brompton station for the Lillie-road entrances, or West Kensington station for the entrance at the northern corner of the ornamental grounds, but the principal station used will be Earl's Court, at which elaborate additions and alterations have been made for the Exhibition season. <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. J. R. Whitley</a>
-         </span>,  chairman of the Executive Council of London, and Mr. H. S. Russell,<a href="#n01" class="internal_link">1</a> chairman of the American Board, are general managers; Mr. J. Gilmer Speed,<a href="#n02" class="internal_link">2</a> secretary; and Mr. Florence O'Driscoll, engineer of the Exhibition.</p>
+         </span>,  chairman of the Executive Council of London, and Mr. H. S. Russell,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> chairman of the American Board, are general managers; Mr. J. Gilmer Speed,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> secretary; and Mr. Florence O'Driscoll, engineer of the Exhibition.</p>
 
 
 
@@ -32,12 +34,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note1: Henry Sturgis Russell (1838-1905), a Civil War general who became president of the American Exhibition.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note1: Henry Sturgis Russell (1838-1905), a Civil War general who became president of the American Exhibition.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: John Gilmer Speed (1853-1909), an American journalist, editor, and author, served as Secretary of the American Exhibition in London, England, from 1884 through 1887.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: John Gilmer Speed (1853-1909), an American journalist, editor, and author, served as Secretary of the American Exhibition in London, England, from 1884 through 1887.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

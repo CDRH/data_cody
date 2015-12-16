@@ -20,7 +20,8 @@
          <strong>Thos. T. Eckert, President and General Manager.</strong> [end heading imprint]</div>
 
 
-      <span class="ab"> Number<br/>Sent By<br/>Rec'd by<br/>Check  pd<a href="#n01" class="internal_link">1</a>
+      <span class="ab"> Number<br/>Sent By<br/>Rec'd by<br/>Check  pd<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
 
@@ -29,7 +30,8 @@
       </span>
 
 
-      <span class="ab">Dated  Philadelphia 5/12<a href="#n02" class="internal_link">2</a>
+      <span class="ab">Dated  Philadelphia 5/12<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
 
@@ -57,12 +59,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1902 as determined by the Routes List: Buffalo Bill's Wild West performed in Philadelphia, Pennsylvania, May 12-17, 1902.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The year is not inscribed by Cody but is 1902 as determined by the Routes List: Buffalo Bill's Wild West performed in Philadelphia, Pennsylvania, May 12-17, 1902.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

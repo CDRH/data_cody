@@ -23,9 +23,11 @@
          </div>
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
-      <span class="dateline">Macon. Ga<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Macon. Ga<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
-Oct. 19th<a href="#n02" class="internal_link">2</a>
+Oct. 19th<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -33,7 +35,8 @@ Oct. 19th<a href="#n02" class="internal_link">2</a>
          </span>
       </span>
 
-      <p>No letter for several days Recd a letter from Arta<a href="#n03" class="internal_link">3</a> Said she met <span class="persName">
+      <p>No letter for several days Recd a letter from Arta<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> Said she met <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t">Mr Heckert</a>
          </span> on train going to Sheridan after <u>Blankets</u>. I do hope you and he both did not leave the work at the same time. And its strange if Heckert had to go after <u>Blankets</u>. These things should have been thought if not why does so important a man have to go after blankets?</p>
 
@@ -70,27 +73,24 @@ November 15th or 20<u>th</u> with the party. And I want them to feel that we are
          <br/>Cody
 </span>
 
-      <p>PS. Denbeigh<a href="#n04" class="internal_link">4</a> has written me for his money.</p>
+      <p>PS. Denbeigh<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> has written me for his money.</p>
 
    </div>
 
 
    <div class="bibliography">
       <p>
-         <a name=".note"/>Note 1: Buffalo Bill's Wild West performed in Macon, Georgia, on October 19, 1895.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 1: Buffalo Bill's Wild West performed in Macon, Georgia, on October 19, 1895.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 2: The year is not inscribed by Cody but is 1895 as determined by the Routes List.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 2: The year is not inscribed by Cody but is 1895 as determined by the Routes List.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 3: Arta Lucille Cody (Dec 16, 1866-Jan 30, 1904) was the eldest daughter of Louisa and William F. Cody. In the Cody family Bible, Cody recorded his daughter's name and birth as "Arta Lilly Elvira Cody. Born. Dec. 16th 1866. Leavenworth Kansas." <a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 3: Arta Lucille Cody (Dec 16, 1866-Jan 30, 1904) was the eldest daughter of Louisa and William F. Cody. In the Cody family Bible, Cody recorded his daughter's name and birth as "Arta Lilly Elvira Cody. Born. Dec. 16th 1866. Leavenworth Kansas." <a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 4: "Denbeigh" may have been Frank Denbeigh (1865-1928), a miner working in Wyoming during 1895.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 4: "Denbeigh" may have been Frank Denbeigh (1865-1928), a miner working in Wyoming during 1895.<a href="#.ref"> [back]</a>
       </p>
    </div>
 </div>

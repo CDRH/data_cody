@@ -25,7 +25,8 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
 
-      <span class="dateline">Sunday morning nearing Atlanta— on train—<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Sunday morning nearing Atlanta— on train—<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -59,34 +60,33 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-raise in the estimates &amp; I will not ask B. &amp; S.<a href="#n02" class="internal_link">2</a> to help me— So let no more contracts. I will in some way keep your credit good— so you can let contractors fill their present work you have let them have. But tell them we will do no more this winter You say you are paying 7c a yard for <a rel="tooltip" class="sic" title="moving​ &#xA;    ">mooveing</a> loose dirt. I can <a rel="tooltip" class="sic" title="move​ &#xA;    ">moove</a> loose dirt with a grader for 3c a yard <u>sure</u>. When our own men are not on the job and not at work do you pay them?</p>
+raise in the estimates &amp; I will not ask B. &amp; S.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> to help me— So let no more contracts. I will in some way keep your credit good— so you can let contractors fill their present work you have let them have. But tell them we will do no more this winter You say you are paying 7c a yard for <a rel="tooltip" class="sic" title="moving​ &#xA;    ">mooveing</a> loose dirt. I can <a rel="tooltip" class="sic" title="move​ &#xA;    ">moove</a> loose dirt with a grader for 3c a yard <u>sure</u>. When our own men are not on the job and not at work do you pay them?</p>
 
       <p>George you bet I am heep sick—</p>
 
       <span class="closer">
          <br/>Bill
 </span>
-      <p>PS. What have you found out about Town site<a href="#n03" class="internal_link">3</a> And men <a rel="tooltip" class="sic" title="filing​ &#xA;    ">fileing</a> homesteads under our ditch</p>
+      <p>PS. What have you found out about Town site<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> And men <a rel="tooltip" class="sic" title="filing​ &#xA;    ">fileing</a> homesteads under our ditch</p>
 
    </div>
 
 
    <div class="bibliography">
       <p>
-         <a name=".note"/>Note 1: "Sunday morning nearing Atlanta- on train" as inscribed by Cody, was Sunday, October 27, 1895, the travel day prior to opening in Atlanta, Georgia, on October 28 where BBWW performed until November 2, 1895, during the run of The Cotton States and International Exposition, also known as the Atlanta Exposition.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 1: "Sunday morning nearing Atlanta- on train" as inscribed by Cody, was Sunday, October 27, 1895, the travel day prior to opening in Atlanta, Georgia, on October 28 where BBWW performed until November 2, 1895, during the run of The Cotton States and International Exposition, also known as the Atlanta Exposition.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 2: "B. &amp; S." refers to <span class="persName">
+         <a name=".note"> </a>Note 2: "B. &amp; S." refers to <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">George Bleistein</a>
          </span> and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Nate Salsbury</a>
-         </span>, two of the primary investors in the canal.<a href="#.ref">  [back]
-            </a>
+         </span>, two of the primary investors in the canal.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 3: Cody, Wyoming.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 3: Cody, Wyoming.<a href="#.ref"> [back]</a>
       </p>
    </div>
 </div>

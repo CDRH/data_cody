@@ -43,9 +43,11 @@
          </span> and Gouch.</p>
 
       <span class="closer">
-         <br/>W T Cody.<a href="#n01" class="internal_link">1</a>
+         <br/>W T Cody.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
-      <div class="note">1138pgr<a href="#n02" class="internal_link">2</a>
+      <div class="note">1138pgr<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </div>
 
    </div>
@@ -87,12 +89,10 @@ Albany Hotel
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Probably a typographical error. Cody commonly signed his name as "W. F. Cody."<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Probably a typographical error. Cody commonly signed his name as "W. F. Cody."<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: This penciled notation is in an unknown hand.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: This penciled notation is in an unknown hand.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

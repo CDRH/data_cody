@@ -22,14 +22,17 @@
          <h4>AN AMBUSCADE AND SLAUGHTER OF TROOPS.</h4>
          <p>The Red Indians now at the American Exhibition have communicated many details of stirring events in their history which had before been imperfectly known. In a little book entitled "<span class="persName">
                <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r">Red Shirt</a>
-            </span>, Chief of the Sioux Nation," which is just about to be published, the capture of Fort Phil, Carney,<a href="#n01" class="internal_link">1</a> is thus vividly described:— </p>
+            </span>, Chief of the Sioux Nation," which is just about to be published, the capture of Fort Phil, Carney,<a name="n01.ref"> </a>
+            <a href="#n01.note" class="ref">[1]</a> is thus vividly described:— </p>
 
-         <p>It was just when the United States officers were chafing at their inability to reach their subtle foes that a band of twenty Indians, headed by the Sioux Chief, Crazy Horses,<a href="#n02" class="internal_link">2</a> rode up to the settlement at Fort Phil, Carney, mounted on splendid horses, manœvered around the station, firing at and picking off any helpless resident who incautiously exposed a mark for the fatal bullet. The soldiers returned the fire, but the Indians, instead of retiring, drew closer to the fort, galloping around it, as is customary in Indian warfare, firing all the time. It was irritating and galling to the Commander to see a little force like this, not a quarter as strong as his own, openly defying him in the broad daylight, while the people in the fort grumbled at his inactivity. Goaded at last by the persistent attacks of his enemies, he opened his gates and sallied out to drive back the Indians.</p>
+         <p>It was just when the United States officers were chafing at their inability to reach their subtle foes that a band of twenty Indians, headed by the Sioux Chief, Crazy Horses,<a name="n02.ref"> </a>
+            <a href="#n02.note" class="ref">[2]</a> rode up to the settlement at Fort Phil, Carney, mounted on splendid horses, manœvered around the station, firing at and picking off any helpless resident who incautiously exposed a mark for the fatal bullet. The soldiers returned the fire, but the Indians, instead of retiring, drew closer to the fort, galloping around it, as is customary in Indian warfare, firing all the time. It was irritating and galling to the Commander to see a little force like this, not a quarter as strong as his own, openly defying him in the broad daylight, while the people in the fort grumbled at his inactivity. Goaded at last by the persistent attacks of his enemies, he opened his gates and sallied out to drive back the Indians.</p>
       </div>
       <div class="">
          <h4>LEADING THE TROOPS INTO A TRAP.</h4>
 
-         <p>There were no signs of any other Red Men. The country for miles around was clear. Yet, though they saw the troops approaching, the Indians, contrary to their custom, retired but slowly, every now and then swooping back to fire a shot at their pursuing enemies. The Whites had already lost some of their best men. They were maddened at having been kept for weeks without a chance of getting at their foe, and they rode their horses at their hardest after the band of Indians, who were now flying from them, and keeping just without range. The road from the fort was a level one across the plain, but about six miles distant it passes between two shallow creeks. Beyond the creeks on either side were steep hills, wooded, and offering complete shelter. In these woods Red Cloud<a href="#n03" class="internal_link">3</a> has posted a strong force of his best fighting braves. On either end of the gorge strong parties of Indians lay concealed. It was Red Cloud who had sent the fiery Crazy Horses up to the fort to make feigned attacks, and draw the white garrison in pursuit, and his heart was gladdened at last by seeing the Indians galloping down the road, and the white men charging after them at the most furious pace. On they came, pursuers and pursued, at a break-neck gallop, the Indian ponies flagging, but bravely struggling on, and the white men gaining upon the little band of desperadoes.</p>
+         <p>There were no signs of any other Red Men. The country for miles around was clear. Yet, though they saw the troops approaching, the Indians, contrary to their custom, retired but slowly, every now and then swooping back to fire a shot at their pursuing enemies. The Whites had already lost some of their best men. They were maddened at having been kept for weeks without a chance of getting at their foe, and they rode their horses at their hardest after the band of Indians, who were now flying from them, and keeping just without range. The road from the fort was a level one across the plain, but about six miles distant it passes between two shallow creeks. Beyond the creeks on either side were steep hills, wooded, and offering complete shelter. In these woods Red Cloud<a name="n03.ref"> </a>
+            <a href="#n03.note" class="ref">[3]</a> has posted a strong force of his best fighting braves. On either end of the gorge strong parties of Indians lay concealed. It was Red Cloud who had sent the fiery Crazy Horses up to the fort to make feigned attacks, and draw the white garrison in pursuit, and his heart was gladdened at last by seeing the Indians galloping down the road, and the white men charging after them at the most furious pace. On they came, pursuers and pursued, at a break-neck gallop, the Indian ponies flagging, but bravely struggling on, and the white men gaining upon the little band of desperadoes.</p>
       </div>
       <div class="">
          <h4>A DETERMINED BAND.</h4>
@@ -51,16 +54,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Fort Phil Kearny, established in 1866 in northeastern Wyoming along the Bozeman Trail to protect travelers against Indian attack.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Fort Phil Kearny, established in 1866 in northeastern Wyoming along the Bozeman Trail to protect travelers against Indian attack.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Crazy Horse (~1840-1877), <em class="hi">Tasunka Witko,</em> Chief of the Oglala Sioux, a visionary leader of his people, committed to preserving the traditions and values of the Lakota way of life.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Crazy Horse (~1840-1877), <em class="hi">Tasunka Witko,</em> Chief of the Oglala Sioux, a visionary leader of his people, committed to preserving the traditions and values of the Lakota way of life.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Red Cloud (1822-1909), <em class="hi">Mahipiya Luta,</em> a great war leader and one of the most recognized chiefs of the Oglala Sioux Nation.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Red Cloud (1822-1909), <em class="hi">Mahipiya Luta,</em> a great war leader and one of the most recognized chiefs of the Oglala Sioux Nation.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -24,9 +24,11 @@
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-      <span class="dateline">Atlanta<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Atlanta<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
-Oct. 27<a href="#n02" class="internal_link">2</a>
+Oct. 27<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -58,12 +60,10 @@ Oct. 27<a href="#n02" class="internal_link">2</a>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: BBWW performed in Atlanta, Georgia, from October 28 - November 2, 1895, during the run of the Cotton States and International Exposition, also known as the Atlanta Exposition.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: BBWW performed in Atlanta, Georgia, from October 28 - November 2, 1895, during the run of the Cotton States and International Exposition, also known as the Atlanta Exposition.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The year was not inscribed by Cody but was 1895 as determined by the Routes List.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The year was not inscribed by Cody but was 1895 as determined by the Routes List.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

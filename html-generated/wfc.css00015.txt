@@ -38,7 +38,9 @@
       <p>
          <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Mr. Salsbury</a>
-         </span> has just sent me the Form of Agreement for the Indians drawn by yourself.<a href="#n01" class="internal_link">1</a>  we both approve of it.  And Just what we have wanted the Indians to for years.  But as their contract was up or made out this way before  they wished their money as soon as the show closed.  but this will be much better for them each and all will have a little money when they arrive at the Agency. <a href="#n02" class="internal_link">2</a> 
+         </span> has just sent me the Form of Agreement for the Indians drawn by yourself.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>  we both approve of it.  And Just what we have wanted the Indians to for years.  But as their contract was up or made out this way before  they wished their money as soon as the show closed.  but this will be much better for them each and all will have a little money when they arrive at the Agency. <a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> 
          <del>this way</del>
       </p>
 
@@ -58,12 +60,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The Wild West's employment contracts with Indian performers had to be approved by the agent in charge of the reservation where the Indians resided.  In this case, it appears that Agent Penney took an active role in drafting the contracts himself.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The Wild West's employment contracts with Indian performers had to be approved by the agent in charge of the reservation where the Indians resided.  In this case, it appears that Agent Penney took an active role in drafting the contracts himself.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody refers to the practice of withholding a portion of an Indian performer's salary until the individual returned to the reservation at the end of the show season.  This was a common element in Wild West Indian contracts for the remainder of Cody's show career.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody refers to the practice of withholding a portion of an Indian performer's salary until the individual returned to the reservation at the end of the show season.  This was a common element in Wild West Indian contracts for the remainder of Cody's show career.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

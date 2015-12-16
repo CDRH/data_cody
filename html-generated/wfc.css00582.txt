@@ -20,7 +20,8 @@
          <br/>This Company <strong>Transmits</strong> and <strong>Delivers</strong> messages only on conditions limiting its liability, which have been assented to by the sender of the following message.<br/>Errors can be guarded against only by repeating a message back to the sending station for comparison, and the Company will not hold itself liable for errors or delays in transmission or delivery of <strong>Unrepeated Messages,</strong> beyond the amount of tolls paid thereon, nor in any case where the claim is not presented in writing with in sixty days after the message is filed with the Company for transmission.<br/>This is an <strong>Unrepeated Message,</strong> and is delivered by request of the sender, under the conditions named above.<br/>Thos. T. Eckert, President and General Manager. [end heading imprint]</div>
 
 
-      <span class="ab">Number  17 ch<a href="#n02" class="internal_link">1</a>
+      <span class="ab">Number  17 ch<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[1]</a>
       </span>
 
 
@@ -31,7 +32,8 @@
 
 
       <span class="ab">
-         <strong>Received at</strong> [hand stamped] Auditorium Hotel Annex<br/> 223p<br/>4/15 <strong>189</strong>6<a href="#n02" class="internal_link">2</a>
+         <strong>Received at</strong> [hand stamped] Auditorium Hotel Annex<br/> 223p<br/>4/15 <strong>189</strong>6<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
 
@@ -58,12 +60,10 @@
 
    <div class="bibliography">
       <p>
-         <a name=".note"/>Note 1: Telegram is handwritten by clerk or Willaim F. Cody assignee.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 1: Telegram is handwritten by clerk or Willaim F. Cody assignee.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 2: Buffalo Bill's Wild West was in preparation for the opening of the 1896 season in Philadelphia on April 18th.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 2: Buffalo Bill's Wild West was in preparation for the opening of the 1896 season in Philadelphia on April 18th.<a href="#.ref"> [back]</a>
       </p>
    </div>
 

@@ -45,7 +45,8 @@ Pine Ridge Agency, S.D.
          <span class="salute">Thanking you for past favors,</span>
          <span class="salute">I am,</span>
          <span class="salute">Very truly yours,</span>
-         <br/>W. F. Cody<a href="#n01" class="internal_link">1</a>
+         <br/>W. F. Cody<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
     
       </span>
 
@@ -54,8 +55,7 @@ Pine Ridge Agency, S.D.
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: This signature appears to be in William F. Cody's hand, but the rest of the letter is not.  Cody apparently signed a letter that had been drafted by someone else.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: This signature appears to be in William F. Cody's hand, but the rest of the letter is not.  Cody apparently signed a letter that had been drafted by someone else.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

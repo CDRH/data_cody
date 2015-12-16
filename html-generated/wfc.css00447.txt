@@ -28,7 +28,8 @@
 John M. Burke. General Manager.<br/>Jule Keen, Treasurer.</div>
 
 
-      <span class="dateline">Sep. 10th<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Sep. 10th<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -36,8 +37,10 @@ John M. Burke. General Manager.<br/>Jule Keen, Treasurer.</div>
          </span>—</span>
 
 
-      <p>Wreck last week<a href="#n02" class="internal_link">2</a> cold rain this week. Say George— be careful about <del>see</del> 
-         <a rel="tooltip" class="sic" title="taking​ &#xA;    ">takeing</a> Nagle<a href="#n03" class="internal_link">3</a> &amp; settlers property or we will get into an everlasting law suit. And the cry will go out that we get settlers out there and then take their all away from them— should such a report get out we are ruined</p>
+      <p>Wreck last week<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> cold rain this week. Say George— be careful about <del>see</del> 
+         <a rel="tooltip" class="sic" title="taking​ &#xA;    ">takeing</a> Nagle<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> &amp; settlers property or we will get into an everlasting law suit. And the cry will go out that we get settlers out there and then take their all away from them— should such a report get out we are ruined</p>
 
       <p>Let me know the conditions No statements yet guess <a rel="tooltip" class="sic" title="typewriter​ &#xA;    ">type writter</a> got to much to do—</p>
 
@@ -50,16 +53,13 @@ John M. Burke. General Manager.<br/>Jule Keen, Treasurer.</div>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in York, Pennsylvania, on September 10, 1895. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in York, Pennsylvania, on September 10, 1895. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody may be referring to an event on August 6th in Oswego, New York, when a significant storm disrupted an afternoon performance, recounted in a <em class="hi">New York Times</em> article of August 7th.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody may be referring to an event on August 6th in Oswego, New York, when a significant storm disrupted an afternoon performance, recounted in a <em class="hi">New York Times</em> article of August 7th.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: S. V. Nagle, an associate of the firm F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands that were to be irrigated by the Cody Canal.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: S. V. Nagle, an associate of the firm F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands that were to be irrigated by the Cody Canal.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -28,14 +28,16 @@
 
 
 
-      <span class="ab">62 P YX AZ<br/> 9<br/>Paid.<a href="#n01" class="internal_link">1</a>
+      <span class="ab">62 P YX AZ<br/> 9<br/>Paid.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/> 
          <strong>788</strong>
       </span>
 
 
 
-      <span class="ab">Philadelphia Pa Apl 19-96<a href="#n02" class="internal_link">1</a>
+      <span class="ab">Philadelphia Pa Apl 19-96<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[1]</a>
       </span>
 
 
@@ -62,12 +64,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Buffalo Bill' sWild West opened the 1896 season in Philadelphia, Pennsylvania, on April 18th, performing there until April 25th.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Buffalo Bill' sWild West opened the 1896 season in Philadelphia, Pennsylvania, on April 18th, performing there until April 25th.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 

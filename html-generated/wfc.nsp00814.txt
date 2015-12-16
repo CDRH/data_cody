@@ -24,7 +24,9 @@
          <div class="center">Buffalo Bill Lionized at the Swell Receptions and High Teas of London.</div>
       </h3>
 
-      <p>Fashionable London is now dividing its attentions between Buffalo Bill and the picture galleries. The long haired wonder of the west takes to his lionizing with a charming ease, which quite delights the "dear duchesses" who have not reveled in what one of them called a "real raw American" since Joaquin Miller<a href="#n01" class="internal_link">1</a> made his slouch hat and high boots conspicuous in Rotten Row<a href="#n02" class="internal_link">2</a> as well, as at the swell kettledrums of other days. Joaquin only sung of scalp lifting; Cody has "raised hah" with the actual knife instead of the steel pen. He has a sort of semi-barbaric courtliness and Rocky Mountain dandyishness which make him a picturesque figure anywhere, and his old acquaintances among Englishmen of the nobility take him around as they would a king of Siam. He has been to a great many receptions, high teas, musicals and some dinners at the swell clubs. He calls them all "parties" with a gentle innocence that amazes and delights. He was shown through the house of commons last evening by Col. Hughes-Hallett, and rewarded his conductor and friends by many quaint comparisons with that portion of his career as a western legislator which secured him the great American title of "Hon."</p>
+      <p>Fashionable London is now dividing its attentions between Buffalo Bill and the picture galleries. The long haired wonder of the west takes to his lionizing with a charming ease, which quite delights the "dear duchesses" who have not reveled in what one of them called a "real raw American" since Joaquin Miller<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> made his slouch hat and high boots conspicuous in Rotten Row<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> as well, as at the swell kettledrums of other days. Joaquin only sung of scalp lifting; Cody has "raised hah" with the actual knife instead of the steel pen. He has a sort of semi-barbaric courtliness and Rocky Mountain dandyishness which make him a picturesque figure anywhere, and his old acquaintances among Englishmen of the nobility take him around as they would a king of Siam. He has been to a great many receptions, high teas, musicals and some dinners at the swell clubs. He calls them all "parties" with a gentle innocence that amazes and delights. He was shown through the house of commons last evening by Col. Hughes-Hallett, and rewarded his conductor and friends by many quaint comparisons with that portion of his career as a western legislator which secured him the great American title of "Hon."</p>
 
       <p>A chat with him this afternoon brought out a curious bit of his experience, showing how similar human nature is everywhere. "I thought," he said, "that I had killed a few bear and buffalo and mountain sheep and antelope and had a few interesting scuffles with man and beast in my time; but the accounts of wholesale slaughter and Indian fights I'm expected to indorse as taking place under my eyes are just enough to take the sand out of the biggest liar between Omaha and 'Frisco."</p>
 
@@ -41,12 +43,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Joaquin Miller (1837-1913) was the pen name of American poet Cincinnatus Heine (or Hiner) Miller who was nicknamed the "Poet of the Sierras."<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Joaquin Miller (1837-1913) was the pen name of American poet Cincinnatus Heine (or Hiner) Miller who was nicknamed the "Poet of the Sierras."<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Rotten Row was a broad lane running along the south side of Hyde Park in London; illuminated by oil lamps, it was the first artificially lit highway in Britain and the "fashionable" place for upper-class Londoners to be seen.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Rotten Row was a broad lane running along the south side of Hyde Park in London; illuminated by oil lamps, it was the first artificially lit highway in Britain and the "fashionable" place for upper-class Londoners to be seen.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

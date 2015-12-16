@@ -27,7 +27,8 @@
       <span class="byline">[SPECIAL CORRESPONDENCE OF THE WORLD.]</span>
       <span class="dateline">WASHINGTON, Feb. 10.</span>
 
-      <p>THE WORLD'S special correspondent visited the Indians after the council held with the Commissioner of Indian Affairs yesterday, and found that they were well pleased with the promises and encouragement given them by Commissioner Morgan;<a href="#n01" class="internal_link">1</a> more especially the Indians from Cheyenne River, Standing Rock, Lower Brule and Crow Creek agencies.</p>
+      <p>THE WORLD'S special correspondent visited the Indians after the council held with the Commissioner of Indian Affairs yesterday, and found that they were well pleased with the promises and encouragement given them by Commissioner Morgan;<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> more especially the Indians from Cheyenne River, Standing Rock, Lower Brule and Crow Creek agencies.</p>
 
       <p>They feel that the Commissioner is doing all he can to have the treaties enforced. The Ogallallas and Brules will have their talk on Wednesday. They are now busy consulting as to whether it would be better to reduce their talks to writing, as proposed Monday afternoon.</p>
 
@@ -82,8 +83,7 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Thomas Jefferson Morgan (1839-1902), Commissioner of Indian Affairs from 1889-1893.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Thomas Jefferson Morgan (1839-1902), Commissioner of Indian Affairs from 1889-1893.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

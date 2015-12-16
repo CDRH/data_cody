@@ -23,7 +23,8 @@
          <u>Ayres</u>
       </div>
       <span class="dateline">3   A p r i l   1916.</span>
-  Hon. Franklin K. Lane<a href="#n01" class="internal_link">1</a>,
+  Hon. Franklin K. Lane<a name="n01.ref"> </a>
+      <a href="#n01.note" class="ref">[1]</a>,
   Washington, D. C.
   
   <span class="salute">My dear Mr. Lane:-</span>
@@ -43,8 +44,7 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -26,7 +26,8 @@
 
       <div class="note">6 D. SQ. 12</div>
 
-      <span class="dateline">H- Omaha Nebr Mar 18-1914<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">H- Omaha Nebr Mar 18-1914<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">
@@ -39,7 +40,8 @@ Albany Ho. Denver Colo
 
 
 
-<p>Tell hotel others Mrs. Cody and self will be there Friday morning<a href="#n02" class="internal_link">2</a>
+<p>Tell hotel others Mrs. Cody and self will be there Friday morning<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </p>
 
 
@@ -53,14 +55,12 @@ Albany Ho. Denver Colo
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Cody had been in Omaha exhibiting his motion picture <em class="hi">The Indian Wars</em>.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Cody had been in Omaha exhibiting his motion picture <em class="hi">The Indian Wars</em>.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Friday morning" would have been March 20, 1914. The purpose for this trip to Denver may have been to rendezvous with the Sells-Floto Circus, whose winter quarters were in Denver. Cody would spend the 1914 and 1915 seasons with the circus. His first performance of the 1914 season was on March 28 in Albuquerque, New Mexico. Buffalo Bill's wife, <span class="persName">
+         <a name="n02.note"> </a>Note 2: "Friday morning" would have been March 20, 1914. The purpose for this trip to Denver may have been to rendezvous with the Sells-Floto Circus, whose winter quarters were in Denver. Cody would spend the 1914 and 1915 seasons with the circus. His first performance of the 1914 season was on March 28 in Albuquerque, New Mexico. Buffalo Bill's wife, <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/cody.l">Louisa Frederici Cody</a>
-         </span>, often accompanied him on the road during his last years in show business.<a href="#n02.ref">  [back]
-            </a>
+         </span>, often accompanied him on the road during his last years in show business.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

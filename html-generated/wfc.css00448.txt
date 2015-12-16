@@ -24,7 +24,8 @@
       </div>
 
 
-      <span class="dateline">Cortland, N. Y. Sep. 15 1895<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Cortland, N. Y. Sep. 15 1895<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -33,7 +34,8 @@
 
       <p>I expected a letters here to day from You and Heck. Telling me what you had done. Did you get a secretary? If so let him write me I know too well what poor letter writers you and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t">Heck</a>
-         </span> are. I sent Curley<a href="#n02" class="internal_link">2</a> to <span class="persName">
+         </span> are. I sent Curley<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> to <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">George Bleistein</a>
          </span> from Elmira Say George, I know you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> like <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
@@ -52,7 +54,10 @@
 
 catch more flies with molasses than with vinegar So pat him on the back— Say did you send the <u>stock</u> for Bleistein. <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
-         </span> &amp; Myself? Do you know what Heck done with the Transportation Co<a href="#n03" class="internal_link">3</a> at Sheridan. I got a wire from Paxton &amp; Gallagher <a href="#n04" class="internal_link">4</a>&amp; from Smith &amp; Co—<a href="#n05" class="internal_link">5</a> of Omaha. Asking me to guarantee Heckarts orders for supplies and furnishing goods which I did. I wish some one would keep me posted on matters at that end. So I would know what is being done— And then there will be no mistake and I can understand and help to protect our credit
+         </span> &amp; Myself? Do you know what Heck done with the Transportation Co<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> at Sheridan. I got a wire from Paxton &amp; Gallagher <a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a>&amp; from Smith &amp; Co—<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a> of Omaha. Asking me to guarantee Heckarts orders for supplies and furnishing goods which I did. I wish some one would keep me posted on matters at that end. So I would know what is being done— And then there will be no mistake and I can understand and help to protect our credit
 
 
 <span class="hr"> </span>
@@ -100,24 +105,19 @@ them by not paying them when we agreed to— and they can make us dance to their
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Ithaca, New York, on September 14, 1895. There was no Sunday performance on September 15th.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Ithaca, New York, on September 14, 1895. There was no Sunday performance on September 15th.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Curley" is unidentified.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Curley" is unidentified.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: The transportation company in Sheridan was owned by Cody and known as the W. F. Cody Transportation Company.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: The transportation company in Sheridan was owned by Cody and known as the W. F. Cody Transportation Company.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: The Paxton-Gallagher business became renowned for its wholesale groceries, including Butternut coffee. The Paxton &amp; Gallagher Wholesale Grocery Company was founded in 1879 by William Paxton and Benjamin Gallagher. Gallagher was a grocery man, and operated a series of companies all along the Union Pacific railroad route.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: The Paxton-Gallagher business became renowned for its wholesale groceries, including Butternut coffee. The Paxton &amp; Gallagher Wholesale Grocery Company was founded in 1879 by William Paxton and Benjamin Gallagher. Gallagher was a grocery man, and operated a series of companies all along the Union Pacific railroad route.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: M. E. Smith &amp; Co. was a wholesale dry goods business located in Omaha, Nebraska. The company began in 1868 and was acquired by the Bryne-Hammer Co. in 1925 for $1,830,000.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: M. E. Smith &amp; Co. was a wholesale dry goods business located in Omaha, Nebraska. The company began in 1868 and was acquired by the Bryne-Hammer Co. in 1925 for $1,830,000.<a href="#n05.ref"> [back]</a>
       </p>
    </div>
 </div>

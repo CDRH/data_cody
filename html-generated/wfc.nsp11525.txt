@@ -54,7 +54,8 @@ ON EVERYDAY TEXTS.</h3>
          </span>
 
          <span class="lg">
-            <span class="l">"What d'ye think of Mayor Cooke?<a href="#n01" class="internal_link">1</a>
+            <span class="l">"What d'ye think of Mayor Cooke?<a name="n01.ref"> </a>
+               <a href="#n01.note" class="ref">[1]</a>
             </span>
             <span class="l">Tell me, Kicking Bear, and look,</span>
             <span class="l indent">You make no digression."</span>
@@ -68,7 +69,8 @@ ON EVERYDAY TEXTS.</h3>
             <span class="l">"Now, Short Bull, your turn comes next, </span>
             <span class="l">Don't evade on false pretext.</span>
             <span class="l indent">What think you of Spark, now?"</span>
-            <span class="l">"Doctor Sparkee,<a href="#n02" class="internal_link">2</a> makee noise,</span>
+            <span class="l">"Doctor Sparkee,<a name="n02.ref"> </a>
+               <a href="#n02.note" class="ref">[2]</a> makee noise,</span>
             <span class="l">Please the little girls and boys,</span>
             <span class="l">In Far West he'd givee joys,</span>
             <span class="l indent">But you keep it dark now."</span>
@@ -87,7 +89,8 @@ ON EVERYDAY TEXTS.</h3>
          <span class="lg">
             <span class="l">"Once again, then, Short Bull, say,</span>
             <span class="l">What think you of our Sir J.—</span>
-            <span class="l indent">That is, Sir James Kitson?"<a href="#n03" class="internal_link">3</a>
+            <span class="l indent">That is, Sir James Kitson?"<a name="n03.ref"> </a>
+               <a href="#n03.note" class="ref">[3]</a>
             </span>
             <span class="l">"Man of iron, very strong, </span>
             <span class="l">Fightee bravely, right or wrong,</span>
@@ -106,7 +109,8 @@ ON EVERYDAY TEXTS.</h3>
          </span>
 
          <span class="lg">
-            <span class="l">"Roundhay Park<a href="#n04" class="internal_link">4</a> you've seen, Short Bull, </span>
+            <span class="l">"Roundhay Park<a name="n04.ref"> </a>
+               <a href="#n04.note" class="ref">[4]</a> you've seen, Short Bull, </span>
             <span class="l">When with Sunday people full,</span>
             <span class="l indent">Is it not most charming?"</span>
             <span class="l">"If horse ridee very well,</span>
@@ -132,20 +136,16 @@ ON EVERYDAY TEXTS.</h3>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Alf Cooke (1843-1902), of Alf Cooke printworks,  was Mayor of Leeds, England, in 1890.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Alf Cooke (1843-1902), of Alf Cooke printworks,  was Mayor of Leeds, England, in 1890.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Dr. William Spark (1823-1897), composer and Borough Organist of Leeds.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Dr. William Spark (1823-1897), composer and Borough Organist of Leeds.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Sir James Kitson (1835-1911), 1st Baron Airedale, was a British politician, a Member of Parliament, and a prominent Unitarian in Leeds.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Sir James Kitson (1835-1911), 1st Baron Airedale, was a British politician, a Member of Parliament, and a prominent Unitarian in Leeds.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Roundhay Park, Leeds, West Yorkshire, where the first public trolley system (electric tram with overhead power) was installed in Britain in 1891.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Roundhay Park, Leeds, West Yorkshire, where the first public trolley system (electric tram with overhead power) was installed in Britain in 1891.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

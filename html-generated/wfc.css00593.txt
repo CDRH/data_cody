@@ -20,17 +20,21 @@
       <div class="note">Western Union <br/> TELEGRAM <br/> Theo. N. Vail, President <br/> 00204 <br/> RECEIVED AT 17 E. Pikes Peak Ave., Colorado Springs, Colo.</div>
 A138D HS 71 GOVT
 CA WASHINGTON D C AUG 27 1913
- HON FRANKLIN K LANE<a href="#n01" class="internal_link">1</a> SECY INTERIOR
+ HON FRANKLIN K LANE<a name="n01.ref"> </a>
+      <a href="#n01.note" class="ref">[1]</a> SECY INTERIOR
   COLOSP S COLO
 
 
 
 
 
-  <p>No objection here to having moving pictures made at Pineridge in accordance with your telegram twenty sixth  if taken on reservation with understanding that such action will not interfere with industrial or educational pursuits of training suggest pictures be taken under supervision Supt Brennan<a href="#n02" class="internal_link">2</a> unless for some special reason it is desirable that Major Mclaughlin<a href="#n03" class="internal_link">3</a> or some other official supervise them.</p>
+  <p>No objection here to having moving pictures made at Pineridge in accordance with your telegram twenty sixth  if taken on reservation with understanding that such action will not interfere with industrial or educational pursuits of training suggest pictures be taken under supervision Supt Brennan<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> unless for some special reason it is desirable that Major Mclaughlin<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> or some other official supervise them.</p>
       
       <span class="closer">
-         <br/>Sells<a href="#n04" class="internal_link">4</a> commr
+         <br/>Sells<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> commr
   <br/>
   3~32pm
 </span>
@@ -39,20 +43,16 @@ CA WASHINGTON D C AUG 27 1913
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Major James "White Hair" McLaughlin (1842-1923) became a United States Service Indian Agent at Standing Rock Sioux Agency in 1881; on December 15, 1890, McLaughlin ordered the arrest of Sitting Bull who was murdered the next morning. <a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Major James "White Hair" McLaughlin (1842-1923) became a United States Service Indian Agent at Standing Rock Sioux Agency in 1881; on December 15, 1890, McLaughlin ordered the arrest of Sitting Bull who was murdered the next morning. <a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Cato Sells (1859-1948) was a commissioner at the Office of Indian Affairs from 1913 to 1921. <a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Cato Sells (1859-1948) was a commissioner at the Office of Indian Affairs from 1913 to 1921. <a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

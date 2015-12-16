@@ -19,7 +19,10 @@
 
       <h3>RIVAL BUFFALO BILLS.</h3>
 
-      <p>Application was made to Mr. Justice Kekewich,<a href="#n01" class="internal_link">1</a> sitting as Vacation Judge, in the Chancery Division, yesterday, on behalf of the Hon. F. W. Cody, better known as "Buffalo Bill," of the Wild West Exhibition, to commit Mr. George Sanger,<a href="#n02" class="internal_link">2</a> circus proprietor, to prison for contempt of court by committing a breach of an undertaking contained in an order of Mr. Justice Chitty.<a href="#n03" class="internal_link">3</a> The undertaking given was to the effect that the defendant would not use the words "Buffalo Bill" or "Wild West" in his advertisements.&#x97;Defendant contended that he had not committed any breach of undertaking, but merely issued notices that his entertainment was not connected with that of Buffalo Bill.&#x97;His Lordship made the order for an attachment, with costs of the action. He, however, directed that the attachment should not go until after this day week, in order to allow Mr. Sangor to satisfy the Court that he had done what he could to purge his contempt and had paid the costs. If this was done to the satisfaction of the Court, the order for committal would not go. </p>
+      <p>Application was made to Mr. Justice Kekewich,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> sitting as Vacation Judge, in the Chancery Division, yesterday, on behalf of the Hon. F. W. Cody, better known as "Buffalo Bill," of the Wild West Exhibition, to commit Mr. George Sanger,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> circus proprietor, to prison for contempt of court by committing a breach of an undertaking contained in an order of Mr. Justice Chitty.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> The undertaking given was to the effect that the defendant would not use the words "Buffalo Bill" or "Wild West" in his advertisements.&#x97;Defendant contended that he had not committed any breach of undertaking, but merely issued notices that his entertainment was not connected with that of Buffalo Bill.&#x97;His Lordship made the order for an attachment, with costs of the action. He, however, directed that the attachment should not go until after this day week, in order to allow Mr. Sangor to satisfy the Court that he had done what he could to purge his contempt and had paid the costs. If this was done to the satisfaction of the Court, the order for committal would not go. </p>
 
 
 
@@ -28,16 +31,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Sir Arthur Kekewich (1832-1907), a British judge of the Chancery Division who dealt with jurisdiction in equity (business law, trusts law, probate law, insolvency, and land law).<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Sir Arthur Kekewich (1832-1907), a British judge of the Chancery Division who dealt with jurisdiction in equity (business law, trusts law, probate law, insolvency, and land law).<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: In August 1887, litigation was brought by Nate Salsbury and Cody against George Sanger (1825-1911), owner of Sanger's Circus, for Sanger's promotional use of the phrase "Buffalo Bill's Wild West."<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: In August 1887, litigation was brought by Nate Salsbury and Cody against George Sanger (1825-1911), owner of Sanger's Circus, for Sanger's promotional use of the phrase "Buffalo Bill's Wild West."<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Sir Joseph William Chitty (1828-1899), a British judge and politician of the Liberal party.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Sir Joseph William Chitty (1828-1899), a British judge and politician of the Liberal party.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

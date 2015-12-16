@@ -22,7 +22,8 @@
       </div>
 
 
-      <span class="ab"> Number  J<a href="#n01" class="internal_link">1</a> /</span>
+      <span class="ab"> Number  J<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> /</span>
 
 
       <span class="ab"> Sent By  K /</span>
@@ -35,7 +36,8 @@
 
 
 
-      <span class="ab"> Received at  120pm<br/>4/7  1896<a href="#n02" class="internal_link">2</a>
+      <span class="ab"> Received at  120pm<br/>4/7  1896<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
 
@@ -50,7 +52,8 @@
       <span class="ab">Sheridan, Wyo</span>
 
 
-      <p>Are you ready for sturips expects stumps experts<a href="#n03" class="internal_link">3</a> kind regards every one.</p>
+      <p>Are you ready for sturips expects stumps experts<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> kind regards every one.</p>
 
 
       <span class="closer">
@@ -62,16 +65,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Telegram is handwritten by clerk or William F. Cody assignee. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West occupied its winter quarters in Bridgeport, Connecticut, from November 3, 1895, through mid-April 1896, before their opening in Philadelphia on April 18, 1896.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Buffalo Bill's Wild West occupied its winter quarters in Bridgeport, Connecticut, from November 3, 1895, through mid-April 1896, before their opening in Philadelphia on April 18, 1896.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Stumps experts" inserted, but there is no information on the identity of "Stump."<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Stumps experts" inserted, but there is no information on the identity of "Stump."<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

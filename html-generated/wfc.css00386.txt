@@ -37,7 +37,10 @@
 Albany Hotel Denver Colo
 
 
-<p>Leaving here tomorrow for New Willard Hotel Washington with pictures<a href="#n01" class="internal_link">1</a> did you get letter from Billings am feeling pretty well I want you with me personally this summer.<a href="#n02" class="internal_link">2</a> And <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you forget it. Ewing made another strike<a href="#n03" class="internal_link">3</a>
+<p>Leaving here tomorrow for New Willard Hotel Washington with pictures<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> did you get letter from Billings am feeling pretty well I want you with me personally this summer.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> And <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you forget it. Ewing made another strike<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </p>
 
       <span class="closer">
@@ -50,18 +53,15 @@ Albany Hotel Denver Colo
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Cody refers to his motion picture <em class="hi">The Indian Wars</em>.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Cody refers to his motion picture <em class="hi">The Indian Wars</em>.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody spent the summer of 1914 performing with the Sells-Floto Circus.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody spent the summer of 1914 performing with the Sells-Floto Circus.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Cody refers to E. J. Ewing, a mining engineer engaged by Cody's partner <span class="persName">
+         <a name="n03.note"> </a>Note 3: Cody refers to E. J. Ewing, a mining engineer engaged by Cody's partner <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/dyer.d">Daniel Burns Dyer</a>
-         </span> to examine Cody and Dyer's Arizona mining operations in 1912. Ewing later leased and operated some of the Cody-Dyer mine properties.<a href="#n03.ref">  [back]
-            </a>
+         </span> to examine Cody and Dyer's Arizona mining operations in 1912. Ewing later leased and operated some of the Cody-Dyer mine properties.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

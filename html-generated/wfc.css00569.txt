@@ -39,10 +39,13 @@
       <span class="ab">Chamberlins Hotel, Washn., D. C.</span>
 
 
-      <p>Think you Warren<a href="#" class="internal_link">1</a> Mondell<a href="#n02" class="internal_link">2</a> 
+      <p>Think you Warren<a name=".ref"> </a>
+         <a href="#.note" class="ref">[1]</a> Mondell<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> 
          <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/mead.e">Mead</a>
-         </span> and other Wyoming men there should all call at one time on Smith<a href="#n03" class="internal_link">3</a> and find out if he is going to do anything if not I propose to stop all work in basin.</p>
+         </span> and other Wyoming men there should all call at one time on Smith<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> and find out if he is going to do anything if not I propose to stop all work in basin.</p>
 
 
       <span class="closer">
@@ -55,16 +58,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Francis Emroy Warren (1844-1929), a Republican Senator representing Wyoming during 1890-1893 before returning to his business pursuits. Warrren was re-elected to the Senate on March 4, 1895, serving until his death on November 24, 1929.  <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Francis Emroy Warren (1844-1929), a Republican Senator representing Wyoming during 1890-1893 before returning to his business pursuits. Warrren was re-elected to the Senate on March 4, 1895, serving until his death on November 24, 1929.  <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Frank Wheeler Mondell (1860-1939), a Republican who served in the House of Representatives from 1899 until 1923. He came to Wyoming in 1887, helped to develop the town of Newcastle, and held oil and coal interests. Mondell was chairman of the Committee on Irrigation of Arid Lands for the 58th and 59th Congress. On November 15, 1897, he was appointed assistant land commissioner of the General Land Office in Washington, resigning in 1899. <a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Frank Wheeler Mondell (1860-1939), a Republican who served in the House of Representatives from 1899 until 1923. He came to Wyoming in 1887, helped to develop the town of Newcastle, and held oil and coal interests. Mondell was chairman of the Committee on Irrigation of Arid Lands for the 58th and 59th Congress. On November 15, 1897, he was appointed assistant land commissioner of the General Land Office in Washington, resigning in 1899. <a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Smith" might refer to Michael Hoke Smith (1855-1931) who was the 19th United States Secretary of the Interior from March 6, 1893, to September 1, 1896. <a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Smith" might refer to Michael Hoke Smith (1855-1931) who was the 19th United States Secretary of the Interior from March 6, 1893, to September 1, 1896. <a href="#n03.ref"> [back]</a>
       </p>
    </div>
 

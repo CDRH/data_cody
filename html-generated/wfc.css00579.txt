@@ -21,7 +21,8 @@
       </div>
 
 
-      <span class="ab"> Number  23 ch<a href="#n01" class="internal_link">1</a>
+      <span class="ab"> Number  23 ch<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
 
@@ -37,7 +38,8 @@
       <span class="ab"> Received at  Auditorium Hotel Annex.<br/> 517 P. 4/14  1896</span>
 
 
-      <span class="ab"> Dated  Ch Philadelphia Pa 14<a href="#n02" class="internal_link">2</a>
+      <span class="ab"> Dated  Ch Philadelphia Pa 14<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
 
@@ -47,7 +49,8 @@
       </span>
 
 
-      <p>Cannot understand either yours or Nagles <a href="#n03" class="internal_link">3</a> telegram nagle had no agreement with me about starting store &amp; yesterday wired would load today fearful blunder some place we cannot buy wagons for Colony wish
+      <p>Cannot understand either yours or Nagles <a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> telegram nagle had no agreement with me about starting store &amp; yesterday wired would load today fearful blunder some place we cannot buy wagons for Colony wish
  
 
 <span class="hr"> </span>
@@ -75,16 +78,13 @@ you would please write</p>
 
    <div class="bibliography">
       <p>
-         <a name=".note"/>Note 1: Telegram is handwritten by a clerk or WFC assignee.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 1: Telegram is handwritten by a clerk or WFC assignee.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 2: Buffalo Bill's Wild West was in preparation for the opening of the 1896 season in Philadelphia on April 18th.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 2: Buffalo Bill's Wild West was in preparation for the opening of the 1896 season in Philadelphia on April 18th.<a href="#.ref"> [back]</a>
       </p>
       <p>
-         <a name=".note"/>Note 3: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands that were to be irrigated by the Cody Canal.<a href="#.ref">  [back]
-            </a>
+         <a name=".note"> </a>Note 3: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands that were to be irrigated by the Cody Canal.<a href="#.ref"> [back]</a>
       </p>
    </div>
 

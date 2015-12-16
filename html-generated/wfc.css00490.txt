@@ -29,7 +29,8 @@
          <br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer. </div>
 
 
-      <span class="dateline">Springfield. O<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Springfield. O<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 July 7<u>th</u> 96 </span>
@@ -39,11 +40,13 @@ July 7<u>th</u> 96 </span>
          </span>
       </span>
 
-      <p>When in Chicago Millis <del>a</del> co<a href="#n02" class="internal_link">2</a> was some $2.700. You said you had paid $500 on it. And you had $1,200 co money you said you would pay on it on your return It appears nothing has been paid and the bill is $3.000</p>
+      <p>When in Chicago Millis <del>a</del> co<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> was some $2.700. You said you had paid $500 on it. And you had $1,200 co money you said you would pay on it on your return It appears nothing has been paid and the bill is $3.000</p>
 
       <p>Can you explain this?</p>
 
-      <p>I wrote you that Yegen<a href="#n03" class="internal_link">3</a> says the co owe him $1000 since April &amp; May. this you did not mention in Chicago. Can you in any way list the different amounts the co owes and give them to <span class="persName">
+      <p>I wrote you that Yegen<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> says the co owe him $1000 since April &amp; May. this you did not mention in Chicago. Can you in any way list the different amounts the co owes and give them to <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Mr. Alger</a>
          </span> &amp; <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
@@ -63,16 +66,13 @@ July 7<u>th</u> 96 </span>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Springfield, Ohio, on July 7, 1896. The day's entry in the 1896 Route Diary: "Springfield, Ohio. / Tuesday, July 7. Arrived in town at 5 A. M. Two-mile haul to lot. If ever Anderson prayed for still weather he did to-day. We could not get a stake down over twelve inches anywhere and the least wind would have blown us down, but with our usual good luck we came out all right. Refreigo Carrello, a Mexican, was thrown in the grand entree to-day; his left shoulder was badly hurt and sprained and he received a lot of small bruises and was badly used up. Master-Mechanic Dan Taylor left to-day for Columbus, Ohio, to get the grounds ready for our next Monday's engagement. / Business at both performances good. / Lot, Columbus and Isabell streets. / Arena, 182 x 368."<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Springfield, Ohio, on July 7, 1896. The day's entry in the 1896 Route Diary: "Springfield, Ohio. / Tuesday, July 7. Arrived in town at 5 A. M. Two-mile haul to lot. If ever Anderson prayed for still weather he did to-day. We could not get a stake down over twelve inches anywhere and the least wind would have blown us down, but with our usual good luck we came out all right. Refreigo Carrello, a Mexican, was thrown in the grand entree to-day; his left shoulder was badly hurt and sprained and he received a lot of small bruises and was badly used up. Master-Mechanic Dan Taylor left to-day for Columbus, Ohio, to get the grounds ready for our next Monday's engagement. / Business at both performances good. / Lot, Columbus and Isabell streets. / Arena, 182 x 368."<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Millis co" is a wholesale and retail company established in Red Lodge, Montana, in 1887, by Orville E. Millis (1857-1935).<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Millis co" is a wholesale and retail company established in Red Lodge, Montana, in 1887, by Orville E. Millis (1857-1935).<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Yegen" is the Red Lodge, Montana, mercantile, P. Yegen and Co., from which supplies were purchased for the irrigation project.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Yegen" is the Red Lodge, Montana, mercantile, P. Yegen and Co., from which supplies were purchased for the irrigation project.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

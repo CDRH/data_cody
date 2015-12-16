@@ -38,7 +38,8 @@ Dear Sir
 </span>
 
 
-      <p>Your letter to Col Cody is before me. And as the managing partner of the Col I make you the following statement which I hope will be a satisfactory answer to the question of Mr Herbert Welsh.<a href="#n01" class="internal_link">1</a>
+      <p>Your letter to Col Cody is before me. And as the managing partner of the Col I make you the following statement which I hope will be a satisfactory answer to the question of Mr Herbert Welsh.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </p>
 
       <p>I find on a cursory examination of our books that we have paid to Sioux Indians since 1885 the sum of $74,300. This sum does not include the wages we have also paid to Pawnee and Omaha Indians who have been in our employ. nor does it include any part of the expense for their transportation and maintainance.</p>
@@ -62,7 +63,10 @@ Nate Salsbury, Vice-President and Director.<br/>
 Jno. M. Burke, General Manager.
 </div>
 
-      <p>I am sorry that no record has been kept of the money sent home by them. I am confident such a record would more than substantiate my estimate that at least one third of their wages have been sent back to the Reservation. Add to this, the sum that each man takes with him on discharge, and I am sure the aggregate will reach one half his wages. For example -- When the Indians left Pine Ridge this spring we became responsible for about $1,200 worth of goods which they purchased from Messrs Asay,<a href="#n02" class="internal_link">2</a> Finlay,<a href="#n03" class="internal_link">3</a> &amp; Dawson<a href="#n04" class="internal_link">4</a> for distribution among their families. They have repaid this sum to us. They have sent $200 home, and they have credit with our Treasurer for $600 — These sums practically represent $2,000 saved by the Indians in about two months. A pretty good showing I think— to say nothing of the money they may have in their pockets.</p>
+      <p>I am sorry that no record has been kept of the money sent home by them. I am confident such a record would more than substantiate my estimate that at least one third of their wages have been sent back to the Reservation. Add to this, the sum that each man takes with him on discharge, and I am sure the aggregate will reach one half his wages. For example -- When the Indians left Pine Ridge this spring we became responsible for about $1,200 worth of goods which they purchased from Messrs Asay,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> Finlay,<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> &amp; Dawson<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> for distribution among their families. They have repaid this sum to us. They have sent $200 home, and they have credit with our Treasurer for $600 — These sums practically represent $2,000 saved by the Indians in about two months. A pretty good showing I think— to say nothing of the money they may have in their pockets.</p>
 
       <p>We do not pretend to control the disposition of their wages. In the first place we have no shadow of a right to do so. In the next place we find that an Indian knows the value of a dollar
 
@@ -109,7 +113,8 @@ get all that belongs to them. Some of them going so far as to enquire the rate o
 
       <p>In conclusion sir, I am at your service regarding any information specific or otherwise, that you may desire to have about our Indians. Your letter betrays a keener knowledge of Indian character than I have ever known to be expressed in so few words.</p>
 
-      <p>Any real friend of the Indians in our employ, can have any information he desires regarding them. We only resent the impertinence and abuse of people who know no more about the real character of an Indian than they do about a degraded Hottentot.<a href="#n05" class="internal_link">5</a>
+      <p>Any real friend of the Indians in our employ, can have any information he desires regarding them. We only resent the impertinence and abuse of people who know no more about the real character of an Indian than they do about a degraded Hottentot.<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a>
       </p>
 
       <span class="closer">
@@ -131,24 +136,19 @@ Buffalo Bill's Wild West Co—
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Herbert Welsh (1851-1941), a Philadelphia writer interested in political reform causes, was a co-founder of the Indian Rights Association in 1882. Welsh served the organization for many years as its corresponding secretary and later as its president.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Herbert Welsh (1851-1941), a Philadelphia writer interested in political reform causes, was a co-founder of the Indian Rights Association in 1882. Welsh served the organization for many years as its corresponding secretary and later as its president.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation. He accompanied a party of Army officers to Wounded Knee in December 1890, and was said to have supplied the officers with a small keg of spirits. Asay's trading license was revoked in 1891 for selling alcohol on the reservation. He moved his business off the reservation to Rushville, Nebraska, where he continued to supply goods to Indian customers. An 1897 petition to Congress signed by several prominent Lakota leaders complained of Asay's high prices and asked that Cody and Salsbury end the arrangement by which Wild West Indians could pledge up to a month's salary in exchange for goods from Asay's store. <a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation. He accompanied a party of Army officers to Wounded Knee in December 1890, and was said to have supplied the officers with a small keg of spirits. Asay's trading license was revoked in 1891 for selling alcohol on the reservation. He moved his business off the reservation to Rushville, Nebraska, where he continued to supply goods to Indian customers. An 1897 petition to Congress signed by several prominent Lakota leaders complained of Asay's high prices and asked that Cody and Salsbury end the arrangement by which Wild West Indians could pledge up to a month's salary in exchange for goods from Asay's store. <a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: James A. Finlay was a licensed trader who kept a small hotel near the Pine Ridge Agency headquarters.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: James A. Finlay was a licensed trader who kept a small hotel near the Pine Ridge Agency headquarters.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Henry A. Dawson owned a store near the Pine Ridge agency. He apparently sold the business in 1893.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Henry A. Dawson owned a store near the Pine Ridge agency. He apparently sold the business in 1893.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: A term commonly used by Europeans and Americans at the time to designate certain southwestern African peoples known today as Khoikhoi or Khoisan. It is now considered derogatory.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: A term commonly used by Europeans and Americans at the time to designate certain southwestern African peoples known today as Khoikhoi or Khoisan. It is now considered derogatory.<a href="#n05.ref"> [back]</a>
       </p>
    </div>
 </div>

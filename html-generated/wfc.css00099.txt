@@ -28,7 +28,8 @@ Mar. 7th 1901—
       <span class="salute">My. Dear. Hinkle.</span>
 
 
-      <p>Your telegram came and I now I am looking for <a rel="tooltip" class="sic" title="another​ &#xA;    ">annother</a> one saying everything is <a rel="tooltip" class="sic" title="all right​ &#xA;    ">allright</a>— W. A. Richards promised to rush papers through as soon as they got there from Lander—<a href="#n01" class="internal_link">1</a>
+      <p>Your telegram came and I now I am looking for <a rel="tooltip" class="sic" title="another​ &#xA;    ">annother</a> one saying everything is <a rel="tooltip" class="sic" title="all right​ &#xA;    ">allright</a>— W. A. Richards promised to rush papers through as soon as they got there from Lander—<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </p>
 
       <span class="closer">
@@ -38,7 +39,8 @@ Mar. 7th 1901—
 
          <br/>W. F. Cody
 
-<span class="dateline">Hoffman House—<a href="#n02" class="internal_link">2</a>
+<span class="dateline">Hoffman House—<a name="n02.ref"> </a>
+            <a href="#n02.note" class="ref">[2]</a>
          </span>
       </span>
    </div>
@@ -74,12 +76,10 @@ Wyo.
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Cody refers to the U.S. General Land Office branch located at Lander, Wyoming, which had initial jurisdiction over the various federal land claims William F. Cody filed in the Big Horn Basin.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Cody refers to the U.S. General Land Office branch located at Lander, Wyoming, which had initial jurisdiction over the various federal land claims William F. Cody filed in the Big Horn Basin.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The Hoffman House was a leading New York hotel at the time.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The Hoffman House was a leading New York hotel at the time.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

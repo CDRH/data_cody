@@ -31,7 +31,8 @@
          <span class="l">And one man for another is willing to die."</span>
       </span>
 
-      <p>These lines have not been struck off by a local poet to celebrate Buffalo Bill's visit to the Potteries; they are part of a poem, entitled "My Ride for Life," written by Jouquin Miller,<a href="#n01" class="internal_link">1</a> a poet of the Sierra Nevadas, in illustration of a thrilling episode in the life of General Cody. They are quoted here because in them the poet sings of the sociability and hospitality of the Western people, a distinguishable feature in General Cody and his staff, and they have about them the freshness and the breezy freedom (both in metre and sentiment) of the prairie itself, a marked characteristic of everything attached to the Wild West. One of our representatives had a stroll through the camp yesterday and picked up several interesting items about some of the performers. Of Buffalo Bill himself we shall attempt to say nothing here. He is so well known as to make it quite unnecessary, and has been interviewed so often that the process must have by this become monotonous even to an American, although it was his own country which gave birth to the system.</p>
+      <p>These lines have not been struck off by a local poet to celebrate Buffalo Bill's visit to the Potteries; they are part of a poem, entitled "My Ride for Life," written by Jouquin Miller,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> a poet of the Sierra Nevadas, in illustration of a thrilling episode in the life of General Cody. They are quoted here because in them the poet sings of the sociability and hospitality of the Western people, a distinguishable feature in General Cody and his staff, and they have about them the freshness and the breezy freedom (both in metre and sentiment) of the prairie itself, a marked characteristic of everything attached to the Wild West. One of our representatives had a stroll through the camp yesterday and picked up several interesting items about some of the performers. Of Buffalo Bill himself we shall attempt to say nothing here. He is so well known as to make it quite unnecessary, and has been interviewed so often that the process must have by this become monotonous even to an American, although it was his own country which gave birth to the system.</p>
 
       <p>
          <span class="persName">
@@ -88,8 +89,7 @@ past. Mr. Crager exhibits also the identical pistol with which the noted outlaw 
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Joaquin Miller (1837-1913) was the pen name of American poet Cincinnatus Heine (or Hiner) Miller who was nicknamed the "Poet of the Sierras."<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Joaquin Miller (1837-1913) was the pen name of American poet Cincinnatus Heine (or Hiner) Miller who was nicknamed the "Poet of the Sierras."<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

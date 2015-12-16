@@ -18,11 +18,13 @@
 
       <h3>OPENING OF THE AMERICAN EXHIBITION IN LONDON.</h3>
 
-      <p>The American Exhibition was opened yesterday afternoon, at West Brompton, with Republican simplicity. Being an enterprise entirely due to private initiative and effort, no representative of the State, drawn either from the Royal family or the Government, was committed to official approval of it by taking a leading part in the opening. There had indeed been some doubt entertained as to whether this bold invasion of the British market by the American manufacturers and producers would be altogether welcome, and this and other considerations dictated an unofficial and modest inauguration. A few thousand people gathered in the main exhibition in front of a platform. On this were assembled the principal organisers of the enterprise, headed by Colonel Henry Russell<a href="#n01" class="internal_link">1</a> and <span class="persName">
+      <p>The American Exhibition was opened yesterday afternoon, at West Brompton, with Republican simplicity. Being an enterprise entirely due to private initiative and effort, no representative of the State, drawn either from the Royal family or the Government, was committed to official approval of it by taking a leading part in the opening. There had indeed been some doubt entertained as to whether this bold invasion of the British market by the American manufacturers and producers would be altogether welcome, and this and other considerations dictated an unofficial and modest inauguration. A few thousand people gathered in the main exhibition in front of a platform. On this were assembled the principal organisers of the enterprise, headed by Colonel Henry Russell<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. John R. Whitley</a>
          </span>, and the chief members of the Council of Welcome, headed by <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/gower.r">Lord Ronald Gower</a>
-         </span> and Cardinal Manning. "Hail Columbia," by the Grenadier Guards Band, gave the keynote to the proceedings. A prayer by Archdeacon Farrar<a href="#n02" class="internal_link">2</a> for God's blessing on the undertaking followed, and then "God Save the Queen" was performed by the band.</p>
+         </span> and Cardinal Manning. "Hail Columbia," by the Grenadier Guards Band, gave the keynote to the proceedings. A prayer by Archdeacon Farrar<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> for God's blessing on the undertaking followed, and then "God Save the Queen" was performed by the band.</p>
 	
       <p>Lord Ronald Gower expressed how cordially the Executive Council of Englishmen formed to welcome the Americans desired to receive them in England. This council consisted, he said, of about a thousand leading Englishmen in all walks of life. They hoped the exhibition would cement the friendship and good feeling between the two great Anglo-Saxon peoples. (Loud cheers.)</p>
 	
@@ -39,12 +41,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Henry Sturgis Russell (1838-1905), a Civil War general who became president of the American Exhibition.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Henry Sturgis Russell (1838-1905), a Civil War general who became president of the American Exhibition.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Frederic William Farrar (1831-1903), an English author and cleric of the Church of England, honorary chaplain to Queen Victoria, Canon of Westminster Abbey, Archdeacon of Westminster and Dean of Canterbury.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Frederic William Farrar (1831-1903), an English author and cleric of the Church of England, honorary chaplain to Queen Victoria, Canon of Westminster Abbey, Archdeacon of Westminster and Dean of Canterbury.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

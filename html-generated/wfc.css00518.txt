@@ -22,7 +22,8 @@
          </div>Buffalo Bill's Wild West and Congress of Rough Riders.<br/>of the World.<br/>Col. W. F. Cody. (Buffalo Bill), President.<br/>Nate Salsbury. Vice-President &amp; Manager.<br/>John M. Burke. General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jule Keen, Treasurer.</div>
 
 
-      <span class="dateline">Wilkesbarre. Pa<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Wilkesbarre. Pa<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 July 31 </span>
 
@@ -42,8 +43,7 @@ July 31 </span>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: BBWW performed in Wilkes-Barre, Pennsylvania, on July 31, 1897.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: BBWW performed in Wilkes-Barre, Pennsylvania, on July 31, 1897.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

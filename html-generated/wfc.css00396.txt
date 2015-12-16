@@ -33,7 +33,9 @@ Hotel La Salle<br/>
       </span>
 
 
-      <p>I be in Denver Saturday Morning.<a href="#n01" class="internal_link">1</a> Will lecture on pictures at Tabor Opera house—<a href="#n02" class="internal_link">2</a>
+      <p>I be in Denver Saturday Morning.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> Will lecture on pictures at Tabor Opera house—<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </p>
 
       <p>Everything fast as possible &amp; allright.</p>
@@ -72,12 +74,10 @@ Colo
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The next Saturday was March 7, 1914.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The next Saturday was March 7, 1914.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Cody refers to his motion picture <em class="hi">The Indian Wars</em>. On March 8, 1914, Cody began a week-long engagement to exhibit and lecture on the film at the Tabor Grand Opera House. The opera house, which was located at 16th and Curtis Streets in Denver, no longer survives.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Cody refers to his motion picture <em class="hi">The Indian Wars</em>. On March 8, 1914, Cody began a week-long engagement to exhibit and lecture on the film at the Tabor Grand Opera House. The opera house, which was located at 16th and Curtis Streets in Denver, no longer survives.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

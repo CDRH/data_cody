@@ -24,7 +24,9 @@
 
       <p>The Sioux Chief <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
-         </span> who is with the Wild West show at the American exhibition in London, has been interviewed. The following are extracts from the report of the interview: "Did you ever see Buffalo Bill until you joined the show?" "Yes, I saw him long ago; but we never spoke until a little while since. All men of the Sioux nation know Buffalo Bill by reputation. The first time I saw him was at the fight at War Barnard Creek,<a href="#n01" class="internal_link">1</a> when the white men were too many for poor Indians. It was twelve or thirteen years ago; but (and here his bloodshot eyes twinkled ominously) that fight I can see now. Buffalo Bill in the struggle killed Yellow Hand,<a href="#n02" class="internal_link">2</a> a great Indian brave, and took his scalp. I tried to fight my way to the white man to revenge my brother, and although we got very near I could not reach him. Had we met one would have died. But the soldiers were encircling us; five of our men were shot down and we fled. Then we would have killed each other; but now we have the same heart, and we are brothers. Colonel Cody is awful good to me and my people."</p>
+         </span> who is with the Wild West show at the American exhibition in London, has been interviewed. The following are extracts from the report of the interview: "Did you ever see Buffalo Bill until you joined the show?" "Yes, I saw him long ago; but we never spoke until a little while since. All men of the Sioux nation know Buffalo Bill by reputation. The first time I saw him was at the fight at War Barnard Creek,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> when the white men were too many for poor Indians. It was twelve or thirteen years ago; but (and here his bloodshot eyes twinkled ominously) that fight I can see now. Buffalo Bill in the struggle killed Yellow Hand,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> a great Indian brave, and took his scalp. I tried to fight my way to the white man to revenge my brother, and although we got very near I could not reach him. Had we met one would have died. But the soldiers were encircling us; five of our men were shot down and we fled. Then we would have killed each other; but now we have the same heart, and we are brothers. Colonel Cody is awful good to me and my people."</p>
 
       <p>Asked if there was any other fight in which he was engaged, Red Shirt replied: Yes; I will tell you of a great fight of the Sioux nation with the Pawnees, who were always bad Indians. They had met our people on the hunt and killed them; they had attacked our <a rel="tooltip" class="sic" title="villages​ &#xA;    ">villiages</a> and carried away our 
   
@@ -58,12 +60,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Warbonnet Creek, Nebraska.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Warbonnet Creek, Nebraska.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Yellow Hand is <em class="hi">Hay-o-wei,</em> or <em class="hi">Heova'ehe,</em> the Southern Cheyenne Indian sub-war chief killed and scalped by Army scout William F. Cody at the Battle of Warbonnet Creek (Nebraska) in 1876. The actual translation for his name is "Yellow Hair," who was the son of Cheyenne Chief Cut Nose.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Yellow Hand is <em class="hi">Hay-o-wei,</em> or <em class="hi">Heova'ehe,</em> the Southern Cheyenne Indian sub-war chief killed and scalped by Army scout William F. Cody at the Battle of Warbonnet Creek (Nebraska) in 1876. The actual translation for his name is "Yellow Hair," who was the son of Cheyenne Chief Cut Nose.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

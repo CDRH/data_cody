@@ -24,7 +24,8 @@
          </div>
          <br/>The Southern<br/>Absolutely Fire Proof.<br/>Henry C. Lewis, Manager.<br/>St. Louis,</div>
 
-      <span class="dateline">May 19 1896<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">May 19 1896<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -64,7 +65,7 @@ and we demand a business reply.</p>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in St. Louis, Missouri, May 18-23, 1896. The day's entry in the 1896 Route Diary: "St. Louis, Mo. / Tuesday, May 19. Weather very bad—rained hard all morning. There was a severe electric storm that lasted from 7 until 11 P. M.; it put the arena in a frightful condition. The storm did us no harm, only from a business standpoint. We wondered that anyone came. Nate Salsbury returned to Chicago to-day. Johnny Baker made quite a hit in his act, when he stood on his head in the mud.
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in St. Louis, Missouri, May 18-23, 1896. The day's entry in the 1896 Route Diary: "St. Louis, Mo. / Tuesday, May 19. Weather very bad—rained hard all morning. There was a severe electric storm that lasted from 7 until 11 P. M.; it put the arena in a frightful condition. The storm did us no harm, only from a business standpoint. We wondered that anyone came. Nate Salsbury returned to Chicago to-day. Johnny Baker made quite a hit in his act, when he stood on his head in the mud.
 
 <span class="lg">
             <span class="lg">
@@ -89,8 +90,7 @@ and we demand a business reply.</p>
             </span>
          </span>
 
-         <a href="#n01.ref">  [back]
-            </a>
+         <a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

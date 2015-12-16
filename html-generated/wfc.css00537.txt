@@ -18,11 +18,13 @@
       <div class="note">Buffalo Bill's Wild West</div>
 
 
-      <span class="dateline">Abberdeen- So Dak<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Abberdeen- So Dak<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 
-Sep 6<a href="#n02" class="internal_link">2</a>
+Sep 6<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
 
@@ -32,9 +34,12 @@ Sep 6<a href="#n02" class="internal_link">2</a>
       </span>
 
 
-      <p>Your favor of Aug 31 pleases me— Yes we must surely have a directors<a href="#" class="internal_link">3</a> meeting and see if we <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> get a <a rel="tooltip" class="sic" title="move​ &#xA;    ">moove</a> on them— I wish you would be prepared with some estimates and suggestions, George keep the water coming till it freezes up— I wrote <span class="persName">
+      <p>Your favor of Aug 31 pleases me— Yes we must surely have a directors<a name=".ref"> </a>
+         <a href="#.note" class="ref">[3]</a> meeting and see if we <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> get a <a rel="tooltip" class="sic" title="move​ &#xA;    ">moove</a> on them— I wish you would be prepared with some estimates and suggestions, George keep the water coming till it freezes up— I wrote <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j">Schwoob</a>
-         </span> Cody Trading Co. Should build a big cistern— or the Town<a href="#n05" class="internal_link">5</a> should chip in and build a big one— See if you <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> get them at it— Keep me posted about the hotel<a href="#n06" class="internal_link">6</a>. I hope it will go through.</p>
+         </span> Cody Trading Co. Should build a big cistern— or the Town<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a> should chip in and build a big one— See if you <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> get them at it— Keep me posted about the hotel<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">[6]</a>. I hope it will go through.</p>
 
       <span class="closer">
          <span class="salute">Yours</span>  
@@ -64,22 +69,19 @@ Sep 6<a href="#n02" class="internal_link">2</a>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Cody incorrectly inscribes Abberdeen; Buffalo Bill's Wild West performed in Aberdeen, South Dakota, on September 6, 1899.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Cody incorrectly inscribes Abberdeen; Buffalo Bill's Wild West performed in Aberdeen, South Dakota, on September 6, 1899.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1899.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The year is not inscribed by Cody but is 1899.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: The "directors" are the investors in Shoshone Irrigation Company, including <span class="persName">
+         <a name="n03.note"> </a>Note 3: The "directors" are the investors in Shoshone Irrigation Company, including <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
          </span>, <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
          </span>, and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
-         </span>.<a href="#n03.ref">  [back]
-            </a>
+         </span>.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

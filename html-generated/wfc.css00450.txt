@@ -24,7 +24,8 @@
 Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Manager.<br/>John M. Burke, . . . General Manager.<br/>Albert E. Scheible, . . . Business Manager.<br/>Jule Keen, . . . Treasurer.</div>
 
 
-      <span class="dateline">Sep 21<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Sep 21<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -37,7 +38,8 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
             <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
          </span> &amp; <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
-         </span> tomorrow. But will send new route cards<a href="#n02" class="internal_link">2</a> to night</p>
+         </span> tomorrow. But will send new route cards<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> to night</p>
 
 
       <span class="closer">
@@ -47,12 +49,10 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: On September 21, 1895, Buffalo Bill's Wild West performed in Newburgh, New York. The year is not inscribed by Cody but subsequent correspondence confirms 1895. Cody wrote to Beck on September 23, 1895 (CSS00451), inscribed from nearby Paterson, New Jersey, and referring to Cody having just met Salsbury and Bleistein.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: On September 21, 1895, Buffalo Bill's Wild West performed in Newburgh, New York. The year is not inscribed by Cody but subsequent correspondence confirms 1895. Cody wrote to Beck on September 23, 1895 (CSS00451), inscribed from nearby Paterson, New Jersey, and referring to Cody having just met Salsbury and Bleistein.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Route cards were imprinted with BBWW tour schedules and distributed to the public.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Route cards were imprinted with BBWW tour schedules and distributed to the public.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

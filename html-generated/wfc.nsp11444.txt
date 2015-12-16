@@ -22,9 +22,14 @@
       <span class="byline">BY A LADY.</span>
       <p>The American Exhibition was opened on Monday, the 9th inst. Thanks to the kindness of a courteous editor I was able to be present, and also by invitation to partake of the first-rate luncheon usually provided for the privileged few. It was a feast indeed. Every luxury that the season does and does not afford was on the table. The fruit delicious, the wines also. I can treat my readers to a sort of barmecide feast by describing my share of the repast. First, soup, then salmon, with mayonnaise sauce; then chicken, tongue and salad, ices, and two slices of pine apple, followed by muscatel grapes. I was kept in countenance at the luncheon table by very few of my own sex, only about six I think, while there must have been at least three hundred gentlemen present;  and I noticed the number of my waiter was 175, so that we were well cared for.</p>
 	
-      <p>I sat very near to Mr Wyndham,<a href="#n01" class="internal_link">1</a> the David Garrick<a href="#n02" class="internal_link">2</a> of Criterion celebrity,<a href="#n03" class="internal_link">3</a> and he seemed quite as attractive off the stage as he did upon it.</p>	
+      <p>I sat very near to Mr Wyndham,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> the David Garrick<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> of Criterion celebrity,<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> and he seemed quite as attractive off the stage as he did upon it.</p>	
 
-      <p>I noticed Mr and Mrs Bancroft<a href="#n04" class="internal_link">4</a> also, and later Mr and Mrs Ledger,<a href="#n05" class="internal_link">5</a> he being the editor of the theatrical organ, the <em class="hi">Era</em>.</p>	
+      <p>I noticed Mr and Mrs Bancroft<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> also, and later Mr and Mrs Ledger,<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a> he being the editor of the theatrical organ, the <em class="hi">Era</em>.</p>	
 
       <p>The heat and the crush were terrible. I advise those who go to take their opera glasses with them. I left mine behind and suffered in consequence. As in the case of similar recent exhibitions held at South Kensington, everything looked as if in need of the touch of the “Fairy order.”</p>
 
@@ -76,35 +81,30 @@
 	
       <p>The race of "Mexican thoroughbreds," which turned out to be very stupid donkeys, and, like the proverbial mule, persisted in going every way but to the right, to the rolicking suggestive tune, "We won’t go home till morning," was a very amusing feature of the proceedings, and a pleasant change from the blood-and-thunder aspect of the preceding exhibitions.</p>
 	
-      <p>The Royal family were conspicuous by their absence. Canon Farrar<a href="#n06" class="internal_link">6</a> read the opening prayer, and a sort of general thanksgiving, in which all present were expected to join, concluded the religious part of the proceedings. As a pleasant lounge, the American Exhibition will supply what we have lost by the closing of the gardens at South Kensington. There are, I believe, at West Brompton thirty-three acres of recreation grounds where, in fine weather, we may expect to enjoy fresh air, good music, and flowers as in past years; and we have reason to be grateful to the enterprise which provides such pleasant recreation for the dwellers in, and visitors to, the Metropolis. </p>
+      <p>The Royal family were conspicuous by their absence. Canon Farrar<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">[6]</a> read the opening prayer, and a sort of general thanksgiving, in which all present were expected to join, concluded the religious part of the proceedings. As a pleasant lounge, the American Exhibition will supply what we have lost by the closing of the gardens at South Kensington. There are, I believe, at West Brompton thirty-three acres of recreation grounds where, in fine weather, we may expect to enjoy fresh air, good music, and flowers as in past years; and we have reason to be grateful to the enterprise which provides such pleasant recreation for the dwellers in, and visitors to, the Metropolis. </p>
 
    </div>
 
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Sir Charles Wyndham (1837-1919), an English actor, manager, and playwright during the late 19th and early 20th centuries.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Sir Charles Wyndham (1837-1919), an English actor, manager, and playwright during the late 19th and early 20th centuries.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: David Garrick (1717-1779), an English actor, playwright, theater manager, entrepreneur, and international celebrity credited with revolutionizing the British stage and acting during the 18th century.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: David Garrick (1717-1779), an English actor, playwright, theater manager, entrepreneur, and international celebrity credited with revolutionizing the British stage and acting during the 18th century.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: The Criterion Theatre, a West End London theater on Piccadilly Circus in Westminster built and opened in 1874, is a 588 seat underground well-preserved Victorian theater with an intimate atmosphere.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: The Criterion Theatre, a West End London theater on Piccadilly Circus in Westminster built and opened in 1874, is a 588 seat underground well-preserved Victorian theater with an intimate atmosphere.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Sir Squire Bancroft (1841-1926), born Squire White Butterfield, an English actor and theatrical manager who was knighted in 1895.  Lady Marie Effie Wilton Bancroft (1839-1921), an English actress and manager.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Sir Squire Bancroft (1841-1926), born Squire White Butterfield, an English actor and theatrical manager who was knighted in 1895.  Lady Marie Effie Wilton Bancroft (1839-1921), an English actress and manager.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: Edward Ledger (d. 1921), an English editor and owner of <em class="hi">The Era,</em> a weekly newspaper about the theatre and music who authored <em class="hi">The Era Almanack</em> from 1868-1919, an annual publication of short biographies and photographs of leading theatrical endeavors and actors. Mrs. Ledger is not further identified.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: Edward Ledger (d. 1921), an English editor and owner of <em class="hi">The Era,</em> a weekly newspaper about the theatre and music who authored <em class="hi">The Era Almanack</em> from 1868-1919, an annual publication of short biographies and photographs of leading theatrical endeavors and actors. Mrs. Ledger is not further identified.<a href="#n05.ref"> [back]</a>
       </p>
       <p>
-         <a name="n06.note"/>Note 6: Frederic William Farrar (1831-1903), an English theologian and cleric of the Church of England, honorary chaplain to Queen Victoria, Canon of Westminster Abbey, Archdeacon of Westminster and Dean of Canterbury.<a href="#n06.ref">  [back]
-            </a>
+         <a name="n06.note"> </a>Note 6: Frederic William Farrar (1831-1903), an English theologian and cleric of the Church of England, honorary chaplain to Queen Victoria, Canon of Westminster Abbey, Archdeacon of Westminster and Dean of Canterbury.<a href="#n06.ref"> [back]</a>
       </p>
    </div>
 </div>

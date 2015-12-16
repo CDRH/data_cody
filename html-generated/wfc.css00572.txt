@@ -21,7 +21,8 @@
          <strong>Thos. T. Eckert, President and General Manager.</strong> [end heading imprint]
 </div>
 
-      <span class="ab"> Number  J<a href="#n01" class="internal_link">1</a>
+      <span class="ab"> Number  J<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
 
@@ -49,9 +50,11 @@
       <span class="ab">Sheridan Wyo</span>
 
 
-      <p>Think perkins<a href="#n02" class="internal_link">2</a> favorably inclined you <span class="persName">
+      <p>Think perkins<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> favorably inclined you <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
-         </span> give him strong talk stokes<a href="#n03" class="internal_link">3</a> wires he is with us</p>
+         </span> give him strong talk stokes<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> wires he is with us</p>
 
 
       <span class="closer">
@@ -63,16 +66,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Perkins" is Charles E. Perkins (1840-1907) who was a businessman and president of the Chicago, Burlington and Quincy Railroad.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Perkins" is Charles E. Perkins (1840-1907) who was a businessman and president of the Chicago, Burlington and Quincy Railroad.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Stokes" is likely Edward S. Stokes (1841-1901) who was at one time a railroad and oil magnate and businessman; Stokes was an owner of the Hoffman House, an elegant hotel in Manhattan.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Stokes" is likely Edward S. Stokes (1841-1901) who was at one time a railroad and oil magnate and businessman; Stokes was an owner of the Hoffman House, an elegant hotel in Manhattan.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -40,14 +40,16 @@
 
 
 
-      <span class="dateline">Pottsville. Pa. May 5 1895<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Pottsville. Pa. May 5 1895<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
          </span>—</span>
 
-      <p>Your wire <a rel="tooltip" class="sic" title="received​ &#xA;    ">recd.</a> was surprised to know that you are still waiting on Paxton. Say old fellow are we going to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a> all this summer and get nothing done. If Mr Paxton had not told me he would go I would have made different arrangements— Now George will you write and let me know if the Paxton outfit is going to do anything. If not I would like to know it. We would never got our <a rel="tooltip" class="sic" title="concession​ &#xA;    ">consession</a> if I had not pushed it.<a href="#n02" class="internal_link">2</a> And now I am going on with it if I go it alone— So take a <a rel="tooltip" class="sic" title="moment's​ &#xA;    ">moments</a> time &amp; write me— </p>
+      <p>Your wire <a rel="tooltip" class="sic" title="received​ &#xA;    ">recd.</a> was surprised to know that you are still waiting on Paxton. Say old fellow are we going to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a> all this summer and get nothing done. If Mr Paxton had not told me he would go I would have made different arrangements— Now George will you write and let me know if the Paxton outfit is going to do anything. If not I would like to know it. We would never got our <a rel="tooltip" class="sic" title="concession​ &#xA;    ">consession</a> if I had not pushed it.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> And now I am going on with it if I go it alone— So take a <a rel="tooltip" class="sic" title="moment's​ &#xA;    ">moments</a> time &amp; write me— </p>
 
       <span class="closer">
          <span class="salute">Awfully busy</span>
@@ -59,12 +61,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Pottsville, Pennsylvania, on May 6, 1895.  There was no performance on May 5, a Sunday.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Pottsville, Pennsylvania, on May 6, 1895.  There was no performance on May 5, a Sunday.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The concession to which Cody refers was a land segregation under the terms of the Carey Act.  The segregated land was intended to be irrigated by the Cody Canal.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The concession to which Cody refers was a land segregation under the terms of the Carey Act.  The segregated land was intended to be irrigated by the Cody Canal.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

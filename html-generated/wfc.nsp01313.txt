@@ -19,7 +19,10 @@
       <h3>BUFFALO BILL.</h3>
       <h3>THE AMERICAN EXHIBITION IN LONDON—AMERICAN INDIANS AND ENGLISH LADIES—WHAT AN AMERICAN LADY SAW AT THE WILD WEST SHOW.</h3>
 
-      <p>A well-known member of New-York society just arrived from London and who attended the American Exhibition and Wild West Show this summer gave a reporter some of her observations at the English capital. One of the most astonishing facts was the treatment of Buffalo Bill's Indians by English women, some of them belonging to noble families. "You can imagine my feelings," said the lady, "to see one Indian with ten or twelve diamond rings on his fingers which had been given him by his different admirers, and these English ladies came by scores to see them at the show, and desiring introductions afterward. Of course the exhibition itself was a success and a great advantage to American merchants. There were many notable displays but I consider the most beautiful was that of Mrs. Harriet Hubbard Ayer's<a href="#n01" class="internal_link">1</a> Recamier preparations, and they seemed to sell like hot cakes, too. I often heard English ladies saying, 'Oh! here are the Recamier preparations that Patti<a href="#n02" class="internal_link">2</a> and Mrs. Langtry<a href="#n03" class="internal_link">3</a> use and recommend; we must try them too.' It is simply wonderful the success Mrs. Ayer has made, and the whole secret perhaps lies in the fact that 'her word is as good as her bond,' and the Recamier preparations are not cosmetics.</p>
+      <p>A well-known member of New-York society just arrived from London and who attended the American Exhibition and Wild West Show this summer gave a reporter some of her observations at the English capital. One of the most astonishing facts was the treatment of Buffalo Bill's Indians by English women, some of them belonging to noble families. "You can imagine my feelings," said the lady, "to see one Indian with ten or twelve diamond rings on his fingers which had been given him by his different admirers, and these English ladies came by scores to see them at the show, and desiring introductions afterward. Of course the exhibition itself was a success and a great advantage to American merchants. There were many notable displays but I consider the most beautiful was that of Mrs. Harriet Hubbard Ayer's<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> Recamier preparations, and they seemed to sell like hot cakes, too. I often heard English ladies saying, 'Oh! here are the Recamier preparations that Patti<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> and Mrs. Langtry<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> use and recommend; we must try them too.' It is simply wonderful the success Mrs. Ayer has made, and the whole secret perhaps lies in the fact that 'her word is as good as her bond,' and the Recamier preparations are not cosmetics.</p>
 
       <p>"There was a very strong discussion before the Committee of the American Exhibition as to whether or not the first award should be given to Mrs. Ayer, because the committee claimed that it was utterly impossible to give an award to 'cosmetics.'  Mrs. Ayer's agents were then compelled to have the Preparations analyzed and to demonstrate to the satisfaction of the committee that they were not 'cosmetics,' not injurious, but absolutely beneficial. After this was done the committee gave the award to Mrs. Ayer.</p>
 
@@ -34,16 +37,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Harriet Hubbard Ayer (1849-1903) founded the Recamier Manufacturing Company in New York City in 1886; the company produced skin products marketed as 'toilet preparations.' Ayer later took an editorial position on the <em class="hi">New York Herald,</em> becoming the highest paid woman journalist in the United States in 1901.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Harriet Hubbard Ayer (1849-1903) founded the Recamier Manufacturing Company in New York City in 1886; the company produced skin products marketed as 'toilet preparations.' Ayer later took an editorial position on the <em class="hi">New York Herald,</em> becoming the highest paid woman journalist in the United States in 1901.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Adelina Patti (1843-1929), born Adela Juana Maria Patti, was an acclaimed Italian soprano who sang roles in the operas of Rossini, Gounod, and Verdi, among others; she was known for her pure, sweet soprano and dazzling technique.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Adelina Patti (1843-1929), born Adela Juana Maria Patti, was an acclaimed Italian soprano who sang roles in the operas of Rossini, Gounod, and Verdi, among others; she was known for her pure, sweet soprano and dazzling technique.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Born Emilie Charlotte Le Breton on the Isle of Jersey, Lily (or Lillie) Langtry (1853-1929), nicknamed the Jersey Lily, became a stage actress and producer in the early 1880s; she was known for her relationships with noblemen, including the Prince of Wales, the Earl of Shrewsbury, and Prince Louis of Battenberg.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Born Emilie Charlotte Le Breton on the Isle of Jersey, Lily (or Lillie) Langtry (1853-1929), nicknamed the Jersey Lily, became a stage actress and producer in the early 1880s; she was known for her relationships with noblemen, including the Prince of Wales, the Earl of Shrewsbury, and Prince Louis of Battenberg.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

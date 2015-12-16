@@ -10,13 +10,20 @@
 
       <h3>THE LION OF LONDON.</h3>
       <div class="milestone line"> </div>
-      <h3>A Morning with Buffalo Bill and His Daughter<a href="#n01" class="internal_link">1</a> in the English Metropolis.</h3>
+      <h3>A Morning with Buffalo Bill and His Daughter<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> in the English Metropolis.</h3>
       <div class="milestone line"> </div>
-      <p>London, July 29.—There is no doubt about it, Buffalo Bill is the great lion of the season. Mr. John Sartain,<a href="#n02" class="internal_link">2</a> the affable Philadelphia artist and the manager of the Art Department of the American Exhibition, said to me yesterday: "Without Buffalo Bill this whole enterprise would have been a dead failure. He draws the immense crowds, after the show they flock into the picture galleries, and find often to their astonishment that we have some fine paintings here. However, without the 'Wild West' attractions we should never have got our crowds at all."</p>
+      <p>London, July 29.—There is no doubt about it, Buffalo Bill is the great lion of the season. Mr. John Sartain,<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> the affable Philadelphia artist and the manager of the Art Department of the American Exhibition, said to me yesterday: "Without Buffalo Bill this whole enterprise would have been a dead failure. He draws the immense crowds, after the show they flock into the picture galleries, and find often to their astonishment that we have some fine paintings here. However, without the 'Wild West' attractions we should never have got our crowds at all."</p>
 
-      <p>A lady who was present at a reception given some time since by the Marchioness of Ely,<a href="#n03" class="internal_link">3</a> told me that Mr. Cody stood in the centre of the room, under the great chandelier, his long hair streaming down over his broad, stout shoulders, literally surrounded by a circle of titled admirers, and at the supper table he sat at the right hand of the Princess of Wales.<a href="#n04" class="internal_link">4</a> The fact is, he is a very handsome man, and he has succeeded, by honest enterprise, in giving the Londoners an exhibition which certainly has the unaccustomed charm of absolute novelty. Naturally, they are grateful, and for the moment he is their hero.</p>
+      <p>A lady who was present at a reception given some time since by the Marchioness of Ely,<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> told me that Mr. Cody stood in the centre of the room, under the great chandelier, his long hair streaming down over his broad, stout shoulders, literally surrounded by a circle of titled admirers, and at the supper table he sat at the right hand of the Princess of Wales.<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> The fact is, he is a very handsome man, and he has succeeded, by honest enterprise, in giving the Londoners an exhibition which certainly has the unaccustomed charm of absolute novelty. Naturally, they are grateful, and for the moment he is their hero.</p>
 
-      <p>Hardly less amusing than his extraordinary social success are the heated discussions as to his real merit. The following is a good illustration of this. It happened at a recent ball in this city. Buffalo Bill was parading grandly through the rooms, with Mrs. Bigelow<a href="#n05" class="internal_link">5</a> on his arm. Hon. James G. Blaine<a href="#n06" class="internal_link">6</a> was there, too, and so was Minister Phelps,<a href="#n07" class="internal_link">7</a> as well as a host of other distinguished Americans, but Buffalo Bill was, nevertheless, the centre of attractions, and as he advanced slowly, he was kept bowing without intermission to the dozens of pretty faces which happened to be in his path—quite by accident, of course. He bows, by the way, with the grace and dignity of a king. It was during this grand ovation that I overheard the following conversation between a titled English lady and an independent American damsel:</p>
+      <p>Hardly less amusing than his extraordinary social success are the heated discussions as to his real merit. The following is a good illustration of this. It happened at a recent ball in this city. Buffalo Bill was parading grandly through the rooms, with Mrs. Bigelow<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a> on his arm. Hon. James G. Blaine<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">[6]</a> was there, too, and so was Minister Phelps,<a name="n07.ref"> </a>
+         <a href="#n07.note" class="ref">[7]</a> as well as a host of other distinguished Americans, but Buffalo Bill was, nevertheless, the centre of attractions, and as he advanced slowly, he was kept bowing without intermission to the dozens of pretty faces which happened to be in his path—quite by accident, of course. He bows, by the way, with the grace and dignity of a king. It was during this grand ovation that I overheard the following conversation between a titled English lady and an independent American damsel:</p>
 
       <p>"Isn't he a splendid man?" said the Duchess with enthusiasm.</p>
 
@@ -58,7 +65,8 @@
 
       <p>I withdrew, and on my way home pondered on the destinies of man.</p>
 
-      <span class="byline">CLEVELAND L. MOFFETT.<a href="#n08" class="internal_link">8</a>
+      <span class="byline">CLEVELAND L. MOFFETT.<a name="n08.ref"> </a>
+         <a href="#n08.note" class="ref">[8]</a>
       </span>
 
    </div>
@@ -66,36 +74,28 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Arta Lucille Cody (1866-1904), the eldest daughter of William F. and Louisa Cody, visited her father in London during the 1887 American Exhibition.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Arta Lucille Cody (1866-1904), the eldest daughter of William F. and Louisa Cody, visited her father in London during the 1887 American Exhibition.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: John Sartain (1808-1897), pioneer of mezzotint engraving in the United States, served with the art departments for both the 1876 Centennial Exhibition at Philadelphia and the 1887 American Exhibition in London. <a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: John Sartain (1808-1897), pioneer of mezzotint engraving in the United States, served with the art departments for both the 1876 Centennial Exhibition at Philadelphia and the 1887 American Exhibition in London. <a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: The "Marchioness of Ely" was Jane Loftus (1821-1890), an English lady of the bedchamber and a close friend of Queen Victoria.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: The "Marchioness of Ely" was Jane Loftus (1821-1890), an English lady of the bedchamber and a close friend of Queen Victoria.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: The Princess of Wales was Princess Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) and later Queen Alexandra, consort to Edward VII, King of Great Britain, 1844-1925.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: The Princess of Wales was Princess Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) and later Queen Alexandra, consort to Edward VII, King of Great Britain, 1844-1925.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: Mrs. Bigelow was Mary Dallam Bigelow (1858-1941).<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: Mrs. Bigelow was Mary Dallam Bigelow (1858-1941).<a href="#n05.ref"> [back]</a>
       </p>
       <p>
-         <a name="n06.note"/>Note 6: Hon. James G. Blaine is James Gillespie Blaine (1830-1893), a teacher,  newspaper editor, author, and  politician who served ten terms as a U. S. Congressman and as a Senator from Maine, and as Secretary of State for Presidents Garfield and Harrison. Blaine helped to organize and was named the first president of the Pan American Congress.<a href="#n06.ref">  [back]
-            </a>
+         <a name="n06.note"> </a>Note 6: Hon. James G. Blaine is James Gillespie Blaine (1830-1893), a teacher,  newspaper editor, author, and  politician who served ten terms as a U. S. Congressman and as a Senator from Maine, and as Secretary of State for Presidents Garfield and Harrison. Blaine helped to organize and was named the first president of the Pan American Congress.<a href="#n06.ref"> [back]</a>
       </p>
       <p>
-         <a name="n07.note"/>Note 7: William Walter Phelps (1839-1894), a successful merchant and financier in New York City, held a seat in U. S. House of Representatives in 1872; was United States Minister to Austria-Hungary from 1881 to 1882; re-elected to Congress in 1883, 1885, and 1887; and was United States Minister to Germany from 1889 to 1893.<a href="#n07.ref">  [back]
-            </a>
+         <a name="n07.note"> </a>Note 7: William Walter Phelps (1839-1894), a successful merchant and financier in New York City, held a seat in U. S. House of Representatives in 1872; was United States Minister to Austria-Hungary from 1881 to 1882; re-elected to Congress in 1883, 1885, and 1887; and was United States Minister to Germany from 1889 to 1893.<a href="#n07.ref"> [back]</a>
       </p>
       <p>
-         <a name="n08.note"/>Note 8: Cleveland L. Moffett (1863-1926), an American journalist, author and playwright.<a href="#n08.ref">  [back]
-            </a>
+         <a name="n08.note"> </a>Note 8: Cleveland L. Moffett (1863-1926), an American journalist, author and playwright.<a href="#n08.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -22,7 +22,9 @@
 
       <span class="gap sampling">[sampling]</span>
 
-      <p>The latest fad in cigarette chromos<a href="#n01" class="internal_link">1</a> is a picture of the Prince of Wales, John L. Sullivan<a href="#n02" class="internal_link">2</a> and Buffalo Bill, with arms linked, each smoking a cigarette.</p>
+      <p>The latest fad in cigarette chromos<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> is a picture of the Prince of Wales, John L. Sullivan<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> and Buffalo Bill, with arms linked, each smoking a cigarette.</p>
 
 
       <span class="gap sampling">[sampling]</span>
@@ -33,12 +35,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: "Chromos" refers to the method known as chromolithography in which a picture is printed using the first true multi-color printing.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: "Chromos" refers to the method known as chromolithography in which a picture is printed using the first true multi-color printing.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: John Lawrence Sullivan (1858-1918) is recognized as the last bare-knuckle boxing heavyweight champion, the first gloved boxing Heavyweight Champion from 1882-1892, and the first American athlete to earn over a million dollars.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: John Lawrence Sullivan (1858-1918) is recognized as the last bare-knuckle boxing heavyweight champion, the first gloved boxing Heavyweight Champion from 1882-1892, and the first American athlete to earn over a million dollars.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

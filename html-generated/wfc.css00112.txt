@@ -18,14 +18,16 @@
 
       <div class="note">Buffalo Bill's Wild West</div>
 
-      <span class="dateline">Olney- Ill<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Olney- Ill<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
 Sep— 24th 1901
 </span>
 
       <span class="salute">My. Dear. Hinkle</span>
 
 
-      <p>Your favor of Sep 20th received-—Just a couple of days ago I had written you on the same subject— As per your letter you will be in St Louis next Sunday 29th — And I will be in Bellville Ill. about fourteen miles from St Louis— Torlly<a href="#n02" class="internal_link">2</a> cars connection I wish you would run over to Belleville either Sunday or Monday— I have several things I want to see you on—</p>
+      <p>Your favor of Sep 20th received-—Just a couple of days ago I had written you on the same subject— As per your letter you will be in St Louis next Sunday 29th — And I will be in Bellville Ill. about fourteen miles from St Louis— Torlly<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> cars connection I wish you would run over to Belleville either Sunday or Monday— I have several things I want to see you on—</p>
 
       <p>Please let me know if I may expect you— I will be in my private car near the depot— Sunday— I may not reach Belleville till near noon Sunday as its a long run—</p>
 
@@ -49,7 +51,8 @@ Sep— 24th 1901
 
       <p>PS</p>
 
-      <p>I have changed my running time And will arrive in Belleville Early Monday morning—come &amp; see me Monday come direct to show ground<a href="#n03" class="internal_link">3</a>
+      <p>I have changed my running time And will arrive in Belleville Early Monday morning—come &amp; see me Monday come direct to show ground<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </p>
       <span class="closer">
          <br/>Cody
@@ -81,7 +84,8 @@ Sep— 24th 1901
       <span class="ab address">
 
 C. L. Hinkle
- c/-Dr- Horner-E. Bailey<a href="#n04" class="internal_link">4</a>
+ c/-Dr- Horner-E. Bailey<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a>
 404. Century- Bldg
 9th &amp; Olive.
  St Louis
@@ -93,20 +97,16 @@ MO
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Olney, Illinois, on September 24, 1901.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Olney, Illinois, on September 24, 1901.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Probably a misspelling for "trolley."<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Probably a misspelling for "trolley."<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Buffalo Bill's Wild West performed in Belleville, Illinois, on September 30, 1901.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Buffalo Bill's Wild West performed in Belleville, Illinois, on September 30, 1901.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Probably Homer Edward Bailey (1867-1939), a practitioner of osteopathic medicine.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Probably Homer Edward Bailey (1867-1939), a practitioner of osteopathic medicine.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

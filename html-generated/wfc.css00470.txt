@@ -36,7 +36,9 @@ Breslin &amp; Southgate</div>
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
          </span>, saying he had recd a letter from you saying <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
-         </span> sent him $5000. ten more necessary for apr 10<u>th</u>. I sent him $2000 from Omaha— Stokes<a href="#n01" class="internal_link">1</a> sent 3000. all gone. have you ever counted up how much money you have chucked out— and the ditch not completed to Sulphur creek<a href="#n02" class="internal_link">2</a> yet. have you ever given it a serious thought. You said $50,000 would water 25000 acres— at the rate its going it will take $150,000
+         </span> sent him $5000. ten more necessary for apr 10<u>th</u>. I sent him $2000 from Omaha— Stokes<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> sent 3000. all gone. have you ever counted up how much money you have chucked out— and the ditch not completed to Sulphur creek<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> yet. have you ever given it a serious thought. You said $50,000 would water 25000 acres— at the rate its going it will take $150,000
 
 
 <span class="hr"> </span>
@@ -50,9 +52,11 @@ Breslin &amp; Southgate</div>
          </span>
 
 
-Yes it will be a good idea to all have fast horses ready at this rate.<a href="#n03" class="internal_link">3</a> I have written Alger I want an itemised statement of where the money has gone and for Mr Rumsey &amp; <span class="persName">
+Yes it will be a good idea to all have fast horses ready at this rate.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> I have written Alger I want an itemised statement of where the money has gone and for Mr Rumsey &amp; <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/mead.e">Mead</a>
-         </span> to know— for the ditch is costing to much. And Mead may be able to give some valuable advise. I want him to make a report— so I can show it to the co— George— Your foreman like Burke<a href="#n04" class="internal_link">4</a> last fall must be just killing time with his men— instead of makeing them work to advantage You should be able to tell by this time if you would look them over at work if they were working for our interest. Something fearfully wrong some place George. An awful leak that must be <a rel="tooltip" class="sic" title="stopped​ &#xA;    ">stoped</a> at once— I have recd no<del>t</del> report for months what has been done— Everything neglected. </p>
+         </span> to know— for the ditch is costing to much. And Mead may be able to give some valuable advise. I want him to make a report— so I can show it to the co— George— Your foreman like Burke<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> last fall must be just killing time with his men— instead of makeing them work to advantage You should be able to tell by this time if you would look them over at work if they were working for our interest. Something fearfully wrong some place George. An awful leak that must be <a rel="tooltip" class="sic" title="stopped​ &#xA;    ">stoped</a> at once— I have recd no<del>t</del> report for months what has been done— Everything neglected. </p>
 
 
       <span class="closer">
@@ -63,20 +67,16 @@ Yes it will be a good idea to all have fast horses ready at this rate.<a href="#
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have wanted Stokes to invest in the Cody Canal.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have wanted Stokes to invest in the Cody Canal.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Sulphur Creek is a natural streambed located west of Cody, Wyoming, flowing north toward the Shoshone River along the base of Cedar Mountain.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Sulphur Creek is a natural streambed located west of Cody, Wyoming, flowing north toward the Shoshone River along the base of Cedar Mountain.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: "Fast horses" refers to a quick getaway.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: "Fast horses" refers to a quick getaway.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: "Burke" refers to Carlton Burke, a foreman working on the irrigation project.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: "Burke" refers to Carlton Burke, a foreman working on the irrigation project.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

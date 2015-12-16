@@ -23,10 +23,12 @@
             <a href="http://rosie.unl.edu/cody_archive/doc/little.chief">Little Chief</a>
          </span>, (who ranks next to <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r">Red Shirt</a>
-         </span>) gave birth in the morning to a female child. This is the first birth which has taken place during the sojourn of the Indians in this country. A council was held in camp during the day, and the name quickly decided upon—Frances Victoria Alexandra—in honour of Mrs. Cleveland,<a href="#n01" class="internal_link">1</a> 
+         </span>) gave birth in the morning to a female child. This is the first birth which has taken place during the sojourn of the Indians in this country. A council was held in camp during the day, and the name quickly decided upon—Frances Victoria Alexandra—in honour of Mrs. Cleveland,<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> 
          <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen Victoria</a>
-         </span>, and the Princess of Wales.<a href="#n02" class="internal_link">2</a> The Indians celebrated the event with the rejoicings usual on such an occasion, and <span class="persName">
+         </span>, and the Princess of Wales.<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> The Indians celebrated the event with the rejoicings usual on such an occasion, and <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">Major Burke</a>
          </span> telegraphed the news to Red Cloud, the great chief of the Sioux Indians at Pine Ridge Agency. A child of Little Chief died last summer in London, and was buried at West Brompton Cemetery. The papoose and mother are doing well.</p>
 
@@ -35,12 +37,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Frances Folsom Cleveland (1864-1947) was married in the White House to President Grover Cleveland during his first presidential term in 1886 to become, at the age of 21, the 23rd First Lady of the United States and remains the youngest First Lady in history.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Frances Folsom Cleveland (1864-1947) was married in the White House to President Grover Cleveland during his first presidential term in 1886 to become, at the age of 21, the 23rd First Lady of the United States and remains the youngest First Lady in history.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The Princess of Wales was Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia; 1844-1925) and later Queen Alexandra, consort to Edward VII, King of Great Britain, 1844-1925.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The Princess of Wales was Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia; 1844-1925) and later Queen Alexandra, consort to Edward VII, King of Great Britain, 1844-1925.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

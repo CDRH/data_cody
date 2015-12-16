@@ -28,7 +28,8 @@ John M. Burke, General Manager.<br/>Albert E. Sheible, Business Manager.<br/>Jul
 
 
 
-      <span class="dateline">Phila Pa<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Phila Pa<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 
 
@@ -43,7 +44,8 @@ June. 2<u>d</u> 99</span>
 
       <p>Every day now every mail every telegrame Boy I see- I say there is water running in the streets of Cody.</p>
 
-      <p>Say. I think we should fix the road through to Frosts<a href="#n02" class="internal_link">2</a> I understand it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> cost over $25—</p>
+      <p>Say. I think we should fix the road through to Frosts<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> I understand it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> cost over $25—</p>
 
 
       <span class="closer">
@@ -58,12 +60,10 @@ June. 2<u>d</u> 99</span>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Philadelphia, Pennsylvania, from May 29 to June 3, 1899.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Philadelphia, Pennsylvania, from May 29 to June 3, 1899.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Frosts" may refer to property owned by Mahlon Frost (1839-1929), located on Sage Creek east of Cody, Wyoming. Cody is suggesting that road grading be completed to the edge of that property.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Frosts" may refer to property owned by Mahlon Frost (1839-1929), located on Sage Creek east of Cody, Wyoming. Cody is suggesting that road grading be completed to the edge of that property.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -119,7 +119,8 @@
 
          <p>"The rag has fallen out of the sky."</p>
 
-         <span class="byline">VINCENT S. COOKE.<a href="#n01" class="internal_link">1</a>
+         <span class="byline">VINCENT S. COOKE.<a name="n01.ref"> </a>
+            <a href="#n01.note" class="ref">[1]</a>
          </span>
       </div>
 
@@ -129,9 +130,8 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Vincent S. Cooke (died 1917) was city editor of the Philadelphia <em class="hi">Press</em> and in 1888 joined the staff of the New York <em class="hi">World.</em>
-         <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Vincent S. Cooke (died 1917) was city editor of the Philadelphia <em class="hi">Press</em> and in 1888 joined the staff of the New York <em class="hi">World.</em>
+         <a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -38,7 +38,8 @@ Buffalo, New York;
 
 
 <span class="salute">Dear sir;</span>
-      <p>In accordance with yours of the 20" of April I have platted that portion of your land which is on the first high bench above the river. I tried in the first place to locate a diagonal street along bench and get more lots but after a trial I gave that up and platted the land regularly. Some of the lots lay along the bench just below town but if you give Mr Houx the liberty to use his judgement, he can likely work them upwith the rest and so dispose of all. I Send you an extra print which you keep for reference as I have one for Mr Houx.<a href="#n01" class="internal_link">1</a>
+      <p>In accordance with yours of the 20" of April I have platted that portion of your land which is on the first high bench above the river. I tried in the first place to locate a diagonal street along bench and get more lots but after a trial I gave that up and platted the land regularly. Some of the lots lay along the bench just below town but if you give Mr Houx the liberty to use his judgement, he can likely work them upwith the rest and so dispose of all. I Send you an extra print which you keep for reference as I have one for Mr Houx.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </p>
 
       <p>You will have to acknowledge the affidavit. The best way is to go before a Wyoming Commissioner if there is one in Buffalo, or a notary public</p>
@@ -73,8 +74,7 @@ Buffalo, New York;
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Frank Lee "Tinhorn" Houx (1854-1941) was a cattle rancher in Montana who moved to Cody, Wyoming, in 1895. He became the first mayor of Cody, elected in 1901 and re-elected for a second term in 1905. Houx served as the tenth Governor of Wyoming (Democrat) from 1917-1919, defeated in the 1918 election by Robert D. Carey (Republican). Houx died at the Irma Hotel in 1941 at the age of 86 and is buried in Cody.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Frank Lee "Tinhorn" Houx (1854-1941) was a cattle rancher in Montana who moved to Cody, Wyoming, in 1895. He became the first mayor of Cody, elected in 1901 and re-elected for a second term in 1905. Houx served as the tenth Governor of Wyoming (Democrat) from 1917-1919, defeated in the 1918 election by Robert D. Carey (Republican). Houx died at the Irma Hotel in 1941 at the age of 86 and is buried in Cody.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

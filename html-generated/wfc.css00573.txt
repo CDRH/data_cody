@@ -21,7 +21,8 @@
       </div>
 
 
-      <span class="ab"> Number<br/>Sent By  aw w<a href="#n01" class="internal_link">1</a>
+      <span class="ab"> Number<br/>Sent By  aw w<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
 
@@ -44,7 +45,8 @@
       </span>
 
 
-      <span class="ab">care a Bell<a href="#n02" class="internal_link">2</a> Red Lodge Mont</span>
+      <span class="ab">care a Bell<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> Red Lodge Mont</span>
 
 
       <p>water bond contracts printed here <span class="persName">
@@ -61,12 +63,10 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "a Bell" is likely Albert Bell (1835-1898) who resided in Red Lodge, Montana, but is not further identified.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "a Bell" is likely Albert Bell (1835-1898) who resided in Red Lodge, Montana, but is not further identified.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

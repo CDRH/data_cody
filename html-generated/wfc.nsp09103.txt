@@ -19,7 +19,8 @@
       <h3>The Queen at the Wild West Show.</h3>
       <div class="milestone line"> </div>
       <span class="lg">
-         <h4>THE SONG OF PUNCHIWATHA.<a href="#n01" class="internal_link">1</a>
+         <h4>THE SONG OF PUNCHIWATHA.<a name="n01.ref"> </a>
+            <a href="#n01.note" class="ref">[1]</a>
          </h4>
          <span class="lg">
             <span class="l indented">Would you hear how Col. Cody</span>
@@ -36,9 +37,11 @@
             <span class="l indented">When she reached the exhibition,</span>
             <span class="l">Lo! a box near the arena</span>
             <span class="l">Was propared for her reception;</span>
-            <span class="l">Whitely too, and Col. Russell<a href="#n02" class="internal_link">2</a>
+            <span class="l">Whitely too, and Col. Russell<a name="n02.ref"> </a>
+               <a href="#n02.note" class="ref">[2]</a>
             </span>
-            <span class="l">And the wily Townsend Percy<a href="#n03" class="internal_link">3</a>
+            <span class="l">And the wily Townsend Percy<a name="n03.ref"> </a>
+               <a href="#n03.note" class="ref">[3]</a>
             </span>
             <span class="l">As an escort to the lady,</span>
             <span class="l">To the empress of the North Land.</span>
@@ -57,7 +60,8 @@
 
          <span class="lg">
             <span class="l indented">To the queen came Ogila-sa,</span>
-            <span class="l">Sioux chief,<a href="#n04" class="internal_link">4</a> and bowed before her;</span>
+            <span class="l">Sioux chief,<a name="n04.ref"> </a>
+               <a href="#n04.note" class="ref">[4]</a> and bowed before her;</span>
             <span class="l">He across the Big Sea-Water</span>
             <span class="l">Came to see the queen and empress,</span>
             <span class="l">And will tell the wondrous story</span>
@@ -92,23 +96,19 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: To honor Queen Victoria's private visit to Buffalo Bill's Wild West on May 5, 1887, <em class="hi">Punch, or The London Charivari,</em> a weekly British magazine of humor and satire from 1841 to 1992, created <em class="hi">The Song of Punchiwatha,</em> which closely resembled Longfellow's poem <em class="hi">Hiawatha.</em>
-         <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: To honor Queen Victoria's private visit to Buffalo Bill's Wild West on May 5, 1887, <em class="hi">Punch, or The London Charivari,</em> a weekly British magazine of humor and satire from 1841 to 1992, created <em class="hi">The Song of Punchiwatha,</em> which closely resembled Longfellow's poem <em class="hi">Hiawatha.</em>
+         <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: The American Exhibition was represented by Americans Colonel Henry S. Russell (1838-1905), president, and John Robinson Whitley (1843-1922), director-general, who managed to ensure a place for Buffalo Bill's Wild West to perform at Earl's Court.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: The American Exhibition was represented by Americans Colonel Henry S. Russell (1838-1905), president, and John Robinson Whitley (1843-1922), director-general, who managed to ensure a place for Buffalo Bill's Wild West to perform at Earl's Court.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Townsend Percy, the official Press Representative for the American Exhibition and a member of the Royal Geographical Society of London, was an author and lecturer.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Townsend Percy, the official Press Representative for the American Exhibition and a member of the Royal Geographical Society of London, was an author and lecturer.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Ogila-sa (Ogilesha, Ogle Sa, Ogilasa, and Ógle Lúta among other variants) was <span class="persName">
+         <a name="n04.note"> </a>Note 4: Ogila-sa (Ogilesha, Ogle Sa, Ogilasa, and Ógle Lúta among other variants) was <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Chief Red Shirt</a>
-         </span>.<a href="#n04.ref">  [back]
-            </a>
+         </span>.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

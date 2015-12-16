@@ -20,7 +20,8 @@
          <br/>This Company <strong>Transmits</strong> and <strong>Delivers</strong> messages only on conditions limiting its liability, which have been assented to by the sender of the following message.<br/>Errors can be guarded against only by repeating a message back to the sending station for comparison, and the Company will not hold itself liable for errors or delays in transmission or delivery of <strong>Unrepeated Messages,</strong> beyond the amount of tolls paid thereon, nor in any case where the claim is not presented in writing with in sixty days after the message is filed with the Company for transmission.<br/>This is an <strong>Unrepeated Message,</strong> and is delivered by request of the sender, under the conditions named above.<br/>Thos. T. Eckert, President and General Manager.</div>
 
 
-      <span class="ab">Number 9CH<a href="#n01" class="internal_link">1</a>
+      <span class="ab">Number 9CH<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="ab">Sent By Hr</span>
@@ -32,13 +33,15 @@
 
       <span class="ab">Received at 212 South 13th Street, Omaha, Neb.<br/>755a<br/>Sept 6 1895</span>
 
-      <span class="ab">Dated Johnstown Pa 6<a href="#n02" class="internal_link">2</a>
+      <span class="ab">Dated Johnstown Pa 6<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
       <span class="ab">To <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Geo. T. Beck</a>
          </span>
-         <br/>McTagues Hotel<a href="#n03" class="internal_link">3</a>
+         <br/>McTagues Hotel<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </span>
 
 
@@ -58,16 +61,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Telegram is handwritten by clerk or William F. Cody assignee. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West performed in Johnstown, Pennsylvania, on September 6, 1895.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Buffalo Bill's Wild West performed in Johnstown, Pennsylvania, on September 6, 1895.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: McTagues Hotel: James Hugh McTague (1858-1926), the owner of a catering service in Omaha, Nebraska, who opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: McTagues Hotel: James Hugh McTague (1858-1926), the owner of a catering service in Omaha, Nebraska, who opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

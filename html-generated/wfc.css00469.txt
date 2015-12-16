@@ -35,7 +35,8 @@ Breslin &amp; Southgate</div>
 
       <p>I recd a letter from <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
-         </span> this morn. and Answered it. also wrote You to Marquette. See my letter to Alger of this date and give me answer to it. George I cannot for the life of me see where all the money is going to for the results gained. Our own forces are surely being work to no advantage. like Burke<a href="#n01" class="internal_link">1</a> was working his gang last fall one plow with six mules and two men standing idle eight hours out of the ten— but with
+         </span> this morn. and Answered it. also wrote You to Marquette. See my letter to Alger of this date and give me answer to it. George I cannot for the life of me see where all the money is going to for the results gained. Our own forces are surely being work to no advantage. like Burke<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> was working his gang last fall one plow with six mules and two men standing idle eight hours out of the ten— but with
 
 
 <span class="hr"> </span>
@@ -51,7 +52,8 @@ Breslin &amp; Southgate</div>
 
 that I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> see where the money is going. No wonder <span class="persName">
             <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
-         </span> wanted to shut down. I am glad my letter about Stokes<a href="#n02" class="internal_link">2</a> came in good time. You see <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> well to keep one posted punctually. wish you would learn a lesson from it. Say old Fellow. if you have come to Sheridan dont for goodness sake let Rumsey have to wait a week for you to play billiards before attending to business it will disgust him and this is a serious time.</p>
+         </span> wanted to shut down. I am glad my letter about Stokes<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> came in good time. You see <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> well to keep one posted punctually. wish you would learn a lesson from it. Say old Fellow. if you have come to Sheridan dont for goodness sake let Rumsey have to wait a week for you to play billiards before attending to business it will disgust him and this is a serious time.</p>
 
       <p>I must have a statement of what has been done and where the money has gone. You did not take time to tell me in your letter what was being done to the ditch. its strange you have not <a rel="tooltip" class="sic" title="moved​ &#xA;    ">mooved</a> from Marquette yet. If the force had been half managed you would have been away from those gin Mills long ago—</p>
 
@@ -66,12 +68,10 @@ that I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> see wher
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: "Burke" refers to Carlton Burke, a foreman working on the irrigation project.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: "Burke" refers to Carlton Burke, a foreman working on the irrigation project.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have wanted Stokes to invest in the Cody Canal.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have wanted Stokes to invest in the Cody Canal.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

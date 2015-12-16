@@ -33,7 +33,8 @@
       <span class="dateline">Cody, Wyoming, Jan 29 1904</span>
 
 
-      <p>We the undersigned hereby agree that all moneys received by Bronson Rumsey as trustee for one half interest in the Cody Townsite Co. shall first be applied to the payment of water rights due the Shoshone Irrigation Co. &amp; there after where said water rights are fully paid, <del>the</del> all moneys received from the Lincoln Land Co. shall be paid by Bronson Rumsey to Phoebe Hearst<a href="#n01" class="internal_link">1</a> until a certain note of thirty thousand dollars owing her, from the Shoshone Irrigation Co is fully paid. </p>
+      <p>We the undersigned hereby agree that all moneys received by Bronson Rumsey as trustee for one half interest in the Cody Townsite Co. shall first be applied to the payment of water rights due the Shoshone Irrigation Co. &amp; there after where said water rights are fully paid, <del>the</del> all moneys received from the Lincoln Land Co. shall be paid by Bronson Rumsey to Phoebe Hearst<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> until a certain note of thirty thousand dollars owing her, from the Shoshone Irrigation Co is fully paid. </p>
 
       <span class="closer">
          <br/>W. F. Cody 
@@ -63,8 +64,7 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Phoebe Apperson Hearst (1842-1919) was the wife of California senator and Comstock Lode magnate George Hearst. At the insistance of Mrs. Hearst the Hearst Estate provided an indemnity bond of $30,000 at 7.5% to the Shoshone Irrigation Company project.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Phoebe Apperson Hearst (1842-1919) was the wife of California senator and Comstock Lode magnate George Hearst. At the insistance of Mrs. Hearst the Hearst Estate provided an indemnity bond of $30,000 at 7.5% to the Shoshone Irrigation Company project.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

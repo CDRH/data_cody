@@ -37,7 +37,8 @@
             <p>
                <span class="persName">
                   <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">JOHN R. WHITLEY</a>
-               </span>.<a href="#n01" class="internal_link">1</a>
+               </span>.<a name="n01.ref"> </a>
+               <a href="#n01.note" class="ref">[1]</a>
             </p>
          </div>
 
@@ -46,7 +47,8 @@ and we present herewith pictures of some of the men and animals who have helped 
 
 <div class="inline_figure">
             <div class="p">[illustration]</div>
-            <p>CAPT. BURNET LANDRETH.<a href="#n02" class="internal_link">2</a>
+            <p>CAPT. BURNET LANDRETH.<a name="n02.ref"> </a>
+               <a href="#n02.note" class="ref">[2]</a>
             </p>
          </div>
 
@@ -95,12 +97,10 @@ Princess Louise, he was presented to her majesty, and under the genial influence
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: John Robinson Whitley (1843-1922) was founder of Earl's Court Exhibition Centre, Director-General and Chairman of the United States Executive Council of the American Exhibition, which opened in London on May 9, 1887.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: John Robinson Whitley (1843-1922) was founder of Earl's Court Exhibition Centre, Director-General and Chairman of the United States Executive Council of the American Exhibition, which opened in London on May 9, 1887.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Burnet Landreth (1842-1928), a Civil War officer and later a principal in the D. Landreth and Sons seed company in Philadelphia, was United States Director and Vice President for the American Exhibition of 1887.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Burnet Landreth (1842-1928), a Civil War officer and later a principal in the D. Landreth and Sons seed company in Philadelphia, was United States Director and Vice President for the American Exhibition of 1887.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

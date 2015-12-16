@@ -33,7 +33,8 @@
 
       <span class="closer">
          <span class="salute">Cordially yours,</span>
-    (Sgd) E. J. AYERS<a href="#n01" class="internal_link">1</a>
+    (Sgd) E. J. AYERS<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>Chief Clerk
     <div class="note">Inc. 2377.</div>
       </span>
@@ -42,8 +43,7 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Ezekiel Jarman Ayers (1866-1931) was Chief Clerk, Department of Interior, Superintendent of Buildings, and Acting Assistant Secretary of Interior; he was appointed by Secretary of War Franklin K. Lane in 1911, serving until his resignation in 1920.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Ezekiel Jarman Ayers (1866-1931) was Chief Clerk, Department of Interior, Superintendent of Buildings, and Acting Assistant Secretary of Interior; he was appointed by Secretary of War Franklin K. Lane in 1911, serving until his resignation in 1920.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

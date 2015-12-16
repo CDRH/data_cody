@@ -20,7 +20,8 @@
       <div class="note">Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East</div>
 
       <span class="dateline">Carrollton Mo
-Sep. 25<a href="#n01" class="internal_link">1</a>
+Sep. 25<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">Dear Clarence</span>
@@ -34,9 +35,11 @@ Sep. 25<a href="#n01" class="internal_link">1</a>
          <br/>Col.
 </span>
 
-      <p>We cant get Deer Bear. &amp; quails <del>ne</del> at Campo Bonito<a href="#n02" class="internal_link">2</a>
+      <p>We cant get Deer Bear. &amp; quails <del>ne</del> at Campo Bonito<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </p>
-      <div class="note">Col Dyer-uses a No 12 Winchester Pump shot gun<a href="#n03" class="internal_link">3</a>
+      <div class="note">Col Dyer-uses a No 12 Winchester Pump shot gun<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </div>
 
    </div>
@@ -44,16 +47,13 @@ Sep. 25<a href="#n01" class="internal_link">1</a>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Cody did not include the year in his dateline. Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East performed in Carrollton, Missouri, on September 25, 1911.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Cody did not include the year in his dateline. Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East performed in Carrollton, Missouri, on September 25, 1911.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Campo Bonito was a mine located about 43 miles from Tucson in Pima County, Arizona.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Campo Bonito was a mine located about 43 miles from Tucson in Pima County, Arizona.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: This sentence is written upside down, above the letterhead imprint.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: This sentence is written upside down, above the letterhead imprint.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

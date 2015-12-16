@@ -19,10 +19,12 @@
 
       <div class="note">Buffalo Bill's Wild West<br/>
 Touring Great Britain.<br/>
-Pahaska Tepee.<a href="#n01" class="internal_link">1</a>
+Pahaska Tepee.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </div>
 
-      <span class="dateline">Grantham. Sep. 25th 1903<a href="#n02" class="internal_link">2</a>
+      <span class="dateline">Grantham. Sep. 25th 1903<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
       <span class="persName">
@@ -46,7 +48,9 @@ Washington D. C.
             </a>
          </span>
 
-in this matter as acting as my Attorney And putting my application in at once. And help me. I will <a rel="tooltip" class="sic" title="recompsense​ &#xA;    ">reccompense</a> you most liberaly.<a href="#n03" class="internal_link">3</a> I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> I deserve this concession as much as any man. Could the President assist me in this? he is a good friend of mine.<a href="#n04" class="internal_link">4</a> If you think it necessary to have
+in this matter as acting as my Attorney And putting my application in at once. And help me. I will <a rel="tooltip" class="sic" title="recompsense​ &#xA;    ">reccompense</a> you most liberaly.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> I deserve this concession as much as any man. Could the President assist me in this? he is a good friend of mine.<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> If you think it necessary to have
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -84,20 +88,16 @@ When I get to Washington. about Nov. 6th.</p>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Pahaska Tepee is the name of a small hotel built by William F. Cody near the east gate of Yellowstone National Park in late 1903.  Since these words appear on stationery associated with the last British tour of Buffalo Bill's Wild West, it is unlikely they were meant as a reference to Cody's latest Wyoming business venture.  More likely, "Pahaska Tepee" was an elegant-sounding stand-in for whatever temporary location the Wild West occupied at a particular time.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Pahaska Tepee is the name of a small hotel built by William F. Cody near the east gate of Yellowstone National Park in late 1903.  Since these words appear on stationery associated with the last British tour of Buffalo Bill's Wild West, it is unlikely they were meant as a reference to Cody's latest Wyoming business venture.  More likely, "Pahaska Tepee" was an elegant-sounding stand-in for whatever temporary location the Wild West occupied at a particular time.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West performed in Grantham, England, on September 25, 1903.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Buffalo Bill's Wild West performed in Grantham, England, on September 25, 1903.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: William F. Cody's attempt to secure a government concession for transportation services between the town of Cody, Wyoming, and the east gate of Yellowstone National Park did not succeed.  <a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: William F. Cody's attempt to secure a government concession for transportation services between the town of Cody, Wyoming, and the east gate of Yellowstone National Park did not succeed.  <a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Theodore Roosevelt was then the President of the United States.  Although Roosevelt did know Cody, it would be an exaggeration to say that the two men were close friends.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Theodore Roosevelt was then the President of the United States.  Although Roosevelt did know Cody, it would be an exaggeration to say that the two men were close friends.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

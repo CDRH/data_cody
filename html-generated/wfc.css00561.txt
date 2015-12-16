@@ -22,7 +22,8 @@
          <strong>Norvin Green,</strong> President.</div>
 
 
-      <span class="ab">Number  397<a href="#n01" class="internal_link">1</a>
+      <span class="ab">Number  397<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="ab">Sent By  ChQs</span>
@@ -36,7 +37,8 @@
       <span class="ab">
          <strong>Received at 212 South 13th Street, Omaha, Neb.</strong>  943p<br/>M. Standard TIme  June 8 189  5</span>
 
-      <span class="ab">Dated  Fitchburg Mass 8<a href="#n02" class="internal_link">2</a>
+      <span class="ab">Dated  Fitchburg Mass 8<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
       <span class="ab">To  <span class="persName">
@@ -44,7 +46,8 @@
          </span>
       </span>
 
-      <span class="ab">MacTague Hotel<a href="#n03" class="internal_link">3</a> Omaha neb</span>
+      <span class="ab">MacTague Hotel<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> Omaha neb</span>
 
 
       <p>
@@ -65,16 +68,13 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee. <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Telegram is handwritten by clerk or William F. Cody assignee. <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West performed in Fitchburg, Massachusetts, on June 8, 1895.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: Buffalo Bill's Wild West performed in Fitchburg, Massachusetts, on June 8, 1895.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: McTague Hotel: James Hugh McTague (1858-1926) was the owner of a catering service in Omaha, Nebraska, and opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: McTague Hotel: James Hugh McTague (1858-1926) was the owner of a catering service in Omaha, Nebraska, and opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.<a href="#n03.ref"> [back]</a>
       </p>
    </div>
 </div>

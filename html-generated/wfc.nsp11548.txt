@@ -49,7 +49,8 @@
             <a href="http://rosie.unl.edu/cody_archive/doc/baker.l">Johnnie Baker</a>
          </span>, a youth of 21 years, whose exhibition of shooting in almost any position is almost supernatural.</p>
 
-      <p>The Tyrolean singing<a href="#n01" class="internal_link">1</a> of the Ayrlesberger troupe is also much appreciated, encores being demanded of them at every performance. The members of the troupe are highly pleased at the reception accorded to them in the second city of the empire.</p>
+      <p>The Tyrolean singing<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a> of the Ayrlesberger troupe is also much appreciated, encores being demanded of them at every performance. The members of the troupe are highly pleased at the reception accorded to them in the second city of the empire.</p>
 
       <p>To sum up, the Wild West show is not only entertaining, but highly instructive, and before the season comes to a close, hundreds of thousands of the Scottish public will have been taught many things of which they were ignorant before the visit of Colonel Wm. F. Cody.</p>
 
@@ -62,8 +63,7 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: "Tyrolean singing" is folk music of the alpine region in central Europe that incorporates harmony, yodeling, whistling, and dance.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: "Tyrolean singing" is folk music of the alpine region in central Europe that incorporates harmony, yodeling, whistling, and dance.<a href="#n01.ref"> [back]</a>
       </p>
    </div>
 </div>

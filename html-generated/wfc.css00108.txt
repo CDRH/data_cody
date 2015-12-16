@@ -19,7 +19,8 @@
 
       <div class="note">Buffalo Bill's Wild West</div>
 
-      <span class="dateline">Oneonta N.Y.<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Oneonta N.Y.<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
          <br/>
 June 11t 1901
 </span>
@@ -71,12 +72,10 @@ Wyo—
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Oneonta, New York, on June 11, 1901.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Buffalo Bill's Wild West performed in Oneonta, New York, on June 11, 1901.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: When public lands were surveyed as a precursor to settlement, certain one-mile-square sections known as "school sections" were designated. Revenue from the sale or lease of these sections was reserved to support public schools.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: When public lands were surveyed as a precursor to settlement, certain one-mile-square sections known as "school sections" were designated. Revenue from the sale or lease of these sections was reserved to support public schools.<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

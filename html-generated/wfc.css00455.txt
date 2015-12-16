@@ -25,7 +25,8 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
       <span class="dateline">Wilmington N. C.<br/>
-Oct 6<a href="#n01" class="internal_link">1</a>
+Oct 6<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
@@ -34,7 +35,9 @@ Oct 6<a href="#n01" class="internal_link">1</a>
       </span>
 
 
-      <p>I have not heard if you approove of nameing the streets after the leading Generals<a href="#n02" class="internal_link">2</a> if you do I will send you my favorites they come in rotation as I write them. I leave it to you to put in and name the Southern Generals. I dont know how many streets you are going to have but here goes<a href="#n03" class="internal_link">3</a>
+      <p>I have not heard if you approove of nameing the streets after the leading Generals<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> if you do I will send you my favorites they come in rotation as I write them. I leave it to you to put in and name the Southern Generals. I dont know how many streets you are going to have but here goes<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a>
       </p>
 
       <ul>
@@ -51,7 +54,8 @@ Oct 6<a href="#n01" class="internal_link">1</a>
          <li>Merritt</li>
          <li>Crook</li>
          <li>Guss <u>an uncle of mine</u>
-            <a href="#n04" class="internal_link">4</a>
+            <a name="n04.ref"> </a>
+            <a href="#n04.note" class="ref">[4]</a>
          </li>
          <li>Terry</li>
          <li>Royal</li>
@@ -73,15 +77,13 @@ Oct 6<a href="#n01" class="internal_link">1</a>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Wilmington, North Carolina, October 7, 1895; there was no performance on Sunday, October 6.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Wilmington, North Carolina, October 7, 1895; there was no performance on Sunday, October 6.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: In previous letters Cody refers to naming streets in the first planned town site, and the initial plats of the town of Cody in that original location show the streets named for generals. This was an idea that apparently did not catch on, as Cody remarks. In the town site's subsequent location, the main street of Sheridan Avenue is the only street honoring a general (Philip Sheridan); the principal east-west streets were and still are named for founders of the town.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: In previous letters Cody refers to naming streets in the first planned town site, and the initial plats of the town of Cody in that original location show the streets named for generals. This was an idea that apparently did not catch on, as Cody remarks. In the town site's subsequent location, the main street of Sheridan Avenue is the only street honoring a general (Philip Sheridan); the principal east-west streets were and still are named for founders of the town.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: The following are full names and life dates in the order in which Cody has them listed in his letter:
+         <a name="n03.note"> </a>Note 3: The following are full names and life dates in the order in which Cody has them listed in his letter:
 <ul>
             <li>  Grant, Ulysses S. (Ulysses Simpson), 1822-1885.</li>
             <li>  Sherman, William T. (William Tecumseh), 1820-1891. </li>
@@ -103,12 +105,10 @@ Oct 6<a href="#n01" class="internal_link">1</a>
             <li>  Forsyth, James W. (James William), 1836-1906.</li>
             <li>  Stanton, Edwin McMasters, 1814-1869. </li>
          </ul>
-         <a href="#n03.ref">  [back]
-            </a>
+         <a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Henry R. Guss, 1825-1907, was Cody's uncle, having married Cody's mother's sister, Eliza C. Laycock. General Guss was commissioned a Major General in 1867; he commanded the 97th Pennsylvania Regiment in the Civil War.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Henry R. Guss, 1825-1907, was Cody's uncle, having married Cody's mother's sister, Eliza C. Laycock. General Guss was commissioned a Major General in 1867; he commanded the 97th Pennsylvania Regiment in the Civil War.<a href="#n04.ref"> [back]</a>
       </p>
    </div>
 </div>

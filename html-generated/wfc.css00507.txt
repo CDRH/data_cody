@@ -18,7 +18,8 @@
 
       <div class="note">The Cataract.<br/>Fred H. Synder.<br/>Sioux Falls, South Dakota.</div>
 
-      <span class="dateline">Sep. 20 1896<a href="#n01" class="internal_link">1</a>
+      <span class="dateline">Sep. 20 1896<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
@@ -26,7 +27,12 @@
          </span>
       </span>
 
-      <p>If you hear what the Northern Pacific R.R. Officials done about building a branch to Bear Creek coal fields<a href="#n02" class="internal_link">2</a> let me— If they commence to build. I understand <del>that</del> from good authority that the B &amp; M.<a href="#n03" class="internal_link">3</a> will also. This I got at St Paul from a way up Burlington RR<a href="#n04" class="internal_link">4</a> official. Let Charley Trego<a href="#n05" class="internal_link">5</a> know at once if you want me to take the Hotel<a href="#n06" class="internal_link">6</a>— If so the Building should be put in good s<del>p</del>hape— made warm— Offering to donate lots &amp; Park &amp; $5000 building ought to be a body blow to the other Towns And if you can get a <a rel="tooltip" class="sic" title="copy​ &#xA;    ">coppy</a> of that into the hands of every voter which you can do— and get some good talkers out among them you ought to land the seat
+      <p>If you hear what the Northern Pacific R.R. Officials done about building a branch to Bear Creek coal fields<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a> let me— If they commence to build. I understand <del>that</del> from good authority that the B &amp; M.<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> will also. This I got at St Paul from a way up Burlington RR<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> official. Let Charley Trego<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a> know at once if you want me to take the Hotel<a name="n06.ref"> </a>
+         <a href="#n06.note" class="ref">[6]</a>— If so the Building should be put in good s<del>p</del>hape— made warm— Offering to donate lots &amp; Park &amp; $5000 building ought to be a body blow to the other Towns And if you can get a <a rel="tooltip" class="sic" title="copy​ &#xA;    ">coppy</a> of that into the hands of every voter which you can do— and get some good talkers out among them you ought to land the seat
 
 
 <span class="hr"> </span>
@@ -53,28 +59,22 @@ and if you do land the seat The company should acknowledge your valuable service
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Bufffalo Bill's Wild West performed in Sioux Falls, South Dakota, on September 21, 1896; there was no performance on Sunday, September 20th. The day's entry in the 1896 Route Diary for Sunday, September 20th: "Sioux Falls, S. D. / Sunday, September 20. Arrived in town at 5.30 A. M. Three-mile haul to lot and all across country roads. We were never so far from town or car service as we will be here. The street-car system consists of three miles of mule railroad with one car, consequently the trips average one an hour, and it does not run within one mile of the Fair Grounds, where we are located. Manager J. T. McCaddon, Fred Hutchinson, Annie Oakley, Frank Butler and William Sweeney went hunting to-day and came back with one prairie chicken, one jack rabbit and a duck. Big-top was not put up today. / Weather clear and cool and very windy. We found one-half inch ice this morning."<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Bufffalo Bill's Wild West performed in Sioux Falls, South Dakota, on September 21, 1896; there was no performance on Sunday, September 20th. The day's entry in the 1896 Route Diary for Sunday, September 20th: "Sioux Falls, S. D. / Sunday, September 20. Arrived in town at 5.30 A. M. Three-mile haul to lot and all across country roads. We were never so far from town or car service as we will be here. The street-car system consists of three miles of mule railroad with one car, consequently the trips average one an hour, and it does not run within one mile of the Fair Grounds, where we are located. Manager J. T. McCaddon, Fred Hutchinson, Annie Oakley, Frank Butler and William Sweeney went hunting to-day and came back with one prairie chicken, one jack rabbit and a duck. Big-top was not put up today. / Weather clear and cool and very windy. We found one-half inch ice this morning."<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: "Bear Creek coal fields" are located at Bearcreek, Montana, about eight miles southeast of Red Lodge, Montana. In the Bearcreek district small mining operations started in the 1890's. Wagons pulled by horse and mule were used to haul coal to the railroad at Red Lodge. In 1897 the Montana Coal &amp; Iron Company was formed. By 1907 four major mines were operating; as the mines started producing, the Montana, Wyoming &amp; Southern Railroad laid tracks east of Bearcreek and eventually laid a line to these mines.<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: "Bear Creek coal fields" are located at Bearcreek, Montana, about eight miles southeast of Red Lodge, Montana. In the Bearcreek district small mining operations started in the 1890's. Wagons pulled by horse and mule were used to haul coal to the railroad at Red Lodge. In 1897 the Montana Coal &amp; Iron Company was formed. By 1907 four major mines were operating; as the mines started producing, the Montana, Wyoming &amp; Southern Railroad laid tracks east of Bearcreek and eventually laid a line to these mines.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: Burlington and Missouri River Railroad Company.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: Burlington and Missouri River Railroad Company.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Chicago, Burlington &amp; Quincy Railroad Company.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Chicago, Burlington &amp; Quincy Railroad Company.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: Trego is Charles Trego (1856-1925), a personal friend of Cody's and a foreman for both Scout's Rest Ranch in North Platte, Nebraska, and the TE Ranch in Cody, Wyoming.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: Trego is Charles Trego (1856-1925), a personal friend of Cody's and a foreman for both Scout's Rest Ranch in North Platte, Nebraska, and the TE Ranch in Cody, Wyoming.<a href="#n05.ref"> [back]</a>
       </p>
       <p>
-         <a name="n06.note"/>Note 6: "Take the Hotel" instructs Beck to use Cody's offer to build a hotel to secure Cody, Wyoming, as the county seat.<a href="#n06.ref">  [back]
-            </a>
+         <a name="n06.note"> </a>Note 6: "Take the Hotel" instructs Beck to use Cody's offer to build a hotel to secure Cody, Wyoming, as the county seat.<a href="#n06.ref"> [back]</a>
       </p>
    </div>
 </div>

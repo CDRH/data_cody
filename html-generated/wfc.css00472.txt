@@ -23,8 +23,10 @@ Manager.<br/>
 
 
 
-      <span class="dateline">Sheridan, Wyo.,  4/9 1896<a href="#n01" class="internal_link">1</a>
-         <a href="#n02" class="internal_link">2</a>
+      <span class="dateline">Sheridan, Wyo.,  4/9 1896<a name="n01.ref"> </a>
+         <a href="#n01.note" class="ref">[1]</a>
+         <a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>
       </span>
 
 
@@ -46,12 +48,10 @@ Manager.<br/>
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Handwriting is not Cody's but may have been a hotel clerk, an employee, or a representative for Cody.<a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Handwriting is not Cody's but may have been a hotel clerk, an employee, or a representative for Cody.<a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: On Monday, April 6, 1896, Buffalo Bill's Wild West began preparations for the opening of the 1896 season in Philadelphia, Pennsylvania, on Saturday, April 18th. The day's entry in the 1896 Route Diary: "Thursday, April 9. Wagons, canvas, stakes, etc., were shipped from the Barnum &amp; Bailey Winter-quarters, Bridgeport, Conn. Wardrobe, buffaloes and electric light wagons were shipped from the Buffalo Bill grounds, Ambrose Park, South Brooklyn, and met the train at Jersey City at 10 P. M. Train left Jersey City over the P. &amp; R. R. R. for Philadelphia, Friday morning, 3 A. M., and arrived in Philadelphia, Pa., at 7.30 A. M."<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: On Monday, April 6, 1896, Buffalo Bill's Wild West began preparations for the opening of the 1896 season in Philadelphia, Pennsylvania, on Saturday, April 18th. The day's entry in the 1896 Route Diary: "Thursday, April 9. Wagons, canvas, stakes, etc., were shipped from the Barnum &amp; Bailey Winter-quarters, Bridgeport, Conn. Wardrobe, buffaloes and electric light wagons were shipped from the Buffalo Bill grounds, Ambrose Park, South Brooklyn, and met the train at Jersey City at 10 P. M. Train left Jersey City over the P. &amp; R. R. R. for Philadelphia, Friday morning, 3 A. M., and arrived in Philadelphia, Pa., at 7.30 A. M."<a href="#n02.ref"> [back]</a>
       </p>
    </div>
 </div>

@@ -17,14 +17,16 @@
       </span>
 
       <h3>
-         <div class="center">BILL NYE<a href="#n01" class="internal_link">1</a> AND THE COWBOYS.</div>
+         <div class="center">BILL NYE<a name="n01.ref"> </a>
+            <a href="#n01.note" class="ref">[1]</a> AND THE COWBOYS.</div>
       </h3>
       <div class="milestone line"> </div>
       <h3>
          <div class="center">Why He Apprehends an Incursion of Old-World Amateurs.</div>
       </h3>
 
-      <h3>The Effect of the Buffalo Bill Show on the European Youth—What We May Expect When B. B. Reopens the Roman Coliseum<a href="#n02" class="internal_link">2</a>—The Real and the Ideal Cowboy Contrasted—Last of the Red Man.</h3>
+      <h3>The Effect of the Buffalo Bill Show on the European Youth—What We May Expect When B. B. Reopens the Roman Coliseum<a name="n02.ref"> </a>
+         <a href="#n02.note" class="ref">[2]</a>—The Real and the Ideal Cowboy Contrasted—Last of the Red Man.</h3>
 
       <p>The cable news from London would seem to indicate that the coming year will witness a large hegira of armed goslings from England who intend to prosecute the cow gentleman and Deadwood stage-robbing business on our frontier. It is perhaps unnecessary to state that Buffalo William, the graceful and courteous hirsute wonder from Nebraska, is largely responsible for this. Wherever he has gone with his eccentric, dark-red, self-made Indians and his speckled broncos he has sown the seeds of discontent in the grammar schools and bred open rebellion and mutiny in the primary department.</p>
 
@@ -48,11 +50,14 @@
 
       <p>Yet who but Col. Cody would have thought of going to the four corners of the earth with such a show? Who but he would have hired the Coliseum after its long, dull and disastrous season? Now, however, that he has opened the way it will be no <a rel="tooltip" class="sic" title="doubt​ &#xA;    ">boubt</a> the beginning of an era of prosperity for that great place of amusement, and the Wild West Show will be followed very likely by stereopticon entertainments and a humorous lecture. In that way Buffalo Bill is a benefactor, for the long and painful silence that has settled down for centuries about the galleries and dim foyers of the Coliseum will be broken and the thrilling tones of "Curfew shall not ring to-night" will jar the chinking out of the crumbling walls that in years past resounded with the applause of the Roman populace as Spartacus told the people that he was not always thus.</p>
 
-      <p>May it not be that in future years, now that the Coliseum is to be thrown open, Joshua Whitcomb<a href="#n03" class="internal_link">3</a> will jerk his old hair trunk across the arena which once caught the warm blood of Aurelius Portcullis as he slowly fed himself to a fierce Numidian lion, while the band played "Read the Answer in the Stars?"</p>
+      <p>May it not be that in future years, now that the Coliseum is to be thrown open, Joshua Whitcomb<a name="n03.ref"> </a>
+         <a href="#n03.note" class="ref">[3]</a> will jerk his old hair trunk across the arena which once caught the warm blood of Aurelius Portcullis as he slowly fed himself to a fierce Numidian lion, while the band played "Read the Answer in the Stars?"</p>
 
       <p>How long will it be before Mr. Adonis E. Dixey will deliver milk where once the fat and wheezy Roman Prætor said there were no noble men but Romans and Ohio men?</p>
 
-      <p>Can it be that Mrs. Langtry<a href="#n04" class="internal_link">4</a> or Mrs. James Brown Potter<a href="#n05" class="internal_link">5</a> will some day rent the Coliseum for a whole season and wear their good clothes where centuries ago, the gladiator, wearing a belt with a frill to it and armed with a cast-iron toadstabber, bowed to the Roman Prætor and asked him to kindly turn in a few ringtail tigers from Farther India and would he show the audience how a grown-up tiger looked inside?</p>
+      <p>Can it be that Mrs. Langtry<a name="n04.ref"> </a>
+         <a href="#n04.note" class="ref">[4]</a> or Mrs. James Brown Potter<a name="n05.ref"> </a>
+         <a href="#n05.note" class="ref">[5]</a> will some day rent the Coliseum for a whole season and wear their good clothes where centuries ago, the gladiator, wearing a belt with a frill to it and armed with a cast-iron toadstabber, bowed to the Roman Prætor and asked him to kindly turn in a few ringtail tigers from Farther India and would he show the audience how a grown-up tiger looked inside?</p>
 
       <p>May not Mr. Kiralfy in the near future show the wondering decendants of Aurelius Rutabaga Trifoliatus how Babylon looked while in the act of falling and throw upon the walls of the Coliseum the celebrated handwriting which nobody but Daniel ever could make out?</p>
 
@@ -75,25 +80,20 @@
 
    <div class="bibliography">
       <p>
-         <a name="n01.note"/>Note 1: Bill Nye was Edgar Wilson Nye (1850-1896), a distinguished American journalist who later became widely known as a humorist; he was also the founder and editor of the <em class="hi">Laramie Boomerang.</em>
-         <a href="#n01.ref">  [back]
-            </a>
+         <a name="n01.note"> </a>Note 1: Bill Nye was Edgar Wilson Nye (1850-1896), a distinguished American journalist who later became widely known as a humorist; he was also the founder and editor of the <em class="hi">Laramie Boomerang.</em>
+         <a href="#n01.ref"> [back]</a>
       </p>
       <p>
-         <a name="n02.note"/>Note 2: There was speculation that following the end of the 1887-88 London season Buffalo Bill's Wild West would move camp to perform in Paris and Rome. However, the entire troupe left Hull, England, on May 5th for the opening in Erastina, Staten Island, New York, on May 30, 1888, ultimately performing in Paris May-November 1889 (and again in 1905) and in Rome February-March 1890 (and again in 1906).<a href="#n02.ref">  [back]
-            </a>
+         <a name="n02.note"> </a>Note 2: There was speculation that following the end of the 1887-88 London season Buffalo Bill's Wild West would move camp to perform in Paris and Rome. However, the entire troupe left Hull, England, on May 5th for the opening in Erastina, Staten Island, New York, on May 30, 1888, ultimately performing in Paris May-November 1889 (and again in 1905) and in Rome February-March 1890 (and again in 1906).<a href="#n02.ref"> [back]</a>
       </p>
       <p>
-         <a name="n03.note"/>Note 3: 'Joshua Whitcomb' was the name of a short theatrical sketch written by Henry Denman Thompson (1833-1911), an American playwright and theatre actor.<a href="#n03.ref">  [back]
-            </a>
+         <a name="n03.note"> </a>Note 3: 'Joshua Whitcomb' was the name of a short theatrical sketch written by Henry Denman Thompson (1833-1911), an American playwright and theatre actor.<a href="#n03.ref"> [back]</a>
       </p>
       <p>
-         <a name="n04.note"/>Note 4: Born Emilie Charlotte Le Breton on the isle of Jersey, Lily (or Lillie) Langtry (1853-1929), nicknamed the Jersey Lily, became a stage actress and producer in the early 1880s; she was known for her relationships with noblemen, including the Prince of Wales, the Earl of Shrewsbury, and Prince Louis of Battenberg.<a href="#n04.ref">  [back]
-            </a>
+         <a name="n04.note"> </a>Note 4: Born Emilie Charlotte Le Breton on the isle of Jersey, Lily (or Lillie) Langtry (1853-1929), nicknamed the Jersey Lily, became a stage actress and producer in the early 1880s; she was known for her relationships with noblemen, including the Prince of Wales, the Earl of Shrewsbury, and Prince Louis of Battenberg.<a href="#n04.ref"> [back]</a>
       </p>
       <p>
-         <a name="n05.note"/>Note 5: Cora Urquhart Potter (1857-1936), an American society woman who became a stage actress in England; she married and later divorced James Brown-Potter.<a href="#n05.ref">  [back]
-            </a>
+         <a name="n05.note"> </a>Note 5: Cora Urquhart Potter (1857-1936), an American society woman who became a stage actress in England; she married and later divorced James Brown-Potter.<a href="#n05.ref"> [back]</a>
       </p>
    </div>
 </div>
