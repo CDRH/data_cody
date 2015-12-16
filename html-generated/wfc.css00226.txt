@@ -42,13 +42,18 @@ Sep. 25<a href="#n01" class="internal_link">1</a>
    </div>
 
 
-
-
-   <div class="note">Note 1: Cody did not include the year in his dateline. Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East performed in Carrollton, Missouri, on September 25, 1911.</div>
-
-   <div class="note">Note 2: Campo Bonito was a mine located about 43 miles from Tucson in Pima County, Arizona.</div>
-
-   <div class="note">Note 3: This sentence is written upside down, above the letterhead imprint.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Cody did not include the year in his dateline. Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East performed in Carrollton, Missouri, on September 25, 1911.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Campo Bonito was a mine located about 43 miles from Tucson in Pima County, Arizona.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: This sentence is written upside down, above the letterhead imprint.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

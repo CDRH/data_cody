@@ -46,19 +46,31 @@
    </div>
 
 
-
-   <div class="note">Note 1: George Washburn Smalley (1833-1916), a Boston lawyer from 1856 until 1861, was a newspaper correspondent and journalist and staff editor for the <em class="hi">New York Tribune.</em>
-   </div>  
-
-   <div class="note">Note 2: Lord Charles Beresford is Charles William De la Poer Beresford (1846-1919), the first Baron Beresford.</div> 
-
-   <div class="note">Note 3: Located in west London, Hyde Park was originally owned by the British monarchy to satisfy the Royals' passion for hunting.</div> 
-
-   <div class="note">Note 4: The Princess of Wales was Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) who became Queen Alexandra when her husband, the Prince of Wales, became Edward VII, King of Great Britain in 1901.</div>  
-
-   <div class="note">Note 5: Count Nikolaus Heinrich Ferdinand Herbert von Bismarck (1849-1904), the eldest son of German Chancellor Otto von Bismarck, served as Germany's Foreign Secretary of State from 1885 until 1890.</div> 
-
-   <div class="note">Note 6: Otto Eduard Leopold (1815-1898), Prince of Bismarck, Duke of Lauenburg; known as Otto von Bismarck, he was an aristocrat and statesman, prime minister of Prussia (1862-1873, 1873-1890), and first Chancellor of the German Empire (1871-1890).</div> 
-
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: George Washburn Smalley (1833-1916), a Boston lawyer from 1856 until 1861, was a newspaper correspondent and journalist and staff editor for the <em class="hi">New York Tribune.</em>
+         <a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: Lord Charles Beresford is Charles William De la Poer Beresford (1846-1919), the first Baron Beresford.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: Located in west London, Hyde Park was originally owned by the British monarchy to satisfy the Royals' passion for hunting.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: The Princess of Wales was Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) who became Queen Alexandra when her husband, the Prince of Wales, became Edward VII, King of Great Britain in 1901.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 5: Count Nikolaus Heinrich Ferdinand Herbert von Bismarck (1849-1904), the eldest son of German Chancellor Otto von Bismarck, served as Germany's Foreign Secretary of State from 1885 until 1890.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 6: Otto Eduard Leopold (1815-1898), Prince of Bismarck, Duke of Lauenburg; known as Otto von Bismarck, he was an aristocrat and statesman, prime minister of Prussia (1862-1873, 1873-1890), and first Chancellor of the German Empire (1871-1890).<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

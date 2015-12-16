@@ -30,7 +30,8 @@
 
       <span class="salute">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j"/>John H Tait</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j">John H Tait</a>
+         </span>
       </span>
 
 Albany Hotel Denver Colo
@@ -47,12 +48,20 @@ Albany Hotel Denver Colo
    </div>
 
 
-
-   <div class="note">Note 1: Cody refers to his motion picture <em class="hi">The Indian Wars</em>.</div>
-
-   <div class="note">Note 2: Cody spent the summer of 1914 performing with the Sells-Floto Circus.</div>
-
-   <div class="note">Note 3: Cody refers to E. J. Ewing, a mining engineer engaged by Cody's partner <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/dyer.d"/>Daniel Burns Dyer</span> to examine Cody and Dyer's Arizona mining operations in 1912. Ewing later leased and operated some of the Cody-Dyer mine properties.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Cody refers to his motion picture <em class="hi">The Indian Wars</em>.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody spent the summer of 1914 performing with the Sells-Floto Circus.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Cody refers to E. J. Ewing, a mining engineer engaged by Cody's partner <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/dyer.d">Daniel Burns Dyer</a>
+         </span> to examine Cody and Dyer's Arizona mining operations in 1912. Ewing later leased and operated some of the Cody-Dyer mine properties.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

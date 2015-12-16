@@ -28,10 +28,12 @@
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>—</span>
 
       <p>I wrote you yesterday. That as there was no one to put up any cash but <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> and myself. And that we can get no report from you what you are doing or the debts you have contracted or what you propose to do. And as we hear that everything at that end is being run on such <a rel="tooltip" class="sic" title="careless​ &#xA;    ">carless</a> business methods. We ask you to go very slow and <u>beg</u> of you to give us a full report. Now Beck to be brief. I ask this as President of the Co.— and coming from the rest of the members of the company
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> and myself. And that we can get no report from you what you are doing or the debts you have contracted or what you propose to do. And as we hear that everything at that end is being run on such <a rel="tooltip" class="sic" title="careless​ &#xA;    ">carless</a> business methods. We ask you to go very slow and <u>beg</u> of you to give us a full report. Now Beck to be brief. I ask this as President of the Co.— and coming from the rest of the members of the company
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -60,32 +62,35 @@ and we demand a business reply.</p>
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in St. Louis, Missouri, May 18-23, 1896. The day's entry in the 1896 Route Diary: "St. Louis, Mo. / Tuesday, May 19. Weather very bad—rained hard all morning. There was a severe electric storm that lasted from 7 until 11 P. M.; it put the arena in a frightful condition. The storm did us no harm, only from a business standpoint. We wondered that anyone came. Nate Salsbury returned to Chicago to-day. Johnny Baker made quite a hit in his act, when he stood on his head in the mud.
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in St. Louis, Missouri, May 18-23, 1896. The day's entry in the 1896 Route Diary: "St. Louis, Mo. / Tuesday, May 19. Weather very bad—rained hard all morning. There was a severe electric storm that lasted from 7 until 11 P. M.; it put the arena in a frightful condition. The storm did us no harm, only from a business standpoint. We wondered that anyone came. Nate Salsbury returned to Chicago to-day. Johnny Baker made quite a hit in his act, when he stood on his head in the mud.
 
 <span class="lg">
-         <span class="lg">
-            <span class="l">"When the weather gets bad and the mud gets deep </span>
-            <span class="l"> And things are not coming our way,</span>
-            <span class="l">Anderson will quietly make a sneak,</span>
-            <span class="l"> And go back by the horse-tents and pray,</span>
+            <span class="lg">
+               <span class="l">"When the weather gets bad and the mud gets deep </span>
+               <span class="l"> And things are not coming our way,</span>
+               <span class="l">Anderson will quietly make a sneak,</span>
+               <span class="l"> And go back by the horse-tents and pray,</span>
+            </span>
+
+            <span class="lg">
+               <span class="l">"He will go away back of the bronco tent,</span>
+               <span class="l"> And kneel down by a bale of hay;</span>
+               <span class="l">On bended knees and with upturned eyes,</span>
+               <span class="l"> This 'old circus man' will pray.</span>
+            </span>
+
+            <span class="lg">
+               <span class="l">"He wants fine weather on all mud lots,</span>
+               <span class="l"> And on all sand lots he prays for rain; </span>
+               <span class="l">We all feel safe when Anderson prays,</span>
+               <span class="l"> For he never prays in vain."</span>
+            </span>
          </span>
 
-         <span class="lg">
-            <span class="l">"He will go away back of the bronco tent,</span>
-            <span class="l"> And kneel down by a bale of hay;</span>
-            <span class="l">On bended knees and with upturned eyes,</span>
-            <span class="l"> This 'old circus man' will pray.</span>
-         </span>
-
-         <span class="lg">
-            <span class="l">"He wants fine weather on all mud lots,</span>
-            <span class="l"> And on all sand lots he prays for rain; </span>
-            <span class="l">We all feel safe when Anderson prays,</span>
-            <span class="l"> For he never prays in vain."</span>
-         </span>
-      </span>
-
+         <a href="#n01.ref">  [back]
+            </a>
+      </p>
    </div>
-
 </div>

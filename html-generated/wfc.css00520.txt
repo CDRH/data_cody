@@ -57,10 +57,16 @@ are as grand as any which have followed other pioneers in the older Western Stat
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in New York, New York, from March 29-April 23, 1898. Buffalo Bill's Wild West then moved to Brooklyn to perform from April 25-30, 1898. </div>
-
-   <div class="note">Note 2: Letter is typewritten to C. B. Jones and signed by Cody. C. B. Jones was a land agent from Galesburg, Illinois, who brought settlers to the Big Horn Basin. The flowery language hints that perhaps <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/burke.j"/>John M. Burke</span> dictated or typed this letter.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in New York, New York, from March 29-April 23, 1898. Buffalo Bill's Wild West then moved to Brooklyn to perform from April 25-30, 1898. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Letter is typewritten to C. B. Jones and signed by Cody. C. B. Jones was a land agent from Galesburg, Illinois, who brought settlers to the Big Horn Basin. The flowery language hints that perhaps <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">John M. Burke</a>
+         </span> dictated or typed this letter.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

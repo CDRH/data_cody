@@ -38,15 +38,18 @@
 
       <span class="ab">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>,</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George T. Beck</a>
+         </span>,</span>
 
       <span class="ab">MacTagues Hotel<a href="#n02" class="internal_link">2</a>.</span>
 
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> in. Is Higby<a href="#n03" class="internal_link">3</a> in can Asay<a href="#n04" class="internal_link">4</a> produce when does <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/heckert.t"/>Beckert</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> in. Is Higby<a href="#n03" class="internal_link">3</a> in can Asay<a href="#n04" class="internal_link">4</a> produce when does <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/heckert.t">Beckert</a>
+         </span>
          <a href="#n05" class="internal_link">5</a> commence work did you get contract from state land board Wyoming for land.</p>
 
 
@@ -56,16 +59,26 @@
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in White River Junction, Vermont, on July 23, 1895.</div>
-
-   <div class="note">Note 2: MacTagues Hotel: James Hugh McTague (1858-1926), the owner of a catering service in Omaha, Nebraska, who opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.</div>
-
-   <div class="note">Note 3: Anson Higby (b.1862), a banker in Deadwood, South Dakota, who in 1893 partnered with Mr. C. H. Grinnell (later Mayor of Sheridan), J. R. Phelan, George T. Beck to form the Sheridan Fuel Company on lands approximately four miles north of Sheridan, Wyoming. This area soon became a thriving company-owned mining camp known as Higby. Higby became president of the Basin State Bank in Basin, Wyoming, as well as mayor and baseball coach of the town. He was secretary for the Wyoming State Fair board for about five years beginning in 1913. Higby was elected to the board of directors for several emerging oil-gas companies, including the Flat Top Oil &amp; Gas Company, the Emery Oil Company, and the Glenhurst Company, and he worked for the Midwest Refining Company, Casper, Wyoming.</div>
-
-   <div class="note">Note 4: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation in South Dakota, but lost his license in 1891 for selling alcohol on the reservation. He moved his business to nearby Rushville, Nebraska, where he continued to supply goods to Indian customers. William F. Cody was a friend of Asay and often used Rushville as a base for recruiting Lakota performers for Buffalo Bill's Wild West.</div>
-
-   <div class="note">Note 5: "Beckert" is likely misspelled and should be Theo Heckart.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Buffalo Bill's Wild West performed in White River Junction, Vermont, on July 23, 1895.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: MacTagues Hotel: James Hugh McTague (1858-1926), the owner of a catering service in Omaha, Nebraska, who opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: Anson Higby (b.1862), a banker in Deadwood, South Dakota, who in 1893 partnered with Mr. C. H. Grinnell (later Mayor of Sheridan), J. R. Phelan, George T. Beck to form the Sheridan Fuel Company on lands approximately four miles north of Sheridan, Wyoming. This area soon became a thriving company-owned mining camp known as Higby. Higby became president of the Basin State Bank in Basin, Wyoming, as well as mayor and baseball coach of the town. He was secretary for the Wyoming State Fair board for about five years beginning in 1913. Higby was elected to the board of directors for several emerging oil-gas companies, including the Flat Top Oil &amp; Gas Company, the Emery Oil Company, and the Glenhurst Company, and he worked for the Midwest Refining Company, Casper, Wyoming.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation in South Dakota, but lost his license in 1891 for selling alcohol on the reservation. He moved his business to nearby Rushville, Nebraska, where he continued to supply goods to Indian customers. William F. Cody was a friend of Asay and often used Rushville as a base for recruiting Lakota performers for Buffalo Bill's Wild West.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 5: "Beckert" is likely misspelled and should be Theo Heckart.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -87,12 +87,18 @@
    </div>
 
 
-
-   <div class="note">Note 1: In 1857, at the age of 11, Cody began working as a wagon loader and later became a driver for Russell, Majors &amp; Waddell, the company which held the freighting contract for the Utah expedition, under the direction of Albert Sidney Johnston.</div>
-
-   <div class="note">Note 2: Grand Duke Michael Nikolaevich (Nicolaievich) of Russia (1832-1909), son of Tsar Nicholas I of Russia (1796-1855), and brother to Alexander II of Russia (1818-1881).</div>
-
-   <div class="note">Note 3: The Princess of Wales was Princess Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) and later Queen Alexander, consort to Edward VII, King of Great Britain, 1844-1925.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: In 1857, at the age of 11, Cody began working as a wagon loader and later became a driver for Russell, Majors &amp; Waddell, the company which held the freighting contract for the Utah expedition, under the direction of Albert Sidney Johnston.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Grand Duke Michael Nikolaevich (Nicolaievich) of Russia (1832-1909), son of Tsar Nicholas I of Russia (1796-1855), and brother to Alexander II of Russia (1818-1881).<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: The Princess of Wales was Princess Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) and later Queen Alexander, consort to Edward VII, King of Great Britain, 1844-1925.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

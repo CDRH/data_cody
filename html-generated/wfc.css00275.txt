@@ -26,7 +26,8 @@
 
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rowley.c"/>Clarence</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/rowley.c">Clarence</a>
+         </span>
       </span>
 
 
@@ -77,17 +78,28 @@ Mass.
    </div>
 
 
-
-
-   <div class="note">Note 1: The address on the stationery William F. Cody used to write this letter is that of his sister, May Cody Bradford Decker. Cody died at his sister's home in 1917.</div>
-
-   <div class="note">Note 2: "H. B. Cifford" is Henry B. Clifford (1859-1915), an experienced mining executive whose company had numerous mining claims in Colorado and other western states. Clifford is known to have corresponded with the inventor Thomas A. Edison (1847-1931) regarding ore-milling technologies and equipment.</div>
-
-   <div class="note">Note 3: Cody refers to mining ventures near Tucson, Arizona, co-owned with <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/dyer.d"/>Daniel Burns Dyer</span>. In 1912, the partners realized that the earnings from their mines were unlikely to recoup their initial investments. Dyer died soon thereafter, and Cody tried without success to find a buyer for the mines.</div>
-
-   <div class="note">Note 4: The "estate" mentioned here is that of Cody's business partner, Daniel Burns Dyer, who died in 1912.</div>
-
-   <div class="note">Note 5: Cody refers to the final closure of Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East in Denver on July 22, 1913. The local sheriff seized and sold the show's assets, ostensibly to satisfy debts owed to a printing company. As Cody indicates, Lillie went to his home in Pawnee, Oklahoma after the seizure.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: The address on the stationery William F. Cody used to write this letter is that of his sister, May Cody Bradford Decker. Cody died at his sister's home in 1917.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "H. B. Cifford" is Henry B. Clifford (1859-1915), an experienced mining executive whose company had numerous mining claims in Colorado and other western states. Clifford is known to have corresponded with the inventor Thomas A. Edison (1847-1931) regarding ore-milling technologies and equipment.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Cody refers to mining ventures near Tucson, Arizona, co-owned with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/dyer.d">Daniel Burns Dyer</a>
+         </span>. In 1912, the partners realized that the earnings from their mines were unlikely to recoup their initial investments. Dyer died soon thereafter, and Cody tried without success to find a buyer for the mines.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: The "estate" mentioned here is that of Cody's business partner, Daniel Burns Dyer, who died in 1912.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Cody refers to the final closure of Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East in Denver on July 22, 1913. The local sheriff seized and sold the show's assets, ostensibly to satisfy debts owed to a printing company. As Cody indicates, Lillie went to his home in Pawnee, Oklahoma after the seizure.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

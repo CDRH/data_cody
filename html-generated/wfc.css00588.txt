@@ -34,7 +34,8 @@
 
 
       <span class="ab"> To  <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Geo T Beck</a>
+         </span>
       </span>
 
 
@@ -43,7 +44,8 @@
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/kelsey.f"/>Kelsey</span> wires when can he have balance- Answer Philadelphia.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/kelsey.f">Kelsey</a>
+         </span> wires when can he have balance- Answer Philadelphia.</p>
 
 
       <span class="closer">
@@ -53,10 +55,14 @@
 
 
 
-
-
-   <div class="note">Note 1: Telegram is handwritten by clerk or William F. Cody assignee.</div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1902 as determined by the Routes List: Buffalo Bill's Wild West performed in Philadelphia, Pennsylvania, May 12-17, 1902.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1902 as determined by the Routes List: Buffalo Bill's Wild West performed in Philadelphia, Pennsylvania, May 12-17, 1902.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

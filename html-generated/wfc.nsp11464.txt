@@ -24,7 +24,8 @@
       <h3>THE OPENING DAY.</h3>
 
       <p>Well, Nottingham has been to the Wild West, and found it good. They went in thousands—six or seven in the afternoon, and as many or more in the evening—we did not count them. Buffalo Bill has said the English are apt to think American life is not picturesque. He has, therefore, for our special behoof—and a little on his own and that of his partner, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Mr. Nate Salsbury</span> — undertaken to show us some of its most picturesque aspects. It is true, however, that Kicking Bull and his colleagues, in their vermilion and ocbre and eagles' plumes, would be as strange phenomena in New York Broadway as on Long-row; but for all that the exhibition is racy of the American soil. We feel a debt of gratitude to Colonel Cody for originating his magnificent enterprise, and for bringing his show to our doors. Englishmen can imagine American cities. They have their own. But we needed to be shown the red man and the cowboys of Colorado to realise them, and Buffalo Bill has enabled us to complete a picturesque mental vision. His name is now a world-wide fame, and through him we conjure up scenes of prairie and frontier life such as novelists have alternately painted in glowing and romantic, or weird, fantastic, and tragic colours. For it may truthfully and sincerely be said that the Wild West Show realises to the full all the anticipations which may have been formed. With as much fidelity as it is possible to simulate are portrayed with panoramic regularity the stirring episodes in which the veteran, but still lithe and eagle-eyed man, who sits so gracefully on his grey horse, has taken part. Colonel Cody has "been there," and so have all who take part in a performance that for dramatic and peculiar interest pales all displays that have taken place here previously.
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Mr. Nate Salsbury</a>
+         </span> — undertaken to show us some of its most picturesque aspects. It is true, however, that Kicking Bull and his colleagues, in their vermilion and ocbre and eagles' plumes, would be as strange phenomena in New York Broadway as on Long-row; but for all that the exhibition is racy of the American soil. We feel a debt of gratitude to Colonel Cody for originating his magnificent enterprise, and for bringing his show to our doors. Englishmen can imagine American cities. They have their own. But we needed to be shown the red man and the cowboys of Colorado to realise them, and Buffalo Bill has enabled us to complete a picturesque mental vision. His name is now a world-wide fame, and through him we conjure up scenes of prairie and frontier life such as novelists have alternately painted in glowing and romantic, or weird, fantastic, and tragic colours. For it may truthfully and sincerely be said that the Wild West Show realises to the full all the anticipations which may have been formed. With as much fidelity as it is possible to simulate are portrayed with panoramic regularity the stirring episodes in which the veteran, but still lithe and eagle-eyed man, who sits so gracefully on his grey horse, has taken part. Colonel Cody has "been there," and so have all who take part in a performance that for dramatic and peculiar interest pales all displays that have taken place here previously.
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -51,10 +52,14 @@ The "Wild West," as we have said, has its own peculiar interest apart from the e
          </span>
 
 England will realise that after all civilisation has "marched in Buffalo Bill's train." Colonel Cody made his own history years back; he is perhaps engaged now in commencing a new one for the Sioux. Moralising, however, is not particularly profitable. And it is necessary besides to say something as to the details of the performance. Quite apart from the absorbing features incidental to a rapidly-disappearing state of society, there are attractions of a nature which appeal strongly to all who admire activity, developed athleticism, and phenomenal skill. The gun and pistol shooting at the show is as admirable as it is extraordinary. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a"/>Miss Annie Oakley</span>—"little sure shot," was the graceful title bestowed on her by an old Indian chief—performs marvels of accurate shooting with shot-gun and rifle at glass balls thrown up into the air; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/daly.c"/>Claude Daly</span>, a shot with a very remarkable development of muscle, does most extraordinary feats with revolver and pistol. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/baker.l"/>"Johnny" Baker</span> might apparently be matched to stand on his head and shoot a match with <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/carver.w"/>Carver</span>. "Johnny" indeed seems really to prefer the upside down position. Then Colonel Cody himself, riding full speed round the ring on horseback, discharges his Winchester magazine rifle with as much rapidity as one can count, hitting anything and everything that an attendant riding ahead or behind him can throw into the air. Ordinary circus-riding pales into utter insignificance before the Centaur-like feats of the "bronco-busters," while as a specimen of real aboriginal skill the clever arrow-throwing by Indians was appreciated by everybody.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Annie Oakley</a>
+         </span>—"little sure shot," was the graceful title bestowed on her by an old Indian chief—performs marvels of accurate shooting with shot-gun and rifle at glass balls thrown up into the air; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/daly.c">Claude Daly</a>
+         </span>, a shot with a very remarkable development of muscle, does most extraordinary feats with revolver and pistol. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/baker.l">"Johnny" Baker</a>
+         </span> might apparently be matched to stand on his head and shoot a match with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/carver.w">Carver</a>
+         </span>. "Johnny" indeed seems really to prefer the upside down position. Then Colonel Cody himself, riding full speed round the ring on horseback, discharges his Winchester magazine rifle with as much rapidity as one can count, hitting anything and everything that an attendant riding ahead or behind him can throw into the air. Ordinary circus-riding pales into utter insignificance before the Centaur-like feats of the "bronco-busters," while as a specimen of real aboriginal skill the clever arrow-throwing by Indians was appreciated by everybody.</p>
 
       <p>It is a well-diversified programme, and the attractions follow one another in quick succession. The grand processional review with which the show opens is not one of the least interesting features. The sections of individual characters—the Indians figged out in all their splendor, and grouped tribally, the Mexicans and the cowboys—formed pictures of quite an instructive nature. An accident occurred almost at the commencement of the performance in a race between representatives of the three classes noted above. The pony ridden by the Mexican slipped up, and the rider falling was trodden on by the horse of a colleague in the race, the Mexican receiving some injury to his shoulder. The shooting of Miss Annie
 
@@ -85,7 +90,10 @@ will fly into pieces. The "Buffalo hunt" was hardly as lively a picture as might
    </div>
 
 
-
-   <div class="note">Note 1: Wells lights were large kerosene-fueled lamps used to illuminate the performances of Buffalo Bill's Wild West.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Wells lights were large kerosene-fueled lamps used to illuminate the performances of Buffalo Bill's Wild West.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

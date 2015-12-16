@@ -29,13 +29,15 @@
       <p>The open proceedings were begun at half-past three o'clock by a performance of "Hail, Columbia," by the Grenadier Guards band: after which Archdeacon Farrar, of Westminster, led the company in prayer—"That the Almighty would bless this undertaking, and make it tend to the larger distribution among men of Heaven's gifts for the use of this life, so that man's discoveries and inventions, arts, and sciences, might minister to His service, and that the time might be hastened when war should be no more, and all nations clasp hands in His faith and fear."</p>
 	
       <p>The band then played "God Save the Queen," after which <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gower.r"/>Lord Ronald Gower</span>, on behalf of the English council, delivered an address of welcome to the American guests. This council, he said, consisted of about one thousand leading Englishmen in all walks of life, animated by the common purpose of showing a strong regard and affection for America and Americans. He expressed the hope that this Exhibition might be a new bond of amity between England and America.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/gower.r">Lord Ronald Gower</a>
+         </span>, on behalf of the English council, delivered an address of welcome to the American guests. This council, he said, consisted of about one thousand leading Englishmen in all walks of life, animated by the common purpose of showing a strong regard and affection for America and Americans. He expressed the hope that this Exhibition might be a new bond of amity between England and America.</p>
 	
       <p>The PRESIDENT of the EXHIBITION (Colonel Henry Russell,<a href="#n03" class="internal_link">3</a>) returned thanks for this welcome, and for the encouragement given to the Americans in their efforts to make a fair show of Yankee industries.</p>
 	
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j"/>Mr. JOHN R. WHITLEY</span> (Director-General of the Exhibition) explained that it had been organised and developed solely by private initiative. It illustrated, he said, the aims and conditions of that bright and active, that incalculably wealthy and varied section of human life which develops its resistless energies and practically inexhaustible resources from the Atlantic to the Pacific Oceans, from Lake Superior to the Gulf of Mexico. He believed that both nations would gain by fuller insight into the character and products of each other. The Exhibition was a natural sequence of the great gathering held in Philadelphia in 1876 to celebrate and commemorate the centennial year of American independence. They were there assembled, subjects of the British Empire and citizens of the United States, to deal the final death-blow to all the suggestions that any remnant of ill-will or jealously can continue to linger on between the two great nations of the English-speaking world.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. JOHN R. WHITLEY</a>
+         </span> (Director-General of the Exhibition) explained that it had been organised and developed solely by private initiative. It illustrated, he said, the aims and conditions of that bright and active, that incalculably wealthy and varied section of human life which develops its resistless energies and practically inexhaustible resources from the Atlantic to the Pacific Oceans, from Lake Superior to the Gulf of Mexico. He believed that both nations would gain by fuller insight into the character and products of each other. The Exhibition was a natural sequence of the great gathering held in Philadelphia in 1876 to celebrate and commemorate the centennial year of American independence. They were there assembled, subjects of the British Empire and citizens of the United States, to deal the final death-blow to all the suggestions that any remnant of ill-will or jealously can continue to linger on between the two great nations of the English-speaking world.</p>
 	
       <p>"The Star Spangled Banner" and "Rule Britannia" having been sung by Mdlle. Lilian Nordica<a href="#n04" class="internal_link">4</a> amid great enthusiasm.</p>
 	
@@ -47,13 +49,22 @@
    </div>
 
 
-
-   <div class="note">Note 1: Mr. F. Cooper is not identifed.</div>
-
-   <div class="note">Note 2: James Rowland Ward (1848-1912), a renowned British taxidermist and author/publisher of natural history and big-game hunting literature.</div>
-
-   <div class="note">Note 3: Henry Sturgis Russell (1838-1905), a Civil War general who became president of the American Exhibition.</div>
-
-   <div class="note">Note 4: Lillian (Lillian Allen Norton) Nordica (1857-1914), an American dramatic operatic soprano with a major international stage career.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Mr. F. Cooper is not identifed.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: James Rowland Ward (1848-1912), a renowned British taxidermist and author/publisher of natural history and big-game hunting literature.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Henry Sturgis Russell (1838-1905), a Civil War general who became president of the American Exhibition.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Lillian (Lillian Allen Norton) Nordica (1857-1914), an American dramatic operatic soprano with a major international stage career.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

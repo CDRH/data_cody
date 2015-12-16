@@ -28,7 +28,8 @@
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>, Trustee,
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Mr. Bronson Rumsey</a>
+      </span>, Trustee,
 
 696 Ellicott Square,
 

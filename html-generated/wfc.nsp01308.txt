@@ -43,15 +43,24 @@
    </div>
 
 
-
-   <div class="note">Note 1: D. W. Shoemaker's name appears under the heading of Wild West staff in the Souvenir Album of the visit of <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Her Majesty Queen Victoria</span> to the American Exhibition, London, 1887 (page 22).</div> 
-
-   <div class="note">Note 2: Marve Beardsley, who appeared in the original Carver-Cody exhibition in 1883 and again in the 1887 exhibition (and possibly the years between); Beardsley and Bronco Charley Miller rode horses in a race against bicyclers in November 1887 in London, ultimately winning the six-day race by two miles and two laps. </div>
-
-   <div class="note">Note 3: Jim Mitchell was a cowboy with Buffalo Bill's Wild West during the years 1883, 1886, 1887, 1888, and 1889.</div>
-
-   <div class="note">Note 4: Hulbert Harrington Warner (1842-1923) made his fortune from the sales of patent medicine, including Dr. Warner's Safe Kidney Liver Cure.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: D. W. Shoemaker's name appears under the heading of Wild West staff in the Souvenir Album of the visit of <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Her Majesty Queen Victoria</a>
+         </span> to the American Exhibition, London, 1887 (page 22).<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: Marve Beardsley, who appeared in the original Carver-Cody exhibition in 1883 and again in the 1887 exhibition (and possibly the years between); Beardsley and Bronco Charley Miller rode horses in a race against bicyclers in November 1887 in London, ultimately winning the six-day race by two miles and two laps. <a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: Jim Mitchell was a cowboy with Buffalo Bill's Wild West during the years 1883, 1886, 1887, 1888, and 1889.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: Hulbert Harrington Warner (1842-1923) made his fortune from the sales of patent medicine, including Dr. Warner's Safe Kidney Liver Cure.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -68,9 +68,14 @@ Wyo
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Atlanta on October 21, 1901.</div>
-
-   <div class="note">Note 2: Very likely Thomas T. Tynan (1860-1925), who was Wyoming's superintendent of public instruction from 1899 to 1907.  The superintendent of public instruction served as a member of the state board of land commissioners.  Cody's rent for lands leased from the state would be payable to the board.  Tynan later served as mayor of Sheridan, Wyoming, from 1914 to 1915.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Atlanta on October 21, 1901.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Very likely Thomas T. Tynan (1860-1925), who was Wyoming's superintendent of public instruction from 1899 to 1907.  The superintendent of public instruction served as a member of the state board of land commissioners.  Cody's rent for lands leased from the state would be payable to the board.  Tynan later served as mayor of Sheridan, Wyoming, from 1914 to 1915.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

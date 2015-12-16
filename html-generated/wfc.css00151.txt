@@ -26,7 +26,8 @@ Pahaska Tepee.<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>W. A. Richards</span>
+         <a href="http://rosie.unl.edu/cody_archive/doc/">W. A. Richards</a>
+      </span>
 Washington D. C.
 
 
@@ -81,13 +82,22 @@ When I get to Washington. about Nov. 6th.</p>
    </div>
 
 
-
-   <div class="note">Note 1: Pahaska Tepee is the name of a small hotel built by William F. Cody near the east gate of Yellowstone National Park in late 1903.  Since these words appear on stationery associated with the last British tour of Buffalo Bill's Wild West, it is unlikely they were meant as a reference to Cody's latest Wyoming business venture.  More likely, "Pahaska Tepee" was an elegant-sounding stand-in for whatever temporary location the Wild West occupied at a particular time.</div>
-
-   <div class="note">Note 2: Buffalo Bill's Wild West performed in Grantham, England, on September 25, 1903.</div>
-
-   <div class="note">Note 3: William F. Cody's attempt to secure a government concession for transportation services between the town of Cody, Wyoming, and the east gate of Yellowstone National Park did not succeed.  </div>
-
-   <div class="note">Note 4: Theodore Roosevelt was then the President of the United States.  Although Roosevelt did know Cody, it would be an exaggeration to say that the two men were close friends.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Pahaska Tepee is the name of a small hotel built by William F. Cody near the east gate of Yellowstone National Park in late 1903.  Since these words appear on stationery associated with the last British tour of Buffalo Bill's Wild West, it is unlikely they were meant as a reference to Cody's latest Wyoming business venture.  More likely, "Pahaska Tepee" was an elegant-sounding stand-in for whatever temporary location the Wild West occupied at a particular time.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West performed in Grantham, England, on September 25, 1903.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: William F. Cody's attempt to secure a government concession for transportation services between the town of Cody, Wyoming, and the east gate of Yellowstone National Park did not succeed.  <a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Theodore Roosevelt was then the President of the United States.  Although Roosevelt did know Cody, it would be an exaggeration to say that the two men were close friends.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

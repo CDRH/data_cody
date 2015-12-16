@@ -21,12 +21,14 @@
       <div class="milestone line"> </div>
 
       <p>The startling news comes by cable from London, under date of Dec. 30, that <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a"/>Miss Annie Oakley</span>,<a href="#n01" class="internal_link">1</a> the famous lady professional markswoman, has died in Buenos Ayres. The news seems difficult to believe, as only about ten days ago we received Christmas greetings from the little lady, and a communication from her husband, Mr. Frank E. Butler. The last letter received stated that Miss Oakley had returned to England from Germany and France, and was indulging in game shooting in England. At the close of the shooting season she was to proceed to Italy to pass the winter. If the sad news is true, we imagine a sudden development of lung trouble hastened her departure, and she started suddenly for Buenos Ayres.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Annie Oakley</a>
+         </span>,<a href="#n01" class="internal_link">1</a> the famous lady professional markswoman, has died in Buenos Ayres. The news seems difficult to believe, as only about ten days ago we received Christmas greetings from the little lady, and a communication from her husband, Mr. Frank E. Butler. The last letter received stated that Miss Oakley had returned to England from Germany and France, and was indulging in game shooting in England. At the close of the shooting season she was to proceed to Italy to pass the winter. If the sad news is true, we imagine a sudden development of lung trouble hastened her departure, and she started suddenly for Buenos Ayres.</p>
 
       <p>Miss Annie Oakley was born in Woodland, Dack Co., Ohio, August 13, 1866. From her earliest childhood she evinced a taste for shooting, and by the time she was ten years of age she could excel most men in wing shooting, using her brother's musket. Later she secured a gun of her own, and established a great local reputation. This reached the ears of showmen, and she was tempted by flattering offers to appear in public. She exhibited to audiences in Europe and America during the past few years, with different companies. She was married to Mr. Frank E. Butler several years ago, who acted as her manager, but she was still known to the public by her maiden name.</p>
 
       <p>Miss Oakley was a wonderfully skilful equestrienne, and, besides the gun, handled the rifle and pistol with consummate skill. She had a very petite figure, and was unusually quick and graceful in her movements, so much so that whether showing her skill as a horsewoman or with gun or rifle, she never failed to capture her audience. Her shooting career was very interesting. Several years ago she gave an exhibition of her skill to the late <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/sitting.bull"/>Sitting Bull,</span> which so delighted him he is said to have exclaimed "Muzza Caw Ah Pazzo!" (Little Sure Shot), a name which has since clung to her.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/sitting.bull">Sitting Bull,</a>
+         </span> which so delighted him he is said to have exclaimed "Muzza Caw Ah Pazzo!" (Little Sure Shot), a name which has since clung to her.</p>
 
       <p>In April, 1884, she attempted to beat the best record in shooting at balls thrown into the air. She used a .22-calibre Stevens rifle. Dr. Ruth's record of 979 out of a possible thousand stood highest. Miss Oakiey made 943, although she was at a disadvantage.</p>
 
@@ -52,7 +54,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: Clearly, Annie Oakley's death and some of the biographical information are in error as reported.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Clearly, Annie Oakley's death and some of the biographical information are in error as reported.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

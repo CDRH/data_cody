@@ -17,12 +17,18 @@
       </span>
 
       <p>FOR VALUE RECEIVED, We, hereby sell, transfer, assign and convey to E. B. Allan<a href="#n01" class="internal_link">1</a> all of our right, title and interest of any nature whatsoever in and to a one-fourteenth interest in the real estate upon which is located the Town-site of the Town of Cody, Wyoming, and any adjoining land included in a certain agreement between the Lincoln Land Company of Lincoln, Nebraska, and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, Trustee of Buffalo, New York, bearing date the 24th day of September, A. D. 1901, and meaning hereby to convey the entire interest of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>H. C. Alger</span>, deceased, as represented by a certain trust agreement between, Wm. F. Cody, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Nathan Salsbury</span>, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>George Bleistein</span>, Horace C. Alger, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H. Montgomery Gerrans</span> and Bronson Rumsey as Trustee, bearing the date of 25th day of July, A. D. 1901.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+         </span>, Trustee of Buffalo, New York, bearing date the 24th day of September, A. D. 1901, and meaning hereby to convey the entire interest of <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">H. C. Alger</a>
+         </span>, deceased, as represented by a certain trust agreement between, Wm. F. Cody, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George T. Beck</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Nathan Salsbury</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">George Bleistein</a>
+         </span>, Horace C. Alger, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">H. Montgomery Gerrans</a>
+         </span> and Bronson Rumsey as Trustee, bearing the date of 25th day of July, A. D. 1901.</p>
 
       <p>In witness whereof we hereunto set our hands and seals this  third day of  January 1911</p>
 
@@ -57,5 +63,10 @@ Notary Public.
    </div>
 
 
-   <div class="note">Note 1: Erle B. Allan (1871-1952) worked his way through the ranks of the Bank of Commerce, Sheridan, Wyoming, to become the bank's president in 1930. Allan purchased the estate of H. C. Alger which included holdings in Cody, Wyoming. </div>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Erle B. Allan (1871-1952) worked his way through the ranks of the Bank of Commerce, Sheridan, Wyoming, to become the bank's president in 1930. Allan purchased the estate of H. C. Alger which included holdings in Cody, Wyoming. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

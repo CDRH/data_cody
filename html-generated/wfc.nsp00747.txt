@@ -30,8 +30,10 @@
       <div class="milestone line"> </div>
 
       <p>LONDON, April 30.—Mr. and Mrs. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w"/>Gladstone</span>, yesterday afternoon, in response to the invitation of Buffalo Bill visited the grounds of the Wild West entertainment. A number of other prominent guests were present, among them being Consul General Waller<a href="#n01" class="internal_link">1</a>, the Marqis of Lorne<a href="#n02" class="internal_link">2</a> and Colonel Hughes Hallett<a href="#n03" class="internal_link">3</a>, M. P. Mr. Gladstone was presented to <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Red Shirt</span> and had a brief interview with him through an interpreter. The ex-premier asked the Indian if he noticed any difference between the English and Americans or if he regarded them as brothers. Red Shirt replied that he "didn't notice much about the brotherhood." The 1500 workmen employed at the exhibition grounds cheered for Mr. Gladstone and home rule. Mr. Gladstone and his wife<a href="#n04" class="internal_link">4</a> bowed repeatedly in answer to the salutations.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w">Gladstone</a>
+         </span>, yesterday afternoon, in response to the invitation of Buffalo Bill visited the grounds of the Wild West entertainment. A number of other prominent guests were present, among them being Consul General Waller<a href="#n01" class="internal_link">1</a>, the Marqis of Lorne<a href="#n02" class="internal_link">2</a> and Colonel Hughes Hallett<a href="#n03" class="internal_link">3</a>, M. P. Mr. Gladstone was presented to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
+         </span> and had a brief interview with him through an interpreter. The ex-premier asked the Indian if he noticed any difference between the English and Americans or if he regarded them as brothers. Red Shirt replied that he "didn't notice much about the brotherhood." The 1500 workmen employed at the exhibition grounds cheered for Mr. Gladstone and home rule. Mr. Gladstone and his wife<a href="#n04" class="internal_link">4</a> bowed repeatedly in answer to the salutations.</p>
 
       <p>Buffalo Bill's troupe gave a brilliant exhibition of horsemanship, which elicited the wildest applause from the guests present. At the lunch subsequently given by Mr. Cody to his guests,  Mr. Gladstone made a speech. He said that it was impossible for him not to express great interest in the spectacle which had that day been presented to him. The institution and progress of America had always been to him a subject of great interest ever since the time when many years ago he had studied the life of Washington. He had then become aware of two things: first, of the magnitude of the destiny reserved for the people of America; secondly, that the period of the birth of the American states was of more surpassing interest than any other which it was possible to study. Whenever any young man desirous of studying political life consulted him as to the course of study which he should pursue in the field of history it had been in his invariable practice to refer him to the early history of America. Now, the destinies of the latter were assuming such great dimensions that the prospects of what was contained in her future became almost too overwhelming for thought. But with progress came responsibilities, and the stronger and greater the Americans became as a people, the more it would be incumbent upon them to set the world an example to be followed. He could not in justice to his subject lay before them impressions of all he had seen that day. They had surprised the Englishman in feats of horsemanship, although Englishmen believed they had surpassed all other nations in that particular sport, and he hoped that their exhibition would stir up British emulation, and lend to further developments of what he might call the noble art.</p>
 
@@ -40,13 +42,22 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: Thomas MacDonald Waller (1840-1924), Speaker of the Connecticut House of Representatives in 1876, was United States Consul-General to London from 1885 to 1889.</div>
-
-   <div class="note">Note 2: Marquis of Lorne was John George Edward Henry Douglas Sutherland Campbell, 9th Duke of Argyll; he held the title Marquess of Lorne from 1847 to 1900.</div> 
-
-   <div class="note">Note 3: Francis Charles Hughes-Hallett (1838-1903), Member of British Parliament from 1885 to 1889.</div>
-
-   <div class="note">Note 4: Prime Minister Gladstone's wife was Catherine Glynne Gladstone (1812-1900).</div>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Thomas MacDonald Waller (1840-1924), Speaker of the Connecticut House of Representatives in 1876, was United States Consul-General to London from 1885 to 1889.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Marquis of Lorne was John George Edward Henry Douglas Sutherland Campbell, 9th Duke of Argyll; he held the title Marquess of Lorne from 1847 to 1900.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Francis Charles Hughes-Hallett (1838-1903), Member of British Parliament from 1885 to 1889.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Prime Minister Gladstone's wife was Catherine Glynne Gladstone (1812-1900).<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

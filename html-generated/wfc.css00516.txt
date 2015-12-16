@@ -23,7 +23,8 @@
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span> you told me you would be at Cody to commence work by the 1<u>st</u> of April. God only know where you are and if you will ever get to Cody and if you will get to work when you do get there. If water <a rel="tooltip" class="sic" title="ain't​ &#xA;    ">aint</a> down to town early we are ruined.</p> 
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span> you told me you would be at Cody to commence work by the 1<u>st</u> of April. God only know where you are and if you will ever get to Cody and if you will get to work when you do get there. If water <a rel="tooltip" class="sic" title="ain't​ &#xA;    ">aint</a> down to town early we are ruined.</p> 
 
       <p>George if you don't try to do something this dam ditch will drive me crazy. Why won't you for once get down to work &amp; see that the men and or you work.</p>
 
@@ -37,9 +38,14 @@
    </div>
 
 
-
-   <div class="note">Note 1: Letter is inscribed on lined notepaper by someone other than Cody, perhaps dictated by Cody to an employee. No salutation is inscribed, but it is written to George Beck.</div>
-
-   <div class="note">Note 2: Cody, Wyoming.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Letter is inscribed on lined notepaper by someone other than Cody, perhaps dictated by Cody to an employee. No salutation is inscribed, but it is written to George Beck.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody, Wyoming.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

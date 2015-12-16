@@ -28,7 +28,8 @@ Apr. 20th<a href="#n02" class="internal_link">2</a>
 
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
 
@@ -48,15 +49,23 @@ Apr. 20th<a href="#n02" class="internal_link">2</a>
    </div>
 
 
-
-
-   <div class="note">Note 1:  Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East performed in Baltimore, Maryland, April 19-20, 1911. </div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1911.</div>
-
-   <div class="note">Note 3: Robert "Pony Bob" Haslam (1840-1912), was born in London, England, and died in Chicago, Illinois; Haslam is famous for having made the longest trip in Pony Express history: 120 miles in eight hours and twenty minutes. Haslam died at the age of 72 in poverty after suffering a stroke.</div>
-
-   <div class="note">Note 4: President Howard Taft (1857-1930).</div>
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1:  Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East performed in Baltimore, Maryland, April 19-20, 1911. <a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: The year is not inscribed by Cody but is 1911.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: Robert "Pony Bob" Haslam (1840-1912), was born in London, England, and died in Chicago, Illinois; Haslam is famous for having made the longest trip in Pony Express history: 120 miles in eight hours and twenty minutes. Haslam died at the age of 72 in poverty after suffering a stroke.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: President Howard Taft (1857-1930).<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 
 </div>

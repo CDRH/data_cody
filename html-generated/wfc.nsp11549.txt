@@ -30,13 +30,17 @@
       <p>Conversation turned upon the Wild West Show, and the interviewer expressed some curiosity to know what induced Colonel Cody to enter upon so great an enterprise.</p>
 
       <p>"When I was acting as a Colonel in the National Guard of the State of Nebraska," he said, "my income was scarcely proof against pecuniary embarrassments, as my domestic establishment went on increasing, and I was obliged to consider some means of augmenting my revenue. The result of my cogitations was that I determined to try my hand at representing the scenes of Wild West life, since the introduction of the white man to America. When I gave my first performance, which resembled the present only in kind, and by no means in degree, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/irving.h"/>Mr Henry Irving</span> and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/terry.e"/>Miss Ellen Terry</span> favoured me with their patronage. After the performance, I enquired at Mr Irving what he thought of my visiting England with my show, and the great tragedian said the project would be an unqualified success. I asked him if I should equip the company with fine new dresses, tinselled and spangled gloriously, but Mr Irving said, 'No; come as you are, and Englishmen will like your show all the better for the genuineness of it.'" Then, with a smile, the Colonel added, "I came, I saw, I conquered."</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/irving.h">Mr Henry Irving</a>
+         </span> and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/terry.e">Miss Ellen Terry</a>
+         </span> favoured me with their patronage. After the performance, I enquired at Mr Irving what he thought of my visiting England with my show, and the great tragedian said the project would be an unqualified success. I asked him if I should equip the company with fine new dresses, tinselled and spangled gloriously, but Mr Irving said, 'No; come as you are, and Englishmen will like your show all the better for the genuineness of it.'" Then, with a smile, the Colonel added, "I came, I saw, I conquered."</p>
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/burke.j"/>Major Burke</span>, general manager, and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g"/>Mr Crager</span>, interpreter on behalf of the Sioux Indian members of the staff, having joined the party, the interviewer proceeded.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">Major Burke</a>
+         </span>, general manager, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g">Mr Crager</a>
+         </span>, interpreter on behalf of the Sioux Indian members of the staff, having joined the party, the interviewer proceeded.</p>
 
       <p>This is, I believe, your first visit to Scotland, Colonel. I hope your impressions of it are such as to constitute you an admirer of the country for life.—Unquestionably that result has been effected, sir. My visit to Glasgow has so far been a splendid success. We have been here six weeks now, and in all probability will continue some weeks after New Year.</p>
 
@@ -58,7 +62,8 @@
          <p>There is not, I make bold to say, even on my limited acquaintance with her charms, any city in the world like your capital. I was overwhelmed with the spectacle from the Calton Hill, and must treat myself to another view before leaving Scotland.</p>
 
          <p>When you appeared before the <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Queen</span>, did Her Majesty evince great interest in your show? —Oh, yes, and stayed much longer than she intended. Before going, she favoured the Indians with a special visit behind the stage, and conversed with them by Mr Crager, the interpreter, displaying great interest in their young children, so that the Indians have always spoken of her since as the Great Mother, just as they call the President of America the Great Father.</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen</a>
+            </span>, did Her Majesty evince great interest in your show? —Oh, yes, and stayed much longer than she intended. Before going, she favoured the Indians with a special visit behind the stage, and conversed with them by Mr Crager, the interpreter, displaying great interest in their young children, so that the Indians have always spoken of her since as the Great Mother, just as they call the President of America the Great Father.</p>
 
          <p>By the way, Colonel, do I see the Prince of Wales' feather represented on your scarf-pin?—Yes, that was a gift from His Highness some time ago, and I wear it constantly as one of my proudest complimental possessions, constituting as it does an unmistakeable mark of Royal favour.</p>
 
@@ -74,11 +79,15 @@
 
          <p>
             <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/noneck"/>No Neck</span>, chief of the Ogallallas Sioux, and <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/short.bull"/>Short Bull</span>, high priest of the recent Messiah craze among the Indians, were introduced, and other members of the troupe were <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/sitting.bull"/>Sitting Bull</span>,<a href="#n02" class="internal_link">2</a> 
+               <a href="http://rosie.unl.edu/cody_archive/doc/noneck">No Neck</a>
+            </span>, chief of the Ogallallas Sioux, and <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/short.bull">Short Bull</a>
+            </span>, high priest of the recent Messiah craze among the Indians, were introduced, and other members of the troupe were <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/sitting.bull">Sitting Bull</a>
+            </span>,<a href="#n02" class="internal_link">2</a> 
             <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/kicking.bear"/>Kicking Bear</span>, Scatter, Revenge, Bear Lays Down, and so forth. There are now about 260,000 Indians left in America, and, said Major Burke, "this number is increasing annually, and was likely to go on increasing when it is borne in mind that every encouragement is supplied them by the American Government, who have adopted them as the subjects of their peculiar care."</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/kicking.bear">Kicking Bear</a>
+            </span>, Scatter, Revenge, Bear Lays Down, and so forth. There are now about 260,000 Indians left in America, and, said Major Burke, "this number is increasing annually, and was likely to go on increasing when it is borne in mind that every encouragement is supplied them by the American Government, who have adopted them as the subjects of their peculiar care."</p>
       </div>
 
 
@@ -87,10 +96,14 @@
    </div>
 
 
-
-   <div class="note">Note 1: "Singhalese" people were originally from North India and later inhabited the island of Sri Lanka.</div>
-
-   <div class="note">Note 2: Sitting Bull appeared with Buffalo Bill's Wild West for only four months during the 1885 season. Sitting Bull was killed by Indian reservation police at Standing Rock reservation (South Dakota) December 15, 1890.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: "Singhalese" people were originally from North India and later inhabited the island of Sri Lanka.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Sitting Bull appeared with Buffalo Bill's Wild West for only four months during the 1885 season. Sitting Bull was killed by Indian reservation police at Standing Rock reservation (South Dakota) December 15, 1890.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

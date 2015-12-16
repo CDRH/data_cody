@@ -69,7 +69,10 @@ ECLIPSING THE GAIETY OF NATIONS.</p>
    </div>
 
 
-
-   <div class="note">Note 1: Joseph Chamberlain (1836-1914), a British statesman, renowned orator, and liberal politician, was Secretary of State for the Colonies from 1895 to 1903.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Joseph Chamberlain (1836-1914), a British statesman, renowned orator, and liberal politician, was Secretary of State for the Colonies from 1895 to 1903.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

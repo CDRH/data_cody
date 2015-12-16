@@ -22,7 +22,8 @@
       <div class="milestone line"> </div>
       <h3>
          <div class="center">The <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Queen's</span> Crown Jewels and the French Collection—The American Exhibition—The Social Success of Buffalo Bill.</div>
+               <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen's</a>
+            </span> Crown Jewels and the French Collection—The American Exhibition—The Social Success of Buffalo Bill.</div>
       </h3>
 
       <div class="">
@@ -50,7 +51,8 @@
 
          <p>
             <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j"/>Mr. John Robinson Whitley</span>,<a href="#n06" class="internal_link">6</a> director general, wears the aspect of a general in command of an army doing a forced march in the enemy's country. But a short time will enable every one connected with the work to congratulate themselves on the completion of one of the most gigantic enterprises ever undertaken by private persons.</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. John Robinson Whitley</a>
+            </span>,<a href="#n06" class="internal_link">6</a> director general, wears the aspect of a general in command of an army doing a forced march in the enemy's country. But a short time will enable every one connected with the work to congratulate themselves on the completion of one of the most gigantic enterprises ever undertaken by private persons.</p>
       </div>
 
       <div class="">
@@ -62,7 +64,8 @@
          <p>Buffalo Bill is making a great social success, and as the people have found out that in America we produce great hunters and Indian fighters who are refined and polished gentlemen, he is loaded down with invitations, but very few of which he is able to accept.</p>
 
          <p>The Indians are employing the time before opening in visiting theatres and places of interest, and attract a prodigious amount of attention wherever they appear. <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Red Shirt</span>, the head Sioux Chief, who closely resembles Napoleon Bonaparte--the striking likeness being everywhere remarked--is also a bit of a lion. He told me, through his interpreter, that he traveled miles and miles through land and cities until he came to water, and then he sailed and sailed until he thought there was no more land, only water, but he had found a land with more people in it than he left behind him.</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
+            </span>, the head Sioux Chief, who closely resembles Napoleon Bonaparte--the striking likeness being everywhere remarked--is also a bit of a lion. He told me, through his interpreter, that he traveled miles and miles through land and cities until he came to water, and then he sailed and sailed until he thought there was no more land, only water, but he had found a land with more people in it than he left behind him.</p>
 
          <p>They have been much taken with the ballet dancing at the Alhambra and Drury Lane, so I asked him what he thought of the girls. He said, "Oh! I am a great friend to all women," upon which I shook hands warmly with him, and evoked one of his smiles, which are as pleasing as they are rare Asked how many wives he had, he replied that he had a right to all he wanted, but that one wife was enough to keep any man poor.</p>
       </div>
@@ -74,7 +77,8 @@
 
          <p>
             <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w"/>The Right Hon. Mr Gladstone</span> and Mrs. Gladstone, Irving, Toole, Lady Bective, the Dowager Countess of Downshire, Col. Hughes Hallett, Lord Ronald Gower and Capt. Carl H. Thimm have been among the many visitors to the exhibition this week.</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w">The Right Hon. Mr Gladstone</a>
+            </span> and Mrs. Gladstone, Irving, Toole, Lady Bective, the Dowager Countess of Downshire, Col. Hughes Hallett, Lord Ronald Gower and Capt. Carl H. Thimm have been among the many visitors to the exhibition this week.</p>
 
          <p>The opening will probably attract the largest crowd ever seen in one place here. The members of the Press Club, Savage Club and Garrick Club are coming in a body; the Council of Welcome, numbering 600, and a host of other distinguished persons.</p>
       </div>
@@ -95,17 +99,30 @@
    </div>
 
 
-
-   <div class="note">Note 1: Queen Victoria's Golden Jubilee (50 years of reign) was to be officially celebrated on June 20-21, 1887.</div>
-
-   <div class="note">Note 2: Rudolf, Crown Prince of Austria (1858-1889); Stephanie, Princess of Belgium (1864-1945); Léopold II, King of the Belgians (1835-1909); and Kapiolani, Queen of Hawaii (1834-1899).</div>
-
-   <div class="note">Note 3: Edward, Prince of Wales, 1330-1376, was also known as the Black Prince.</div>
-
-   <div class="note">Note 4: The American Exhibition did in fact open on May 9th, 1887.</div>
-
-   <div class="note">Note 5: Among the directors of the American Exhibition were Henry S. Russell of Boston (president of the Exhibition) and Burnet Landreth of Philadelphia and Lord Ronald Gower of London (vice presidents).</div>
-
-   <div class="note">Note 6: John Robinson Whitley (1843-1922) was founder of Earl's Court Exhibition Centre and Director-General and Chairman of the United States Executive Council for the American Exhibition, which opened in London May 9, 1887.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Queen Victoria's Golden Jubilee (50 years of reign) was to be officially celebrated on June 20-21, 1887.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Rudolf, Crown Prince of Austria (1858-1889); Stephanie, Princess of Belgium (1864-1945); Léopold II, King of the Belgians (1835-1909); and Kapiolani, Queen of Hawaii (1834-1899).<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Edward, Prince of Wales, 1330-1376, was also known as the Black Prince.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: The American Exhibition did in fact open on May 9th, 1887.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Among the directors of the American Exhibition were Henry S. Russell of Boston (president of the Exhibition) and Burnet Landreth of Philadelphia and Lord Ronald Gower of London (vice presidents).<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: John Robinson Whitley (1843-1922) was founder of Earl's Court Exhibition Centre and Director-General and Chairman of the United States Executive Council for the American Exhibition, which opened in London May 9, 1887.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -25,7 +25,8 @@ July 24th/02<a href="#n01" class="internal_link">1</a>
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Mr Woods</span>.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Mr Woods</a>
+         </span>.</span>
 
 
       <p>Your favor with blue print of fire place <a rel="tooltip" class="abbr" title="received​ &#xA;    ">recd</a>​
@@ -76,17 +77,28 @@ July 24th/02<a href="#n01" class="internal_link">1</a>
    </div>
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Rice Lake, Wisconsin, on July 24, 1902.</div>
-
-   <div class="note">Note 2: Cody refers to an elaborate fireplace and to a buffalo head carving for the main bar at the Irma Hotel, then under construction in Cody, Wyoming.</div>
-
-   <div class="note">Note 3: "Mr. Holdrege" may be <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>George W. Holdrege</span> (1847-1926), an executive with the Chicago, Burlington, and Quincy Railroad, which provided railroad service to the town of Cody, Wyoming.  The Courier Printing Company of Buffalo, New York, was owned by George Bleistein (1861-1918), an investor in William F. Cody's irrigation ventures in and around the town of Cody.</div>
-
-   <div class="note">Note 4: The precise meaning of the term "newspaper cut" is unclear, but Cody may have meant publicity images of his new hotel.</div>
-
-   <div class="note">Note 5: This price list accompanies Cody's letter to Woods dated July 24, 1902, in the files of the Buffalo Bill Center of the West.  If Cody enclosed it in his letter to Woods, it may have been in connection with a planned publicity campaign for his Irma Hotel.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Rice Lake, Wisconsin, on July 24, 1902.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody refers to an elaborate fireplace and to a buffalo head carving for the main bar at the Irma Hotel, then under construction in Cody, Wyoming.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Mr. Holdrege" may be <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/">George W. Holdrege</a>
+         </span> (1847-1926), an executive with the Chicago, Burlington, and Quincy Railroad, which provided railroad service to the town of Cody, Wyoming.  The Courier Printing Company of Buffalo, New York, was owned by George Bleistein (1861-1918), an investor in William F. Cody's irrigation ventures in and around the town of Cody.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: The precise meaning of the term "newspaper cut" is unclear, but Cody may have meant publicity images of his new hotel.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: This price list accompanies Cody's letter to Woods dated July 24, 1902, in the files of the Buffalo Bill Center of the West.  If Cody enclosed it in his letter to Woods, it may have been in connection with a planned publicity campaign for his Irma Hotel.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

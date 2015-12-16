@@ -75,13 +75,22 @@ Wyo.
 
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in The Dalles, Oregon, on August 25, 1902.</div>
-
-   <div class="note">Note 2: Probably Michael R. Russell (1847-1930), a long-time friend of William F. Cody who then resided in Deadwood, South Dakota. Cody and Russell became friends after meeting in Kansas in the 1860s. Russell moved to Deadwood in 1877 and took up business interests that included saloon-keeping and mining operations. About 1895, Russell sold Cody a herd of horses and the "TE" brand, which Cody used to establish his TE Ranch southwest of Cody, Wyoming.</div>
-
-   <div class="note">Note 3: Martinus Petrus Pels (c. 1837-1906), a Dutch businessman, had served as general manager of the Maxwell Land Grant Company from 1888 to 1894. This company administered what was then one of the largest private land holdings in the United States, over 1.7 million acres in southern Colorado and northern New Mexico. William F. Cody's letter to Hinkle dated August 18, 1902, indicates that Cody hoped to persuade Pels to invest in the Cody-Salsbury Canal. Cody was ultimately unable to persuade Pels to make the investment.</div>
-
-   <div class="note">Note 4: DeForest Richards (1846-1903) was then the governor of Wyoming.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in The Dalles, Oregon, on August 25, 1902.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Probably Michael R. Russell (1847-1930), a long-time friend of William F. Cody who then resided in Deadwood, South Dakota. Cody and Russell became friends after meeting in Kansas in the 1860s. Russell moved to Deadwood in 1877 and took up business interests that included saloon-keeping and mining operations. About 1895, Russell sold Cody a herd of horses and the "TE" brand, which Cody used to establish his TE Ranch southwest of Cody, Wyoming.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Martinus Petrus Pels (c. 1837-1906), a Dutch businessman, had served as general manager of the Maxwell Land Grant Company from 1888 to 1894. This company administered what was then one of the largest private land holdings in the United States, over 1.7 million acres in southern Colorado and northern New Mexico. William F. Cody's letter to Hinkle dated August 18, 1902, indicates that Cody hoped to persuade Pels to invest in the Cody-Salsbury Canal. Cody was ultimately unable to persuade Pels to make the investment.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: DeForest Richards (1846-1903) was then the governor of Wyoming.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

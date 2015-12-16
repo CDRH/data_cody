@@ -26,7 +26,8 @@
 
       <div class="">
          <p>Maza-ba-las-ka (Flat Iron), an Ogallalla Sioux, the crier or orator of his tribe; Zit-ka-la O-hi-taka (Brave Bird), a Brule Sioux, son of Iron Heel, the famous fighting chief, and the six-year-old papoose of Brave Bird, attended the performance of "Cinderella," at Abbey's Theatre last night. They were accompanied by <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/crager.g"/>George C. Crager,</span> the government interpreter, and the representative of the MAIL AND EXPRESS.</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/crager.g">George C. Crager,</a>
+            </span> the government interpreter, and the representative of the MAIL AND EXPRESS.</p>
 
          <p>Flat Iron is 66 years of age. He never saw a railroad train until two years ago. He never before saw the interior of an entertainment hall or theatre. His knowledge of the English language is confined to one word—"Good." Brave Bird is 34 years old. His first ride in a railroad train was three months ago, and on Friday afternoon he put his moccasined foot for the first time on board a steamboat. Like Flat Iron he had never before seen the inside of a theatre, and had no conception of a stage or its accesories.</p>
 
@@ -126,8 +127,11 @@
    </div>
 
 
-
-   <div class="note">Note 1: Vincent S. Cooke (died 1917) was city editor of the Philadelphia <em class="hi">Press</em> and in 1888 joined the staff of the New York <em class="hi">World.</em>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Vincent S. Cooke (died 1917) was city editor of the Philadelphia <em class="hi">Press</em> and in 1888 joined the staff of the New York <em class="hi">World.</em>
+         <a href="#n01.ref">  [back]
+            </a>
+      </p>
    </div>
-
 </div>

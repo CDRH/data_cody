@@ -38,8 +38,14 @@
    </div>
 
 
-
-  <div class="note">Note 1: Recipient of this letter is likely Ezekiel Jarman Ayers (1866-1931) who was Chief Clerk, Department of Interior, Superintendent of Buildings, and Acting Assistant Secretary of Interior; he was appointed by Secretary of War Franklin K. Lane in 1911, serving until his resignation in 1920.</div>
-  <div class="note">Note 2: Essanay Film Manufacturing Company: Founded in Chicago in 1907 by George K. Spoor (1872-1953) and Gilbert M. "Broncho Billy" Anderson (1880-1971), Essanay was originally known as the Peerless Film Manufacturing Company, but the name soon changed to Essanay ("S" and "A"). Essanay released "The Adventures of Buffalo Bill," but it is best known for its series of Charlie Chaplin comedies of 1915.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Recipient of this letter is likely Ezekiel Jarman Ayers (1866-1931) who was Chief Clerk, Department of Interior, Superintendent of Buildings, and Acting Assistant Secretary of Interior; he was appointed by Secretary of War Franklin K. Lane in 1911, serving until his resignation in 1920.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Essanay Film Manufacturing Company: Founded in Chicago in 1907 by George K. Spoor (1872-1953) and Gilbert M. "Broncho Billy" Anderson (1880-1971), Essanay was originally known as the Peerless Film Manufacturing Company, but the name soon changed to Essanay ("S" and "A"). Essanay released "The Adventures of Buffalo Bill," but it is best known for its series of Charlie Chaplin comedies of 1915.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

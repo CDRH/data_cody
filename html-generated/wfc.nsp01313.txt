@@ -32,12 +32,18 @@
    </div>
 
 
-
-   <div class="note">Note 1: Harriet Hubbard Ayer (1849-1903) founded the Recamier Manufacturing Company in New York City in 1886; the company produced skin products marketed as 'toilet preparations.' Ayer later took an editorial position on the <em class="hi">New York Herald,</em> becoming the highest paid woman journalist in the United States in 1901.</div>
-
-   <div class="note">Note 2: Adelina Patti (1843-1929), born Adela Juana Maria Patti, was an acclaimed Italian soprano who sang roles in the operas of Rossini, Gounod, and Verdi, among others; she was known for her pure, sweet soprano and dazzling technique.</div>
-
-   <div class="note">Note 3: Born Emilie Charlotte Le Breton on the Isle of Jersey, Lily (or Lillie) Langtry (1853-1929), nicknamed the Jersey Lily, became a stage actress and producer in the early 1880s; she was known for her relationships with noblemen, including the Prince of Wales, the Earl of Shrewsbury, and Prince Louis of Battenberg.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Harriet Hubbard Ayer (1849-1903) founded the Recamier Manufacturing Company in New York City in 1886; the company produced skin products marketed as 'toilet preparations.' Ayer later took an editorial position on the <em class="hi">New York Herald,</em> becoming the highest paid woman journalist in the United States in 1901.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Adelina Patti (1843-1929), born Adela Juana Maria Patti, was an acclaimed Italian soprano who sang roles in the operas of Rossini, Gounod, and Verdi, among others; she was known for her pure, sweet soprano and dazzling technique.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Born Emilie Charlotte Le Breton on the Isle of Jersey, Lily (or Lillie) Langtry (1853-1929), nicknamed the Jersey Lily, became a stage actress and producer in the early 1880s; she was known for her relationships with noblemen, including the Prince of Wales, the Earl of Shrewsbury, and Prince Louis of Battenberg.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

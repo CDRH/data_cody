@@ -22,7 +22,8 @@
       <div class="milestone line"> </div>
 
       <p>The cablegram reports announcing the death of the noted Ohio lady shot, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a"/>Miss Annie Oakley</span>, some two weeks ago of congestion of the lungs, at Buenos Ayres, as predicted by us is unfounded, the following letter from her manager and husband being in proof that she is still in the land of the living. The letter, of which we print a copy, was yesterday received by Mr. Al Bandle,<a href="#n01" class="internal_link">1</a> and reads:</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Annie Oakley</a>
+         </span>, some two weeks ago of congestion of the lungs, at Buenos Ayres, as predicted by us is unfounded, the following letter from her manager and husband being in proof that she is still in the land of the living. The letter, of which we print a copy, was yesterday received by Mr. Al Bandle,<a href="#n01" class="internal_link">1</a> and reads:</p>
 
       <blockquote>
          <p>
@@ -58,9 +59,14 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: Al Bandle, vice president of the The Bandle Arms Company in Cincinnati, Ohio, was a shooting competitor and a friend of Annie Oakley and Frank Butler.</div>
-
-   <div class="note">Note 2: Leon Del Monte, author of plays entitled <em class="hi">Aaron Burr</em> (published 1889) and <em class="hi">West Point</em> (published 1890); there is little to suggest that either play had any connection to Annie Oakley.</div>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Al Bandle, vice president of the The Bandle Arms Company in Cincinnati, Ohio, was a shooting competitor and a friend of Annie Oakley and Frank Butler.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Leon Del Monte, author of plays entitled <em class="hi">Aaron Burr</em> (published 1889) and <em class="hi">West Point</em> (published 1890); there is little to suggest that either play had any connection to Annie Oakley.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -42,7 +42,8 @@
 
 
       <span class="ab"> To  <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George T. Beck</a>
+         </span>
       </span>
 
 
@@ -50,7 +51,8 @@
 
 
       <p>Why have you not signed contract with State Company wants report of meeting also about construction <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c"/>Hayden</span> cannot do everything. When do you return. We can hear nothing from you.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c">Hayden</a>
+         </span> cannot do everything. When do you return. We can hear nothing from you.</p>
 
 
       <span class="closer">
@@ -60,11 +62,18 @@
    </div>
 
 
-
-   <div class="note">Note 1: Telegram is handwritten by clerk or William F. Cody assignee. </div>
-
-   <div class="note">Note 2: Buffalo Bill's Wild West occupied its winter quarters in Bridgeport, Connecticut, from November 3, 1895, through mid-April 1896, before opening in Philadelphia on April 18, 1896.</div>
-
-   <div class="note">Note 3: McTague Hotel: James Hugh McTague (1858-1926), owner of a catering service in Omaha, Nebraska, who opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee. <a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: Buffalo Bill's Wild West occupied its winter quarters in Bridgeport, Connecticut, from November 3, 1895, through mid-April 1896, before opening in Philadelphia on April 18, 1896.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: McTague Hotel: James Hugh McTague (1858-1926), owner of a catering service in Omaha, Nebraska, who opened a basement saloon with partner Charles Little under the name of Little &amp; McTague. McTague later opened a European-style hotel in Omaha, Nebraska, before relocating to Missouri.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

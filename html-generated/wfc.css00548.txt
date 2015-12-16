@@ -27,7 +27,8 @@ Sep. 12th / 02<a href="#n02" class="internal_link">2</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>.</span>
 
 
       <p>Wired you to contract east end immediately get work started. Write each stock holder <u>fully</u>— telling them what the money will be used for— then later the contract can be let for upper end— You have <del>r</del> dried lumber for flumes long ago as we talked that over— the timber &amp; lumber must be gotten this fall ready— Assess each of us to do the east end &amp; pay contractors now then later make another assessment for upper end—</p>
@@ -43,13 +44,20 @@ Sep. 12th / 02<a href="#n02" class="internal_link">2</a>
 
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in San Francisco, California, September 7-14, 1902.</div>
-
-   <div class="note">Note 2: Cody inscribes September 12th / 02, though the year as written looks more like 1912.</div>
-
-   <div class="note">Note 3: Beck was running for governor of Wyoming as a Democrat in the 1902 election; he lost the election to the incumbent Republican governor, DeForest Richards, who, incidentally, had defeated <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Horace C. Alger</span> in the 1898 election.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in San Francisco, California, September 7-14, 1902.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody inscribes September 12th / 02, though the year as written looks more like 1912.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Beck was running for governor of Wyoming as a Democrat in the 1902 election; he lost the election to the incumbent Republican governor, DeForest Richards, who, incidentally, had defeated <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Horace C. Alger</a>
+         </span> in the 1898 election.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

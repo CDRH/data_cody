@@ -22,8 +22,10 @@ ON EVERYDAY TEXTS.</h3>
       <h3>IV.—THE RED INDIAN IN LEEDS.</h3>
 
       <p>"<span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/short.bull"/>Short Bull</span>" and "<span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/kicking.bear"/>Kicking Bear</span>" are amongst the Sioux Indians of Buffalo Bill's Wild West Show now exhibiting in Leeds.—<em class="hi">Daily Paper.</em>
+            <a href="http://rosie.unl.edu/cody_archive/doc/short.bull">Short Bull</a>
+         </span>" and "<span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/kicking.bear">Kicking Bear</a>
+         </span>" are amongst the Sioux Indians of Buffalo Bill's Wild West Show now exhibiting in Leeds.—<em class="hi">Daily Paper.</em>
       </p>
 
       <div class="inline_figure">
@@ -128,13 +130,22 @@ ON EVERYDAY TEXTS.</h3>
    </div>
 
 
-
-   <div class="note">Note 1: Alf Cooke (1843-1902), of Alf Cooke printworks,  was Mayor of Leeds, England, in 1890.</div>
-
-   <div class="note">Note 2: Dr. William Spark (1823-1897), composer and Borough Organist of Leeds.</div>
-
-   <div class="note">Note 3: Sir James Kitson (1835-1911), 1st Baron Airedale, was a British politician, a Member of Parliament, and a prominent Unitarian in Leeds.</div>
-
-   <div class="note">Note 4: Roundhay Park, Leeds, West Yorkshire, where the first public trolley system (electric tram with overhead power) was installed in Britain in 1891.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Alf Cooke (1843-1902), of Alf Cooke printworks,  was Mayor of Leeds, England, in 1890.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Dr. William Spark (1823-1897), composer and Borough Organist of Leeds.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Sir James Kitson (1835-1911), 1st Baron Airedale, was a British politician, a Member of Parliament, and a prominent Unitarian in Leeds.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Roundhay Park, Leeds, West Yorkshire, where the first public trolley system (electric tram with overhead power) was installed in Britain in 1891.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

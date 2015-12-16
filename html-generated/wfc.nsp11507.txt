@@ -18,9 +18,12 @@
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/craft.f"/>Father Croft</span>, the Indian missionary; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j"/>General O'Beirne</span>, W. Buckay, Captain McGee and Scouts Clifford and Crugan acted as pallbearers on Saturday for the body of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/otakte"/>Kill His Pony</span>, the young Dacotah Indian, whose body was forwarded to the reservation.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/craft.f">Father Croft</a>
+         </span>, the Indian missionary; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j">General O'Beirne</a>
+         </span>, W. Buckay, Captain McGee and Scouts Clifford and Crugan acted as pallbearers on Saturday for the body of <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/otakte">Kill His Pony</a>
+         </span>, the young Dacotah Indian, whose body was forwarded to the reservation.</p>
 
    </div>
 

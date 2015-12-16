@@ -26,10 +26,14 @@
    </div>
 
 
-
-   <div class="note">Note 1: Alice J. Shaw (1853-1918), an American socialite known internationally as the "whistling prima donna," was the most popular American whistler in the late 19th century.</div>
-
-   <div class="note">Note 2: William H. Horton (1832-1885), Alice J. Shaw's father and a stock broker in New York City.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Alice J. Shaw (1853-1918), an American socialite known internationally as the "whistling prima donna," was the most popular American whistler in the late 19th century.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: William H. Horton (1832-1885), Alice J. Shaw's father and a stock broker in New York City.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

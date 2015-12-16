@@ -49,18 +49,32 @@ Hotel La Salle<br/>
    </div>
 
 
-
-   <div class="note">Note 1: Although Cody did not include the year in his dateline, this letter was most likely written in 1914. References to <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/baker.l"/>"Johnny" Baker's</span> activities in Mexico (see note 2) indicate that year.</div>
-
-   <div class="note">Note 2: "Johnny" is Lewis H. "Johnny" Baker (1869-1931). The Mexican Revolution, which took place from 1910 to about 1920, produced much political change in Mexico, including the country's present Constitution (1917). Mexican politics during the revolutionary period generated considerable armed conflict. Cody indicates that Baker obtained images (perhaps motion pictures) of events in Mexico. <a href="#wfc.css00393" class="internal_link">Another letter</a> from Cody to Tait, probably written on January 27, 1914, states that Baker "may go in to old Mexico with a movie outfit."</div>
-
-   <div class="note">Note 3: "Ewing" is E. J. Ewing, a mining engineer hired in 1912 by Cody's business partner <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/dyer.d"/>Daniel Burns Dyer</span> to examine the Arizona mining operations in which Cody and Dyer had invested. In 1914 letterhead stationery of the Cody-Dyer Arizona Mining and Milling Company listed Ewing as Secretary-Treasurer. Ewing later operated some of the Cody-Dyer mining properties himself under lease. "Pure Gold" was the name of one of 29 registered mining claims in the "Campo Bonito" group, located roughly seven miles southeast of Oracle, Pinal County, Arizona. The "Cody Tunnel" was a mine shaft located near the boundary between the "Pure Gold" claim and the adjacent "Mogul" claim.</div>
-
-   <div class="note">Note 4: Cody's reference to "eight dollars" likely meant that a ton of ore yielded eight dollars' worth of gold. Scheelite is a mineral ore that yields tungsten. Most of the income that did eventually accrue from the Cody-Dyer mining properties was attributable to tungsten, not gold.</div>
-
-   <div class="note">Note 5: "Burke" is <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/burke.j"/>John M. Burke</span> (1842-1917), who served as Cody's de facto press agent from the beginning of Buffalo Bill's Wild West in 1883 until both men died in 1917.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Although Cody did not include the year in his dateline, this letter was most likely written in 1914. References to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/baker.l">"Johnny" Baker's</a>
+         </span> activities in Mexico (see note 2) indicate that year.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: "Johnny" is Lewis H. "Johnny" Baker (1869-1931). The Mexican Revolution, which took place from 1910 to about 1920, produced much political change in Mexico, including the country's present Constitution (1917). Mexican politics during the revolutionary period generated considerable armed conflict. Cody indicates that Baker obtained images (perhaps motion pictures) of events in Mexico. <a href="#wfc.css00393" class="internal_link">Another letter</a> from Cody to Tait, probably written on January 27, 1914, states that Baker "may go in to old Mexico with a movie outfit."<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: "Ewing" is E. J. Ewing, a mining engineer hired in 1912 by Cody's business partner <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/dyer.d">Daniel Burns Dyer</a>
+         </span> to examine the Arizona mining operations in which Cody and Dyer had invested. In 1914 letterhead stationery of the Cody-Dyer Arizona Mining and Milling Company listed Ewing as Secretary-Treasurer. Ewing later operated some of the Cody-Dyer mining properties himself under lease. "Pure Gold" was the name of one of 29 registered mining claims in the "Campo Bonito" group, located roughly seven miles southeast of Oracle, Pinal County, Arizona. The "Cody Tunnel" was a mine shaft located near the boundary between the "Pure Gold" claim and the adjacent "Mogul" claim.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: Cody's reference to "eight dollars" likely meant that a ton of ore yielded eight dollars' worth of gold. Scheelite is a mineral ore that yields tungsten. Most of the income that did eventually accrue from the Cody-Dyer mining properties was attributable to tungsten, not gold.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 5: "Burke" is <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">John M. Burke</a>
+         </span> (1842-1917), who served as Cody's de facto press agent from the beginning of Buffalo Bill's Wild West in 1883 until both men died in 1917.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

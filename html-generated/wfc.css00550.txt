@@ -24,7 +24,8 @@ May. 15<u>th</u> / 03.<a href="#" class="internal_link">2</a>
       <br/>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
 
@@ -43,12 +44,18 @@ May. 15<u>th</u> / 03.<a href="#" class="internal_link">2</a>
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Liverpool, England, May 4-23, 1903.</div>
-
-   <div class="note">Note 2: The date inscribed is May 15, 1903.</div>
-
-   <div class="note">Note 3: Phoebe Apperson Hearst (1842-1919) was the wife of California senator and Comstock Lode magnate George Hearst. The Hearsts provided an indemnity bond of $30,000 at 7.5% interest for the Shoshone Irrigation Company project.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Buffalo Bill's Wild West performed in Liverpool, England, May 4-23, 1903.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: The date inscribed is May 15, 1903.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: Phoebe Apperson Hearst (1842-1919) was the wife of California senator and Comstock Lode magnate George Hearst. The Hearsts provided an indemnity bond of $30,000 at 7.5% interest for the Shoshone Irrigation Company project.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

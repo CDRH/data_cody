@@ -28,11 +28,13 @@
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>—</span>
 
       <p>Well from the letters that came in to day Banking house of Meyer-Chapman &amp; Bretche<a href="#n02" class="internal_link">2</a> 
          <del>Red.</del> also Millis &amp; Co<a href="#n03" class="internal_link">3</a>— Red Lodge<a href="#n04" class="internal_link">4</a>— I guess <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> was right. We do owe thousands in Red Lodge and you never mentioned it. Why did you not tell us in Philadelphia that we owed Millis &amp; Co $2700? God only know how much more that we owe that you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> mention. And I have begged you to let me know— But you <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a>. George these letters settles it. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> stand being treated
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
+         </span> was right. We do owe thousands in Red Lodge and you never mentioned it. Why did you not tell us in Philadelphia that we owed Millis &amp; Co $2700? God only know how much more that we owe that you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> mention. And I have begged you to let me know— But you <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a>. George these letters settles it. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> stand being treated
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -51,7 +53,8 @@ this way any longer— its not justice or even friendship. Every thing else at y
 
       <p>
          <del>N</del> And we can get no report on what you are doing. We got a statement to day of dirt <a rel="tooltip" class="sic" title="moved​ &#xA;    ">mooved</a>. Yes. But we <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> know what you are doing out side. Millis bill for instance. I send these letters to <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> to forward to you I want you to know what the best business firms in that country are saying You <a rel="tooltip" class="sic" title="certainly​ &#xA;    ">ceartainly</a> 
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> to forward to you I want you to know what the best business firms in that country are saying You <a rel="tooltip" class="sic" title="certainly​ &#xA;    ">ceartainly</a> 
          <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> care
 
 
@@ -87,13 +90,22 @@ or <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> or are as th
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in St. Louis, Missouri, May 18-23, 1896; no performance was held on Sunday, May 17. The day's entry in the 1896 Route Diary: "St. Louis, Mo. / Sunday, May 17. Arrived in town at 1.30 P.M., a good run considering distance traveled. Everything on the lot at 4.30, and all up before dark. Byrns, the Irish soldier, who left at Cumberland, Md., joined us again to-day and went on duty. Nate Salsbury, manager of the Wild West, came on from Chicago, and met us at the lot to-day. We found the lot large but uneven, with every indication of being bad in wet weather. J. Allen Darnaby tells an amusing story, much to the delight of Messrs. Hutchinson, Showles and Stanton." </div> 
-
-   <div class="note">Note 2: William F. Meyer, John Chapman, and Paul Breteche were the founding partners of Meyer, Chapman &amp; Breteche, a banking company in Red Lodge, Montana, which became Meyer and Chapman Bank upon the death in 1898 of Paul Breteche.</div>
-
-   <div class="note">Note 3: In 1889 Orville E. Millis (1857-1935) established a wholesale and retail store in Red Lodge, Montana; Millis was one of three Carbon County Commissioners appointed in 1894. Shoshone Irrigation Company purchased goods from the company. </div>
-
-   <div class="note">Note 4: Red Lodge, Montana, lies 65 miles north of Cody and the closest rail line to Cody, Wyoming.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in St. Louis, Missouri, May 18-23, 1896; no performance was held on Sunday, May 17. The day's entry in the 1896 Route Diary: "St. Louis, Mo. / Sunday, May 17. Arrived in town at 1.30 P.M., a good run considering distance traveled. Everything on the lot at 4.30, and all up before dark. Byrns, the Irish soldier, who left at Cumberland, Md., joined us again to-day and went on duty. Nate Salsbury, manager of the Wild West, came on from Chicago, and met us at the lot to-day. We found the lot large but uneven, with every indication of being bad in wet weather. J. Allen Darnaby tells an amusing story, much to the delight of Messrs. Hutchinson, Showles and Stanton." <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: William F. Meyer, John Chapman, and Paul Breteche were the founding partners of Meyer, Chapman &amp; Breteche, a banking company in Red Lodge, Montana, which became Meyer and Chapman Bank upon the death in 1898 of Paul Breteche.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: In 1889 Orville E. Millis (1857-1935) established a wholesale and retail store in Red Lodge, Montana; Millis was one of three Carbon County Commissioners appointed in 1894. Shoshone Irrigation Company purchased goods from the company. <a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Red Lodge, Montana, lies 65 miles north of Cody and the closest rail line to Cody, Wyoming.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

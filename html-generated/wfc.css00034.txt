@@ -40,21 +40,32 @@ May 29<a href="#n01" class="internal_link">1</a>
 
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Pittsburgh on 28 and 29 May 1901.</div>
-
-   <div class="note">Note 2: <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/elwell.r"/>
-      </span>Robert Farrington Elwell (1874-1962)</div>
-
-   <div class="note">Note 4: Probably John Martin, who was then an agent for William F. Cody's business interests in the town that bore his name.</div>
-
-   <div class="note">Note 5: The <em class="hi">Cody Enterprise</em>, a newspaper founded by William F. Cody in 1899, still the main local newspaper in the town of Cody, Wyoming.</div>
-
-   <div class="note">Note 6: R.F. Elwell had married Mary Ellen Taylor (born c. 1875) in 1897.</div>
-
-   <div class="note">Note 7: The TE Ranch, located on the South Fork of the Shoshone River, was a favorite retreat for Cody in the last two decades of his life.</div>
-
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Pittsburgh on 28 and 29 May 1901.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/elwell.r"/>
+         </span>Robert Farrington Elwell (1874-1962)<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 4: Probably John Martin, who was then an agent for William F. Cody's business interests in the town that bore his name.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 5: The <em class="hi">Cody Enterprise</em>, a newspaper founded by William F. Cody in 1899, still the main local newspaper in the town of Cody, Wyoming.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 6: R.F. Elwell had married Mary Ellen Taylor (born c. 1875) in 1897.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 7: The TE Ranch, located on the South Fork of the Shoshone River, was a favorite retreat for Cody in the last two decades of his life.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

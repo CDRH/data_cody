@@ -22,14 +22,16 @@
       <span class="dateline">Dec. 14/06</span>
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, Buffalo, Wyo
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+      </span>, Buffalo, Wyo
 
 
 <span class="salute">Dear Sir:</span>
 
 
       <p>I am informed by the Lincoln Land Co., that the interests of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>H. C. Alger</span> in the Cody town site was merged in you as trustee.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">H. C. Alger</a>
+         </span> in the Cody town site was merged in you as trustee.</p>
 
       <p>Will you kindly give me such information as you can regarding Mr. Alger's interest and how it is evidenced</p>
 

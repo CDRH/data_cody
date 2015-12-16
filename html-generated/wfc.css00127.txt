@@ -39,7 +39,8 @@ Received at [blank] (where any reply should be sent.)</div>
 
       <span class="salute">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>A W Woods</span>, LO &amp; O Str,<a href="#n02" class="internal_link">2</a> Lincoln.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">A W Woods</a>
+         </span>, LO &amp; O Str,<a href="#n02" class="internal_link">2</a> Lincoln.</span>
 
 
       <p>Has Mr Stevens started for Cody to commence hotel?<a href="#n03" class="internal_link">3</a>
@@ -86,14 +87,22 @@ Charges Pd<br/>
    </div>
 
 
-
-   <div class="note">Note 1: Although the year does not appear to be included in the dateline, this telegram can be reliably dated to 1902 on the basis of its reference to the construction of the Irma Hotel in Cody, Wyoming.</div>
-
-   <div class="note">Note 2: According to a 1902 city directory, A. W. Woods' architectural office was located at 109 South 10th Street, a short distance south of the intersection of 10th and O Streets in downtown Lincoln, Nebraska. "LO" would appear to be a misprint for the number 10.</div>
-
-   <div class="note">Note 3: William F. Cody probably refers to Henry A. Stephens, of the Stephens Bros. construction company in Lincoln, Nebraska. Stephens Bros. was the general contractor for the Irma Hotel, then under construction in the town of Cody, Wyoming. Buffalo Bill mentioned "Harry Stevens" by name in a letter to Woods dated August 21, 1902.</div>
-
-   <div class="note">Note 4: This address, stamped in blue ink, appears to be that of the Lincoln office of the telegraph company.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Although the year does not appear to be included in the dateline, this telegram can be reliably dated to 1902 on the basis of its reference to the construction of the Irma Hotel in Cody, Wyoming.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: According to a 1902 city directory, A. W. Woods' architectural office was located at 109 South 10th Street, a short distance south of the intersection of 10th and O Streets in downtown Lincoln, Nebraska. "LO" would appear to be a misprint for the number 10.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: William F. Cody probably refers to Henry A. Stephens, of the Stephens Bros. construction company in Lincoln, Nebraska. Stephens Bros. was the general contractor for the Irma Hotel, then under construction in the town of Cody, Wyoming. Buffalo Bill mentioned "Harry Stevens" by name in a letter to Woods dated August 21, 1902.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: This address, stamped in blue ink, appears to be that of the Lincoln office of the telegraph company.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

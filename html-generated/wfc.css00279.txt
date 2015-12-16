@@ -29,7 +29,8 @@ Buffalo Bill's Hotel In The Rockies
 October 4, 1913
 </span>
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>Mr. Clarence W. Rowley</span>, Atty-at-Law,
+         <a href="http://rosie.unl.edu/cody_archive/doc/">Mr. Clarence W. Rowley</a>
+      </span>, Atty-at-Law,
 638 Old South Building,
 Boston, Mass.
 
@@ -82,11 +83,24 @@ Boston, Mass.
    </div>
 
 
-
-  <div class="note">Note 1: Prince of Monaco was Albert I (1848-1922), who visited Cody, Wyoming, as William F. Cody's guest on a game hunt during October 1913. Prince Albert was the first sitting monarch to visit the United States, ultimately visiting President William Howard Taft in Washington, D.C., as an official state visitor on October 20, 1913.</div>
-  <div class="note">Note 2: Charles Gilbert Gates (1876-1913), was the only son of John Warne Gates, known as "Bet-a-Million" Gates, a pioneer promoter of barbed wire. Charles Gates, nicknamed "Spend-a-Million" Gates, had hoped to join the hunt with Prince Albert I but arrived in Cody too late. Instead, guided by Cody local Ned Frost and accompanied by an entourage including two physicians, Gates arranged his own 33-day hunt. Following this hunt, Gates retired to his private rail car in Cody and was later found dead.</div>
-  <div class="note">Note 3: Filming of <em class="hi">The Indian Wars</em> was done on the Pine Ridge reservation in South Dakota in October 1913. Unfortunately, Cody's motion picture (as did almost all motion pictures of the time) used nitrate film stock, which disintegrates over time and is highly flammable. Only small fragments of Cody's film are reported to still be in existence.</div>
-  <div class="note">Note 4: Cody-Dyer Mines was the mining venture near Tucson, Arizona, co-owned with <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>Daniel Burns Dyer</span>. In 1912 the partners realized that the earnings from their mines were unlikely to recoup their initial investments. Dyer died soon thereafter.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Prince of Monaco was Albert I (1848-1922), who visited Cody, Wyoming, as William F. Cody's guest on a game hunt during October 1913. Prince Albert was the first sitting monarch to visit the United States, ultimately visiting President William Howard Taft in Washington, D.C., as an official state visitor on October 20, 1913.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Charles Gilbert Gates (1876-1913), was the only son of John Warne Gates, known as "Bet-a-Million" Gates, a pioneer promoter of barbed wire. Charles Gates, nicknamed "Spend-a-Million" Gates, had hoped to join the hunt with Prince Albert I but arrived in Cody too late. Instead, guided by Cody local Ned Frost and accompanied by an entourage including two physicians, Gates arranged his own 33-day hunt. Following this hunt, Gates retired to his private rail car in Cody and was later found dead.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Filming of <em class="hi">The Indian Wars</em> was done on the Pine Ridge reservation in South Dakota in October 1913. Unfortunately, Cody's motion picture (as did almost all motion pictures of the time) used nitrate film stock, which disintegrates over time and is highly flammable. Only small fragments of Cody's film are reported to still be in existence.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Cody-Dyer Mines was the mining venture near Tucson, Arizona, co-owned with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Daniel Burns Dyer</a>
+         </span>. In 1912 the partners realized that the earnings from their mines were unlikely to recoup their initial investments. Dyer died soon thereafter.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

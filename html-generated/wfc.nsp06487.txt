@@ -23,7 +23,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: Matthew Arnold (1822-1888), a British poet and literary, social, and religious critic.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Matthew Arnold (1822-1888), a British poet and literary, social, and religious critic.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

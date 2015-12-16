@@ -26,7 +26,8 @@ Jno. M. Burke . . . . General Manager</div>
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>Capt Geo LeRoy Brown</span>,
+         <a href="http://rosie.unl.edu/cody_archive/doc/">Capt Geo LeRoy Brown</a>
+      </span>,
 United States Indian Service
 Pine Ridge Agency, S.D.
 
@@ -51,7 +52,10 @@ Pine Ridge Agency, S.D.
    </div>
 
 
-
-   <div class="note">Note 1: This signature appears to be in William F. Cody's hand, but the rest of the letter is not.  Cody apparently signed a letter that had been drafted by someone else.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: This signature appears to be in William F. Cody's hand, but the rest of the letter is not.  Cody apparently signed a letter that had been drafted by someone else.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -14,7 +14,8 @@
       <div class="milestone line"> </div>
 
       <p>NEW YORK, Aug. 27.—A Hamburg special says: "There is intense excitement here over the fierce row that has occurred between Buffalo Bill and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/carver.w"/>Dr. Carver</span>. People are afraid to come out of doors after dark and the place is in a state of seige. Members of each troupe have openly declared their intention of fighting for their masters, even if the quarrel ends in a general fight. There can be no doubt that it is only through the efforts of the authorities that blood has up to the present time been avoided.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/carver.w">Dr. Carver</a>
+         </span>. People are afraid to come out of doors after dark and the place is in a state of seige. Members of each troupe have openly declared their intention of fighting for their masters, even if the quarrel ends in a general fight. There can be no doubt that it is only through the efforts of the authorities that blood has up to the present time been avoided.</p>
 
       <p>"Carver has been following Cody all through the latter's tour of the cities of the continent, and his performances have been much better patronized than Buffalo Bill's. Jealousy was aroused when Cody announced his intention of staying some time in Hamburg.<a href="#n01" class="internal_link">1</a> Carver then stole a march on his rival. He arrived in Hamburg three days ahead and opened his Wild West show in fine style. When Cody got there he found that he was obliged to pitch his tent within a few feet of Carver's show. Carver had made arrangements for an exclusive supply of electric light, and thus left Cody's place in the dark. Then the members of both camps took up the matter, and it was only through the strenuous efforts of the police that a terrible fight has been prevented.</p>
 
@@ -23,7 +24,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Hamburg, Germany, August 8-31, 1890.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Hamburg, Germany, August 8-31, 1890.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

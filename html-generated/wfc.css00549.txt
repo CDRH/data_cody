@@ -25,7 +25,8 @@
 Sep 22d 1902</span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>.</span>
 
 
       <p>Yours letter Sep 16th have wired you to make assessment to pay engineer &amp; surveys— This you should have done long ago if you knew you would be short of money— Why <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you collect? <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> due co It will be your neglect if money not there to pay them And the blame shall be placed where it belongs— Wire me engineers estimate for doing earth work soon as you get it. Are there any contractors there who will take the work? We men who have to put up the money have lore for information— Some thing you could give us in a few minutes</p>
@@ -68,10 +69,11 @@ Sep 22d 1902</span>
    </div>
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Santa Barbara, California, on September 22, 1902.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Santa Barbara, California, on September 22, 1902.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 
 </div>

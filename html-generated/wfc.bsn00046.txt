@@ -24,13 +24,16 @@ held at HOTEL IROQUOIS, Buffalo, New York, </div>
       <p>Upon Roll Call, there were present: -- <br/>
 Col. William F. Cody<br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+         </span>
          <br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H. M. Gerrans</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">H. M. Gerrans</a>
+         </span>
          <br/>S. L. Samuels<br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George T. Beck</a>
+         </span>.</p>
 
       <p>A quorum being present, the meeting was called to order by Colonel Cody.</p>
 

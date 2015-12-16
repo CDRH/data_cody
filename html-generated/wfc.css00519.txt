@@ -27,7 +27,8 @@
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
       <p>The Directors<a href="#n02" class="internal_link">2</a> want to know why construction for Aug was so much and no construction done— You should get expenses down out there. it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> do. you must have a number of people on salary doing nothing. And the rest soldiering on the company. The directors ask me why the expenses are so high. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> answer them.</p>
@@ -44,16 +45,28 @@
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Memphis, Tennessee, on October 4, 1897. </div>
-
-   <div class="note">Note 2: "Directors" are the investors of Shoshone Irrigation Company, including <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span>, <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>, and <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>.</div>
-
-   <div class="note">Note 3: C. B. Jones was a land agent from Galesburg, Illinois, who brought settlers to the Big Horn Basin.</div>
-
-   <div class="note">Note 4: Beck filed placer mining claims for Cody and other directors of Shoshone Irrigation Company.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Memphis, Tennessee, on October 4, 1897. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "Directors" are the investors of Shoshone Irrigation Company, including <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
+         </span>, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+         </span>.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: C. B. Jones was a land agent from Galesburg, Illinois, who brought settlers to the Big Horn Basin.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Beck filed placer mining claims for Cody and other directors of Shoshone Irrigation Company.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

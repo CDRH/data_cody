@@ -35,11 +35,14 @@ Oct 8<a href="#n02" class="internal_link">2</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>,</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>,</span>
 
       <p>Say. now be careful or you will have a <a rel="tooltip" class="sic" title="hemorrhage​ &#xA;    ">hemorage</a> at this news— <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> has <u>written me</u>. And I now know what I have to meet to save the credit of the Co— Whether I can do it or not is to be seen— I <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> weakened a little bit. but its L<a href="#n03" class="internal_link">3</a> when all the rest have— I have asked <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e"/>Mead</span> to go out and give us an estimate on north side proposition. If he comes rig him out with help and what he needs <u>quick</u> so as not to detain him— We want to make all the 
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> has <u>written me</u>. And I now know what I have to meet to save the credit of the Co— Whether I can do it or not is to be seen— I <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> weakened a little bit. but its L<a href="#n03" class="internal_link">3</a> when all the rest have— I have asked <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e">Mead</a>
+         </span> to go out and give us an estimate on north side proposition. If he comes rig him out with help and what he needs <u>quick</u> so as not to detain him— We want to make all the 
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -73,26 +76,46 @@ bluff<a href="#n04" class="internal_link">4</a> we can this month Every thing go
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Carroll, Iowa, on October 8, 1896. </div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1896.</div>
-
-   <div class="note">Note 3: Cody substitutes a capital "L" for hell. </div>
-
-   <div class="note">Note 4: Cody urges Beck to "bluff" to leverage for Cody, Wyoming, to become the county seat.</div>
-
-   <div class="note">Note 5: George B. Harris (d. 1918) was second vice-president of CB&amp;Q and became president of the company in 1901 until his resignation in 1910; Harris then became Chairman of the Board of Directors of the Chicago, Burlington and Quincy Railroad until 1918. </div>
-
-   <div class="note">Note 6: Chicago, Burlington and Quincy Railroad.</div>
-
-   <div class="note">Note 7: In 1897 the Northern Pacific Railway connected the tracks to Fromberg, Montana, to reach the coal fields in the area.</div>
-
-   <div class="note">Note 8: "Clarks Fork" is presumed to be the tributary of the Yellowstone River but may imply the larger river valley.</div>
-
-   <div class="note">Note 9: It is not clear to what town Cody is referring.</div>
-
-   <div class="note">Note 10: The "ex mayor of Dubuque" was Charles J. W. Saunders (d. 1939, Mayor of Dubuque from 1891-1892), a friend of Cody, John B. "Texas Jack" Omohundro, and James B. "Wild Bill" Hickok. Saunders likely met Cody in Kansas toward the end of the Civil War. At Saunders' urging, Buffalo Bill's Wild West performed in Dubuque five times between 1896 and 1912.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Carroll, Iowa, on October 8, 1896. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1896.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Cody substitutes a capital "L" for hell. <a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Cody urges Beck to "bluff" to leverage for Cody, Wyoming, to become the county seat.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: George B. Harris (d. 1918) was second vice-president of CB&amp;Q and became president of the company in 1901 until his resignation in 1910; Harris then became Chairman of the Board of Directors of the Chicago, Burlington and Quincy Railroad until 1918. <a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: Chicago, Burlington and Quincy Railroad.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n07.note"/>Note 7: In 1897 the Northern Pacific Railway connected the tracks to Fromberg, Montana, to reach the coal fields in the area.<a href="#n07.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n08.note"/>Note 8: "Clarks Fork" is presumed to be the tributary of the Yellowstone River but may imply the larger river valley.<a href="#n08.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n09.note"/>Note 9: It is not clear to what town Cody is referring.<a href="#n09.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n10.note"/>Note 10: The "ex mayor of Dubuque" was Charles J. W. Saunders (d. 1939, Mayor of Dubuque from 1891-1892), a friend of Cody, John B. "Texas Jack" Omohundro, and James B. "Wild Bill" Hickok. Saunders likely met Cody in Kansas toward the end of the Civil War. At Saunders' urging, Buffalo Bill's Wild West performed in Dubuque five times between 1896 and 1912.<a href="#n10.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

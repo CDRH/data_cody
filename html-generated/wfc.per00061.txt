@@ -29,11 +29,15 @@
    </div>
 
 
-
-   <div class="note">Note 1: Mazeppa probably refers to Ivan Mazepa (1639-1709), a gentleman from a region in the Ukraine who became the commander of the Ukrainian Cossacks. Many theatrical and literary works depict his life, including an 1819 narrative poem by Lord Byron titled <em class="hi">Mazeppa.</em>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Mazeppa probably refers to Ivan Mazepa (1639-1709), a gentleman from a region in the Ukraine who became the commander of the Ukrainian Cossacks. Many theatrical and literary works depict his life, including an 1819 narrative poem by Lord Byron titled <em class="hi">Mazeppa.</em>
+         <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Englishman Lord Alfred Tennyson (1809-1892) wrote <em class="hi">Lady Clara Vere de Vere,</em> a poem about a family of aristocrats, which is part of his volume entitled <em class="hi">Poems,</em> published in 1842.<a href="#n02.ref">  [back]
+            </a>
+      </p>
    </div>
-
-   <div class="note">Note 2: Englishman Lord Alfred Tennyson (1809-1892) wrote <em class="hi">Lady Clara Vere de Vere,</em> a poem about a family of aristocrats, which is part of his volume entitled <em class="hi">Poems,</em> published in 1842.</div>
-
-
 </div>

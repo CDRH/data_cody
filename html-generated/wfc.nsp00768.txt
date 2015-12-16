@@ -26,7 +26,8 @@
          <p>At a few minutes after five o'clock the royal carriage drove into the grounds at the Earl's Court entrance form the Warwick road, and, passing through the roadway between the stables, drove around the arena and stopped in front of the royal box.</p>
 
          <p>The <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Queen</span> was accompanied by Princess Beatrice and Prince Henry of Battenberg. She was attended by the Dowager Duchess of Athole, Lady in Waiting, and Miss Cadogan, Main of Honor. Gen.Gardiner and Sir Henry Ewart were in attendance on horseback.<a href="#n01" class="internal_link">1</a> The party were received by the Marquis of Lorne,<a href="#n02" class="internal_link">2</a> who presented Col. Henry S. Russell, President of the American Exhibition, J.R. Whitley<a href="#n03" class="internal_link">3</a> and Vincent Alpin to her Majesty.</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen</a>
+            </span> was accompanied by Princess Beatrice and Prince Henry of Battenberg. She was attended by the Dowager Duchess of Athole, Lady in Waiting, and Miss Cadogan, Main of Honor. Gen.Gardiner and Sir Henry Ewart were in attendance on horseback.<a href="#n01" class="internal_link">1</a> The party were received by the Marquis of Lorne,<a href="#n02" class="internal_link">2</a> who presented Col. Henry S. Russell, President of the American Exhibition, J.R. Whitley<a href="#n03" class="internal_link">3</a> and Vincent Alpin to her Majesty.</p>
 
          <p>Lord Ronald Gower, Col. Hughes Hallett, Mrs. John Priestman, Sir John Maxwell Herron, Mr. Lee Thornton, Col. Griffin, Mr. J. G. Speed, Mr. C. F. Eganfield, Mr. Townsend Percy, Mr. R. M. Smith, Mr. Alfred Packard, Mr. John Sartan, Mr. William Goldring, Florence O'Driscoll, Dr. J. D. Badlack, of the Executive Reception Committee. On the stand were Mrs. Whitley, Mrs Packard, Mrs. Priestman, Mrs. Salsbury, Lady Archibald Campbell, Miss Applin, Mrs. H. S. Russell and the Misses Russell.</p>
       </div>
@@ -45,24 +46,37 @@
          <h4>
             <div class="center">
                <span class="persName">
-                  <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r"/>RED SHIRT</span> TALKS TO THE QUEEN.</div>
+                  <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r">RED SHIRT</a>
+               </span> TALKS TO THE QUEEN.</div>
          </h4>
          <p>
             <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Red Shirt</span> (Ogalasa), a Chief of the Sioux, was then presented, and the Queen expressed her pleasure at seeing him. Red Shirt replied that it made him glad to hear her. He had come a long way to see Her Majesty. From his great chief, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/sitting.bull"/>Sitting Bull</span>, he had heard of the Great Mother, but had never expected to see her. He was glad to the squaw who was more powerful than any man.</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
+            </span> (Ogalasa), a Chief of the Sioux, was then presented, and the Queen expressed her pleasure at seeing him. Red Shirt replied that it made him glad to hear her. He had come a long way to see Her Majesty. From his great chief, <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/sitting.bull">Sitting Bull</a>
+            </span>, he had heard of the Great Mother, but had never expected to see her. He was glad to the squaw who was more powerful than any man.</p>
 
          <p>The Queen expressed a desire to see the Indian babies or papoosses. Two of these were presented for Her Majesty's inspection, and she was pleased to shake their little hands and pat their chubby, painted cheeks.</p>
       </div>
    </div>
 
 
-   <div class="note">Note 1: In attendance to Queen Victoria were Beatrice, Princess Henry of Battenberg and Henry Maurice, Prince of Battenberg; Lady in Waiting, Anne Murray, Dowager Duchess of Atholl (Athole); Maid of Honour, The Honourable Ethel Henrietta Cadogan. On horseback: Lieutenant-General and Honorary General Henry Lynedoch Gardiner, Royal Artillery, Equerry to The Queen; and General Sir John Alexander Ewart, Knight Commander.</div>
-
-   <div class="note">Note 2: Marquis of Lorne was John George Edward Henry Douglas Sutherland Campbell, 9th Duke of Argyll, who held the title Marquess of Lorne from 1847 to 1900. </div>
-
-   <div class="note">Note 3: The American Exhibition was represented by Colonel Henry S. Russell (president), John Robinson Whitley (director-general), and Vincent Applin (secretary); the three Americans together managed to ensure a place for Buffalo Bill's Wild West to perform at Earl's Court.</div>
-
-   <div class="note">Note 4: Lillian Frances Smith (1871-1930), known as "The California Girl" and "the champion California huntress," was a trick rider and sharp shooter who joined Buffalo Bill's Wild West in 1886 when she was only fifteen.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: In attendance to Queen Victoria were Beatrice, Princess Henry of Battenberg and Henry Maurice, Prince of Battenberg; Lady in Waiting, Anne Murray, Dowager Duchess of Atholl (Athole); Maid of Honour, The Honourable Ethel Henrietta Cadogan. On horseback: Lieutenant-General and Honorary General Henry Lynedoch Gardiner, Royal Artillery, Equerry to The Queen; and General Sir John Alexander Ewart, Knight Commander.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Marquis of Lorne was John George Edward Henry Douglas Sutherland Campbell, 9th Duke of Argyll, who held the title Marquess of Lorne from 1847 to 1900. <a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: The American Exhibition was represented by Colonel Henry S. Russell (president), John Robinson Whitley (director-general), and Vincent Applin (secretary); the three Americans together managed to ensure a place for Buffalo Bill's Wild West to perform at Earl's Court.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Lillian Frances Smith (1871-1930), known as "The California Girl" and "the champion California huntress," was a trick rider and sharp shooter who joined Buffalo Bill's Wild West in 1886 when she was only fifteen.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

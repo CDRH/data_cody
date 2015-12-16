@@ -25,11 +25,18 @@
    </div>
 
 
-
-   <div class="note">Note 1: William Cross (1840-1900), a well-known naturalist and dealer of wild animals from Liverpool, England.</div>
-
-   <div class="note">Note 2: John Sanger (1816-1889) and his brother George Sanger (1825-1911) were English circus proprietors.</div>
-
-   <div class="note">Note 3: Mr. B. Goodall, a noted horse breeder of Altrincham, England, who challenged Buffalo Bill's mustangs in a horse race. The mustangs won the race.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: William Cross (1840-1900), a well-known naturalist and dealer of wild animals from Liverpool, England.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: John Sanger (1816-1889) and his brother George Sanger (1825-1911) were English circus proprietors.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Mr. B. Goodall, a noted horse breeder of Altrincham, England, who challenged Buffalo Bill's mustangs in a horse race. The mustangs won the race.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

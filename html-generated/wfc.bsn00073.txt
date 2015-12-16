@@ -118,13 +118,17 @@ DECEMBER 31, 1914</h3>
 
       <ul>
          <li>President, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, Buffalo, N. Y.</li>
+               <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+            </span>, Buffalo, N. Y.</li>
          <li>Vice-President, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Geo Bleistein</span>, Buffalo, N. Y.</li>
+               <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Geo Bleistein</a>
+            </span>, Buffalo, N. Y.</li>
          <li>Secretary, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H. M. Gerrans</span>, Buffalo, N. Y.</li>
+               <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">H. M. Gerrans</a>
+            </span>, Buffalo, N. Y.</li>
          <li>Manager, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j"/>J. M. Schwoob</span>, Cody, Wyoming.</li>
+               <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j">J. M. Schwoob</a>
+            </span>, Cody, Wyoming.</li>
       </ul>
 
 

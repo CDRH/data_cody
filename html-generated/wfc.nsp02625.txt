@@ -36,12 +36,18 @@
    </div>
 
 
-
-   <div class="note">Note 1: Samuel Kayzer, founder of the Chicago Conservatory of Music and Dramatic Art and its president during 1887; Kayzer was later appointed Commissioner of Music for America to the World's Fair in Paris, 1900.</div>
-
-   <div class="note">Note 2: Charles Vance Thompson (1863-1925), known as Vance Thompson, was an author, playwright, and newspaper correspondent.</div>
-
-   <div class="note">Note 3: Busby Thompson is not further identified.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Samuel Kayzer, founder of the Chicago Conservatory of Music and Dramatic Art and its president during 1887; Kayzer was later appointed Commissioner of Music for America to the World's Fair in Paris, 1900.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Charles Vance Thompson (1863-1925), known as Vance Thompson, was an author, playwright, and newspaper correspondent.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Busby Thompson is not further identified.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

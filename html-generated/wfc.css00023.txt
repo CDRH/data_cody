@@ -120,7 +120,8 @@
       
          <br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/clapp.w"/>W. H. Clapp</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/clapp.w">W. H. Clapp</a>
+         </span>
          <br/>
       Lieut. Colonel, U.S.A.,<br/>
       Acting Indian Agent.
@@ -132,15 +133,19 @@
    </div>
 
 
-
-  
-  <div class="note">Note 1: William A. Jones (1844-1912) served as Commissioner of Indian Affairs from May 3, 1897, to January 1,
-    1905.</div>
-  
-  <div class="note">Note 2: Buffalo Bill's Wild West had relied on Lakota performers, mainly from Pine Ridge, since the 1886 show season.</div>
-  
-  <div class="note">Note 3: Venereal diseases.</div>
-
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: William A. Jones (1844-1912) served as Commissioner of Indian Affairs from May 3, 1897, to January 1,
+    1905.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West had relied on Lakota performers, mainly from Pine Ridge, since the 1886 show season.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Venereal diseases.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

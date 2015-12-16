@@ -36,7 +36,8 @@ May 11<u>th</u>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
       <p>Since writing you this morn we have had a lively cyclone. But the Wild West went all the same— Just recd a letter from Boyd<a href="#n03" class="internal_link">3</a>— he wants to make a sixty days prospecting tour— What do you think about it. he <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> wants $35— I guess you had better send it to him— I sent in another $5.000. Its <a rel="tooltip" class="sic" title="making​ &#xA;    ">makeing</a> me hump to carry the whole thing. I want to know how I stand—</p>
@@ -50,11 +51,18 @@ May 11<u>th</u>
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Anderson, Indiana, May 11, 1896. Entry from the 1896 Route Diary: "Anderson, Ind." Monday, May 11. Weather very warm in the morning. At 12.45 heavy thunder-storm accompanied with wind came up. Side and back walls were let down, and no damage was done except to the awning over the candy stands, which was blown down. Doors did not open until 1.45 P. M. / Business fair at both performances. / Lot, Dudley's Field, corner Eighth avenue and White River. / Arena. 178 x 372."</div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1896 as determined by the Routes List. </div>
-
-   <div class="note">Note 3: "Boyd" is not identified.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Anderson, Indiana, May 11, 1896. Entry from the 1896 Route Diary: "Anderson, Ind." Monday, May 11. Weather very warm in the morning. At 12.45 heavy thunder-storm accompanied with wind came up. Side and back walls were let down, and no damage was done except to the awning over the candy stands, which was blown down. Doors did not open until 1.45 P. M. / Business fair at both performances. / Lot, Dudley's Field, corner Eighth avenue and White River. / Arena. 178 x 372."<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1896 as determined by the Routes List. <a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Boyd" is not identified.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

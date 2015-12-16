@@ -23,14 +23,19 @@
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/otakte"/>Kill-Many</span>, the Sioux Indian who arrived at the Barge Office from Europe a few days ago in a sickly condition, died yesterday at Bellevue Hospital. A Catholic priest<a href="#n01" class="internal_link">1</a> administered the sacraments. Kill-Many was connected with Buffalo Bill's Wild West show, and was about eighteen years old. His last hope expressed was that he might live until he reached Pine Ridge Agency, his old home. Colonel Cody telegraphed from Paris that he would bear the expense of sending the body out West.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/otakte">Kill-Many</a>
+         </span>, the Sioux Indian who arrived at the Barge Office from Europe a few days ago in a sickly condition, died yesterday at Bellevue Hospital. A Catholic priest<a href="#n01" class="internal_link">1</a> administered the sacraments. Kill-Many was connected with Buffalo Bill's Wild West show, and was about eighteen years old. His last hope expressed was that he might live until he reached Pine Ridge Agency, his old home. Colonel Cody telegraphed from Paris that he would bear the expense of sending the body out West.</p>
 
 
    </div>
 
 
-
-   <div class="note">Note 1: Reverend Father <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/craft.f"/>Francis M. Craft</span>.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Reverend Father <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/craft.f">Francis M. Craft</a>
+         </span>.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

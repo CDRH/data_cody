@@ -41,9 +41,12 @@
             <div class="center">Savage Democratic Criticism.</div>
          </h4>
          <p>On Friday night <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/irving.h"/>Mr. Henry Irving</span> sent a warm telegram of welcome to Cody, and on Saturday night he gave him a supper at the Garrick Club. Sunday, Mr. Irving, Miss Terry<a href="#n01" class="internal_link">1</a> and Lord Lymington<a href="#n02" class="internal_link">2</a> visited the camp and the American Exhibition grounds and buildings, where they were received by <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j"/>Mr. John R. Whitley</span>, the Director-General, and enjoyed themselves hugely. The Indians, too, have not been neglected. On Tuesday they went to the Lyceum Theatre to see "Faust," and in their bright war paint they attracted a most extraordinary amount of attention. Last night they went to Drury Lane, and saw the pantomime of "The Forty Thieves." <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r"/>Red Shirt</span>, the Sioux chief, whose resemblance to Bonaparte is very striking, and who is an able fellow, on being asked by Willie Wild how he liked the play of "Faust," replied, "Good! Big Dream!" How is that for dramatic criticism?</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/irving.h">Mr. Henry Irving</a>
+            </span> sent a warm telegram of welcome to Cody, and on Saturday night he gave him a supper at the Garrick Club. Sunday, Mr. Irving, Miss Terry<a href="#n01" class="internal_link">1</a> and Lord Lymington<a href="#n02" class="internal_link">2</a> visited the camp and the American Exhibition grounds and buildings, where they were received by <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. John R. Whitley</a>
+            </span>, the Director-General, and enjoyed themselves hugely. The Indians, too, have not been neglected. On Tuesday they went to the Lyceum Theatre to see "Faust," and in their bright war paint they attracted a most extraordinary amount of attention. Last night they went to Drury Lane, and saw the pantomime of "The Forty Thieves." <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r">Red Shirt</a>
+            </span>, the Sioux chief, whose resemblance to Bonaparte is very striking, and who is an able fellow, on being asked by Willie Wild how he liked the play of "Faust," replied, "Good! Big Dream!" How is that for dramatic criticism?</p>
       </div>
 
       <div class="">
@@ -65,7 +68,8 @@
          <p>Everything in the neighborhood is becoming Americanized. The shops are all labeled on the signs "The American Cigar Shop." "The American Photographers," "The American Grocery," etc.</p>
 
          <p>Among the visitors to the grounds recently, in addition to those I have mentioned, have been <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/gower.r"/>Lord Ronald Gower</span>, Sir Phillip Cunliffe Owen,<a href="#n07" class="internal_link">7</a> late director of the South Kensington Exhibitions, and who was astonished and delighted at the magnitude and attractions of the place, and who predicts for it a great success; Miss Grace Hawthorne,<a href="#n08" class="internal_link">8</a> James Barton Key,<a href="#n09" class="internal_link">9</a> W. W. Kelly<a href="#n10" class="internal_link">10</a> and Charles Overton,<a href="#n11" class="internal_link">11</a> the American managers.</p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/gower.r">Lord Ronald Gower</a>
+            </span>, Sir Phillip Cunliffe Owen,<a href="#n07" class="internal_link">7</a> late director of the South Kensington Exhibitions, and who was astonished and delighted at the magnitude and attractions of the place, and who predicts for it a great success; Miss Grace Hawthorne,<a href="#n08" class="internal_link">8</a> James Barton Key,<a href="#n09" class="internal_link">9</a> W. W. Kelly<a href="#n10" class="internal_link">10</a> and Charles Overton,<a href="#n11" class="internal_link">11</a> the American managers.</p>
       </div>
 
       <div class="">
@@ -79,32 +83,58 @@
    </div>
 
 
-
-   <div class="note">Note 1: Alice Ellen Terry (1847-1928), an English stage actress, was among the most famous leading ladies of the Victorian era.</div>
-
-   <div class="note">Note 2: Earl of Portsmouth, Isaac Newton Wallop was also known as Lord Lymington and Viscount Lymington.</div>
-
-   <div class="note">Note 3: Rufus M. Smith (b.1847), of Hartford, Connecticut, Vice Consul-General of the United States, was Chief of Installation for the American Exhibition.</div>
-
-   <div class="note">Note 4: Mr. Speed is unidentified.</div>
-
-   <div class="note">Note 5: Frederic C. Penfield (1855-1922), of Hartford, Connecticut, was Chief of General Staff for the American Exhibition.</div>
-
-   <div class="note">Note 6: John Sartain (1808-1897), Chief of Fine Arts Department, American Exhibition.</div>
-
-   <div class="note">Note 7: Sir Francis Philip Frederick Cunliffe-Owen (1828-1894), director of the Kensington Museum (London), was best known as an organizer of exhibitions during the 1880s.</div>
-
-   <div class="note">Note 8: Grace Hawthorne (1860-1922), an American actress.</div>
-
-   <div class="note">Note 9: James Barton Key, 1853-1910, American actor and theatrical manager.</div>
-
-   <div class="note">Note 10: W. W. Kelly, theatrical manager for Grace Hawthorne.</div>
-
-   <div class="note">Note 11: Charles Overton, an American actor, playwright, and theater manager.</div>
-
-   <div class="note">Note 12: Henry Du Pre Labouchere (1831-1912), an English politician, writer, publisher, and theatre owner.</div>
-
-   <div class="note">Note 13: George Goschen, 1st Viscount Goschen (1831-1907), a British statesman and businessman and Chancellor of the Duchy of Lancaster.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Alice Ellen Terry (1847-1928), an English stage actress, was among the most famous leading ladies of the Victorian era.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Earl of Portsmouth, Isaac Newton Wallop was also known as Lord Lymington and Viscount Lymington.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Rufus M. Smith (b.1847), of Hartford, Connecticut, Vice Consul-General of the United States, was Chief of Installation for the American Exhibition.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Mr. Speed is unidentified.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Frederic C. Penfield (1855-1922), of Hartford, Connecticut, was Chief of General Staff for the American Exhibition.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: John Sartain (1808-1897), Chief of Fine Arts Department, American Exhibition.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n07.note"/>Note 7: Sir Francis Philip Frederick Cunliffe-Owen (1828-1894), director of the Kensington Museum (London), was best known as an organizer of exhibitions during the 1880s.<a href="#n07.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n08.note"/>Note 8: Grace Hawthorne (1860-1922), an American actress.<a href="#n08.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n09.note"/>Note 9: James Barton Key, 1853-1910, American actor and theatrical manager.<a href="#n09.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n10.note"/>Note 10: W. W. Kelly, theatrical manager for Grace Hawthorne.<a href="#n10.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n11.note"/>Note 11: Charles Overton, an American actor, playwright, and theater manager.<a href="#n11.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n12.note"/>Note 12: Henry Du Pre Labouchere (1831-1912), an English politician, writer, publisher, and theatre owner.<a href="#n12.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n13.note"/>Note 13: George Goschen, 1st Viscount Goschen (1831-1907), a British statesman and businessman and Chancellor of the Duchy of Lancaster.<a href="#n13.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

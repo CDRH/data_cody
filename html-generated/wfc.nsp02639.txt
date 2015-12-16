@@ -28,12 +28,18 @@
    </div>
 
 
-
-   <div class="note">Note 1: Epsom Downs Racecourse located between Epsom, Tadworth, and Langley Vale in England.</div> 
-
-   <div class="note">Note 2: Jesse Winfield (b.1846), a betting agent who lived in Epsom, Surrey, England.</div>
-
-   <div class="note">Note 3: Richard "Dick" Turpin (1705-1739), an English rogue and probably the most famous of Britain's highwayman, is known for his famous ride from London to York, 320 kilometers or nearly 200 miles, in less than 24 hours. Turpin's exploits were romanticized following his execution in York, North Yorkshire, England, for horse theft in 1739.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Epsom Downs Racecourse located between Epsom, Tadworth, and Langley Vale in England.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Jesse Winfield (b.1846), a betting agent who lived in Epsom, Surrey, England.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Richard "Dick" Turpin (1705-1739), an English rogue and probably the most famous of Britain's highwayman, is known for his famous ride from London to York, 320 kilometers or nearly 200 miles, in less than 24 hours. Turpin's exploits were romanticized following his execution in York, North Yorkshire, England, for horse theft in 1739.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -91,13 +91,22 @@ MO
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Olney, Illinois, on September 24, 1901.</div>
-
-   <div class="note">Note 2: Probably a misspelling for "trolley."</div>
-
-   <div class="note">Note 3: Buffalo Bill's Wild West performed in Belleville, Illinois, on September 30, 1901.</div>
-
-   <div class="note">Note 4: Probably Homer Edward Bailey (1867-1939), a practitioner of osteopathic medicine.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Olney, Illinois, on September 24, 1901.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Probably a misspelling for "trolley."<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Buffalo Bill's Wild West performed in Belleville, Illinois, on September 30, 1901.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Probably Homer Edward Bailey (1867-1939), a practitioner of osteopathic medicine.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

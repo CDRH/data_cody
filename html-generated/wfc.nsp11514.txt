@@ -24,7 +24,8 @@
       <div class="milestone line"> </div>
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j"/>Gen. James R. O'Beirne</span>, Superintendent of Immigration at the Barge Office, is indignant at the way W. F. Cody (Buffalo Bill) is alleged to be treating the Indians he took from the Pine Ridge Reservation two years ago, and this afternoon he will forward a letter to the Commissioner of Indian Affairs formally complaining and relating the facts that have recently come to his knowledge.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j">Gen. James R. O'Beirne</a>
+         </span>, Superintendent of Immigration at the Barge Office, is indignant at the way W. F. Cody (Buffalo Bill) is alleged to be treating the Indians he took from the Pine Ridge Reservation two years ago, and this afternoon he will forward a letter to the Commissioner of Indian Affairs formally complaining and relating the facts that have recently come to his knowledge.</p>
 
       <p>He has already written a letter to Col. Gallagher, the Indian agent at Pine Ridge, telling him substantially the same story.</p>
 
@@ -57,15 +58,18 @@
       <p>Another thing that White Horse claims is that Buff lo Bill has violated his promise to furnish the Indians with horses. He compels them to use their own animals, and the result is that many of the Indians have lost their fine steeds.</p>
 
       <p>White Horse alleges that <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rockybear"/>Rocky Bear</span>, the Chief, and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/irving.w"/>Broncho Bill</span>, the interpreter, are cruel and harsh in the treatment of the Indians and that the latter have to submit in silence.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/rockybear">Rocky Bear</a>
+         </span>, the Chief, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/irving.w">Broncho Bill</a>
+         </span>, the interpreter, are cruel and harsh in the treatment of the Indians and that the latter have to submit in silence.</p>
 
       <p>White Horse is a cousin of Red Cloud,<a href="#n01" class="internal_link">1</a> and to the latter he will relate his story of cruel treatment. Red Cloud will probably demand that his men be sent back at once to the reservation.</p>
 
       <p>That White Horse and his companions are broken down and dispirited is evinced by a remarkable occurrence at the Barge Office yesterday.</p>
 
       <p>When the body of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/otakte"/>Otakte</span> (Kills Plenty), who died on the ocean while on his way home, reached New York, Gen. O'Beirne had it photographed.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/otakte">Otakte</a>
+         </span> (Kills Plenty), who died on the ocean while on his way home, reached New York, Gen. O'Beirne had it photographed.</p>
 
       <p>Yesterday he called the Indians to him and showed them the picture. White Horse took the photograph in hand and gazed at it steadfastly for at least five minutes.</p>
 
@@ -83,7 +87,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: Red Cloud (1822-1909), <em class="hi">Mahipiya Luta</em>, was a great war leader and chief of the Oglala Sioux Indians from 1866 to 1881.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Red Cloud (1822-1909), <em class="hi">Mahipiya Luta</em>, was a great war leader and chief of the Oglala Sioux Indians from 1866 to 1881.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

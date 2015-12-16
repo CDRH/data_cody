@@ -29,7 +29,8 @@ Aug 12<a href="#n02" class="internal_link">2</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Beck</a>
+         </span>
       </span>
 
       <p>Will you please hire some one charge Same to me. to tell me if the water has reached Cody &amp; farms—</p>
@@ -41,9 +42,14 @@ Aug 12<a href="#n02" class="internal_link">2</a>
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Dubuque, Iowa, on August 12, 1898.</div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1898.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Buffalo Bill's Wild West performed in Dubuque, Iowa, on August 12, 1898.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: The year is not inscribed by Cody but is 1898.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

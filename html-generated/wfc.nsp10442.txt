@@ -65,10 +65,14 @@ and the prices of seats ranged all the way from 62 1-2 cents up to $5.25. The ex
    </div>
 
 
-
-   <div class="note">Note 1: Sergeant Gilbert H. Bates was a Civil War veteran who presented the American flag at the American Exhibition of 1887 in London; Sergeant Bates appeared with Buffalo Bill's Wild West in 1886 and 1887.</div>
-
-   <div class="note">Note 2: M. Stewart is unidentified.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Sergeant Gilbert H. Bates was a Civil War veteran who presented the American flag at the American Exhibition of 1887 in London; Sergeant Bates appeared with Buffalo Bill's Wild West in 1886 and 1887.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: M. Stewart is unidentified.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

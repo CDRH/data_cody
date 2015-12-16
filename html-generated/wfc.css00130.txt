@@ -73,11 +73,18 @@ Wyo.
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in New York City from May 26 to May 31, 1902.</div>
-
-   <div class="note">Note 2: Cody refers to Solon L. Wiley, a businessman and hydraulic engineer from Omaha who had invested in irrigation projects in the Big Horn Basin. Wiley had offered to buy out the Shoshone Irrigation Company, but the deal collapsed because Wiley could not obtain the necessary financing.</div>
-
-   <div class="note">Note 3: William F. Cody refers to the Cody Canal, the principal project of the Shoshone Irrigation Company. The "Board" mentioned here is the Wyoming Board of Land Commissioners, which shared authority over Carey Act irrigation projects with the state engineer's office. The Wyoming state engineer at the time was Fred Bond (1856-1903).</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in New York City from May 26 to May 31, 1902.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody refers to Solon L. Wiley, a businessman and hydraulic engineer from Omaha who had invested in irrigation projects in the Big Horn Basin. Wiley had offered to buy out the Shoshone Irrigation Company, but the deal collapsed because Wiley could not obtain the necessary financing.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: William F. Cody refers to the Cody Canal, the principal project of the Shoshone Irrigation Company. The "Board" mentioned here is the Wyoming Board of Land Commissioners, which shared authority over Carey Act irrigation projects with the state engineer's office. The Wyoming state engineer at the time was Fred Bond (1856-1903).<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

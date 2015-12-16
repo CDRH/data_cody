@@ -28,7 +28,8 @@ Jno. M. Burke, General Manager.
 
       <span class="salute">
 Capt. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/penney.c"/>Charles. G. Penney.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/penney.c">Charles. G. Penney.</a>
+         </span>
          <br/>
 Acting U. S. Indian Agent.<br/>
 Pine Ridge Agency, S. D.<br/>
@@ -128,19 +129,26 @@ Buffalo Bill's Wild West Co—
    </div>
 
 
-
-
-
-
-   <div class="note">Note 1: Herbert Welsh (1851-1941), a Philadelphia writer interested in political reform causes, was a co-founder of the Indian Rights Association in 1882. Welsh served the organization for many years as its corresponding secretary and later as its president.</div>
-
-   <div class="note">Note 2: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation. He accompanied a party of Army officers to Wounded Knee in December 1890, and was said to have supplied the officers with a small keg of spirits. Asay's trading license was revoked in 1891 for selling alcohol on the reservation. He moved his business off the reservation to Rushville, Nebraska, where he continued to supply goods to Indian customers. An 1897 petition to Congress signed by several prominent Lakota leaders complained of Asay's high prices and asked that Cody and Salsbury end the arrangement by which Wild West Indians could pledge up to a month's salary in exchange for goods from Asay's store. </div>
-
-   <div class="note">Note 3: James A. Finlay was a licensed trader who kept a small hotel near the Pine Ridge Agency headquarters.</div>
-
-   <div class="note">Note 4: Henry A. Dawson owned a store near the Pine Ridge agency. He apparently sold the business in 1893.</div>
-
-   <div class="note">Note 5: A term commonly used by Europeans and Americans at the time to designate certain southwestern African peoples known today as Khoikhoi or Khoisan. It is now considered derogatory.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Herbert Welsh (1851-1941), a Philadelphia writer interested in political reform causes, was a co-founder of the Indian Rights Association in 1882. Welsh served the organization for many years as its corresponding secretary and later as its president.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation. He accompanied a party of Army officers to Wounded Knee in December 1890, and was said to have supplied the officers with a small keg of spirits. Asay's trading license was revoked in 1891 for selling alcohol on the reservation. He moved his business off the reservation to Rushville, Nebraska, where he continued to supply goods to Indian customers. An 1897 petition to Congress signed by several prominent Lakota leaders complained of Asay's high prices and asked that Cody and Salsbury end the arrangement by which Wild West Indians could pledge up to a month's salary in exchange for goods from Asay's store. <a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: James A. Finlay was a licensed trader who kept a small hotel near the Pine Ridge Agency headquarters.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Henry A. Dawson owned a store near the Pine Ridge agency. He apparently sold the business in 1893.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: A term commonly used by Europeans and Americans at the time to designate certain southwestern African peoples known today as Khoikhoi or Khoisan. It is now considered derogatory.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

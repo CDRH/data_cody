@@ -34,7 +34,8 @@
 Aug. 31<u>st</u> 96</span>
 
 My Dear <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>.
+         <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+      </span>.
 
 <p>Your favor of 26th recd— In regard to closing down now As you say some of the directors have advised, I am sure would be a fearful mistake. I will never as far as I am concerned agree to it. I should <del>think</del> say that by your force should be increased to such proportions that it could be worked to advantage. As it is now there is two many bosses for the number of men employed. But that <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> be helped. to close down now would be <a rel="tooltip" class="sic" title="disastrous​ &#xA;    ">disasturous</a> for all time to come. We <u>must</u> get water to the Town.<a href="#n02" class="internal_link">2</a> I am glad to hear that the bluff work is working easier <a rel="tooltip" class="sic" title="than​ &#xA;    ">then</a> was expected. With your present force how long would it take you to finish Red bluff<a href="#n03" class="internal_link">3</a> and get through all rock work? And what would be the cost? Why not let Trego<a href="#n04" class="internal_link">4</a> for <u>me</u> do the rest to Town
 
@@ -86,26 +87,46 @@ My Dear <span class="persName">
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Sheboygan, Wisconsin, August 31, 1896. The day's entry in the 1896 Route Diary: "Sheboygan, Wis. / Monday, August 31. We had to borrow hose from the city in order to sprinkle the arena, it was so sandy, and at night all wagons had to be hook-roped off the lot. At 4 P. M. over two thousand people stood on the bluff to see our Indians go to bathing in the lake. We had for supper some of the fish that the "Fu-kort" Club caught yesterday. / Weather, clear and cool. / Business, in the afternoon big, fair at night. / Lot, So. Eighth and Tellingham streets."</div>
-
-   <div class="note">Note 2: The "Town" was officially named Cody, Wyoming, in August 1896.</div>
-
-   <div class="note">Note 3: "Bluff" or "Red bluff" is Red Bluffs, a formation to the south and west of Cody, Wyoming, that stands out among the mountainous formations due to its red color.</div>
-
-   <div class="note">Note 4: Charles Trego (1856-1925), a personal friend of Cody's and foreman for both Scout's Rest Ranch in North Platte, Nebraska, and the TE Ranch in Cody, Wyoming. </div>
-
-   <div class="note">Note 5: Shoshone River.</div>
-
-   <div class="note">Note 6: Red Lodge, Montana, lies 65 miles north of Cody and was the closest rail line to Cody, Wyoming.</div>
-
-   <div class="note">Note 7: Heart Mountain is an 8,123-foot limestone and dolomite mountain just north of Cody, Wyoming.</div>
-
-   <div class="note">Note 8: In 1879 John Chapman (1850-1933) trailed cattle from Oregon and established his ranch near the present-day location of Two Dot Ranch north of Cody.</div>
-
-   <div class="note">Note 9: Named for Otto Franc (1846-1903), a local cattle baron who ranched in the Big Horn Basin from the late 1870s until his death in 1903, the small, unincorporated community of Otto is located east of Cody and within a few miles of Burlington and Emblem, Wyoming.</div>
-
-   <div class="note">Note 10: Robert Alexander Maxwell (1838-1912) from Batavia, New York, was appointed Fourth Assistant U.S. Postmaster by President Grover Cleveland in 1893 and served until the end of March 1897.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Sheboygan, Wisconsin, August 31, 1896. The day's entry in the 1896 Route Diary: "Sheboygan, Wis. / Monday, August 31. We had to borrow hose from the city in order to sprinkle the arena, it was so sandy, and at night all wagons had to be hook-roped off the lot. At 4 P. M. over two thousand people stood on the bluff to see our Indians go to bathing in the lake. We had for supper some of the fish that the "Fu-kort" Club caught yesterday. / Weather, clear and cool. / Business, in the afternoon big, fair at night. / Lot, So. Eighth and Tellingham streets."<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The "Town" was officially named Cody, Wyoming, in August 1896.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Bluff" or "Red bluff" is Red Bluffs, a formation to the south and west of Cody, Wyoming, that stands out among the mountainous formations due to its red color.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Charles Trego (1856-1925), a personal friend of Cody's and foreman for both Scout's Rest Ranch in North Platte, Nebraska, and the TE Ranch in Cody, Wyoming. <a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Shoshone River.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: Red Lodge, Montana, lies 65 miles north of Cody and was the closest rail line to Cody, Wyoming.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n07.note"/>Note 7: Heart Mountain is an 8,123-foot limestone and dolomite mountain just north of Cody, Wyoming.<a href="#n07.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n08.note"/>Note 8: In 1879 John Chapman (1850-1933) trailed cattle from Oregon and established his ranch near the present-day location of Two Dot Ranch north of Cody.<a href="#n08.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n09.note"/>Note 9: Named for Otto Franc (1846-1903), a local cattle baron who ranched in the Big Horn Basin from the late 1870s until his death in 1903, the small, unincorporated community of Otto is located east of Cody and within a few miles of Burlington and Emblem, Wyoming.<a href="#n09.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n10.note"/>Note 10: Robert Alexander Maxwell (1838-1912) from Batavia, New York, was appointed Fourth Assistant U.S. Postmaster by President Grover Cleveland in 1893 and served until the end of March 1897.<a href="#n10.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

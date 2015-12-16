@@ -51,7 +51,8 @@ Clerk of Court.
 
       <span class="ab">In the Matter of the Estate of<br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Horace C. Alger</span>, Deceased.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Horace C. Alger</a>
+         </span>, Deceased.</span>
 
       <span class="ab">
          <div class="center">

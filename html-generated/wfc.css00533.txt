@@ -25,12 +25,14 @@ Apr 30th 99</span>
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
 
       <p>Please let me know how you are getting on with ditch. When do you expect to have water to town<a href="#n02" class="internal_link">2</a>. How are you <a rel="tooltip" class="sic" title="making​ &#xA;    ">makeing</a> it with <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/darrah.h"/>Darrah</span>? Say if the rest of the Company <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> put up to pay interest on Hearst loan<a href="#n03" class="internal_link">3</a>— What had best be done?</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/darrah.h">Darrah</a>
+         </span>? Say if the rest of the Company <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> put up to pay interest on Hearst loan<a href="#n03" class="internal_link">3</a>— What had best be done?</p>
 
       <p>Love to Bettie<a href="#n04" class="internal_link">4</a>
       </p>
@@ -45,15 +47,22 @@ Apr 30th 99</span>
    </div>
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Nashville, Tennessee, on May 1, 1899. </div>
-
-   <div class="note">Note 2: Cody, Wyoming.</div>
-
-   <div class="note">Note 3: In 1897 Beck traveled to Washington, D.C.,  and called on Phoebe Hearst, wife of California senator and Comstock Lode magnet George Hearst. On behalf of Shoshone Irrigation Company Beck managed to sell the Hearsts an indemnity bond of $30,000 for the irrigation project; repayment was to be made over five years at 7-1/2% interest.</div>
-
-   <div class="note">Note 4: "Bettie" is Beck's infant daughter, Betty, born in 1898.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Nashville, Tennessee, on May 1, 1899. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody, Wyoming.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: In 1897 Beck traveled to Washington, D.C.,  and called on Phoebe Hearst, wife of California senator and Comstock Lode magnet George Hearst. On behalf of Shoshone Irrigation Company Beck managed to sell the Hearsts an indemnity bond of $30,000 for the irrigation project; repayment was to be made over five years at 7-1/2% interest.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: "Bettie" is Beck's infant daughter, Betty, born in 1898.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

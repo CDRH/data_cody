@@ -25,7 +25,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: Townsend Percy, the official Press Representative for the American Exhibition and a member of the Royal Geographical Society of London, was an author and lecturer.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Townsend Percy, the official Press Representative for the American Exhibition and a member of the Royal Geographical Society of London, was an author and lecturer.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

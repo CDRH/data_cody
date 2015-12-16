@@ -131,11 +131,18 @@ Mass
    </div>
 
 
-
-   <div class="note">Note 1: The address on the stationery William F. Cody used to write this letter is that of his sister, May Cody Bradford Decker. Cody died at his sister's home in 1917.</div> 
-
-   <div class="note">Note 2: Cody did not include the year in his dateline, but the postmark on the accompanying envelope establishes it as 1913.</div>
-
-   <div class="note">Note 3: Cody refers to the final closure of Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East in Denver on July 22, 1913. The local sheriff seized and sold the show's assets, ostensibly to satisfy debts owed to a printing company. Historians such as Don Russell and Louis Warren have written that the seizure was orchestrated by Denver Post co-owner and circus impresario Henry Heye Tammen in order to break up the partnership between William F. Cody and Gordon W. "Pawnee Bill" Lillie. Cody enclosed a newspaper clipping (apparently from the Denver Post) about the seizure with this letter. </div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: The address on the stationery William F. Cody used to write this letter is that of his sister, May Cody Bradford Decker. Cody died at his sister's home in 1917.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody did not include the year in his dateline, but the postmark on the accompanying envelope establishes it as 1913.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Cody refers to the final closure of Buffalo Bill's Wild West Combined With Pawnee Bill's Great Far East in Denver on July 22, 1913. The local sheriff seized and sold the show's assets, ostensibly to satisfy debts owed to a printing company. Historians such as Don Russell and Louis Warren have written that the seizure was orchestrated by Denver Post co-owner and circus impresario Henry Heye Tammen in order to break up the partnership between William F. Cody and Gordon W. "Pawnee Bill" Lillie. Cody enclosed a newspaper clipping (apparently from the Denver Post) about the seizure with this letter. <a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

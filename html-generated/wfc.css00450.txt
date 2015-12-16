@@ -28,13 +28,16 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
 
       <p>I will see <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> &amp; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> tomorrow. But will send new route cards<a href="#n02" class="internal_link">2</a> to night</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span> tomorrow. But will send new route cards<a href="#n02" class="internal_link">2</a> to night</p>
 
 
       <span class="closer">
@@ -42,9 +45,14 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
    </div>
 
 
-
-   <div class="note">Note 1: On September 21, 1895, Buffalo Bill's Wild West performed in Newburgh, New York. The year is not inscribed by Cody but subsequent correspondence confirms 1895. Cody wrote to Beck on September 23, 1895 (CSS00451), inscribed from nearby Paterson, New Jersey, and referring to Cody having just met Salsbury and Bleistein.</div>
-
-   <div class="note">Note 2: Route cards were imprinted with BBWW tour schedules and distributed to the public.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: On September 21, 1895, Buffalo Bill's Wild West performed in Newburgh, New York. The year is not inscribed by Cody but subsequent correspondence confirms 1895. Cody wrote to Beck on September 23, 1895 (CSS00451), inscribed from nearby Paterson, New Jersey, and referring to Cody having just met Salsbury and Bleistein.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Route cards were imprinted with BBWW tour schedules and distributed to the public.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -63,20 +63,34 @@ Denver, Colorado </p>
    </div>
 
 
-
-   <div class="note">Note 1: Although Cody did not include the year in his dateline, this letter can be reliably dated to 1913 based on the stationery used and the references to Cody's plans to shoot motion pictures on the Pine Ridge reservation in South Dakota, which occurred in the fall of 1913.</div>
-
-   <div class="note">Note 2: "John" is almost certainly <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/tait.j"/>John H. Tait</span>.</div>
-
-   <div class="note">Note 3: Franklin Knight Lane (1864-1921) served as Secretary of the Interior under President Woodrow Wilson from 1913 to 1920. The Office of Indian Affairs, which administered federal Indian policy, was part of the Department of the Interior; thus, Lane had the power to grant William F. Cody access to Pine Ridge for his film project.</div>
-
-   <div class="note">Note 4: All three of the Indian fights Cody mentions here were often depicted in various forms during his career in show business, although Cody himself had been a participant in only two of them. The "Custer Battle" is the Battle of the Little Bighorn, in which Lt. Col. George A. Custer was killed along with five companies of the U.S. Seventh Cavalry on June 25, 1876. The Battle of Summit Springs, fought in northeastern Colorado on July 11, 1869, was the largest battle of Cody's career as a scout with the U.S. Fifth Cavalry. The "Yellow Hand" fight took place in northwestern Nebraska on July 17, 1876.  In this small engagement, Cody killed and scalped a Cheyenne sub-chief whose name is more properly translated as Yellow Hair. The incident contributed to Cody's growing fame within months, as his stage troupe performed a play loosely based on the fight beginning with the 1876-77 theatrical season. On stage and in his 1879 autobiography, Cody portrayed his fight with Yellow Hand/Yellow Hair as a duel in which "Yellow Hand" personally challenged him to single combat. The most reliable third-party accounts of the fight indicate that while Cody did kill Yellow Hair, no challenge to single combat had been issued.</div>
-
-   <div class="note">Note 5: "Baker" is <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/baker.j"/>Johnny Baker</span>. "Compton" is probably Silas "Cy" Compton (1875-1944), a former chief of cowboys for Buffalo Bill's Wild West. "Carlo" is probably Carlo (or Carlos) Miles, who had been listed as a "Mexican performer" in 1910-11 route books for Buffalo Bill's Wild West combined with Pawnee Bill's Great Far East. Contemporary newspaper accounts sometimes referred to Miles as an "Indian," perhaps due to his skin tone.  Miles (or Myles) is believed to have appeared in Cody's film <em class="hi">The Indian Wars</em>.</div>
-
-   <div class="note">Note 6: Cody refers to his mining investments in Arizona, which were a considerable source of financial stress in the last years of his life. He was never able to sell these mines during his lifetime.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Although Cody did not include the year in his dateline, this letter can be reliably dated to 1913 based on the stationery used and the references to Cody's plans to shoot motion pictures on the Pine Ridge reservation in South Dakota, which occurred in the fall of 1913.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "John" is almost certainly <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j">John H. Tait</a>
+         </span>.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Franklin Knight Lane (1864-1921) served as Secretary of the Interior under President Woodrow Wilson from 1913 to 1920. The Office of Indian Affairs, which administered federal Indian policy, was part of the Department of the Interior; thus, Lane had the power to grant William F. Cody access to Pine Ridge for his film project.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: All three of the Indian fights Cody mentions here were often depicted in various forms during his career in show business, although Cody himself had been a participant in only two of them. The "Custer Battle" is the Battle of the Little Bighorn, in which Lt. Col. George A. Custer was killed along with five companies of the U.S. Seventh Cavalry on June 25, 1876. The Battle of Summit Springs, fought in northeastern Colorado on July 11, 1869, was the largest battle of Cody's career as a scout with the U.S. Fifth Cavalry. The "Yellow Hand" fight took place in northwestern Nebraska on July 17, 1876.  In this small engagement, Cody killed and scalped a Cheyenne sub-chief whose name is more properly translated as Yellow Hair. The incident contributed to Cody's growing fame within months, as his stage troupe performed a play loosely based on the fight beginning with the 1876-77 theatrical season. On stage and in his 1879 autobiography, Cody portrayed his fight with Yellow Hand/Yellow Hair as a duel in which "Yellow Hand" personally challenged him to single combat. The most reliable third-party accounts of the fight indicate that while Cody did kill Yellow Hair, no challenge to single combat had been issued.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: "Baker" is <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/baker.j">Johnny Baker</a>
+         </span>. "Compton" is probably Silas "Cy" Compton (1875-1944), a former chief of cowboys for Buffalo Bill's Wild West. "Carlo" is probably Carlo (or Carlos) Miles, who had been listed as a "Mexican performer" in 1910-11 route books for Buffalo Bill's Wild West combined with Pawnee Bill's Great Far East. Contemporary newspaper accounts sometimes referred to Miles as an "Indian," perhaps due to his skin tone.  Miles (or Myles) is believed to have appeared in Cody's film <em class="hi">The Indian Wars</em>.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: Cody refers to his mining investments in Arizona, which were a considerable source of financial stress in the last years of his life. He was never able to sell these mines during his lifetime.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

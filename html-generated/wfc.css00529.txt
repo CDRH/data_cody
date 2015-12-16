@@ -25,12 +25,14 @@ Oct 9th 98</span>
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Bick</span>.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Bick</a>
+         </span>.</span>
       <a href="#n02" class="internal_link">2</a>
 
 
       <p>As the time grows near for My going to the Basin— I feel like letting you know that I hope we may meet as friends. I admit that at times I have felt hurt at the annoyances of our troubles there. But I know that you have had a hard time to do with nothing As our stock holders have fallen down entirely. And you and I have had to stand the brunt. And I expect we will still have to do it. As <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> writes me that the Buffalo parties<a href="#n03" class="internal_link">3</a> wish to sell out I am perfectly willing that they should. I <a rel="tooltip" class="sic" title="do not​ &#xA;    ">donot</a> know how you have
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span> writes me that the Buffalo parties<a href="#n03" class="internal_link">3</a> wish to sell out I am perfectly willing that they should. I <a rel="tooltip" class="sic" title="do not​ &#xA;    ">donot</a> know how you have
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -62,7 +64,8 @@ I hope we can have a nice time this winter if we <a rel="tooltip" class="sic" ti
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/miles.n"/>General Miles</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/miles.n">General Miles</a>
+         </span>
          <a href="#n06" class="internal_link">6</a> will be out with me if he can get away—</p>
 
       <span class="closer">
@@ -72,19 +75,34 @@ I hope we can have a nice time this winter if we <a rel="tooltip" class="sic" ti
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in New Albany, Indiana, on October 10, 1898. </div>
-
-   <div class="note">Note 2: Cody misspells Beck's name as "Bick." </div>
-
-   <div class="note">Note 3: "Buffalo parties" are investors from Buffalo, New York, primarily Bleistein, <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>, and <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>.</div> 
-
-   <div class="note">Note 4: North Platte, Nebraska, likely at Cody's Scout's Rest Ranch.</div>
-
-   <div class="note">Note 5: October 1898.</div>
-
-   <div class="note">Note 6: In 1913 General Miles participated in making the film "Indian Wars" with Cody.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in New Albany, Indiana, on October 10, 1898. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody misspells Beck's name as "Bick." <a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Buffalo parties" are investors from Buffalo, New York, primarily Bleistein, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
+         </span>, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+         </span>.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: North Platte, Nebraska, likely at Cody's Scout's Rest Ranch.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: October 1898.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: In 1913 General Miles participated in making the film "Indian Wars" with Cody.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

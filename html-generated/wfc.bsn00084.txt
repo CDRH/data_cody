@@ -23,7 +23,8 @@
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. B. Rumsey</span>,
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Mr. B. Rumsey</a>
+      </span>,
 
 Ellicott Square Bldg.,
 
@@ -34,7 +35,8 @@ Buffalo, N.Y.
 
 
       <p>I have yours of the 1st, stating that you had purchased <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Mr. Bleistein's</span> stock. I think it is a mighty good deal, as, if we were to close out, it surely would bring more than par.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Mr. Bleistein's</a>
+         </span> stock. I think it is a mighty good deal, as, if we were to close out, it surely would bring more than par.</p>
 
       <p>I am returning herewith the release which you no doubt want to hand to Mr. Bleistein. I have affixed the corporate seal.</p>
 

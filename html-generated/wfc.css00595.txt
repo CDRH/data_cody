@@ -40,9 +40,18 @@
    </div>
 
 
-
-  <div class="note">Note 1: Frederick Gilmer Bonfils (1860-1933) was co-owner, along with Harry Heye Tammen, of the <em class="hi">Denver Post</em> and the <em class="hi">Kansas City Post</em>. Bonfils and Tammen also co-owned the Sells-Floto Circus.</div>
-  <div class="note">Note 2: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.</div>
-  <div class="note">Note 3: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Frederick Gilmer Bonfils (1860-1933) was co-owner, along with Harry Heye Tammen, of the <em class="hi">Denver Post</em> and the <em class="hi">Kansas City Post</em>. Bonfils and Tammen also co-owned the Sells-Floto Circus.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

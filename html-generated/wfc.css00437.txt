@@ -29,7 +29,8 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
 
@@ -60,7 +61,8 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>Scranton, Pa., ____189_
 to the wheel and hoof things up— And let me know how the thing stands.</p>
 
       <p>I heard from <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> he sent reports. And I tell you That Man Hymer Knows his business. And George— without him we would have been holding the bag— And I hope all concerned will appreciate what he has done.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
+         </span> he sent reports. And I tell you That Man Hymer Knows his business. And George— without him we would have been holding the bag— And I hope all concerned will appreciate what he has done.</p>
 
       <p>He will need some money at once. We must keep our credit good and at once— Nothing will hurt us more than to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a> our credit. Will you let me hear from you at once. </p>
 
@@ -72,14 +74,20 @@ to the wheel and hoof things up— And let me know how the thing stands.</p>
    </div>
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West had performed in Scranton on May 11, 1895.  May 12 was a Sunday, and no performance was scheduled.</div>
-
-   <div class="note">Note 2: Cody, Beck, and their partners planned to apply for a land segregation under the terms of the Carey Act.  The necessary irrigation project became known as the Cody Canal.</div>
-
-   <div class="note">Note 3: Cody and Beck were hoping to persuade Omaha businessman <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w"/>William A. Paxton</span> to invest in their irrigation venture.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West had performed in Scranton on May 11, 1895.  May 12 was a Sunday, and no performance was scheduled.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody, Beck, and their partners planned to apply for a land segregation under the terms of the Carey Act.  The necessary irrigation project became known as the Cody Canal.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Cody and Beck were hoping to persuade Omaha businessman <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w">William A. Paxton</a>
+         </span> to invest in their irrigation venture.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

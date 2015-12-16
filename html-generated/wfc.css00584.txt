@@ -41,12 +41,14 @@
 
       <span class="ab">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>, Annex Auditorium, Hotel. Chicago Ills.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Geo T Beck</a>
+         </span>, Annex Auditorium, Hotel. Chicago Ills.</span>
 
 
 
       <span class="ab">Wire <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/cunningham.d"/>cunningham</span> at once to get his settlers ready.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/cunningham.d">cunningham</a>
+         </span> at once to get his settlers ready.</span>
 
 
       <span class="closer">
@@ -58,12 +60,15 @@
    </div>
 
 
-
-
-
-   <div class="note">Note 1: Telegram is handwritten by clerk or William F. Cody assignee.</div>
-
-   <div class="note">Note 2: Buffalo Bill' sWild West opened the 1896 season in Philadelphia, Pennsylvania, on April 18th, performing there until April 25th.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Telegram is handwritten by clerk or William F. Cody assignee.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Buffalo Bill' sWild West opened the 1896 season in Philadelphia, Pennsylvania, on April 18th, performing there until April 25th.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 
 </div>

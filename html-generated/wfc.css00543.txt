@@ -24,16 +24,20 @@
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>—</span>
 
       <p>Yours received Am glad you can keep the water coming. What have you done with <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> 
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> 
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> says for you as Manager to demand a settlement. tell him to send in his bill for salary— &amp; you refer it to the company. if he <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> do it make him do it by law.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> says for you as Manager to demand a settlement. tell him to send in his bill for salary— &amp; you refer it to the company. if he <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> do it make him do it by law.</p>
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g"/>Bleistein</span> will remit I guess at once. Wrote Martin<a href="#n02" class="internal_link">2</a> to pay my water rights assessment. Mrs Wetmore<a href="#n03" class="internal_link">3</a> will send her payment on land
+            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g">Bleistein</a>
+         </span> will remit I guess at once. Wrote Martin<a href="#n02" class="internal_link">2</a> to pay my water rights assessment. Mrs Wetmore<a href="#n03" class="internal_link">3</a> will send her payment on land
 
 
 <span class="hr"> </span>
@@ -52,7 +56,8 @@
 
 
 soon. Kelsey<a href="#n04" class="internal_link">4</a> writes me he has sent maps &amp; report of survey— I presume you have let <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/wiley.s"/>Wiley</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/wiley.s">Wiley</a>
+         </span>
          <a href="#n05" class="internal_link">5</a> use them as agreed.</p>
 
       <p>The Wild West closed big engagement here open Brooklyn tomorrow sent route—</p>
@@ -70,17 +75,30 @@ soon. Kelsey<a href="#n04" class="internal_link">4</a> writes me he has sent map
 
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in New York City, New York, from April 21 through May 3, 1902; no performance given on Sunday, May 4, 1902.</div>
-
-   <div class="note">Note 2: John Henry Martin (d.1910), a Wyoming land agent who helped Cody. Martin was at one time manager of William F. Cody's interests in Cody, Wyoming.</div>
-
-   <div class="note">Note 3: Helen Cody Wetmore (1850-1911), William F. Cody's sister. </div>
-
-   <div class="note">Note 4: Frank C. Kelsey (c.1863-1933), a civil engineer. In 1901, William F. Cody hired Kelsey (who was then city engineer for Salt Lake City) to make a preliminary survey for the Cody-Salsbury Canal.</div>
-
-   <div class="note">Note 5: Solon Lysander Wiley (1840-1926), a hydraulic engineer and contractor. </div>
-
-   <div class="note">Note 6: "Gold Mine" may be a reference to Campo Bonito, a gold mine near Oracle, Arizona, leased by Cody-Dyer Mining and Milling Company.</div>
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Buffalo Bill's Wild West performed in New York City, New York, from April 21 through May 3, 1902; no performance given on Sunday, May 4, 1902.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: John Henry Martin (d.1910), a Wyoming land agent who helped Cody. Martin was at one time manager of William F. Cody's interests in Cody, Wyoming.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: Helen Cody Wetmore (1850-1911), William F. Cody's sister. <a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: Frank C. Kelsey (c.1863-1933), a civil engineer. In 1901, William F. Cody hired Kelsey (who was then city engineer for Salt Lake City) to make a preliminary survey for the Cody-Salsbury Canal.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 5: Solon Lysander Wiley (1840-1926), a hydraulic engineer and contractor. <a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 6: "Gold Mine" may be a reference to Campo Bonito, a gold mine near Oracle, Arizona, leased by Cody-Dyer Mining and Milling Company.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

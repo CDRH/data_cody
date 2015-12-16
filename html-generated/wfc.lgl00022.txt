@@ -22,9 +22,12 @@
 
 
          <p>THIS AGREEMENT, made this  eighth day of  June, 1900, by and between <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Nathan Sa<del>u</del>lsbury</span> of  New York; <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span> of the City of Buffalo, New York: W. F. Cody, of  Cody Wyo and <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>, of Big Horn County, Wyoming, parties of the first part, and the Lincoln Land Company, a corporation organized under the laws of the State of Nebraska and authorized to do business in the State of Wyoming, party of the second part, </p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Nathan Saulsbury</a>
+            </span> of  New York; <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+            </span> of the City of Buffalo, New York: W. F. Cody, of  Cody Wyo and <span class="persName">
+               <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George T. Beck</a>
+            </span>, of Big Horn County, Wyoming, parties of the first part, and the Lincoln Land Company, a corporation organized under the laws of the State of Nebraska and authorized to do business in the State of Wyoming, party of the second part, </p>
 
          <p>
             <div class="center">W I T N E S S E T H</div>

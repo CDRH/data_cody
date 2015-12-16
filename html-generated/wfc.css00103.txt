@@ -75,13 +75,22 @@ Wyo
    </div>
 
 
-
-   <div class="note">Note 1: William F. Cody did not include the year in the dateline, but the year 1901 is established by the postmark on the accompanying envelope.  Buffalo Bill's Wild West performed in Owensboro, Kentucky, on May 10, 1901.  The number 10 appears to have been written over a 9 in the dateline.</div>
-
-   <div class="note">Note 2: The TE and Carter Ranches were properties owned by William F. Cody on the South Fork of the Shoshone River, south and west of the the town of Cody, Wyoming.</div>
-
-   <div class="note">Note 3: "Martin" is probably John Henry Martin (d. 1910), a former Indianapolis railroad agent who was then Buffalo Bill's local representative and business manager.</div>
-
-   <div class="note">Note 4: This penciled notation in an unknown hand was apparently intended to redirect the letter for delivery to the TE Ranch.  "Ishawood" was then the official postal designation for the hamlet later known as Ishawooa, on the South Fork of the Shoshone River about 18 miles southwest of Cody, Wyoming.  This would have been the nearest post office to the TE Ranch.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: William F. Cody did not include the year in the dateline, but the year 1901 is established by the postmark on the accompanying envelope.  Buffalo Bill's Wild West performed in Owensboro, Kentucky, on May 10, 1901.  The number 10 appears to have been written over a 9 in the dateline.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The TE and Carter Ranches were properties owned by William F. Cody on the South Fork of the Shoshone River, south and west of the the town of Cody, Wyoming.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Martin" is probably John Henry Martin (d. 1910), a former Indianapolis railroad agent who was then Buffalo Bill's local representative and business manager.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: This penciled notation in an unknown hand was apparently intended to redirect the letter for delivery to the TE Ranch.  "Ishawood" was then the official postal designation for the hamlet later known as Ishawooa, on the South Fork of the Shoshone River about 18 miles southwest of Cody, Wyoming.  This would have been the nearest post office to the TE Ranch.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

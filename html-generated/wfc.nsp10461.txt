@@ -26,7 +26,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: Likely the first citizen of Boston refers to Charles Francis Adams (1807-1886), the son of President John Quincy Adams. He was a prominent figure in Boston public life for much of his career. Serving as President Lincoln's foreign minister in Britain during the American Civil War, he helped preserve British neutrality in the face of Confederate efforts to gain official recognition.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Likely the first citizen of Boston refers to Charles Francis Adams (1807-1886), the son of President John Quincy Adams. He was a prominent figure in Boston public life for much of his career. Serving as President Lincoln's foreign minister in Britain during the American Civil War, he helped preserve British neutrality in the face of Confederate efforts to gain official recognition.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

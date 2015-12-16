@@ -25,7 +25,8 @@ Aug 17<a href="#n02" class="internal_link">2</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
       <p>I find that Jones<a href="#n03" class="internal_link">3</a> is very unpopular in Kewanee<a href="#n04" class="internal_link">4</a> and I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> think he will ever go there again. And <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> Most Necessary that we should have a salesman there Mr. E. D. Mayhew Post Master<a href="#n05" class="internal_link">5</a> wants the appointment for Kewanee and the county Henry Co. I wish you would send him the appointment at <u>once</u> As He wants to send some people out in Sep. And he wants to go to Chicago to see Eustis<a href="#n06" class="internal_link">6</a> to make rates. he <a rel="tooltip" class="sic" title="also​ &#xA;    ">allso</a> wants an Exhibit of grain to show at the Fair.<a href="#n07" class="internal_link">7</a> Will you kindly see that Mayhew gets his appointment and at once. Without putting off—</p>
@@ -40,19 +41,34 @@ Aug 17<a href="#n02" class="internal_link">2</a>
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Burlington, Iowa, on August 17, 1898. </div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1898.</div>
-
-   <div class="note">Note 3: "Jones" is likely C. B. Jones, a land agent from Galesburg, Illinois, who brought settlers to the Big Horn Basin. </div>
-
-   <div class="note">Note 4: Kewanee, a city of Henry County in northwestern Illinois, lies about 45 miles northwest of Peoria, Illinois. The town became a prairie boom town along the railroad tracks in 1854. In 1856 those tracks were appropriated by the Chicago, Burlington &amp; Quincy Railroad. </div>
- 
-   <div class="note">Note 5: "Mr. E. D. Mayhew Post Master" is Ernest Davis Mayhew (1859-1917), a merchant in Kewanee, Henry County, Illinois, who dealt in timber, ice, coal, and grocery merchandise.</div>
-
-   <div class="note">Note 6: P. S. Eustis was the general passenger agent in Chicago, Illinois, for the Burlington Route of the Northern Pacific Railway that went from Chicago to Yellowstone National Park.</div>
-
-   <div class="note">Note 7: "Exhibit of grain to show at the Fair" likely refers to samples of grain grown in the Big Horn Basin.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Burlington, Iowa, on August 17, 1898. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1898.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Jones" is likely C. B. Jones, a land agent from Galesburg, Illinois, who brought settlers to the Big Horn Basin. <a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Kewanee, a city of Henry County in northwestern Illinois, lies about 45 miles northwest of Peoria, Illinois. The town became a prairie boom town along the railroad tracks in 1854. In 1856 those tracks were appropriated by the Chicago, Burlington &amp; Quincy Railroad. <a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: "Mr. E. D. Mayhew Post Master" is Ernest Davis Mayhew (1859-1917), a merchant in Kewanee, Henry County, Illinois, who dealt in timber, ice, coal, and grocery merchandise.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: P. S. Eustis was the general passenger agent in Chicago, Illinois, for the Burlington Route of the Northern Pacific Railway that went from Chicago to Yellowstone National Park.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n07.note"/>Note 7: "Exhibit of grain to show at the Fair" likely refers to samples of grain grown in the Big Horn Basin.<a href="#n07.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -24,8 +24,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: Mrs. Frank Whittaker was Margaret "Ma" Whittaker, who was with Buffalo Bill's Wild West in 1886-87 and in 1890-92.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Mrs. Frank Whittaker was Margaret "Ma" Whittaker, who was with Buffalo Bill's Wild West in 1886-87 and in 1890-92.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

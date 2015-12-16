@@ -63,17 +63,26 @@ U. S. A.
    </div>
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Portmadoc, Wales, on May 5, 1904.</div>
-
-   <div class="note">Note 2: Buffalo Bill's Wild West spent its entire 1904 season in the United Kingdom. The 1905 season was entirely in France, beginning with performances in Paris from April 2 to June 4.</div>
-
-   <div class="note">Note 3: Fenimore Chatterton (1860-1958) was acting governor of Wyoming from April 1903 until January 1905. Chatterton served as Wyoming secretary of state from 1899 to 1907 and became acting governor on the death of Governor DeForest Richards (1846-1903). He served as acting governor until the inauguration of Bryant B. Brooks (1861-1944), who was elected to serve out the remainder of Richards' term.</div>
-
-   <div class="note">Note 4: Thomas T. Tynan (1860-1925) was Wyoming's superintendent of public instruction from 1899 to 1907. By state law, the superintendent was a member of the state board of land commissioners. Tynan later served as mayor of Sheridan, Wyoming, from 1914 to 1915. "Johnson" is likely Clarence T. Johnston (1872-1970), who was Wyoming's state engineer from 1903 to 1911.</div>
-
-   <div class="note">Note 5: According to <em class="hi">Wyoming From Territorial Days to the Present</em>, edited by Frances Birkhead Beard in 1933, Hinkle held an appointment as "inspector general, with the rank of colonel" (p.45) on the staff of Governor Bryant B. Brooks, who took office in 1905. Cody's use of the title "Colonel" in addressing Hinkle in 1904 may suggest that Hinkle held some honorary military title before Governor Brooks took office.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Portmadoc, Wales, on May 5, 1904.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West spent its entire 1904 season in the United Kingdom. The 1905 season was entirely in France, beginning with performances in Paris from April 2 to June 4.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Fenimore Chatterton (1860-1958) was acting governor of Wyoming from April 1903 until January 1905. Chatterton served as Wyoming secretary of state from 1899 to 1907 and became acting governor on the death of Governor DeForest Richards (1846-1903). He served as acting governor until the inauguration of Bryant B. Brooks (1861-1944), who was elected to serve out the remainder of Richards' term.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Thomas T. Tynan (1860-1925) was Wyoming's superintendent of public instruction from 1899 to 1907. By state law, the superintendent was a member of the state board of land commissioners. Tynan later served as mayor of Sheridan, Wyoming, from 1914 to 1915. "Johnson" is likely Clarence T. Johnston (1872-1970), who was Wyoming's state engineer from 1903 to 1911.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: According to <em class="hi">Wyoming From Territorial Days to the Present</em>, edited by Frances Birkhead Beard in 1933, Hinkle held an appointment as "inspector general, with the rank of colonel" (p.45) on the staff of Governor Bryant B. Brooks, who took office in 1905. Cody's use of the title "Colonel" in addressing Hinkle in 1904 may suggest that Hinkle held some honorary military title before Governor Brooks took office.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

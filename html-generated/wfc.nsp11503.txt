@@ -20,9 +20,12 @@
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/otakte"/>Kills-Many</span> or Killed-His-Pony, the young Indian who died of consumption at Bellevue Hospital yesterday, will sleep his last sleep in the land of the Red Men. He was a Sioux of the Lacotah tribe, and thanks to the kind interest of the Hon. W. F. Cody, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j"/>Gen. J. R. O'Beirne</span> and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g"/>George C. Crager</span>, a Sioux interpreter, engaged Undertaker Michael P. Daly, who took the remains from the Morgue to-day. To-night they will be sent by the Baltimore &amp; Ohio Railroad to Pine Ridge, Dakota, when they will be taken to the primeval wilderness and interred with Sioux rites.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/otakte">Kills-Many</a>
+         </span> or Killed-His-Pony, the young Indian who died of consumption at Bellevue Hospital yesterday, will sleep his last sleep in the land of the Red Men. He was a Sioux of the Lacotah tribe, and thanks to the kind interest of the Hon. W. F. Cody, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j">Gen. J. R. O'Beirne</a>
+         </span> and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g">George C. Crager</a>
+         </span>, a Sioux interpreter, engaged Undertaker Michael P. Daly, who took the remains from the Morgue to-day. To-night they will be sent by the Baltimore &amp; Ohio Railroad to Pine Ridge, Dakota, when they will be taken to the primeval wilderness and interred with Sioux rites.</p>
 
 
    </div>

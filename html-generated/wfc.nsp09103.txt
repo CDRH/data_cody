@@ -26,7 +26,8 @@
             <span class="l">Gave his wondrous exhibition,</span>
             <span class="l">Of his Indians on the war path,</span>
             <span class="l">In the sight of <span class="persName">
-                  <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Queen Victoria</span>;</span>
+                  <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen Victoria</a>
+               </span>;</span>
             <span class="l">Listen to this simple story</span>
             <span class="l">From the mouth of Punchiwatha;</span>
          </span>
@@ -89,17 +90,25 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: To honor Queen Victoria's private visit to Buffalo Bill's Wild West on May 5, 1887, <em class="hi">Punch, or The London Charivari,</em> a weekly British magazine of humor and satire from 1841 to 1992, created <em class="hi">The Song of Punchiwatha,</em> which closely resembled Longfellow's poem <em class="hi">Hiawatha.</em>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: To honor Queen Victoria's private visit to Buffalo Bill's Wild West on May 5, 1887, <em class="hi">Punch, or The London Charivari,</em> a weekly British magazine of humor and satire from 1841 to 1992, created <em class="hi">The Song of Punchiwatha,</em> which closely resembled Longfellow's poem <em class="hi">Hiawatha.</em>
+         <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The American Exhibition was represented by Americans Colonel Henry S. Russell (1838-1905), president, and John Robinson Whitley (1843-1922), director-general, who managed to ensure a place for Buffalo Bill's Wild West to perform at Earl's Court.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Townsend Percy, the official Press Representative for the American Exhibition and a member of the Royal Geographical Society of London, was an author and lecturer.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Ogila-sa (Ogilesha, Ogle Sa, Ogilasa, and Ógle Lúta among other variants) was <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Chief Red Shirt</a>
+         </span>.<a href="#n04.ref">  [back]
+            </a>
+      </p>
    </div>
-
-   <div class="note">Note 2: The American Exhibition was represented by Americans Colonel Henry S. Russell (1838-1905), president, and John Robinson Whitley (1843-1922), director-general, who managed to ensure a place for Buffalo Bill's Wild West to perform at Earl's Court.</div>
-
-   <div class="note">Note 3: Townsend Percy, the official Press Representative for the American Exhibition and a member of the Royal Geographical Society of London, was an author and lecturer.</div>
-
-   <div class="note">Note 4: Ogila-sa (Ogilesha, Ogle Sa, Ogilasa, and Ógle Lúta among other variants) was <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Chief Red Shirt</span>.</div>
-
-
 </div>

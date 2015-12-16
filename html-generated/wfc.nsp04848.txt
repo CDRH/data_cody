@@ -29,7 +29,8 @@
       <p>While the guests were watching the fire and the ribs and the maiden, a band of gaudily-painted Indians appeared on the scene, and squatted down upon the straw, one by the side of each stake. In a minute each stake had a huge rib of beef fastened to it, and a like huge rib was placed on the table directly in front of Simon Cameron, another before Lawrence Jerome, a third rested in front of the president of the New York Central Railroad,<a href="#n02" class="internal_link">2</a> and so on, until each guest had a rib all to himself. The Indians set the example to their white brother by taking the ribs in both hands, and Gen. Hawley, Mr. Depew, Mr. Cameron and the other celebrities did just the same thing; and the nimble waiters were kept busy carrying away the denuded ribs. Hominy was eaten in various ways. So were salmon and pickles. The savages looked to Mr. Depew and Buffalo Bill and Gen. Cameron to instruct them how those emblems of American civilization, apple and coconut pie, should be consumed. Mr. Depew gave them a lesson full of grace, but it was wasted, for the red men all agreed upon one manner of pie-eating.</p>
 
       <p>Each aborigine received his section of pie on the palm of his hand, and in two bites it was gone. The rapidity of its disappearance amazed the distinguished gentlemen who were present. It is evident the the savages take kindly to certain elements of civilization. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Red Shirt</span> ate two pieces of pie, Little Horse<a href="#n07" class="internal_link">7</a> consumed three pieces, Flies Above<a href="#n08" class="internal_link">8</a> devoured four sections, and the less distinguished warriors as many pieces as they could get. Mr. Chauncey M. Depew ate only one big piece of cocoanut pie, and the other distinguished white men showed the same inferiority to their red brothers. No fire water was served, as an example to the red men, but there were speeches just the same. Gen. Cameron's health was drunk. He answered and spoke to Red Shirt, who was introduced to the company.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
+         </span> ate two pieces of pie, Little Horse<a href="#n07" class="internal_link">7</a> consumed three pieces, Flies Above<a href="#n08" class="internal_link">8</a> devoured four sections, and the less distinguished warriors as many pieces as they could get. Mr. Chauncey M. Depew ate only one big piece of cocoanut pie, and the other distinguished white men showed the same inferiority to their red brothers. No fire water was served, as an example to the red men, but there were speeches just the same. Gen. Cameron's health was drunk. He answered and spoke to Red Shirt, who was introduced to the company.</p>
 
       <p>He said he was glad to witness at his great age the queer mixture of civilization and Indian life—a rib roast within a stone's throw of the underground railway system. Each of the notable persons present made a speech. Many of the talks were worthy of reproduction. Especially were the remarks of Mr. Depew. He was in a particularly felicitous mood. He boomed Buffalo Bill and told a story of Christopher Columbus and the primitive Indian, which reminded all the old gentlemen present of their youth. He praised old Simon Cameron in a way that made the old Emperor of Pennsylvania look very happy.</p>
 
@@ -54,24 +55,42 @@
    </div>
 
 
-
-   <div class="note">Note 1: Simon Cameron (1799-1889), an American newspaper editor, lawyer, banker, businessman, political correspondent and advisor, U. S. Senator from Pennsylvania, and U. S. Secretary of War and U. S. Minister to Russia under President Abraham Lincoln.</div>
-
-   <div class="note">Note 2: Chauncey M. Depew (1834-1928), an American lawyer and president of the New York Central Railroad Company.</div>
-
-   <div class="note">Note 3: Lawrence Jerome (1822-1888), brother to Leonard Jerome, was an American newspaper publisher, a founding broker on Wall Street, and an investor of property in Wyoming Territory.</div>  
- 
-   <div class="note">Note 4: Joseph Roswell Hawley (1826-1905), an American lawyer and newspaper editor, was a U.S. Senator (1881-1905) from the state of Connecticut.</div>
-
-   <div class="note">Note 5: Murat Halstead (1829-1908), an American newspaperman and author, was correspondent, editor, and owner of the Cincinnati Commercial Gazette and editor for the Brooklyn Standard Union.</div>
-
-   <div class="note">Note 6: Justin McCarthy (1830-1912), an Irish nationalist, a Liberal historian, a novelist and politician, was a Member of British Parliament from 1879 to 1900.</div>
-
-   <div class="note">Note 7: Little Horse, Tasunke Ciqala, (1857-1932), an Oglala Sioux warrior who performed with Buffalo Bill's Wild West in 1887 before Queen Victoria.</div>
-
-   <div class="note">Note 8: Flies Above, Wakani  Kinyan, (b. 1855-), an Indian Chief who performed with Buffalo Bill's Wild West in 1887 before Queen Victoria.</div>
-
-   <div class="note">Note 9: The Alhambra Theatre, a popular theater and music hall located on the east side of Leicester Square in the West End of London.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Simon Cameron (1799-1889), an American newspaper editor, lawyer, banker, businessman, political correspondent and advisor, U. S. Senator from Pennsylvania, and U. S. Secretary of War and U. S. Minister to Russia under President Abraham Lincoln.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Chauncey M. Depew (1834-1928), an American lawyer and president of the New York Central Railroad Company.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Lawrence Jerome (1822-1888), brother to Leonard Jerome, was an American newspaper publisher, a founding broker on Wall Street, and an investor of property in Wyoming Territory.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Joseph Roswell Hawley (1826-1905), an American lawyer and newspaper editor, was a U.S. Senator (1881-1905) from the state of Connecticut.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Murat Halstead (1829-1908), an American newspaperman and author, was correspondent, editor, and owner of the Cincinnati Commercial Gazette and editor for the Brooklyn Standard Union.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: Justin McCarthy (1830-1912), an Irish nationalist, a Liberal historian, a novelist and politician, was a Member of British Parliament from 1879 to 1900.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n07.note"/>Note 7: Little Horse, Tasunke Ciqala, (1857-1932), an Oglala Sioux warrior who performed with Buffalo Bill's Wild West in 1887 before Queen Victoria.<a href="#n07.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n08.note"/>Note 8: Flies Above, Wakani  Kinyan, (b. 1855-), an Indian Chief who performed with Buffalo Bill's Wild West in 1887 before Queen Victoria.<a href="#n08.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n09.note"/>Note 9: The Alhambra Theatre, a popular theater and music hall located on the east side of Leicester Square in the West End of London.<a href="#n09.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

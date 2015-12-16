@@ -73,17 +73,27 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: Bill Nye was Edgar Wilson Nye (1850-1896), a distinguished American journalist who later became widely known as a humorist; he was also the founder and editor of the <em class="hi">Laramie Boomerang.</em>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Bill Nye was Edgar Wilson Nye (1850-1896), a distinguished American journalist who later became widely known as a humorist; he was also the founder and editor of the <em class="hi">Laramie Boomerang.</em>
+         <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: There was speculation that following the end of the 1887-88 London season Buffalo Bill's Wild West would move camp to perform in Paris and Rome. However, the entire troupe left Hull, England, on May 5th for the opening in Erastina, Staten Island, New York, on May 30, 1888, ultimately performing in Paris May-November 1889 (and again in 1905) and in Rome February-March 1890 (and again in 1906).<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: 'Joshua Whitcomb' was the name of a short theatrical sketch written by Henry Denman Thompson (1833-1911), an American playwright and theatre actor.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Born Emilie Charlotte Le Breton on the isle of Jersey, Lily (or Lillie) Langtry (1853-1929), nicknamed the Jersey Lily, became a stage actress and producer in the early 1880s; she was known for her relationships with noblemen, including the Prince of Wales, the Earl of Shrewsbury, and Prince Louis of Battenberg.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Cora Urquhart Potter (1857-1936), an American society woman who became a stage actress in England; she married and later divorced James Brown-Potter.<a href="#n05.ref">  [back]
+            </a>
+      </p>
    </div>
-
-   <div class="note">Note 2: There was speculation that following the end of the 1887-88 London season Buffalo Bill's Wild West would move camp to perform in Paris and Rome. However, the entire troupe left Hull, England, on May 5th for the opening in Erastina, Staten Island, New York, on May 30, 1888, ultimately performing in Paris May-November 1889 (and again in 1905) and in Rome February-March 1890 (and again in 1906).</div>
-
-   <div class="note">Note 3: 'Joshua Whitcomb' was the name of a short theatrical sketch written by Henry Denman Thompson (1833-1911), an American playwright and theatre actor.</div>
-
-   <div class="note">Note 4: Born Emilie Charlotte Le Breton on the isle of Jersey, Lily (or Lillie) Langtry (1853-1929), nicknamed the Jersey Lily, became a stage actress and producer in the early 1880s; she was known for her relationships with noblemen, including the Prince of Wales, the Earl of Shrewsbury, and Prince Louis of Battenberg.</div>
-
-   <div class="note">Note 5: Cora Urquhart Potter (1857-1936), an American society woman who became a stage actress in England; she married and later divorced James Brown-Potter.</div>
-
 </div>

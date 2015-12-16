@@ -22,7 +22,8 @@
       </h3>
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/otakte"/>Kills-Many</span>, the young Indian who was admitted to the Bellevue Hospital Saturday last suffering from consumption and an improperly treated broken arm, died yesterday. He was a member of the Lacotah tribe of Sioux, and was taken from the Pine Ridge Agency, Dakota, by Buffalo Bill and went with the Wild West Show to Europe. The boy returned to this port with six others of his tribe Saturday last. He will be buried at the expense of "Buffalo Bill."</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/otakte">Kills-Many</a>
+         </span>, the young Indian who was admitted to the Bellevue Hospital Saturday last suffering from consumption and an improperly treated broken arm, died yesterday. He was a member of the Lacotah tribe of Sioux, and was taken from the Pine Ridge Agency, Dakota, by Buffalo Bill and went with the Wild West Show to Europe. The boy returned to this port with six others of his tribe Saturday last. He will be buried at the expense of "Buffalo Bill."</p>
 
 
    </div>

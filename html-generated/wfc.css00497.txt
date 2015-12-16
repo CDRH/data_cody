@@ -34,12 +34,15 @@
 Aug 17th 96</span>
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>—</span>
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g"/>Bleistein</span> &amp; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> had no success so far in placing the Bonds. For the reason of you blooming free silver Democrats<a href="#n02" class="internal_link">2</a>— &amp; I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> think we can place them until after Election— And not then if the Democrats win which thank God they will not. how we are going to save our credit I dont know as it will take every dollar I can raise to pay my own debts and I fear the Buffalo men<a href="#n03" class="internal_link">3</a> 
+            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g">Bleistein</a>
+         </span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> had no success so far in placing the Bonds. For the reason of you blooming free silver Democrats<a href="#n02" class="internal_link">2</a>— &amp; I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> think we can place them until after Election— And not then if the Democrats win which thank God they will not. how we are going to save our credit I dont know as it will take every dollar I can raise to pay my own debts and I fear the Buffalo men<a href="#n03" class="internal_link">3</a> 
          <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> put up any more. But some thing may turn up— If we can squeeze through till I can get foot loose I can go to N. Y. &amp; raise money— but that will be November.</p>
 
       <p>Now George. Nagle<a href="#n04" class="internal_link">4</a> expects to land nearly <del>$100</del> one hundred men there in Sep. and these people after they get their houses up say about Oct 10<u>th</u> Then they will want to take a contract on ditch. I told them we would not employ them by the day for the work they do by <u>contract</u>. they are to receive half cash other half to apply on water rights. Is this satisfactory to you. Salsbury &amp; Bleistein have no objections. George its our duty to be as <a rel="tooltip" class="sic" title="accommodating​ &#xA;    ">accommodateing</a>
@@ -70,21 +73,38 @@ to these people as possible while they are getting out there and getting settled
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Joliet, Illinois, on August 17, 1896. The day's entry in the 1896 Route Diary: "Joliet, Ill. / Monday, August 17. Six-horse driver James Black, who had his arm and shoulder dislocated in Michigan City, closed to-day and left for Philadelphia. John Curley, of the stake-and-chain wagon, left this afternoon for Chicago, to go to the hospital. J. A. Berscheid joined the Annex Band to-day. Dan. Taylor left this evening for Milwaukee to prepare the lot for our next Monday and Tuesday engagement. / Business big at both performances. / Weather cool and clear. / Lot, Second Avenue--Old Fair Grounds. / Arena, 181 x 360."</div>
-
-   <div class="note">Note 2: Cody believed that the "blooming free silver Democrats" had ruined the bond market and thus would jeopardize the irrigation project in the Big Horn Basin.</div>
-
-   <div class="note">Note 3: "Buffalo men" refers to Bleistein, Rumsey, and Gerrans.</div>
-
-   <div class="note">Note 4: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands in the Big Horn Basin that were to be irrigated by the Cody Canal.</div>
-
-   <div class="note">Note 5: "Colony" refers to the first group of fifty German migrant families to settle in the Big Horn Basin.</div>
-
-   <div class="note">Note 6: Sage Creek lies east of Cody, Wyoming, flowing north and into the Shoshone River northeast of Cody.</div>
-
-   <div class="note">Note 7: Cody refers to 'red buttes' but he likely means Red Bluffs southeast of Cody. Red Butte is located northwest of Cody and is part of Rattlesnake Mountain and apart from the reclamation area.</div>
-
-   <div class="note">Note 8: The "Town" was officially named Cody, Wyoming, in August 1896.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Buffalo Bill's Wild West performed in Joliet, Illinois, on August 17, 1896. The day's entry in the 1896 Route Diary: "Joliet, Ill. / Monday, August 17. Six-horse driver James Black, who had his arm and shoulder dislocated in Michigan City, closed to-day and left for Philadelphia. John Curley, of the stake-and-chain wagon, left this afternoon for Chicago, to go to the hospital. J. A. Berscheid joined the Annex Band to-day. Dan. Taylor left this evening for Milwaukee to prepare the lot for our next Monday and Tuesday engagement. / Business big at both performances. / Weather cool and clear. / Lot, Second Avenue--Old Fair Grounds. / Arena, 181 x 360."<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: Cody believed that the "blooming free silver Democrats" had ruined the bond market and thus would jeopardize the irrigation project in the Big Horn Basin.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: "Buffalo men" refers to Bleistein, Rumsey, and Gerrans.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands in the Big Horn Basin that were to be irrigated by the Cody Canal.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 5: "Colony" refers to the first group of fifty German migrant families to settle in the Big Horn Basin.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 6: Sage Creek lies east of Cody, Wyoming, flowing north and into the Shoshone River northeast of Cody.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 7: Cody refers to 'red buttes' but he likely means Red Bluffs southeast of Cody. Red Butte is located northwest of Cody and is part of Rattlesnake Mountain and apart from the reclamation area.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 8: The "Town" was officially named Cody, Wyoming, in August 1896.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

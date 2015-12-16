@@ -27,7 +27,8 @@ Apr. 24<u>th</u> 99</span>
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
 
@@ -43,12 +44,15 @@ Apr. 24<u>th</u> 99</span>
    </div>
 
 
-
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Lynchburg, Virginia, on April 24, 1899. </div>
-
-   <div class="note">Note 2: William Alford Richards (1849-1912), 4th governor of Wyoming (1895-1899) and Assistant Commissioner of the General Land Office (U.S.) during 1901.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Lynchburg, Virginia, on April 24, 1899. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: William Alford Richards (1849-1912), 4th governor of Wyoming (1895-1899) and Assistant Commissioner of the General Land Office (U.S.) during 1901.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 
 </div>

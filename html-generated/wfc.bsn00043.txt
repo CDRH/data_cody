@@ -24,7 +24,8 @@
       <span class="dateline">July 23, 1907.</span>
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, Trustee,
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+      </span>, Trustee,
 
 78 Exchange St., 
 

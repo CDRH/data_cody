@@ -24,7 +24,8 @@ Shawneetown Ill
 Nov. 18th <a href="#n01" class="internal_link">1</a>
       </span>
       <span class="salute">Miss <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/moses.m"/>Mollie Moses</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/moses.m">Mollie Moses</a>
+         </span>
       </span>
 
       <span class="salute">Dear. Miss</span>
@@ -76,11 +77,18 @@ Yours Very Respectfully</span>
 
 
 
-
-   <div class="note">Note 1: Although Cody did not include the year in this letter's dateline, 1884 was the only year that the Wild West performed in Shawneetown, Illinois.</div>  
-
-   <div class="note">Note 2: Cody refers to the World's Industrial and Cotton Centennial Exposition, held at New Orleans from December 1884 to June 1885.  Cody's Wild West held a winter season of performances at New Orleans in connection with the fair from December 1884 to April 1885. Persistent rain discouraged attendance and the exhibition suffered considerable financial loss.</div>
-
-   <div class="note">Note 3: A portion of Cody's text, beginning with this sentence and continuing to the closing and signature on this page, has been circled in pencil. The number 3, also in pencil, appears on the lower left corner of the page.  These marks appear to have been added later by an unknown person.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Although Cody did not include the year in this letter's dateline, 1884 was the only year that the Wild West performed in Shawneetown, Illinois.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody refers to the World's Industrial and Cotton Centennial Exposition, held at New Orleans from December 1884 to June 1885.  Cody's Wild West held a winter season of performances at New Orleans in connection with the fair from December 1884 to April 1885. Persistent rain discouraged attendance and the exhibition suffered considerable financial loss.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: A portion of Cody's text, beginning with this sentence and continuing to the closing and signature on this page, has been circled in pencil. The number 3, also in pencil, appears on the lower left corner of the page.  These marks appear to have been added later by an unknown person.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

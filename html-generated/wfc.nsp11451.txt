@@ -26,13 +26,22 @@
    </div>
 
 
-
-   <div class="note">Note 1: Margaret "Ma" Whittaker was Mrs. Frank Whittaker, who was with Buffalo Bill's Wild West in 1886-87 and in 1890.</div>
-
-   <div class="note">Note 2: Tom-tom is a type of drum associated with American Indian culture. It is also the British term for a toy drum.</div>
-
-   <div class="note">Note 3: "Gitche Manitou" in several American Indian languages means "Great Spirit."</div>
-
-   <div class="note">Note 4: Blue Horse (<em class="hi">Sunkawakan To,</em> 1820-1908), an Oglala Lakota chief who performed in Buffalo Bill's Wild West in England in 1887, was one of the first Oglala Lakota U.S. Army Indian Scouts.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Margaret "Ma" Whittaker was Mrs. Frank Whittaker, who was with Buffalo Bill's Wild West in 1886-87 and in 1890.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Tom-tom is a type of drum associated with American Indian culture. It is also the British term for a toy drum.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Gitche Manitou" in several American Indian languages means "Great Spirit."<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Blue Horse (<em class="hi">Sunkawakan To,</em> 1820-1908), an Oglala Lakota chief who performed in Buffalo Bill's Wild West in England in 1887, was one of the first Oglala Lakota U.S. Army Indian Scouts.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -37,7 +37,8 @@
 
       <span class="ab">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Geo T Beck</a>
+         </span>
       </span>
 
       <span class="ab">Chamberlins Hotel</span>
@@ -55,12 +56,18 @@
 
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West occupied winter quarters in Bridgeport, Connecticut, from November 3, 1895 through April 17, 1896.</div>
-
-   <div class="note">Note 2: President Grover Cleveland (1837-1908). Cody hoped Cleveland would soon sign over the lands for settlement in the Big Horn Basin under the Carey Act of 1894.</div>
-
-   <div class="note">Note 3: Adlai E. Stevenson I (1835-1914), was Vice-president of the United States at this time.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West occupied winter quarters in Bridgeport, Connecticut, from November 3, 1895 through April 17, 1896.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: President Grover Cleveland (1837-1908). Cody hoped Cleveland would soon sign over the lands for settlement in the Big Horn Basin under the Carey Act of 1894.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Adlai E. Stevenson I (1835-1914), was Vice-president of the United States at this time.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

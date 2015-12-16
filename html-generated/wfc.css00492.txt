@@ -35,11 +35,13 @@ July 8th<a href="#n02" class="internal_link">2</a>
       </span>
 
 Dear <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+         <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+      </span>
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Mr. Salsbury</span> has told me of the dirty cowardly act Say I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> like to accuse an innocent man— And I have been <a rel="tooltip" class="sic" title="too​ &#xA;    ">to</a> severe on some of my best friends perhaps. So I am trying not to be such a crank. But from this distance if I was going to suspect anyone I <a rel="tooltip" class="sic" title="​ &#xA;    ">wouldnt</a> over look shot gun Bailey.<a href="#n03" class="internal_link">3</a> And the Coronet player.<a href="#n04" class="internal_link">4</a>
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Mr. Salsbury</a>
+         </span> has told me of the dirty cowardly act Say I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> like to accuse an innocent man— And I have been <a rel="tooltip" class="sic" title="too​ &#xA;    ">to</a> severe on some of my best friends perhaps. So I am trying not to be such a crank. But from this distance if I was going to suspect anyone I <a rel="tooltip" class="sic" title="​ &#xA;    ">wouldnt</a> over look shot gun Bailey.<a href="#n03" class="internal_link">3</a> And the Coronet player.<a href="#n04" class="internal_link">4</a>
       </p>
 
       <span class="closer">
@@ -51,13 +53,22 @@ Dear <span class="persName">
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Kenton, Ohio, on July 8, 1896. The day's entry in the 1896 Route Diary: "Kenton, Ohio. / Wednesday, July 8. Arrived in town at 6 A. M. Three-quarters mile haul to lot, which we found to be large and roomy and in good condition. R. F. Watson, an American soldier, had a saber run through his left ear during the military drill. While Engineer C. H. Crowell was down-town this morning he was arrested on suspicion of being connected with a $900.00 robbery; he was taken to headquarters, searched and let go. Reserve seats were sold to-day for 25 cents each for the first time this season. William Sloan, second cook, closed to-day. / Business in the afternoon big, in the evening fair. / Lot, Liston and Fountain streets. / Arena, 179 x 366."</div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but was 1896 as determined by the Routes List.</div>
-
-   <div class="note">Note 3: Possibly James A. Bailey (1847-1906), who was Cody's "Director of Tour" for Buffalo Bill's Wild West in 1896.</div>
-
-   <div class="note">Note 4: Cody's comment may refer to William Sweeney (1856-1917), a cornet player who organized and directed the Cowboy Band in Buffalo Bill's Wild West from 1883 to 1913.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Kenton, Ohio, on July 8, 1896. The day's entry in the 1896 Route Diary: "Kenton, Ohio. / Wednesday, July 8. Arrived in town at 6 A. M. Three-quarters mile haul to lot, which we found to be large and roomy and in good condition. R. F. Watson, an American soldier, had a saber run through his left ear during the military drill. While Engineer C. H. Crowell was down-town this morning he was arrested on suspicion of being connected with a $900.00 robbery; he was taken to headquarters, searched and let go. Reserve seats were sold to-day for 25 cents each for the first time this season. William Sloan, second cook, closed to-day. / Business in the afternoon big, in the evening fair. / Lot, Liston and Fountain streets. / Arena, 179 x 366."<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but was 1896 as determined by the Routes List.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Possibly James A. Bailey (1847-1906), who was Cody's "Director of Tour" for Buffalo Bill's Wild West in 1896.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Cody's comment may refer to William Sweeney (1856-1917), a cornet player who organized and directed the Cowboy Band in Buffalo Bill's Wild West from 1883 to 1913.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -31,9 +31,14 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: William Walter Phelps (1839-1894), a successful merchant and financier in New York City, held a seat in U. S. House of Representatives in 1872 and was re-elected to Congress in 1883, 1885 and 1887.</div>   
-
-   <div class="note">Note 2: Eugene Asa Carr (1830-1910), brevet-major general of volunteers and major general in the regular army during the American Civil War; served as an army general during several Indian conflicts in the West, including the Battle of Summit Springs which was staged by Buffalo Bill's Wild West.</div>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: William Walter Phelps (1839-1894), a successful merchant and financier in New York City, held a seat in U. S. House of Representatives in 1872 and was re-elected to Congress in 1883, 1885 and 1887.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Eugene Asa Carr (1830-1910), brevet-major general of volunteers and major general in the regular army during the American Civil War; served as an army general during several Indian conflicts in the West, including the Battle of Summit Springs which was staged by Buffalo Bill's Wild West.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

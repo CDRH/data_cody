@@ -38,7 +38,8 @@ July 18th.<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Clarence</span>,</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Clarence</a>
+         </span>,</span>
 
 
       <p>Your welcome Letter<a href="#n02" class="internal_link">2</a> of July10th. received, and I was glad to hear from you, so far we have had a <a rel="tooltip" class="sic" title="very​ &#xA;    ">verry</a> tough season, it has simply rained all the time so to speak.</p>
@@ -92,15 +93,24 @@ Boston Mass.
    </div>
 
 
-
-
-   <div class="note">Note 1: Although Cody did not include the year in this dateline, this letter is believed to have been written in 1915.  Cody appeared with the Sells-Floto Circus in Green Bay, Wisconsin, on July 19, 1915.</div>
-
-   <div class="note">Note 2: It appears that Cody wrote the word "Letter" by hand over the typed word "Paper."</div>
-
-   <div class="note">Note 3: According to historian Robert E. Bonner, credit for laying out the first wagon road from the town of Cody to Yellowstone National Park should go to <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>George Beck</span>. Although William F. Cody publicly announced his intention to ride in the first private automobile to enter the park, he did not actually attend the formal opening of automobile traffic in Yellowstone on August 1, 1915.</div>
-
-   <div class="note">Note 4: The "prospective buyers" Cody mentions here remain unidentified. Cody was never able to sell his underperforming Arizona mines during his lifetime.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Although Cody did not include the year in this dateline, this letter is believed to have been written in 1915.  Cody appeared with the Sells-Floto Circus in Green Bay, Wisconsin, on July 19, 1915.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: It appears that Cody wrote the word "Letter" by hand over the typed word "Paper."<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: According to historian Robert E. Bonner, credit for laying out the first wagon road from the town of Cody to Yellowstone National Park should go to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/">George Beck</a>
+         </span>. Although William F. Cody publicly announced his intention to ride in the first private automobile to enter the park, he did not actually attend the formal opening of automobile traffic in Yellowstone on August 1, 1915.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: The "prospective buyers" Cody mentions here remain unidentified. Cody was never able to sell his underperforming Arizona mines during his lifetime.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

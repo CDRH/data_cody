@@ -26,14 +26,17 @@
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> 
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span> 
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span> both write me they <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> do a thing. I wrote you a few days ago That all parties<a href="#n02" class="internal_link">2</a> have agreed to close down and for you to close down. And I suppose you have. As <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> impossible for me to carry on the work alone until I can get assistance. Let me know at once what you have done</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+         </span> both write me they <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> do a thing. I wrote you a few days ago That all parties<a href="#n02" class="internal_link">2</a> have agreed to close down and for you to close down. And I suppose you have. As <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> impossible for me to carry on the work alone until I can get assistance. Let me know at once what you have done</p>
 
       <span class="closer">
          <span class="salute">Yours truly</span>
@@ -70,11 +73,18 @@ you will have to leave a man there. But small Salaried Man will do. as well as a
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Minneapolis, Minnesota, on September 14-15, 1896. The day's entry in the 1896 Route Diary: "Minneapolis, Minn. / Monday, Sept. 14. Weather looks bad for our opening here. Fine cold rain all the morning. We had a long and wet parade to-day. Major J. M. Burke, W. H. Gardner and M. Coyle were seen around the front to-day reviving acquaintances. Mrs. Wm. McCune, wife of Chief Usher Wm. McCune, came from Omaha to-day to spend a few days with "Billie." / Business, fair in the afternoon, big at night."</div>
-
-   <div class="note">Note 2: "Parties" are the shareholders in Shoshone Irrigation Company.</div>
-
-   <div class="note">Note 3: "Irma" is Irma Flats, located in the upper South Fork valley where a few thousand acres would be irrigated for arriving settlers.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Minneapolis, Minnesota, on September 14-15, 1896. The day's entry in the 1896 Route Diary: "Minneapolis, Minn. / Monday, Sept. 14. Weather looks bad for our opening here. Fine cold rain all the morning. We had a long and wet parade to-day. Major J. M. Burke, W. H. Gardner and M. Coyle were seen around the front to-day reviving acquaintances. Mrs. Wm. McCune, wife of Chief Usher Wm. McCune, came from Omaha to-day to spend a few days with "Billie." / Business, fair in the afternoon, big at night."<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "Parties" are the shareholders in Shoshone Irrigation Company.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Irma" is Irma Flats, located in the upper South Fork valley where a few thousand acres would be irrigated for arriving settlers.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

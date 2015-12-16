@@ -31,7 +31,8 @@
 
       <span class="ab">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George.T.Beck</span>, Chamberlins Ho tel, Washn, D. C. </span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George.T.Beck</a>
+         </span>, Chamberlins Ho tel, Washn, D. C. </span>
 
 
       <p>Be sure see Hursts<a href="#n01" class="internal_link">2</a> wire result of meeting with secretary.</p>
@@ -44,10 +45,14 @@
 
 
 
-
-   <div class="note">Note 1: Telegram is typewritten by clerk or William F. Cody assignee. </div>
-
-   <div class="note">Note 2: "Hursts" refers to Phoebe Apperson Hearst (1842-1919) and George Hearst (1820-1891), California senator and Comstock Lode magnate. At Beck's request, Phoebe Hearst agreed to provide an indemnity bond of $30,000 at 7.5% for the Shoshone Irrigation Company project.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Telegram is typewritten by clerk or William F. Cody assignee. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "Hursts" refers to Phoebe Apperson Hearst (1842-1919) and George Hearst (1820-1891), California senator and Comstock Lode magnate. At Beck's request, Phoebe Hearst agreed to provide an indemnity bond of $30,000 at 7.5% for the Shoshone Irrigation Company project.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

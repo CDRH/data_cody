@@ -28,7 +28,8 @@ Every Room with Bath</div>
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>Mr. Clarence W. Rowley</span>, Atty. At law,
+         <a href="http://rosie.unl.edu/cody_archive/doc/">Mr. Clarence W. Rowley</a>
+      </span>, Atty. At law,
 638 Old South Bldg.,
 Boston, Mass.
 
@@ -88,16 +89,26 @@ Mass.
 
 
 
-
-   <div class="note">Note 1: Cody refers to the filming of his motion picture entitled <em class="hi">The Indian Wars</em>.  Much of the photography for this project was done on the Pine Ridge reservation in South Dakota in October 1913. Unfortunately, Cody's motion picture (as did almost all motion pictures of the time) used nitrate film stock, which disintegrates over time and is highly flammable. Only small fragments of Cody's film are reported to still be in existence.</div>
-
-   <div class="note">Note 2: The Essanay Film Manufacturing Company (which was actually a motion picture studio) was based in Chicago for most of its existence from 1907 to 1918. The company's name stood for "S and A," the initials of its two founders, <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>George K. Spoor</span> and Gilbert M. "Broncho Billy" Anderson (1880-1971). Essanay's Western films starring Anderson did much to establish the genre as a staple of American cinema.</div>
-
-   <div class="note">Note 3: Cody did eventually go on a short lecture tour with his motion pictures, in February and March of 1916. The tour began at New Rochelle, New York, and ended in New York City.</div>
-
-   <div class="note">Note 4: Cody refers to mining ventures near Tucson, Arizona, co-owned with <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>Daniel Burns Dyer</span>. In 1912 the partners realized that the earnings from their mines were unlikely to recoup their initial investments. Dyer died soon thereafter. While Clarence Rowley's "Boston friends" remain unidentified, Cody never found a buyer for the mines during his lifetime.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Cody refers to the filming of his motion picture entitled <em class="hi">The Indian Wars</em>.  Much of the photography for this project was done on the Pine Ridge reservation in South Dakota in October 1913. Unfortunately, Cody's motion picture (as did almost all motion pictures of the time) used nitrate film stock, which disintegrates over time and is highly flammable. Only small fragments of Cody's film are reported to still be in existence.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The Essanay Film Manufacturing Company (which was actually a motion picture studio) was based in Chicago for most of its existence from 1907 to 1918. The company's name stood for "S and A," the initials of its two founders, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/">George K. Spoor</a>
+         </span> and Gilbert M. "Broncho Billy" Anderson (1880-1971). Essanay's Western films starring Anderson did much to establish the genre as a staple of American cinema.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Cody did eventually go on a short lecture tour with his motion pictures, in February and March of 1916. The tour began at New Rochelle, New York, and ended in New York City.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Cody refers to mining ventures near Tucson, Arizona, co-owned with <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Daniel Burns Dyer</a>
+         </span>. In 1912 the partners realized that the earnings from their mines were unlikely to recoup their initial investments. Dyer died soon thereafter. While Clarence Rowley's "Boston friends" remain unidentified, Cody never found a buyer for the mines during his lifetime.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

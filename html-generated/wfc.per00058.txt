@@ -38,16 +38,26 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: Also known as the Queen's or King's Guard, these troops guard the residences of the British Royal Family.</div>
-
-   <div class="note">Note 2: The Royal Agricultural Hall, opened in 1862, was designed for the exhibition of livestock and agricultural equipment.</div>
-
-   <div class="note">Note 3: Refers to the fraudulent practice of selling carved wooden nutmegs in place of the authentic article.</div>
-
-   <div class="note">Note 4: May refer to a tailor's or pressing ham, a ham-shaped cushion (often stuffed with sawdust) that is used in pressing garments.</div> 
-
-   <div class="note">Note 5: HAL FALOAF is unknown; possibly a pseudonym "half a loaf." </div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Also known as the Queen's or King's Guard, these troops guard the residences of the British Royal Family.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The Royal Agricultural Hall, opened in 1862, was designed for the exhibition of livestock and agricultural equipment.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Refers to the fraudulent practice of selling carved wooden nutmegs in place of the authentic article.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: May refer to a tailor's or pressing ham, a ham-shaped cushion (often stuffed with sawdust) that is used in pressing garments.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: HAL FALOAF is unknown; possibly a pseudonym "half a loaf." <a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

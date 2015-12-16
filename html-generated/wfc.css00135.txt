@@ -23,7 +23,8 @@ Aug. 21st 1902<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear Mr <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Woods</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Woods</a>
+         </span>
       </span>
 
 
@@ -89,11 +90,18 @@ Nebr
 
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Walla Walla, Washington, on August 21, 1902.</div>
-
-   <div class="note">Note 2: Cody refers to his Irma Hotel, then under construction in the town of Cody, Wyoming. "Mr. Martin" is most likely John Henry Martin (d. 1910), a former Indianapolis railroad agent who was then Buffalo Bill's local representative and business manager.</div>
-
-   <div class="note">Note 3: "Harry Stevens" was actually Henry A. Stephens, an owner of the Stephens Bros. construction firm, then located at 2418 N Street in Lincoln, Nebraska. On August 16, 1902, the  <em class="hi">Lincoln Trade Review</em> reported that Stephens Bros. was the general contractor for William F. Cody's Irma Hotel in Cody, Wyoming.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Walla Walla, Washington, on August 21, 1902.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody refers to his Irma Hotel, then under construction in the town of Cody, Wyoming. "Mr. Martin" is most likely John Henry Martin (d. 1910), a former Indianapolis railroad agent who was then Buffalo Bill's local representative and business manager.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Harry Stevens" was actually Henry A. Stephens, an owner of the Stephens Bros. construction firm, then located at 2418 N Street in Lincoln, Nebraska. On August 16, 1902, the  <em class="hi">Lincoln Trade Review</em> reported that Stephens Bros. was the general contractor for William F. Cody's Irma Hotel in Cody, Wyoming.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

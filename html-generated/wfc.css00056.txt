@@ -52,15 +52,26 @@ is bad for my business and I am still loosing lots of money. but will make it up
 
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Montgomery, Alabama, on April 14 and 15, 1885, and may have been enroute from a performance in Mobile to its next date in Columbia, Tennessee, when this letter was written.</div> 
-
-   <div class="note">Note 2: Although the recipient is not named here, details in the letter strongly suggest that it was <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/moses.m"/>Mollie Moses</span>.</div>
-
-   <div class="note">Note 3: Cody's living children at the time were his daughters Arta (1866-1904) and Irma (1883-1918). Two of Cody's children had died young: his son Kit (1870-76) and daughter Orra (1872-1883).</div>
-
-   <div class="note">Note 4: The marriage between William F. Cody and <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/cody.l"/>Louisa Frederici Cody</span> was often strained. William Cody had initiated divorce proceedings in 1883, but withdrew the petition upon the death of Orra Cody that fall. The Codys were living in separate residences in 1885, as they did for much of their marriage.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Montgomery, Alabama, on April 14 and 15, 1885, and may have been enroute from a performance in Mobile to its next date in Columbia, Tennessee, when this letter was written.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Although the recipient is not named here, details in the letter strongly suggest that it was <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/moses.m">Mollie Moses</a>
+         </span>.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Cody's living children at the time were his daughters Arta (1866-1904) and Irma (1883-1918). Two of Cody's children had died young: his son Kit (1870-76) and daughter Orra (1872-1883).<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: The marriage between William F. Cody and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/cody.l">Louisa Frederici Cody</a>
+         </span> was often strained. William Cody had initiated divorce proceedings in 1883, but withdrew the petition upon the death of Orra Cody that fall. The Codys were living in separate residences in 1885, as they did for much of their marriage.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

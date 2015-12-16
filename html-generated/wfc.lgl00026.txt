@@ -24,7 +24,8 @@
       <span class="dateline">Aug. 26/07</span>
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+      </span>
 
 Pittsfield Mass.
 
@@ -32,7 +33,8 @@ Pittsfield Mass.
 
 
       <p>As requested in yours of the 18<u>th</u>, I enclose certified copy of Letters of Administration issued to use in the matter of the Estate of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Horace C. Alger</span> deceased.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Horace C. Alger</a>
+         </span> deceased.</p>
 
       <p>Can you make me a statement of the condition of the interest of the Alger estate in the Cody Townsite Co.?</p>
 

@@ -14,7 +14,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Hamburg, Germany, August 24-31, 1890.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Hamburg, Germany, August 24-31, 1890.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

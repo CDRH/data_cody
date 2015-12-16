@@ -26,7 +26,8 @@ Sep. 2nd 187_<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">My. Dear. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hall.s"/>Sam</span>.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/hall.s">Sam</a>
+         </span>.</span>
 
 
 
@@ -80,9 +81,14 @@ and make lots of <span class="unclear punch">[money?]</span> with the <u>Pen</u>
 
 
 
-
-   <div class="note">Note 1: Cody did not include the year in this letter's dateline, but the listing of dates and places on page 3 matches known performances of the Buffalo Bill Combination during the 1879 season.</div>
-
-   <div class="note">Note 2: The list of show dates for the Buffalo Bill Combination and the second signature were written in pencil, while the rest of the letter is in ink.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Cody did not include the year in this letter's dateline, but the listing of dates and places on page 3 matches known performances of the Buffalo Bill Combination during the 1879 season.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The list of show dates for the Buffalo Bill Combination and the second signature were written in pencil, while the rest of the letter is in ink.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

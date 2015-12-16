@@ -34,7 +34,8 @@ Euston. London. Liverpool. Birmingham. Preston. Crewe. Holyhead. Greenore. North
 
 
       <span class="salute">My. Dear. Mr. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Wood</span>.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Wood</a>
+         </span>.</span>
 
 
       <p>As there will be no Park travel this summer- I will not build the big addition now. but will build an annex and let the contract to home contractors.<a href="#n02" class="internal_link">2</a> You can send me your bill up to date.</p>
@@ -93,9 +94,14 @@ U. S. A.
 
 
 
-
-   <div class="note">Note 1: This letter is written on the right half of a folded piece of hotel stationery. Several penciled calculations of sums appear on the left half of the paper. Buffalo Bill's Wild West performed in Liverpool, England, from May 4 to May 23, 1903.</div>
-
-   <div class="note">Note 2: William F. Cody had considered building an addition to his Irma Hotel in the town of Cody, Wyoming, but ultimately decided not to proceed. Cody's comment regarding "no Park travel" very likely refers to the low number of visitors then accessing Yellowstone National Park via the town of Cody as compared to other possible routes.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: This letter is written on the right half of a folded piece of hotel stationery. Several penciled calculations of sums appear on the left half of the paper. Buffalo Bill's Wild West performed in Liverpool, England, from May 4 to May 23, 1903.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: William F. Cody had considered building an addition to his Irma Hotel in the town of Cody, Wyoming, but ultimately decided not to proceed. Cody's comment regarding "no Park travel" very likely refers to the low number of visitors then accessing Yellowstone National Park via the town of Cody as compared to other possible routes.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

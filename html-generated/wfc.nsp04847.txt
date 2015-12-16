@@ -41,12 +41,18 @@
    </div>
 
 
-
-   <div class="note">Note 1. William Roy likely became an acquaintance of William F. Cody in Kansas during the Civil War, when Roy was adjutant with the 13th Kansas Infantry and Cody was a volunteer in the 7th Kansas Cavalry.</div> 
-
-   <div class="note">Note 2: The "mud-hole in New Orleans" refers to the forty-four consecutive days of rain the show experienced during their New Orleans performances which ran from December 23, 1884, through April 10, 1885. Audiences and gate receipts were very small, and by the end of that winter the company was in debt $60,000.</div>
-
-   <div class="note">Note 3: President Ulysses S. Grant (1822-1885).</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1. William Roy likely became an acquaintance of William F. Cody in Kansas during the Civil War, when Roy was adjutant with the 13th Kansas Infantry and Cody was a volunteer in the 7th Kansas Cavalry.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The "mud-hole in New Orleans" refers to the forty-four consecutive days of rain the show experienced during their New Orleans performances which ran from December 23, 1884, through April 10, 1885. Audiences and gate receipts were very small, and by the end of that winter the company was in debt $60,000.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: President Ulysses S. Grant (1822-1885).<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

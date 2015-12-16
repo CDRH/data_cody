@@ -51,14 +51,24 @@ N.Y.
 
 
 
-
-   <div class="note">Note 1: This letter was probably written in 1916.  Other Cody letters dated 1916 mention "Mr. Haggard" (see note 3 below).</div>
-
-   <div class="note">Note 2: <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/elwell.r"/>Robert Farrington Elwell</span> (1874-1962).</div>
-
-   <div class="note">Note 3: "Mr. Haggard" is very likely Sewell Haggard (c. 1879-1928), an editor who then worked on magazines owned by William Randolph Hearst.</div>
-
-   <div class="note">Note 4: In the last year of his life, William F. Cody worked on an autobiography to be published in installments by <em class="hi">Hearst's Magazine</em>.  Cody tried to persuade the magazine's editors to hire Elwell to illustrate the series, but the job went to N.C. Wyeth instead.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: This letter was probably written in 1916.  Other Cody letters dated 1916 mention "Mr. Haggard" (see note 3 below).<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/elwell.r">Robert Farrington Elwell</a>
+         </span> (1874-1962).<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Mr. Haggard" is very likely Sewell Haggard (c. 1879-1928), an editor who then worked on magazines owned by William Randolph Hearst.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: In the last year of his life, William F. Cody worked on an autobiography to be published in installments by <em class="hi">Hearst's Magazine</em>.  Cody tried to persuade the magazine's editors to hire Elwell to illustrate the series, but the job went to N.C. Wyeth instead.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -22,9 +22,14 @@
    </div>
 
 
-
-   <div class="note">Note 1: Benjamin West (1738-1820), an American-born artist, was the official historical painter to the Court of King George III and a founding member and later president of the Royal Academy of Arts (London).</div>
-
-   <div class="note">Note 2: Thomas Sully (1783-1872), an English-born portrait artist and student of Benjamin West.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Benjamin West (1738-1820), an American-born artist, was the official historical painter to the Court of King George III and a founding member and later president of the Royal Academy of Arts (London).<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Thomas Sully (1783-1872), an English-born portrait artist and student of Benjamin West.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -41,7 +41,10 @@
    </div>
 
 
-
-  <div class="note">Note 1: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Franklin Knight Lane (1864-1921) served as United States Secretary of the Interior from 1913 to 1920.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

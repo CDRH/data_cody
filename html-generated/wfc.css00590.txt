@@ -36,8 +36,14 @@ Washington, D. C.
    </div>
 
 
-
-  <div class="note">Note 1: Cato Sells (1859-1948) was a commissioner at the Office of Indian Affairs from 1913 to 1921.</div>
-  <div class="note">Note 2: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Cato Sells (1859-1948) was a commissioner at the Office of Indian Affairs from 1913 to 1921.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Major John Richard Brennan (1848-1919) was superintendent at Pine Ridge Indian School, Pine Ridge, South Dakota, from 1900 to 1917.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

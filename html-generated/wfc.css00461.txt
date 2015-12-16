@@ -29,7 +29,8 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
 
@@ -37,7 +38,8 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> was with you about the time you wrote this letter His letter &amp; yours so wide apart Did you &amp; he talk it over together. If not what did he go up there for? George I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> see how I can carry this unexpected
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> was with you about the time you wrote this letter His letter &amp; yours so wide apart Did you &amp; he talk it over together. If not what did he go up there for? George I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> see how I can carry this unexpected
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -69,13 +71,22 @@ raise in the estimates &amp; I will not ask B. &amp; S.<a href="#n02" class="int
    </div>
 
 
-
-   <div class="note">Note 1: "Sunday morning nearing Atlanta- on train" as inscribed by Cody, was Sunday, October 27, 1895, the travel day prior to opening in Atlanta, Georgia, on October 28 where BBWW performed until November 2, 1895, during the run of The Cotton States and International Exposition, also known as the Atlanta Exposition.</div>
-
-   <div class="note">Note 2: "B. &amp; S." refers to <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>George Bleistein</span> and <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Nate Salsbury</span>, two of the primary investors in the canal.</div>
-
-   <div class="note">Note 3: Cody, Wyoming.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: "Sunday morning nearing Atlanta- on train" as inscribed by Cody, was Sunday, October 27, 1895, the travel day prior to opening in Atlanta, Georgia, on October 28 where BBWW performed until November 2, 1895, during the run of The Cotton States and International Exposition, also known as the Atlanta Exposition.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: "B. &amp; S." refers to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">George Bleistein</a>
+         </span> and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Nate Salsbury</a>
+         </span>, two of the primary investors in the canal.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: Cody, Wyoming.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -33,11 +33,18 @@
    </div>
 
 
-
-   <div class="note">Note 1: The physician treating Buck Taylor was Dr. Maitland Coffin; Coffin also attended Long Wolf, an Oglala Sioux with Buffalo Bill's Wild West, just prior to Long Wolf's passing in June 1892 in St. George's Hospital, London.</div>  
-
-   <div class="note">Note 2: Dr. Charles Keetley was senior surgeon of the West London Hospital.</div>
-
-   <div class="note">Note 3: Macewen's operation was an orthopedic surgical procedure in practice in the 1880s.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: The physician treating Buck Taylor was Dr. Maitland Coffin; Coffin also attended Long Wolf, an Oglala Sioux with Buffalo Bill's Wild West, just prior to Long Wolf's passing in June 1892 in St. George's Hospital, London.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Dr. Charles Keetley was senior surgeon of the West London Hospital.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Macewen's operation was an orthopedic surgical procedure in practice in the 1880s.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

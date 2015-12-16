@@ -48,19 +48,34 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: Considered one of the more important Army posts along the Oregon Trail, Fort Kearny was established in 1848 on the south bank of the Platte River, eight miles southeast of present-day Kearney, Nebraska.</div>
-
-   <div class="note">Note 2: William Hepburn Russell (1812-1872), a businessman from Missouri most noted as one of the founders of the Pony Express. The transportation/freight company of Russell, Majors &amp; Waddell developed a network of way stations, stores, banks, and other financial institutions providing the foundation for many new settlements throughout the West.</div>
-
-   <div class="note">Note 3: Probably Lewis Simpson, a wagon-master who worked for Russell, Majors &amp; Waddell and a friend of William F. Cody.</div>
-
-   <div class="note">Note 4: "Lucretia Borgia" was the rifle used by William F. Cody for hunting buffalo during the 1860s and 1870s; the rifle was a .50-caliber U.S. Model 1866 Springfield Allin Conversion with a trapdoor breech-loading system.</div>
-  
-   <div class="note">Note 5: Goddard probably refers to Edwin F. Goddard (1835-1920), manager of the Goddard Brothers Company hired by the Kansas Pacific Railroad Company to provide food for the railroad construction crew of 1500 men.</div>
-
-   <div class="note">Note 6: William Averill Comstock (1842-1868), a hunting guide and a U.S. Cavalry and U.S. Army scout with a knowledge of Indian life. Though no proof of the event exists, the story persists that Comstock and Cody competed in a buffalo shoot to determine who would use the sobriquet "Buffalo Bill." Cody won by killing 69 bison to Comstock's 49.</div>
-
-   <div class="note">Note 4: Sheridan, Kansas, along the Kansas Pacific Railroad route, is now a ghost town.</div>
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Considered one of the more important Army posts along the Oregon Trail, Fort Kearny was established in 1848 on the south bank of the Platte River, eight miles southeast of present-day Kearney, Nebraska.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: William Hepburn Russell (1812-1872), a businessman from Missouri most noted as one of the founders of the Pony Express. The transportation/freight company of Russell, Majors &amp; Waddell developed a network of way stations, stores, banks, and other financial institutions providing the foundation for many new settlements throughout the West.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: Probably Lewis Simpson, a wagon-master who worked for Russell, Majors &amp; Waddell and a friend of William F. Cody.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: "Lucretia Borgia" was the rifle used by William F. Cody for hunting buffalo during the 1860s and 1870s; the rifle was a .50-caliber U.S. Model 1866 Springfield Allin Conversion with a trapdoor breech-loading system.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 5: Goddard probably refers to Edwin F. Goddard (1835-1920), manager of the Goddard Brothers Company hired by the Kansas Pacific Railroad Company to provide food for the railroad construction crew of 1500 men.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 6: William Averill Comstock (1842-1868), a hunting guide and a U.S. Cavalry and U.S. Army scout with a knowledge of Indian life. Though no proof of the event exists, the story persists that Comstock and Cody competed in a buffalo shoot to determine who would use the sobriquet "Buffalo Bill." Cody won by killing 69 bison to Comstock's 49.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: Sheridan, Kansas, along the Kansas Pacific Railroad route, is now a ghost town.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

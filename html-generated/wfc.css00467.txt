@@ -34,14 +34,17 @@
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Beck</a>
+         </span>
       </span>
 
 
 
       <p>Went to Cheyenne<a href="#n02" class="internal_link">2</a> and fixed up a water bond<a href="#n03" class="internal_link">3</a> which I hope will <a rel="tooltip" class="sic" title="prove​ &#xA;    ">proove</a> allright. Am sweating blood trying to get President<a href="#n04" class="internal_link">4</a> to sign contract. have every assurance he will do it this week. State contract is ready soon as President signs. I have <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Burke</span> in Washington And have sent fifty telegrams there— I appreciate the fact but I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> presume annother member of this Co does that there is several things that have to be rushed. Have you spoken to <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Rumsey</span> how short we are for funds— is his Brother<a href="#n05" class="internal_link">5</a> coming in? Or are you checking out and <a rel="tooltip" class="sic" title="giving​ &#xA;    ">giveing</a> no one any warning until checks go to protest? I have no idea what your expenses are this month. Why <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you ask some one to write me? Some one from that end should keep the 
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Burke</a>
+         </span> in Washington And have sent fifty telegrams there— I appreciate the fact but I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> presume annother member of this Co does that there is several things that have to be rushed. Have you spoken to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Rumsey</a>
+         </span> how short we are for funds— is his Brother<a href="#n05" class="internal_link">5</a> coming in? Or are you checking out and <a rel="tooltip" class="sic" title="giving​ &#xA;    ">giveing</a> no one any warning until checks go to protest? I have no idea what your expenses are this month. Why <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> you ask some one to write me? Some one from that end should keep the 
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -70,7 +73,8 @@ different members of the Co. posted of <a rel="tooltip" class="sic" title="what'
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Mead</span> will be up in a few days to help you out— Then if a man could be found who would write.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Mead</a>
+         </span> will be up in a few days to help you out— Then if a man could be found who would write.</p>
 
       <span class="closer">
          <span class="salute">Yours— </span>
@@ -117,7 +121,8 @@ different members of the Co. posted of <a rel="tooltip" class="sic" title="what'
 
 
       <p>PS. George. I wrote you to Sheridan that if I had the ready cash I would send you 3000 at once—I am putting every dollar I make with this show into Black America<a href="#n09" class="internal_link">9</a> As <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> is still dangerously sick. <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> sign a check so I have to put up. But as soon as I can I will help you out—</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> is still dangerously sick. <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> sign a check so I have to put up. But as soon as I can I will help you out—</p>
 
       <span class="closer">
          <span class="salute">Yours—</span>
@@ -130,25 +135,42 @@ different members of the Co. posted of <a rel="tooltip" class="sic" title="what'
    </div>
 
 
-
-
-   <div class="note">Note 1: Letterhead is imprinted with "1895;" Cody does not inscribe the date, but Routes List and letter context determine the year as 1896.</div>
-
-   <div class="note">Note 2: The Wyoming government body overseeing the Carey Act was the State Land Board in Cheyenne.</div>
-
-   <div class="note">Note 3: "Water bond" likely refers to Cody seeking to secure water rights from the State of Wyoming to sell to the German migrant families who intended to settle in the Big Horn Basin.</div>
-
-   <div class="note">Note 4: "President" is likely President Grover Cleveland, whom Cody was hoping would soon sign over the lands for reclamation and settlement in the Big Horn Basin under the Carey Act of 1894.</div>
-
-   <div class="note">Note 5: Bronson Rumsey's brother was Laurence Dana Rumsey, Sr., 1849-1917.</div>
-
-   <div class="note">Note 6: Red Bluffs is a hill formation to the south and west of Cody, Wyoming,  whose red color stands out among the mountainous formations.</div>
-
-   <div class="note">Note 7: "Sulphur creek" is a natural streambed located west of Cody, Wyoming, flowing north toward the Shoshone River along the base of Cedar Mountain.</div>
-
-   <div class="note">Note 8: The schedule Cody lists is his itinerary for late March to April 25: Buffalo Bill's Wild West opened the 1896 season in Philadelphia April 18-25, 1896.</div>
-
-   <div class="note">Note 9: "Black America" was the traveling show staged by Nathan Salsbury in 1895 as a representation of Southern life; the troupe numbered 300 people and was the largest African American show ever put on a stage. </div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Letterhead is imprinted with "1895;" Cody does not inscribe the date, but Routes List and letter context determine the year as 1896.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: The Wyoming government body overseeing the Carey Act was the State Land Board in Cheyenne.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: "Water bond" likely refers to Cody seeking to secure water rights from the State of Wyoming to sell to the German migrant families who intended to settle in the Big Horn Basin.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: "President" is likely President Grover Cleveland, whom Cody was hoping would soon sign over the lands for reclamation and settlement in the Big Horn Basin under the Carey Act of 1894.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 5: Bronson Rumsey's brother was Laurence Dana Rumsey, Sr., 1849-1917.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 6: Red Bluffs is a hill formation to the south and west of Cody, Wyoming,  whose red color stands out among the mountainous formations.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 7: "Sulphur creek" is a natural streambed located west of Cody, Wyoming, flowing north toward the Shoshone River along the base of Cedar Mountain.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 8: The schedule Cody lists is his itinerary for late March to April 25: Buffalo Bill's Wild West opened the 1896 season in Philadelphia April 18-25, 1896.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 9: "Black America" was the traveling show staged by Nathan Salsbury in 1895 as a representation of Southern life; the troupe numbered 300 people and was the largest African American show ever put on a stage. <a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

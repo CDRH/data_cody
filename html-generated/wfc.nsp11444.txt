@@ -53,8 +53,10 @@
       <p>There is a young person of 15 years, not by the way very prepossessing looking, who seems as much at home with her rifle as most of us are with the needle; as a proof of this, of glass balls thrown from the hand she scored 323 successive hits, without a miss, and out of 400 in all, broke 395 balls.</p>
 	
       <p>The name of this lady is <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/smith.l"/>Lilian T. Smith</span>, and a sister in arms is <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a"/>Miss Annie Oakley</span>. At the age of 14, by the sale of game and skins, shot and trapped by herself, Miss Oakley freed her father’s farm from a heavy mortgage.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/smith.l">Lilian T. Smith</a>
+         </span>, and a sister in arms is <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Annie Oakley</a>
+         </span>. At the age of 14, by the sale of game and skins, shot and trapped by herself, Miss Oakley freed her father’s farm from a heavy mortgage.</p>
 	
       <p>As a rider her skill is most remarkable. It is said a gentleman possessed of a very vicious horse that none could break, offered it to this girl of 21 if she could make it tractable, and in three days the feat was accomplished and the prize secured.</p>
 	
@@ -79,19 +81,30 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: Sir Charles Wyndham (1837-1919), an English actor, manager, and playwright during the late 19th and early 20th centuries.</div>
-
-   <div class="note">Note 2: David Garrick (1717-1779), an English actor, playwright, theater manager, entrepreneur, and international celebrity credited with revolutionizing the British stage and acting during the 18th century.</div>
-
-   <div class="note">Note 3: The Criterion Theatre, a West End London theater on Piccadilly Circus in Westminster built and opened in 1874, is a 588 seat underground well-preserved Victorian theater with an intimate atmosphere.</div>
-
-   <div class="note">Note 4: Sir Squire Bancroft (1841-1926), born Squire White Butterfield, an English actor and theatrical manager who was knighted in 1895.  Lady Marie Effie Wilton Bancroft (1839-1921), an English actress and manager.</div>
-
-   <div class="note">Note 5: Edward Ledger (d. 1921), an English editor and owner of <em class="hi">The Era,</em> a weekly newspaper about the theatre and music who authored <em class="hi">The Era Almanack</em> from 1868-1919, an annual publication of short biographies and photographs of leading theatrical endeavors and actors. Mrs. Ledger is not further identified.</div>
-
-   <div class="note">Note 6: Frederic William Farrar (1831-1903), an English theologian and cleric of the Church of England, honorary chaplain to Queen Victoria, Canon of Westminster Abbey, Archdeacon of Westminster and Dean of Canterbury.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Sir Charles Wyndham (1837-1919), an English actor, manager, and playwright during the late 19th and early 20th centuries.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: David Garrick (1717-1779), an English actor, playwright, theater manager, entrepreneur, and international celebrity credited with revolutionizing the British stage and acting during the 18th century.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: The Criterion Theatre, a West End London theater on Piccadilly Circus in Westminster built and opened in 1874, is a 588 seat underground well-preserved Victorian theater with an intimate atmosphere.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Sir Squire Bancroft (1841-1926), born Squire White Butterfield, an English actor and theatrical manager who was knighted in 1895.  Lady Marie Effie Wilton Bancroft (1839-1921), an English actress and manager.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Edward Ledger (d. 1921), an English editor and owner of <em class="hi">The Era,</em> a weekly newspaper about the theatre and music who authored <em class="hi">The Era Almanack</em> from 1868-1919, an annual publication of short biographies and photographs of leading theatrical endeavors and actors. Mrs. Ledger is not further identified.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: Frederic William Farrar (1831-1903), an English theologian and cleric of the Church of England, honorary chaplain to Queen Victoria, Canon of Westminster Abbey, Archdeacon of Westminster and Dean of Canterbury.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

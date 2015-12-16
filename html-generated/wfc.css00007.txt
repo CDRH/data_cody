@@ -25,7 +25,8 @@ June 20th/07</span>
 
 
 Major <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/"/>John R. Brennan</span>
+         <a href="http://rosie.unl.edu/cody_archive/doc/">John R. Brennan</a>
+      </span>
 Pine Ridge
 
 
@@ -43,9 +44,10 @@ Pine Ridge
    </div>
 
 
-
-
-   <div class="note">Note 1: Very likely Samuel Lone Bear, known as "Sammy," who was one of the Wild West performers photographed by Gertrude Käsebier in 1898.  His father, Chief Oliver Lone Bear, and younger sister Mary had also been among Käsebier's subjects. A surviving show contract from the 1907 season lists this person's name as "Sammie Lone Bear."</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Very likely Samuel Lone Bear, known as "Sammy," who was one of the Wild West performers photographed by Gertrude Käsebier in 1898.  His father, Chief Oliver Lone Bear, and younger sister Mary had also been among Käsebier's subjects. A surviving show contract from the 1907 season lists this person's name as "Sammie Lone Bear."<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -62,13 +62,22 @@ the attentions he received on his journey and in New York. Everybody, of course,
    </div>
 
 
-
-   <div class="note">Note 1: Grand Duke Alexis was Alekseĭ Aleksandrovich of Russia (1850-1908), who arrived in New York City at age 22 to tour the United States, including hunting buffalo in a hunt supported by the United States Cavalry and guided by William F. Cody in January 1872.</div>
-
-   <div class="note">Note 2: Professor Henry Augustus Ward (1834-1906), an American naturalist, geologist, and pioneer in the natural sciences, founded Ward's Natural Science.</div>
-
-   <div class="note">Note 3: The Jeromes were brothers Leonard Walter Jerome (1818-1891) and Lawrence Roscoe Jerome (1820-1888), both of whom accompanied William F. Cody on an 1871 hunt for bison and game.</div>
-
-   <div class="note">Note 4: Jane Marsh Parker (1836-1913), also known as Jenny Marsh Parker, a resident of Rochester, New York, was a writer of poetry and essays on history, travel, missionaries, etc.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Grand Duke Alexis was Alekseĭ Aleksandrovich of Russia (1850-1908), who arrived in New York City at age 22 to tour the United States, including hunting buffalo in a hunt supported by the United States Cavalry and guided by William F. Cody in January 1872.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Professor Henry Augustus Ward (1834-1906), an American naturalist, geologist, and pioneer in the natural sciences, founded Ward's Natural Science.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: The Jeromes were brothers Leonard Walter Jerome (1818-1891) and Lawrence Roscoe Jerome (1820-1888), both of whom accompanied William F. Cody on an 1871 hunt for bison and game.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Jane Marsh Parker (1836-1913), also known as Jenny Marsh Parker, a resident of Rochester, New York, was a writer of poetry and essays on history, travel, missionaries, etc.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

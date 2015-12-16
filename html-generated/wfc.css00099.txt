@@ -72,9 +72,14 @@ Wyo.
    </div>
 
 
-
-   <div class="note">Note 1: Cody refers to the U.S. General Land Office branch located at Lander, Wyoming, which had initial jurisdiction over the various federal land claims William F. Cody filed in the Big Horn Basin.</div>
-
-   <div class="note">Note 2: The Hoffman House was a leading New York hotel at the time.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Cody refers to the U.S. General Land Office branch located at Lander, Wyoming, which had initial jurisdiction over the various federal land claims William F. Cody filed in the Big Horn Basin.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The Hoffman House was a leading New York hotel at the time.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

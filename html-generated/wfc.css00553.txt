@@ -26,7 +26,8 @@ Sep. 8th / 06</span>
 
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>—</span>
 
  
       <p>Your letter came to day And as Geo. B. Harris<a href="#n02" class="internal_link">2</a> is so anxious to know what the people of Cody &amp; my self are doing about the high line canal— I took the liberty of sending him your letter.</p>
@@ -46,19 +47,30 @@ Sep. 8th / 06</span>
    </div>
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed at Monchengladbach, Germany, on September 8, 1906. Cody abbreviates the German city as "Gladback." </div>
-
-   <div class="note">Note 2: George B. Harris (1866-1918), second vice-president of the C. B. &amp; Q. Railroad, became president of the company in 1901 until his resignation in 1910.</div>
-
-   <div class="note">Note 3: George O. Starr (1849-1915) began his show career in a dime museum in the Bowery, becoming the press agent for P. T. Barnum's circus in 1878; by 1905 he was general manager for Barnum &amp; Bailey.</div>
-
-   <div class="note">Note 4: "Little Willie" is Cody's reference to himself.</div>
-
-   <div class="note">Note 5: Hell.</div>
-
-   <div class="note">Note 6: "Betty" refers to George Beck's daughter who was born in Cody, Wyoming, in 1898.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed at Monchengladbach, Germany, on September 8, 1906. Cody abbreviates the German city as "Gladback." <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: George B. Harris (1866-1918), second vice-president of the C. B. &amp; Q. Railroad, became president of the company in 1901 until his resignation in 1910.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: George O. Starr (1849-1915) began his show career in a dime museum in the Bowery, becoming the press agent for P. T. Barnum's circus in 1878; by 1905 he was general manager for Barnum &amp; Bailey.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: "Little Willie" is Cody's reference to himself.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Hell.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: "Betty" refers to George Beck's daughter who was born in Cody, Wyoming, in 1898.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

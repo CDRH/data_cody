@@ -30,7 +30,8 @@ J. W. Boyer, Farm Foreman.</div>
   
   
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/penney.c"/>Capt Charles Penney</span>
+         <a href="http://rosie.unl.edu/cody_archive/doc/penney.c">Capt Charles Penney</a>
+      </span>
   Act Agt Pine Ridge
   
 
@@ -52,12 +53,14 @@ J. W. Boyer, Farm Foreman.</div>
    </div>
 
 
-
-
-   <div class="note">Note 1: The Office of Indian Affairs, which administered Indian reservations, had been under civilian control as part of the Interior Department since 1849. </div>
-
-   <div class="note">Note 2: Probably John Shangreaux.</div>
-
-  
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: The Office of Indian Affairs, which administered Indian reservations, had been under civilian control as part of the Interior Department since 1849. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Probably John Shangreaux.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -27,7 +27,8 @@
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
 
@@ -35,7 +36,8 @@
 
       <p>I dont <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> 
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> will put up a dollar- for he Says the money is so badly <a rel="tooltip" class="sic" title="handled​ &#xA;    ">handeled</a>. If I ask him to put up with me to bring water to Cody &amp; flats<a href="#n03" class="internal_link">3</a>. He will say who is to take charge of work- You know George that heretofore no money has been properly used
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> will put up a dollar- for he Says the money is so badly <a rel="tooltip" class="sic" title="handled​ &#xA;    ">handeled</a>. If I ask him to put up with me to bring water to Cody &amp; flats<a href="#n03" class="internal_link">3</a>. He will say who is to take charge of work- You know George that heretofore no money has been properly used
 
 
 <span class="hr"> </span>
@@ -115,16 +117,28 @@ shod way of <a rel="tooltip" class="sic" title="having​ &#xA;    ">haveing</a>
 
 
 
-
-   <div class="note">Note 1: "Buffalo parties" refers to the investors from Buffalo, N.Y., primarily <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span>, <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>, and <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>.</div>
-
-   <div class="note">Note 2: "Bridge" refers to Cody's efforts to finance building a bridge over the Shoshone River near Cody.</div>
-
-   <div class="note">Note 3: "Flats" refers to acreage in the South Fork valley south of Cody, Wyoming, that would later become known as "Irma Flats," named after William F. Cody's youngest daughter. </div>
-
-   <div class="note">Note 4: Carbon County Bank was located in Red Lodge, Montana, the county seat; the bank was built before 1900.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: "Buffalo parties" refers to the investors from Buffalo, N.Y., primarily <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
+         </span>, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+         </span>.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: "Bridge" refers to Cody's efforts to finance building a bridge over the Shoshone River near Cody.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: "Flats" refers to acreage in the South Fork valley south of Cody, Wyoming, that would later become known as "Irma Flats," named after William F. Cody's youngest daughter. <a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 4: Carbon County Bank was located in Red Lodge, Montana, the county seat; the bank was built before 1900.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

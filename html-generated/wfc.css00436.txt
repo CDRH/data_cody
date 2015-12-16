@@ -43,7 +43,8 @@
       </span>
 
       <span class="salute">Dear- <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
 
@@ -77,15 +78,22 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Allentown, Pennsylvania, on May 9, 1895.</div>
-
-   <div class="note">Note 2: Very likely a manifestation of the illness that would eventually kill Salsbury in 1902.</div>
-
-   <div class="note">Note 3: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation in South Dakota, but lost his license in 1891 for selling alcohol on the reservation.  He moved his business to nearby Rushville, Nebraska, where he continued to supply goods to Indian customers.  William F. Cody was a friend of Asay and often used Rushville as a base for recruiting Lakota performers for Buffalo Bill's Wild West.</div>
-
-   <div class="note">Note 4: This line and Cody's signature in the postscript are written at an angle in the lower right corner of the page.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Allentown, Pennsylvania, on May 9, 1895.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Very likely a manifestation of the illness that would eventually kill Salsbury in 1902.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: James F. Asay (1854-1906) had been a licensed trader on the Pine Ridge reservation in South Dakota, but lost his license in 1891 for selling alcohol on the reservation.  He moved his business to nearby Rushville, Nebraska, where he continued to supply goods to Indian customers.  William F. Cody was a friend of Asay and often used Rushville as a base for recruiting Lakota performers for Buffalo Bill's Wild West.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: This line and Cody's signature in the postscript are written at an angle in the lower right corner of the page.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

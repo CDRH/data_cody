@@ -97,18 +97,30 @@ State Engs Office
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in New York City from April 2 to April 20, 1901.</div>
-
-   <div class="note">Note 2: When public lands were surveyed as a precursor to settlement, certain one-mile-square sections known as "school sections" were designated. Revenue from the sale or lease of these sections was reserved to support public schools.</div>
-
-   <div class="note">Note 3: Edwin Vose Sumner (1835-1912) joined the U.S. Army in 1861 and fought in the Civil War. He made the Army his career after the Civil War, serving as an officer in several cavalry regiments. After serving in the Spanish-American War, Sumner retired with the rank of brigadier general in 1899.</div>
-
-   <div class="note">Note 4: The words "near Cody" appear to have been added later in pencil. The handwriting matches that of William F. Cody.</div>
-
-   <div class="note">Note 5: DeForest Richards (1846-1903) was then the governor of Wyoming. Cody may refer to his predecessor as governor, William A. Richards. DeForest Richards and William A. Richards are not known to be related.</div>
-
-   <div class="note">Note 6: Here begins a body of writing in pencil, not in Cody's handwriting. This material appears to be a transcription of a document written in 1898 by Elwood Mead, who was then Wyoming's state engineer, denying William F. Cody's 1896 application for water rights at DeMaris Springs.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in New York City from April 2 to April 20, 1901.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: When public lands were surveyed as a precursor to settlement, certain one-mile-square sections known as "school sections" were designated. Revenue from the sale or lease of these sections was reserved to support public schools.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Edwin Vose Sumner (1835-1912) joined the U.S. Army in 1861 and fought in the Civil War. He made the Army his career after the Civil War, serving as an officer in several cavalry regiments. After serving in the Spanish-American War, Sumner retired with the rank of brigadier general in 1899.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: The words "near Cody" appear to have been added later in pencil. The handwriting matches that of William F. Cody.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: DeForest Richards (1846-1903) was then the governor of Wyoming. Cody may refer to his predecessor as governor, William A. Richards. DeForest Richards and William A. Richards are not known to be related.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: Here begins a body of writing in pencil, not in Cody's handwriting. This material appears to be a transcription of a document written in 1898 by Elwood Mead, who was then Wyoming's state engineer, denying William F. Cody's 1896 application for water rights at DeMaris Springs.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

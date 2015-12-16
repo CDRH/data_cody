@@ -29,7 +29,8 @@
       <p>As each performance takes place, the nature of it and anything interesting about it are announced from a sort of pulpit in the middle of the arena by a sort of double of Buffalo Bill—a gentleman with a very fine voice, who makes himself heard to a surprising extent. The Indians are by no means pretty to look at, but they make a gallant show in their striped blankets, and displayed abundant vigour in the performances which they have to enact. Perhaps the most pleasing and astonishing part of the whole performance is the firing which is done by two young ladies and by Mr Cody himself. The skill shown is almost too great to be believed. A great proportion of the House of Commons and a large proportion of the theatrical and literary professions were present, and altogether Buffalo Bill may be said to have made a most distinguished commencement.</p>
 	
       <p>One of the entertainments in the programme will have to be omitted or modified. It was the lassoing and roping of cattle. There appeared to be great cruelty in it, and the animals showed signs of acute distress and suffering. Very loud hisses arose from the parts of the arena which were nearest the spectacle. Many of the audience must have felt that a very little more, and they would have been spectators of something like the horrors of a bull fight. This event at Earl’s Court and the reception of the Corporation of London at Buckingham Palace by <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Her Majesty</span> constituted the important events of to-day.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Her Majesty</a>
+         </span> constituted the important events of to-day.</p>
 	
       <p>Lists of Jubilee Peers are in circulation, and some of them have found their way into print. They are certainly not published in the interests of those whose names are contained in them. They are rather likely to injure the chances with Her Majesty of men who she will think are being pressed upon her by unconstitutional means. The Queen is almost absurdly sensitive on this point; and I have reason to believe, also, that in two cases at least there is no chance whatever of a Peerage being conferred. The honours list will be by no means an overwhelmingly large one. It will, however, contain representatives of all sections of the community; and I am able to say that journalism will be represented in it, as well as science, art, and the higher forms of literature. I do not say that any journalist will be made a Peer, but one at least will be made a baronet.</p>
 	
@@ -44,15 +45,26 @@
    </div>
 
 
-
-   <div class="note">Note 1: Henry Davis Pochin (1824-1895), an English industrial chemist and a statesman, who in 1887 served as High Sheriff (oldest secular office under the Crown) in Denbighshire, Wales.</div>
-
-   <div class="note">Note 2: Richard Everard Webster, 1st Viscount Alverstone (1842-1915), served as the Attorney General for England from 1886 to 1892.</div>  
-    
-   <div class="note">Note 3: John Tyndall (1820-1893), an Irish physicist most noted for his theory on greenhouse gases (the Tyndall Effect), was a Fellow of the Royal Society of London, England.</div>
-
-   <div class="note">Note 4: Lord Carnarvon was Henry Howard Molyneux Herbert (1831-1890), fourth Earl of Carnarvon and an English politician.</div>
-
-   <div class="note">Note 5: Sir Charles Edward Lewis (1825-1893), 1st Baronet, was an English politician.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Henry Davis Pochin (1824-1895), an English industrial chemist and a statesman, who in 1887 served as High Sheriff (oldest secular office under the Crown) in Denbighshire, Wales.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Richard Everard Webster, 1st Viscount Alverstone (1842-1915), served as the Attorney General for England from 1886 to 1892.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: John Tyndall (1820-1893), an Irish physicist most noted for his theory on greenhouse gases (the Tyndall Effect), was a Fellow of the Royal Society of London, England.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Lord Carnarvon was Henry Howard Molyneux Herbert (1831-1890), fourth Earl of Carnarvon and an English politician.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Sir Charles Edward Lewis (1825-1893), 1st Baronet, was an English politician.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -20,8 +20,10 @@
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j"/>General O'Beirne</span>, who returned from Gettysburg yesterday, received a letter from Agent H. D. Gallagher of the Sioux Agency thanking him for forwarding the body and seeing to the funeral arrangements of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/otakte"/>Killed-His-Pony</span>, the Indian who recently died at Bellevue Hospital. The burial took place at the Mission Cemetery, four miles northeast of the agency, on White Clay Creek. Chief Red Cloud and Young-Man-Afraid-of-His-Horse sent word that they wished to be remembered, and "shake" with General O'Beirne.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j">General O'Beirne</a>
+         </span>, who returned from Gettysburg yesterday, received a letter from Agent H. D. Gallagher of the Sioux Agency thanking him for forwarding the body and seeing to the funeral arrangements of <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/otakte">Killed-His-Pony</a>
+         </span>, the Indian who recently died at Bellevue Hospital. The burial took place at the Mission Cemetery, four miles northeast of the agency, on White Clay Creek. Chief Red Cloud and Young-Man-Afraid-of-His-Horse sent word that they wished to be remembered, and "shake" with General O'Beirne.</p>
 
    </div>
 

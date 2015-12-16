@@ -17,12 +17,18 @@
       </span>
 
       <p>THIS AGREEMENT, made and entered into this 24th day of September A.D., 1901, by and between the LINCOLN LAND COMPANY, a corporation organized and existing under the laws of the State of Nebraska, and authorized to do business in the State of Wyoming, party of the first part; and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, of the City of Buffalo, and State of New York, acting as Trustee for William F. Cody, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Nathan Salsbury</span>, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>George Bleistein</span>, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Horace C. Alger</span>, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H. Montgomery Gerrans</span> and Bronson Rumsey, party of the second part:</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+         </span>, of the City of Buffalo, and State of New York, acting as Trustee for William F. Cody, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George T. Beck</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Nathan Salsbury</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">George Bleistein</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Horace C. Alger</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">H. Montgomery Gerrans</a>
+         </span> and Bronson Rumsey, party of the second part:</p>
 
       <span class="ab">
          <div class="center">WITNESSETH: </div>

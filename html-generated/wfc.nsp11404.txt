@@ -24,10 +24,14 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: The Princess of Wales was Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) who became Queen Alexandra when her husband, the Prince of Wales, was crowned Edward VII, King of Great Britain in 1901.</div>
-
-   <div class="note">Note 2: Grand Duke Michael Alexandrovich (1878-1918) of Russia was the youngest son of Emperor Alexander III of Russia.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: The Princess of Wales was Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) who became Queen Alexandra when her husband, the Prince of Wales, was crowned Edward VII, King of Great Britain in 1901.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Grand Duke Michael Alexandrovich (1878-1918) of Russia was the youngest son of Emperor Alexander III of Russia.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

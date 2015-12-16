@@ -76,11 +76,18 @@ Wyo.
 
 
 
-
-   <div class="note">Note 1: Although this letter is dated June 4, 1901, the postmark is for June 3. Buffalo Bill's Wild West performed at Pottsville, Pennsylvania, on June 3.</div>
-
-   <div class="note">Note 2: William F. Cody wrote several letters to Hinkle in 1901 in an unsuccessful effort to obtain water rights at DeMaris Springs.</div>
-
-   <div class="note">Note 3: Former Wyoming governor W. A. Richards was then assistant commissioner of the U.S. General Land Office.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Although this letter is dated June 4, 1901, the postmark is for June 3. Buffalo Bill's Wild West performed at Pottsville, Pennsylvania, on June 3.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: William F. Cody wrote several letters to Hinkle in 1901 in an unsuccessful effort to obtain water rights at DeMaris Springs.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Former Wyoming governor W. A. Richards was then assistant commissioner of the U.S. General Land Office.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -26,7 +26,8 @@
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>, Trustee,
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Mr. Bronson Rumsey</a>
+      </span>, Trustee,
 
 78 Exchange Street,
 

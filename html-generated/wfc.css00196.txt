@@ -77,13 +77,22 @@ Wyo
 
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Danville, Illinois, on August 20, 1907. While Cody did not include the year in this letter's dateline, the postmark on the accompanying envelope supplies the missing information.</div>
-
-   <div class="note">Note 2: Cody most likely refers to two long-time Wild West performers: Lewis H. "Johnny" Baker (1869-1931) and William Sweeney (1856-1917), leader of the Wild West's Cowboy Band from 1883 to 1913.</div>
-
-   <div class="note">Note 3: Cody refers to the Barnum and Bailey Circus, which had been sold to the Ringling brothers in July 1907. The Barnum and Bailey show was combined with the Ringling Brothers Circus in 1918 to form the Ringling Brothers and Barnum and Bailey Circus, the name under which the show continues to operate.</div>
-
-   <div class="note">Note 4: Bryant B. Brooks (1861-1944) was then the governor of Wyoming.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Danville, Illinois, on August 20, 1907. While Cody did not include the year in this letter's dateline, the postmark on the accompanying envelope supplies the missing information.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody most likely refers to two long-time Wild West performers: Lewis H. "Johnny" Baker (1869-1931) and William Sweeney (1856-1917), leader of the Wild West's Cowboy Band from 1883 to 1913.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Cody refers to the Barnum and Bailey Circus, which had been sold to the Ringling brothers in July 1907. The Barnum and Bailey show was combined with the Ringling Brothers Circus in 1918 to form the Ringling Brothers and Barnum and Bailey Circus, the name under which the show continues to operate.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Bryant B. Brooks (1861-1944) was then the governor of Wyoming.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

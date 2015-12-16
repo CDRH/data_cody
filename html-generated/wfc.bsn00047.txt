@@ -25,7 +25,8 @@
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Mr. Bronson Rumsey</span>,
+         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Mr. Bronson Rumsey</a>
+      </span>,
 
 78 Exchange St.,
 

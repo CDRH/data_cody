@@ -34,13 +34,16 @@
          <del>Sep</del> Oct 2<u>d</u> 96</span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
       <p>I have just recd a letter from Eddy dated Sep 28<u>th</u> which tells me you have not closed down. I appreciate your motive And if I had the money or could borrow it I would say hang on until Election day. Although I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> 
          <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> your small force are doing the amount of work they should do As your estimates to finish to Town<a href="#n02" class="internal_link">2</a> grows larger each month— And if that is true I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> see where your force makes any showing. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> and Buffalo men<a href="#n03" class="internal_link">3</a> have not put up a dollar since the 6000 they gave to <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> in June. And they positively refuse to put up <a rel="tooltip" class="sic" title="more​ &#xA;    ">moore</a>— You must take time to write them the reasons why you have not closed down— As they and my self ordered you to do. You have got to shoulder the <a rel="tooltip" class="sic" title="responsibility​ &#xA;    ">responsability</a>. If we get into a law suit— As you have continued contrary to orders— And for
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span> and Buffalo men<a href="#n03" class="internal_link">3</a> have not put up a dollar since the 6000 they gave to <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> in June. And they positively refuse to put up <a rel="tooltip" class="sic" title="more​ &#xA;    ">moore</a>— You must take time to write them the reasons why you have not closed down— As they and my self ordered you to do. You have got to shoulder the <a rel="tooltip" class="sic" title="responsibility​ &#xA;    ">responsability</a>. If we get into a law suit— As you have continued contrary to orders— And for
 
 
 <span class="hr"> </span>
@@ -140,17 +143,30 @@ As you did not close down why did you not inform me. your self. I have told the 
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Ottumwa, Iowa, on October 2, 1896. </div>
-
-   <div class="note">Note 2: Cody, Wyoming.</div>
-
-   <div class="note">Note 3: "Buffalo men" are the investors in Shoshone Irrigation Company, including <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>, Bleistein, and <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>.</div>
-
-   <div class="note">Note 4: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have offered stock to Stokes to invest in the Cody Canal.</div>
-
-   <div class="note">Note 5: "Red Lodge [Montana] firms" are the suppliers for the irrigation project to whom Shoshone Irrigation Company owed money.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Ottumwa, Iowa, on October 2, 1896. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody, Wyoming.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Buffalo men" are the investors in Shoshone Irrigation Company, including <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+         </span>, Bleistein, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
+         </span>.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have offered stock to Stokes to invest in the Cody Canal.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: "Red Lodge [Montana] firms" are the suppliers for the irrigation project to whom Shoshone Irrigation Company owed money.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

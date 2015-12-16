@@ -25,12 +25,14 @@
       </h3>
 
       <p>The <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q"/>Queen</span> having expressed her wish to the Chum to Potentates<a href="#n01" class="internal_link">1</a> that the Wild West Show should appear before Her Majesty at Windsor Castle, your correspondent escorted that body into the royal presence on Tuesday last.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen</a>
+         </span> having expressed her wish to the Chum to Potentates<a href="#n01" class="internal_link">1</a> that the Wild West Show should appear before Her Majesty at Windsor Castle, your correspondent escorted that body into the royal presence on Tuesday last.</p>
 
       <p>A large audience of Nobles had assembled to do honor to the aristocratic redmen of the far West, and the Royal Maroon Band played "Lo, the Conquering Hero Comes," as the tribes bowed their respects to Her Majesty. The braves in honor of the occasion wore a new coat of paint and the regulation three feathers in their back hair--a costume which was at once effective and gentlemanly, if, as an old authority on dress has said, "A gentleman's dress is never conspicuous."</p>
 
       <p>A large space in front of the castle had been cleared for the performance, and after a light luncheon <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Mr. Nate Salsbury</span> mounted a pedestal from which the statue of William the Conqueror<a href="#n02" class="internal_link">2</a> had been temporarily removed, and explained to Her Majesty that the Comanche tribe from the suburbs of Boston, would now see how near they could come to running over Prince Battenberg<a href="#n03" class="internal_link">3</a> without really hurting him.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Mr. Nate Salsbury</a>
+         </span> mounted a pedestal from which the statue of William the Conqueror<a href="#n02" class="internal_link">2</a> had been temporarily removed, and explained to Her Majesty that the Comanche tribe from the suburbs of Boston, would now see how near they could come to running over Prince Battenberg<a href="#n03" class="internal_link">3</a> without really hurting him.</p>
 
       <div class="inline_figure">
          <div class="p">[illustration]</div>
@@ -76,25 +78,43 @@ the Bath<a href="#n06" class="internal_link">6</a>--which the Indian declined fr
    </div>
 
 
-
-   <div class="note">Note 1: The pen name "Chum" belongs to Carlyle Smith whose real name was John Kendrick Bangs (1862-1922), a foreign correspondent who wrote an occasional special feature commenting on the activities of the Royals of Britain and Europe as well as their circle of friends. The column, "from foreign fields," appeared in <em class="hi">Life</em> magazine from 1884 to 1888 [Note 9].</div> 
-
-   <div class="note">Note 2: William the Conqueror is William I (1028-1087), King of England from 1066 until his death in 1087.</div>
-
-   <div class="note">Note 3: Prince Battenberg is Colonel Prince Henry Maurice (1858-1896), a descendant of the Grand Ducal House of Hesse who became a member of the British Royal Family in 1885 through his marriage to Princess Beatrice.</div>
-
-   <div class="note">Note 4: The Koh-i-Noor diamond was originally 793 carats when uncut; it is believed to have originated in the state of Andhra Pradesh in India. In 1850 the diamond was confiscated from the Sikh Empire by the British East India Company and became part of the British Crown Jewels when Queen Victoria was proclaimed Empress of India in 1877.</div> 
-
-   <div class="note">Note 5: "Potato-Faced-Charley" appears to be an Indian with the show, but he is not further identified.</div>
-
-   <div class="note">Note 6: Founded by George I in 1725, the Order of the Bath is a British order of chivalry.</div> 
-
-   <div class="note">Note 7: The National Gallery, an art museum founded in 1824 and located in London's Trafalgar Square, which held an exhibit of paintings by English Romantic artist Joseph Mallord William Turner during 1887.</div>
-
-   <div class="note">Note 8: Richard D'Oyly Carte (1844-1901), an English talent agent, theatrical impresario, composer, and hotelier during the latter half of the Victorian era who founded the D'Oyly Carte Opera Company, and in 1881 built the state-of-the-art Savoy Theatre to host Gilbert and Sullivan operas.</div> 
-
-   <div class="note">Note 9: Carlyle Smith is a pseudonym used by the American writer John Kendrick Bangs (1862-1922), a popular author of satire and humorous fiction of the late 19th and early 20th centuries. Bangs was a correspondent and editor for such magazines as <em class="hi">Life</em>, <em class="hi">Harper's Weekly</em>, <em class="hi">Harper's Bazaar</em>, <em class="hi">Munsey's Weekly</em> and <em class="hi">Puck.</em>
-   </div> 
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: The pen name "Chum" belongs to Carlyle Smith whose real name was John Kendrick Bangs (1862-1922), a foreign correspondent who wrote an occasional special feature commenting on the activities of the Royals of Britain and Europe as well as their circle of friends. The column, "from foreign fields," appeared in <em class="hi">Life</em> magazine from 1884 to 1888 [Note 9].<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: William the Conqueror is William I (1028-1087), King of England from 1066 until his death in 1087.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Prince Battenberg is Colonel Prince Henry Maurice (1858-1896), a descendant of the Grand Ducal House of Hesse who became a member of the British Royal Family in 1885 through his marriage to Princess Beatrice.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: The Koh-i-Noor diamond was originally 793 carats when uncut; it is believed to have originated in the state of Andhra Pradesh in India. In 1850 the diamond was confiscated from the Sikh Empire by the British East India Company and became part of the British Crown Jewels when Queen Victoria was proclaimed Empress of India in 1877.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: "Potato-Faced-Charley" appears to be an Indian with the show, but he is not further identified.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: Founded by George I in 1725, the Order of the Bath is a British order of chivalry.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n07.note"/>Note 7: The National Gallery, an art museum founded in 1824 and located in London's Trafalgar Square, which held an exhibit of paintings by English Romantic artist Joseph Mallord William Turner during 1887.<a href="#n07.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n08.note"/>Note 8: Richard D'Oyly Carte (1844-1901), an English talent agent, theatrical impresario, composer, and hotelier during the latter half of the Victorian era who founded the D'Oyly Carte Opera Company, and in 1881 built the state-of-the-art Savoy Theatre to host Gilbert and Sullivan operas.<a href="#n08.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n09.note"/>Note 9: Carlyle Smith is a pseudonym used by the American writer John Kendrick Bangs (1862-1922), a popular author of satire and humorous fiction of the late 19th and early 20th centuries. Bangs was a correspondent and editor for such magazines as <em class="hi">Life</em>, <em class="hi">Harper's Weekly</em>, <em class="hi">Harper's Bazaar</em>, <em class="hi">Munsey's Weekly</em> and <em class="hi">Puck.</em>
+         <a href="#n09.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

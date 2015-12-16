@@ -36,9 +36,14 @@ NAPLES, Feb. 8, 1890.</span>
    </div>
 
 
-
-
-   <div class="note">Note 1: Indian Territory.</div>
-
-   <div class="note">Note 2: Edward Mortimer Hayes (1842-1912) began his military career during the Civil War in 1860; was promoted through the ranks to become a Major in the U.S. Army, for "gallant services in action against Indians at Beaver Creek, Kansas, October 25-26, 1868."; and served in Cuba, and the Philippines before retiring his military career as a Brigadier General in 1902. He was familiarly known as "Fighting Jack" Hayes.</div>  
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Indian Territory.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Edward Mortimer Hayes (1842-1912) began his military career during the Civil War in 1860; was promoted through the ranks to become a Major in the U.S. Army, for "gallant services in action against Indians at Beaver Creek, Kansas, October 25-26, 1868."; and served in Cuba, and the Philippines before retiring his military career as a Brigadier General in 1902. He was familiarly known as "Fighting Jack" Hayes.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

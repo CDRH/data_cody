@@ -23,7 +23,8 @@
 
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>—</span>
 
 
       <p>Thanks for your letter. I will see Mr Murphy<a href="#n02" class="internal_link">2</a> week after next. he lives in Philadelphia. I am in touch with lots of <a rel="tooltip" class="sic" title="financial​ &#xA;    ">finalcial</a> men now. But did not mention Oil to them, only Gold. Silver &amp; Copper But It may be an oil deal would strike them favorably. What about the Painter Copper<a href="#n03" class="internal_link">3</a> property? I wish you would find out for sure if I am the 9th man<a href="#" class="internal_link">4</a>. Tom Foley<a href="#n05" class="internal_link">5</a> is so forgetful.</p>
@@ -55,24 +56,36 @@
 
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East performed in New York, N.Y., from April 27 through May 15, 1909. </div>
-
-   <div class="note">Note 2: Mr. Murphy is not identified.</div>
-
-   <div class="note">Note 3: The Painter Copper property was likely that owned by John Robinson Painter (b.1861), a Philadelphia importer of Swiss musical instruments. In 1896 on a hunt in the Big Horn Basin, Painter fell in love with Sunlight Basin (north of Cody and south of the Beartooth Mountains). Painter sold his business, transported himself and his family from Philadelphia, and became a mining man, establishing the Sunlight Copper Mining Company, which contained copper, silver, and gold ores. </div>
-
-   <div class="note">Note 4: Cody's reference to "the 9th man" is unclear.</div>
-
-   <div class="note">Note 5: Colonel Tom Foley, a friend of William F. Cody's who accompanied Cody on a hunt in 1907 in the mountains above TE Ranch; from a photograph taken on this hunt and entitled "Camp Foley," Cody commissioned a commemorative oil painting by the artist Robert Farrington Elwell.</div>
-
-   <div class="note">Note 6: The route that Cody details for Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East is as Cody lists; there were no Sunday performances: 
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East performed in New York, N.Y., from April 27 through May 15, 1909. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Mr. Murphy is not identified.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: The Painter Copper property was likely that owned by John Robinson Painter (b.1861), a Philadelphia importer of Swiss musical instruments. In 1896 on a hunt in the Big Horn Basin, Painter fell in love with Sunlight Basin (north of Cody and south of the Beartooth Mountains). Painter sold his business, transported himself and his family from Philadelphia, and became a mining man, establishing the Sunlight Copper Mining Company, which contained copper, silver, and gold ores. <a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Cody's reference to "the 9th man" is unclear.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Colonel Tom Foley, a friend of William F. Cody's who accompanied Cody on a hunt in 1907 in the mountains above TE Ranch; from a photograph taken on this hunt and entitled "Camp Foley," Cody commissioned a commemorative oil painting by the artist Robert Farrington Elwell.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: The route that Cody details for Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East is as Cody lists; there were no Sunday performances: 
 <ul>
-         <li>Brooklyn, N.Y., May 17-22, 1909;</li>
-         <li>Philadelphia, May 24-29, 1909;</li>
-         <li>Washington, D.C., May 31-June 1, 1909.</li>
-      </ul>
+            <li>Brooklyn, N.Y., May 17-22, 1909;</li>
+            <li>Philadelphia, May 24-29, 1909;</li>
+            <li>Washington, D.C., May 31-June 1, 1909.</li>
+         </ul>
+         <a href="#n06.ref">  [back]
+            </a>
+      </p>
    </div>
-
 </div>

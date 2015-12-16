@@ -33,14 +33,22 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: Col. George Wheaton of Chicago is not further identified.</div>
-
-   <div class="note">Note 2: Governors of the Bank of England, Mark Wilks Collet (1816-1905) and William Lidderdale (1832-1902); F. May (chief cashier); and H. Clubb (secretary).</div>
-
-   <div class="note">Note 3: Marlborough House, a mansion in the City of Westminster, central London, built for Sarah Churchill, Duchess of Marlborough.</div>
-
-   <div class="note">Note 4: Alekseĭ Aleksandrovich, Grand Duke of Russia, arrived in the United States in November 1871 for a tour of the country, including a buffalo hunt in Nebraska in January 1872, supported by United States Cavalry under the command of General Sheridan and guided by William F. Cody.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Col. George Wheaton of Chicago is not further identified.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Governors of the Bank of England, Mark Wilks Collet (1816-1905) and William Lidderdale (1832-1902); F. May (chief cashier); and H. Clubb (secretary).<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Marlborough House, a mansion in the City of Westminster, central London, built for Sarah Churchill, Duchess of Marlborough.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Alekseĭ Aleksandrovich, Grand Duke of Russia, arrived in the United States in November 1871 for a tour of the country, including a buffalo hunt in Nebraska in January 1872, supported by United States Cavalry under the command of General Sheridan and guided by William F. Cody.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

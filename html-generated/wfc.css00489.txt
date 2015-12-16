@@ -24,7 +24,8 @@
       </span>
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
       <p>Your letter gave me great pleasure. And it seemed to lift a weight off me. That climate out there must be very productive in regard to liars if I am to <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> one sentence in your letter or else you have quite a number of enemies. For I have heard that you were trying to <a rel="tooltip" class="sic" title="bury​ &#xA;    ">burry</a> me out of sight and ten thousand other things from people you little suspect. And coming so seemingly straight from so many person— And knowing I did not deserve it I was <a rel="tooltip" class="sic" title="commencing​ &#xA;    ">commenceing</a> to lay pipe
@@ -149,7 +150,8 @@ would soon see things <a rel="tooltip" class="sic" title="moving​ &#xA;    ">m
 
 
 our business But I say it is. I wish you would find out by <a rel="tooltip" class="sic" title="digging​ &#xA;    ">diging</a> with a spade if you have no well auger by sending three men over on Sage creek<a href="#n05" class="internal_link">5</a> I feel sure water can be found let these men dig for water. I think Nagles next colony should be located there. I <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> water can be got <a rel="tooltip" class="sic" title="within​ &#xA;    ">withing</a> sixty feet at Irma<a href="#n06" class="internal_link">6</a> if some one would tell them to dig. A man must think what can be done for the Advantage of the <a rel="tooltip" class="sic" title="enterprise​ &#xA;    ">enterprize</a> &amp; try it where it costs so little. I told <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> of this but I fear he has forgotten it.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> of this but I fear he has forgotten it.</p>
 
 
       <span class="hr"> </span>
@@ -191,8 +193,10 @@ our business But I say it is. I wish you would find out by <a rel="tooltip" clas
 
 
 I am sure if you would give the business thought and action you would be able to keep the credit of our co better. We none of us are to blame if you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> let us know what you do. <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> your carelessness <a rel="tooltip" class="sic" title="that's​ &#xA;    ">thats</a> giving our co such a bad name you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> mean to do it but <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> been your way of doing business all your life. And I should think you had seen the folly of it. Is <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> &amp; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e"/>Mead</span> there. I <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> heard a word from any one. </p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e">Mead</a>
+         </span> there. I <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> heard a word from any one. </p>
 
       <p>I hope to God Salsbury <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> catch the disease of <a rel="tooltip" class="sic" title="carelessness​ &#xA;    ">carelesness</a> &amp; neglect that is so prevelant in that country</p>
 
@@ -204,29 +208,54 @@ I am sure if you would give the business thought and action you would be able to
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Dayton, Ohio, on July 5, 1896. The day's entry in the 1896 Route Diary: "Dayton, Ohio. / Sunday, July 5. Arrived in town at 3.30 A. M. Two-mile haul to lot. Everything was put up in the morning. J. T. McCaddon, Jule Keen, Fred and Charles Hutchinson, and Orator J. J. McCarthy went to Cincinnati and paid a visit to the Pawnee Bill Wild West Show. They were entertained by Pawnee Bill, May Lillie, and Chief of Cowboys Heck Quinn, who is an old Wild West man. Annie Oakley remained over in Piqua last evening and joined us again to-day. James P. Anderson was seen sitting in the marque to-day for several hours figuring faithfully: he left the ground covered with paper and one piece was picked up containing the following figures: 4 days 96 hours, 5,760 minutes, 345,600 seconds. It was passed around the camp all day and no one solved the problem until it came to Mrs. George Fursman, of the Annex; to her, she said, it was as plain as day, and that Mr. Anderson was going home to Columbus, Ohio, next Friday, to see his wife. She was correct, for he left on Friday for Columbus. Heavy rain at 2 P. M., which lasted until 4 P. M. Orders were issued to-day that no employee would be allowed to ride on wagons either to or from lots."</div>
-
-   <div class="note">Note 2: The "Young Lady" to whom Cody refers is Daisy May Sorrenson, a young woman who was a teacher in Marquette, Wyoming, and whom Beck hired to work for Shoshone Irrigation Company.  Beck later married Sorrenson in Red Lodge, Montana, December 1, 1897; they had three children: Betty (born 1898, later Mrs. Doyle and Mrs. J. M. Roberson), Jane (born 1900, later Mrs. Nelson T. Johnson), and George Thornton Beck Jr. (born 1908). </div>
-
-   <div class="note">Note 3: "Germans" refers to the fifty or so German migrant families who arrived to settle in the Big Horn Basin; they were represented by S. V. Nagle. </div>
-
-   <div class="note">Note 4: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands in the Big Horn Basin that were to be irrigated by the Cody Canal.</div>
-
-   <div class="note">Note 5: Sage Creek lies east of Cody, Wyoming, trending north-south and flowing into the Shoshone River northeast of Cody.</div>
-
-   <div class="note">Note 6: "Irma" likely refers to Irma Flats, an area in the South Fork Valley outside Cody, Wyoming, that was named after Cody's daughter, Irma.  </div>
-
-   <div class="note">Note 7: "Foote" is Robert Foote (1834-1916), a Wyoming Senate democrat representing Johnson County, Wyoming, from 1895 to 1897. Foote led the effort against the Carey Act in Wyoming. </div>
-
-   <div class="note">Note 8: Red Lodge, Montana, lies 65 miles north of Cody and was the closest rail line to Cody, Wyoming.</div>
-
-   <div class="note">Note 9: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have wanted Stokes to invest in the Cody Canal.</div>
-
-   <div class="note">Note 10: "Doctor" is not identified.</div>
-
-   <div class="note">Note 11: "Yegen" refers to P. Yegen and Co., a Red Lodge mercantile from which supplies were purchased for the irrigation project.</div>
-
-   <div class="note">Note 12: "Omaha people" are not identified.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Dayton, Ohio, on July 5, 1896. The day's entry in the 1896 Route Diary: "Dayton, Ohio. / Sunday, July 5. Arrived in town at 3.30 A. M. Two-mile haul to lot. Everything was put up in the morning. J. T. McCaddon, Jule Keen, Fred and Charles Hutchinson, and Orator J. J. McCarthy went to Cincinnati and paid a visit to the Pawnee Bill Wild West Show. They were entertained by Pawnee Bill, May Lillie, and Chief of Cowboys Heck Quinn, who is an old Wild West man. Annie Oakley remained over in Piqua last evening and joined us again to-day. James P. Anderson was seen sitting in the marque to-day for several hours figuring faithfully: he left the ground covered with paper and one piece was picked up containing the following figures: 4 days 96 hours, 5,760 minutes, 345,600 seconds. It was passed around the camp all day and no one solved the problem until it came to Mrs. George Fursman, of the Annex; to her, she said, it was as plain as day, and that Mr. Anderson was going home to Columbus, Ohio, next Friday, to see his wife. She was correct, for he left on Friday for Columbus. Heavy rain at 2 P. M., which lasted until 4 P. M. Orders were issued to-day that no employee would be allowed to ride on wagons either to or from lots."<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The "Young Lady" to whom Cody refers is Daisy May Sorrenson, a young woman who was a teacher in Marquette, Wyoming, and whom Beck hired to work for Shoshone Irrigation Company.  Beck later married Sorrenson in Red Lodge, Montana, December 1, 1897; they had three children: Betty (born 1898, later Mrs. Doyle and Mrs. J. M. Roberson), Jane (born 1900, later Mrs. Nelson T. Johnson), and George Thornton Beck Jr. (born 1908). <a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Germans" refers to the fifty or so German migrant families who arrived to settle in the Big Horn Basin; they were represented by S. V. Nagle. <a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands in the Big Horn Basin that were to be irrigated by the Cody Canal.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Sage Creek lies east of Cody, Wyoming, trending north-south and flowing into the Shoshone River northeast of Cody.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: "Irma" likely refers to Irma Flats, an area in the South Fork Valley outside Cody, Wyoming, that was named after Cody's daughter, Irma.  <a href="#n06.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n07.note"/>Note 7: "Foote" is Robert Foote (1834-1916), a Wyoming Senate democrat representing Johnson County, Wyoming, from 1895 to 1897. Foote led the effort against the Carey Act in Wyoming. <a href="#n07.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n08.note"/>Note 8: Red Lodge, Montana, lies 65 miles north of Cody and was the closest rail line to Cody, Wyoming.<a href="#n08.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n09.note"/>Note 9: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have wanted Stokes to invest in the Cody Canal.<a href="#n09.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n10.note"/>Note 10: "Doctor" is not identified.<a href="#n10.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n11.note"/>Note 11: "Yegen" refers to P. Yegen and Co., a Red Lodge mercantile from which supplies were purchased for the irrigation project.<a href="#n11.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n12.note"/>Note 12: "Omaha people" are not identified.<a href="#n12.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

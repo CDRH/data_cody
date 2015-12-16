@@ -26,11 +26,18 @@
    </div>
 
 
-
-   <div class="note">Note 1: Sir Arthur Kekewich (1832-1907), a British judge of the Chancery Division who dealt with jurisdiction in equity (business law, trusts law, probate law, insolvency, and land law).</div>
-
-   <div class="note">Note 2: In August 1887, litigation was brought by Nate Salsbury and Cody against George Sanger (1825-1911), owner of Sanger's Circus, for Sanger's promotional use of the phrase "Buffalo Bill's Wild West."</div>
-
-   <div class="note">Note 3: Sir Joseph William Chitty (1828-1899), a British judge and politician of the Liberal party.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Sir Arthur Kekewich (1832-1907), a British judge of the Chancery Division who dealt with jurisdiction in equity (business law, trusts law, probate law, insolvency, and land law).<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: In August 1887, litigation was brought by Nate Salsbury and Cody against George Sanger (1825-1911), owner of Sanger's Circus, for Sanger's promotional use of the phrase "Buffalo Bill's Wild West."<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Sir Joseph William Chitty (1828-1899), a British judge and politician of the Liberal party.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

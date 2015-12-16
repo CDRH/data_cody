@@ -30,7 +30,8 @@ Oct. 27th<a href="#n02" class="internal_link">2</a>
 
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
 
@@ -52,22 +53,37 @@ Oct. 27th<a href="#n02" class="internal_link">2</a>
    </div>
 
 
-
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East performed in Douglas, Arizona, on October 27, 1910. </div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1910.</div>
-
-   <div class="note">Note 3: Sheedy may be Dennis Sheedy (1846-1923) who, after making a great deal of money raising cattle, entered the banking business as vice president of Colorado National City Bank in 1886, a position that later gave him his connection to Globe Smelting. After helping the company reorganize its finances and create economies of scale, Sheedy led Globe Smelting in increasing its revenues from $200,000 in 1889 to $16 million in 1907.</div>
-
-   <div class="note">Note 4: In October 1902 the Cody Oil Company was organized in Cody, Wyoming. The company included the following investors: George T. Beck, Col. <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/peake.j"/>John H. Peake</span>, <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c"/>C. E. Hayden</span>, W. L. Walls, N. S. Nobles, John Buchanan, W. B. Sleeper, John Holm, William Horner, Dr. W. S. Devoe, <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j"/>J. M. Schwoob</span>, John McGuffey, G. A. Pulley, Stewart Darling, R. J. McMullen, George Nelson, David H. McFall, Charles D. Blaine, J. A. Swenson, and Frank L. Houx. The elected officers were Frank L. Houx, President, and J. A. Swenson, Secretary-Treasurer. The company was incorporated under the state laws of Wyoming for the purpose of acquiring land for developing and refining oil and was capitalized at one million dollars for fifty years. </div>
-
-   <div class="note">Note 5: "My mines" likely refers to Cody's mining operation, Campo Bonito, located in the Santa Catalina Mountains of Arizona. Campo Bonito was in the Old Hat District near Tucson and Oracle, Arizona, where gold, silver, and other ore deposits were mined.</div>
-
-   <div class="note">Note 6: "Mill" refers to a machine whose purpose is to shred or crush aggregate materials into smaller pieces. According to a newspaper article published in <em class="hi">The Coconino Sun</em>, February 10, 1911 Cody's mining operations used "... A five-stamp Merrill's mill operating on sheelite ore and turning out high grade tungsten concentrates."</div>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East performed in Douglas, Arizona, on October 27, 1910. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1910.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Sheedy may be Dennis Sheedy (1846-1923) who, after making a great deal of money raising cattle, entered the banking business as vice president of Colorado National City Bank in 1886, a position that later gave him his connection to Globe Smelting. After helping the company reorganize its finances and create economies of scale, Sheedy led Globe Smelting in increasing its revenues from $200,000 in 1889 to $16 million in 1907.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: In October 1902 the Cody Oil Company was organized in Cody, Wyoming. The company included the following investors: George T. Beck, Col. <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/peake.j">John H. Peake</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c">C. E. Hayden</a>
+         </span>, W. L. Walls, N. S. Nobles, John Buchanan, W. B. Sleeper, John Holm, William Horner, Dr. W. S. Devoe, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j">J. M. Schwoob</a>
+         </span>, John McGuffey, G. A. Pulley, Stewart Darling, R. J. McMullen, George Nelson, David H. McFall, Charles D. Blaine, J. A. Swenson, and Frank L. Houx. The elected officers were Frank L. Houx, President, and J. A. Swenson, Secretary-Treasurer. The company was incorporated under the state laws of Wyoming for the purpose of acquiring land for developing and refining oil and was capitalized at one million dollars for fifty years. <a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: "My mines" likely refers to Cody's mining operation, Campo Bonito, located in the Santa Catalina Mountains of Arizona. Campo Bonito was in the Old Hat District near Tucson and Oracle, Arizona, where gold, silver, and other ore deposits were mined.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: "Mill" refers to a machine whose purpose is to shred or crush aggregate materials into smaller pieces. According to a newspaper article published in <em class="hi">The Coconino Sun</em>, February 10, 1911 Cody's mining operations used "... A five-stamp Merrill's mill operating on sheelite ore and turning out high grade tungsten concentrates."<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 
 </div>

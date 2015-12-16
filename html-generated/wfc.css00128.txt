@@ -24,7 +24,8 @@
 May. 14th 1902
 </span>
       <span class="salute">My. Dear. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/"/>Hinkle</span>—</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/">Hinkle</a>
+         </span>—</span>
 
 
       <p>Yours 9th to hand Mr. Hawks<a href="#n02" class="internal_link">2</a> &amp; Nelson— are now at Cody looking the Cody- and Salsbury Canal over— They will be in Cheyenne soon They will ask for water for placer mining. as well as for irrigation and it will be for the best interest of the state to be liberal as the building of this expensive canal means much—</p>
@@ -73,13 +74,22 @@ Wyo
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Philadelphia from May 12 to May 17, 1902.</div>
-
-   <div class="note">Note 2: "Hawks" might be Frank Lee Houx (1854-1941), who was elected the first mayor of Cody, Wyoming, in 1901. Houx later served as Wyoming secretary of state from 1911 to 1919, and was acting governor from February 1917 to January 1919. Houx' biography in the <em class="hi">Wyoming Historical Blue Book</em> (published 1943) states that he had been involved in irrigation projects near the town of Cody. </div>
-
-   <div class="note">Note 3: The Benevolent and Protective Order of Elks, of which William F. Cody was a member, had recently decided to establish a home for elderly and infirm members. Cody attempted to use his influence to induce the Elks to build their retirement home near "his" town of Cody, Wyoming, but was ultimately unsuccessful. The Elks National Home opened in Bedford, Virginia, in 1903.</div>
-
-   <div class="note">Note 4: DeForest Richards (1846-1903) was then the governor of Wyoming.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Philadelphia from May 12 to May 17, 1902.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "Hawks" might be Frank Lee Houx (1854-1941), who was elected the first mayor of Cody, Wyoming, in 1901. Houx later served as Wyoming secretary of state from 1911 to 1919, and was acting governor from February 1917 to January 1919. Houx' biography in the <em class="hi">Wyoming Historical Blue Book</em> (published 1943) states that he had been involved in irrigation projects near the town of Cody. <a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: The Benevolent and Protective Order of Elks, of which William F. Cody was a member, had recently decided to establish a home for elderly and infirm members. Cody attempted to use his influence to induce the Elks to build their retirement home near "his" town of Cody, Wyoming, but was ultimately unsuccessful. The Elks National Home opened in Bedford, Virginia, in 1903.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: DeForest Richards (1846-1903) was then the governor of Wyoming.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -38,13 +38,22 @@ Cheyenne, Wyo.</span>
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in St. Louis from May 13 to May 18, 1901.</div>
-
-   <div class="note">Note 2: Penciled notes, not in Cody's handwriting, on the back of the last sheet of Cody's letter to Hinkle dated April 27, 1901, refer to this 130,000 gallons per day figure.</div>
-
-   <div class="note">Note 3: As chief clerk of the Wyoming Board of Land Commissioners, Hinkle had no direct jurisdiction over water use permits, which were administered by the state engineer's office. William F. Cody must have believed that Hinkle could intercede for him with the relevant authorities in Cheyenne.</div>
-
-   <div class="note">Note 4: Cody's application for water rights at DeMaris Springs was apparently never approved, and Charles DeMaris remained in control of the site.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in St. Louis from May 13 to May 18, 1901.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Penciled notes, not in Cody's handwriting, on the back of the last sheet of Cody's letter to Hinkle dated April 27, 1901, refer to this 130,000 gallons per day figure.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: As chief clerk of the Wyoming Board of Land Commissioners, Hinkle had no direct jurisdiction over water use permits, which were administered by the state engineer's office. William F. Cody must have believed that Hinkle could intercede for him with the relevant authorities in Cheyenne.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Cody's application for water rights at DeMaris Springs was apparently never approved, and Charles DeMaris remained in control of the site.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

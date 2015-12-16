@@ -31,11 +31,14 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: "Chromos" refers to the method known as chromolithography in which a picture is printed using the first true multi-color printing.</div>
-
-   <div class="note">Note 2: John Lawrence Sullivan (1858-1918) is recognized as the last bare-knuckle boxing heavyweight champion, the first gloved boxing Heavyweight Champion from 1882-1892, and the first American athlete to earn over a million dollars.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: "Chromos" refers to the method known as chromolithography in which a picture is printed using the first true multi-color printing.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: John Lawrence Sullivan (1858-1918) is recognized as the last bare-knuckle boxing heavyweight champion, the first gloved boxing Heavyweight Champion from 1882-1892, and the first American athlete to earn over a million dollars.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

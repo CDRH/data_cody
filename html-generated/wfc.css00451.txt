@@ -30,12 +30,15 @@ Sep. 23<a href="#n02" class="internal_link">2</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
       <p>I spent <a rel="tooltip" class="sic" title="yesterday​ &#xA;    ">yestarday</a> with <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> &amp; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span>. We are all coming out when I close. Do you think we can kill an Elk then or will the snow be to deep find out from the people ho the winters are Salsbury &amp; Bleistein say we ought to have in our contracts to parties who we sell Waterrights<a href="#n03" class="internal_link">3</a> that they are to work so many days a year on roads. So we will have good <a rel="tooltip" class="sic" title="roads​ &#xA;    ">rods</a>
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span>. We are all coming out when I close. Do you think we can kill an Elk then or will the snow be to deep find out from the people ho the winters are Salsbury &amp; Bleistein say we ought to have in our contracts to parties who we sell Waterrights<a href="#n03" class="internal_link">3</a> that they are to work so many days a year on roads. So we will have good <a rel="tooltip" class="sic" title="roads​ &#xA;    ">rods</a>
          <a href="#n04" class="internal_link">4</a>—</p>
 
       <p>
@@ -49,14 +52,22 @@ Sep. 23<a href="#n02" class="internal_link">2</a>
    </div>
 
 
-
-   <div class="note">Note 1: On September 23, 1895, Buffalo Bill's Wild West performed in Paterson, New York. </div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1895 as determined by the Routes List (Note 1) and by context: Cody wrote to Beck two days earlier, inscribed from nearby Newburgh, New Jersey (September 21, 1895; CSS00450), and mentioned having just met Salsbury and Bleistein.</div>
-
-   <div class="note">Note 3: Water rights.</div>
-
-   <div class="note">Note 4: Roads.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: On September 23, 1895, Buffalo Bill's Wild West performed in Paterson, New York. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1895 as determined by the Routes List (Note 1) and by context: Cody wrote to Beck two days earlier, inscribed from nearby Newburgh, New Jersey (September 21, 1895; CSS00450), and mentioned having just met Salsbury and Bleistein.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Water rights.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Roads.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -25,12 +25,14 @@ July 19<a href="#n02" class="internal_link">2</a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
       <p>Yours recd— Now if Forbs<a href="#n03" class="internal_link">3</a> 
          <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> put up— Nor <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g"/>Bleistein</span> &amp; others— the mill will have to go over another year. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> build it Alone— The timber might be sawed for it. For the mill will have to be built Sooner or later— And the mill lumber will keep— And we will have it ready— If Bleistein wires me he can raise two or three thousand allright. But it must be a steam and water mill combined what will it cost to add
+            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g">Bleistein</a>
+         </span> &amp; others— the mill will have to go over another year. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> build it Alone— The timber might be sawed for it. For the mill will have to be built Sooner or later— And the mill lumber will keep— And we will have it ready— If Bleistein wires me he can raise two or three thousand allright. But it must be a steam and water mill combined what will it cost to add
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -56,19 +58,34 @@ steam? How much did Jones<a href="#n04" class="internal_link">4</a> owe— colon
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Traverse City, Michigan, on July 19, 1898. </div>
-
-   <div class="note">Note 2: The year is not inscribed but is 1898.</div>
-
-   <div class="note">Note 3: "Forbs" is Forbes, who oversaw the construction of the Cody Trading Company. When the building was completed Forbes was replaced by <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j"/>Jacob M. "Jake" Schwoob</span> who had been manager of the Iroquois Hotel in Buffalo, New York, which was owned by <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Henry M. Gerrans</span>.</div>
-
-   <div class="note">Note 4: C. B. Jones, land agent from Galesburg, Illinois, brought settlers to the Big Horn Basin area of Wyoming. </div>
-
-   <div class="note">Note 5: "Colony people" refers to the settlers in the Big Horn Basin.</div>
-
-   <div class="note">Note 6: Cody uses the letter "L" instead of spelling out "hell."</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Traverse City, Michigan, on July 19, 1898. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed but is 1898.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Forbs" is Forbes, who oversaw the construction of the Cody Trading Company. When the building was completed Forbes was replaced by <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j">Jacob M. "Jake" Schwoob</a>
+         </span> who had been manager of the Iroquois Hotel in Buffalo, New York, which was owned by <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Henry M. Gerrans</a>
+         </span>.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: C. B. Jones, land agent from Galesburg, Illinois, brought settlers to the Big Horn Basin area of Wyoming. <a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: "Colony people" refers to the settlers in the Big Horn Basin.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: Cody uses the letter "L" instead of spelling out "hell."<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

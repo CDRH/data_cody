@@ -25,7 +25,8 @@
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>—</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>—</span>
 
       <p>Your 2d letter from stenographer<a href="#n02" class="internal_link">2</a> was the most satisfactory letter I ever recd from you. It gave me some idea of what you were doing. And what you proposed to do— I hope the next letter will tell me more of your plans— You know how anxious I am to get an estimate on proposed work— and how you propose to do it. What you are going to do about
 
@@ -43,7 +44,8 @@
 
 
 the Townsite<a href="#n03" class="internal_link">3</a> &amp;c &amp;c I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> hear one word from <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> by wire or other wise— or from any one else— what May pay day will be. you might have told me—</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> by wire or other wise— or from any one else— what May pay day will be. you might have told me—</p>
 
       <p>I want to guard our credit— But no one will tell me how much it is— Wish you would write a <a rel="tooltip" class="sic" title="news​ &#xA;    ">newis</a> letter </p>
 
@@ -72,13 +74,22 @@ Cody
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Indianapolis, Indiana, May 8, 1896. The day's entry in the 1896 Route Diary: "Indianapolis, Ind. / Friday, May 8. Arrived in town at 5 A. M. Put everything up we had; lot in fair condition but hilly. J. T. McCaddon returned from Chicago in the morning and M. B. Bailey in the evening. / Business in the afternoon good, in the evening splendid house."</div>
-
-   <div class="note">Note 2: "Stenographer" is not identified but may have been Daisy May Sorrenson, who was hired by Beck and whom Beck married in 1897.</div>
-
-   <div class="note">Note 3: Cody, Wyoming.</div>
-
-   <div class="note">Note 4: "Henrys" or "Henry" is not identified.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Indianapolis, Indiana, May 8, 1896. The day's entry in the 1896 Route Diary: "Indianapolis, Ind. / Friday, May 8. Arrived in town at 5 A. M. Put everything up we had; lot in fair condition but hilly. J. T. McCaddon returned from Chicago in the morning and M. B. Bailey in the evening. / Business in the afternoon good, in the evening splendid house."<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "Stenographer" is not identified but may have been Daisy May Sorrenson, who was hired by Beck and whom Beck married in 1897.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Cody, Wyoming.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: "Henrys" or "Henry" is not identified.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

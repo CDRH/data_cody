@@ -42,7 +42,8 @@
 
 
       <span class="ab"> To  <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Geo T Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Geo T Beck</a>
+         </span>
       </span>
 
 
@@ -72,12 +73,19 @@ you would please write</p>
 
 
 
-
-   <div class="note">Note 1: Telegram is handwritten by a clerk or WFC assignee.</div>
-
-   <div class="note">Note 2: Buffalo Bill's Wild West was in preparation for the opening of the 1896 season in Philadelphia on April 18th.</div>
-
-   <div class="note">Note 3: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands that were to be irrigated by the Cody Canal.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name=".note"/>Note 1: Telegram is handwritten by a clerk or WFC assignee.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 2: Buffalo Bill's Wild West was in preparation for the opening of the 1896 season in Philadelphia on April 18th.<a href="#.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name=".note"/>Note 3: S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, attempted to recruit settlers to the lands that were to be irrigated by the Cody Canal.<a href="#.ref">  [back]
+            </a>
+      </p>
+   </div>
 
 </div>

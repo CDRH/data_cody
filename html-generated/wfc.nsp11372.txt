@@ -26,11 +26,14 @@
       <div class="milestone line"> </div>
 
       <p>The <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt"/>Sioux Chief Red Shirt</span> has, since <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w"/>Mr. Gladstone's</span>  visit, been receiving a number of distinguished visitors daily at the American Exhibition, at West Brompton, upwards of a thousand privileged persons calling at his tent on Sunday last, including Lord Hillington, the Hon. Baillie Cochrane, M.P., Lord Newport, Colonel Hughes Hallett, M.P., Mr. Henniker Heaton, M.P., and several other members of both Houses of Parliament. Red Shirt, whose intelligence is of a very high order, is a shrewd observer, and his good sense has been demonstrated again and again in his replies to the questions put to him.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Sioux Chief Red Shirt</a>
+         </span> has, since <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w">Mr. Gladstone's</a>
+         </span>  visit, been receiving a number of distinguished visitors daily at the American Exhibition, at West Brompton, upwards of a thousand privileged persons calling at his tent on Sunday last, including Lord Hillington, the Hon. Baillie Cochrane, M.P., Lord Newport, Colonel Hughes Hallett, M.P., Mr. Henniker Heaton, M.P., and several other members of both Houses of Parliament. Red Shirt, whose intelligence is of a very high order, is a shrewd observer, and his good sense has been demonstrated again and again in his replies to the questions put to him.</p>
 
       <p>In an interview with a correspondent of the Central News, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/irving.w"/>Broncho Bill</span> acting as interpreter, Red Shirt said of Mr. Gladstone:—"When I saw the Great White Chief, I thought he was a great man. When I heard him speak, then I felt sure he was a great man. But the White Chief is not as the big men of our tribes. He wore no plumes and no decorations. He had none of his young men (warriors) around him, and only that I heard him talk he would have been to me as the other white men. But my brother (Mr. Gladstone) came to see me in my wigwam as a friend, and I was glad to see the Great White Chief, for though my tongue was tied in his presence my heart was full of friendship. After he went away they told me that half of this great nation of white men have adopted him as their Chief. Thus I am right, for if he were not both good and wise so many young men of this nation would never have taken him for their leader."</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/irving.w">Broncho Bill</a>
+         </span> acting as interpreter, Red Shirt said of Mr. Gladstone:—"When I saw the Great White Chief, I thought he was a great man. When I heard him speak, then I felt sure he was a great man. But the White Chief is not as the big men of our tribes. He wore no plumes and no decorations. He had none of his young men (warriors) around him, and only that I heard him talk he would have been to me as the other white men. But my brother (Mr. Gladstone) came to see me in my wigwam as a friend, and I was glad to see the Great White Chief, for though my tongue was tied in his presence my heart was full of friendship. After he went away they told me that half of this great nation of white men have adopted him as their Chief. Thus I am right, for if he were not both good and wise so many young men of this nation would never have taken him for their leader."</p>
 
       <p>Red Shirt, who only left the Indian Reservation on March 15th of this year, agreed to join Buffalo Bill's Wild West Show after a Grand Council of his nation, the United States Government giving their consent to his leaving.</p>
 
@@ -55,7 +58,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: War Bonnet Creek.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: War Bonnet Creek.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

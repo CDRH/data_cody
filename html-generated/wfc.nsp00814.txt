@@ -39,9 +39,14 @@
    </div>
 
 
-
-   <div class="note">Note 1: Joaquin Miller (1837-1913) was the pen name of American poet Cincinnatus Heine (or Hiner) Miller who was nicknamed the "Poet of the Sierras."</div>
-
-   <div class="note">Note 2: Rotten Row was a broad lane running along the south side of Hyde Park in London; illuminated by oil lamps, it was the first artificially lit highway in Britain and the "fashionable" place for upper-class Londoners to be seen.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Joaquin Miller (1837-1913) was the pen name of American poet Cincinnatus Heine (or Hiner) Miller who was nicknamed the "Poet of the Sierras."<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Rotten Row was a broad lane running along the south side of Hyde Park in London; illuminated by oil lamps, it was the first artificially lit highway in Britain and the "fashionable" place for upper-class Londoners to be seen.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

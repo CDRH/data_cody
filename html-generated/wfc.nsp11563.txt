@@ -27,7 +27,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: Henry Augustus Ward (1834–1906), an American professor, naturalist, and geologist, was a pioneer in the natural sciences founding Ward's Natural Science. This pioneering initiative collected specimens from all parts of the world. Ward mounted the samples and sold them to colleges and museums.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Henry Augustus Ward (1834–1906), an American professor, naturalist, and geologist, was a pioneer in the natural sciences founding Ward's Natural Science. This pioneering initiative collected specimens from all parts of the world. Ward mounted the samples and sold them to colleges and museums.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -36,7 +36,8 @@ June. 2<u>d</u> 99</span>
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
 
@@ -55,11 +56,14 @@ June. 2<u>d</u> 99</span>
    </div>
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Philadelphia, Pennsylvania, from May 29 to June 3, 1899.</div>
-
-   <div class="note">Note 2: "Frosts" may refer to property owned by Mahlon Frost (1839-1929), located on Sage Creek east of Cody, Wyoming. Cody is suggesting that road grading be completed to the edge of that property.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Philadelphia, Pennsylvania, from May 29 to June 3, 1899.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "Frosts" may refer to property owned by Mahlon Frost (1839-1929), located on Sage Creek east of Cody, Wyoming. Cody is suggesting that road grading be completed to the edge of that property.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

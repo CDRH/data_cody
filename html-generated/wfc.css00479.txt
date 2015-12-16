@@ -36,7 +36,8 @@ Sep 4th<a href="#n02" class="internal_link">2</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
       <p>Was glad to receive your favor of Aug 31st— I want to ask you two questions first. In your report of Aug 28th you say the Canal is at last opened up to the completed mile and water will soon be at the City.<a href="#n03" class="internal_link">3</a> When do you expect to have water down to the Town? 2<u>d</u> Have you written the Buffalo people<a href="#n04" class="internal_link">4</a> 
@@ -48,18 +49,32 @@ Sep 4th<a href="#n02" class="internal_link">2</a>
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Stevens Point, Wisconsin, September 4, 1896. The day's entry in the 1896 Route Diary: "Stevens' Point, Wis. / Friday, September 4. Arrived in town at 6.30 A. M. One and one quarter mile haul to lot. This is a typical one-horse town, with no street cars, and the worst kind of sandy streets. We had a great hustle to night in order to get the second section out first, as it had to be all loaded and ready to leave town at 10.45, and considering the long haul it was quick work. / Business, big in the afternoon, fair at night. / Lot, Fay street and Wisconsin avenue. / Arena, 189 x 363."  </div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1896 as determined by the Routes List.</div>
-
-   <div class="note">Note 3: "City" and "Town" both refer to Cody, Wyoming, officially named in August 1896.</div>
-
-   <div class="note">Note 4: "Buffalo people" refers to the investors from Buffalo, New York, including <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g"/>Bleistein</span>, <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>, and <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>.</div>
-
-   <div class="note">Note 5: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have wanted Stokes to invest in the Cody Canal.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Stevens Point, Wisconsin, September 4, 1896. The day's entry in the 1896 Route Diary: "Stevens' Point, Wis. / Friday, September 4. Arrived in town at 6.30 A. M. One and one quarter mile haul to lot. This is a typical one-horse town, with no street cars, and the worst kind of sandy streets. We had a great hustle to night in order to get the second section out first, as it had to be all loaded and ready to leave town at 10.45, and considering the long haul it was quick work. / Business, big in the afternoon, fair at night. / Lot, Fay street and Wisconsin avenue. / Arena, 189 x 363."  <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1896 as determined by the Routes List.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "City" and "Town" both refer to Cody, Wyoming, officially named in August 1896.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: "Buffalo people" refers to the investors from Buffalo, New York, including <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g">Bleistein</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+         </span>, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
+         </span>.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: "Stokes" is possibly Edward S. Stokes (1841-1901), at one time a railroad and oil magnate and businessman. Stokes was an owner of Hoffman House, an elegant hotel in Manhattan where Cody was often a guest. Cody may have wanted Stokes to invest in the Cody Canal.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

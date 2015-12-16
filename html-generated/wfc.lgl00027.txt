@@ -18,7 +18,8 @@
 
       <p>
          <div class="center">LAST WILL AND TESTAMENT OF <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>HORACE C. ALGER</span>.</div>
+               <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">HORACE C. ALGER</a>
+            </span>.</div>
       </p>
 
       <p>IN THE NAME OF GOD, AMEN;</p>

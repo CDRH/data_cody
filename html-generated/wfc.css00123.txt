@@ -78,7 +78,10 @@ Wyo
    </div>
 
 
-
-   <div class="note">Note 1: The "Timber Reserve" Cody mentions here was the Yellowstone National Park Timber Land Reserve, established in 1891. The reserve was later divided into several national forests. Assuming that the land parcel William F. Cody describes in this letter was east of Yellowstone and near the town of Cody, Wyoming, it is now known as the Shoshone National Forest.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: The "Timber Reserve" Cody mentions here was the Yellowstone National Park Timber Land Reserve, established in 1891. The reserve was later divided into several national forests. Assuming that the land parcel William F. Cody describes in this letter was east of Yellowstone and near the town of Cody, Wyoming, it is now known as the Shoshone National Forest.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

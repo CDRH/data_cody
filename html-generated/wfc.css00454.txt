@@ -29,12 +29,15 @@ Oct 4th<a href="#n01" class="internal_link">1</a>
       </span>
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>—</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>—</span>
 
 
       <p>I have not been able to write a letter to any one. Since I got near N. Y. then came Baltimore &amp; Washington<a href="#n02" class="internal_link">2</a>. And to day we did not get here until 11 am— had to make parade &amp; just finished first show. I recd your letters— I have just wired <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span> &amp; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> to send you word <u>quick</u> to make ditch 20 feet wide on bottom. I have written 25 letters at least saying no use to build a little ditch I came near falling dead. &amp; I some some tall cussing when I read your letter about a 15 foot ditch after all the letters I have 
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
+         </span> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> to send you word <u>quick</u> to make ditch 20 feet wide on bottom. I have written 25 letters at least saying no use to build a little ditch I came near falling dead. &amp; I some some tall cussing when I read your letter about a 15 foot ditch after all the letters I have 
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -63,22 +66,35 @@ written to the contrary. if it <a rel="tooltip" class="sic" title="can't​ &#xA
          <br/>Bill.
 </span>
       <p>Say. I got a letter from <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/heck.t"/>Heck</span>.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/heck.t">Heck</a>
+         </span>.</p>
    </div>
 
 
-
-   <div class="note">Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Richmond, Virginia, on October 4, 1895.</div>
-
-   <div class="note">Note 2: Cody implies he is very busy with visitors while Buffalo Bill's Wild West performs near New York, Baltimore, and Washington, D.C.</div>
-
-   <div class="note">Note 3: "Mr. Foote" is Robert Foote (1834-1916), a democrat and state senator representing Johnson County, Wyoming. Foote led the effort against the Carey Act in Wyoming. Cody threatened to quit the project as a result of Foote's accusation that Cody was subverting the interests of Wyoming and of the "real people" of the Big Horn Basin.</div>
-
-   <div class="note">Note 4: Michael Hoke Smith (1855-1931) was the 19th United States Secretary of the Interior from March 6, 1893, to September 1, 1896. </div>
-
-   <div class="note">Note 5: Francis Emroy Warren (1844-1929), a Republican Senator representing Wyoming during 1890-1893 before returning to his business pursuits. Warren was re-elected to the Senate from March 4, 1895, to November 24, 1929, but died while in office.</div>
-
-   <div class="note">Note 6: "Him" refers to Wyoming Senator Robert Foote in Foote's opposition to the Cody Canal.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Richmond, Virginia, on October 4, 1895.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody implies he is very busy with visitors while Buffalo Bill's Wild West performs near New York, Baltimore, and Washington, D.C.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Mr. Foote" is Robert Foote (1834-1916), a democrat and state senator representing Johnson County, Wyoming. Foote led the effort against the Carey Act in Wyoming. Cody threatened to quit the project as a result of Foote's accusation that Cody was subverting the interests of Wyoming and of the "real people" of the Big Horn Basin.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Michael Hoke Smith (1855-1931) was the 19th United States Secretary of the Interior from March 6, 1893, to September 1, 1896. <a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Francis Emroy Warren (1844-1929), a Republican Senator representing Wyoming during 1890-1893 before returning to his business pursuits. Warren was re-elected to the Senate from March 4, 1895, to November 24, 1929, but died while in office.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: "Him" refers to Wyoming Senator Robert Foote in Foote's opposition to the Cody Canal.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

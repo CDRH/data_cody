@@ -30,7 +30,8 @@
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/schwoob.j"/>J M Schwoob</span>,
+         <a href="http://rosie.unl.edu/cody_archive/doc/schwoob.j">J M Schwoob</a>
+      </span>,
 
 Cody Trading Co
 
@@ -39,13 +40,15 @@ Cody WYo
 
 <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span> has drawn on you for twenty five hundred dollars take care of it temporarily</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span> has drawn on you for twenty five hundred dollars take care of it temporarily</p>
 
 
       <span class="closer">
          <br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H M Gerrans</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">H M Gerrans</a>
+         </span>
 
 
          <span class="dateline">2:27P</span>

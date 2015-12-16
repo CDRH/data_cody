@@ -26,7 +26,8 @@ May. 11th1904</span>
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
 
@@ -46,12 +47,18 @@ May. 11th1904</span>
 
 
 
-
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Oswestry, England, on May 11, 1904.</div>
-
-   <div class="note">Note 2: "Mr Clark" is Edward Hardy Clark (1864-1945), the financial manager for Phoebe Hearst. </div>
-
-   <div class="note">Note 3: The Hearst Estate provided an indemnity bond of $30,000 at 7.5% interest for the Shoshone Irrigation Company project.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Oswestry, England, on May 11, 1904.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "Mr Clark" is Edward Hardy Clark (1864-1945), the financial manager for Phoebe Hearst. <a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: The Hearst Estate provided an indemnity bond of $30,000 at 7.5% interest for the Shoshone Irrigation Company project.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

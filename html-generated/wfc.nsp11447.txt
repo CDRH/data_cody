@@ -43,7 +43,10 @@
    </div>
 
 
-
-   <div class="note">Note 1: According to William F. Cody's 1879 autobiography, Dave Harrington accompanied the adolescent Cody on a trapping expedition on the Republican River (Kansas).</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: According to William F. Cody's 1879 autobiography, Dave Harrington accompanied the adolescent Cody on a trapping expedition on the Republican River (Kansas).<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

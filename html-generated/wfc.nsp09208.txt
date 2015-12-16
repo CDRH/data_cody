@@ -64,21 +64,38 @@
    </div>
 
 
-
-
-   <div class="note">Note 1: Arta Lucille Cody (1866-1904), the eldest daughter of William F. and Louisa Cody, visited her father in London during the 1887 American Exhibition.</div>
-
-   <div class="note">Note 2: John Sartain (1808-1897), pioneer of mezzotint engraving in the United States, served with the art departments for both the 1876 Centennial Exhibition at Philadelphia and the 1887 American Exhibition in London. </div>
-
-   <div class="note">Note 3: The "Marchioness of Ely" was Jane Loftus (1821-1890), an English lady of the bedchamber and a close friend of Queen Victoria.</div>
-
-   <div class="note">Note 4: The Princess of Wales was Princess Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) and later Queen Alexandra, consort to Edward VII, King of Great Britain, 1844-1925.</div> 
-
-   <div class="note">Note 5: Mrs. Bigelow was Mary Dallam Bigelow (1858-1941).</div>
-
-   <div class="note">Note 6: Hon. James G. Blaine is James Gillespie Blaine (1830-1893), a teacher,  newspaper editor, author, and  politician who served ten terms as a U. S. Congressman and as a Senator from Maine, and as Secretary of State for Presidents Garfield and Harrison. Blaine helped to organize and was named the first president of the Pan American Congress.</div> 
-
-   <div class="note">Note 7: William Walter Phelps (1839-1894), a successful merchant and financier in New York City, held a seat in U. S. House of Representatives in 1872; was United States Minister to Austria-Hungary from 1881 to 1882; re-elected to Congress in 1883, 1885, and 1887; and was United States Minister to Germany from 1889 to 1893.</div>
-
-   <div class="note">Note 8: Cleveland L. Moffett (1863-1926), an American journalist, author and playwright.</div>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Arta Lucille Cody (1866-1904), the eldest daughter of William F. and Louisa Cody, visited her father in London during the 1887 American Exhibition.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: John Sartain (1808-1897), pioneer of mezzotint engraving in the United States, served with the art departments for both the 1876 Centennial Exhibition at Philadelphia and the 1887 American Exhibition in London. <a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: The "Marchioness of Ely" was Jane Loftus (1821-1890), an English lady of the bedchamber and a close friend of Queen Victoria.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: The Princess of Wales was Princess Alexandra of Denmark (Alexandra Caroline Marie Charlotte Louise Julia, 1844-1925) and later Queen Alexandra, consort to Edward VII, King of Great Britain, 1844-1925.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Mrs. Bigelow was Mary Dallam Bigelow (1858-1941).<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: Hon. James G. Blaine is James Gillespie Blaine (1830-1893), a teacher,  newspaper editor, author, and  politician who served ten terms as a U. S. Congressman and as a Senator from Maine, and as Secretary of State for Presidents Garfield and Harrison. Blaine helped to organize and was named the first president of the Pan American Congress.<a href="#n06.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n07.note"/>Note 7: William Walter Phelps (1839-1894), a successful merchant and financier in New York City, held a seat in U. S. House of Representatives in 1872; was United States Minister to Austria-Hungary from 1881 to 1882; re-elected to Congress in 1883, 1885, and 1887; and was United States Minister to Germany from 1889 to 1893.<a href="#n07.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n08.note"/>Note 8: Cleveland L. Moffett (1863-1926), an American journalist, author and playwright.<a href="#n08.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

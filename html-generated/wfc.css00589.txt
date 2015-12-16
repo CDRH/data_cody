@@ -56,7 +56,10 @@ Fort Leavenworth, Kansas.
    </div>
 
 
-
-  <div class="note">Note 1: Lindley Miller Garrison (1864-1932), New Jersey lawyer, served as Secretary of War under President Woodrow Wilson between 1913 and 1916.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Lindley Miller Garrison (1864-1932), New Jersey lawyer, served as Secretary of War under President Woodrow Wilson between 1913 and 1916.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

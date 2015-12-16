@@ -18,11 +18,14 @@
 
       <div class="note">SHOSHONE IRRIGATION COMPANY,<br/>W. F. Cody, President,<br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Bronson Rumsey</span>, Vice-President,<br/>
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+         </span>, Vice-President,<br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>H. C. Alger</span>, Treasurer.<br/>
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">H. C. Alger</a>
+         </span>, Treasurer.<br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George T. Beck</span>, Secretary and General Manager.<br/>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George T. Beck</a>
+         </span>, Secretary and General Manager.<br/>
       </div>
 
 
@@ -37,14 +40,17 @@
 <br/>George T. Beck
 <br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Geo. Bleistein</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Geo. Bleistein</a>
+         </span>
          <br/>Bronson Rumsey
 <br/>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>H M Gerrans</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">H M Gerrans</a>
+         </span>
          <br/>H. C. Alger
 <br/>Estate of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Nathan Salsbury</span> Rachel Salsbury, administratrix
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Nathan Salsbury</a>
+         </span> Rachel Salsbury, administratrix
 </span>
 
 
@@ -55,5 +61,10 @@
    </div>
 
 
-   <div class="note">Note 1: Phoebe Apperson Hearst (1842-1919) was the wife of California senator and Comstock Lode magnate George Hearst. At the insistance of Mrs. Hearst the Hearst Estate provided an indemnity bond of $30,000 at 7.5% to the Shoshone Irrigation Company project.</div>
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Phoebe Apperson Hearst (1842-1919) was the wife of California senator and Comstock Lode magnate George Hearst. At the insistance of Mrs. Hearst the Hearst Estate provided an indemnity bond of $30,000 at 7.5% to the Shoshone Irrigation Company project.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

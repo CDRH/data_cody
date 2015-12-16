@@ -28,18 +28,25 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
 
       <p>Yours <a rel="tooltip" class="sic" title="received​ &#xA;    ">recd</a>. I have been so over worked could not write you as fully &amp; as often as I would like to— <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> expects to start west the 1st of July. And is in hopes of <a rel="tooltip" class="sic" title="taking​ &#xA;    ">takeing</a> two or three Boston men with him. George we have got to get some one with money into it. If <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w"/>Paxton</span> and Creighton<a href="#n02" class="internal_link">2</a> would go in $50,000 will open up the the 25000 acre tract. after that it will be easy sailing. I can put <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t"/>Heckerts</span> outfit to work And commence work but I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> carry the whole scheme I will help you all I can. But George I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> put up for <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w"/>Hymer</span>-<span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/cunningham.d"/>Cunningham</span> 
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> expects to start west the 1st of July. And is in hopes of <a rel="tooltip" class="sic" title="taking​ &#xA;    ">takeing</a> two or three Boston men with him. George we have got to get some one with money into it. If <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w">Paxton</a>
+         </span> and Creighton<a href="#n02" class="internal_link">2</a> would go in $50,000 will open up the the 25000 acre tract. after that it will be easy sailing. I can put <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t">Heckerts</a>
+         </span> outfit to work And commence work but I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> carry the whole scheme I will help you all I can. But George I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> put up for <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
+         </span>-<span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/cunningham.d">Cunningham</a>
+         </span> 
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/ryan.j"/>Ryan</span> &amp; all— Now Cunningham. Ryan— &amp; others who <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> put up must fish 
+            <a href="http://rosie.unl.edu/cody_archive/doc/ryan.j">Ryan</a>
+         </span> &amp; all— Now Cunningham. Ryan— &amp; others who <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> put up must fish 
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -74,12 +81,18 @@ or cut bait. If this work is to be commenced— I <a rel="tooltip" class="sic" t
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed at Newport, Rhode Island, June 26, 1895. </div>
-
-   <div class="note">Note 2: "Creighton" is likely John A. Creighton (1831-1907), pioneer businessman and philanthropist from Omaha, Nebraska, who founded Creighton University, owned a railroad company, and was Vice-President of the First National Bank of Omaha.</div>
-
-   <div class="note">Note 3: "A Mr. Hake &amp; Bro" are not identified.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed at Newport, Rhode Island, June 26, 1895. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: "Creighton" is likely John A. Creighton (1831-1907), pioneer businessman and philanthropist from Omaha, Nebraska, who founded Creighton University, owned a railroad company, and was Vice-President of the First National Bank of Omaha.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "A Mr. Hake &amp; Bro" are not identified.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

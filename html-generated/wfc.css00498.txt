@@ -34,11 +34,13 @@
 Aug. 26 th 96</span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>
       </span>
 
       <p>I wish to thank you for yours of Aug 19<u>th</u> and also for Haydens letter I now know about where you are at work and about what it will cost to finish to the Town<a href="#n02" class="internal_link">2</a> I regret that your force is not larger. But as we can do nothing with the Bonds— And the Buffalo Parties<a href="#n03" class="internal_link">3</a> will not help <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>Salsbury</span> and my self to carry even the small force I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> see how it can be helped George— I think you should write Buffalo people <a rel="tooltip" class="sic" title="urging​ &#xA;    ">urgeing</a> them to help to at least pay up— back debts— tell them Something must be done give
+            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+         </span> and my self to carry even the small force I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> see how it can be helped George— I think you should write Buffalo people <a rel="tooltip" class="sic" title="urging​ &#xA;    ">urgeing</a> them to help to at least pay up— back debts— tell them Something must be done give
 
 <span class="hr"> </span>
          <span class="pageimage">
@@ -64,8 +66,10 @@ Aug. 26 th 96</span>
 
 
 them a statement of what we owe— And that it must be paid. About Bonding the Town we could not sell the Bonds. Our Co should do something about a news paper. tell Buffalo People so— although I am pushed for ready cash as I never was before. I am glad you did not close down— Am much obliged for <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c"/>Haydens</span> report— Send all the <u>pictures</u> you can to Buffalo— <u>pictures</u> some times make people <u>put up</u>— its true in the show biz— but its hard to get money this year— Nagle<a href="#n04" class="internal_link">4</a> &amp; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/grouard.f"/>Grouard</span> done me in great shape. Glad Colony<a href="#n05" class="internal_link">5</a> was impressed.</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c">Haydens</a>
+         </span> report— Send all the <u>pictures</u> you can to Buffalo— <u>pictures</u> some times make people <u>put up</u>— its true in the show biz— but its hard to get money this year— Nagle<a href="#n04" class="internal_link">4</a> &amp; <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/grouard.f">Grouard</a>
+         </span> done me in great shape. Glad Colony<a href="#n05" class="internal_link">5</a> was impressed.</p>
 
       <span class="closer">
          <span class="salute">Yours <a rel="tooltip" class="sic" title="hastily​ &#xA;    ">hastly</a>
@@ -78,19 +82,32 @@ them a statement of what we owe— And that it must be paid. About Bonding the T
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Madison, Wisconsin, on August 26, 1896. The day's entry in the 1896 Route Diary: "Madison, Wis. / Wednesday, August 26. Arrived in town at 7.15 A. M., which was very early considering the long haul of last night, and a delay of forty minutes in a freight yard on account of a fire in a storage house near the track. Manager McCaddon, Fred. Hutchinson and J. W. Murray, of the "Fu-kort" Fishing Club, went fishing after the afternoon show and returned with forty of the finest kind of lake bass. They all swore that they caught them, and as there was no proof to the contrary it was declared around the camp to be the most successful fishing excursion of the season. Driver Edward Fletcher, who fell from his wagon in Milwaukee, died at three o'clock this afternoon at the Emergency Hospital. / Business big. Lot, Fair Grounds. / Arena, 193 x 362."</div>
-
-   <div class="note">Note 2: The "Town" was officially named Cody, Wyoming, in August 1896.</div>
-
-   <div class="note">Note 3: "Buffalo Parties" and "Buffalo people" refer to investors from Buffalo, New York: <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span>, <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>, and <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>.</div>
-
-   <div class="note">Note 4: "Nagle" is S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, who attempted to recruit settlers to the lands in the Big Horn Basin that were to be irrigated by the Cody Canal.</div>
-
-   <div class="note">Note 5: "Colony" refers to the first group of fifty or so German migrant families to settle the Big Horn Basin.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Madison, Wisconsin, on August 26, 1896. The day's entry in the 1896 Route Diary: "Madison, Wis. / Wednesday, August 26. Arrived in town at 7.15 A. M., which was very early considering the long haul of last night, and a delay of forty minutes in a freight yard on account of a fire in a storage house near the track. Manager McCaddon, Fred. Hutchinson and J. W. Murray, of the "Fu-kort" Fishing Club, went fishing after the afternoon show and returned with forty of the finest kind of lake bass. They all swore that they caught them, and as there was no proof to the contrary it was declared around the camp to be the most successful fishing excursion of the season. Driver Edward Fletcher, who fell from his wagon in Milwaukee, died at three o'clock this afternoon at the Emergency Hospital. / Business big. Lot, Fair Grounds. / Arena, 193 x 362."<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The "Town" was officially named Cody, Wyoming, in August 1896.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Buffalo Parties" and "Buffalo people" refer to investors from Buffalo, New York: <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+         </span>, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
+         </span>.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: "Nagle" is S. V. Nagle, an associate of the firm of F. A. Nagle Commission Merchants of Chicago, who attempted to recruit settlers to the lands in the Big Horn Basin that were to be irrigated by the Cody Canal.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: "Colony" refers to the first group of fifty or so German migrant families to settle the Big Horn Basin.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

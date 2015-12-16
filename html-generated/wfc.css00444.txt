@@ -28,12 +28,15 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
       <p>Yours of 4th in it you do not say anything what is best to do— or where I am to write you. Or who is in the new Co—<a href="#n02" class="internal_link">2</a> So I have nothing to say— as I know nothing— probably <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h"/>Alger</span> will write I wrote Alger that <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bmead.e"/>Mead</span> would be there the 18th with a party of men from <del>pl</del> Cincinnati O. who may want to go in with us—</p>
+            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+         </span> will write I wrote Alger that <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bmead.e">Mead</a>
+         </span> would be there the 18th with a party of men from <del>pl</del> Cincinnati O. who may want to go in with us—</p>
 
       <span class="closer">
          <span class="salute">Very truly your friend </span>
@@ -44,10 +47,14 @@ Col. W. F. Cody (Buffalo Bill), President.<br/>Nate Salsbury, Vice-Pres't and Ma
    </div>
 
 
-
-   <div class="note">Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Auburn, New York, on August 8, 1895.</div>
-
-   <div class="note">Note 2: Cody's reference to "the new Co" was likely to Shoshone Land and Irrigation Company which later became Shoshone Irrigation Company.</div>
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: The year is not inscribed by Cody but is 1895 as determined by the Routes List: Buffalo Bill's Wild West performed in Auburn, New York, on August 8, 1895.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody's reference to "the new Co" was likely to Shoshone Land and Irrigation Company which later became Shoshone Irrigation Company.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

@@ -21,7 +21,8 @@
       <div class="">
          <h4>AN AMBUSCADE AND SLAUGHTER OF TROOPS.</h4>
          <p>The Red Indians now at the American Exhibition have communicated many details of stirring events in their history which had before been imperfectly known. In a little book entitled "<span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r"/>Red Shirt</span>, Chief of the Sioux Nation," which is just about to be published, the capture of Fort Phil, Carney,<a href="#n01" class="internal_link">1</a> is thus vividly described:— </p>
+               <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r">Red Shirt</a>
+            </span>, Chief of the Sioux Nation," which is just about to be published, the capture of Fort Phil, Carney,<a href="#n01" class="internal_link">1</a> is thus vividly described:— </p>
 
          <p>It was just when the United States officers were chafing at their inability to reach their subtle foes that a band of twenty Indians, headed by the Sioux Chief, Crazy Horses,<a href="#n02" class="internal_link">2</a> rode up to the settlement at Fort Phil, Carney, mounted on splendid horses, manœvered around the station, firing at and picking off any helpless resident who incautiously exposed a mark for the fatal bullet. The soldiers returned the fire, but the Indians, instead of retiring, drew closer to the fort, galloping around it, as is customary in Indian warfare, firing all the time. It was irritating and galling to the Commander to see a little force like this, not a quarter as strong as his own, openly defying him in the broad daylight, while the people in the fort grumbled at his inactivity. Goaded at last by the persistent attacks of his enemies, he opened his gates and sallied out to drive back the Indians.</p>
       </div>
@@ -48,12 +49,18 @@
    </div>
 
 
-
-   <div class="note">Note 1: Fort Phil Kearny, established in 1866 in northeastern Wyoming along the Bozeman Trail to protect travelers against Indian attack.</div>
-
-   <div class="note">Note 2: Crazy Horse (~1840-1877), <em class="hi">Tasunka Witko,</em> Chief of the Oglala Sioux, a visionary leader of his people, committed to preserving the traditions and values of the Lakota way of life.</div>
-
-   <div class="note">Note 3: Red Cloud (1822-1909), <em class="hi">Mahipiya Luta,</em> a great war leader and one of the most recognized chiefs of the Oglala Sioux Nation.</div>  
-
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Fort Phil Kearny, established in 1866 in northeastern Wyoming along the Bozeman Trail to protect travelers against Indian attack.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Crazy Horse (~1840-1877), <em class="hi">Tasunka Witko,</em> Chief of the Oglala Sioux, a visionary leader of his people, committed to preserving the traditions and values of the Lakota way of life.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Red Cloud (1822-1909), <em class="hi">Mahipiya Luta,</em> a great war leader and one of the most recognized chiefs of the Oglala Sioux Nation.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

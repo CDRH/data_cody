@@ -36,7 +36,8 @@
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>George</span>.</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         </span>.</span>
 
       <p>I am fretting and <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> hear from you or in fact from any one from that end. <a rel="tooltip" class="sic" title="Can't​ &#xA;    ">Cant</a> tell what you are doing. The last I heard from any of you— Paxton &amp; Gallagher<a href="#n03" class="internal_link">3</a> wired me to go security for <a rel="tooltip" class="sic" title="another​ &#xA;    ">annother</a> bill of goods. Saying $1.306 past due. Buffalo partners<a href="#n04" class="internal_link">4</a> refuse absolutely to do nothing. As I have written time and again— I have no idea what you are doing</p>
 
@@ -63,17 +64,30 @@ Suppose you have closed down. As I get no more daily reports. Would have thanked
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in Muscatine, Iowa, on October 1, 1896. </div>
-
-   <div class="note">Note 2: The year is not inscribed by Cody but is 1896.</div>
-
-   <div class="note">Note 3: Paxton &amp; Gallagher Wholesale Grocery Company was founded in Omaha in 1879 by <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w"/>William Paxton</span> and Benjamin Gallagher. </div>
-
-   <div class="note">Note 4: "Buffalo partners" are the investors from Buffalo, N. Y., including <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g"/>Bleistein</span>, <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b"/>Rumsey</span>, and <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h"/>Gerrans</span>.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in Muscatine, Iowa, on October 1, 1896. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: The year is not inscribed by Cody but is 1896.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: Paxton &amp; Gallagher Wholesale Grocery Company was founded in Omaha in 1879 by <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w">William Paxton</a>
+         </span> and Benjamin Gallagher. <a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: "Buffalo partners" are the investors from Buffalo, N. Y., including <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+         </span>, <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+         </span>, and <span class="persName">
+            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
+         </span>.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

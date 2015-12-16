@@ -31,7 +31,8 @@
          </div>
 
          <h4>Mr. <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n"/>NATE SALSBURY</span>, Director</h4>
+               <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">NATE SALSBURY</a>
+            </span>, Director</h4>
 
 
          <p>Born 1846, February 28th, in Freeport, Ill., the family being descendants of the early Vermont settlers; went out with the First Illinois troops; served through the entire rebellion; was the youngest enlisted soldier in the Army of the Cumberland; wounded three times; is a member of Post 11, G. A. R., Department of Massachusetts; went on the stage in '68; has acted before every English speaking public in the world.</p>

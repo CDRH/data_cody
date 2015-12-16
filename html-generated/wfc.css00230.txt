@@ -88,17 +88,30 @@ Mass
    </div>
 
 
-
-   <div class="note">Note 1: William F. Cody had strong business and personal ties to the town of Cody, Wyoming, from the town's founding in 1895 to his death in 1917.</div>
-
-   <div class="note">Note 2: Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East performed in Brooklyn from April 29 to May 5, 1912.</div>
-
-   <div class="note">Note 3: This seems to be a note for $14,000 signed by Col. Dyer, Cody's partner in his unprofitable Arizona mining ventures. This note was sold to investors in Kansas City by "one R. Brady," according to an account published in Sarah J. Blackstone, <em class="hi">The Business of Being Buffalo Bill: Selected Letters of William F. Cody, 1879-1917</em> (New York: Praeger, 1988), p. 97.</div>
-
-   <div class="note">Note 4: Cody is not known to have performed in Trenton, New Jersey, in 1912. The "Waldorf" is very likely the Waldorf-Astoria, a leading hotel in New York City.</div>
-
-   <div class="note">Note 5: Many cities and towns in Nebraska and other Great Plains states had "Commercial Clubs" in the early twentieth century. They seem to have been roughly equivalent to a present-day Chamber of Commerce. Both "Commercial Clubs" and "Chambers of Commerce" were represented at the first annual meeting of the National Association of Commercial Organization Secretaries in 1915.</div>
-
-   <div class="note">Note 6: A mild oath, equivalent to "God rot it."</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: William F. Cody had strong business and personal ties to the town of Cody, Wyoming, from the town's founding in 1895 to his death in 1917.<a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Buffalo Bill's Wild West Combined with Pawnee Bill's Great Far East performed in Brooklyn from April 29 to May 5, 1912.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: This seems to be a note for $14,000 signed by Col. Dyer, Cody's partner in his unprofitable Arizona mining ventures. This note was sold to investors in Kansas City by "one R. Brady," according to an account published in Sarah J. Blackstone, <em class="hi">The Business of Being Buffalo Bill: Selected Letters of William F. Cody, 1879-1917</em> (New York: Praeger, 1988), p. 97.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Cody is not known to have performed in Trenton, New Jersey, in 1912. The "Waldorf" is very likely the Waldorf-Astoria, a leading hotel in New York City.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: Many cities and towns in Nebraska and other Great Plains states had "Commercial Clubs" in the early twentieth century. They seem to have been roughly equivalent to a present-day Chamber of Commerce. Both "Commercial Clubs" and "Chambers of Commerce" were represented at the first annual meeting of the National Association of Commercial Organization Secretaries in 1915.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n06.note"/>Note 6: A mild oath, equivalent to "God rot it."<a href="#n06.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>

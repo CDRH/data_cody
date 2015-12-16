@@ -28,7 +28,8 @@
 —June —17th 97</span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g"/>Beck</span>
+            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+         </span>
       </span>
 
       <p>Yours of the 11<u>th</u> Yes we are all discouraged about the Land department<a href="#n02" class="internal_link">2</a> but its a department that must be kept up; its our only hope— If Elliot<a href="#n03" class="internal_link">3</a> 
@@ -58,15 +59,26 @@ Cody</span>
    </div>
 
 
-
-   <div class="note">Note 1: Buffalo Bill's Wild West performed in St. Albans, Vermont, on June 17, 1897. </div>
-
-   <div class="note">Note 2: Cody's reference to "Land department" is unclear.</div>
-
-   <div class="note">Note 3: "Elliott" may be D. H. Elliot, Shoshone Irrigation Company's colonization agent.</div>
-
-   <div class="note">Note 4: Cody's reference to "the Club" is unclear.</div>
-
-   <div class="note">Note 5: The entrance gate to Buffalo Bill's Wild West.</div>
-
+   <div class="bibliography">
+      <p>
+         <a name="n01.note"/>Note 1: Buffalo Bill's Wild West performed in St. Albans, Vermont, on June 17, 1897. <a href="#n01.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n02.note"/>Note 2: Cody's reference to "Land department" is unclear.<a href="#n02.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n03.note"/>Note 3: "Elliott" may be D. H. Elliot, Shoshone Irrigation Company's colonization agent.<a href="#n03.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n04.note"/>Note 4: Cody's reference to "the Club" is unclear.<a href="#n04.ref">  [back]
+            </a>
+      </p>
+      <p>
+         <a name="n05.note"/>Note 5: The entrance gate to Buffalo Bill's Wild West.<a href="#n05.ref">  [back]
+            </a>
+      </p>
+   </div>
 </div>
