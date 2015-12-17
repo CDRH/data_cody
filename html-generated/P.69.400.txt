@@ -1,5 +1,3 @@
 <div>
-   <img src="http://rosie.unl.edu/data_images/projects/transmississippi/figures/large/P.69.400.jpg"/>
-   <p>Several Native Americans with blankets around them and a few non-Indians from
-   Buffalo Bill's Wild West. Tipi and trees in background.</p>
-</div>
+   <img src="http://codyarchive.org/figures/800/P.69.400.jpg"/>Several Native Americans with blankets around them and a few non-Indians from
+   Buffalo Bill's Wild West. Tipi and trees in background.</div>

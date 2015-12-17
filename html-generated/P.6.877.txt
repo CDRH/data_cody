@@ -1,5 +1,3 @@
 <div>
-   <img src="http://rosie.unl.edu/data_images/projects/transmississippi/figures/large/P.6.877.jpg"/>
-   <p>William F. Cody holding rifle standing with eight Native Americans wearing
-   traditional regalia.</p>
-</div>
+   <img src="http://codyarchive.org/figures/800/P.6.877.jpg"/>William F. Cody holding rifle standing with eight Native Americans wearing
+   traditional regalia.</div>

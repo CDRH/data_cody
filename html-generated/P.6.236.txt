@@ -1,5 +1,3 @@
 <div>
-   <img src="http://rosie.unl.edu/data_images/projects/transmississippi/figures/large/P.6.236.jpg"/>
-   <p>Native American man, woman, and child in traditional regalia in front of tipi at
-   Buffalo Bill's Wild West.</p>
-</div>
+   <img src="http://codyarchive.org/figures/800/P.6.236.jpg"/>Native American man, woman, and child in traditional regalia in front of tipi at
+   Buffalo Bill's Wild West.</div>

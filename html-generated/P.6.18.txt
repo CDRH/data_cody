@@ -1,5 +1,3 @@
 <div>
-   <img src="http://rosie.unl.edu/data_images/projects/transmississippi/figures/large/P.6.18.jpg"/>
-   <p>Portrait of Native American man wearing breast plate over vest and holding
-   furs.</p>
-</div>
+   <img src="http://codyarchive.org/figures/800/P.6.18.jpg"/>Portrait of Native American man wearing breast plate over vest and holding
+   furs.</div>

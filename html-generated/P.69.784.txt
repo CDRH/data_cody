@@ -1,5 +1,3 @@
 <div>
-   <img src="http://rosie.unl.edu/data_images/projects/transmississippi/figures/large/P.69.784.jpg"/>
-   <p>Native Americans wearing traditional regalia from Buffalo Bill's Wild West on deck
-   of Cliff House in San Francisco, California.</p>
-</div>
+   <img src="http://codyarchive.org/figures/800/P.69.784.jpg"/>Native Americans wearing traditional regalia from Buffalo Bill's Wild West on deck
+   of Cliff House in San Francisco, California.</div>

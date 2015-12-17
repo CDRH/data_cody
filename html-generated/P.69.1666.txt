@@ -1,5 +1,3 @@
 <div>
-   <img src="http://rosie.unl.edu/data_images/projects/transmississippi/figures/large/P.69.1666.jpg"/>
-   <p>Two Native American men in traditional regalia with horses, and wagons behind
-   them. Possibly behind scenes of Buffalo Bill's Wild West.</p>
-</div>
+   <img src="http://codyarchive.org/figures/800/P.69.1666.jpg"/>Two Native American men in traditional regalia with horses, and wagons behind
+   them. Possibly behind scenes of Buffalo Bill's Wild West.</div>

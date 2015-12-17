@@ -1,6 +1,8 @@
 development:
   solr_core: api_cody
-  tei_xsl: projects/cody_archive/scripts/solr_transform_tei.xsl
+  tei_solr_xsl: projects/cody_archive/scripts/solr_transform_tei.xsl
+  tei_html_xsl: projects/cody_archive/scripts/tei.p5.xsl
+  dc_html_xsl: projects/cody_archive/scripts/dc_to_html.xsl
 
   xsl_params:
     fig_location:

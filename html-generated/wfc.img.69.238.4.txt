@@ -1,4 +1,3 @@
 <div>
-   <img src="http://rosie.unl.edu/data_images/projects/transmississippi/figures/large/wfc.img.69.238.4.jpg"/>
-   <p/>
+   <img src="http://codyarchive.org/figures/800/wfc.img.69.238.4.jpg"/>
 </div>

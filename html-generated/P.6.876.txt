@@ -1,5 +1,3 @@
 <div>
-   <img src="http://rosie.unl.edu/data_images/projects/transmississippi/figures/large/P.6.876.jpg"/>
-   <p>Sitting Bull with feather in hair wearing fringed shirt and several
-   necklaces.</p>
-</div>
+   <img src="http://codyarchive.org/figures/800/P.6.876.jpg"/>Sitting Bull with feather in hair wearing fringed shirt and several
+   necklaces.</div>
