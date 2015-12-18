@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.mem00086.jpg"/>Women</div>
+   <img src="http://codyarchive.org/figures/800/wfc.mem00086.jpg"/>
+   <p>Women</p>
+</div>

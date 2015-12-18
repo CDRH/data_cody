@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.69.915.jpg"/>William F. Cody wearing overcoat with white shirt and tie.</div>
+   <img src="http://codyarchive.org/figures/800/P.69.915.jpg"/>
+   <p>William F. Cody wearing overcoat with white shirt and tie.</p>
+</div>

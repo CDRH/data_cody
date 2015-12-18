@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/1.69.538a.jpg"/>Printed along top edge: Buffalo Bill's Wild West, Printed along bottom: The Death of Chief Tall Bull./An Actual Historic Event at the Battle of Summit Springs, in which Col. W. F. Cody (Buffalo Bill)/As Chief of Scouts Succeeded in Ending the Earthly Career of that Hostile Redskin, Printed LRC: 5370/Copyright 1907 By/The Courier Co./of Buffalo</div>
+   <img src="http://codyarchive.org/figures/800/1.69.538a.jpg"/>
+   <p>Printed along top edge: Buffalo Bill's Wild West, Printed along bottom: The Death of Chief Tall Bull./An Actual Historic Event at the Battle of Summit Springs, in which Col. W. F. Cody (Buffalo Bill)/As Chief of Scouts Succeeded in Ending the Earthly Career of that Hostile Redskin, Printed LRC: 5370/Copyright 1907 By/The Courier Co./of Buffalo</p>
+</div>

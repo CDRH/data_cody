@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.crt00015.jpg"/>Caption reads: What we may expect to see when the Wild West show returns from abroad.</div>
+   <img src="http://codyarchive.org/figures/800/wfc.crt00015.jpg"/>
+   <p>Caption reads: What we may expect to see when the Wild West show returns from abroad.</p>
+</div>

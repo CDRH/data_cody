@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.img.3.64.jpg"/>A.D.M. Cooper painting, oil on canvas, In the Studio, 1902</div>
+   <img src="http://codyarchive.org/figures/800/wfc.img.3.64.jpg"/>
+   <p>A.D.M. Cooper painting, oil on canvas, In the Studio, 1902</p>
+</div>

@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.69.726.jpg"/>William F.Cody standing wearing hat, beaded fringed, buckskin jacket, thigh high boots, and leaning on rifle. Hand written note at top of photograph reads, "My lovely Arta. Papa."</div>
+   <img src="http://codyarchive.org/figures/800/P.69.726.jpg"/>
+   <p>William F.Cody standing wearing hat, beaded fringed, buckskin jacket, thigh high boots, and leaning on rifle. Hand written note at top of photograph reads, "My lovely Arta. Papa."</p>
+</div>

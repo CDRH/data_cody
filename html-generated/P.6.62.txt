@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.62.jpg"/>Two Native Americans, one male and one female wearing traditional
-   regalia.</div>
+   <img src="http://codyarchive.org/figures/800/P.6.62.jpg"/>
+   <p>Two Native Americans, one male and one female wearing traditional
+   regalia.</p>
+</div>

@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.img.L.21.99.2.jpg"/>Irving R. Bacon painting, oil on canvas, The Killing of Yellow Hand</div>
+   <img src="http://codyarchive.org/figures/800/wfc.img.L.21.99.2.jpg"/>
+   <p>Irving R. Bacon painting, oil on canvas, The Killing of Yellow Hand</p>
+</div>

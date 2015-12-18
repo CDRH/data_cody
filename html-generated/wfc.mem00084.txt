@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.mem00084.jpg"/>object puzzle</div>
+   <img src="http://codyarchive.org/figures/800/wfc.mem00084.jpg"/>
+   <p>object puzzle</p>
+</div>

@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.69.401.jpg"/>Native American man wearing eagle feather headdress with trailers and traditional
-   regalia standing in front of tipi.</div>
+   <img src="http://codyarchive.org/figures/800/P.69.401.jpg"/>
+   <p>Native American man wearing eagle feather headdress with trailers and traditional
+   regalia standing in front of tipi.</p>
+</div>

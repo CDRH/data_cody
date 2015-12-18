@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.69.1106.jpg"/>Native American man wearing headdress and traditional regalia from Wild West
-   show.</div>
+   <img src="http://codyarchive.org/figures/800/P.69.1106.jpg"/>
+   <p>Native American man wearing headdress and traditional regalia from Wild West
+   show.</p>
+</div>

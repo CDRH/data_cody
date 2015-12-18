@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.crt00018.jpg"/>Caption reads: The "Wild West" at the Great American Exhibition: Hunting Bison and Wapiti Deer.</div>
+   <img src="http://codyarchive.org/figures/800/wfc.crt00018.jpg"/>
+   <p>Caption reads: The "Wild West" at the Great American Exhibition: Hunting Bison and Wapiti Deer.</p>
+</div>

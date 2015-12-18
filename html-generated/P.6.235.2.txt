@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.235.2.jpg"/>Group of Native Americans wearing traditional regalia standing in front of tipis
-   at Buffalo Bill's Wild West.</div>
+   <img src="http://codyarchive.org/figures/800/P.6.235.2.jpg"/>
+   <p>Group of Native Americans wearing traditional regalia standing in front of tipis
+   at Buffalo Bill's Wild West.</p>
+</div>

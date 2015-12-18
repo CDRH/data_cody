@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/1.69.6022b.jpg"/>Buffalo Bill's Wild West lithograph poster, Deadwood Stage Coach</div>
+   <img src="http://codyarchive.org/figures/800/1.69.6022b.jpg"/>
+   <p>Buffalo Bill's Wild West lithograph poster, Deadwood Stage Coach</p>
+</div>

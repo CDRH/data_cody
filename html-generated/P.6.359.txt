@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.359.jpg"/>Nine Native American men and two children in traditional regalia in backlot of
-   Buffalo Bill's Wild West. Fence in background.</div>
+   <img src="http://codyarchive.org/figures/800/P.6.359.jpg"/>
+   <p>Nine Native American men and two children in traditional regalia in backlot of
+   Buffalo Bill's Wild West. Fence in background.</p>
+</div>

@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.69.1251.jpg"/>Portrait of Chief Iron Tail wearing beaded, fringed jacket, holding hat and
-   firearm.</div>
+   <img src="http://codyarchive.org/figures/800/P.69.1251.jpg"/>
+   <p>Portrait of Chief Iron Tail wearing beaded, fringed jacket, holding hat and
+   firearm.</p>
+</div>

@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.img.12.64.jpg"/>R. Farrington Elwell 1904, painting, oil on canvas</div>
+   <img src="http://codyarchive.org/figures/800/wfc.img.12.64.jpg"/>
+   <p>R. Farrington Elwell 1904, painting, oil on canvas</p>
+</div>

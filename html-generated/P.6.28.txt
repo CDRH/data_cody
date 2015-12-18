@@ -1,5 +1,7 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.28.jpg"/>Portrait of Red Shirt wearing eagle feather headdress and trailer and holding
+   <img src="http://codyarchive.org/figures/800/P.6.28.jpg"/>
+   <p>Portrait of Red Shirt wearing eagle feather headdress and trailer and holding
    pipe.  Type written note below photograph reads,
    "Red Shirt, The Fighting Chief of the Sioux Nation. Buffalo Bill's Wild
-   West."</div>
+   West."</p>
+</div>

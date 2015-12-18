@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.69.104.jpg"/>Sioux Native American wearing headdress and beaded shirt holding eagle feather
-   staff.</div>
+   <img src="http://codyarchive.org/figures/800/P.69.104.jpg"/>
+   <p>Sioux Native American wearing headdress and beaded shirt holding eagle feather
+   staff.</p>
+</div>

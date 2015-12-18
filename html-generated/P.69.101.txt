@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.69.101.jpg"/>Portrait of Chief Flying Hawk wearing eagle feather headdress and breast plate
-   over cloth shirt.</div>
+   <img src="http://codyarchive.org/figures/800/P.69.101.jpg"/>
+   <p>Portrait of Chief Flying Hawk wearing eagle feather headdress and breast plate
+   over cloth shirt.</p>
+</div>

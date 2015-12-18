@@ -1,4 +1,6 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.40.jpg"/>White Eagle wearing eagle feather headdress and cloth shirt and cross around neck.
+   <img src="http://codyarchive.org/figures/800/P.6.40.jpg"/>
+   <p>White Eagle wearing eagle feather headdress and cloth shirt and cross around neck.
     Type written note below photograph reads, "White
-   Eagle."</div>
+   Eagle."</p>
+</div>

@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/1.69.108b.jpg"/>Buffalo Bill's Wild West and Congress of Rough Riders of the World - Poster</div>
+   <img src="http://codyarchive.org/figures/800/1.69.108b.jpg"/>
+   <p>Buffalo Bill's Wild West and Congress of Rough Riders of the World - Poster</p>
+</div>

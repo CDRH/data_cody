@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.img.2.58.jpg"/>H. H. Cross 1878 painting, oil on canvas.</div>
+   <img src="http://codyarchive.org/figures/800/wfc.img.2.58.jpg"/>
+   <p>H. H. Cross 1878 painting, oil on canvas.</p>
+</div>

@@ -1,4 +1,6 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.41.jpg"/>Good Eagle wearing traditional regalia with medallion around neck.
+   <img src="http://codyarchive.org/figures/800/P.6.41.jpg"/>
+   <p>Good Eagle wearing traditional regalia with medallion around neck.
     Type written note below photograph reads, "Good
-   Eagle, Chief of the Cheyennes. Buffalo Bill's Wild West."</div>
+   Eagle, Chief of the Cheyennes. Buffalo Bill's Wild West."</p>
+</div>

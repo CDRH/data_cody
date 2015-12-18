@@ -1,5 +1,6 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.crt00011.jpg"/>Full Text reads: 
+   <img src="http://codyarchive.org/figures/800/wfc.crt00011.jpg"/>
+   <p>Full Text reads: 
 A Derby Day Romance, and what came of it.
 
 "Ups" and "Downs" I have had, as we all of us have—
@@ -31,4 +32,5 @@ We danced with delight when we found we were free,
  And she gave me a kiss before starting;
 Only one thing on earth was more joyous to see
  Than our meeting, and that was—our parting.
+</p>
 </div>

@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.238.jpg"/>Six Native American men in traditional regalia in front of tipi at Buffalo Bill's
-   Wild West. Some holding shields, coup sticks, or eagle feather staff.</div>
+   <img src="http://codyarchive.org/figures/800/P.6.238.jpg"/>
+   <p>Six Native American men in traditional regalia in front of tipi at Buffalo Bill's
+   Wild West. Some holding shields, coup sticks, or eagle feather staff.</p>
+</div>

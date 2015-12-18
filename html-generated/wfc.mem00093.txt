@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.mem00093.jpg"/>Map</div>
+   <img src="http://codyarchive.org/figures/800/wfc.mem00093.jpg"/>
+   <p>Map</p>
+</div>

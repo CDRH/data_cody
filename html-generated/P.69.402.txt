@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.69.402.jpg"/>Native American man gesturing to several other Native Americans from Buffalo
-   Bill's Wild West. Tipis and trees in background.</div>
+   <img src="http://codyarchive.org/figures/800/P.69.402.jpg"/>
+   <p>Native American man gesturing to several other Native Americans from Buffalo
+   Bill's Wild West. Tipis and trees in background.</p>
+</div>

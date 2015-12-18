@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/PC.0021.jpg"/>Native American men in traditional regalia on horseback. Printed text reads: Buffalo Bill's Wild West. Indianer</div>
+   <img src="http://codyarchive.org/figures/800/PC.0021.jpg"/>
+   <p>Native American men in traditional regalia on horseback. Printed text reads: Buffalo Bill's Wild West. Indianer</p>
+</div>

@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/1.69.2165b.jpg"/>Lithograph poster. 1905 French tax stamp upper right.</div>
+   <img src="http://codyarchive.org/figures/800/1.69.2165b.jpg"/>
+   <p>Lithograph poster. 1905 French tax stamp upper right.</p>
+</div>

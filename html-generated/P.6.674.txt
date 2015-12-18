@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.674.jpg"/>William F. Cody wearing suit with white shirt and tie. Hand written note on verso of card reads, "Yours til sulphur time, W.F. Cody, Buffalo Bill."</div>
+   <img src="http://codyarchive.org/figures/800/P.6.674.jpg"/>
+   <p>William F. Cody wearing suit with white shirt and tie. Hand written note on verso of card reads, "Yours til sulphur time, W.F. Cody, Buffalo Bill."</p>
+</div>

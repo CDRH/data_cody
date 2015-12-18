@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.crt00014.jpg"/>Caption reads: "Our Turn Next"</div>
+   <img src="http://codyarchive.org/figures/800/wfc.crt00014.jpg"/>
+   <p>Caption reads: "Our Turn Next"</p>
+</div>

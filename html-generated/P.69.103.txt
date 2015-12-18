@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.69.103.jpg"/>Group of Native Americans in traditional regalia and Charlie Yellow Boy of Buffalo
-   Bill's Wild West.</div>
+   <img src="http://codyarchive.org/figures/800/P.69.103.jpg"/>
+   <p>Group of Native Americans in traditional regalia and Charlie Yellow Boy of Buffalo
+   Bill's Wild West.</p>
+</div>

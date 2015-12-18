@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/1.69.84b.jpg"/>Four color lithograph poster of Buffalo Bill and cavalry fighting Indians.</div>
+   <img src="http://codyarchive.org/figures/800/1.69.84b.jpg"/>
+   <p>Four color lithograph poster of Buffalo Bill and cavalry fighting Indians.</p>
+</div>

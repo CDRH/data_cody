@@ -1,5 +1,7 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.37.jpg"/>Little Bull with feather in hair, breast plate over cloth shirt, and medallion
+   <img src="http://codyarchive.org/figures/800/P.6.37.jpg"/>
+   <p>Little Bull with feather in hair, breast plate over cloth shirt, and medallion
    around neck.  Type written note below photograph reads,
    "Little Bull, Chief of the Arrapahoes. Buffalo Bill's Wild
-   West."</div>
+   West."</p>
+</div>

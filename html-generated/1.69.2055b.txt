@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/1.69.2055b.jpg"/>Original color lithograph Wild West poster. Printed by Weiners of Paris. Company seal at LRC. Buffalo Bill's Wild West and Rough Riders of the World and Le Poney Express</div>
+   <img src="http://codyarchive.org/figures/800/1.69.2055b.jpg"/>
+   <p>Original color lithograph Wild West poster. Printed by Weiners of Paris. Company seal at LRC. Buffalo Bill's Wild West and Rough Riders of the World and Le Poney Express</p>
+</div>

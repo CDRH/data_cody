@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/1.69.406b.jpg"/>Original colored lithograph poster.</div>
+   <img src="http://codyarchive.org/figures/800/1.69.406b.jpg"/>
+   <p>Original colored lithograph poster.</p>
+</div>

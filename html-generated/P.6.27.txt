@@ -1,5 +1,7 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.27.jpg"/>Portrait of Red Shirt wearing shirt and vest and medallion around neck.
+   <img src="http://codyarchive.org/figures/800/P.6.27.jpg"/>
+   <p>Portrait of Red Shirt wearing shirt and vest and medallion around neck.
     Type written note below photograph reads, "Red
    Shirt, The Fighting Chief of the Sioux Nation. Buffalo Bill's Wild
-   West."</div>
+   West."</p>
+</div>

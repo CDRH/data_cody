@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/1.69.5654.1.jpg"/>Poster with image of elderly Indian man in Indian dress holding a fur bag with fringe at bottom. Indian motifs on right and left edges. Inscription in white, red and yellow beneath image. Red metal strip across top.</div>
+   <img src="http://codyarchive.org/figures/800/1.69.5654.1.jpg"/>
+   <p>Poster with image of elderly Indian man in Indian dress holding a fur bag with fringe at bottom. Indian motifs on right and left edges. Inscription in white, red and yellow beneath image. Red metal strip across top.</p>
+</div>

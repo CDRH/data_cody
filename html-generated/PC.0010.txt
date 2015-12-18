@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/PC.0010.jpg"/>Printed: Chief Standing Bear. With Buffalo Bill's Wild West.</div>
+   <img src="http://codyarchive.org/figures/800/PC.0010.jpg"/>
+   <p>Printed: Chief Standing Bear. With Buffalo Bill's Wild West.</p>
+</div>

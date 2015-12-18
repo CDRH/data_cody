@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/1.69.6042.jpg"/>Joe Scheuerie painting, watercolor, Chief Iron Tail, c. 1916</div>
+   <img src="http://codyarchive.org/figures/800/1.69.6042.jpg"/>
+   <p>Joe Scheuerie painting, watercolor, Chief Iron Tail, c. 1916</p>
+</div>

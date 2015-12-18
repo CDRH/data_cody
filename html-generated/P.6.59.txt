@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.59.jpg"/>A photograph of the Deadwood Stagecoach pulled by a team of mules. A driver is in the driver's seat. John Nelson is on the roof. Four passengers are in the cab including Sergeant Gilbert Henderson Bates on the right. Mountains and trees are in the background. Printed caption: "Copyright Woodburytype. The Famous Deadwood Coach, Buffalo Bill's Wild West."</div>
+   <img src="http://codyarchive.org/figures/800/P.6.59.jpg"/>
+   <p>A photograph of the Deadwood Stagecoach pulled by a team of mules. A driver is in the driver's seat. John Nelson is on the roof. Four passengers are in the cab including Sergeant Gilbert Henderson Bates on the right. Mountains and trees are in the background. Printed caption: "Copyright Woodburytype. The Famous Deadwood Coach, Buffalo Bill's Wild West."</p>
+</div>

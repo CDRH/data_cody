@@ -1,3 +1,4 @@
 <div>
    <img src="http://codyarchive.org/figures/800/wfc.mem00212.jpg"/>
+   <p/>
 </div>

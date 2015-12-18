@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/PC.0011.jpg"/>Printed: Chief Sands Rock. With Buffalo Bill's Wild West.</div>
+   <img src="http://codyarchive.org/figures/800/PC.0011.jpg"/>
+   <p>Printed: Chief Sands Rock. With Buffalo Bill's Wild West.</p>
+</div>

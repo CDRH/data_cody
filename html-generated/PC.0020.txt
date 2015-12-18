@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/PC.0020.jpg"/>Printed text reads: Buffalo Bill's Wild West. Indianer u Araber.</div>
+   <img src="http://codyarchive.org/figures/800/PC.0020.jpg"/>
+   <p>Printed text reads: Buffalo Bill's Wild West. Indianer u Araber.</p>
+</div>

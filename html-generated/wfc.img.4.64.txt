@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/wfc.img.4.64.jpg"/>Astley D.M. Cooper, painting, oil on canvas, AKA 'The Buffalo Head'</div>
+   <img src="http://codyarchive.org/figures/800/wfc.img.4.64.jpg"/>
+   <p>Astley D.M. Cooper, painting, oil on canvas, AKA 'The Buffalo Head'</p>
+</div>

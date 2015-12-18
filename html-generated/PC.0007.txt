@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/PC.0007.jpg"/>Printed: Laura Standing Bear and Standing Bear, Jr. With Buffalo Bill's Wild West.</div>
+   <img src="http://codyarchive.org/figures/800/PC.0007.jpg"/>
+   <p>Printed: Laura Standing Bear and Standing Bear, Jr. With Buffalo Bill's Wild West.</p>
+</div>

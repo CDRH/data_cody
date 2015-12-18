@@ -1,2 +1,4 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/PC.0016.jpg"/>Three Native American men wearing traditional regalia riding on horses. Printed: Buffalo Bill's Wild West. Indianer.</div>
+   <img src="http://codyarchive.org/figures/800/PC.0016.jpg"/>
+   <p>Three Native American men wearing traditional regalia riding on horses. Printed: Buffalo Bill's Wild West. Indianer.</p>
+</div>

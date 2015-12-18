@@ -1,3 +1,5 @@
 <div>
-   <img src="http://codyarchive.org/figures/800/P.6.17.jpg"/>Portrait of Native American man wearing breast plate over cloth shirt and holding
-   pistol.</div>
+   <img src="http://codyarchive.org/figures/800/P.6.17.jpg"/>
+   <p>Portrait of Native American man wearing breast plate over cloth shirt and holding
+   pistol.</p>
+</div>
