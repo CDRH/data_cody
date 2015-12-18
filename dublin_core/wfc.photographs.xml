@@ -2283,38 +2283,6 @@
       <dc:rights>http://centerofthewest.org/research/rights-reproductions/</dc:rights>
    </rdf:Description>
 
-   <rdf:Description about="PN.312.2">
-      <dc:title>Willie Picket Pin</dc:title>
-      <dc:creator>unknown</dc:creator>
-      <dc:subject>American Indians</dc:subject>
-      <dc:subject>Hides &amp; skins</dc:subject>
-      <dc:subject>Headgear</dc:subject>
-      <dc:subject>Buffalo Bill, 1846-1917</dc:subject>
-      <dc:subject>Pawnee Bill, 1860-1942</dc:subject>
-      <dc:subject>Buffalo Bill's Wild West and Pawnee Bill's Great Far East (Show)</dc:subject>
-      <dc:subject>Indian beadwork</dc:subject>
-      <dc:subject>Portraits</dc:subject>
-      <dc:subject>Tipis</dc:subject>
-      <dc:description>Willie Picket Pin in war bonnet, hide vest, and jewelry, sitting in front of tipi
-   at Wild West show; in background a man naps on the ground. 
-   Hand printed at top of image, "Willie Picket Pin, 1911."</dc:description>
-      <dc:publisher/>
-      <dc:contributor/>
-      <dc:date>1911</dc:date>
-      <dc:type>negative</dc:type>
-      <dc:type>image</dc:type>
-      <dc:format>4 x 5 glass plate negative</dc:format>
-      <dc:format>Master scanned at 16 bit grayscale,1200dpi, scaled 100% in size by Mack Frost with a
-   flatbed scanner. Image processed using Photoshop CS and CS3 software.</dc:format>
-      <dc:identifier>PN.312.2</dc:identifier>
-      <dc:source>McCracken Research Library, Buffalo Bill Center of the West</dc:source>
-      <dc:language>English</dc:language>
-      <dc:relation>Buffalo Bill Online Archive MS312 Buffalo Bill - Pawnee Bill Wild West Show glass
-   plate negatives</dc:relation>
-      <dc:coverage/>
-      <dc:rights>http://centerofthewest.org/research/rights-reproductions/</dc:rights>
-   </rdf:Description>
-
    <rdf:Description about="P.69.1505">
       <dc:title>Tom Isbell, saddled horse, and stagecoach at Buffalo Bill's Wild West</dc:title>
       <dc:creator>unknown</dc:creator>
@@ -5928,31 +5896,6 @@
 <dc:format>Master scanned at 16 bit grayscale,  900 dpi, scaled 100% in size by Mack Frost with a Kodak (Creo) iQsmart3 flatbed scanner. Image processed using Adobe PhotoShop CS and CS3 software.</dc:format>
     <dc:identifier>P.69.1079</dc:identifier>
     <dc:source>McCracken Research Library, Buffalo Bill Center of the West</dc:source>
-      <dc:language>English</dc:language>
-    <dc:relation>Buffalo Bill Online Archive MS6 William F. Cody Collection</dc:relation>
-    <dc:coverage></dc:coverage>
-    <dc:rights>http://centerofthewest.org/research/rights-reproductions/</dc:rights>
-  </rdf:Description>
-
-<rdf:Description about="P.69.1079">
-    <dc:title>William F. Cody</dc:title>
-    <dc:creator>unknown</dc:creator>
-    <dc:subject>Portraits</dc:subject>
-    <dc:subject>Firearms</dc:subject>
-    <dc:subject>Hats</dc:subject>
-    <dc:subject>Boots</dc:subject>
-    <dc:subject>Cody, William F. (William Frederick), 1846-1917</dc:subject>
-    <dc:subject>Buffalo Bill, 1846-1917</dc:subject>
-    <dc:description>William F. Cody standing wearing hat, beaded fringed, buckskin jacket, thigh high boots and leaning on rifle. Hand written note on front of photograph reads, &quot;To My Children, Fred &amp; Irma, Father, W.F. Cody, Buffalo Bill 1909.&quot;</dc:description>
-    <dc:publisher></dc:publisher>
-    <dc:contributor></dc:contributor>
-    <dc:date>1909</dc:date>
-    <dc:type>photograph</dc:type>
-<dc:type>image</dc:type>
-    <dc:format>7.3 x 9.2 in mounted photograph</dc:format>
-<dc:format>Master scanned at 16 bit grayscale,  900 dpi, scaled 100% in size by Mack Frost with a Kodak (Creo) iQsmart3 flatbed scanner. Image processed using Adobe PhotoShop CS and CS3 software.</dc:format>
-    <dc:identifier>P.69.1079</dc:identifier>
-        <dc:source>McCracken Research Library, Buffalo Bill Center of the West</dc:source>
       <dc:language>English</dc:language>
     <dc:relation>Buffalo Bill Online Archive MS6 William F. Cody Collection</dc:relation>
     <dc:coverage></dc:coverage>

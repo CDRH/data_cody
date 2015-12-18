@@ -26,7 +26,7 @@
         <xsl:result-document href="{$filename}">
           <div>
             <img src="{$fig_location}800/{@about}.jpg"/>
-            <xsl:value-of select="dc:description"/>
+            <p><xsl:value-of select="dc:description"/></p>
           </div>
         </xsl:result-document>
       </xsl:for-each>
