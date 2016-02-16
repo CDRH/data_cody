@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11422">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Der wilde Westen</title>
+<title type="main" xml:lang="en">The Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name n="Stetler, Julia S.">Julia S. Stetler</name>
+</respStmt>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11422</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>Eyewitness report. Describes the large scale of the show, the camp, tents, concessions, and Cody. Opening of the show the day before, description of the acts: shooting, duel with Yellow Hand, cowboy skills, Deadwood Stage Coach, Indian appearance and dances, buffalo hunt. One buffalo briefly escapes. Frequent comparisons to Carver's show.</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author/>
+<title level="a" type="main" xml:lang="de">Der wilde Westen</title>
+<title level="a" type="main" xml:lang="en">The Wild West</title>
+<title level="j">Börsen Courier</title>
+<pubPlace>Berlin, Germany</pubPlace>
+<date when="1890-07-24">July 24, 1890</date>
+<extent/>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3776.44.04 (German scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2015"><name xml:id="da">Adams, Deb</name>; <name xml:id="lc">Clark, L.</name>; <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11422.001"/>
+
+<head>Der wilde Westen.</head>
+
+<p>In nächster Nähe des vornehmen Berliner Westens hat der rauhe, wilde Westen der Vereinigten Staaten sein Quartier aufgeschlagen; auf den bunt belebten Tummelplatz der Rothäute und Cow-boys blickt sanft der Backsteinbau einer Charlottenburger Gemeindeschule hernieder. Der berühmte Buffalo Bill und seine Truppe bieten im Grunde uns nicht viel neues. Mister Carwer, (sic) der einstmals selber Mitglied der Gesellschaft war, hat mit seinen Leuten im vorigen Jahre den Ruhm einigermaßen abgeschöpft; aber „Wild-West" stellt sich doch bedeutend großartiger dar, als seiner Zeit „Wild-Amerika." Das zeigt von vorneherein die ganze Anlage. In jenem umbuschten Theile des gewaltigen Terrains, den man zuerst betritt, erheben sich malerisch die beiden Zeltlager, rechts dasjenige der Blassgesichter, links die grotesk bemalten Wigwams der Indianer. An einer dritten, für das Publikum nicht zugänglichen Stelle sind die Verschläge für die Pferde und Büffel angebracht. Die Rothäute lassen einen nicht gern in ihre Zelte hineingucken, aber diejenigen der Cowboys stehen dem neugierigen Blicke offen. Es ist wahrhaft erstaunlich, wie komfortabel so eine Leinewandhütte eingerichtet ist-man lebt im wilden Westen anscheinend sogar nicht so übel. In einem Zelte sieht man sogar eine ganze Batterie kleiner Fläschchen aufgefahren-mit wohl riechenden Wässern meinten gestern die einen, mit gebrannten die anderen. Das vornehmste Zelt ist natürlich dasjenige des großen Buffalo Bill. Es weist eine ganze Menge Raritäten auf, darunter eine prächtige kleine Waffensammlung und in dieser als Hauptstück ein gewaltiges Schlachtschwert, dessen Scheide mit Muscheln besetzt ist-ein Schwert aus Algerien, wie Buffalo Bill erklärte. Denn mit liebenswürdiger Zuvorkommenheit machte er selbst, vor Beginn der Vorstellung, bevorzugten Besuchern die Honneurs. Auch in „Civil" ist er eine imponierende Erscheinung. Die hohe Gestalt ist noch völlig ungebeugt, nur das ergrauende Haar deutet auf die Nähe des Alters. Die Züge sind edel geschnitten, und in der Unterhaltung zeigt der berühmte Kundschafter das Wesen des gebildeten Weltmannes.</p>
+
+<p>Den größten Teil des Wilden Westens umsäumen Restaurationshallen, auch das Café Bauer hat eine Filiale errichtet, so dass für des Leibes Stärkung nach jeder Richtung ausreichend gesorgt ist. Die Plätze von zwei Mark an sind unter Dach und Fach; also selbst der stärkste Platzregen vermag den glücklichen Inhabern nicht zu Schaden. Am gestrigen Eröffnungstage war für die Angehörigen der amerikanischen Gesandtschaft und deren Freunde eine große Loge festlich drapiert, und schnell füllte sich der Raum. Welche bedeutende Rolle ein Teil dieser amerikanischen Kolonie noch in der Schaustellung spielen werde, sollte sich erst später offenbaren.</p>
+
+<p>Dass auch der wilde Westen bereits von der Civilisation angekränkelt ist, zeigte sich sogleich; erst nach Ablauf eines reichlichen akademischen Viertels begann die Entfaltung des mannigfaltigen Programms. Den Anfang machte, wie bei Wild-Amerika, der Einzug der verschiedenen Gruppen, abwechselnd Rothäute und Blassgesichter, unter Letzteren auch einige Damen, nicht eben durch Schönheit, aber um so mehr durch erstaunliche Sicherheit in der edlen Reitkunst ausgezeichnet. Besonders prächtig nahmen sich natürlich die Indianer in ihrer farbigen Bemalung und die Häuptlinge mit dem reichen Schmuck der Federn aus. Auch sie führen einige Frauen mit, die nach Männerart zu Pferde sitzen. Das Kostüm eines der Rothäute bestand, abgesehen von einem winzigen Lendenschurz, lediglich in der Bemalung mit gelbem Ocker. Den Schluss des Einzugs machte Buffalo Bill selbst, nunmehr in der richtigen westlichen Tracht aus Wildleder. Stürmisch begrüßt, spendete er seinen Dank mit einer Grazie, um die ihn mancher Löwe des Salons beneiden könnte.</p>
+
+<p>Nunmehr begannen die eigentlichen Vorstellungen, zunächst ein Rennen zwischen einem Indianer, einem Mexikaner und einem Cowboy-zu Pferde natürlich. Dann produzierte sich Miss Oakley, ein blutjunges Dämchen, das mit den geübten Kunstschützen um die Palme ringen kann. In den Schatten gestellt wurde sie jedoch später durch den kleinen John Baker, der in allen möglichen und unmöglichen Lagen und Stellungen, schließlich sogar auf dem Kopfe stehend, die Glaskugeln aus der Luft herunter holte. Ein riesiger Kranz war sein Lohn. Da wir einmal beim Schießen sind, so sei gleich auch der gewandte Pistolen und Revolverschütze Mr. Daly erwähnt, ebenso Buffalo Bill selbst, der im gestreckten Galopp die Glaskugeln herunterschießt, die eine vor ihm her reitende Indianerin in die Luft schleudert. Doch alle Einzelheiten des Programms aufzuzählen, würde zu weit führen; es seien deshalb nur die Hauptnummern hervorgehoben. Wie gemütlich kommt der Auswandererzug daher gefahren! Voran als Führer ein alter Trapper, auf dem ersten Wagen neben dem Kutscher eine freundliche Alte, die behaglich ihren Strumpf strikt. Je wird das Idyll durch eine heransprengende Indianerhorde unterbrochen. Um die armen Emigranten scheint es geschehen zu sein, aber in der Gestalt von Grenzbewohnern nahen die Retter, welche die Rothäute in die Flucht schlagen. Darob große Freude, welche ihren schönsten Ausdruck darin findet, dass die jüngeren der befreiten Damen mit einigen ihrer kühnen Retter Quadrille reiten. Auf historischer Grundlage beruht angeblich ein Einzelkampf zwischen Buffalo Bill und dem Häuptling Gelbhand, der allerdings hier durch andere Personen dargestellt wurde, schon aus dem einfachen Grunde, weil einer der Beteiligten, eben besagter Gelbhand, bei genannter Gelegenheit seine Heldenseele ausgehaucht hat. Auch die beiden Stellvertreter machen ihre Sache brav, wenngleich wohl niemand sich soweit verschweigen wird, wie der schwungvolle Sänger des gedruckten Programms, der diesen Kampf in Parallele stellt mit demjenigen der „Horatci" und „Coratci" - so wörtlich zu lesen in dem Musterprogramm.</p>
+
+<p>Im heiteren Gegensatz zu diesem schrecklichen Schauspiel steht das Lassowerfen und das Reiten der Bucking- Pferde, die vortrefflich dressiert sind, sich ungeberdigt zu stellen und in der Tat mit ihren
+
+<pb facs="wfc.nsp11422.002"/>
+
+Reitern wahre Bocksprünge vollführen. Wie Ross und Reiter einander anscheinend in Listen zu überbieten suchen, ist sehr humorvoll zu schauen. Nun aber kam ein auserlesenes Glanzstück: der Angriff der Rothäute auf den Deadwood-Postwagen. Dies ist im beglaubigten Original jene alte „Toten Wald-Kutsche", die, wie uns das Programm belehrt, berühmt ist „wegen der vielen Leute, die darin das Leben verloren haben." Welche Zumutung, sich in solche Mordkutsche zu setzen! Zunächst blieb denn auch die Einladung an das Publikum, gefälligst die Fahrt mitzumachen, unbeachtet, dann aber fassten einige junge Damen der amerikanischen Kolonie Muth, und natürlich durften sie von ihren Herren nicht im Stiche gelassen werden. Es mag ihnen aber doch wohl etwas ängstlich geworden sein, als nun die brüllenden Rothäute sie umschwärmten und von rechts und links die Büchsen und Revolver krachten, zwar blind geladen, aber doch in unheimlicher Nähe der zarten Gesichter. Allgemeiner Jubel, als die Schönen gesund und munter wieder der Toten-Kutsche entstiegen. Ein Wettrennen auf ungesattelten Pferden führten alsdann zwei Indianerknaben aus, beide bis auf den Schurz völlig nackt, der eine ganz zinnoberrot angestrichen, der andere nur am Oberkörper, an den Beinen dagegen zeisiggrün- ein herrlicher Anblick! Darauf bekamen wir Lebensgebräuche der Indianer zu sehen. Schon der bloße Einzug war großartig. Die Hälfte der sehnigen Gestalten so gut wie nackt und in allen Farben des Regenbogens prangend, am drolligsten ein Bürschlein von etwa sechs Jahren, auf der einen Seite rot, auf der anderen gelb angestrichen. Der kleine kam in einem Kinderwagen angefahren, der in der Art hergestellt war, dass auf zwei an der Erde nachschleifenden, an Pferdedecken befestigten Zeltstangen ein Korb angebunden war. Besonders schön waren die Tänze der Rothäute, zu denen die Weiber kleine Handpauken schlugen, während die übrige Musik die an den Beinen der Tänzer befestigten Schellen und das Geheul der geehrten Zuschauer besorgten. Als andauerndster und graziösester Tänzer erwies sich die kleine Rothaut-ein süßer Junge, soweit sein rot und gelb beschmiert Gesicht erkennen ließ.</p>
+
+<p>Eine bedeutende Nummer ist ferner die Büffeljagd-etwas, das Wild-Amerika nicht aufzuweisen vermochte. In der Zahl von 17 Stück, darunter ein paar Kälbchen, kam die Herde in die Arena gestürzt, heftig verfolgt von Cowboys und Indianern. Die Tiere sollten doch am Ende gemerkt haben, dass mit ihnen nur gespasst wird, aber noch immer entwickeln etliche von ihnen eine bedeutende Angst. Einer der Büffel bekam sogar das „Lampenfieber" und suchte sich den Weg über den Zaun und durch das zurückweichende Publikum zu bahnen, aber schnell wurde der Flüchtling auf den Pfad der Pflicht zurückgeleitet. Einen drolligen Schluss erhält die Büffeljagd durch eine störrische Kuh, die sich als Reittier soll gebrauchen lassen und dagegen mit aller Kraft sich sträubt. Das Ende des Ganzen bildet effektvoll der überfall einer Ansiedlung durch Indianer-ein Stück, wie es ähnlich durch Mr. Carver bereits vorgeführt worden ist. Doch hier gestaltete sich das wilde Kriegsspiel, schon allein durch die verstärkte Zahl der Teilnehmer, noch lebendiger. Mit dem Beifall, der alle Vorführungen begleitete, kann der große Buffalo Bill wohl zufrieden sein. Er, der vielen Menschen Länder und Städte gesehen, wird kaum irgendwo stürmischere Huldigungen erlebt haben, als sie hier ihm und seiner Truppe dargebracht wurden. Hoffen wir nur, dass nicht der wilde Westen, wie es schon einmal geschehen, sich zu fest in die Köpfe unserer Schuljugend setzt!
+E.S. </p>
+
+</div1>
+<div1 type="article" xml:lang="en">
+
+<head>The Wild West.</head>
+<p>In close vicinity to the noble West of Berlin, the rough, wild West of the United States has opened its quarters; the brick building of a Charlottenburg elementary school gently gazes over the lively and chaotic mingling space of the red skins and cowboys. The famous Buffalo Bill and his troupe do not really offer much new content. Mister Carwer, who used to be a member of the company, took most of the glory with his people in the previous year; however, "Wild West" significantly out-sizes "Wild-Amerika." This is evident right away just by the whole layout. Surrounded by vegetation, the entry area of the expansive terrain is picturesquely framed by the two encampments, on the right side that of the palefaces, on the left the grotesquely painted wigwams of the Indians. In a third area, which is not accessible to the public, the barns for the horses and buffalo are located. The Redskins do not like inquisitive looks into their tents, but those of the cowboys are open to curious eyes. It is truly remarkable how comfortably furnished these canvas huts are—apparently life in the wild American west is not bad at all. In one of the tents, small bottles are arranged in a long row; according to one opinion, they contain fragrant waters, according to another, distilled ones. The most sophisticated tent is, of course, that of Buffalo Bill. There is a display of many rarities, among them a splendid little collection of weapons and within it as its main piece a mighty battle sword, whose sheath is decorated with shells—a sword from Algeria, as Buffalo Bill explained. With utmost courtesy he welcomed distinguished visitors before the beginning of the performance. In civilian attire he also makes a very imposing appearance. His tall figure is completely straight still, only his slightly graying hair hints to the presence of aging. His features are noble, and during conversation this famous scout demonstrates the manners of an educated gentleman.</p>
+
+<p>The largest part of the Wild West is surrounded by restaurants, and the Café Bauer has also put up a branch; thus, everybody's culinary cravings can be fulfilled amply. The seats for two and three Marks are covered; even the worst downpour will not drench its lucky occupant. For the opening day yesterday, a large loge was festively decorated for the American contingent and their friends, and the room filled up quickly. Only later would the important role a part of this American colony played in the performance become evident.</p>
+
+<p>It became immediately obvious that even the Wild West has been infected with civilization; only after the passing of a full academic quarter<ref target="n01">1</ref> did the show begin with its varied program. At the beginning, similar to Wild-Amerika, the different groups paraded into the arena, redskins and pale skins alternating, among the latter also a few ladies, who stand out not by their beauty but by their astounding skills in the noble art of horsemanship. Especially glorious, of course, were the Indians in their colorful clothing and the chiefs with their copious array of feathers. There are women among them, also, who ride the horses in the style of the men. The costume of one of the Indians consisted, except for a tiny loin cloth, only of yellow body paint. At the end of the parade comes Buffalo Bill, now in the real western wear made of suede. He is welcomed enthusiastically, and he thanks the audience with an amount of grace that many a high society lion could envy.</p>
+
+<p>Then the actual performance began, at first with a race between an Indian, a Mexican, and a cowboy—on horseback of course. Then Miss Oakley appeared, a very young little lady, who can vie for the prize with the most skilled trick shooters. Later she was only overshadowed by the young John Baker, who was able to shoot glass balls down from all kinds of possible and impossible positions, in the end even while doing a headstand. A large wreath was his prize. And while we're talking about shooting, let us also mention the skilled pistol and revolver shot Mr. Daly,<ref target="n02">2</ref> and also Buffalo Bill himself, who, while riding at full speed, shot down glass balls thrown in the air by a female Indian riding ahead of him.</p>
+
+<p>It would go beyond the scope here to list all the details of the program; thus only the main acts are highlighted. How picturesque is the approaching emigrant train! At its head as a guide an old trapper, on the first wagon, next to the driver, a friendly old lady who is peacefully knitting a stocking. Suddenly, the idyllic scene is interrupted by a fast approaching horde of Indians. The poor emigrants seem to be finished, but in the form of frontiersmen their saviors approach and beat the redskins back. This arouses great joy, which finds its most beautiful expression in the performance of a Quadrille on horseback performed by the younger ones of the liberated ladies and some of their brave rescuers. Supposedly based on historical fact is the duel between Buffalo Bill and the chief Yellow Hand, who is, however, represented in the arena by a different person for the simple reason that one of the participants, namely this Yellow Hand, exhaled his heroic soul during the actual event. The two representatives diligently fulfilled their roles, even though nobody would have gone as far as the enthusiastic announcer of the printed program, who compared this fight to that of the "Horatci" and "Coratci"<ref target="n03">3</ref>—as we can read word for word in the program.</p>
+
+<p>A lighter antidote to this gruesome scene is the lasso throwing and riding of the bucking horses, who are terrifically trained but pose completely untamed and perform true stunts with their riders. The ways that horse and rider try to outmaneuver and outwit each other is truly humorous to watch. Then came a true masterpiece: the attack of the Indians on the Deadwood Stagecoach. This is the certified original Old Deadwood coach,<ref target="n04">4</ref> famous for "the many people who have lost their lives in it," according to the program. What an outrageous request to sit down in such a murderous coach! At first, consequently, the audience ignored the invitation to participate in the ride, but then a few young ladies of the American colony gathered their courage and of course were not deserted by their gentlemen. They might perhaps have been a little frightened when the roaring red skins surrounded them and at the right and the left the rifles and revolvers fired, even though only loaded with blanks, but still in immediate proximity to their delicate faces.</p>
+
+<p>General applause accompanied the beauties' unscathed descent from the dead-coach. A race between two unsaddled horses was then run between two Indian boys, both completely naked except for their loin cloths, the one painted completely in red, the other only on his upper body, and his legs were painted green—a gorgeous sight! After that we were shown the customs and everyday life of the Indians. Already the simple entrance was grand. Half of the wiry figures were as good as naked and painted in the colors of the rainbow, the cutest a boy of about six years, painted red on one side and yellow on the other. The little guy arrived in a stroller, which was made in a fashion that had it dragging behind a horse and attached to two tent poles that were then attached to horse blankets and a basket. Especially beautiful were the dances of the redskins; the women were playing small hand drums while the remaining music was provided by rattles attached to the legs of the dancers as well as the howling of the honorable onlookers. The most enduring and gracious dancer was a little redskin—a sweet little boy, as much as we can tell from his face under the red and yellow paint.</p>
+
+<p>Furthermore, an important act is the buffalo hunt—an act that Wild-Amerika was not able to perform. Consisting of 17 buffalo, among them a few calves; the herd came piling into the arena, closely pursued by cowboys and Indians. The animals should have noticed, at the end, that they were only joked around with, but still many of them developed significant fear. One of the buffalo even had stage-fright and was trying to escape over the fence and through the retreating audience, but he was quickly captured and brought back to his path of duty. A humorous ending to the buffalo hunt was provided by a stoic cow, who was supposed to be mounted but fought it with all her might. The end of it all is the marvelous attack of a frontier settlement by the Indians—an act that we have seen in a similar form from Mr. Carver. But here, the wild war game was even livelier, through the increased number of participants alone. The great Buffalo Bill certainly can be content with the applause that accompanied all his performances. He who has seen many a people's countries and cities will hardly ever have experienced more enthusiastic honors as he has received here with his troupe. We only hope that the Wild West will not enter the heads of our school youth as much as it has once in the past! E.S.</p>
+
+</div1>
+
+</body>
+
+<back>
+
+
+<note xml:id="n01">Note 1: The "academic quarter" is a term used at German universities. Classes usually start 15 minutes after the indicated time (marked by c.t.=cum tempore).</note>
+
+<note xml:id="n02">Note 2: Claude Lorraine Daily (or 'Daly') (1865-1892), a young sharpshooter from Altoona, Pennsylvania, who performed with Buffalo Bill's Wild West as a pistol and revolver expert during the 1889-92 seasons. In 1892 at age 27 Mr. Daily died of cholera in Brussels, Belgium.</note>
+
+<note xml:id="n03">Note 3: The reference is misspelled or mistranslated. The German equivalent are the "Horatier" and the "Curiatier." According to Livius, between 672 and 640 BC, a conflict over livestock between two cities, Rome and Alba Longa, was settled with a duel between two sets of three brothers, one set from each city, instead of a full-scale war. Alba Longa was represented by the brothers Curiatier, Rome by the brothers Horatier. Only the youngest brother of the Horatier returned and was declared the victor.</note>
+
+<note xml:id="n04">Note 4: The author literally translated the term into German.</note>
+
+</back>
+</text>
+</TEI>
+
+
+ 

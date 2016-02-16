@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11424">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Wild West in Berlin!</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name n="Stetler, Julia S.">Julia S. Stetler</name>
+</respStmt>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11424</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>This is most likely a combination of parts of the show program with an eyewitness report. The reporter begins by repeating some statistics (travel itinerary, members of the troupe, content), slight criticism of advertisement, description of some of the show acts.</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author/>
+<title level="a" type="main" xml:lang="en">Wild West in Berlin!</title>
+<title level="j">Norddeutsche Allgemeine Zeitung </title>
+<pubPlace>Berlin, Germany</pubPlace>
+<date when="1890-07-24">July 24, 1890</date>
+<extent/>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3776.44.04 (German scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2015"><name xml:id="da">Adams, Deb</name>; <name xml:id="lc">Clark, L.</name>; <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11424.001"/>
+
+<p>Ha. Wild-West Exhibition in Berlin! Das ist das neueste Unternehmen, das uns der diesjährige Sommer bescheert hat, ein Pendant zu dem vorjährigen Wild-Amerika des Dr. Carver. Der diesmaligen Indianertruppe des Obersten W. F. Cody, genannt Buffalo Bill (Büffel-Wilhelm), geht ein Weltruf voraus; Oberst Cody hat mit ihr bis jetzt in New-York, London, Paris, Barcelona, Neapel, Rom, Florenz, Mailand, München, Wien, Dresden, Leipzig, Magdeburg und Hannover gestirt, und seine Vorstellungen haben überall berechtigtes Aufsehen erregt. Die Truppe, welche ihr hiesiges Heim auf einem mächtigen, eingezäunten Platze zwischen Kurfürstendamm, Augsburger- und Joachimsthalerstrasse, also in der unmittelbaren Nähe des Zoologischen Gartens, aufgeschlagen hat, besteht aus 200 Indianern, Cowboys etc. und 200 Thieren, Büffeln, Pferden, Maulthieren etc.; sie will hauptsächlich Bilder des fernen amerikanischen Grenzlebens darstellen—Alles echt, trotz der echt amerikanischen Reklame. Man bekommt ein lebendiges Bild des Jäger- und Indianerlebens in der nordamerikanischen Prairie, dessen Figuren vielleicht stellenweise etwas greller colorirt und schärfer characterisirt sind, als in der Wirklichkeit, das aber doch mit packender Unmittelbarkeit und Realität wirkt. Die Anschlagsäulen brachten gestern Morgen bereits eine recht pomphafte Einladung, indem sie das überlebensgrosse Bildnis des Oberst Cody in reicher Farben [missing text]rechte Sache ist. Dabei lassen nicht nur die Cowboys und Indianer, sondern auch die Pferde beider Parteien ihr schauspielerisches Talent im hellsten Licht erstrahlen. Mit welcher Natürlichkeit sich die Rösslein mausetodt stellen und wie sie sich unbeweglich festhalten, bis der Appell des Reiters sie zu neuer equestrischer Leistung auffordert! Diesem Programmpunkte reihte sich ein Ereignis aus Buffalo Bill’s Leben, nämlich sein berühmt gewordener Einzelkampf mit Yellow Hand, Häuptling der Sioux, zu War Bonnet im Staate Dakota, an. Dieser Kampf fand vor der Front der indianischen Krieger und amerikanischen Truppen am 17. Juli 1875 statt, wobei Buffalo Bill siegte. Weiter produzirten sich dann Johannie Baker, der Cowboy-Schütze, in seinen vorzüglichen Leistungen, und der Pistolen- und Revolverschütze Daby, der eine besondere Treffsicherheit besitzt. Schade, dass unsere Schützengäste schon in ihrer Heimath sich befinden, sie hätten jetzt in Wild-West Gelegenheit, die Schützen der Buffalo Bill Truppe zu beobachten, um ihnen ihreKunstfertigkeit abzulernen. Da ist in erster Linie die schon erwähnte Anny Oakley, welche wohll die besten Schützen Europas spielend zu übertreffen weiss. Man glaubt seinen Augen kaum, wenn man die unglaublichen Leistungen sieht, die ihr den lebhaftesten Beifall eintrugen. Interessant war dann auch die Vorführung der Reitkünste und das Lassowerfen von Seiten der Cowboys; mit staunenswerther Kühnheit und Reitkunst zeigten sie ihre Bändigungsversuche an den wegen ihrer Unzähmbarkeit sogenannten Buckingpferden. Neben den genannten Schützen zeigte auch Oberst Coldy (sic) selbst seine Meisterschaft im Schiessen nach aufgeworfenen Kugeln. Zu der Mannigfaltigkeit der Productionen tragen neben der bereits genanten einige weitere dramatische Szenen, so den Angriff der Indianer auf die alte Deadwood-Postkutsche und der Ueberfall eines Grenzdorfes durch Indianer, ferner eine Büffeljagd bei. Die Büffel sehen zwar teuflisch aus, sind aber so lammfromm, dass sie wohl keiner Rothaut den Skalp krümmen. Da alle diese Szenen den Eindruck der Wirklichkeit machen, folgte man ihnen mit steigendem Interesse und die Premiere Wild West’s erreichte so bei gutem Wetter gegen 7 Uhr ihr Ende. Das Publikum zerstreute sich, sammelte sich um die Zelte der Hauptpersonen der Truppe, wie auch derjenigen der Indianer, besuchte die Stallzelte der Pferde und sah den Rothäuten bei der Bereitung ihres Abendbrotes zu. Das Feuer prasselte und in vier mächtigen Kesseln brodelte das Wasser für Thee und Kaffee.</p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<p>Ha. Wild West in Berlin! This is the newest company to be presented to us this summer, an encore to last year’s Wild-Amerika of Doc Carver. The present Indian troupe of Colonel W.F. Cody, a.k.a. Buffalo Bill, is preceded by its world reputation; Colonel Cody has stirred up New-York, London, Paris, Barcelona, Naples, Rome, Florence, Milan, Munich, Vienna, Dresden, Leipzig, Magdeburg and Hanover, and his performances have caused great attention everywhere it went, and rightly so. The troupe has erected its local home on a large, fenced area between Kurfürstendamm, Augsburgerstrasse and Joachimsthalerstrasse, therefore in direct vicinity of the zoological gardens. It consists of 200 Indians, cowboys, etc, and 200 animals, buffalo, horses, mules etc.; it will mostly present scenes from life on the far North American frontier—everything authentic, despite the truly American advertisement. The audience will receive an authentic impression of the life of trappers and Indians on the North American prairies, whose characters, in part, might be depicted a little more colorful and exaggerated than in reality, but it still feels real and truly gripping. The advertisement columns have been delivering a very pompous invitation since yesterday morning by displaying the larger-than-life image of Colonel Cody in rich colors <gap reason="missing"/> the real thing. Not only the Cowboys and Indians, but also the horses of each party clearly demonstrate their acting talent. It is amazing to see how naturally the horses "play dead" and how they keep absolutely still, until the call of the rider challenges them to perform yet another equestrian feat! This act in the program is followed by an event from Buffalo Bill’s life; it is his famous duel with Yellow Hand, chief of the Sioux, at War Bonnet in the state of Dakota. This fight happened in front of Indian warriors and American troops on July 17, 1875.<ref target="n01">1</ref> Buffalo Bill emerged as the victor. Furthermore, Johannie Baker the cowboy shot next presented his distinguished skills, as well as Daby,<ref target="n02">2</ref> who is an extraordinary shot with the pistol and revolver. What a pity that our shooting guests have returned back to their homes, they would have had the opportunity at the Wild West to watch the shots of the Buffalo Bill troupe in order to learn from their artistry. First of all, there is, as already mentioned, Annie Oakley, who most likely and easily could beat the best shots in Europe. It is almost unbelievable to witness her astounding accomplishments, which are accompanied by the most vigorous applause. Very interesting was also the riding demonstration and the lasso throwing of the cowboys. With amazing bravery and equestrian skill they made attempts at reigning in the horses, which are called "Buckinghorses" due to their wild spirit. Besides the above mentioned shooters, Buffalo Bill also demonstrated his own masterful shooting skills with glass balls thrown in the air. The variety of the program is enhanced, besides the already mentioned ones, by additional dramatic scenes: for example, the Indian attack on the old Deadwood-Stagecoach and the attack on a frontier settlement, as well as a buffalo hunt. The buffalo do look devilish, but they are very tame and would never even bend the scalp of a redskin.<ref target="n03">3</ref> Since all the scenes really seem to be highly authentic, the audience follows the acts with increasing interest, and the opening performance of the Wild West reaches its end at around 7 pm, accompanied by fair weather. The audience scatters, reconvenes in crowds around the tents of the main performers of the troupe as well as those of the Indians, visits the tents of the horses and watches the red skins in the preparation of their dinner. The fire was roaring and in four mighty kettles the water was boiling for tea and coffee.</p>
+</div1>
+
+</body>
+
+<back>
+
+<note xml:id="n01">Note 1: An indication for the fact that the reporter most likely translated this passage from the English program is the fact that he mistranslates "in front of" with "before the formation of."</note>
+
+<note xml:id="n02">Note 2: "Daby" is Claude Lorraine Daily (or 'Daly') (1865-1892), a young sharpshooter from Altoona, Pennsylvania, who performed with Buffalo Bill's Wild West as a pistol and revolver expert during the 1889-92 seasons. In 1892 at age 27 Mr. Daily died of cholera in Brussels, Belgium.</note>
+
+<note xml:id="n03">Note 3: From the German phrase “niemandem ein Haar krümmen”—never bent anybody’s hair—meaning never hurt anybody.</note>
+
+</back>
+</text>
+</TEI>
+
+
+ 

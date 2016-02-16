@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11423">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">At Buffalo Bill's Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name n="Stetler, Julia S.">Julia S. Stetler</name>
+</respStmt>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11423</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>Eyewitness report. Highly eloquent. Cooper reference, criticism and cultural comparisons between Germans and Americans. Description of Cody's tent and the arena, jabs at American reporters. Admiration for skill of the participants, but still seems like a circus to this reporter. Points out similarities to Carver.</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main" xml:lang="en">At Buffalo Bill's Wild West</title>
+<title level="j">Deutsches Tageblatt</title>
+<pubPlace>Berlin, Germany</pubPlace>
+<date when="1890-07-24">July 24, 1890</date>
+<extent/>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3776.44.03 (German scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2016"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2015"><name xml:id="da">Adams, Deb</name>; <name xml:id="lc">Clark, L.</name>; <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11423.001"/>
+
+<head>In Buffalo Bill’s Wild West.</head>
+<p>So haben wir sie denn endlich gesehen, die Gestalten der rothäutigen Unkas, der starknervigen Cowboys und der unzart-besaiteten Hinterwäldlerinnen aus dem far West, die uns seit den Jugendjahren bekannt sind, seitdem wir die kindliche Fantasie an den Taten „Lederstrumpf" und Chingachgooks, der „grossen Schlange" entzündet haben. „Buffalo Bill’s Wild West" ist nun auch bei uns eingekehrt, jene amerikanische Schautruppe, die seit einigen Jahren die alte und die neue Welt in geräuschvoller Weise durchzogen hat. Um es nur gleich zu sagen, der Charakter der draußen am Kurfürstendamm inszenierten Schaustellung stimmt mit den grell bunten Affichen im wesentlichen überein. So tüchtig, ja erstaunlich die Leistungen der einzelnen hieb-, schuss-, stich-und sattelfesten Gesellen sein mögen, am letzten Ende ermüdet doch die Teilnahme für eine so lange Darbietung ein wenig, und der Sinn für einen Sport, der einen etwas bizarren Beigeschmack hat, ist nun einmal dem Deutschen und zumal dem nüchternen Norddeutschen in geringerem Grade gegeben als dem amerikanischen und englischen Publikum, das sich für die Vorführung solcher Musterstücke einer unentwickelte Kultur viel leichter zu begeistern vermag. Eingeführt wurde Buffalo Bill Schaustellung so geschickt, wie es eben ein amerikanischer Manager versteht. Das Terrain, in unmittelbarer Nähe des Zoologischen Gartens gelegen, eignet sich für seinen Zweck vorzüglich. Man schreitet über einen großen Vorplatz, dem in malerischer Gruppierung die Zelte der Truppe stehen, darunter das luftige Heim des Führers Buffalo Bill, dass mit den Errungenschaften seiner Kunstreisen, Bildern, Medaillen, Waffen, fast überladen ist. Neben Ehrendiplomen, die in möglichst superlativistischen Ausdrücken die Anerkennung und Bewunderung, die der weitgereiste Mann gefunden und wohl auch verdient hat, fixieren, finden sich grell kolorierte Oeldruckbilder mit amerikanischen Misses, friedsame Pärchen, die sich im „flirting" üben, dicht bei schaurigen Kampfszenen und unheimlich funkelnden Waffen. Ein diskretes Gewand einer indianischen Squaw liegt auf einem Sessel. Eine Gardine trennt das Schlafgemach, durch das die Winde spielen wie in der Prärie, von dem Vorraum, durch den uns ein französisch parlierender Cicerone überaus gefällig geleitet. Der eigentliche Schauplatz bildet ein mächtiges oblonges Rechteck, dessen östliche Seite durch breite Vorhänge verdeckt ist, hinter der die Truppe sich für die Schaustellung vorbereitet. Die drei anderen Seiten das Rechtecks sind durch gewaltige, zum Teil überdeckte Tribünen abgegrenzt. Der Platz selbst ist so eben wie ein Spiegel und für die Vorführung kaum günstiger zu gewinnen. Ein ziemlich zahlreiches Publikum war heute der Einladung zum Debüt der vielfarbigen Truppe erschienen. In allen Sprachen surrte und schwirrte es durcheinander-vor allem waren die Amerikaner zahlreich herbeigeeilt, unter ihnen auch einige etwas derbe „Kollegen" von „drüben", die auf der Pressetribüne sich so vernehmlich machten, dass wir in ihnen wohl Vertreter des „Arizona Kicker" vermuten dürfen. Das star-spangled Banner war freilich auch durch einige allerliebste Misses repräsentiert. In Deutsch-amerikanischem „Missingsch" bot ein flinker Bursche „amerikanische Bonbons" aus Maiskolben, die überzuckert und in Seidenpapier gehüllt waren aus, seine launige Art schaffte ihm vielen Zuspruch. Der Beginn verzögerte sich just wie bei einer westeuropäischen Soiree! Etwa um 5:30 Uhr stürmten die wilden Gesellen auf ihren kleinen Rossen wie bei Windsbraut über das Feld. Indianer in allen Farben und wildem Kriegsschmuck, „Cow-boys", mexikanische „Vaqueros", Schieß-und Reitkünstler und endlich das Haupt der wilden Massen, „Buffalo Bill", eine interessante Erscheinung mit energischen Gesichtszügen und überaus elastischer Haltung. Die Herrschaft, welche die Mitglieder der Gesellschaft über ihre Pferde haben, grenzt an's Wunderbare. Die einzelnen Nummern des sehr umfassenden Programms, das heute geboten wurde, zeigten einmal eine erstaunliche Präzision in der Handhabung von Ross und Waffe, daneben aber doch eine gewisse monotone Einförmigkeit des Gebotenen; vor allem fehlte für den deutschen Geschmack ein gewisses bewegliches oder humoristisches Element, denn für mehr, als eine Circusunterhaltung im grotesken Sinne möchten wir die ganze Veranstaltung nicht ansehen, wie sehr sich auch in dem Programm, das übrigens seltsamerweise für Berlin nicht einmal besonders „umgeschrieben" worden ist, da in der Einleitung der Direktor sich dem Wiener Publikum empfiehlt, der general manager bemüht, seiner Schaustellung einen ethnologisch-wissenschaftlichen Charakter beizumessen. Was die beiden Schießkünstler, eine Dame und ein junger Mann, produzierten, reiht sich dem, was wir von amerikanischen Schützen-Virtuosen wie Carver, Ira Paine u.a. hier gesehen
+
+<pb facs="wfc.nsp11423.002"/>
+
+haben, durchaus ebenbürtig an. Die Treffsicherheit ist eine vollkommene, die Herrschaft über die Waffe, gleichviel ob sie ein kurzes Pistol oder ein Jagdgewehr in der Hand haben, eine absolute. Und die Geschicklichkeit, mit der die kleinen, gedrungenen Pferde gemeistert werden-wie ungeberdig sie sich auch benehmen-eine schier wundersame. Und so verdienen die braunen Gäste die Teilnahme, die sie heute gefunden haben durchaus und die interessante internationale Unterhaltung, die mit ihnen dem öffentlichen Vergnügung-Programm der Hauptstadt eingefügt worden ist, dürfte für die nächste Zeit das dankbare Publikum finden. Dass gleichwohl mancher nach der turbulenten Ankündigung und der wortreichen grellbunten Broschüre, die ihm in die Hand gegeben wird, ein wenig herabgestimmt die Schaustellte verlassen dürfte, braucht darum nicht verschwiegen zu werden. Was Buffalo Bill‘s Truppe bei den mannigfaltigen Proben einer ungewöhnlichen Entwicklung und Benutzung physischer Kräfte und gymnischer Künste leistet, ist eines uneingeschränkten Lobes wert und bei solchen Veranstaltungen muss man sich mit diesem Resultat bescheiden. „A bissel Falschheit" ist alleweil dabei....</p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<head>At Buffalo Bill's Wild West.</head>
+<p>We finally went and saw them, the specimens of the red-skinned Unkas, the strong-nerved cowboys and the backwoods-ladies of a rather un-tender constitution of the far West of whom we have known since our childhood; ever since the childish fantasies were ignited by the deeds of "Leatherstocking" and Chingackgook, the "great snake." "Buffalo Bill's Wild West" has finally arrived here, the same American troupe that has been noisily traveling the old and the new world for a few years. To say this up front, the character of the entertainment presented out at the Kurfürstendamm corresponds in most aspects with the flashy and colorful advertisement posters. As much as the performances of these guys skilled in fist fighting, shooting, stabbing, and riding might be amazing or proficient, at the end of the day, the interest for such a long show wanes a little, and the sport, which carries a slightly bizarre note with it, makes a little less sense/ is a little less fascinating for the German, and especially the more dour Northern German, as compared to the American or British audience, which seems to be much easier entertained by the performance of such samples of an underdeveloped culture. Buffalo Bill's entertainment has been as perfectly staged as can be by an American manager. The terrain, directly adjacent to the zoological gardens, is perfectly suited for this purpose. One first traverses a large forecourt in which the tents of the troupe are arranged in a scenic image; among them the airy home of the leader Buffalo Bill, which is almost overflowing with the acquisitions of his travels: paintings, medals, weapons. Next to his honorary diplomas that express in the most superlative language the recognition and admiration that this widely-traveled man has found and probably earned, there are brightly colored oil prints of American ladies, peaceful and flirting couples, right next to horrific battle scenes and fearfully gleaming weapons. A discrete garment of an Indian squaw lies on an armchair. The bedroom, through which the breeze gently flows just like on the Prairie, is separated by a curtain from the main room, which we are guided through by a French-speaking servant who is overly winsome. The actual showground is shaped like a grand rectangle, of which the east side is covered up by large curtains that conceal the area where the troupe prepares for the performance. The three remaining sides of the rectangle are demarked by huge, partially covered grandstands. The arena itself is as flat as a mirror and hardly lacks a thing for the performance. A fairly numerous audience accepted the invitation for the debut of the colorful troupe. There was a mighty humming of all kinds of different languages—especially the Americans showed up in large numbers, among them a few fairly rough contingent of "colleagues" from "over there," who caused such noise in the press stand that we assume they are the representatives of the "Arizona Kicker."<ref target="n01">1</ref> The Star-Spangled Banner was of course represented by a very dear miss. In a mix of German and American, a swift boy offered "American bonbons" made from corn on the cob, which was sugared and wrapped in silk paper;<ref target="n02">2</ref> his fun attitude won him much popularity. The start was delayed similarly to a western European soiree. At around 5:30 pm, the wild chaps came storming into the arena on their small horses, like a whirlwind over a field. Indians in all colors and with wild war decorations, cowboys, Mexican Vaqueros, shooting and riding performers, and lastly the head of the wild bunch, "Buffalo Bill:" an interesting appearance with energetic facial features and thoroughly athletic demeanor. The control that the members of the troupe exercise over their horses is fantastic. The individual acts of the very comprehensive program that was presented today demonstrate the astounding precision in the handling of horse and weapon, but also a certain monotonous uniformity of the presentation; most of all, for the German taste, a certain dynamic or humorous element was missing. In fact, we don't consider the performance more than a circus entertainment, no matter how much the general manager tries to imbue his performance with an ethnographic-scientific character in the program; which, by the way, and strangely, has not even been changed for Berlin, since the director salutes the Vienna audience at the beginning. The shooting tricks, performed by a lady and a young man, are on par with what we have seen from other American trick shots like Carver, Ira Paine<ref target="n03">3</ref> and others. The marksmanship is astounding, the control of the weapon, be it a short pistol or a long rifle, is absolute. And the skill with which they master the small, stocky horses—no matter how unruly they act—is utterly amazing. And in this way the brown guests truly earned the sympathy they found today, and this interesting and international entertainment that has been added to the sphere of public leisure in the capital will find an appreciative audience for a while. That some of us, after the turbulent announcement and after reading the voluminous and brightly colored brochure that was pressed into our hand, left the arena a little disappointed, should therefore not be concealed. The many feats of unusual skills and demonstrations of physical strength and athletic ability is worth unqualified praises; and at events of that kind, this humble outcome has to be satisfactory. A little "fakeness" is always present….</p>
+</div1>
+</body>
+
+<back>
+
+<note xml:id="n01">Note 1: "Arizona Kicker" is a reference to American news reporters who attended the show. However, the Arizona Kicker identification is problematic. The Arizona Kicker wasn't published until 1893.</note>
+
+<note xml:id="n02">Note 2: The "American bonbons" probably refers to the American treat popcorn balls introduced to the world by Buffalo Bill's Wild West food concessions.</note>
+
+<note xml:id="n03">Note 3: Ira Albert Paine (1837-1889), an exhibition sharpshooter first to be recognized as a great handgun shooter; invented and patented the feather-filled target ball; designed a new type of gun sight; died in Paris, France, while on his 1889 European tour.</note>
+
+</back>
+</text>
+</TEI>
+
+
+ 
