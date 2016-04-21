@@ -26,7 +26,7 @@
       <p>Now Buck you can do this. And you do it. See! And do it while the trail is hot. Do you get me—</p>
 
       <p>
-         <a rel="tooltip" class="sic" title="I'll​ &#xA;    ">Ill</a> sure show Greensburg with my <span class="unclear ">[own?]</span> Show this Summer. And <a rel="tooltip" class="sic" title="I'll​ &#xA;    ">Ill</a> boom your game—You get busy &amp; do as much for me—</p>
+         <a rel="tooltip" class="sic" title="I'll​ &#xA;    ">Ill</a> sure show Greensburg with my <span class="unclear ">own[?]</span> Show this Summer. And <a rel="tooltip" class="sic" title="I'll​ &#xA;    ">Ill</a> boom your game—You get busy &amp; do as much for me—</p>
       <span class="closer">
          <br/>Bill
 </span>
