@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00463.001.jpg"
+         <a href="800/wfc.css00463.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00463.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00463.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00463.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00463.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -32,7 +31,7 @@ Oct 31<a name="n02.ref"> </a>
       </span>
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Geo</a>
+            <a href="http://codyarchive.org/doc/beck.g">Geo</a>
          </span>
       </span>
 
@@ -41,9 +40,9 @@ Oct 31<a name="n02.ref"> </a>
          <a href="#n04.note" class="ref">4</a> in we will be in an awful tight place— Do you appreciate what I mea[n] I will do my part but get down as easy on me as you possibly can this I have written you several times.</p>
 
       <p>I will give you my route as near as I can.  <del>wire</del> Nov. 6 &amp; 7. Continental Hotel Philadelphia Pa— <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsburys</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Salsburys</a>
          </span> Address till Nov 16th Grand Opera House Philadelphia Pa Better direct there. I will try and be with <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Geo Bleistein</a>
+            <a href="http://codyarchive.org/doc/bleistein.g">Geo Bleistein</a>
          </span>. Buffalo. Oct 9th then we start for you<a name="n05.ref"> </a>
          <a href="#n05.note" class="ref">5</a>—</p>
 

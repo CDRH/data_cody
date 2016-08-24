@@ -1,7 +1,6 @@
 <div class="life_item" id="landreth.b">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/landreth.b">Landreth, Burnet, 1842-1928</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/landreth.b">Landreth, Burnet, 1842-1928</a>
    </h3>
    <p>
       <div class="note">Landreth, Burnet (1842-1928), a Civil War officer and a principal in David Landreth &amp; Sons, a seed company of Philadelphia, was Chief of the Bureau of Agriculture at the United States Centennial Exhibition of 1876. In 1886 Landreth was appointed as the United States Director and Vice President for the American Exhibition in London in 1887.</div>

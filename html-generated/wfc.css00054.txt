@@ -6,11 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/800/wfc.css00054.001.jpg"
+      <a href="800/wfc.css00054.001.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00054.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/250/wfc.css00054.001.jpg"
-              class="display &#xA;            "/>
+         title="&lt;a href=&#34;800/wfc.css00054.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="250/wfc.css00054.001.jpg" class="display &#xA;            "/>
       </a>
    </span>
 
@@ -25,7 +24,7 @@ Nov. 18th <a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a>
       </span>
       <span class="salute">Miss <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/moses.m">Mollie Moses</a>
+            <a href="http://codyarchive.org/doc/moses.m">Mollie Moses</a>
          </span>
       </span>
 
@@ -36,11 +35,10 @@ Nov. 18th <a name="n01.ref"> </a>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00054.002.jpg"
+            <a href="800/wfc.css00054.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00054.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00054.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00054.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00054.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
 
@@ -60,11 +58,10 @@ Yours Very Respectfully</span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00054.003.jpg"
+         <a href="800/wfc.css00054.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00054.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00054.003.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00054.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00054.003.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <ul>

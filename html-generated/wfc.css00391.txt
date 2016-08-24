@@ -7,11 +7,10 @@
    <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00391.001.jpg"
+         <a href="800/wfc.css00391.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00391.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00391.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00391.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00391.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">Western Union Telegram<br/>Form 1864<br/>Western Union Telegram And Cable<br/>Theo. N. Vail, President<br/>Received at<br/>
@@ -32,7 +31,7 @@
 
       <span class="salute">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j">John H. Tait</a>
+            <a href="http://codyarchive.org/doc/tait.j">John H. Tait</a>
          </span>
       </span>
 
@@ -59,7 +58,7 @@ Albany Ho. Denver Colo
       </p>
       <p>
          <a name="n02.note"> </a>Note 2: "Friday morning" would have been March 20, 1914. The purpose for this trip to Denver may have been to rendezvous with the Sells-Floto Circus, whose winter quarters were in Denver. Cody would spend the 1914 and 1915 seasons with the circus. His first performance of the 1914 season was on March 28 in Albuquerque, New Mexico. Buffalo Bill's wife, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/cody.l">Louisa Frederici Cody</a>
+            <a href="http://codyarchive.org/doc/cody.l">Louisa Frederici Cody</a>
          </span>, often accompanied him on the road during his last years in show business.<a href="#n02.ref"> [back]</a>
       </p>
    </div>

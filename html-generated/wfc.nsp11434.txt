@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11434.001.jpg"
+         <a href="800/wfc.nsp11434.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11434.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11434.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11434.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11434.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -26,7 +25,7 @@
       <h3>INTERVIEW WITH THE MANAGER.</h3>
 
       <p>During the week a rumour has been freely circulated that the "Wild West," which is now situated on the Manchester Racecourse, was not going to carry out its previously arranged programme of visiting Paris, Brussels, and other Continental towns. In response to this rumour, a representative of "The Umpire" waited on <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">Jno. M. Burke</a>
+            <a href="http://codyarchive.org/doc/burke.j">Jno. M. Burke</a>
          </span> the general manager of the Show, who was in company at the time with Mr. Richard Mansell,<a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a> of the Queen's Theatre, one of the local managers, and our reporter asked respecting the truth of the rumor.</p>
 
@@ -49,7 +48,7 @@
       <p>"You are not afraid of present imitators?"</p>
 
       <p>"No; puny and characterless imitators will seek gain and fame in this country with small affairs, and take advantage of our prestige and the confidence of your public. We have succeeded in effecting a feeling towards us and our country that we do not desire to be weakened by "cheap show methods." The field is large in Eastern America, and a great population need instruction there in Wild West history. Of course, with the happiest memories of the visit to England that we possess, there is hardly an individual from Colonel Cody to the humblest Indian that has not an ambition to return in the future and meet the many friends made, revisit familiar scenes and seek out new ones. In fact, as civilization progresses at a pace so rapid in our country, it is not impossible that <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/shirt.r">Red Shirt</a>
+            <a href="http://codyarchive.org/doc/shirt.r">Red Shirt</a>
          </span> and some of his young men may return in a few years to confer on domestic, economic, commercial, or even international subjects."</p>
 
 
@@ -59,7 +58,7 @@
    <div class="bibliography">
       <p>
          <a name="n01.note"> </a>Note 1: Richard Mansell, manager of Manchester's Royal Queen's Theatre, along with Mansell's partner William Calder, was retained by Cody and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Salsbury</a>
          </span> to anticipate problems in the construction of the huge building at Manchester Racecourse that would be the Wild West's venue for five months, as well as to facilitate the theatrical permit process required by the court at Salford Town Hall.<a href="#n01.ref"> [back]</a>
       </p>
    </div>

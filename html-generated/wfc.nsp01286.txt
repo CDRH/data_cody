@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp01286.001.jpg"
+         <a href="800/wfc.nsp01286.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp01286.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp01286.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp01286.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp01286.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -33,7 +32,7 @@
             <a href="#n01.note" class="ref">1</a> who will not attend any entertainment in company with the public. One hundred police and twenty detectives were on hand.  The <em class="hi">World's</em> correspondent got a suit of buckskin and went in as a performer.</p>
 
          <p>In the neighborhood of five o'clock a liveried messenger came running down to the line of stables and reported to Col. Cody that the Queen would be there within the next ten minutes. All the horses were now saddled. The Indians, in full dress of paint and feathers, stood at their horses' heads at the upper end of the line of stables. The lady riders, with whips in their hands, nervously switching their little boots, crowded together in a compact group under the sheltering wing of the King of the Cowboys, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/taylor.w">Buck Taylor</a>
+               <a href="http://codyarchive.org/doc/taylor.w">Buck Taylor</a>
             </span>. During the five minutes of waiting there was a good deal of chaff. Taylor said that as he was the King of the Cowboys he ought to go out and meet the Queen.</p>
       </div>
 
@@ -64,9 +63,9 @@
          <h4>EVERYTHING DONE WITH A RUSH.</h4>
 
          <p>Everything was done with a rush. All the performers were very nervous, but in spite of their nervousness they were much more successful than upon the opening day. After a grand parade there were one or two races and then the rifle-shooting began. <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/smith.l">Lillian Smith</a>
+               <a href="http://codyarchive.org/doc/smith.l">Lillian Smith</a>
             </span>, who shoots at moving glass balls, missed only twice in a succession of forty or fifty shots. When she had finished the Queen signaled to her to come to the box, whereupon Lillian Smith advanced and bowed, and the Queen bowed in return, nothing being said. <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Annie Oakley</a>
+               <a href="http://codyarchive.org/doc/oakley.a">Annie Oakley</a>
             </span>, who followed her was equally successful. She, too, was presented to the Queen. Both of the young women bowed, in a matter-of-fact way, and then walked off as if they were not at all overcome by the situation. The attack upon the coach greatly delighted the royal party. This and the attack upon the cabin was completed within ten minutes.</p>
       </div>
 
@@ -76,7 +75,7 @@
          <p>The war dance interested the Queen more than any other feature of the performance. Several of the most distinguished chiefs of the party were stripped entirely naked except their breach-clouts. When the fervor of the dance reached its height their only covering, except what has just been mentioned, consisted of a coat of paint and of a few bracelets. Richmond, the orator, in a picturesque suit of buckskin and beadwork, with his long brown curls floating in the wind, stood just at the left of the Queen, outside of the box, and called out in a clear musical voice an explanation of every item of the limited bill. Occasionally the Queen would turn to him and ask him some question.</p>
 
          <p>The attack on the cabin was the closing act in the performance, This was done with great spirit and dash. The cowboys and Indians excelled themselves in most reckless and daring riding. Buck Taylor, when the cavalcade swept down near the royal box, fairly threw his horse around into twenty or thirty positions inside of a minute. He fired his revolver from under the horse and exhibited such lightning like gymnastic ability as to draw forth a perfect yell of approval from the excitable <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">Maj. Burke</a>
+               <a href="http://codyarchive.org/doc/burke.j">Maj. Burke</a>
             </span>, who stood at the right of the royal box, inspiring the boys with his enthusiasm and fire.</p>
 
          <p>At the close of the performance a large portion of the audience which came with the Queen went through the exhibition part of the show.</p>
@@ -85,7 +84,7 @@
       <div class="">
          <h4>THE QUEEN TALKS TO RED SHIRT.</h4>
          <p>The Queen did not go. She directed that "<span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
+               <a href="http://codyarchive.org/doc/red.shirt">Red Shirt</a>
             </span>" and the principal Indians chiefs should be brought to where she was. Red Shirt was the first presented. The Queen now advanced to the front of the box. Every one uncovered as she stood up. I was not over six feet distant from the place where Red Shirt was presented.</p>
 
          <p>The Queen, a short, compact, stout figure, was dressed in a suit of soft black cloth. She wore a large, square-shaped bonnet, also of black, and tied by two black ribbons under her heavy double chin. Over this dress she wore a plain black cloth coat embroidered with small designs of black beads. She has a very clear complexion and very few wrinkles in her face for a woman of sixty-eight years of age. Her hair is still thick and is only iron gray. Her forehead is full and prominent. Her eyes are cold gray-blue. Her nose is prominent and Roman in character. Her mouth is very determined in its expression. She has an air of one who is used to command, but in her manner she is as plain and direct as a man.</p>
@@ -104,7 +103,7 @@
 
          <p>Then "Yellow-Striped Face<a name="n09.ref"> </a>
             <a href="#n09.note" class="ref">9</a>," the half-breed interpreter, was presented, and then came two squaws, mothers of two pappooses in the camp. The little girl pappoose was first presented. The Queen patted her cheek with her black-silk gloved hand, and then the little thing stuck out her brown paw, and the Queen shook it. After this the Queen stepped back, but the mother was not content. She walked up and stuck out her hand, and the Queen shook hands gravely and bowed. Then the other squaw came up and said: "How," and offered her hand, and finally a little brown boy pappoose came up and offered his hand. The Queen shook hands with them all, these being the only members of the Wild West party who were thus honored. Then Messrs. Cody and <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+               <a href="http://codyarchive.org/doc/salsbury.n">Salsbury</a>
             </span> were presented. Both of them bowed gravely, and Col. Cody smiled pleasantly at the compliment paid to him by the Queen. She told him that she had been very much interested and the his skill was very great. A moment after this an equerry signaled for the carriage and it came dashing up. The Queen gave directions to have the top of the carriage lowered. She then turned to the Marquis of Lorne and extended to him her right hand. He bent very low and kissed it and then fell back.</p>
       </div>
 
@@ -145,7 +144,7 @@
       </p>
       <p>
          <a name="n09.note"> </a>Note 9: Yellow Striped Face is not further identified in this article but may have been <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/irving.w">William "Broncho Bill" Irving</a>
+            <a href="http://codyarchive.org/doc/irving.w">William "Broncho Bill" Irving</a>
          </span> (1856-1903).<a href="#n09.ref"> [back]</a>
       </p>
    </div>

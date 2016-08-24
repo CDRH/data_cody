@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11547.001.jpg"
+         <a href="800/wfc.nsp11547.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11547.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11547.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11547.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11547.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -27,7 +26,7 @@
 
       <div class="">
          <p>SEVEN splendid specimens of the North American Indian stalked majestically into St. Paul's Cathedral on Thursday. Each was gorgeous in paint and feathers, and was clad in brilliant-hued and picturesque attire. They were in sight but a few moments, as they arrived in closed carriages. Still they were in sight long enough to attract the attention of all who were passing at the time, and hundreds who would otherwise have passed by St. Paul's on the other side followed the red men into the Cathedral. Of the crowd the Indians took no notice. The crowd had no eyes for anybody or anything else. The casual worshippers rose from their chairs and joined the throng that followed in the track of the dark-skinned visitors. It was a crowd that was simply bursting with curiosity. It stared as if staring were one of the fine arts. It might have taken a lesson in politeness from the "Savages," as some were pleased to call <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/short.bull">Short Bull</a>
+               <a href="http://codyarchive.org/doc/short.bull">Short Bull</a>
             </span> and his companions, for although nothing escaped the notice of the Indians, their entire attention was seemingly devoted to an inspection of the Cathedral and the magnificent monuments it contains.</p>
 
 
@@ -40,15 +39,15 @@
 
 six years of age. He is one of two Indian survivors of the battle of Wounded Knee. This battle was fought on last Christmas Day between the Sioux and United States troops.<a name="n01.ref"> </a>
             <a href="#n01.note" class="ref">1</a> In less than 20 minutes nearly 250 souls were sent to their last account. Of this number 200 were Indians. The soldiers, maddened by the atrocities of some of their old foes, threw off all restraint and killed every Indian in sight. Many hours after the battle two papooses were found under a heap of slain. One of these was named <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/burkenoneck.j">Johnny Burke No Neck</a>
+               <a href="http://codyarchive.org/doc/burkenoneck.j">Johnny Burke No Neck</a>
             </span>, his godfathers being <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/burke.j">Major John M. Burke,</a>
+               <a href="http://codyarchive.org/doc/burke.j">Major John M. Burke,</a>
             </span> general manager of Buffalo Bill's Wild West Show, and <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/noneck">No Neck</a>
+               <a href="http://codyarchive.org/doc/noneck">No Neck</a>
             </span>, chief of the Indian police at Pine Ridge Agency, Dakota.</p>
 
          <p>The Indians who visited St. Paul's were members of Buffalo Bill's party. They were under the charge of Major Burke, and were accompanied by <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/crager.g">Mr. G. C. Crager,</a>
+               <a href="http://codyarchive.org/doc/crager.g">Mr. G. C. Crager,</a>
             </span> the Sioux interpreter attached to the combination, and by the writer and the HERALD artist. They had come by train from Croydon, where the Wild West Show struck its tents last night, to Victoria. Thence they were driven in closed carriages to the HERALD office in Fleet Street, where they said "How" to the editor. In leaving the HERALD office they blocked traffic in Fleet Street for several minutes. Until they entered their carriages not a pedestrian would move from any position of vantage he had secured, and the drivers of vans and cabs were, for once, of one mind. They pulled up their horses and refused to move until warned for the third and last time by the police.</p>
       </div>
 
@@ -56,9 +55,9 @@ six years of age. He is one of two Indian survivors of the battle of Wounded Kne
          <h4>SOME SPLENDID SPECIMENS.</h4>
 
          <p>Not a phase of the commotion created by them escaped the attention of the Indians, but their stolid countenances underwent no change. The rain fell as it generally does fall here, with placid steadiness. It fell upon the raven locks of the Indians and moistened the paint on their faces, but it failed to make an impression upon their serenity. They stood quietly until a way was made for them through the closely-packed crowd, stepped leisurely into the carriages, sat in them without a change of position until a halt was made in front of the principal entrance to St. Paul's, and then, the rain still falling heavily, stalked slowly up the steps and into the Cathedral. <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/kicking.bear">Kicking Bear</a>
+               <a href="http://codyarchive.org/doc/kicking.bear">Kicking Bear</a>
             </span> was the first to enter. He was followed, in Indian file, by Short Bull, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/lonebull">Lone Bull</a>
+               <a href="http://codyarchive.org/doc/lonebull">Lone Bull</a>
             </span>, No Neck, Coming Grunt, White Cloud, High Bear, and Johnny Burke No Neck. All wore blankets, scarlet, with borders of many colours. In the Cathedral, as in the streets, they towered above the crowd that hovered about them and watched their every movement. White Cloud, in his moccasins, stands 6ft. 4in. Kicking Bear is only an inch shorter, and High Bear is 6ft. 2in. No Neck, though over 6ft. high, looks much shorter
 
 <div class="inline_figure">

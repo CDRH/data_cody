@@ -7,11 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00556.jpg"
+         <a href="800/wfc.css00556.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00556.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00556.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00556.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00556.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -28,14 +27,14 @@ May 27<u>th</u> / 09</span>
 
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+            <a href="http://codyarchive.org/doc/beck.g">George</a>
          </span>.</span>
 
 
       <p>I am feeling better thank you. I have gotten rid of the Bailey Estate.<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a> 
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/lillie.g">Lillie</a>
+            <a href="http://codyarchive.org/doc/lillie.g">Lillie</a>
          </span> and I now own everything. 70 rail road cars. 170 big draft horses. Elephants <a rel="tooltip" class="sic" title="camels​ &#xA;    ">cammels</a> in fact the Entire outfit valued at $300,000 of course it will take me a few weeks to pay some money I had to borrow. but six weeks good biz and I am clear. we will take $60,000 here this week. Lillie is a close conservative manager <a rel="tooltip" class="sic" title="always​ &#xA;    ">allways</a> on the job. And it <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> be long now until I am on easy avenue again.</p>
 
       <p>The last few years have been hard ones for me but I never weakened— and my good friends have stood by me. And I <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> for get them. And one of them is the First National of Cody.<a name="n03.ref"> </a>
@@ -60,12 +59,12 @@ May 27<u>th</u> / 09</span>
       </p>
       <p>
          <a name="n02.note"> </a>Note 2: <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bailey.j">James A. Bailey</a>
+            <a href="http://codyarchive.org/doc/bailey.j">James A. Bailey</a>
          </span> (1847-1906) died April 11, 1906, but his family retained financial interest in Buffalo Bill's Wild West until Cody and Gordon W. "Pawnee Bill" Lillie bought them out.<a href="#n02.ref"> [back]</a>
       </p>
       <p>
          <a name="n03.note"> </a>Note 3: First National of Cody was founded in 1901 by William F. Cody, Hubert H. Hake, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c">Charles E. Hayden</a>
+            <a href="http://codyarchive.org/doc/hayden.c">Charles E. Hayden</a>
          </span>, J. W. Chapman, and Benjamin F. Hake.<a href="#n03.ref"> [back]</a>
       </p>
    </div>

@@ -8,20 +8,19 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11531.001.jpg"
+         <a href="800/wfc.nsp11531.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11531.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11531.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11531.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11531.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
       <p>The last week of Colonel Cody's stay in Manchester, despite the discouraging nature of the weather, has been highly successful. The Bank Holiday makers on Monday afternoon turned up in such crowds at Brooks's Bar that it is estimated that from four to five thousand had to be turned away disappointed. Among the visitors was the Bishop of Clifton, Father Bennett Vaughan, and Father Power, who were introduced to <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/short.bull">Short Bull</a>
+            <a href="http://codyarchive.org/doc/short.bull">Short Bull</a>
          </span>, Bone Necklace, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/noneck">No Neck</a>
+            <a href="http://codyarchive.org/doc/noneck">No Neck</a>
          </span>, and others of the red-skinned celebrities in the Wild West company, and entered into an interesting conversation through the intervention of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/crager.g">Mr. Craiger</a>
+            <a href="http://codyarchive.org/doc/crager.g">Mr. Craiger</a>
          </span>, Sioux interpreter. Since then the crowds of sightseers have been largely augmented by the occurrence of several local "wakes" and other general holidays.</p>
 
 

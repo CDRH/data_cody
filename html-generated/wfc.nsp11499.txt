@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11499.001.jpg"
+         <a href="800/wfc.nsp11499.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11499.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11499.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11499.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11499.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -28,13 +27,13 @@
          <a href="#n01.note" class="ref">1</a> landed in this port yesterday 177 saloon and 752 steerage passengers. The Saale's trip was an exciting one in one particular. A few days after she left Southampton a stranger boarded the ship. The intruder was a bouncing boy, and in consequence of the way in which he came on board the ship he secured his passage gratis. The next day a little lady came on board the ship the same way.</p>
 
       <p>The ship's doctor made as comfortable as possible these children of Neptune until the ship arrived at this port, and they were placed in Uncle Sam's care. Dr. Gutieres insisted on keeping the sea-born bits of humanity, and their mothers, under his care for awhile before they should encounter the bustle of life, and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/obeirne.j">Gen. O'Beirne</a>
+            <a href="http://codyarchive.org/doc/obeirne.j">Gen. O'Beirne</a>
          </span> insisted on detaining the native Indians who were on board.</p>
 
       <p>These said they were of the Sioux nation and of the La Toka tribe,<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a> and were on their way from Buffalo Bill's show, now in London, to their home in the Red Cloud Pine Agency.<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> They had passes all the way through and money to pay expenses. They were tired of Buffalo Bill and wanted to get back to Dakota. They gave their names: Eagle Horn, Blue Rainbow, Little Lamb, Running Creek and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/killsapony">Kill-his-Pony</a>
+            <a href="http://codyarchive.org/doc/killsapony">Kill-his-Pony</a>
          </span>.</p>
 
       <p>Finally all the Indians were allowed to land except Kill-his-Pony, who is in a most critical state of health. While with the Buffalo Bill show a month ago Kill-his-Pony fell and broke his hand. Blood poisoning has now set in. Kill-his-Pony is <span class="unclear missing">[?]</span> years of age. The Indian was sent to Bellevue Hospital, where he will remain for treatment.</p>

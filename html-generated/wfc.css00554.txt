@@ -7,11 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00554.jpg"
+         <a href="800/wfc.css00554.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00554.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00554.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00554.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00554.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -30,7 +29,7 @@ New York, </div>
 
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+            <a href="http://codyarchive.org/doc/beck.g">George</a>
          </span>—</span>
 
 
@@ -62,7 +61,7 @@ New York, </div>
       </p>
       <p>
          <a name="n03.note"> </a>Note 3: The High Line Canal (later named the Heart Mountain Canal): Envisioned in 1897 by <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/mead.e">Elwood Mead</a>
+            <a href="http://codyarchive.org/doc/mead.e">Elwood Mead</a>
          </span>, this high-elevation gravity canal would irrigate the north side of the Shoshone River in the Big Horn Basin. However, the canal was not built until 1942, when it became necessary to supply the World War II Japanese Internment Camp at Heart Mountain. <a href="#n03.ref"> [back]</a>
       </p>
       <p>

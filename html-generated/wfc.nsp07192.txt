@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp07192.001.jpg"
+         <a href="800/wfc.nsp07192.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp07192.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp07192.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp07192.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp07192.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -20,7 +19,7 @@
 
       <p>Buffalo Bill, in going to England, deviated from the usual custom of less illustrious travelers. Instead of putting himself at once into the hands of London's tailor, Poole,<a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a> as soon as he arrived, he chose to supply himself with a liberal outfit in America, and he landed on the other side with any amount of "store clothes." One suit, in which he intends to pay his respects to the <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">queen</a>
+            <a href="http://codyarchive.org/doc/victoria.q">queen</a>
          </span>, is of dark gray; another, in which he will appear at the queen's jubilee as Nebraska's representative, is two shades of blue, while a gorgeous hunting costume, which, perhaps, will be seen in Windsor forest, consists of blue corduroy jacket, gray corduroy trousers and scarlet and brown waistcoat.—<em class="hi">New York Sun.</em>
       </p>
 

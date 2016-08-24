@@ -1,7 +1,6 @@
 <div class="life_item" id="clapp.w">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/clapp.w">Clapp, William H., c. 1836-1905</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/clapp.w">Clapp, William H., c. 1836-1905</a>
    </h3>
    <p>
       <div class="note">William H. Clapp (c. 1836-1905) served in the 42nd Ohio Volunteer Infantry during the Civil War. He became an officer of the Regular Army in 1866 and served until his retirement as a lieutenant colonel in 1900. Clapp was acting U.S. Indian agent at Pine Ridge from January 1896 to July 1900. He was promoted to colonel on the retired list in 1904.</div>

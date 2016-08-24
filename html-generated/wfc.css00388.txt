@@ -7,11 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00388.001.jpg"
+         <a href="800/wfc.css00388.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00388.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00388.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00388.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00388.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">
@@ -30,7 +29,7 @@ Hotel La Salle<br/>
       </span>
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j">Tait</a>
+            <a href="http://codyarchive.org/doc/tait.j">Tait</a>
          </span>.</span>
 
 
@@ -42,9 +41,9 @@ Hotel La Salle<br/>
 
 
       <p>We met Mr <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/spoor.g">Spoor</a>
+            <a href="http://codyarchive.org/doc/spoor.g">Spoor</a>
          </span>. And <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/tammen.h">Tammen</a>
+            <a href="http://codyarchive.org/doc/tammen.h">Tammen</a>
          </span> and I am to be <a rel="tooltip" class="sic" title="shown​ &#xA;    ">showen</a> part of the <a rel="tooltip" class="sic" title="pictures​ &#xA;    ">picturers</a> tomorrow Sunday Spoor told us these our <a rel="tooltip" class="sic" title="pictures​ &#xA;    ">picturers</a> would be the best money getters of any <a rel="tooltip" class="sic" title="movies​ &#xA;    ">moovies</a> ever produced but as there are 26000 feet over five Miles of them it takes time to arrange and finish them.<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a>
       </p>

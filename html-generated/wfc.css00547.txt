@@ -7,11 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00547.jpg"
+         <a href="800/wfc.css00547.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00547.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00547.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00547.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00547.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -27,19 +26,19 @@ Aug 2d 1902</span>
 
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+            <a href="http://codyarchive.org/doc/beck.g">George</a>
          </span>—</span>
 
 
       <p>Glad to get your letter. hope you can meet me in Cheyenne<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a>. The money for the extension &amp; reconstructing our Canal is just as good as though it was in the bank. So I am informed by <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleistein</a>
+            <a href="http://codyarchive.org/doc/bleistein.g">Bleistein</a>
          </span>. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+            <a href="http://codyarchive.org/doc/rumsey.b">Rumsey</a>
          </span> &amp; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Gerrans</a>
+            <a href="http://codyarchive.org/doc/gerrans.h">Gerrans</a>
          </span>. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Salsbury</a>
          </span> as you know is <a rel="tooltip" class="sic" title="always​ &#xA;    ">allways</a> ready— and my money is ready— go right a head— have no fear about the money part. I sent a letter to the Cody City Council. Wish you would hurry it up— I have got to build a sewer for the hotel— and have no time to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a>— No one more than your self knows the <a rel="tooltip" class="sic" title="benefit​ &#xA;    ">benifit</a> that hotel will be to the town. And I want to get it opened just as soon as possible—</p>
 
 

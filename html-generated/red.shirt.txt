@@ -1,7 +1,6 @@
 <div class="life_item" id="red.shirt">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt, 1845?-1925</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/red.shirt">Red Shirt, 1845?-1925</a>
    </h3>
    <p>
       <div class="note">Red Shirt (1845?-1925) was a Lakota from the Pine Ridge Indian Reservation (formerly Red Cloud Agency) in southwest Dakota Territory and leader of the Show Indians during the 1887-88 English tour. He joined the show in 1884 and was featured as a principal performer in the show’s promotional materials which included his audience with Queen Victoria.</div>

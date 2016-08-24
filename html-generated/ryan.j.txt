@@ -1,7 +1,6 @@
 <div class="life_item" id="ryan.j">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/ryan.j">Ryan, Jerry</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/ryan.j">Ryan, Jerry</a>
    </h3>
    <p>
       <div class="note">Jerry Ryan was an engineer living in Sheridan, Wyoming, when George T. Beck sent him, along with Laban Hillberry, to determine if waters from the Shoshone River could be diverted to irrigate a large area of the Big Horn Basin; Ryan would move to Cody and become a shareholder in Shoshone Land and Irrigation Company, which was formed in 1895 and later became Shoshone Irrigation Company.</div>

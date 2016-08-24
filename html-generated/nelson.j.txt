@@ -1,7 +1,6 @@
 <div class="life_item" id="nelson.j">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/nelson.j">Nelson, John Young, 1826-1903</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/nelson.j">Nelson, John Young, 1826-1903</a>
    </h3>
    <p>
       <div class="note">John Y. Nelson (1826-1903) worked as a trapper and scout in the far west before joining Buffalo Bill’s Wild West. Married to a Brulé, Jenny Yellow Elk Woman, Nelson served as an interpreter while also performing various roles in the show, such as driver for the Deadwood stagecoach. Several of Nelson’s children also performed in the show. </div>

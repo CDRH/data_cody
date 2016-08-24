@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11444.001.jpg"
+         <a href="800/wfc.nsp11444.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11444.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11444.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11444.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11444.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -58,9 +57,9 @@
       <p>There is a young person of 15 years, not by the way very prepossessing looking, who seems as much at home with her rifle as most of us are with the needle; as a proof of this, of glass balls thrown from the hand she scored 323 successive hits, without a miss, and out of 400 in all, broke 395 balls.</p>
 	
       <p>The name of this lady is <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/smith.l">Lilian T. Smith</a>
+            <a href="http://codyarchive.org/doc/smith.l">Lilian T. Smith</a>
          </span>, and a sister in arms is <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Annie Oakley</a>
+            <a href="http://codyarchive.org/doc/oakley.a">Miss Annie Oakley</a>
          </span>. At the age of 14, by the sale of game and skins, shot and trapped by herself, Miss Oakley freed her father’s farm from a heavy mortgage.</p>
 	
       <p>As a rider her skill is most remarkable. It is said a gentleman possessed of a very vicious horse that none could break, offered it to this girl of 21 if she could make it tractable, and in three days the feat was accomplished and the prize secured.</p>

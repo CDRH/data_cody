@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00458.001.jpg"
+         <a href="800/wfc.css00458.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00458.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00458.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00458.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00458.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -31,13 +30,13 @@ Oct. 19th<a name="n02.ref"> </a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+            <a href="http://codyarchive.org/doc/beck.g">Beck</a>
          </span>
       </span>
 
       <p>No letter for several days Recd a letter from Arta<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> Said she met <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/heckart.t">Mr Heckert</a>
+            <a href="http://codyarchive.org/doc/heckart.t">Mr Heckert</a>
          </span> on train going to Sheridan after <u>Blankets</u>. I do hope you and he both did not leave the work at the same time. And its strange if Heckert had to go after <u>Blankets</u>. These things should have been thought if not why does so important a man have to go after blankets?</p>
 
       <p>I am uneasy about these things and over anxious as I am getting other peoples money to spend in this <a rel="tooltip" class="sic" title="enterprise​ &#xA;    ">enterprize</a>. And I want nothing done wrong. You are the Boss there. And My Dear Friend I hope you will take the same interest. I will feel awful if money is uselessly squandered there. And no good results to show. I may be there by
@@ -45,11 +44,10 @@ Oct. 19th<a name="n02.ref"> </a>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00458.002.jpg"
+            <a href="800/wfc.css00458.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00458.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00458.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00458.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00458.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
 

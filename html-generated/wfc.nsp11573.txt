@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11573.001.jpg"
+         <a href="800/wfc.nsp11573.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11573.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11573.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11573.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11573.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -22,7 +21,7 @@
       <div class="milestone line"> </div>
 
       <p>The cablegram reports announcing the death of the noted Ohio lady shot, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Annie Oakley</a>
+            <a href="http://codyarchive.org/doc/oakley.a">Miss Annie Oakley</a>
          </span>, some two weeks ago of congestion of the lungs, at Buenos Ayres, as predicted by us is unfounded, the following letter from her manager and husband being in proof that she is still in the land of the living. The letter, of which we print a copy, was yesterday received by Mr. Al Bandle,<a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a> and reads:</p>
 

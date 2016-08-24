@@ -6,11 +6,10 @@
    <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11347.001.jpg"
+         <a href="800/wfc.nsp11347.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11347.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11347.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11347.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11347.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <h3>GEN. NELSON A. MILES WRITES STORY OF THE GREAT CONSPIRACY</h3>
@@ -22,11 +21,10 @@
         <p>The following graphic pen picture of the Indian wars occurring within the last quarter of a century is from the facile and brilliant pen of Lieutenant General Nelson A. Miles, great soldier and Indian fighter, who led the white army, and brought about the triumph of civilization. It is a magnificently written, yet simply told narrative, which The Denver Post first presents to the people of this country. Taken in connection with the Indian war pictures to be presented in this city this week, and which have the official indorsement of the government at Washington, the story of General Miles, the hero of those stirring times, is of singular moment. The general gives the history of the supposed coming of "The Messiah," as the Indians understood it; the battle which resulted in the death of Sitting Bull; the uprising and the final surrender in which the power and majesty of the white race was splendidly demonstrated. The portrayal of the end of the Indian wars, the fetching description of that dreary country about the "Bad Lands," when, enveloped in the white mantle of winter, the pacification of the turbulent red men was accomplished largely through the efforts of General Miles is told with the grace and felicity of true literature. It was here there was cast forever into oblivion, all hatred, animosity and revenge between the races. The Post takes pride in presenting, for the first time, the real history of the great conspiracy, the last Indian uprising and the true story of the close of the Indian wars in America.</p>
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11347.002.jpg"
+         <a href="800/wfc.nsp11347.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11347.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11347.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11347.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11347.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
         <div class="">
@@ -143,11 +141,10 @@
             
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="http://codyarchive.org/figures/800/wfc.nsp11347.003.jpg"
+               <a href="800/wfc.nsp11347.003.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11347.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="http://codyarchive.org/figures/250/wfc.nsp11347.003.jpg"
-                       class="display &#xA;            "/>
+                  title="&lt;a href=&#34;800/wfc.nsp11347.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="250/wfc.nsp11347.003.jpg" class="display &#xA;            "/>
                </a>
             </span>
             
@@ -243,11 +240,10 @@
             
             <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.nsp11347.004.jpg"
+            <a href="800/wfc.nsp11347.004.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11347.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.nsp11347.004.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.nsp11347.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.nsp11347.004.jpg" class="display &#xA;            "/>
             </a>
          </span>
         

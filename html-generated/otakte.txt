@@ -1,7 +1,6 @@
 <div class="life_item" id="otakte">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/otakte">Otakte, d. 1890</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/otakte">Otakte, d. 1890</a>
    </h3>
    <p>
       <div class="note">

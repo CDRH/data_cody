@@ -4,11 +4,10 @@
 <div class="main_content">
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/800/wfc.bsn00053.jpg"
+      <a href="800/wfc.bsn00053.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00053.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/250/wfc.bsn00053.jpg"
-              class="display &#xA;            "/>
+         title="&lt;a href=&#34;800/wfc.bsn00053.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="250/wfc.bsn00053.jpg" class="display &#xA;            "/>
       </a>
    </span>
   <div class="letter">
@@ -22,7 +21,7 @@ Bank of Commerce<br/>Masonic Temple.<br/>Sheridan, Wyo.<br/>Capital $150,000.00<
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Mr. Bronson C. Rumsey</a>
+         <a href="http://codyarchive.org/doc/rumsey.b">Mr. Bronson C. Rumsey</a>
       </span>,
 
 Ellicott Square,
@@ -33,7 +32,7 @@ Buffalo, N. Y.
 <span class="salute">Dear Sir:</span>
 
       <p>I have purchased from the sisters of the late <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">H. C. Alger</a>
+            <a href="http://codyarchive.org/doc/alger.h">H. C. Alger</a>
          </span> all of the remaining assets of his estate, and in this purchase received an assignment of his one-fourteenth interest in the Cody Town-site, which is in a trusteeship with you as trustee.</p>
 
       <p>I enclose herewith the assignment together with a certified copy of Mr. Alger's will, and also certified copy of the order of the District Court decreeing the title <del>interest</del> in Mr. Alger's sisters. Please furnish me with evidence of transfer.</p>

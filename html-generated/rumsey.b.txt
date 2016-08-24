@@ -1,7 +1,6 @@
 <div class="life_item" id="rumsey.b">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey, Bronson,  II, 1854-1946</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/rumsey.b">Rumsey, Bronson,  II, 1854-1946</a>
    </h3>
    <p>
       <div class="note">Bronson Rumsey II (1854-1946) grew up in Buffalo, New York, the son of Bronson Case Rumsey (1823-1902), who owned a successful tannery business.  As an investor and board member in the Shoshone Irrigation Company, Bronson Rumsey II was one of the founders of the town of Cody, Wyoming.  Among other business interests in the Big Horn Basin, Rumsey was one of the original partners in the Cody Trading Company. His son, Bronson C. Rumsey (b. 1879) developed a noted dude ranch, the "UXU", and served in the Wyoming state senate in the 1930s.</div>

@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp01317.001.jpg"
+         <a href="800/wfc.nsp01317.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp01317.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp01317.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp01317.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp01317.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -21,7 +20,7 @@
       <h3>A DINNER TO THE PARTNER OF THE TYPICAL AMERICAN.</h3>
 
       <p>Genial <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Nate Salsbury</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Nate Salsbury</a>
          </span>, bearded and bronzed after his European trip with Buffalo Bill Cody and the Wild West Show, was welcomed home last evening at a dinner at Delmonico's, at which Anarchical Steele Mackaye<a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a> presided. The welcome home was because he and his partner had carried the Stars and Stripes successfully through the snug and tight little island 2,500 miles away, and shown to the English people that some good might come out of Nazareth. That he had come back with his pockets lined with gold made every one feel happy, and the bottled-up enthusiastic Americanism of such men as Larry Jerome<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a> and Tom Ochiltree<a name="n03.ref"> </a>

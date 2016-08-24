@@ -8,18 +8,17 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp06447.001.jpg"
+         <a href="800/wfc.nsp06447.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp06447.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp06447.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp06447.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp06447.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
       <h3>Buffalo Bill's Letter.</h3>
 
       <p>New York Commercial Advertiser: Colonel, the Honorable William F. Cody, as our English neighbors know Buffalo Bill, has an indiscreet friend in New Orleans; but we do not imagine that any one will think the less of the gallant chief of the Wild West show, because he honestly admits that he is England "for dust," and takes a natural pride in his social successes. "I have captured this country, from the <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">queen</a>
+            <a href="http://codyarchive.org/doc/victoria.q">queen</a>
          </span> down," writes Mr. Cody, "and am doing them to the tune of $10,000 a day." He has captured the country, and we are glad to know he is "doing" it, though we can hardly hope that he will bring back enough English gold to balance the American dollars that the English showmen have carried away from this country.</p>
 
       <p>But the most pleasing thing about Buffalo Bill's letter is the fact that it shows, to use his own vigorous language, that he has "not got the big head worth a cent." That is just the secret of his success. Buffalo Bill went to London as a plain, honest showman, and he accepts the homage that is done him, just as all Americans should, but few do. Buffalo Bill is a sovereign in his own right, and when the prince of Wales and four or five kings came around to look at the show behind the scenes, their combined and concentrated majesty did not impress him in the least, and they found that there was a citizen of the great anti-monarchy who knew he was just as much a sovereign as they, and that their blood was just as human as his.</p>

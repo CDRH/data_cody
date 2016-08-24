@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp00762.001.jpg"
+         <a href="800/wfc.nsp00762.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00762.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp00762.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp00762.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp00762.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -22,7 +21,7 @@
       <div class="milestone line"> </div>
       <h3>
          <div class="center">The <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen's</a>
+               <a href="http://codyarchive.org/doc/victoria.q">Queen's</a>
             </span> Crown Jewels and the French Collection—The American Exhibition—The Social Success of Buffalo Bill.</div>
       </h3>
 
@@ -56,7 +55,7 @@
 
          <p>
             <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. John Robinson Whitley</a>
+               <a href="http://codyarchive.org/doc/whitley.j">Mr. John Robinson Whitley</a>
             </span>,<a name="n06.ref"> </a>
             <a href="#n06.note" class="ref">6</a> director general, wears the aspect of a general in command of an army doing a forced march in the enemy's country. But a short time will enable every one connected with the work to congratulate themselves on the completion of one of the most gigantic enterprises ever undertaken by private persons.</p>
       </div>
@@ -70,7 +69,7 @@
          <p>Buffalo Bill is making a great social success, and as the people have found out that in America we produce great hunters and Indian fighters who are refined and polished gentlemen, he is loaded down with invitations, but very few of which he is able to accept.</p>
 
          <p>The Indians are employing the time before opening in visiting theatres and places of interest, and attract a prodigious amount of attention wherever they appear. <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
+               <a href="http://codyarchive.org/doc/red.shirt">Red Shirt</a>
             </span>, the head Sioux Chief, who closely resembles Napoleon Bonaparte--the striking likeness being everywhere remarked--is also a bit of a lion. He told me, through his interpreter, that he traveled miles and miles through land and cities until he came to water, and then he sailed and sailed until he thought there was no more land, only water, but he had found a land with more people in it than he left behind him.</p>
 
          <p>They have been much taken with the ballet dancing at the Alhambra and Drury Lane, so I asked him what he thought of the girls. He said, "Oh! I am a great friend to all women," upon which I shook hands warmly with him, and evoked one of his smiles, which are as pleasing as they are rare Asked how many wives he had, he replied that he had a right to all he wanted, but that one wife was enough to keep any man poor.</p>
@@ -83,7 +82,7 @@
 
          <p>
             <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w">The Right Hon. Mr Gladstone</a>
+               <a href="http://codyarchive.org/doc/gladstone.w">The Right Hon. Mr Gladstone</a>
             </span> and Mrs. Gladstone, Irving, Toole, Lady Bective, the Dowager Countess of Downshire, Col. Hughes Hallett, Lord Ronald Gower and Capt. Carl H. Thimm have been among the many visitors to the exhibition this week.</p>
 
          <p>The opening will probably attract the largest crowd ever seen in one place here. The members of the Press Club, Savage Club and Garrick Club are coming in a body; the Council of Welcome, numbering 600, and a host of other distinguished persons.</p>

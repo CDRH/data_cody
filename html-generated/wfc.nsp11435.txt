@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11435.001.jpg"
+         <a href="800/wfc.nsp11435.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11435.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11435.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11435.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11435.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -35,7 +34,7 @@
 	
       <p>English trade will, no doubt, be stimulated by the Budget. Mr. Goschen’s<a name="n09.ref"> </a>
          <a href="#n09.note" class="ref">9</a> financial proposal for dealing with the Sinking Fund may be open to objections, but even <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w">Mr. Gladstone’s</a>
+            <a href="http://codyarchive.org/doc/gladstone.w">Mr. Gladstone’s</a>
          </span> authoritative criticisms will not awaken discontent with the remission of a penny in the Income tax. That is the central fact which traders and men of business grasp at once, and as each penny in the Income tax means two millions of money, this substantial relief in taxation will make itself felt indirectly in trade. Industry must benefit by a further diffusion of capital. The decision of a Select Committee of the House of Lords in favour of a subway from the City to Stockwell will necessarily lead to the expenditure of a large sum on useful work. Money is proved to be plentiful by the further reduction of the Bank rate; and profitable openings for its use are being eagerly sought. Without desiring to be too sanguine, a review of the present conditions of our national commerce cannot but lead to the conviction that a brighter day is at length dawning upon our industries.</p>
 
 

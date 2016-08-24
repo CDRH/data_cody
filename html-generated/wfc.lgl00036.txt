@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.lgl00036.001.jpg"
+         <a href="800/wfc.lgl00036.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00036.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.lgl00036.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.lgl00036.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.lgl00036.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -33,11 +32,10 @@ CLERK</div>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.lgl00036.002.jpg"
+            <a href="800/wfc.lgl00036.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00036.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.lgl00036.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.lgl00036.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.lgl00036.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
          <span class="h6">-2-</span>
@@ -50,11 +48,10 @@ specified, it is hereby mutually agreed as follows:</p>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.lgl00036.003.jpg"
+         <a href="800/wfc.lgl00036.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00036.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.lgl00036.003.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.lgl00036.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.lgl00036.003.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <h6 class="fw">-3-</h6>
@@ -69,11 +66,10 @@ specified, it is hereby mutually agreed as follows:</p>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.lgl00036.004.jpg"
+            <a href="800/wfc.lgl00036.004.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00036.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.lgl00036.004.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.lgl00036.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.lgl00036.004.jpg" class="display &#xA;            "/>
             </a>
          </span>
          <span class="h6">-4-</span>

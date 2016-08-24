@@ -7,11 +7,10 @@
             <div class="type">
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.adv00921.jpg"
+         <a href="800/wfc.adv00921.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.adv00921.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.adv00921.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.adv00921.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.adv00921.jpg" class="display &#xA;            "/>
          </a>
       </span>
                 <h3>THE NEW AMERICAN</h3>

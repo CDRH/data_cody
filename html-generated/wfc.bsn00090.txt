@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00090.jpg"
+         <a href="800/wfc.bsn00090.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00090.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00090.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00090.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00090.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -21,7 +20,7 @@
 Feb. 2, 1918.
 
 <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Mr. H. M. Gerrans</a>
+         <a href="http://codyarchive.org/doc/gerrans.h">Mr. H. M. Gerrans</a>
       </span>, 
 Hotel Iroquois,
 Buffalo, N. Y.
@@ -31,7 +30,7 @@ Buffalo, N. Y.
       <p>I enclose a copy of our Profit and Loss Account. You will see that it shows a net profit of $21530.43. We had a very good year last year. Our profit was even greater than I expected, but I do think we are doing better than we ever have.</p>
 
       <p>I am not going into detail in this letter, regarding the various phases. I am quite sure that I will have to go to Chicago and I will drop down and go over the whole thing and have the statement complete. Unless something comes up that I don't know of now I will be in Buffalo in a couple of weeks, as I do think getting to Chicago I would like to come on and go over things with you and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Mr. Rumsey</a>
+            <a href="http://codyarchive.org/doc/rumsey.b">Mr. Rumsey</a>
          </span>.</p>
 
       <span class="closer">

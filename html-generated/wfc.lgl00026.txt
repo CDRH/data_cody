@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.lgl00026.001.jpg"
+         <a href="800/wfc.lgl00026.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00026.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.lgl00026.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.lgl00026.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.lgl00026.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -24,7 +23,7 @@
       <span class="dateline">Aug. 26/07</span>
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+         <a href="http://codyarchive.org/doc/rumsey.b">Bronson Rumsey</a>
       </span>
 
 Pittsfield Mass.
@@ -33,7 +32,7 @@ Pittsfield Mass.
 
 
       <p>As requested in yours of the 18<u>th</u>, I enclose certified copy of Letters of Administration issued to use in the matter of the Estate of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Horace C. Alger</a>
+            <a href="http://codyarchive.org/doc/alger.h">Horace C. Alger</a>
          </span> deceased.</p>
 
       <p>Can you make me a statement of the condition of the interest of the Alger estate in the Cody Townsite Co.?</p>
@@ -51,11 +50,10 @@ Pittsfield Mass.
    <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.lgl00026.002.jpg"
+         <a href="800/wfc.lgl00026.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00026.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.lgl00026.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.lgl00026.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.lgl00026.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -159,11 +157,10 @@ County of Sheridan.)</em>
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/800/wfc.lgl00026.003.jpg"
+      <a href="800/wfc.lgl00026.003.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00026.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/250/wfc.lgl00026.003.jpg"
-              class="display &#xA;            "/>
+         title="&lt;a href=&#34;800/wfc.lgl00026.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="250/wfc.lgl00026.003.jpg" class="display &#xA;            "/>
       </a>
    </span>
 

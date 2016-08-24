@@ -6,11 +6,10 @@
    <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11321.jpg"
+         <a href="800/wfc.nsp11321.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11321.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11321.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11321.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11321.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <h3>The Classic Event in Motion Picture Annals — First Ever U. S. Government Endorsed. The Capital's Social Sensation.</h3>

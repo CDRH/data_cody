@@ -1,7 +1,6 @@
 <div class="life_item" id="whittaker.m">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/whittaker.m">Whittaker, Margaret "Ma", 1827-1893</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/whittaker.m">Whittaker, Margaret "Ma", 1827-1893</a>
    </h3>
    <p>
       <div class="note">Mrs. Margaret "Ma" Whittaker (1827-1893) joined Buffalo Bill's Wild West with her husband Francis W. "Frank" Whittaker (1818-1887), a former employee of P. T. Barnum. When her husband died suddenly in early 1887, "Ma" Whittaker remained with the exhibition, assuming various roles in Buffalo Bill's Wild West from 1886 through at least 1888. She performed in the reenactments of both "Attack on the Settler's Cabin" and "Attack on the Emigrant Train." Mrs. Whittaker also served as chaperone for the unmarried women in the troupe, as nurse/doctor (dispensing home remedies, etc.), and as seamstress in the wardrobe department.</div>

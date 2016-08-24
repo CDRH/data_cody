@@ -1,7 +1,6 @@
 <div class="life_item" id="kicking.bear">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/kicking.bear">Kicking Bear (Mato Wanartaka) 1846-1904</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/kicking.bear">Kicking Bear (Mato Wanartaka) 1846-1904</a>
    </h3>
    <p>
       <div class="note">Kicking Bear, <em class="hi">Mato Wanartaka</em> (Lakota, <em class="hi">Matȟó Wanáȟtake</em>) (1846-1904), born to Black Fox and Iron Cedar Woman of the Oglala Sioux, was brother to Moses Flying Hawk and first cousin to Crazy Horse (their mothers were sisters). With Kicking Bear's marriage to Chief Big Foot's daughter, Woodpecker Woman, Kicking Bear became a band chief of the Minneconjou Sioux and fought for the Lakota Nation during major battles, including the Rosebud and the Battle of Little Bighorn. Kicking Bear accompanied Short Bull to Nevada in 1889 to learn about the Ghost Dance from Wovoka, leader of the Ghost Dance movement. The Ghost Dance was effectively subdued following the Massacre at Wounded Knee Creek in 1890, and leaders of the movement, including Kicking Bear and Short Bull, were imprisoned at Fort Sheridan, Illinois. Kicking Bear and other incarcerated Native men and women were released from prison to join the European tour of Buffalo Bill's Wild West for the season of 1891-92. Kicking Bear and Short Bull, among others, were sent back to Fort Sheridan when they insisted on returning home prematurely, sailing from Glasgow on board the <em class="hi">Corean</em> March 4, 1892. Kicking Bear and Short Bull were the last to be released from Fort Sheridan. During the 1891-92 tour, Kicking Bear was widely promoted as the "Fighting Chief of the Ghost Dancers."   </div>

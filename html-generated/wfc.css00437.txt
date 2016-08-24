@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00437.001.jpg"
+         <a href="800/wfc.css00437.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00437.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00437.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00437.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00437.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -30,7 +29,7 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+            <a href="http://codyarchive.org/doc/beck.g">Beck</a>
          </span>
       </span>
 
@@ -46,11 +45,10 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00437.002.jpg"
+            <a href="800/wfc.css00437.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00437.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00437.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00437.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00437.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
 
@@ -64,7 +62,7 @@ The Wyoming.<br/>F. R. White, Proprietor.<br/>Scranton, Pa., ____189_
 to the wheel and hoof things up— And let me know how the thing stands.</p>
 
       <p>I heard from <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
+            <a href="http://codyarchive.org/doc/hymer.w">Hymer</a>
          </span> he sent reports. And I tell you That Man Hymer Knows his business. And George— without him we would have been holding the bag— And I hope all concerned will appreciate what he has done.</p>
 
       <p>He will need some money at once. We must keep our credit good and at once— Nothing will hurt us more than to <a rel="tooltip" class="sic" title="lose​ &#xA;    ">loose</a> our credit. Will you let me hear from you at once. </p>
@@ -86,7 +84,7 @@ to the wheel and hoof things up— And let me know how the thing stands.</p>
       </p>
       <p>
          <a name="n03.note"> </a>Note 3: Cody and Beck were hoping to persuade Omaha businessman <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/paxton.w">William A. Paxton</a>
+            <a href="http://codyarchive.org/doc/paxton.w">William A. Paxton</a>
          </span> to invest in their irrigation venture.<a href="#n03.ref"> [back]</a>
       </p>
    </div>

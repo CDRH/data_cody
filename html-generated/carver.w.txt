@@ -1,7 +1,6 @@
 <div class="life_item" id="carver.w">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/carver.w">Carver, William F. (William Frank), 1840-1927</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/carver.w">Carver, William F. (William Frank), 1840-1927</a>
    </h3>
    <p>
       <div class="note">William "Doc" Carver (Dr. William Frank Carver, c1840-1927) was born in Winslow, Illinois. Trained as a dentist, Carver relocated to Nebraska in 1872 where he began to acquire frontier skills such as hunting, riding, and, most notably, marksmanship. In 1876 he launched a career as a showman touring the country giving shooting exhibitions and billing himself as "Champion Rifle Shot of the World." In 1883 he joined with William F. Cody to launch "Hon. W. F. Cody and Dr. W. F. Carver's Rocky Mountain and Prairie Exhibition." The partnership lasted just one season, ending in acrimony. Cody formed Buffalo Bill's Wild West the following year and Carver developed various rival enterprises, eventually creating a small-scale exhibition of trained animals—most notably a diving horse attraction—and feats of marksmanship.</div>

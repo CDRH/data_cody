@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00035.001.jpg"
+         <a href="800/wfc.bsn00035.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00035.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00035.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00035.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00035.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -26,7 +25,7 @@
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Mr. Bronson Rumsey</a>
+         <a href="http://codyarchive.org/doc/rumsey.b">Mr. Bronson Rumsey</a>
       </span>, Trustee,
 
 78 Exchange Street,
@@ -57,11 +56,10 @@ Sec'y
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/800/wfc.bsn00035.002.jpg"
+      <a href="800/wfc.bsn00035.002.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00035.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/250/wfc.bsn00035.002.jpg"
-              class="display &#xA;            "/>
+         title="&lt;a href=&#34;800/wfc.bsn00035.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="250/wfc.bsn00035.002.jpg" class="display &#xA;            "/>
       </a>
    </span>
 
@@ -102,11 +100,10 @@ Sec'y
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/800/wfc.bsn00035.003.jpg"
+      <a href="800/wfc.bsn00035.003.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00035.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/250/wfc.bsn00035.003.jpg"
-              class="display &#xA;            "/>
+         title="&lt;a href=&#34;800/wfc.bsn00035.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="250/wfc.bsn00035.003.jpg" class="display &#xA;            "/>
       </a>
    </span>
 
@@ -117,11 +114,10 @@ Sec'y
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00035.004.jpg"
+         <a href="800/wfc.bsn00035.004.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00035.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00035.004.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00035.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00035.004.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -129,11 +125,10 @@ Sec'y
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00035.005.jpg"
+         <a href="800/wfc.bsn00035.005.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00035.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00035.005.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00035.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00035.005.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -141,22 +136,20 @@ Sec'y
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00035.006.jpg"
+         <a href="800/wfc.bsn00035.006.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00035.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00035.006.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00035.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00035.006.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">[View image of page four of six-month financial statement ending December 30, 1905, for full display.]</div>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00035.007.jpg"
+         <a href="800/wfc.bsn00035.007.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00035.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00035.007.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00035.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00035.007.jpg" class="display &#xA;            "/>
          </a>
       </span>
 

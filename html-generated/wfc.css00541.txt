@@ -7,11 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00541.001.jpg"
+         <a href="800/wfc.css00541.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00541.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00541.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00541.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00541.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -26,14 +25,14 @@ April 19th 1901</span>
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+            <a href="http://codyarchive.org/doc/beck.g">George</a>
          </span>
       </span>
 
 
       <p>Glad to get your letter of the 13<u>th</u> Am glad the new ditch is completed— Am glad you are cleaning and going over the old ditch— When you want my money for the new south fork bridge <a rel="tooltip" class="sic" title="it's​ &#xA;    ">its</a> ready— George I am glad you <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> 
          <a rel="tooltip" class="sic" title="believe​ &#xA;    ">beleive</a> all you hear. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/peake.j">Peake</a>
+            <a href="http://codyarchive.org/doc/peake.j">Peake</a>
          </span> told me that last year your hogs run at large— and Many complaints were made No hogs should be allowed to run at large. Am glad you count me in on the Power &amp; <a rel="tooltip" class="sic" title="Electric​ &#xA;    ">Elictric</a> Co<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a>— for I want to help make it a success— and our college<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> will light by it if we can find a location near Town<a name="n04.ref"> </a>
@@ -42,11 +41,10 @@ April 19th 1901</span>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00541.002.jpg"
+            <a href="800/wfc.css00541.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00541.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00541.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00541.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00541.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
 
@@ -69,11 +67,10 @@ New York</p>
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00541.003.jpg"
+            <a href="800/wfc.css00541.003.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00541.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00541.003.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00541.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00541.003.jpg" class="display &#xA;            "/>
             </a>
          </span>
 

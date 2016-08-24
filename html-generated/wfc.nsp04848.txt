@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp04848.001.jpg"
+         <a href="800/wfc.nsp04848.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp04848.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp04848.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp04848.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp04848.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -36,7 +35,7 @@
          <a href="#n02.note" class="ref">2</a> and so on, until each guest had a rib all to himself. The Indians set the example to their white brother by taking the ribs in both hands, and Gen. Hawley, Mr. Depew, Mr. Cameron and the other celebrities did just the same thing; and the nimble waiters were kept busy carrying away the denuded ribs. Hominy was eaten in various ways. So were salmon and pickles. The savages looked to Mr. Depew and Buffalo Bill and Gen. Cameron to instruct them how those emblems of American civilization, apple and coconut pie, should be consumed. Mr. Depew gave them a lesson full of grace, but it was wasted, for the red men all agreed upon one manner of pie-eating.</p>
 
       <p>Each aborigine received his section of pie on the palm of his hand, and in two bites it was gone. The rapidity of its disappearance amazed the distinguished gentlemen who were present. It is evident the the savages take kindly to certain elements of civilization. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
+            <a href="http://codyarchive.org/doc/red.shirt">Red Shirt</a>
          </span> ate two pieces of pie, Little Horse<a name="n07.ref"> </a>
          <a href="#n07.note" class="ref">7</a> consumed three pieces, Flies Above<a name="n08.ref"> </a>
          <a href="#n08.note" class="ref">8</a> devoured four sections, and the less distinguished warriors as many pieces as they could get. Mr. Chauncey M. Depew ate only one big piece of cocoanut pie, and the other distinguished white men showed the same inferiority to their red brothers. No fire water was served, as an example to the red men, but there were speeches just the same. Gen. Cameron's health was drunk. He answered and spoke to Red Shirt, who was introduced to the company.</p>
@@ -48,11 +47,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp04848.002.jpg"
+         <a href="800/wfc.nsp04848.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp04848.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp04848.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp04848.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp04848.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
 

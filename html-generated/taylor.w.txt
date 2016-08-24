@@ -1,7 +1,6 @@
 <div class="life_item" id="taylor.w">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/taylor.w">Taylor, William Levi, 1857-1924</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/taylor.w">Taylor, William Levi, 1857-1924</a>
    </h3>
    <p>
       <div class="note">William Levi “Buck” Taylor (1857-1924) was billed as the “King of the Cowboys” in Buffalo Bill’s Wild West. Among the original members of the Wild West cast, Taylor had worked for Cody as a ranch hand in Nebraska and later toured with Cody’s stage company, The Buffalo Bill Combination, before the exhibition's formation in 1884. Six-foot-five-inches tall, Taylor was featured for his horsemanship skills.</div>

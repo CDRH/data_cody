@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00071.001.jpg"
+         <a href="800/wfc.bsn00071.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00071.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00071.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00071.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00071.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">Office of Lincoln Land Company<br/>401 North Fourth St.<br/>P. O. Drawer 551<br/>Burlington, Iowa<br/>(Address All Correspondence to the Company)<br/>Charles E. Perkins, President<br/>A. B. Minor, Vice-President<br/>W. W. Turner, Sec'y and Treas.<br/>F. N. Pearson, Ass't to President<br/>Incorporated April, 1880<br/>Quotations of Prices Are Subject to Change without Notice</div>
@@ -26,7 +25,7 @@
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Mr. Bronson Rumsey</a>
+         <a href="http://codyarchive.org/doc/rumsey.b">Mr. Bronson Rumsey</a>
       </span>, Trustee,
 
 696 Ellicott Square,
@@ -59,11 +58,10 @@ CLB</div>
    <div class="">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00071.002.jpg"
+         <a href="800/wfc.bsn00071.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00071.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00071.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00071.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00071.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -73,11 +71,10 @@ CLB</div>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00071.003.jpg"
+         <a href="800/wfc.bsn00071.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00071.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00071.003.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00071.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00071.003.jpg" class="display &#xA;            "/>
          </a>
       </span>
 

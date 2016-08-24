@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11417.001.jpg"
+         <a href="800/wfc.nsp11417.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11417.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11417.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11417.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11417.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -42,10 +41,10 @@
          <a href="#n01.note" class="ref">1</a> How lucky for them that the dubious entertainment of <em class="hi">Budenschiessen</em>
          <a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a> has already concluded and does not need to compete with Buffalo Bill's people, who used to call the famous trick shooter <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/carver.w">Carver</a>
+            <a href="http://codyarchive.org/doc/carver.w">Carver</a>
          </span> one of their members. How could our Schützenkönige<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> stand in comparison to, for example, the gracious <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Anny</a>
+            <a href="http://codyarchive.org/doc/oakley.a">Miss Anny</a>
          </span>, who is able to shoot a penny out of the air with a single shot of her revolver. </p> 
 
       <p>But we should not only credit Miss Anny—the whole strange and interesting company is a successful center shot. The small companies of exotic peoples have slowly lost their appeal in Berlin and they are not taken very seriously anymore. At art fairs—as it just happened in <em class="hi">Schlachtensee</em>
@@ -90,7 +89,7 @@
       </p>
       <p>
          <a name="n05.note"> </a>Note 5: <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rockybear">Rocky Bear</a>
+            <a href="http://codyarchive.org/doc/rockybear">Rocky Bear</a>
          </span>, <em class="hi">Inyan Mato</em> or <em class="hi">Eya Matao</em> (1836-1909), an Oglala Sioux chief.<a href="#n05.ref"> [back]</a>
       </p>
       <p>
@@ -101,7 +100,7 @@
       </p>
       <p>
          <a name="n08.note"> </a>Note 8: "little J. Broker" is probably <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/baker.l">Johnny Baker</a>
+            <a href="http://codyarchive.org/doc/baker.l">Johnny Baker</a>
          </span>.<a href="#n08.ref"> [back]</a>
       </p>
       <p>

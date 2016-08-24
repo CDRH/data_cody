@@ -7,11 +7,10 @@
    <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00571.jpg"
+         <a href="800/wfc.css00571.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00571.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00571.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00571.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00571.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -34,7 +33,7 @@
 
       <span class="ab">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George T. Beck</a>
+            <a href="http://codyarchive.org/doc/beck.g">George T. Beck</a>
          </span>,</span>
 
       <span class="ab">Iroquois Hotel,</span>
@@ -43,7 +42,7 @@
 
 
       <p>Have sent word to <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Salsbury</a>
          </span>, think Nailor<a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a> in will see other party<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a>.</p>

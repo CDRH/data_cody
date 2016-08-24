@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11545.001.jpg"
+         <a href="800/wfc.nsp11545.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11545.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11545.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11545.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11545.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -28,11 +27,11 @@
          <h4>A NOVEL PROGRAMME.</h4>
 
          <p>No more novel exhibition has ever been brought to Portsmouth than this "Wild West, of which the last two performances will be given at North-End to-day, the camp being struck to-night for transference to Brighton, the next place of call. The exhibition has done a remarkable tour since it was originated by Colonel Cody in 1883. It has been carried all through the United States, it has been seen in the principal cities and towns on the Continent, it was the exhibition of the season in London during the Jubilee year, and it is now nearing the completion of a most successful tour through the English provinces. The "Wild West" will be quartered in Glasgow for the winter, and will then return to America, where it will be a fixture at Chicago during the continuance of the World's Fair. The performance given daily is stirring and striking enough to arouse the interest of even the most <em class="hi">blasé</em> patrons. Cowboys, Indians, Mexicans, buckers, and buffaloes contribute to the programme, in which Buffalo Bill himself is an active participant. There are hunting and fighting incidents galore, some exhibitions of wonderful marksmanship by Buffalo Bill, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/baker.l">Johnnie Baker</a>
+               <a href="http://codyarchive.org/doc/baker.l">Johnnie Baker</a>
             </span>—who stands on his head and hits with unerring aim—and <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Annie Oakley</a>
+               <a href="http://codyarchive.org/doc/oakley.a">Miss Annie Oakley</a>
             </span>, to whom the great Indian Chief "<span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/sitting.bull">Sitting Bull"</a>
+               <a href="http://codyarchive.org/doc/sitting.bull">Sitting Bull"</a>
             </span> gave the name of "Little Sure Shot;" a great deal of daring exploits on fiery untameable buckers by the cowboys, to whom a broken collar-bone or a fractured arm is but an incident that one has no call to make a fuss about; and sundry other most attractive exhibitions of skill and courage.</p>
 
       </div>
@@ -41,23 +40,22 @@
          <h4>HOW THE INDIANS LIVE.</h4>
 
          <p>It is the inner life of the motley company, however, with which we propose more particularly to deal, Cowboys and Indians, Americans, Englishmen, Irishmen, Frenchmen, Alsatians, and people of other nationalities, by whom Buffalo Bill is surrounded, have their several encampments on the show-ground. They pitch their tents on arrival in a fresh city or town, and there they live during the stay, each in the fashion peculiar to his own nationality or temperament. The Indian encampment is the one that most strikingly arrests the attention of visitors, and our reporter had the advantage of being piloted through it yesterday by <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/crager.g">Mr. G. C. Crager,</a>
+               <a href="http://codyarchive.org/doc/crager.g">Mr. G. C. Crager,</a>
             </span> who is the Sioux interpreter in charge of all the Indians attached to the exhibition. He took the reporter into the tent of "<span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/noneck">No Neck</a>
+               <a href="http://codyarchive.org/doc/noneck">No Neck</a>
             </span>," one of the Indian Chiefs, who was a leading Government scout in the last campaign at Pine Ridge, where the famous "Sitting Bull" met his death, and the chiefs and braves who had fought so courageously under him were compelled to give in their submission to the trained soldiers of the United States, who were sent out to quell their rebellion. "No Neck" was taking a siesta at one side of the tent when the visitor entered. Two braves were lying at full length in another part of the tent, conversing in their own dialect, and an industrious squaw, who was introduced as "No Neck's" sister, looked up with unconcern at the reporter, and then resumed her work of beaded embroidery. "No Neck" is the chief of police of the Wild West, under the constitution which the Indians observe among themselves.
 
 <span class="hr"> </span>
             <span class="pageimage">
-               <a href="http://codyarchive.org/figures/800/wfc.nsp11545.002.jpg"
+               <a href="800/wfc.nsp11545.002.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11545.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="http://codyarchive.org/figures/250/wfc.nsp11545.002.jpg"
-                       class="display &#xA;            "/>
+                  title="&lt;a href=&#34;800/wfc.nsp11545.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="250/wfc.nsp11545.002.jpg" class="display &#xA;            "/>
                </a>
             </span>
 
  Mr. Crager waxed eloquent in regard to the services of the chief in past years, declaring that he had done more useful work as an ally of the United States Government  than any other twenty Indian chiefs or braves. There are altogether twenty-four Indian warriors associated with Buffalo Bill, who are held as hostages by the United States Government, having been taken prisoners of war at Pine Ridge. The privilege accorded to Col. Cody of taking these famous warriors on tour with him is a unique one, and was granted solely in consequence of the great services he has from time to time rendered his country as pioneer, scout, and military officer. The Indians are treated well. Indeed, Mr. Crager, although he has been associated with the exhibition for nearly a year, has not yet recovered from his surprise at seeing them treated with such unexampled consideration. "The Indians on their reservation," he said to our reporter, are treated as dogs by the United States Government. Were the Indians to receive one-half of the rations and goods allotted them it would be all right. But there is too much red tape to allow of their doing so. When they join this company, however, the treatment becomes too good. They are petted and courted and fed too well, and the trouble we have to contend with is in consequence of their too good treatment and overfeeding. There is no work for the men to do except in the arena during the performances. Even their tepees, or tents, are put up by the women. There is no place of interest in any town we visit that they are not taken to see, and neither pains nor expense are spared in this matter. Colonel Cody's motive for doing this arises from the belief that travel is always the best educator of mankind. He wants to make them appreciate the fact that they are but a small body incapable of successfully opposing a civilised nation, and so he takes them everywhere, in order to demonstrate the greatness of the white man. They have been over the Portsmouth Dockyard, and were taken to the Gun Works at Birmingham, and a point is made of letting them visit all such places whenever the opportunity occurs." "And has the experiment so far proved a success?" asked the reporter. "To a certain extent, yes. We find that the Indians who were the most aggressive during the campaign the most docile under Colonel Cody, and very anxious to learn the arts and industries of civilisation. The Colonel hopes by this means to wean them from their former hostile ways. Over 800 Indians have been connected with the Wild West during the last five years, and on their return to their reservations it has always been found that they have become pioneers of civilisation among their own people. Take the Pine Ridge Agency for instance. See the Indians who have been most successful in agriculture there. See who it is follows the plough. It is the Indians who have been with Buffalo Bill's Wild West. See who are most advanced in education; whose children are sent to school. It is the Indians who have been with the Wild West Show." Then Mr. Crager further dilated upon the splendid treatment of the braves under Col. Cody. They were each paid, he said, from £5 to £15 per month, besides which everything was found them, even to portable bathing vans, so that they need not put their hands in their pockets for a penny. When the white man wanted a bath, however, he had to go in the town and pay for it. The exceptional treatment of the Indian went so far as the provision of a carriage whenever he was sent into the town, whereas the other members of the Company, from Colonel Cody and <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Mr. Nate Salsbury</a>
+               <a href="http://codyarchive.org/doc/salsbury.n">Mr. Nate Salsbury</a>
             </span> downwards, were content to ride on a tramcar. If an Indian had a headache or a toothache medical attendance was at once provided for him, and he was not expected to take part in the performance. Whenever an Indian terminated his connection with the Wild West he was given a civilised outfit sufficient to last him for two years, and was sent back by the proprietors to his own land.</p>
       </div>
 
@@ -72,20 +70,19 @@
 
 <span class="hr"> </span>
             <span class="pageimage">
-               <a href="http://codyarchive.org/figures/800/wfc.nsp11545.003.jpg"
+               <a href="800/wfc.nsp11545.003.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11545.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="http://codyarchive.org/figures/250/wfc.nsp11545.003.jpg"
-                       class="display &#xA;            "/>
+                  title="&lt;a href=&#34;800/wfc.nsp11545.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="250/wfc.nsp11545.003.jpg" class="display &#xA;            "/>
                </a>
             </span>
 
 company, our reporter soon extended his acquaintance in some directions which were quite new to him. Passing from No Neck's tepee to the dining tent, where all the members of the company take pot luck together every meal time, the chief of the cowboys, a stalwart, well-built young fellow, Frank Hamet by name, was first encountered. Hardly was the introduction to him over when an Indian brave sauntered up, exchanged a few words in his own dialect to the interpreter, and smilingly held out his hand in thoroughly English fashion to the visitor, whom Mr. Crager introduced, "Here comes the pet of the Indians," said Mr. Crager a moment afterwards, and up came "<span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/burkenoneck.j">Little Johnny Burke No Neck</a>
+               <a href="http://codyarchive.org/doc/burkenoneck.j">Little Johnny Burke No Neck</a>
             </span>," the sole survivor of the decisive battle of Wounded Knee, which resulted in the annihilation of Big Foot's band and the submission of the rebellious Indians. The little fellow, who is supposed to be no more than six years old, had also caught the English knack of greeting, and held out his hand with a sound very much resembling our "Hulloa." Going on to the dining tent, the reporter found there at dinner a mixed assortment of cowboys and Indians, who, seated in groups at long tables, were giving a good account of themselves over the soup and meat that were freely provided. Only "<span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/kicking.bear">Kicking Bear</a>
+               <a href="http://codyarchive.org/doc/kicking.bear">Kicking Bear</a>
             </span>," the chief upon whom the mantle of authority worn by the late "Sitting Bull" has virtually descended, sat by himself in solitary state. Johnny Baker "the cowboy kid," who has astonished the world with his marvellous marksmanship, was one of the diners, and the reporter felt honoured by the invitation of Mr. Crager to take a seat at the same table with so distinguished a shot. He has an apt pupil in Mr. Crager's boy, a young marksman of six summers, whose portrait, just received by his proud father, was passed from hand to hand. Everyone knew little Crager, who had just written from Birmingham, telling his father that he had become the possessor of a toy gun and pistol, and that he was "Cody, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/daly.c">Daly</a>
+               <a href="http://codyarchive.org/doc/daly.c">Daly</a>
             </span>, and Burke" all day long. The meat sampled by the reporter was not found wanting. There were two kinds of soup and three kinds of meat on the table, and the visitor was informed that there was never any stint, for every member of the company could always have just as much as he wanted. The cooking is done on the camp ground by a <em class="hi">chef</em>, who is a character in his way. He is a great Shakesperian scholar, and possesses some fourteen different editions of the Bard of Avon's works, which he recites by the yard over the preparation of his toothsome dishes.</p>
       </div>
 

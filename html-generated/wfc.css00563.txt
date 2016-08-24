@@ -7,11 +7,10 @@
    <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00563.jpg"
+         <a href="800/wfc.css00563.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00563.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00563.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00563.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00563.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -39,7 +38,7 @@
 
       <span class="ab">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George T. Beck</a>
+            <a href="http://codyarchive.org/doc/beck.g">George T. Beck</a>
          </span>,</span>
 
       <span class="ab">MacTagues Hotel<a name="n02.ref"> </a>
@@ -48,11 +47,11 @@
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Salsbury</a>
          </span> in. Is Higby<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> in can Asay<a name="n04.ref"> </a>
          <a href="#n04.note" class="ref">4</a> produce when does <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/heckert.t">Beckert</a>
+            <a href="http://codyarchive.org/doc/heckert.t">Beckert</a>
          </span>
          <a name="n05.ref"> </a>
          <a href="#n05.note" class="ref">5</a> commence work did you get contract from state land board Wyoming for land.</p>

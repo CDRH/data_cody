@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11449.001.jpg"
+         <a href="800/wfc.nsp11449.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11449.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11449.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11449.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11449.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -22,11 +21,11 @@
       <div class="milestone line"> </div>
 
       <p>Some of the Indians and American cowboys from Buffalo Bill’s Wild West Show visited Windsor Castle yesterday. The party, which included the Sioux chieftain <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
+            <a href="http://codyarchive.org/doc/red.shirt">Red Shirt</a>
          </span>, six other chiefs, most of the warriors, and several women and children, was under the charge of Serjeant Bates, who, 15 years ago, carried the United States flag from the Scottish Border to the Metropolis. The Indians were attired in their bright-coloured native costumes, several carried Japanese fans, and all had their faces painted. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/taylor.w">Buck Taylor</a>
+            <a href="http://codyarchive.org/doc/taylor.w">Buck Taylor</a>
          </span>, the Chief of the Cowboys, is still suffering from the effects of his accident, and was compelled to use crutches. Arriving in the Royal borough soon after ten o’clock in the morning, the Red Men and their companions were taken to the Castle, and shown through the State apartments, with whose magnificence they were greatly impressed. They also ascended to the battlements of the Round Tower, promenaded the Palace terraces, and walked through the Royal stables, which were, unfortunately, somewhat empty, many of the <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen’s</a>
+            <a href="http://codyarchive.org/doc/victoria.q">Queen’s</a>
          </span> horses having been sent to Balmoral<a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a> for the use of the Court, and others being in the Isle of Wight<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a>. The Indians after a couple of hours’ sightseeing appeared fatigued, and half a dozen at a time would suddenly seat themselves upon the pavement to rest, while their companions continued their inspection. From the mews the party proceeded to the Albert Chapel and St. George’s<a name="n03.ref"> </a>

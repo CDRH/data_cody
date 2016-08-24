@@ -5,11 +5,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/800/wfc.css00014_img_0.jpg"
+      <a href="800/wfc.css00014_img_0.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00014_img_0.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/250/wfc.css00014_img_0.jpg"
-              class="display &#xA;            "/>
+         title="&lt;a href=&#34;800/wfc.css00014_img_0.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="250/wfc.css00014_img_0.jpg" class="display &#xA;            "/>
       </a>
    </span>
 
@@ -30,7 +29,7 @@ J. W. Boyer, Farm Foreman.</div>
   
   
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/penney.c">Capt Charles Penney</a>
+         <a href="http://codyarchive.org/doc/penney.c">Capt Charles Penney</a>
       </span>
   Act Agt Pine Ridge
   

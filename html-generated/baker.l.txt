@@ -1,7 +1,6 @@
 <div class="life_item" id="baker.l">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/baker.l">Baker, Lewis H., 1869-1931</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/baker.l">Baker, Lewis H., 1869-1931</a>
    </h3>
    <p>
       <div class="note">Lewis H. Baker (1869-1931), better known as Johnny Baker, was for many years a fixture in William F. Cody's personal and professional life. As a young boy in North Platte, Nebraska, Baker idolized Cody, who came to look upon Baker as a foster son. Baker accompanied Cody's Wild West on tour from its inception, and was a regular cast member by 1885. Originally billed as the "Cow-Boy Kid," Baker often competed with Annie Oakley in trick shooting contests (consistently won by Oakley), among other roles. Baker remained with the various iterations of the Wild West as long as Cody had an ownership interest in the show. After Cody's death, Baker became one of the chief custodians of the Cody legacy in 1921 as founder of the Buffalo Bill Memorial Museum (now the Buffalo Bill Museum and Grave) in Golden, Colorado. Baker operated the museum until his death in 1931.</div>

@@ -1,7 +1,6 @@
 <div class="life_item" id="barnum.p">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/barnum.p">Barnum, P. T. (Phineas Taylor), 1810-1891</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/barnum.p">Barnum, P. T. (Phineas Taylor), 1810-1891</a>
    </h3>
    <p>
       <div class="note">Phineas Taylor Barnum (1810-1891) was an American businessman, an author, publisher, philanthropist, showman, and founder of the American Museum in New York City. He was the originator of Barnum's "Greatest Show on Earth," which later became Barnum and Bailey's "Greatest Show on Earth" when Barnum partnered with James A. Bailey.</div>

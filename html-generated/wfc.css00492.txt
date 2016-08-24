@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00492.001.jpg"
+         <a href="800/wfc.css00492.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00492.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00492.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00492.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00492.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -37,12 +36,12 @@ July 8th<a name="n02.ref"> </a>
       </span>
 
 Dear <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         <a href="http://codyarchive.org/doc/beck.g">George</a>
       </span>
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Mr. Salsbury</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Mr. Salsbury</a>
          </span> has told me of the dirty cowardly act Say I <a rel="tooltip" class="sic" title="don't​ &#xA;    ">dont</a> like to accuse an innocent man— And I have been <a rel="tooltip" class="sic" title="too​ &#xA;    ">to</a> severe on some of my best friends perhaps. So I am trying not to be such a crank. But from this distance if I was going to suspect anyone I <a rel="tooltip" class="sic" title="​ &#xA;    ">wouldnt</a> over look shot gun Bailey.<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> And the Coronet player.<a name="n04.ref"> </a>
          <a href="#n04.note" class="ref">4</a>

@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11446.001.jpg"
+         <a href="800/wfc.nsp11446.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11446.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11446.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11446.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11446.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -21,7 +20,7 @@
       <h3>ACCIDENT AT THE AMERICAN EXHIBITION.</h3>
 
       <p>At the American Exhibition on Wednesday, during the afternoon performance of the "Wild West" show a serious accident occurred to one of the principal characters—<span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/taylor.w">Buck Taylor</a>
+            <a href="http://codyarchive.org/doc/taylor.w">Buck Taylor</a>
          </span>, "the King of the Cowboys." The fourth item of the programme consists of an attack by Indians on an emigrant train, and the repulse of the attack by cowboys, the victory being afterwards celebrated by a Virginian reel<a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a> danced by American girls and cowboys on horseback. It was in the course of the dance, apparently the gentlest and least hazardous of all the feats of Buffalo Bill’s company from the Wild West, that the unfortunate <em class="hi">contretemps</em> occurred. When the reel was half finished Buck Taylor's sombrero suddenly fell off, and its owner was seen to sway to and fro on his horse for a few seconds, and then to fall heavily to the ground, turning a complete back sommersault, and afterwards lying still at full length. The spectators, not unnaturally, took this as a rehearsed effect until music and dancing stopped, and Buffalo Bill and others dismounted, and ran up to the injured man. A surgeon from St. George’s Hospital<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a> happened to be among the spectators, and he at once rendered assistance, and under his direction Buck Taylor was borne from the arena in an improvised litter and at once conveyed to the St. George’s Hospital. From the accounts of the other actors in the event, it seems that Taylor, in reaching over for the hand of his partner during a sort of grand chain, lost for a moment the control of his horse, which swerved and brought him into collision with another rider, the projecting iron cantle of whose saddle struck Taylor's right thighbone just below the hip. The shock rendered Taylor insensible, his hands falling from the reins and his body swaying in a manner that at once attracted the attention of his comrades, although the public noticed nothing until he fell from his horse some thirty or forty paces from the point where the accident occurred. As soon as proper assistance had been rendered, and the injured man had been removed from the arena, the dance was continued and the programme brought to a satisfactory conclusion.</p>

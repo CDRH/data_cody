@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp09941.001.jpg"
+         <a href="800/wfc.nsp09941.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp09941.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp09941.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp09941.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp09941.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -23,7 +22,7 @@
       <h3>THE PAWNEES SURPRISED BY THE SIOUX AND SLAUGHTERED—A MESSAGE SENT BY PRISONERS.</h3>
 
       <p>The Sioux Chief <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/red.shirt">Red Shirt</a>
+            <a href="http://codyarchive.org/doc/red.shirt">Red Shirt</a>
          </span> who is with the Wild West show at the American exhibition in London, has been interviewed. The following are extracts from the report of the interview: "Did you ever see Buffalo Bill until you joined the show?" "Yes, I saw him long ago; but we never spoke until a little while since. All men of the Sioux nation know Buffalo Bill by reputation. The first time I saw him was at the fight at War Barnard Creek,<a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a> when the white men were too many for poor Indians. It was twelve or thirteen years ago; but (and here his bloodshot eyes twinkled ominously) that fight I can see now. Buffalo Bill in the struggle killed Yellow Hand,<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a> a great Indian brave, and took his scalp. I tried to fight my way to the white man to revenge my brother, and although we got very near I could not reach him. Had we met one would have died. But the soldiers were encircling us; five of our men were shot down and we fled. Then we would have killed each other; but now we have the same heart, and we are brothers. Colonel Cody is awful good to me and my people."</p>
@@ -32,11 +31,10 @@
   
   <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.nsp09941.002.jpg"
+            <a href="800/wfc.nsp09941.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp09941.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.nsp09941.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.nsp09941.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.nsp09941.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
   
@@ -44,11 +42,10 @@
   
   <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.nsp09441.003.jpg"
+            <a href="800/wfc.nsp09441.003.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp09441.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.nsp09441.003.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.nsp09441.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.nsp09441.003.jpg" class="display &#xA;            "/>
             </a>
          </span>
   

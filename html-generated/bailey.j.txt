@@ -1,7 +1,6 @@
 <div class="life_item" id="bailey.j">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/bailey.j">Bailey, James Anthony, 1847-1906</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/bailey.j">Bailey, James Anthony, 1847-1906</a>
    </h3>
    <p>
       <div class="note">James A. Bailey (1847-1906) was born James Anthony McGinnes in 1847. As a teenager McGinnes became an assistant to Frederic Augusta Bailey, a nephew of circus pioneer Hachaliah Bailey. McGinnes eventually changed his name to James Anthony Bailey. His business associations included James E. Cooper, manager of the Cooper and Bailey circus, and P. T. Barnum, becoming full partners to establish Barnum and Bailey Circus in 1881, which became Ringling Brothers and Barnum and Bailey Circus in 1919. Under the astute management skills of James A. Bailey, Barnum and Bailey managed Buffalo Bill's Wild West for William F. Cody from 1895 until Bailey's death in 1906. </div>

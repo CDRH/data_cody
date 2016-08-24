@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00454.001.jpg"
+         <a href="800/wfc.css00454.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00454.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00454.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00454.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00454.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -30,24 +29,23 @@ Oct 4th<a name="n01.ref"> </a>
       </span>
 
       <span class="salute">Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+            <a href="http://codyarchive.org/doc/beck.g">Beck</a>
          </span>—</span>
 
 
       <p>I have not been able to write a letter to any one. Since I got near N. Y. then came Baltimore &amp; Washington<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a>. And to day we did not get here until 11 am— had to make parade &amp; just finished first show. I recd your letters— I have just wired <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
+            <a href="http://codyarchive.org/doc/hymer.w">Hymer</a>
          </span> &amp; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+            <a href="http://codyarchive.org/doc/alger.h">Alger</a>
          </span> to send you word <u>quick</u> to make ditch 20 feet wide on bottom. I have written 25 letters at least saying no use to build a little ditch I came near falling dead. &amp; I some some tall cussing when I read your letter about a 15 foot ditch after all the letters I have 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00454.002.jpg"
+            <a href="800/wfc.css00454.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00454.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00454.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00454.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00454.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
 
@@ -72,7 +70,7 @@ written to the contrary. if it <a rel="tooltip" class="sic" title="can't​ &#xA
          <br/>Bill.
 </span>
       <p>Say. I got a letter from <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/heck.t">Heck</a>
+            <a href="http://codyarchive.org/doc/heck.t">Heck</a>
          </span>.</p>
    </div>
 

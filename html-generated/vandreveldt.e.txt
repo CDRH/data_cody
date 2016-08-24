@@ -1,7 +1,6 @@
 <div class="life_item" id="vandreveldt.e">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/vandreveldt.e">Van Dreveldt, Ernest</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/vandreveldt.e">Van Dreveldt, Ernest</a>
    </h3>
    <p>
       <div class="note">Ernest Van Dreveldt was a civil and mining engineer who, along with Charles Hayden and William E. Hymer, platted the original site of Cody City in October 1895. Van Dreveldt became a member of the Denver Society of Civil Engineers &amp; Architects in 1890. At one time Van Dreveldt operated a business as a civil and mining engineer in Chihuahua, Mexico.</div>

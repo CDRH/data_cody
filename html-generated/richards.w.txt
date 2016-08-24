@@ -1,7 +1,6 @@
 <div class="life_item" id="richards.w">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/richards.w">Richards, William Alford, 1849-1912</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/richards.w">Richards, William Alford, 1849-1912</a>
    </h3>
    <p>
       <div class="note">William Alford Richards (1849-1912) served as governor of Wyoming from 1895 to 1899. Shortly after his term as governor ended, Richards was appointed assistant commissioner of the U.S. General Land Office by President William McKinley. In 1903, Richards was elevated to commissioner of the Land Office by President Theodore Roosevelt and served until 1907.</div>

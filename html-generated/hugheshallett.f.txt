@@ -1,7 +1,6 @@
 <div class="life_item" id="hugheshallett.f">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/hugheshallett.f">Hughes-Hallett, Francis 1838-1903</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/hugheshallett.f">Hughes-Hallett, Francis 1838-1903</a>
    </h3>
    <p>
       <div class="note">Francis Charles Hughes-Hallett (1838-1903) was a Royal Artillery officer who was twice elected as a Conservative politician representing Rochester in the British House of Commons from 1885 to 1889. In 1882 Hughes-Hallett married a well-known American heiress, Miss Emilie Page von Schaumberg of Philadelphia. Hughes-Hallett was an active member of the Executive Council for the American Exhibition in London in 1887.</div>

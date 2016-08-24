@@ -1,7 +1,6 @@
 <div class="life_item" id="noneck.j">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/noneck.j">No Neck, Johnny Burke, 1883-1921</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/noneck.j">No Neck, Johnny Burke, 1883-1921</a>
    </h3>
    <p>
       <div class="note">Johnny Burke No Neck (1883-1921) was one of two small children purported to have been orphaned and discovered at the battlefield at Wounded Knee following the annihilation of Big Foot's Band on December 29, 1890; his parents are not known. The small boy was "adopted" by Chief No Neck but widely promoted as being jointly adopted by Major John M. Burke. Johnny Burke No Neck was among the first Indians to appear on film, recorded by Thomas Edison in September 1894 at his studio in West Orange, New Jersey; the film of the Sioux Ghost Dance is the earliest known recording of Indians.  Johnny Burke No Neck traveled with Buffalo Bill's Wild West from 1891 until 1901.</div>

@@ -1,7 +1,6 @@
 <div class="life_item" id="canfield.s">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/canfield.s">Canfield, Sherman D., 1865-1939</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/canfield.s">Canfield, Sherman D., 1865-1939</a>
    </h3>
    <p>
       <div class="note">Sherman D. Canfield (1865-1939), son of Cody's old friend George Canfield of Omaha, was personal representative and confidential secretary to William F. Cody in Europe and America from 1887-1888 and 1890-1903. Canfield was superintendent of the railroad facilities for the Union Stockyards Company in South Omaha, Nebraska, during 1888 through 1890. In 1892 Canfield relocated to Wyoming as one of the proprietors in the W. F. Cody Hotel Company and managed the Sheridan Inn in Sheridan from 1893 to 1896. Cody incorporated the W. F. Cody Hotel Co. in 1894 and purchased the inventory of the Sheridan Inn, making him one third owner with Sherman Canfield who managed both the Inn and the W. F. Cody Transportation Company. </div>

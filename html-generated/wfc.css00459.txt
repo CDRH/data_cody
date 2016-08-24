@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00459.001.jpg"
+         <a href="800/wfc.css00459.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00459.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00459.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00459.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00459.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -33,12 +32,12 @@ Oct. 27th<a name="n02.ref"> </a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+            <a href="http://codyarchive.org/doc/beck.g">George</a>
          </span>
       </span>
 
       <p>Did <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hymer.w">Hymer</a>
+            <a href="http://codyarchive.org/doc/hymer.w">Hymer</a>
          </span> pay the our engineers for the work they done in surveying the Town Site. If he did we <a rel="tooltip" class="sic" title="haven't​ &#xA;    ">havent</a> a leg to stand on. And I would not have lost that Town site for $25000 in cash. Oh why did you not do as I asked you to. that was to take up that land. Hymer now claims it all I would like to know what you propose to do— is he going to beat you at every turn in the game? So far he has got the lead— I am watching waiting to see if you give up the game— or are you going to be as cute as he is— I would do some thing. But there is no other location like the one he has surveyed Why did you give him our Surveyors to survey a Town Site<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> for him self. When we wanted the Town for our selves? I hope you can fix it up. I hate to loose that site— try and let me know soon—</p>
 

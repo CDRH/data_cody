@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11583.001.jpg"
+         <a href="800/wfc.nsp11583.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11583.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11583.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11583.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11583.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -23,7 +22,7 @@
       <span class="byline">By BASIL TOZER ("20-BORE").</span>
 
       <p>A DAY or two ago I called at the Horticultural Exhibition on <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/oakley.a">Miss Annie Oakley</a>
+            <a href="http://codyarchive.org/doc/oakley.a">Miss Annie Oakley</a>
          </span>, who is leaving in a short time for America. At the moment she was engaged, and, while waiting in the comfortably-furnished tent, I found occupation in admiring the artistic arrangement of everything there, from the guns in the corner to the portraits and knick-knacks on the table. Soon my attention was caught by a cheery voice without; and a moment later Miss Oakley was greeting me after the hearty manner of our Transatlantic cousins.</p>
 
       <p>"So you have come at last?" said my hostess, with a charming smile and a frank look. "Pray sit down and make yourself at home. You have been into the Show? Yes? I hope you enjoyed it. Now we will have a cup of tea and a quiet talk, and you can ask me your questions. Interviewers are always full of questions!"</p>
@@ -52,11 +51,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11583.002.jpg"
+         <a href="800/wfc.nsp11583.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11583.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11583.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11583.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11583.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -67,7 +65,7 @@
       <p>"Who named you 'Little Sure-Shot'?" I inquired, while she was showing me her guns and extolling their merits.</p>
 
       <p>"Poor <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/sitting.bull">Sitting Bull</a>
+            <a href="http://codyarchive.org/doc/sitting.bull">Sitting Bull</a>
          </span>—(you remember him?)—the great Sioux chief. He was a true friend to me. 'Watanya Cicilla' was the name he gave me, which means 'Little Sure-Shot.' " I believe the recollection pained her, for she quickly changed the subject. "Look at this little rifle," she said, handing me a miniature weapon by Stephens &amp; Co., of Chicopee Falls, Mass. "That was presented to me by the makers; they call it the 'Sure-Shot' rifle. You shall try it presently. It is wonderfully accurate. I lend it to two little girls whom I am teaching to shoot."</p>
 
       <p>"Are you as fond of shooting game as you are of shooting pigeons and targets?"</p>

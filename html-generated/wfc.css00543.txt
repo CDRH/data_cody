@@ -7,11 +7,10 @@
    <div class="letter">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00543.001.jpg"
+         <a href="800/wfc.css00543.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00543.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00543.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00543.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00543.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -25,19 +24,19 @@
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+            <a href="http://codyarchive.org/doc/beck.g">Beck</a>
          </span>—</span>
 
       <p>Yours received Am glad you can keep the water coming. What have you done with <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+            <a href="http://codyarchive.org/doc/alger.h">Alger</a>
          </span> 
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Salsbury</a>
          </span> says for you as Manager to demand a settlement. tell him to send in his bill for salary— &amp; you refer it to the company. if he <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> do it make him do it by law.</p>
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g">Bleistein</a>
+            <a href="http://codyarchive.org/doc/belistein.g">Bleistein</a>
          </span> will remit I guess at once. Wrote Martin<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a> to pay my water rights assessment. Mrs Wetmore<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> will send her payment on land
@@ -45,11 +44,10 @@
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00543.002.jpg"
+            <a href="800/wfc.css00543.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00543.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00543.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00543.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00543.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
 
@@ -60,7 +58,7 @@
 
 soon. Kelsey<a name="n04.ref"> </a>
          <a href="#n04.note" class="ref">4</a> writes me he has sent maps &amp; report of survey— I presume you have let <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/wiley.s">Wiley</a>
+            <a href="http://codyarchive.org/doc/wiley.s">Wiley</a>
          </span>
          <a name="n05.ref"> </a>
          <a href="#n05.note" class="ref">5</a> use them as agreed.</p>

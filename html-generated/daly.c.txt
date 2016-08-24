@@ -1,7 +1,6 @@
 <div class="life_item" id="daly.c">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/daly.c">Daly, Claude Lorraine</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/daly.c">Daly, Claude Lorraine</a>
    </h3>
    <p>
       <div class="note">Claude Lorraine Daly (also 'Daily'), an expert with a revolver and a champion pistol shot from Pennsylvania, joined Buffalo Bill's Wild West in 1889 at age 25. His promotional material describes him as five feet, ten inches tall ". . . with the biceps of a gladiator . . ." and claimed that he had not participated in any shooting matches in recent years ". . . for the good and sufficient reason that he cannot find an opponent." Daly's life and his promising shooting career ended abruptly in November 1892 when he succumbed to cholera in Brussels, Belgium, following the close of Buffalo Bill's Wild West in London in October.</div>

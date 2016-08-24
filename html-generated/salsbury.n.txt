@@ -1,7 +1,6 @@
 <div class="life_item" id="salsbury.n">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury, Nathan, 1846-1902</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/salsbury.n">Salsbury, Nathan, 1846-1902</a>
    </h3>
    <p>
       <div class="note">Nathan Salsbury (1846-1902) was a veteran of the Civil War who later became an actor and a successful theatrical producer and manager. He joined Cody in 1884 as co-owner of Buffalo Bill's Wild West. His show business skills contributed greatly to the venture's success until his death in 1902.</div>

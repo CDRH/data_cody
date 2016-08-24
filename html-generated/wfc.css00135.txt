@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00135.001.jpg"
+         <a href="800/wfc.css00135.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00135.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00135.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00135.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00135.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">Buffalo Bill's Wild West</div>
@@ -24,7 +23,7 @@ Aug. 21st 1902<a name="n01.ref"> </a>
       </span>
 
       <span class="salute">My. Dear Mr <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/">Woods</a>
+            <a href="http://codyarchive.org/doc/">Woods</a>
          </span>
       </span>
 
@@ -43,11 +42,10 @@ Aug. 21st 1902<a name="n01.ref"> </a>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00135.002.jpg"
+         <a href="800/wfc.css00135.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00135.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00135.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00135.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00135.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -61,11 +59,10 @@ Aug. 21st 1902<a name="n01.ref"> </a>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00135.003.jpg"
+         <a href="800/wfc.css00135.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00135.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00135.003.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00135.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00135.003.jpg" class="display &#xA;            "/>
          </a>
       </span>
 

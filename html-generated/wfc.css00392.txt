@@ -7,11 +7,10 @@
    <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00392.001.jpg"
+         <a href="800/wfc.css00392.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00392.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00392.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00392.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00392.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">Western Union Night Letter<br/>Western Union Telegraph and Cable<br/>Theo. N. Vail, President<br/>Form 2289 B<br/>Received At </div>
@@ -32,14 +31,14 @@
 
       <span class="salute">
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/tait.j">John Tait</a>
+            <a href="http://codyarchive.org/doc/tait.j">John Tait</a>
          </span>
       </span>
 
 
       <p>Agent Buffalo Bill Albany Hotel Denver Colo</p>
       <p>I will arrive Denver on Union Pacific Wednesday evening nine <a rel="tooltip" class="sic" title="o'clock​ &#xA;    ">oclock</a> tell <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/tammen.h">Tammen</a>
+            <a href="http://codyarchive.org/doc/tammen.h">Tammen</a>
          </span> and Gouch.</p>
 
       <span class="closer">
@@ -55,11 +54,10 @@
    <div class="envelope">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00392.002.jpg"
+         <a href="800/wfc.css00392.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00392.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00392.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00392.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00392.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="note">

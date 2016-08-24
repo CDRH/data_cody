@@ -3,7 +3,7 @@
    <doc>
       <field name="id">wfc.img.2.58</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">The Victor</field>
       <field name="author">Cross, Henry H., 1837-1918</field>
       <field name="date">1878</field>
@@ -18,7 +18,7 @@
    <doc>
       <field name="id">wfc.img.3.64</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">In the Studio</field>
       <field name="author">Cooper, Astley D. M. (Astley David Middleton), 1856 - 1924</field>
       <field name="date">1902</field>
@@ -33,7 +33,7 @@
    <doc>
       <field name="id">wfc.img.4.64</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">Relics of the Past</field>
       <field name="author">Cooper, Astley D. M. (Astley David Middleton), 1856 - 1924</field>
       <field name="date">1903</field>
@@ -50,7 +50,7 @@
    <doc>
       <field name="id">wfc.img.5.64</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">Viewing the Curios</field>
       <field name="author">Cooper, Astley D. M. (Astley David Middleton), 1856 - 1924</field>
       <field name="date">1909</field>
@@ -67,7 +67,7 @@
    <doc>
       <field name="id">wfc.img.8.66</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">William F. Cody</field>
       <field name="author">Bonheur, Rosa, 1822-1899</field>
       <field name="date">1889</field>
@@ -82,7 +82,7 @@
    <doc>
       <field name="id">wfc.img.12.64</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">Pahaska Hunting Party</field>
       <field name="author">Elwell, Robert Farrington, 1874-1962</field>
       <field name="date">1904</field>
@@ -99,7 +99,7 @@
    <doc>
       <field name="id">wfc.img.14.64</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">Conquest of the Prairie</field>
       <field name="author">Bacon, Irving R.</field>
       <field name="date">1908</field>
@@ -115,7 +115,7 @@
    <doc>
       <field name="id">wfc.img.15.64</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">The Life I Love</field>
       <field name="author">Bacon, Irving R.</field>
       <field name="date">1902</field>
@@ -131,7 +131,7 @@
    <doc>
       <field name="id">wfc.img.17.64</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">The White Captive</field>
       <field name="author">Cooper, Astley D. M. (Astley David Middleton), 1856 - 1924r</field>
       <field name="date">1902</field>
@@ -145,7 +145,7 @@
    <doc>
       <field name="id">wfc.img.23.71</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">Buffalo Bill in the Limelight</field>
       <field name="author">Remington, Frederic, 1861-1909</field>
       <field name="date">1899</field>
@@ -161,7 +161,7 @@
    <doc>
       <field name="id">wfc.img.38.67</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">Shoshonie</field>
       <field name="author">Remington, Frederic, 1861-1909</field>
       <field name="date">1908</field>
@@ -176,7 +176,7 @@
    <doc>
       <field name="id">wfc.img.86.69</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">Buffalo Bill in Pursuit</field>
       <field name="author">Bacon, Irving R.</field>
       <field name="date">1901</field>
@@ -191,7 +191,7 @@
    <doc>
       <field name="id">wfc.img.121.67</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">First Scalp for Custer</field>
       <field name="author">Lindneux, Robert Ottokar, 1871-1970</field>
       <field name="date">1928</field>
@@ -207,7 +207,7 @@
    <doc>
       <field name="id">wfc.img.L.21.99.2</field>
       <field name="category">Images</field>
-      <field name="subCategory">visual art</field>
+      <field name="subCategory">visual_art</field>
       <field name="titleMain">The Killing of Yellow Hand</field>
       <field name="author">Bacon, Irving R.</field>
       <field name="date">1906</field>

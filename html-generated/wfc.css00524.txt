@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00524.001.jpg"
+         <a href="800/wfc.css00524.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00524.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00524.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00524.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00524.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -27,23 +26,22 @@ July 19<a name="n02.ref"> </a>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Beck</a>
+            <a href="http://codyarchive.org/doc/beck.g">Beck</a>
          </span>
       </span>
 
       <p>Yours recd— Now if Forbs<a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> 
          <a rel="tooltip" class="sic" title="won't​ &#xA;    ">wont</a> put up— Nor <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/belistein.g">Bleistein</a>
+            <a href="http://codyarchive.org/doc/belistein.g">Bleistein</a>
          </span> &amp; others— the mill will have to go over another year. I <a rel="tooltip" class="sic" title="can't​ &#xA;    ">cant</a> build it Alone— The timber might be sawed for it. For the mill will have to be built Sooner or later— And the mill lumber will keep— And we will have it ready— If Bleistein wires me he can raise two or three thousand allright. But it must be a steam and water mill combined what will it cost to add
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00524.002.jpg"
+            <a href="800/wfc.css00524.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00524.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00524.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00524.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00524.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
 
@@ -73,9 +71,9 @@ steam? How much did Jones<a name="n04.ref"> </a>
       </p>
       <p>
          <a name="n03.note"> </a>Note 3: "Forbs" is Forbes, who oversaw the construction of the Cody Trading Company. When the building was completed Forbes was replaced by <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j">Jacob M. "Jake" Schwoob</a>
+            <a href="http://codyarchive.org/doc/swoob.j">Jacob M. "Jake" Schwoob</a>
          </span> who had been manager of the Iroquois Hotel in Buffalo, New York, which was owned by <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">Henry M. Gerrans</a>
+            <a href="http://codyarchive.org/doc/gerrans.h">Henry M. Gerrans</a>
          </span>.<a href="#n03.ref"> [back]</a>
       </p>
       <p>

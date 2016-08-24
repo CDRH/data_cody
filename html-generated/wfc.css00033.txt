@@ -6,11 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/800/wfc.css00033.001.jpg"
+      <a href="800/wfc.css00033.001.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00033.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/250/wfc.css00033.001.jpg"
-              class="display &#xA;            "/>
+         title="&lt;a href=&#34;800/wfc.css00033.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="250/wfc.css00033.001.jpg" class="display &#xA;            "/>
       </a>
    </span>
 
@@ -41,11 +40,10 @@ My Very Dear Friends</span>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00033.002.jpg"
+         <a href="800/wfc.css00033.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00033.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00033.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00033.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00033.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -64,7 +62,7 @@ My Very Dear Friends</span>
       </p>
       <p>
          <a name="n02.note"> </a>Note 2: <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/elwell.r">Robert Farrington Elwell</a>
+            <a href="http://codyarchive.org/doc/elwell.r">Robert Farrington Elwell</a>
          </span> (1874-1962) and his wife, Mary Ellen (Taylor) Elwell.<a href="#n02.ref"> [back]</a>
       </p>
       <p>

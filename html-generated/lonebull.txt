@@ -1,7 +1,6 @@
 <div class="life_item" id="lonebull">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/lonebull">Lone Bull</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/lonebull">Lone Bull</a>
    </h3>
    <p>
       <div class="note">Lone Bull or One Bull, <em class="hi">Tatanka Winjila,</em> a Brulé Sioux born about 1855, was among those Indians who were imprisoned in Fort Sheridan, Illinois, following the Wounded Knee Massacre of December 1890.  Nearly all the incarcerated Indians, including Lone Bull, were recruited by Buffalo Bill's Wild West to perform in France, Germany, Belgium, England, Scotland, and Wales in 1891-92. Lone Bull was one of four principal chiefs in Buffalo Bill's Wild West during the second European tour.</div>

@@ -1,7 +1,6 @@
 <div class="life_item" id="brennan.j">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/brennan.j">Brennan, John R., 1847-1919</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/brennan.j">Brennan, John R., 1847-1919</a>
    </h3>
    <p>
       <div class="note">John R. Brennan (c. 1847-1919), a prominent South Dakota businessman who had been one of the founders of Rapid City, became U.S. Indian agent for the Pine Ridge reservation on November 1, 1900, and remained in charge at Pine Ridge until July 1, 1917. In correspondence, Cody often addressed Brennan as "Major," a courtesy title commonly used at the time for those Indian agents who (like Brennan) were not actual army officers.</div>

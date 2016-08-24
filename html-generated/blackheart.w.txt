@@ -1,7 +1,6 @@
 <div class="life_item" id="blackheart.w">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/blackheart.w">Black Heart</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/blackheart.w">Black Heart</a>
    </h3>
    <p>
       <div class="note">Black Heart (William Black Heart), or <em class="hi">Cante Sapa</em> (born 1855), was an Oglala Lakota veteran of the 1887 visit to London. Black Heart was one who spoke out strongly in defense of Cody's treatment of his Indian performers during the 1891-92 controversy which almost led to the prohibition of the recruitment of Indians for the Wild West shows.  On August 8, 1891, Black Heart married Calls-the-Name (Calls-Her-Name) in St. Bride's in Stretford, England. Black Heart remained with Buffalo Bill's Wild West until 1905 or possibly later.</div>

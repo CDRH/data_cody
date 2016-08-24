@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00477.001.jpg"
+         <a href="800/wfc.css00477.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00477.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00477.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00477.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00477.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -38,7 +37,7 @@ May 5<u>th</u>
       </span>
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+            <a href="http://codyarchive.org/doc/beck.g">George</a>
          </span>—</span>
 
       <p>God Bless the stenographer<a name="n03.ref"> </a>
@@ -49,18 +48,17 @@ May 5<u>th</u>
          <a name="n06.ref"> </a>
          <a href="#n06.note" class="ref">6</a> at work— And how it <a rel="tooltip" class="sic" title="moves​ &#xA;    ">mooves</a> that soil I would like to know that they have been tried before I have to <u>pay</u> for them— besides they are drawing interest— <a rel="tooltip" class="sic" title="Also​ &#xA;    ">Allso</a> would like to know something about expenses for April and an estimate to finish up 25000 acres— You did not mention a word about <u>
             <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/mead.e">Mead</a>
+               <a href="http://codyarchive.org/doc/mead.e">Mead</a>
             </span>
          </u>— The vital points that
 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00477.002.jpg"
+            <a href="800/wfc.css00477.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00477.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00477.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00477.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00477.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
 
@@ -82,7 +80,7 @@ I want to know you omit.</p>
 
       <p>
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+            <a href="http://codyarchive.org/doc/alger.h">Alger</a>
          </span> drew on me for $3000 which I paid— I will have to hustle for money for May 10<u>th</u> All other members discouraged— they have been fooled in getting water to Sulphur Creek— And the money goes out— What are you going to do with Bill<a name="n07.ref"> </a>
          <a href="#n07.note" class="ref">7</a> &amp; three carpenters? George we are all getting awfully discouraged Something wrong there— Men and teams are not worked to advantage— Too many leaks— </p>
 

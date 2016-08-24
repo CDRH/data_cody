@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp00774.001.jpg"
+         <a href="800/wfc.nsp00774.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00774.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp00774.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp00774.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp00774.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <h3>
@@ -21,9 +20,9 @@
       <div class="milestone line"> </div>
 
       <p>Buffalo Bill has captured England. He has taken to that country a number of Indians, whom he claims are chiefs at home, and a number of cowboys, genuine or assumed, and has opened the "Greatest Show on Earth." The <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen</a>
+            <a href="http://codyarchive.org/doc/victoria.q">Queen</a>
          </span> has been to see the show. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gladstone.w">Gladstone</a>
+            <a href="http://codyarchive.org/doc/gladstone.w">Gladstone</a>
          </span> has been to see it. Many people belonging to the aristocracy have been to see it. It has captivated the Englishman. He studies the life and manners of the Americans at the Hon. Bill Cody's exhibition. It is worth seeing. The best features of it have been exhibited in San Francisco. The show drew tolerably well. But it did not create much of a sensation. The cowboys are not far off. A great many people on this side of the country have seen them. They have seen, also, the Indian in his wild state. There are hundreds of people here, if not thousands, who know the Apache. They have seen him, have come in remote or near contact with him. They know that he is a low-lived, skulking coward, without one redeeming feature in his constitution. They do not care much for Buffalo Bill's show, because they have had a touch of the more realistic one. The man who has lost his scalp-lock, or who carries the wound of an arrow or a bullet made by an Apache, does not care for any artificial representation of this feature of savage life.</p>
 
       <p>Buffalo Bill is supposed to represent the most conspicuous feature of American life abroad. At least this is inferred from the remarks of distinguished and aaristocratic patrons of his show. The Queen was immensely tickled. Gladstone was pleased. Here was the ideal of life in the United States as entertained by the genuine Briton. It is a savage country. A majority of the people have tawny skins. Scalps are taken by way of diversion, and so Buffalo Bill enlightens the English people on American life and manners. The Queen is enlightened. Gladstone is enlightened. The Hon. Cody rakes in the sheckles while he gives his illustrations of American life. There are the Indians, who can give the war whoop in all its thrilling and savage wildness. The Indians creep up on the settler's cabin. They climb up on the roof. They capture the women, who are engaged in domestic duties. They flee with their captives: just then the brave cowboys appear on the scene. They follow up the Indians, lasso them, shoot them, recover the captives and so on. Then there is much hard riding on broncos. Wild oxen are lassoed, thrown down, tied up and liberated again in a few moments. In short Buffalo Bill has taken England. All this goes to confirm the English idea that America is a half-savage country, that it has a savage, riotous and barbarous people. The Indian is the only genuine American, the man who has the flavor of the soil about him. This wild life is so free from social laws and conventionalism that the Briton enjoys it immensely. Buffalo Bill has struck a bonanza. He is making a fortune out of his show.</p>

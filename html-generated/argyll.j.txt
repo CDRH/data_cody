@@ -1,7 +1,6 @@
 <div class="life_item" id="argyll.j">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/argyll.j">Argyll, John Douglas Sutherland Campbell, Duke of, 1845-1914</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/argyll.j">Argyll, John Douglas Sutherland Campbell, Duke of, 1845-1914</a>
    </h3>
    <p>
       <div class="note">John George Edward Henry Douglas Sutherland Campbell (1845-1914), 9th Duke of Argyll, was also known by the title of Marquis of Lorne from 1847 to 1900. In 1871 he married Princess Louise Caroline Alberta, daughter of Queen Victoria and Prince Albert, at St. George's Chapel in Windsor Castle.</div>

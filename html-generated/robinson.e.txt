@@ -1,7 +1,6 @@
 <div class="life_item" id="robinson.e">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/robinson.e">Robinson, Emma Lake Thatcher</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/robinson.e">Robinson, Emma Lake Thatcher</a>
    </h3>
    <p>
       <div class="note">Emma Lake Thatcher Robinson (1856-1911), the daughter of famous equestrians and circus proprietors William "Bill Lake" Thatcher (~1810-1869) and "Agnes Lake" Thatcher (1826-1907), became an expert rider at an early age. She gained popularity in the circus world and was soon billed as "the most fearless and dashing horsewoman on earth." Emma Lake Thatcher married fellow circus performer Gilbert Robinson (1845-1928) in 1875 and continued to perform as Emma Lake. In 1876 Emma became step-daughter to James Butler “Wild Bill” Hickok (1837-1876) when her mother married Hickok a few months before his death. Under the show name Emma Lake Hickok, she performed with Buffalo Bill's Wild West in England during 1887-88. Given almost imperceptible cues by their riders, her horses, trained in the style of the Spanish Riding School, jumped to music, stood on hind legs, and bowed to the audience. Emma Lake Thatcher Robinson died in 1911 of injuries sustained from a severe riding accident.</div>

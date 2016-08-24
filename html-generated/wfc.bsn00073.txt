@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.bsn00073.jpg"
+         <a href="800/wfc.bsn00073.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.bsn00073.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.bsn00073.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.bsn00073.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.bsn00073.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -118,16 +117,16 @@ DECEMBER 31, 1914</h3>
 
       <ul>
          <li>President, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+               <a href="http://codyarchive.org/doc/rumsey.b">Bronson Rumsey</a>
             </span>, Buffalo, N. Y.</li>
          <li>Vice-President, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Geo Bleistein</a>
+               <a href="http://codyarchive.org/doc/bleistein.g">Geo Bleistein</a>
             </span>, Buffalo, N. Y.</li>
          <li>Secretary, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/gerrans.h">H. M. Gerrans</a>
+               <a href="http://codyarchive.org/doc/gerrans.h">H. M. Gerrans</a>
             </span>, Buffalo, N. Y.</li>
          <li>Manager, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/swoob.j">J. M. Schwoob</a>
+               <a href="http://codyarchive.org/doc/swoob.j">J. M. Schwoob</a>
             </span>, Cody, Wyoming.</li>
       </ul>
 

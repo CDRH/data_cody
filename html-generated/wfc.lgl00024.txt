@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.lgl00024.001.jpg"
+         <a href="800/wfc.lgl00024.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00024.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.lgl00024.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.lgl00024.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.lgl00024.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -35,7 +34,7 @@
 
          <em class="hi">a Corporation duly organized and existing under the laws of the State of Nebraska, hereby</em>
 Quit-Claims to <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Bronson Rumsey</a>
+            <a href="http://codyarchive.org/doc/rumsey.b">Bronson Rumsey</a>
          </span>, <em class="hi">all of its right, title, and interest in and to the following described real estate, situate in the County of</em> Big Horn <em class="hi">and State of</em> Wyoming, <em class="hi">to-wit:</em>
       </span>
 
@@ -85,11 +84,10 @@ Lancaster <em class="hi">County /SS.
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/800/wfc.lgl00024.002.jpg"
+      <a href="800/wfc.lgl00024.002.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.lgl00024.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/250/wfc.lgl00024.002.jpg"
-              class="display &#xA;            "/>
+         title="&lt;a href=&#34;800/wfc.lgl00024.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="250/wfc.lgl00024.002.jpg" class="display &#xA;            "/>
       </a>
    </span>
 

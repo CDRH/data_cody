@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00495.001.jpg"
+         <a href="800/wfc.css00495.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00495.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00495.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00495.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00495.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -36,20 +35,20 @@ Aug. 11th / 96</span>
 
 
 My Dear <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+         <a href="http://codyarchive.org/doc/beck.g">George</a>
       </span>—
 
 <p>What about a name for the Town.<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a> That you are going to have for the County Seat? I hear you have made a trip through the county <a rel="tooltip" class="sic" title="what's​ &#xA;    ">whats</a> the prospects for the seat? I have been <a rel="tooltip" class="sic" title="urging​ &#xA;    ">urgeing</a> 
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/bleistein.g">Bleiystein</a>
+            <a href="http://codyarchive.org/doc/bleistein.g">Bleiystein</a>
          </span> 
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Salsbury</a>
          </span>. <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+            <a href="http://codyarchive.org/doc/rumsey.b">Rumsey</a>
          </span> on the <u>bond</u> business they meet in New York tomorrow. I signed the Bonds &amp; sent to <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">Alger</a>
+            <a href="http://codyarchive.org/doc/alger.h">Alger</a>
          </span> &amp; your signature I hope you hurried them through—</p>
 
       <p>Say George did you get my letter about giving Trego<a name="n03.ref"> </a>

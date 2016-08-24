@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp11440.001.jpg"
+         <a href="800/wfc.nsp11440.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp11440.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp11440.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp11440.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp11440.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -20,9 +19,9 @@
 
       <p>The American Exhibition was opened yesterday afternoon, at West Brompton, with Republican simplicity. Being an enterprise entirely due to private initiative and effort, no representative of the State, drawn either from the Royal family or the Government, was committed to official approval of it by taking a leading part in the opening. There had indeed been some doubt entertained as to whether this bold invasion of the British market by the American manufacturers and producers would be altogether welcome, and this and other considerations dictated an unofficial and modest inauguration. A few thousand people gathered in the main exhibition in front of a platform. On this were assembled the principal organisers of the enterprise, headed by Colonel Henry Russell<a name="n01.ref"> </a>
          <a href="#n01.note" class="ref">1</a> and <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. John R. Whitley</a>
+            <a href="http://codyarchive.org/doc/whitley.j">Mr. John R. Whitley</a>
          </span>, and the chief members of the Council of Welcome, headed by <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/gower.r">Lord Ronald Gower</a>
+            <a href="http://codyarchive.org/doc/gower.r">Lord Ronald Gower</a>
          </span> and Cardinal Manning. "Hail Columbia," by the Grenadier Guards Band, gave the keynote to the proceedings. A prayer by Archdeacon Farrar<a name="n02.ref"> </a>
          <a href="#n02.note" class="ref">2</a> for God's blessing on the undertaking followed, and then "God Save the Queen" was performed by the band.</p>
 	

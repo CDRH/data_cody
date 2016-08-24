@@ -1245,7 +1245,7 @@
       <field name="category">Images</field>
       <field name="subCategory">photographs</field>
       <field name="titleMain">Native American man in full regalia</field>
-      <field name="author">Campbell, Robert, 1804-1879</field>
+      <field name="author">Robert, C.</field>
       <field name="date">circa 1905</field>
       <field name="dateSearch">1905</field>
       <field name="year">1905</field>
@@ -2196,30 +2196,6 @@
       <field name="text">William Ghost Bear and Jas. [James?] Good Lance standing in grass in front of Wild
    West show tent wearing quillwork vests.  Hand printed at
    bottom, "Jas. Good Lance, Wm. Ghost Bear."</field>
-   </doc>
-   <doc>
-      <field name="id">PN.312.2</field>
-      <field name="category">Images</field>
-      <field name="subCategory">photographs</field>
-      <field name="titleMain">Willie Picket Pin</field>
-      <field name="author">unknown</field>
-      <field name="date">1911</field>
-      <field name="dateSearch">1911</field>
-      <field name="year">1911</field>
-      <field name="dateSort">1911 zzz</field>
-      <field name="keywords">American Indians</field>
-      <field name="keywords">Hides &amp; skins</field>
-      <field name="keywords">Headgear</field>
-      <field name="keywords">Buffalo Bill, 1846-1917</field>
-      <field name="keywords">Pawnee Bill, 1860-1942</field>
-      <field name="keywords">Buffalo Bill's Wild West and Pawnee Bill's Great Far East (Show)</field>
-      <field name="keywords">Indian beadwork</field>
-      <field name="keywords">Portraits</field>
-      <field name="keywords">Tipis</field>
-      <field name="imageID">PN.312.2</field>
-      <field name="text">Willie Picket Pin in war bonnet, hide vest, and jewelry, sitting in front of tipi
-   at Wild West show; in background a man naps on the ground. 
-   Hand printed at top of image, "Willie Picket Pin, 1911."</field>
    </doc>
    <doc>
       <field name="id">P.69.1505</field>
@@ -3593,7 +3569,7 @@
       <field name="category">Images</field>
       <field name="subCategory">photographs</field>
       <field name="titleMain">Sitting Bull and William F. Cody</field>
-      <field name="author">unknown</field>
+      <field name="author">Barry, D. F. (David Francis), 1854-1934</field>
       <field name="date">circa 1885</field>
       <field name="dateSearch">1885</field>
       <field name="year">1885</field>
@@ -3612,7 +3588,7 @@
       <field name="id">P.6.264</field>
       <field name="category">Images</field>
       <field name="subCategory">photographs</field>
-      <field name="titleMain">William F. Cody and unidentified man on hunting trip</field>
+      <field name="titleMain">William F. Cody and David Franklin Powell on hunting trip</field>
       <field name="author">unknown</field>
       <field name="date">circa 1910</field>
       <field name="dateSearch">1910</field>
@@ -3623,6 +3599,7 @@
       <field name="keywords">Tipis</field>
       <field name="keywords">Hunting</field>
       <field name="keywords">Cody, William F. (William Frederick), 1846-1917</field>
+      <field name="keywords">Powell, David Franklin, 1847-1906</field>
       <field name="keywords">Hunting</field>
       <field name="keywords">Hunters</field>
       <field name="imageID">P.6.264</field>
@@ -4181,7 +4158,7 @@
       <field name="keywords">Cody, William F. (William Frederick), 1846-1917</field>
       <field name="keywords">Buffalo Bill, 1846-1917</field>
       <field name="imageID">P.69.746</field>
-      <field name="text">William F. Cody wearing suite and tie with white shirt.</field>
+      <field name="text">William F. Cody wearing suit and tie with white shirt.</field>
    </doc>
    <doc>
       <field name="id">P.69.750</field>
@@ -4402,25 +4379,6 @@
       <field name="keywords">Cody, William F. (William Frederick), 1846-1917</field>
       <field name="imageID">P.69.953</field>
       <field name="text">William F. Cody, dressed in hat, dark shirt emboidered with flowers, knee boots, and light pants, sits in chair in wooded setting in front of his personal tent with raised wood floor and raised canvas sides at Buffalo Bill's Wild West.</field>
-   </doc>
-   <doc>
-      <field name="id">P.69.1079</field>
-      <field name="category">Images</field>
-      <field name="subCategory">photographs</field>
-      <field name="titleMain">William F. Cody</field>
-      <field name="author">unknown</field>
-      <field name="date">1909</field>
-      <field name="dateSearch">1909</field>
-      <field name="year">1909</field>
-      <field name="dateSort">1909 zzz</field>
-      <field name="keywords">Portraits</field>
-      <field name="keywords">Firearms</field>
-      <field name="keywords">Hats</field>
-      <field name="keywords">Boots</field>
-      <field name="keywords">Cody, William F. (William Frederick), 1846-1917</field>
-      <field name="keywords">Buffalo Bill, 1846-1917</field>
-      <field name="imageID">P.69.1079</field>
-      <field name="text">William F. Cody standing wearing hat, beaded fringed, buckskin jacket, thigh high boots and leaning on rifle. Hand written note on front of photograph reads, "To My Children, Fred &amp; Irma, Father, W.F. Cody, Buffalo Bill 1909."</field>
    </doc>
    <doc>
       <field name="id">P.69.1079</field>

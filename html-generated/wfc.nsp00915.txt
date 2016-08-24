@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp00915.001.jpg"
+         <a href="800/wfc.nsp00915.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00915.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp00915.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp00915.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp00915.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -34,12 +33,12 @@
          <a href="#n03.note" class="ref">3</a> great spreading antlers hung with specimens of cowboy wearing apparel; moccassins, papoose cases, etc.</p>
 
       <p>In all this, perhaps, there is nothing very extraordinary; but this is not the extraordinary part of the tent. Let us pass back into the sanctum sanctorum—the bedroom. Here the appearance is very different. Instead of shaggy skins we find <div class="center">A BED COVERED WITH THE RICHEST LACE,</div>and rude buckskin is supplanted by the most skillful work of a fashionable tailor. Hot and cold water, luxurious furniture, fine pictures—in fact, a first-class hotel could hardly offer more in the way of comfort and elegance than Buffalo Bill's sleeping apartment. The dressing-table the other morning was piled up with scented invitations, stamped with armorial bearings, requesting the pleasure of Mr. Buffalo Bill's company at various receptions, dinners, balls, etc. The mantel-piece was decorated with photographs of the <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/victoria.q">Queen</a>
+            <a href="http://codyarchive.org/doc/victoria.q">Queen</a>
          </span>, of the Prince and Princess of Wales, of Mrs. Brown Potter,<a name="n04.ref"> </a>
          <a href="#n04.note" class="ref">4</a> of Miss Grace Hawthorne,<a name="n05.ref"> </a>
          <a href="#n05.note" class="ref">5</a> of Miss Ellen Terry,<a name="n06.ref"> </a>
          <a href="#n06.note" class="ref">6</a> and of <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/irving.h">Henry Irving</a>
+            <a href="http://codyarchive.org/doc/irving.h">Henry Irving</a>
          </span>, etc., and all with "the kindest regards" of these distinguished personages.</p>
 
       <p>"Why," said the boy who was showing me about, "there is not a day that passes without our having ladies and gentlemen of the nobility here. This morning, for instance, I showed the Duchess of Teck<a name="n07.ref"> </a>

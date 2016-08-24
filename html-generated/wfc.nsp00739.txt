@@ -6,11 +6,10 @@
 
    <span class="hr"> </span>
    <span class="pageimage">
-      <a href="http://codyarchive.org/figures/800/wfc.nsp00739.001.jpg"
+      <a href="800/wfc.nsp00739.001.jpg"
          rel="prettyPhoto[pp_gal]"
-         title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00739.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-         <img src="http://codyarchive.org/figures/250/wfc.nsp00739.001.jpg"
-              class="display &#xA;            "/>
+         title="&lt;a href=&#34;800/wfc.nsp00739.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+         <img src="250/wfc.nsp00739.001.jpg" class="display &#xA;            "/>
       </a>
    </span>
 
@@ -48,18 +47,17 @@
          <p>Why?</p>
 
          <p>Because, to have let it be generally known when and where they were to arrive would have been to gather from the 5,000,000 of inhabitants of London a mob of excited and curious people that would have been beyond control. That Buffalo Bill's entry into London was a quiet one is solely due to the fact that to have given him any reception of a public character would have involved such a risk to be present that it would have made it a matter presenting too serious difficulties for it to be considered for a moment. When, therefore, it was telegraphed that the State of Nebraska was due at Gravesend at 3 o'clock, about a score of gentlemen connected with the American Exhibition were marshaled by the Director General, <span class="persName">
-               <a href="http://rosie.unl.edu/cody_archive/doc/whitley.j">Mr. John R. Whitley</a>
+               <a href="http://codyarchive.org/doc/whitley.j">Mr. John R. Whitley</a>
             </span>,<a name="n02.ref"> </a>
             <a href="#n02.note" class="ref">2</a> to Victoria station, where they were put on board a special tug, and in an hour arrived at Gravesend. Here a steam tug was in waiting at the pier, and the steamship had just come to anchor in the stream.</p>
       </div>
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.nsp00739.002.jpg"
+         <a href="800/wfc.nsp00739.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.nsp00739.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.nsp00739.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.nsp00739.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.nsp00739.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
 

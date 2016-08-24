@@ -1,7 +1,6 @@
 <div class="life_item" id="ingraham.p">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/ingraham.p">Ingraham, Prentiss, 1843-1904</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/ingraham.p">Ingraham, Prentiss, 1843-1904</a>
    </h3>
    <p>
       <div class="note">Prentiss Ingraham (1843-1904) was born near Natchez, Mississippi, and served in the Confederate army during the Civil War.  He spent much of the five years after the Civil War as a soldier of fortune.  Ingraham began his writing career about 1870, becoming an incredibly prolific author of dime novels, stage plays, and short stories.  By his own estimate, Ingraham had written over six hundred novels and stories by 1900. He wrote over one hundred Buffalo Bill stories and dime novels under his own name and several pseudonyms.  He is believed to be the actual author of a number of dime novels signed by Buffalo Bill, and some of his stage plays were performed by the Buffalo Bill Combination in the 1870s and 1880s.</div>

@@ -7,11 +7,10 @@
    <div class="telegram">
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00587.jpg"
+         <a href="800/wfc.css00587.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00587.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00587.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00587.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00587.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -25,7 +24,7 @@
 
 
       <span class="persName">
-         <a href="http://rosie.unl.edu/cody_archive/doc/alger.h">H. C. Alger</a>
+         <a href="http://codyarchive.org/doc/alger.h">H. C. Alger</a>
       </span> Esq<a name="n02.ref"> </a>
       <a href="#n02.note" class="ref">2</a>
 Sheridan Wyo.
@@ -35,7 +34,7 @@ Sheridan Wyo.
 
 
       <p>At a meeting of the Board of Directors of the Shoshone Irrigation Co held April 1st 1902 at the Hoffman House, City of New York, <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">Mr. George T. Beck</a>
+            <a href="http://codyarchive.org/doc/beck.g">Mr. George T. Beck</a>
          </span> was elected Treasurer of the Company for the next ensuing year. We therefore request you as former Treasurer to deliver to Mr. Beck, all books records papers, contracts monies and other property of the company in your possession.</p>
 
 

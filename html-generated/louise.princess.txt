@@ -1,7 +1,6 @@
 <div class="life_item" id="louise.princess">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/louise.princess">Louise, Princess, Duchess of Argyll, 1848-1939</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/louise.princess">Louise, Princess, Duchess of Argyll, 1848-1939</a>
    </h3>
    <p>
       <div class="note">Princess Louise Caroline Alberta (1848-1939), Duchess of Argyll, was the fourth daughter and sixth child of Queen Victoria and Prince Albert; she was a gifted sculptor and a dedicated advocate of many issues including the education of women.  In 1871 she married John George Edward Henry Douglas Sutherland Campbell (1845-1914), the 9th Duke of Argyll and Marquis of Lorne.</div>

@@ -8,11 +8,10 @@
 
       <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.css00475.001.jpg"
+         <a href="800/wfc.css00475.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00475.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.css00475.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.css00475.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.css00475.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
 
@@ -42,31 +41,30 @@ Apr 28<u>th</u>
 
 
       <span class="salute">My Dear <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/beck.g">George</a>
+            <a href="http://codyarchive.org/doc/beck.g">George</a>
          </span>
       </span>
 
       <p>Yours from Billings to hand. I <del>fs</del> have just sent your letter on to <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/salsbury.n">Salsbury</a>
+            <a href="http://codyarchive.org/doc/salsbury.n">Salsbury</a>
          </span> and for him to send on the 5000. but I hardly know how we are going to raise the rest to pay off 10<u>th</u> of May pay roll— and no <u>water to Sulphur creek</u>
          <a name="n03.ref"> </a>
          <a href="#n03.note" class="ref">3</a> George things are being done there badly or the water would be in Sulphur Creek now. The Management<a name="n04.ref"> </a>
          <a href="#n04.note" class="ref">4</a> is <a rel="tooltip" class="sic" title="certainly​ &#xA;    ">ceartainly</a> Bad there is a great leak some place. I have no idea what the 10<u>th</u> of May pay roll will amount to— I can hear nothing direct from any one— I wrote Flood<a name="n05.ref"> </a>
          <a href="#n05.note" class="ref">5</a> &amp; <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/hayden.c">Hayde</a>
+            <a href="http://codyarchive.org/doc/hayden.c">Hayde</a>
          </span>n to let me know but they have not— I have about given up all hope of water ever getting to Sulphur Creek— or whether the Graders ever got there— And yet <a rel="tooltip" class="sic" title="although​ &#xA;    ">allthough</a> 
          <span class="persName">
-            <a href="http://rosie.unl.edu/cody_archive/doc/rumsey.b">Rumsey</a>
+            <a href="http://codyarchive.org/doc/rumsey.b">Rumsey</a>
          </span> Says this is not a one man company I have to <a rel="tooltip" class="sic" title="personally​ &#xA;    ">personaly</a> endorse for everything and I get the blame for everything— and
 
 
 <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.css00475.002.jpg"
+            <a href="800/wfc.css00475.002.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.css00475.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.css00475.002.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.css00475.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.css00475.002.jpg" class="display &#xA;            "/>
             </a>
          </span>
 

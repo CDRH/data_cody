@@ -1,7 +1,6 @@
 <div class="life_item" id="richmond.f">
    <h3>
-      <a class="persNameLink"
-         href="http://rosie.unl.edu/cody_archive/doc/richmond.f">Richmond, Frank, -1890</a>
+      <a class="persNameLink" href="http://codyarchive.org/doc/richmond.f">Richmond, Frank, -1890</a>
    </h3>
    <p>
       <div class="note">Frank Richmond (d.1890) was the stage name of James E. Twitchell, an actor who was hired as the 'lecturer' with Buffalo Bill's Wild West in 1885. With his stunning voice, Richmond became the arena announcer and director of performances for Buffalo Bill's Wild West until his sudden death in early January 1890 in Barcelona, Spain, from typhoid fever (some newspapers report influenza or small pox).</div>

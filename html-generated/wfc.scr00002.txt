@@ -6,11 +6,10 @@
             <div class="">
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.001.jpg"
+         <a href="800/wfc.scr00002.001.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.001.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.001.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.001.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -18,11 +17,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.002.jpg"
+         <a href="800/wfc.scr00002.002.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.002.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.002.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.002.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -35,11 +33,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.003.jpg"
+         <a href="800/wfc.scr00002.003.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.003.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.003.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.003.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -98,11 +95,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.004.jpg"
+         <a href="800/wfc.scr00002.004.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.004.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.004.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.004.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -234,11 +230,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.005.jpg"
+         <a href="800/wfc.scr00002.005.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.005.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.005.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.005.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -285,11 +280,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.006.jpg"
+         <a href="800/wfc.scr00002.006.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.006.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.006.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.006.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -392,11 +386,10 @@
       </div>
             <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.007.jpg"
+         <a href="800/wfc.scr00002.007.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.007.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.007.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.007.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -506,11 +499,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.008.jpg"
+         <a href="800/wfc.scr00002.008.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.008.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.008.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.008.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -600,11 +592,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.009.jpg"
+         <a href="800/wfc.scr00002.009.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.009.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.009.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.009.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -693,11 +684,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.010.jpg"
+         <a href="800/wfc.scr00002.010.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.010.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.010.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.010.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -733,11 +723,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.011.jpg"
+         <a href="800/wfc.scr00002.011.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.011.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.011.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.011.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -768,11 +757,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.012.jpg"
+         <a href="800/wfc.scr00002.012.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.012.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.012.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.012.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -792,11 +780,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.013.jpg"
+         <a href="800/wfc.scr00002.013.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.013.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.013.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.013.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -884,11 +871,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.014.jpg"
+         <a href="800/wfc.scr00002.014.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.014.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.014.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.014.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -930,11 +916,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.015.jpg"
+         <a href="800/wfc.scr00002.015.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.015.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.015.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.015.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -999,11 +984,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.016.jpg"
+         <a href="800/wfc.scr00002.016.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.016.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.016.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.016.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1040,11 +1024,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.017.jpg"
+         <a href="800/wfc.scr00002.017.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.017.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.017.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.017.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1148,11 +1131,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.018.jpg"
+         <a href="800/wfc.scr00002.018.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.018.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.018.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.018.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1211,11 +1193,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.019.jpg"
+         <a href="800/wfc.scr00002.019.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.019.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.019.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.019.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1289,11 +1270,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.020.jpg"
+         <a href="800/wfc.scr00002.020.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.020.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.020.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.020.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.020.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1320,11 +1300,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.021.jpg"
+         <a href="800/wfc.scr00002.021.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.021.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.021.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.021.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.021.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1357,11 +1336,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.022.jpg"
+         <a href="800/wfc.scr00002.022.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.022.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.022.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.022.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.022.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1476,11 +1454,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.023.jpg"
+         <a href="800/wfc.scr00002.023.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.023.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.023.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.023.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.023.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1562,11 +1539,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.024.jpg"
+         <a href="800/wfc.scr00002.024.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.024.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.024.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.024.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.024.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1581,11 +1557,10 @@
             
                 <span class="hr"> </span>
                <span class="pageimage">
-                  <a href="http://codyarchive.org/figures/800/wfc.scr00002.025.jpg"
+                  <a href="800/wfc.scr00002.025.jpg"
                      rel="prettyPhoto[pp_gal]"
-                     title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.025.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                     <img src="http://codyarchive.org/figures/250/wfc.scr00002.025.jpg"
-                          class="display &#xA;            "/>
+                     title="&lt;a href=&#34;800/wfc.scr00002.025.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                     <img src="250/wfc.scr00002.025.jpg" class="display &#xA;            "/>
                   </a>
                </span>
             
@@ -1702,11 +1677,10 @@
                 
                 <span class="hr"> </span>
                   <span class="pageimage">
-                     <a href="http://codyarchive.org/figures/800/wfc.scr00002.026.jpg"
+                     <a href="800/wfc.scr00002.026.jpg"
                         rel="prettyPhoto[pp_gal]"
-                        title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.026.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                        <img src="http://codyarchive.org/figures/250/wfc.scr00002.026.jpg"
-                             class="display &#xA;            "/>
+                        title="&lt;a href=&#34;800/wfc.scr00002.026.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                        <img src="250/wfc.scr00002.026.jpg" class="display &#xA;            "/>
                      </a>
                   </span>
                 
@@ -1802,11 +1776,10 @@
             
                <span class="hr"> </span>
                <span class="pageimage">
-                  <a href="http://codyarchive.org/figures/800/wfc.scr00002.027.jpg"
+                  <a href="800/wfc.scr00002.027.jpg"
                      rel="prettyPhoto[pp_gal]"
-                     title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.027.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                     <img src="http://codyarchive.org/figures/250/wfc.scr00002.027.jpg"
-                          class="display &#xA;            "/>
+                     title="&lt;a href=&#34;800/wfc.scr00002.027.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                     <img src="250/wfc.scr00002.027.jpg" class="display &#xA;            "/>
                   </a>
                </span>
             
@@ -1857,11 +1830,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.028.jpg"
+         <a href="800/wfc.scr00002.028.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.028.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.028.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.028.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.028.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1935,11 +1907,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.029.jpg"
+         <a href="800/wfc.scr00002.029.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.029.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.029.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.029.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.029.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -1997,11 +1968,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.030.jpg"
+         <a href="800/wfc.scr00002.030.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.030.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.030.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.030.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.030.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -2103,11 +2073,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.031.jpg"
+         <a href="800/wfc.scr00002.031.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.031.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.031.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.031.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.031.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -2120,11 +2089,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.032.jpg"
+         <a href="800/wfc.scr00002.032.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.032.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.032.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.032.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.032.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -2209,11 +2177,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.033.jpg"
+         <a href="800/wfc.scr00002.033.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.033.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.033.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.033.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.033.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -2305,11 +2272,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.034.jpg"
+         <a href="800/wfc.scr00002.034.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.034.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.034.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.034.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.034.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -2326,11 +2292,10 @@
         
             <span class="hr"> </span>
             <span class="pageimage">
-               <a href="http://codyarchive.org/figures/800/wfc.scr00002.035.jpg"
+               <a href="800/wfc.scr00002.035.jpg"
                   rel="prettyPhoto[pp_gal]"
-                  title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.035.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                  <img src="http://codyarchive.org/figures/250/wfc.scr00002.035.jpg"
-                       class="display &#xA;            "/>
+                  title="&lt;a href=&#34;800/wfc.scr00002.035.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                  <img src="250/wfc.scr00002.035.jpg" class="display &#xA;            "/>
                </a>
             </span>
         
@@ -2366,11 +2331,10 @@
             
             <span class="hr"> </span>
                <span class="pageimage">
-                  <a href="http://codyarchive.org/figures/800/wfc.scr00002.036.jpg"
+                  <a href="800/wfc.scr00002.036.jpg"
                      rel="prettyPhoto[pp_gal]"
-                     title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.036.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                     <img src="http://codyarchive.org/figures/250/wfc.scr00002.036.jpg"
-                          class="display &#xA;            "/>
+                     title="&lt;a href=&#34;800/wfc.scr00002.036.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                     <img src="250/wfc.scr00002.036.jpg" class="display &#xA;            "/>
                   </a>
                </span>
             
@@ -2412,11 +2376,10 @@
             
             <span class="hr"> </span>
                <span class="pageimage">
-                  <a href="http://codyarchive.org/figures/800/wfc.scr00002.035.jpg"
+                  <a href="800/wfc.scr00002.035.jpg"
                      rel="prettyPhoto[pp_gal]"
-                     title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.035.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-                     <img src="http://codyarchive.org/figures/250/wfc.scr00002.035.jpg"
-                          class="display &#xA;            "/>
+                     title="&lt;a href=&#34;800/wfc.scr00002.035.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+                     <img src="250/wfc.scr00002.035.jpg" class="display &#xA;            "/>
                   </a>
                </span>
             
@@ -2429,11 +2392,10 @@
     
             <span class="hr"> </span>
          <span class="pageimage">
-            <a href="http://codyarchive.org/figures/800/wfc.scr00002.036.jpg"
+            <a href="800/wfc.scr00002.036.jpg"
                rel="prettyPhoto[pp_gal]"
-               title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.036.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-               <img src="http://codyarchive.org/figures/250/wfc.scr00002.036.jpg"
-                    class="display &#xA;            "/>
+               title="&lt;a href=&#34;800/wfc.scr00002.036.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+               <img src="250/wfc.scr00002.036.jpg" class="display &#xA;            "/>
             </a>
          </span>
     
@@ -2447,11 +2409,10 @@
       </div>
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.037.jpg"
+         <a href="800/wfc.scr00002.037.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.037.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.037.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.037.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.037.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -2470,11 +2431,10 @@
                 
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.038.jpg"
+         <a href="800/wfc.scr00002.038.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.038.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.038.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.038.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.038.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
@@ -2532,11 +2492,10 @@
       </div>         
                 <span class="hr"> </span>
       <span class="pageimage">
-         <a href="http://codyarchive.org/figures/800/wfc.scr00002.040.jpg"
+         <a href="800/wfc.scr00002.040.jpg"
             rel="prettyPhoto[pp_gal]"
-            title="&lt;a href=&#34;http://codyarchive.org/figures/800/wfc.scr00002.040.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
-            <img src="http://codyarchive.org/figures/250/wfc.scr00002.040.jpg"
-                 class="display &#xA;            "/>
+            title="&lt;a href=&#34;800/wfc.scr00002.040.jpg&#34; target=&#34;_blank&#34; &gt;open image in new window&lt;/a&gt;">
+            <img src="250/wfc.scr00002.040.jpg" class="display &#xA;            "/>
          </a>
       </span>
       <div class="">
