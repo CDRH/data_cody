@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.P.69.110">
+      <agentSet>
+         <display>Anderson</display>
+         <agent>
+            <name>Anderson</name>
+            <dates/>
+            <role>photographer</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>1887</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW"><tei:p>Portrait of Broncho Bill (William Irving) with his wife, Ella, and son, Bennie. Bill wears a hat, kerchief, beaded vest, button shirt, pistol on a gun belt, and beaded moccasins. Ella wears a fringed and beaded buckskin dress. Bennie wears an embroidered shirt, chaps with a pistol tuck in at waist and moccasins. Backdrop of painted trees in background. Typed caption on mat, "Broncho Bill (and Family.) Cow Boy Interpreter of the Sioux. — Buffalo Bill's Wild West." Typed caption on verso, "Anderson Photographer, 785 Broadway, Cor. of 10th, New York."</tei:p></description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>photograph</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>3.875 x 5.5 b&amp;w photograph	</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS6 William F. Cody Collection</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS6 William F. Cody Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Irving, William "Broncho Bill"</term>
+         </subject>
+         <subject>
+            <term>Men</term>
+         </subject>
+         <subject>
+            <term>Women</term>
+         </subject>
+         <subject>
+            <term>Children</term>
+         </subject>
+         <subject>
+            <term>Firearms</term>
+         </subject>
+         <subject>
+            <term>Pistols</term>
+         </subject>
+         <subject>
+            <term>Dresses</term>
+         </subject>
+         <subject>
+            <term>Vests</term>
+         </subject>
+         <subject>
+            <term>Hats</term>
+         </subject>
+         <subject>
+            <term>Beads</term>
+         </subject>
+         <subject>
+            <term>Indian beadwork</term>
+         </subject>
+         <subject>
+            <term>American Indians</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">Broncho Bill and family</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>photograph</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW"><tei:p></tei:p></description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.pho.P.69.110"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

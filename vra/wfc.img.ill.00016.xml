@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.ill.00016">
+      <agentSet>
+         <display>Charlton, John (1849-1917)</display>
+         <agent>
+            <name>Charlton, John (1849-1917)</name>
+            <dates/>
+            <role/>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>1887-06-04</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW"><tei:p>Caption reads: The Wild West Show at West Brompton. The Company Forming in Line.
+Accompanying text: THE WILD WEST—FORMING IN LINE.
+ One of the most stirring items in Buffalo Bill's programme in his Wild West Show at the American Exhibition, is the entry into the arena of the various members of the company, as one by one they dash out of their rocky fastnesses and ride wildly round the arena to what may be called the saluting point in front of the chief seats—when they rein suddenly in, and after saluting the spectators join their comrades and form a long thin line. A singular picturesque sight is afforded by this row of cowboys, vaqueros, and Indians all in their peculiar attire, particularly when, as in our sketch, the Sioux chief, Red Shirt, rides up, being received with shrill whoops by his comrades, prior to the arrival on the scene of Buffalo Bill himself. A color version of this image ran in The Illustrated Foreign News on June 18, 1887 (see wfc.img.ill.00019).</tei:p></description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>Illustration</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display/>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.2278</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>wfc.img.ill.00019</display>
+         <source>
+            <name type="electronic" href="">wfc.img.ill.00019</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>American Indians</term>
+         </subject>
+         <subject>
+            <term>Cowboys</term>
+         </subject>
+         <subject>
+            <term>European Tours</term>
+         </subject>
+         <subject>
+            <term>Horses</term>
+         </subject>
+         <subject>
+            <term>Show Indians</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">The Wild West Show at West Brompton from The Graphic</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>Illustration</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW"><tei:p></tei:p></description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.ill.00016"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.2278</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>
