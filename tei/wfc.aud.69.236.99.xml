@@ -42,7 +42,6 @@
 
 <notesStmt>
 <note type="audio">
-<ref type="audio" target="wfc.aud.69.236.99" /> targType="application/x-shockwave-flash" 
 </note>
 </notesStmt>
 
@@ -122,6 +121,7 @@
 </profileDesc>
 
 <revisionDesc>
+  <change when="2017-01-31"><name>Weakly, Laura K.</name> Updated encoding</change>
   <change when="2013-08-21"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -130,21 +130,18 @@
 
 <body>
 
-<div1 type="html">
+<div1 type="audio">
 
-<a href="http://codyarchive.org/images/view/photographs/wfc.img.69.236.99"><img src="http://codyarchive.org/figures/250/wfc.img.69.236.99.jpg"/></a>
+<figure>
+<graphic url="wfc.img.69.236.99"/>
+</figure>
 
-<h3>Commentary on "Whirlwind Horse"</h3>
-<h4>By Michelle Delaney, Smithsonian Institution</h4>
+<head>Commentary on "Whirlwind Horse"</head>
+<byline>By Michelle Delaney, Smithsonian Institution</byline>
 
-<audio controls="controls">
-<source src="../audio/mp3/wfc.aud.69.236.99.mp3" type="audio/mpeg"/>
-<source src="../audio/ogg/wfc.aud.69.236.99.ogg" type="audio/ogg"/> <embed
-src="http://www.google.com/reader/ui/3523697345-audio-player.swf"
-flashvars="audioUrl=../audio/mp3/wfc.aud.69.236.99"
-type="application/x-shockwave-flash" width="230" height="27"
-quality="best"/>
-</audio>
+<figure>
+<media url="../audio/mp3/wfc.aud.69.236.99.mp3" mimeType="audio/mp3" width="230px" height="27px"/>
+</figure>
 
 <p>
 Whirlwind Horse is photographed by Gertrude Käsebier wearing a very tailored, modern, what we would term typically 'western' shirt while he's also wearing his beautiful headdress. Indicative of the dichotomy that these Indians were living in, thinking about how bringing their traditional world to the audience that they performed for every day, and yet living in what was the beginnings of the twentieth-century and performing with the show, what would they wear on the street? Did they stay in their traditional attire? The western mode that we see as more cowboy attire is what we see in this photograph. Thinking about how there began to be the intermix of societies, native and modern, is indicative of the transition that these men were undergoing, and potentially their beginnings of stronger interaction with the Euro-American world and their knowledge of the American world.</p>
