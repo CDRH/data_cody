@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp00271">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Views</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humaities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp00271</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Views</title>
+<title level="a" type="sub">The Celebrated Indian Fighter on the Indian Problem</title>
+<title level="j">Times Picayune</title>
+<pubPlace>New Orleans, LA</pubPlace>
+<date when="1879-10-28">October 28, 1879</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>American bison</term>
+<term>American Indians</term>
+<term>Buffalo meat</term>
+<term>Indian agents</term>
+<term>Indians of North America</term>
+<term>Kansas Pacific Railway Company</term>
+<term>Kansas</term>
+<term>Little Bighorn, Battle of the, Mont., 1876</term>
+<term>Native American culture</term>
+<term>Nobility of character</term>
+<term>Prairies</term>
+<term>Slavery</term>
+<term>Treaties</term>
+<term>United States--Politics and government</term>
+<term>United States. Army. Cavalry, 5th</term>
+<term>United States. Office of Indian Affairs</term>
+<term>Ute Indians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Grant, Ulysses S. (Ulysses Simpson), 1822-1885</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp00271.001"/>
+
+<head type="main">Buffalo Bill's Views.</head>
+<head type="sub">The Celebrated Indian Fighter on the Indian Problem&#8212;Never Make a Promise to the Indians Which is Not Fulfilled to the Letter.</head>
+
+<byline>[Toledo Commercial. Oct. 21.]</byline>
+
+<p>Born upon the Western prairies, and reared amid wild scenes of tumult, <persName xml:id="cody.i">his father</persName> murdered in their early days when Kansas, with the struggle of a young giant, was shaking off the yoke of African slavery, a trained Indian fighter taking his first scalp at the age of twelve, and having served his young State in earliest manhood as a trusted and honored member of the Legislature, it is probable that Wm. F. Cody is as well acquainted with all that pertains to the West as any other living man.</p>
+
+<p>A question of growing importance and of serious import just now to the people of the United States is the management of the Indians by the Government. The conversation turning upon that subject, the Commercial representative said:</p>
+
+<p>"What are your ideas on the Indian problem, Mr. Cody? In other words, what would you do to secure a better and more economical management of the Indian tribes by the Government?"</p>
+
+<p>"I think I can sum up my policy in a single sentence. It is this: Never make a single promise to the Indians that is not fulfilled. Agents promise too much. Men of calm, prudent determination must be sent among the Indians as agents. Those who are sent often know nothing of the Indian character, and either through fear, ignorance or dishonesty are led into making promises which the Government cannot or will not fulfill. Every Indian outbreak that I have ever known has resulted from broken promises and broken treaties by the Government."</p>
+
+<p>"What do you think of the peace policy or the policy of encouraging agricultural pursuits by the Indians, Mr. Cody?"</p>
+
+<p>"It has already resulted in good and will result in still greater good if honestly and intelligently pursued. You cannot make an Indian work by standing over him with a shotgun. He must be taught that it is to his interest to do so, and brought into it by degrees. Too much cannot be accomplished all at once. But if a wise, firm policy is pursued the Indians will gradually drift into agricultural pursuits."</p>
+
+<p>Speaking of the recent outbreak of the Utes, Mr. Cody said he thought the Indians were badly treated. He knew that for years miners, contrary to treaty had been settling upon their lands. The Utes had protested and the Government paid no attention to them, and they had finally taken the matter into their own hands. Mr. Cody had been with the 5th Cavalry for six years, and he was consequently well acquainted with the Utes. He had taken the first scalp to avenge Custer massacre. On the same day he also killed Red Knife.</p>
+
+<p>"What do you think of Grant as a third term candidate, Mr. Cody?"</p>
+
+<p>"Next to myself, I think Grant is the luckiest man in America. Nothing would surprise me."</p>
+
+<p>"How did you get the title of 'Buffalo Bill,' Mr. Cody?"</p>
+
+<p>"In 1867, when the Kansas Pacific Road was being built, I was in the service of the Government. One of the managers of the road came to me and said the men were out of meat, and asked me what I would contract to furnish twenty-five buffaloes a day for. I told him I was in the service of the Government and could not work for him at any price. The company, however, made an arrangement with the Government, so I got off, and he hired me at &#36;500 a month to shoot buffaloes. I thought &#36;500 per month was the biggest salary any man ever received. I went to work and in eighteen months I killed 4280 buffaloes. The Paddys' employed on the road, as a consequence, became very tired of buffalo meat, and they said, one to another: 'Bedad, here comes Buffalo Bill again; sharpen up year grinders, we'll have more buffalo meat now.' I soon became known along the entire line of the Kansas Pacific as 'Buffalo Bill.'"</p>
+
+<p>Mr. Cody was at Cincinnati when he heard of the Ute outbreak. He at once went to work to secure some person to take his part as <hi rend="italic">Buffalo Bill</hi> in his play, and telegraphed to Sheridan<!--LINK Sheridan--> that he was at his service, and he will no doubt be ordered to the West should the trouble continue. Mr. Cody says he has no fancy for Indian fighting, but as that has been his lifelong profession, he supposes he can do it as well as any man and if he is needed he is desirous of giving to the Government the best service that he can. He deeply sympathizes with the Indians, but notwithstanding all their wrongs, he knows that they must give way to the whites.</p>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

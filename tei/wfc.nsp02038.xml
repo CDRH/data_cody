@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp02038">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Col. Cody, Scout and Indian Fighter</title>
+<author>Masterson, Bat (William Barclay), 1853-1921</author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp02038</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Masterson, Bat (William Barclay), 1853-1921</author>
+<title level="a" type="main">Col. Cody, Scout and Indian Fighter</title>
+<title level="j">The Washington Post</title>
+<pubPlace>Washington, D.C.</pubPlace>
+<date when="1908-03-08">March 8, 1908</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>American bison</term>
+<term>American Indians</term>
+<term>Colt firearms</term>
+<term>Firearms</term>
+<term>Frontier and pioneer life</term>
+<term>Horsemen</term>
+<term>Indians of North America</term>
+<term>Kansas Pacific Railway Company</term>
+<term>Ranches Nebraska</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Union Pacific Railroad Company</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carr, E. A. (Eugene Asa), 1830-1910</term>
+<term>Cody, Louisa Frederici, 1843-1921</term>
+<term>Crook, George, 1829-1890</term>
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Dodge, Richard Irving, 1827-1895</term>
+<term>Hancock, Winfield Scott, 1824-1886</term>
+<term>Masterson, Bat, 1853-1921</term>
+<term>Merritt, Wesley, 1834-1910</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>North, Frank J. (Frank Joshua), 1840-1885</term>
+<term>Royall, William B. (William Bedford), 1825-1895</term>
+<term>Sheridan, Philip Henry, 1831-1888</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Cody (Wyo.)</term>
+<term>Iowa</term>
+<term>Kansas</term>
+<term>Leavenworth (Kan.)</term>
+<term>Texas</term>
+<term>Missouri</term>
+<term>North Platte (Neb.)</term>
+<term>Dodge City (Kan.)</term>
+<term>Ogallala (Neb.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp02038.001"/> 
+
+<head type="main">Col. Cody, Scout and Indian Fighter</head>
+<head type="sub">A Few Incidents in the Adventurous Career of the Famous Buffalo Bill that Have Passed Under My Personal Observation&#8212;His Early Days on the Frontier.</head>
+
+<byline>BY W. B. (BAT) MASTERSON.</byline>
+<byline>From Human Life.</byline>
+
+<div2>
+<p>It almost seems like profanation at this late day to assert that Col. William F. Cody was not the original Buffalo Bill. Such, however, is the case. That distinction belongs to William Mathewson, known by his friends for more than a generation before his death as "Old Bill Mathewson." The original Buffalo Bill kept a ranch and stage station on the old Santa Fe trail at the crossing of the Little Arkansas River, near where now stands the town of Halstead, Kans., during the civil war, and was known to both the white and red men of that region as Buffalo Bill. It is altogether likely that he himself never knew why or when he first came by the name. Col. Cody, who has since made the name famous from Manitoba to Moscow and from the Gulf of Mexico to the Nile, was at that time a mere boy, living in the Salt Creek Valley, a short distance above Leavenworth, on the Kansas side of the Missouri River.</p>
+
+<p>Cody's family moved from Iowa to Kansas while the latter was yet a Territory, and settled on a farm in the Salt Creek Valley, outside of Leavenworth. It was at the time when the question of whether slavery should or should not be introduced into Kansas when it became a State. It was along the Kansas and Missouri border where the prelude to the mighty tragedy of the civil war was first enacted, and the Cody family found itself well upon the firing line. The settlers of Kansas were arrayed against those of Missouri. It was free soil against slavery with no quarter as the motto. Kansas and free soil finally won the battle, but not without a long and bitter struggle, in which much good red blood was shed on both sides. In such an atmosphere and among such scenes young Cody passed a number of his boyhood years.</p>
+
+<p>It was not my purpose, however, to attempt a biography of Col. Cody, the world-famed Buffalo Bill of to-day. I will leave such an undertaking to more capable hands and endeavor to interest my readers by relating a few incidents in the career of the famous hunter, scout, Indian fighter, and showman which have passed under my own personal observation. Col. Cody got the name Buffalo Bill during the time the Kansas Pacific Railroad was being built through Western Kansas. About the year 1867, the road had been built as far West as Hays City, and Cody took a contract to furnish the construction hands with buffalo meat at so much per month. He was at that time the finest specimen of young manhood in the West, standing full six feet, as straight as an arrow, strong as a lion, and as quick and nimble as a cat. His hair was long and as black as that of an Indian. He was an expert horseman and could shoot a pistol with deadly accuracy while riding his horse at full speed.</p>
+</div2>
+
+<div2>
+<head type="sub">Pistol in Both Hands, Reins in Teeth</head>
+
+<p>Cody, in those days, used pistols altogether in killing buffalo. He would ride his horse full tilt into a herd of buffalo and with a pistol in either hand and the bridle reins between his teeth, was almost sure to bring down the day's supply of meat at the first run. With six shots in each pistol, he had often killed as many as eight buffalo on a run. This feat was never equaled, although many times attempted by men who fancied they could ride and shoot as well as Cody. Although the country fairly swarmed with desperate men during those years when Buffalo Bill was making history in the West, it is not on record that he ever engaged in a deadly duel with a white man. This was perhaps due to the fact that he had never been called upon for such a purpose. That he would fight if his hand was forced was no secret among those who knew him best.</p>
+
+<p>He had been known on more than one occasion to take a swaggering bully by the neck, and after relieving him of his lethal decorations, soundly shake him until he promised to behave himself. During the several Indian wars which have occurred in different parts of the West in the last forty years, Cody, as scout and guide, has rendered valuable service to the government. He has taken a more or less active part in every expedition the government has sent against the hostile red man since the war of 1868, and by his unerring knowledge of the country, and by the skill and fidelity with which he carried out every duty assigned to him, earned for himself a reputation among the army officers who commanded those expeditions second to no man who ever filled a like position.</p>
+
+<p>Such veteran Indian fighters as Gens. Carr,<!--LINK Carr--> Custer,<!--LINK Custer--> Royal,<!--LINK Royall--> Crook,<!--LINK Crook--> Miles,<!--LINK Miles--> Merritt,<!--LINK Merritt--> and numerous others equally celebrated in Indian warfare, have testified to the undaunted courage, thorough reliability, and great powers of endurance so often displayed by Buffalo Bill, while leading the United States soldiers against the red savages. The value to the commander of an Indian expedition of a competent and thoroughly reliable guide cannot be overestimated. The services of such a man are absolutely indispensable. The safety and success of the command rests almost entirely on the knowledge and reliability of the guide.</p>
+
+<p>Gen. Richard Irving Dodge<!--LINK Dodge--> correctly states the case in his "Thirty Years Among Wild Indians." "Besides mere personal bravery," says Gen. Dodge, "a scout must possess the moral qualities associated with a good captain of a ship, full of self-reliance in his own ability to meet and overcome any unlooked-for difficulties, be a thorough student of nature, a self-taught weather prophet, a geologist, and thoroughly educated in the warfare, stratagems, trickery, and skill of his implacable Indian foe. Because in handling expeditions or leading troops, on him alone depend correctness of destination, avoidance of dangers, protection against sudden storms, the finding of game, grass, wood, and water, the lack of which, of course, is more fatal than the deadly bullet. In fact, more lives have been lost on the plains from incompetent guides than ever the Sioux or Pawnees destroyed."</p>
+</div2>
+
+<div2>
+<head type="sub">Ben Clark His Only Rival.</head>
+<p>With the possible exception of Ben Clark, Buffalo Bill typifies those qualities better than any man who has ever acted as scout or guide against the Indians in the West. Ben Clark has been a scout, guide, and Indian interpreter for the government for the last fifty years, and is still on the job at Fort Reno, Indian Territory. Although he has been a leading figure in all the Indian outbreaks which have taken place throughout the West since the breaking out of the civil war, and has, through force of circumstances, on numerous occasions been thrown in contact with all manner of desperate and lawless characters, he has never been known to have had a serious run in with a white man. Like Buffalo Bill, he has repeatedly fought and killed the red warrior, but has managed somehow during all these years to live in peace and harmony with the pale face.</p>
+
+<p>Buffalo Bill has been a showman for the last thirty-five years, and during that time has presented in a genuinely realistic manner, not only to the people of his own country, but to those of foreign lands, scenes and incidents in the daily life of the pioneers of our once boundless frontier.</p>
+
+<p>Col. Cody has made North Platte, Nebr., his home for a generation or more, and owns, in conjunction with Major North,<!--LINK North--> one of the finest horse and cattle ranches in the State. In the summer of 1880, I had occasion to go from Dodge City, Kans. where I was sheriff, to Ogallalla, Nebr., which is about sixty miles
+
+<figure n="photograph"><p>"Buffalo Bill."</p></figure>
+
+west of the little town of North Platte, on the Union Pacific Railroad. My object in going to Ogallalla at the time was to straighten out, if possible, a serious difficulty in which a personal friend of mine, by the name of Billy Thompson, a brother of the famous Ben Thompson, of Texas, had become involved with a local man by the name of Bill Tucker, which resulted in Thompson being severely wounded by Tucker, and the latter having the thumb and fingers of his left hand shot away by a bullet from Thompson's pistol, during the melee. Ogallalla was a mere hamlet at the time, there being not more than thirty buildings in the place. Tucker kept a saloon in which the game of Spanish monte was dealt for the cattlemen and cowboys who worked on the range near-by. Being a local man, Tucker had the home sentiment with him in his fight with Thompson.</p>
+
+<p>When I arrived in Ogallalla, I found Thompson laid up in bed in the hotel from the effects of the several wounds he had received from Tucker. I also found him under arrest with a deputy sheriff guarding him in his room. After talking the matter over for a while with my wounded friend, I concluded, with a view of bringing about an amicable understanding between the warriors, to go and see Tucker, whom I also found in bed at his home with his left hand, minus thumb and fingers, done up in liniment-soaked bandages. Although Tucker was mostly to blame for the trouble, I found him very bitter against Thompson. I also found, before I had proceeded far afield, that he was willing to listen to reason if the proper inducements were offered. The sum, however, was beyond the reach of Thompson or his friends; therefore, my conference with the thumbless one was soon at an end. I returned to my friend's room and told him of the failure of my mission and, together, we commenced to formulate another plan of action. As a primary step, it was decided that Thompson should make out to be suffering greatly all the time, and whenever he felt like changing his position in bed in order to rest more comfortably to be sure and call upon the guard to assist him.</p>
+</div2>
+<div2>
+<head type="sub">Perfecting a Plan of Escape.</head>
+<p>As there were no doctors in Ogallalla in those days, the extent of Thompson's injuries could not very well be scientifically determined, so, by playing a clever part, he could make them appear much more serious than they really were. My purpose in having Thompson play such a part was to keep him from being put in jail, which I learned the local authorities purposed doing as soon as he was considered sufficiently recovered to be moved. My next move was to get on friendly terms with the guard, who was a young fellow who had lately reached that country from one of the New England States. His armament consisted of a long-barrelled Colt, .45-caliber pistol with a white handle, of which he seemed duly proud. Although Thompson was not as badly injured as he let on to be, he had nevertheless, been sufficiently crippled to be of little use to himself in case of an emergency. I had decided to get Thompson out of the country in some way, but couldn't make up my mind how to go about it.</p>
+
+<p>Had Thompson been able to ride a horse, it would have been easy for us to escape in that manner, but that was out of the question. If, on the other hand, we attempted to escape by wagon, we would easily be trailed and overtaken by the posse we knew would soon be in hot pursuit. There was therefore but one avenue of escape left for us, and that was by railroad. But how we were to be able to reach the train without being detected was a problem that involved much serious thought on our part. We figured that if we could reach North Platte, where Buffalo Bill was living, we would have better than an even chance in making our escape from the country. The east-bound overland flyer reached Ogallalla about midnight and stopped long enough to fill its tank with water and then sped on to North Platte, its first stop.</p>
+
+<p>But how to get by the guard and get Thompson, who was unable to walk, on board the train was anything but an easy task for me to perform. It seemed as if everybody in town was watching every move I made, and from what I subsequently heard I am satisfied they were. I had no sooner arrived in town than the sheriff, thinking perhaps that I might make an attempt to rescue his prisoner, issued the strictest kind of instructions to his deputy, who had been assigned to guard Thompson, to never leave the room for a moment while he was on duty, and I can truthfully say he obeyed the instructions to the very letter. One Sunday night, however, there was a dance given by the people of the town, and, as was the custom in those small Western hamlets in those days, everybody in the place attended the blowout. The dance was given in the schoolhouse, which was also used for church purposes whenever a preacher happened along that way. The building, which wasn't much larger than a good-sized hencoop, was situated on a little knoll about 400 yards north of the depot, which was located in the center of the town. The sheriff, who was also the town fiddler, was furnishing the music for the occasion, and, as was to be expected, nearly everybody in Ogallalla was at the dance. Jim Dunn was the name of the bartender in the hotel where Thompson was being guarded. He was a Texan and an artist in his business. He had previously tended bar in Dodge City and we were the best of friends. This was obviously my time for getting away with Thompson. If Jim the bartender would assist me a little, there was nothing to it. Thompson and I would be in North Platte before the fiddling sheriff would realize that we were gone.</p>
+</div2>
+
+<div2>
+<head type="sub">We Get Away on the Overland Flyer.</head>
+<p>I hunted up Jim and explained what I wanted. "Leave it to me," said Jim. I then went up to Thompson's room and, as the weather was warm, the windows were raised, furnishing us a splendid view of the doings at the schoolhouse. "I am sorry I'm not at the dance." I remarked to the deputy, "for they seem to be having a good time up there." "They are certainly enjoying themselves," replied the deputy. "What say you about having a drink," I said, "just to even up on the dance." "Very well," said he, "I don't mind if I do. I stepped to the head of the stairs and called to the bartender, who instantly responded. "What will it be, gentlemen," inquired Mr. Dunn, as he entered the room. "Bring me a sour whisky," I said. "That will do me," said the deputy. "Nothing for me," said Thompson. In a few minutes Jim was back with the drinks. "Mine tasted fine"&#8212;"so did mine," vouchsafed the deputy. In a little while the order was repeated and we drank to our mutual good health. Soon after the deputy disposed of the second drink, he spread himself on the floor and was soon dreaming of his New England home. I then proceeded to dress Thompson as hurriedly as circumstances would permit, and when I saw the train coming, I got him on my back and carried him downstairs and over to the depot and got him aboard the train before it had hardly come to a stop. In a few minutes we were speeding at the rate of forty miles an hour for North Platte, where we arrived about 2 o'clock in the morning. When the train pulled up at the station, I again put Thompson on my back and carried him out on the platform. After being informed by one of the station hands which direction to go, in order to reach Dave Perry's saloon, I again picked up my burden and lit out along the dark street and was soon inside the saloon, where I found Buffalo Bill and a dozen others all having a good time. As a matter of course, we were given a royal welcome and were immediately taken in charge of Col. Cody, who found a safe place for us to remain until he could outfit us for the trip across the country to Dodge City, which was about 250 miles south from there.</p>
+</div2>
+
+<div2>
+<head type="sub">Gen. Sheridan's<!--LINK Sheridan--> Party of Foreigners.</head>
+<p>"The Ogallala authorities will not take you from here," said Cody to us that night, and we slept quite comfortably. The next day I went up to Col. Cody's home, a beautiful place in the suburbs of North Platte, and found him busily engaged in raising a flag pole in honor of Gen. Hancock,<!--LINK Hancock--> who had just been nominated by the Democratic party for President of the United States. I may here state that Buffalo Bill is a Democrat, but that should not be held against him, for he is a splendid fellow, and perhaps regrets it as much as any genuine American could. The next day Cody gave us a fine, big Texas horse, and his wife's phaeton to carry us across the country, home.</p>
+
+<p>About this time, Gen. Sheridan had sent out to North Platte a party of distinguished foreigners who had come to this country for the purpose of traveling through the West. Gen. Sheridan requested Buffalo Bill to take charge of the party and show them what there was on the plains that he thought would be of interest. Twenty-five miles south of North Platte, a man by the name of Keith owned an immense cattle ranch, on which he had a small herd of tame buffalo, and, as his ranch was on our way home, Buffalo Bill and his party of distinguished foreigners accompanied us that far. There were fully twenty persons on the parey, and as everybody was feeling good when we left North Platte, the trip to Keith's was a right royal one, you may be sure. I was driving a double team hitched to Cody's specially made mess wogan, which was loaded down with everything imaginable. There were all sorts of camp provisions for man and beast, besides several large wooden boxes filled with different kinds of ammunition and a photographer's outfit, which Cody had brought along for the purpose of photographing his foreign guests as they stood among the tame buffalo at Keith's ranch.</p>
+
+<p>The caravan would stop every little while and liquor up, and then go on until the next liquoring-up point was reached, when the caravan would come again to a halt. Cody, who had been riding alongside of me for a while, finally concluded to take a nap, and stretched himself out full length on top of the load of dunnage in the mess wagon. We had only gone a short distance after Bill had fallen asleep when the wagon was tipped completely upside down. I was pitched out on my head in the prairie, while Cody was actually buried underneath the wagon and its contents. I gathered myself up as quickly as I could, and got hold of the horses by the head and held them until other members of the party came up and rescued Cody, who had not received as much as a scratch, while I had my lower lip nearly torn from my face.</p>
+</div2>
+<div2>
+<head type="sub">The Colonel's Wife Loses a Phaeton.</head>
+<p>We reached Keith's in due time without further mishap, and what a time those foreign gentlemen were given that night after the supper table had been cleared away. Buffalo Bill was then in his prime, and the stunts he did with pistol and rifle and in horseback riding were nothing short of wonderful. When Cody got back home to North Platte his wife asked him what had become of her fine phaeton and harness. I don't know exactly what he told her or how he accounted for their disappearance, but he afterward told me that a much more expensive outfit soon replaced the one he had given us.</p>
+
+<p>The day Thompson and I left Keith's ranch for Dodge City a heavy rainstorm set in, which lasted during the entire trip, and as we had nothing but the sky for a roof, our appearance can better be imagined than described when our destination was reached. About the first thing Thompson did after reaching Dodge was to send a telegram to the Ogallala sheriff notifying him of his safe arrival and inviting him to come and get him in case he still thought he wanted him. The fiddling sheriff made no reply to Thompson's message, and there the matter ended.</p>
+
+<note type="copyright">(Copyright, 1908, by Human Life Publishing Co.,)</note>
+
+</div2>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

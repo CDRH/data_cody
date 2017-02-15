@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03325">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill Gloomy</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03325</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill Gloomy</title>
+<title level="j">The Sun</title>
+<pubPlace>Baltimore, MD</pubPlace>
+<date when="1891-01-08">January 8, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>American Indians</term> 
+<term>Cheyenne Indians</term>
+<term>Fremont, Elkhorn, and Missouri Valley Railroad</term>
+<term>Ghost dance</term>
+<term>Indians of North America</term>
+<term>Militia</term>
+<term>Nebraska. National Guard</term>
+<term>Railroads</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Thayer, John M. (John Milton), 1820-1906</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Chadron (Neb.)</term>
+<term>Cody (Neb.)</term>
+<term>Crawford (Neb.)</term>
+<term>Gordon (Neb.)</term>
+<term>Guthrie (Okla.)</term>
+<term>Hay Springs (Neb.)</term>
+<term>Nebraska</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term> 
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03325.001"/>
+
+<head type="main">BUFFALO BILL GLOOMY.</head>
+<head type="sub">He Says the Indians Are Mad to the Point of Courting Death.</head>
+<p><hi rend="bold">LONG PINE, NEB., Jan. 7.</hi>&#8212;All along the line of Elkhorn and Missouri Valley Railroad people believe themselves in great peril in case a battle that seems imminent at Pine Ridge should result adversely to the troops. A part of the National Guard of Nebraska, 1,000 men, is already in the field, and Governor Thayer has ordered reinforcements. Gen. W. T. Colby, of the State troops, is in command, with headquarters at Rushville, where the larger body of militia is stationed. Colonel Cody, (Buffalo Bill,) chief of staff to Governor Thayer, will confer with General Colby at Rushville, and the two will decide upon the best points at which to station troops. The report that Colonel Cody was to join General Miles at Pine Ridge is untrue.</p>
+
+<p>Buffalo Bill takes a gloomy view of the future, and says it is his opinion that a big battle is almost sure to occur within a few days in the immediate vicinity of Pine Ridge. The Indians, he thinks, have reached that state of their madness in which they will court death. Since the Wounded Knee affair they are worse than ever, and the Messiah craze has made them fatalists to that degree that they firmly believe that if they go under in battle they will come to life again in the spring. Should the Indians mass and make an attack on the troops at Pine Ridge and overcome them, there would be an overrunning of the country that would mean more than a repetition of former horrors. Even if defeated the Indians will scatter in small bands and do an immense amount of damage. The fear of this, more than any belief that the Indians will raid the country before offering battle to the regulars, has led to the throwing out of a line of State troops along the Nebraska frontier. There are sixteen companies of the State militia on the frontier. Four companies are stationed at Rushville, three at Gordon, six at Crawford, one at Hay Springs, one at Cody and one at Chadron.</p>
+
+<p>The rumors of another fight at Pine Ridge has sent additional hundreds of the settlers into the small railroad towns. At nearly every station one sees white-topped wagons, which form the temporary homes of the fleeing settlers.</p>
+
+<p><hi rend="bold">GUTHRIE, OKLAHOMA, Jan. 7.</hi>&#8212;The great ghost dance<!--LINK Ghost Dance--> at Red Rock, which was to have been begun today, and in which representatives from many of the Territory tribes were to participate, was a fizzle. The Indians do not take kindly to the incendiary suggestions of the Cheyenne runners. A few Cheyennes were present at Red Rock, but the friendly Indians dissuaded them from holding the dance.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

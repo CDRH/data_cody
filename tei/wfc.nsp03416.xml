@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03416">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Dissatisfied Indians</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03416</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Dissatisfied Indians</title>
+<title level="a" type="sub">Prospect of Another Outbreak Among the Braves at Pine Ridge</title>
+<title level="j">San Jose Mercury News</title>
+<pubPlace>San Jose, CA</pubPlace>
+<date when="1891-03-14">March 14, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term> 
+<term>Firearms</term>
+<term>Indians of North America</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota</term>
+<term>Rifles</term>
+<term>Sioux Nation</term>
+<term>United States. Office of Indian Affairs</term>
+<term>United States. Office of Indian Affairs. Pine Ridge Agency</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Cheyenne (Wyo.)</term>
+<term>Fort Sheridan (Ill.)</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03416.001"/>
+
+<head type="main">DISSATISFIED INDIANS.</head>
+<head type="sub">Prospect of Another Outbreak Among the Braves at Pine Ridge.</head>
+<p><hi rend="bold">CHICAGO, March 14.</hi>&#8212;Dr. O. A. Eastman, an educated Ogallalla Sioux, arrived here to-day from Pine Ridge. In an interview in a local paper he says he has been in the camps of the Indians at Pine Ridge, and from present indications the probability of another Indian war is promising. There is great discontent among the Indians. Personally he does not think they will do anything desperate but the young braves are holding secret conferences, and even the conservative men are talking of war. The people out there are dissatisfied at not having received information as to how the hostiles at Fort Sheridan are being treated, and fear treachery.</p>
+
+<p>Buffalo Bill has secured the consent of the Government, and will in a few days start for Europe with the hostile Sioux now held at Fort Sheridan. They are to make a part of his Wild West Show. He will make up a party of 100 Indians from those on the reservation.</p>
+
+<p><hi rend="bold">CHEYENNE, March 14.</hi>&#8212;Acting Governor Barber has issued a proclamation enjoining the citizens to refrain from selling arms to the Indians. This was done on the request of <persName xml:id="miles.n">Gen. Miles</persName>, who says the Indians can be handled easily if not supplied with rifles.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

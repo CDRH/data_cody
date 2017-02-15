@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01427">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indians as Soldiers</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01427</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Indians as Soldiers</title>
+<title level="j">The Washington Post</title>
+<pubPlace>Washington, D.C.</pubPlace>
+<date when="1891-03-09">March 9, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Hoffman House (Hotel)</term>
+<term>Indian soldiers</term>
+<term>Indians of North America</term>
+<term>Military men</term>
+<term>United States. War Department</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Proctor, Redfield, 1831-1908</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Standing Rock Indian Reservation (N.D. and S.D.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+ <change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01427.001"/>
+
+<head type="main">INDIANS AS SOLDIERS.</head>
+<head type="sub">The Proposition Meets the Warm Approval of Buffalo Bill.</head>
+
+<p><hi rend="italic">New York Herald:</hi> "Secretary Proctor's<ref target="n01">1</ref> idea of enlisting Indians as soldiers, up to the 25,000 limit, as he is legally empowered to do, is a good one," said Col. William F. Cody, who was drinking lemonade straight at the Hoffman House yesterday when I saw him. "It has my hearty approval. It can be done successfully, and it is a good thing all around. You know the special law failed to pass either house, but the Secretary of War has a good deal of authority as it is, and can do as he proposes without trouble. There is but one thing in the way of a success, and that would be the reluctance of the Indians to enlist for any such length of time as five years. The Indian is very chary about making long contracts. But he makes the best soldier in the world, and we have three companies of them now&#8212;about 150 men&#8212;who are unequaled as light cavalrymen. I wish you could see the magnificent formation of the Indians when they brought in the hostiles to Standing Rock Agency. It was only a bluff, of course, but it made a magnificent spectacle&#8212;fully equal to any by the regulars. The warriors surrounded the noncombatants, with their tepees, &#38;c., marching in columns of four, and just as the soldiers would have done. The Indian is tractable and easily disciplined, and there could be no objection to him."</p>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Redfield Proctor (1831-1908), formerly the 37th Governor of Vermont (1878-80), was Secretary of War from 1889-91 and a supporter of the concept of enlisting American Indians as regular soldiers in the U.S. Army.</note></back>
+</text>
+</TEI>

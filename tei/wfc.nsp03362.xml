@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03362">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indian Uprising</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03362</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Indian Uprising</title>
+<title level="a" type="sub">What is Might Have Been if Miles Had Faltered</title>
+<title level="j">Wheeling Register</title>
+<pubPlace>Wheeling, WV</pubPlace>
+<date when="1891-01-19">January 19, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Ammunition</term>
+<term>Amputation</term>
+<term>Arapaho Indians</term>
+<term>Brul&#233; Indians</term>
+<term>Cheyenne Indians</term>
+<term>Crow Indians</term>
+<term>Firearms</term>
+<term>Ghost dance</term>
+<term>Indian agents</term>
+<term>Indian scouts</term>
+<term>Indians of North America</term>
+<term>Mormons</term>
+<term>Nez Perc&#233; Indians</term>
+<term>Oglala Indians</term>
+<term>Paiute Indians</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Shoshoni Indians</term>
+<term>Sioux Nation</term>
+<term>United States--Politics and government</term>
+<term>United States. Army</term>
+<term>United States. Army. Cavalry, 6th</term>
+<term>United States. Army. Cavalry, 7th</term>
+<term>United States. Army. Cavalry, 9th</term>
+<term>United States. Army. Infantry</term>
+<term>United States. Department of the Interior</term>
+<term>United States. Office of Indian Affairs</term>
+<term>United States. Office of Indian Affairs. Pine Ridge Agency</term>
+<term>Ute Indians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Big Foot, -1890</term>
+<term>Carr, E. A. (Eugene Asa), 1830-1910</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Sitting Bull, 1831-1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Fort McKinney (Wyo.)</term>
+<term>Fort Riley (Kan.)</term>
+<term>Fort Robinson (Neb.)</term>
+<term>Nevada</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+<term>Standing Rock Indian Reservation (N.D. and S.D.)</term>
+<term>Utah</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03362.001"/>
+
+<head type="main">INDIAN UPRISING.</head>
+<head type="sub">WHAT IT MIGHT HAVE BEEN IF MILES HAD FALTERED.</head>
+<head type="sub">The Mormons Are Said to Have Been Back of the Savages Inciting Them to Revolt&#8212;The Plot Revealed&#8212;Indians Were to Revel in Pillage and Murder.</head>
+
+<p><hi rend="bold">PINE RIDGE AGENCY, S. D., January 18.</hi>&#8212;<persName xml:id="miles.n">Gen. Miles</persName> is of the opinion, from his own observations and conversations he has had with old scouts and Indians, that a general uprising in the spring was contemplated by the 10,000 redskins in the Northwest. The ghost dance,<!--LINK Ghost Dance--> as it is now generally known, was merely a cloak for grievances which the Indians have suffered during the past 15 years, and the Messiah idea was the creation of meddlesome Mormons in Utah and Nevada.</p>
+
+<p>Combining their dance with false teaching of the Mormons, the leaders in the plot hoped to inflame every Indian in the Northwest with religious fanaticism, so that when the spring came and the grass was green they would be sufficiently excited to join in a revolt, which was to extend from the British line to the Indian Nation, and from the Missouri river to California. It was the teaching of the Mormons that when all was ready the followers of the Messiah would have only to stamp their feet and the earth would open and swallow up the whites.</p>
+
+<p>The Indians were well prepared for the revolt. They were poorly clad and half-starved through the mismanagement of their affairs by the Interior Department at Washington, and in this condition they were greedy to accept any belief that promised them the return of their buffalos.</p>
+
+<p>Shrewd old fellows like <persName xml:id="sitting.bull">Sitting Bull</persName> had been working for years for an upheaval, which would involve all the Indians in the Northwest. Their young men had been buying guns and saving their ammunition for the trouble which was to come at a vaguely fixed date in the future. So industriously did the savages prepare themselves for war that Pine Ridge Indians were frequently caught digging bullets out of buttes at Oelrich, where Captain Wells and his two companies of soldiers were spending the summer in rifle practice.</p>
+
+<p>Enough information has been gained to show that the Indians who were to take a prominent part in the upheaval were Sioux, Arapahoes, Shoshones, Cheyennes and Crows. The Utes, Piutes and Nez Perces were to take the warpath during the excitement. This fact is proved to some extent by the gradual spread of the ghost dance to all these tribes during the present winter. The leaders of this stupendous plot meant murder and pillage throughout the Northwest. With all their people inflamed with religious fanaticism, they could command a well armed warrior for every soldier in the United States Army.</p>
+
+<p>They were the irreconcilable savages of the Western Indians, who have done all in their power to stop the advance of civilization and who have been embittered by the harsh treatment of the Indian Bureau. The younger and more progressive element in the tribes could not be influenced into revolt by mere harangues for war. It was for this reason therefore, that the Messiah craze was started.</p>
+
+<p>The natural superstition of the redskins soon absorbed the teachings of the wily old fellows, and when the snow came even the staunchest friends of the Government among the Indians were dancing with insane vigor. The killing of Sitting Bull, however, upset everything, for a time at least. The Indians became divided among themselves, and then disconcerted at the rapidity with which troops were concentrated, it became evident to them that death was sure to follow any demonstration on their part.</p>
+
+<p>In the turmoil which existed in the great Sioux Nation, many of the Indians of the Northern agencies stampeded for Pine Ridge, which seemed to them to be the possible theater for the crash. Some of them came all the way from the Chow country, while others represented Standing Rock and the Cheyenne river agencies. Still others came from the Missouri river.</p>
+
+<p>Big Foot happened to get into the crater just when it was not. There was an explosion, and Big Foot and his 200 people were wiped out. This conflict destroyed whatever life there yet remained in the plot. Sitting Bull's sister is a prisoner at Pine Ridge. In an interview with a correspondent to-day she admitted that the Indians had contemplated an upheaval in the spring, and that if it had not been crushed by the masterly work of General Miles and his subordinates, the extreme Northwest would have been pillaged from end to end.</p>
+
+<p>There is some doubt, however, as to whether the trouble is all over. There are still thousands of savages in a restless condition. They are stunned for the moment by the terrific blow the army has struck, but there are many who believe that as soon as the grass gets grown a revolt will break out in another quarter.</p>
+
+<p>The 10,000 Indians who are here at Pine Ridge are also to surrender their arms. They have had 48 hours in which to turn in their rifles, but up to noon to-day only a few weapons had been handed to Agent Price. With few exceptions, the guns antedate Daniel Boone.</p>
+
+<p>The Indians in the hostile camp had a council all last night. The Brules want to remain here with the Ogallallas, but it now seems probable that they will be escorted back to their old reservation by Captain Taylor's scouts, or by a detachment of military. There is a possibility of trouble if this step is taken, as the Brules say they are willing to do everything General Miles orders, provided they are permitted to remain here. The Sioux from the northern agencies will be weeded out of the hostile village and given new camping grounds, preparatory to their transfer to their homes.</p>
+
+<p>So firmly convinced is General Miles that the war is over, that preparations are being made to send the troops back. The garrisons at Ft. Robinson, Ft. Niobrara and Ft. McKinney will be strengthened for service during the winter. The famous Sixth Cavalry, of New Mexico, has been assigned to the Department of the Platte, and will be stationed at Ft. McKinney and Ft. Niobrara. General Carr,<!--LINK Carr--> who commanded this regiment, will have his headquarters at the latter fort. Fts. Robinson, Niobrara and McKinney commanded the great Pine Ridge Agency. The Seventh Infantry, from Ft. Logan will be ordered home. The flying Ninth Cavalry will probably return to Ft. Robinson.</p>
+
+<p>The Seventh Cavalry, whose home is Ft. Riley, in Kansas, will, it is said, be ordered to New Mexico. It is probable that a regiment of infantry will be kept at the agency during the winter. Every possible precaution will be taken to keep the Indians from breaking loose again in the spring.</p>
+
+<p>Cranks are beginning to come to the agency. The Rev. Dr. Hansen, of the Arbitration League of America, is here. He is a Quaker from Philadelphia. He is going to put down the rebellion by persuasion. There is a Messiah at Rushville, who is laid up with a broken leg, which he got while drunk. Miss Sickles, of Chicago, who is here to get Little Wound to lecture at the Auditorium, has been unsuccessful. Miss Elaine Goodale, who has made some sort of reputation as a magazine writer, is about to marry a full-blooded Sioux doctor. Then there are reports of the coming of English officers who are going to join Buffalo Bill, who has gone away, and kill all the Indians in sight. There was another death in the Indian hospital to-night. Sheath-the-Knife, a venerable savage who got mixed up in the Big Foot fight, passed away without uttering a word. The doctors wanted to saw his leg off, but Sheath-the-Knife couldn't see how he was going to ride a horse with one leg, and so he refused to submit to the amputation.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

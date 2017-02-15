@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp00550">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Sitting Bull Talks</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp00550</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Sitting Bull Talks</title>
+<title level="j">Philadelphia Inquirer</title>
+<pubPlace>Philadelphia, PA</pubPlace>
+<date when="1885">July 3, 1885</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Audiences</term>
+<term>Crow Indians</term>
+<term>Electric lighting</term>
+<term>English</term>
+<term>Fasts and feasts</term>
+<term>French</term>
+<term>Indians of North America</term>
+<term>Little Bighorn, Battle of the, Mont., 1876</term>
+<term>Mexicans</term>
+<term>Oral histories</term>
+<term>Scalping</term>
+<term>Sioux Nation</term>
+<term>Sioux Nation. Treaties, etc. United States, 1868, November 7</term>
+<term>Translators</term>
+<term>Treaties, land cessions, and other U.S. Congressional documents relative to American Indian tribes</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Sitting Bull, 1831-1890</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term><term>Black Hills (S.D. and Wyo.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp00550.001"/>
+
+
+<head type="main">SITTING BULL TALKS.</head>
+<head type="sub">Telling His Story of the Custer Massacre Through an Interpreter.</head>
+
+<p><ref xml:id="sitting.bull">Sitting Bull</ref>, the King of the Sioux Nation, entertained representatives of the press at his quarters, in the "Wild West" camp, at the Gentlemen's Driving Park<ref target="n01">1</ref> yesterday. The great fighting chief gave his guests a warm welcome, and after Buffalo Bill, Con. Groner, the cowboy Sheriff of the Platte; <ref xml:id="taylor.w">Buck Taylor</ref>, king of the cowboys; <ref xml:id="esqueval.a">Antoine Esqueval</ref>, the champion vaquero; <ref xml:id="irving.w">Bill Irvine</ref>, Broncho Bill and the other celebrities had been introduced, Sitting Bull consented to give his story of the causes leading to the Custer massacre of 1876, which he did through an interpreter, a half breed and member of his tribe.</p>
+
+<p>The Sioux Chief said he remembered, when a boy, how his great grandfather told him of the time when the Indians were the sole rulers of the country, and how they subsequently made treaties with the English, French and Mexicans. He was only fourteen years old when he engaged in his first battle with the Crow tribe, and then it was his father gave him the name of Sitting Bull, for though he took no scalp, he struck some very hard blows. After he had risen in his tribe, the whites began to invade their territory more and more, and though under the protection of the treaty of 1868, when Custer<!--LINK Custer--> discovered gold in the Black Hills, the whites broke all bounds and assumed possession, without stopping to ask leave. For a while the troops endeavored to stop the invasion, and Sitting Bull declared that he told his braves not to shoot until the attack came from the other side.</p>
+
+<p>Indians and troops came together and the bloodshed that followed is a matter of history. Sitting Bull said thirty-five of his men were killed outright in the Custer fight and many afterwards died of their wounds.</p>
+
+<p>The old chief told his story slowly and was apparently much affected. The interpreter stated that he has frequently expressed a desire that he shall not be asked to refer to the last fight, as he wishes to think only of peace and the advancement of his tribe through the knowledge which he is acquiring in his travels.</p>
+
+<p>When the chief had finished the visitors were escorted to the dinner tent, where, sticking in the ground in front of the benches, were a score of pointed oak sticks, about eighteen inches long. Buffalo Bill and Sitting Bull having taken the place of the hosts the guests, who took seats on either side, were initiated in the fundamental principles of participation in a wild West feast. Rough, long-haired cowboys soon entered with smoking hot ribs of beef, cooked before the camp-fire, which were transfered from the tin plates to the points of the oaken sticks. Salt, pickles, crackers and other accessories were hurried in by the frontiersmen waiters, and, after the disposal of various liquids, of more particularly Eastern brands, the crowning course of the feast; "Wild West" pie, was brought in from the camp bakery.</p>
+
+<p>Sitting Bull and his adjutant, Crow Eagle, have developed wonderful Wild West pie consumptive propensities, and the half-breed interpreter confidentially informed the reporter that he has been directed by the chief to secure the receipt for making the delicacy, as he proposes to instruct his squaws in the mysteries of the pantry.</p>
+
+<p>The attendance at the show yesterday afternoon numbered 13,400 odd and was the best of the season. The evening exhibitions by electric light are also getting extremely popular. Special performances will be given tomorrow afternoon and evening.</p>
+
+
+
+
+
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Gentlemen's Driving Park, Philadelphia, Pennsylvania, June 29 through July 6, 1885.</note>
+</back>
+</text>
+</TEI>

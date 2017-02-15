@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01137">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Savages and Schurz</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01137</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Savages and Schurz</title>
+<title level="a" type="sub">Buffalo Bill's Chiefs have a Pow-wow with their German Father</title>
+<title level="j">The Washington Post</title>
+<pubPlace>Washington, D.C.</pubPlace>
+<date when="1878-09-18">September 18, 1878</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Actors</term>
+<term>American Indians</term> 
+<term>Buffalo Bill Combination</term>
+<term>Indians of North America</term>
+<term>Indians</term>
+<term>Meetings</term>
+<term>Melodrama, American</term>
+<term>Nez Perc&#233; Indians</term>
+<term>Pawnee Indians</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Translators</term>
+<term>United States. Department of the Interior</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burgess, C. A</term>
+<term>Schurz, Carl, 1829-1906</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Washington (D.C.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01137.001"/>
+
+<head type="main">THE SAVAGES AND SCHURZ.</head>
+<head type="sub">Buffalo Bill's Chiefs have a Pow-wow with their German Father.</head>
+<p>A delegation of Indians, belonging to the Buffalo Bill Combination, called upon Secretary Schurz, at the Interior Department, yesterday afternoon. The party consisted of Little Warrior, (Pawnee warrior,) Follow the Sun, (Nez Perce chief,) Eagle that Flies High, (Pawnee chief,) and Messrs. C. A. Burgess and H. E. Burgess,<ref target="n01">1</ref> scouts, and interpreters. The visit was an informal one. The Indians stated that their tribes were prospering finely, and that they are generally satisfied with what the Government has given them. Little Warrior stated that he lived in a log hut, erected by himself, and when he returned in the spring, he would go to ploughing. The Secretary replied that he was glad the Indians had called upon him; that this visit to Washington and other cities would show them how the whites live and how they have prospered by their own industry. In conclusion, he told them that he hoped they would exhibit the same spirit of industry and do all they could for the welfare and prosperity of their nations.</p>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Charles A. Burgess, a Pawnee interpreter, and Eddie A. ("Willy") Burgess were brothers hired in August 1878 to perform with the Buffalo Bill Combination; they traveled with the Combination for several years.</note>
+</back>
+</text>
+</TEI>
