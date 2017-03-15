@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Expert Rough Riding Performed by the Indians and Cowboys with Buffalo Bill</title>
+<title type="main">Expert Rough Riding</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -46,7 +46,8 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main">Expert Rough Riding Performed by the Indians and Cowboys with Buffalo Bill</title>
+<title level="a" type="main">Expert Rough Riding</title>
+<title level="a" type="sub">Performed by the Indians and Cowboys with Buffalo Bill</title>
 <title level="j">Brooklyn Daily Eagle</title>
 <pubPlace>Brooklyn, NY</pubPlace>
 <date when="1894-05-10">May 10, 1894</date>
@@ -154,7 +155,8 @@
 
 <pb facs="wfc.nsp05788.001"/>
 
-<head type="main">EXPERT ROUGH RIDING Performed by the Indians and Cowboys With Buffalo Bill.</head>
+<head type="main">EXPERT ROUGH RIDING</head>
+<head type="sub">Performed by the Indians and Cowboys With Buffalo Bill.</head>
 <head type="sub">An All-Summer Camp of Wild West Sports on the City's Southern Shores That Eclipses Any Circus&#8212;Some Interesting Doings at a Preliminary Reception.</head>
 
 
