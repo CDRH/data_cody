@@ -105,7 +105,7 @@ and markup</change>
 <head>Cody's Tribute to Edison</head>
 
 <figure>
-<media url="../audio/mp3/codyedison.mp3" mimeType="audio/mp3" width="230px" height="27px" />
+<media url="codyedison.mp3" mimeType="audio/mp3" width="230px" height="27px" />
 </figure>
 
 <p>It is a great pleasure to see this wonder working man at his task and to find
