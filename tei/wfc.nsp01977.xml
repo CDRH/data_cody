@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01977">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Cody Lauds President</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01977</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Cody Lauds President</title>
+<title level="a" type="main">Buffalo Bill Says Roosevelt Understands the West</title>
+<title level="j">The Washington Post</title>
+<pubPlace>Washington, D.C.</pubPlace>
+<date when="1906-12-17">December 17, 1906</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term> 
+<term>Desert reclamation</term>
+<term>Forests and forestry</term>
+<term>Frontier and pioneer life</term>
+<term>Indians of North America</term>
+<term>Irrigation</term>
+<term>Reclamation of land</term>
+<term>Rocky Mountains</term>
+<term>United States--National Guard</term>
+<term>United States. Army. Cavalry, 12th</term>
+<term>United States. Office of Indian Affairs</term>
+<term>Ute Indians</term>
+<term>Water rights</term>
+<term>Water use</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carr, E. A. (Eugene Asa), 1830-1910</term>
+<term>Roosevelt, Theodore, 1858-1919</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Cody (Wyo.)</term>
+<term>Shoshone Irrigation District (Wyo.)</term>
+<term>Wyoming</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01977.001"/>
+
+
+<head type="main">CODY LAUDS PRESIDENT</head>
+<head type="sub">Buffalo Bill Says Roosevelt Understands the West.</head>
+<head type="sub">LAND RECLAMATION PROFITS</head>
+<head type="sub">Indian Fighter Claims to Be Pioneer in Work of Transforming Deserts Into Farms&#8212;Arid Fields, He Says, "Will Blossom Like Spring Roses"&#8212;Government Gets Back Money with Interest.</head>
+
+<div2>
+<p>"Until the coming of Roosevelt we never had a President who understood and appreciated the actual conditions of the great West," remarked Col. William F. Cody (Buffalo Bill), discussing the reclamation of the arid lands last evening. The old Indian fighter came here to see officials on irrigation and forestry matters and to visit his old friend, Gen. Eugene A. Carr, U. S. A., retired.<!--LINK Carr--></p>
+
+<p>He has been a busy man every day&#8212;working far harder than the average man of half his age. The vicissitudes of Indian warfare and the hardships of the plains have left no mark upon him. He is as erect and as quick and alert as he was forty years ago. One of the first things he did was to pay his respects to President Roosevelt, whom he holds in the highest regard and admiration.</p>
+
+<p>"As for the irrigation part of my mission, I wanted to see about some work that is to be done on concessions I turned over to the United States government, which I received from the State of Wyoming," said Col. Cody, as he sat in the smoking room at the residence of Gen. Carr, in Twentieth street.</p>
+</div2>
+
+<div2>
+<head type="sub">Interested in Reclamation</head>
+<p>"I am interested naturally in this reclamation work, for I was the first to start it under the Congressional act, which gave to each arid State 1,000,000 acres for irrigation purposes. I finished my canal and turned it over to the United States government, with a concession I had from the State of 160,000 acres. While here I also looked up forest matters, as I hold some forest lands in the Rocky Mountains.</p>
+
+<p>"It was long thought that the Western arid lands were of no account, and some of the early Presidents even asserted that it was useless to create new States in the West. But the reclamation, started under the Roosevelt administration, will make these arid lands blossom like spring roses.</p>
+
+<p>"Many persons think the government is spending millions without any chance of getting it back. This is wrong. The government is selling the wild lands and using the money to build canals and reservoirs for desert lands. The valuable desert lands are sold to actual settlers with water rights. They have to pay for the land and the water cost, and have ten years in which to do it. The government gets back the money with interest, and at the same time provides productive lands for hundreds of thousands of settlers."</p>
+</div2>
+
+<div2>
+<head type="sub">In a Ute Uprising.</head>
+<p>When he was asked about the conditions of the Indians in the West, Col. Cody said:</p>
+
+<p>"When the Utes started out and said they would not go back, the governor of Wyoming sent me down to look over the situation and learn whether he should call out the National Guard to co-operate with the Federal troops for the protection of the frontier people. But happily, when the soldiers got around them, the Utes, instead of fighting to the death, as they said they would do, surrendered. The soldiers are taking them to Fort Meade, S. Dak., but what disposition will be made of them I don't know.</p>
+
+<p>"There is no other unrest among the Indians. In most of the reservations they are doing very well, and learning the white man's ways. It is hard for the Indian to lay down the bow and arrow and take up the plow and hoe, abandoning the excitement of the chase for the simple life of civilized labor. But the government is using very good judgment in dealing with the Indians, and is constantly bettering their condition."</p>
+
+<p>Col. Cody went to the Zoological Park yesterday afternoon to visit the twelve buffalo he lent the park four years ago. He found them all in fine condition.</p>
+
+<p>He left last night to visit his daughter, the wife of Lieut. Stott,<ref target="n01">1</ref> Twelfth Cavalry, United States army, at Fort Oglethorpe, Ga. From there he will return to his home at Cody, Wyo.</p>
+</div2>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Lieutenant Clarence Armstrong Stott (1876-1907),  Twelfth Cavalry, United States Army, was Irma Cody's first husband, who died of pneumonia on December 16, 1907, while serving in White Horse, South Dakota. <!-- P.69.0262 --></note> 
+</back>
+</text>
+</TEI>

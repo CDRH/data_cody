@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03318">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Half-Breeds Scared</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03318</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>G.E.B.</author>
+<title level="a" type="main">Half-Breeds Scared</title>
+<title level="j">Inter Ocean</title>
+<pubPlace>Chicago, IL</pubPlace>
+<date when="1891-01-07">January 7, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Adoption</term>
+<term>American Indians</term> 
+<term>Indian children</term>
+<term>Indian women</term>
+<term>Indians of North America</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Henry, Guy Vernor, 1839-1899</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03318.001"/>
+
+<head type="main">HALF-BREEDS SCARED.</head>
+<head type="sub">They Leave Pine Ridge in a Hurry, Fearing an Onslaught by Hostiles.
+A Reign of Terror at the Indian Agency from Sunday Until Monday.
+Serio-Comic Incident of the Custer Massacre&#8212;Gus Korn's Wild Ride.</head>
+<head type="sub">DEAD INDIANS BURIED.</head>
+<p><hi rend="bold">PINE RIDGE, S. D., via Rushville, Neb., Jan. 6.</hi>&#8212;<hi rend="italic">Special Telegram.</hi>&#8212;The burial party returned from Wounded Knee last night. They brought in with them one badly wounded buck, one wounded woman, and one old blind, decrepit squaw. The party buried 147 bodies, 84 of whom were bucks, and 67 women and children. Friendly Indians had already removed two or three wagon loads of the bodies of their relatives and in all probability there are a number of bodies in the ravines and gulches where the Indians had crawled away to die. It is estimated that at least 160 Indians were killed and over 50 wounded.</p>
+
+<p>Telegrams from Colorado and Montana have been received saying that <persName xml:id="miles.n">General Miles</persName> was dead and that Colonel Henry had committed suicide. Both are untrue. General Miles' name may have been read for Captain Mills of the Second Infantry, who died of rheumatism of the heart. The report about Colonel Henry is cruel and without the shadow of a foundation. No man acted more bravely, nor did better service one week ago than the gallant Colonel.</p>
+
+<p>Colonel Forsyth has been called before a Court of Inquiry to examine into the Wounded Knee battle. The examination may take place here. The Colonel has the sympathy of every one that was in the battle as all hold him blameless.</p>
+
+<p>Late yesterday afternoon a stampede among the half-breeds took place. A score or more took their families and went south toward the railroad. The Indians who have been loafing around the camp from the beginning all disappeared in an hour, while no white men even made a start. The cause of it all was the reports coming from numerous and reliable sources that the Indians in camp would at a signal each pick their man and begin firing, while the hostile army would make an attack from outside.</p>
+
+<p>A number of shots were fired by the outer pickets at hostiles. The enemy prowl around us every night and do all they can to keep every one from sleeping. As soon as the additional infantry arrive to strengthen the agency a big battle may be looked for. It may start at any moment. Let it come, if it will only wind up the war.</p>
+
+<p>The 4 months old girl baby found on the battle-field on New Year's Day has been adopted by Yellow Bird. The baby has been christened Maggie C. Nailor by Major Burke,<!--LINK Burke--> who stood as godfather and who becomes financially responsible for the rearing of the child. The genial Major says that Buffalo Bill's boys will educate the miss. The Indians call the little one "Okicize Wanji Cinca," child of the battlefield.</p>
+
+<p>Indian couriers have arrived with a message, saying that fully one-half of the hostile camp are ready to accept General Miles' terms and will surrender if they can get away from the rest.</p><byline><hi rend="bold">G. E. B.</hi></byline>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

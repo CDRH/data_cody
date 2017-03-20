@@ -42,7 +42,6 @@
 
 <notesStmt>
 <note type="audio">
-<ref type="audio" target="wfc.aud.69.236.7" /> targType="application/x-shockwave-flash" 
 </note>
 </notesStmt>
 
@@ -122,6 +121,7 @@
 </profileDesc>
 
 <revisionDesc>
+  <change when="2017-01-31"><name>Weakly, Laura K.</name> Updated encoding</change>
   <change when="2013-08-21"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -130,19 +130,18 @@
 
 <body>
 
-<div1 type="html">
-<a href="http://codyarchive.org/images/view/photographs/wfc.img.69.236.7"><img src="http://codyarchive.org/figures/250/wfc.img.69.236.7.jpg"/></a>
-<h3>Commentary on "Sioux Indians photographed in Gertrude Käsebier's Studio"</h3>
-<h4>By Michelle Delaney, Smithsonian Institution</h4>
+<div1 type="audio">
 
-<audio controls="controls">
-<source src="../audio/mp3/wfc.aud.69.236.7.mp3" type="audio/mpeg"/>
-<source src="../audio/ogg/wfc.aud.69.236.7.ogg" type="audio/ogg"/> <embed
-src="http://www.google.com/reader/ui/3523697345-audio-player.swf"
-flashvars="audioUrl=../audio/mp3/wfc.aud.69.236.7"
-type="application/x-shockwave-flash" width="230" height="27"
-quality="best"/>
-</audio>
+<figure>
+<graphic url="wfc.img.69.236.7"/>
+</figure>
+
+<head>Commentary on "Sioux Indians photographed in Gertrude Käsebier's Studio"</head>
+<byline>By Michelle Delaney, Smithsonian Institution</byline>
+
+<figure>
+<media url="wfc.aud.69.236.7.mp3" mimeType="audio/mp3" width="230px" height="27px"/>
+</figure>
 
 <p>
 This group photo of potentially all the Indians who came to Käsebier's studio in April of 1898 is a wonderful example of showing the natural light that was exposed into her studio, and that she used to the best potential. She knew that the light was always going to be an element in her daytime photography, and how it cast the shadow across the floor and across these individuals, it's a very beautiful image that reflects the group pondering what this photography was going to be like. Potentially when they first arrive. But her technical skill in achieving this group portrait and some of the others that we see as part of the collection is a tribute to what she was able to do both behind the camera and in the darkroom. She uses all the elements to pull together the whole.</p></div1>
