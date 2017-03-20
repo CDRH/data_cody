@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.P.69.1153">
+      <agentSet>
+         <display>unknown</display>
+         <agent>
+            <name>unknown</name>
+            <dates/>
+            <role>photographer</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>circa 1913</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW"><tei:p>William F. Cody with other people in front of Bennett Drug Store in Meeteetse, Wyoming. Cody holds hands with child in center. Snow in foreground. Hand written note on verso of print reads, "Mary Jester Allen-Helen Cody Allen, Mary Jester Allen Collection."</tei:p></description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>photograph</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>4.80 x 3.69 b&amp;w photographic print</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS6 William F. Cody Collection</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS6 William F. Cody Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Stores &amp; shops</term>
+         </subject>
+         <subject>
+            <term>People</term>
+         </subject>
+         <subject>
+            <term>Snow</term>
+         </subject>
+         <subject>
+            <term>Drugstores</term>
+         </subject>
+         <subject>
+            <term>Cody, William F. (William Frederick), 1846-1917</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">William F. Cody with others in front of Bennett Drug Store, Meeteetse, Wyoming</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>photograph</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW"><tei:p></tei:p></description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.pho.P.69.1153"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

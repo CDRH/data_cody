@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pc.69.236.10">
+      <agentSet>
+         <display>Käsebier, Gertrude, 1852-1934</display>
+         <agent>
+            <name>Käsebier, Gertrude, 1852-1934</name>
+            <dates/>
+            <role/>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>circa 1898</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW"><tei:p>Platinotype: Indian male looking down, wearing full feather headdress and gun on
+   left hip, standing together with a woman outside a teepee, partial view of Indian male in
+   background, mounted with caption: "BLACK+HORSE" on lower margin of mount</tei:p></description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>photograph</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>platinum print; paper</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>Photographic History Collection, National Museum of American History, Smithsonian
+   Institution 69.236.10, 2006-17100</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display/>
+         <source>
+            <name type="electronic" href="http://americanhistory.si.edu"/>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term/>
+         </subject>
+         <subject>
+            <term/>
+         </subject>
+         <subject>
+            <term/>
+         </subject>
+         <subject>
+            <term/>
+         </subject>
+         <subject>
+            <term/>
+         </subject>
+         <subject>
+            <term/>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">Sioux Indian Black Horse, woman, tipi</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>photograph</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW"><tei:p></tei:p></description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.pc.69.236.10"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>Photographic History Collection, National Museum of American History, Smithsonian
+   Institution 69.236.10, 2006-17100</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

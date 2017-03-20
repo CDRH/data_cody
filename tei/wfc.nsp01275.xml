@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01275">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Good-Bye</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01275</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Good-Bye</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, N.Y.</pubPlace>
+<date when="1887-04-01">April 1, 1887</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Atlantic crossings</term>
+<term>Bears</term>
+<term>Cowboys</term>
+<term>Deer</term>
+<term>Elk</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Logistics</term>
+<term>Mexicans</term>
+<term>Mules</term>
+<term>Passenger ships</term>
+<term>S.S. State of Nebraska</term>
+<term>Sharpshooters</term>
+<term>Stagecoaches</term>
+<term>Wallack's Theatre</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Bigelow, John, Mrs.</term>
+<term>Frenzeny, Paul</term>
+<term>Kiralfy, Bolossy, -1932</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Satterlee, Herbert Livingston, 1863-1947</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term><term>Madison Square Garden (New York, N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+ <change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01275.001"/>
+
+<head type="main"><hi rend="italic">BUFFALO BILL'S GOOD-BYE.</hi></head>
+<head type="sub">INDIANS, BUFFALO, AND COWBOYS CROWD THE STEAMER NEBRASKA.</head>
+<p>Buffalo Bill's Wild West show sailed for England yesterday morning on the steamship State of Nebraska, which had been chartered by the managers. The scene on board the big vessel before she started from the foot of Leroy-street was as gay as a Kiralfy ballet. The upper deck was crowded with the tall figures of Indians, who, clad in all their finery, seemed to wonder what on earth was going to happen, and when. Mr. and Mrs. Walking Buffalo, in apple green flannel, stood near the gong, into which they peered with devouring curiosity. When, later, somebody struck it, they started back in affright and said something about their ancestor's beard in Indian. Monsieur and Madame Eagle Horse, the latter with a juvenile Eagle Horse on her back, promenaded the deck like tigers and uttered cunning little whoops, which to the initiated expressed satisfaction tempered with awe. Seated in the steerage and shivering as the March winds bleakly struck them were Moccasin Tom, Blue Rainbow, Wounds-One-Another, Throws-Away, Rushing Bear, Arrow Mound, Returns-from-Scout, Big Leggins, Spotted Eagle, Picket Pin, Tall Medicine, Iron Good Voice, Pawnee Killer, Double Wound, and Mr. and Mrs. Cut Meat, and their baby.</p>
+
+<p>Buffalo Bill, in his orthodox costume, walked up and down. A handsome sword had been sent to him by some of his military friends. The cowboys, riders, shooters, and Mexicans gave no trouble at all. They scattered themselves over the ship with their friends and talked and laughed in high enjoyment. <persName xml:id="oakley.a">Miss Annie Oakley</persName>, the markswoman, bubbled over with good spirits; Miss Georgie Duffy, the rider, capered about the deck, talking and laughing vehemently. Then there were <persName xml:id="frenzeny.p">P. Frenzeni</persName>, C. Gonzales, Ben Galinda, Jerry Allard, Christian Schelting, Tom Kidd, Tom Duffy, Jesse Hines, Mrs. D. S. Esquirel, S. Rivera, Leon Juret, Atchez Jalbert, Jos&#233; Romaz, Frank Scheeling, Mustang Jack, and the 100 other accompanyists to the 133 Indians.</p>
+
+<p>The animals were safely wedged into their temporary homes. About 200 horses were ensconced in stalls eight feet long; 16 buffaloes could be seen accustoming themselves to the idea of crossing the Atlantic; 12 flossy, docile mules thrust forth their noses to be petted, and a couple of bears, elks, and deer were stowed away where they would be secure from harm. The huge stage coach<!--LINK Deadwood Coach--> belonging to the show, boxed and corded and nailed, afforded much amusement as it was lowered into the hold with the utmost difficulty. A few cabin passengers had been allowed the privilege of crossing with Buffalo Bill and company. Mrs. John Bigelow enjoyed that advantage and bustled about talking in her quick nervous way to every one she met. So did Richard H. Halley, the genial scenic artist of Wallack's Theatre, who was going abroad for a two months' visit. Then there was Lilford Arthur, in a huge fur-lined coat, with his wife; Herbert L. Satterlee, Allston McKenzie, G. W. Crabtree, Mme. Mattei, and others.</p>
+
+<p>At 10 o'clock the State of Nebraska started. There was a dense crowd on the dock, shouting and whooping and gesticulating for dear life. Buffalo Bill's friend and <persName xml:id="salsbury.n">Nate Salsbury's</persName> friends went down on the steamship to Sandy Hook to return on the John E. Moore. It was shortly after noon that the Nebraska reached Sandy Hook, and by that time Mrs. Salsbury, who went with her husband, was so tearful that even the abundant floral tributes that had been sent to her failed to soothe her spirits.</p>
+
+<p>Just as the guests were leaving the steamship Nate Salsbury found two well dressed young men down stairs with a big valise. "You'd better get off," said Mr. Salsbury promptly.</p>
+
+<p>"The Mexicans have hired us to take care of them," said the taller of the two promptly.</p>
+
+<p>"But I haven't," was Mr. Salsbury's rejoinder.</p>
+
+<p>The two young men, much crestfallen were marched off the steamer, and were subsequently joined by three other boys, who as stowaways had hoped to get a free passage. These energetic youths declared that Mr. Cody had hired them.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

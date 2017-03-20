@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.ill.00024">
+      <agentSet>
+         <display/>
+         <agent>
+            <name/>
+            <dates/>
+            <role/>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>1887-07-09</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW"><tei:p>Headline reads: Our Fourth of July Celebrations.
+ Inset captions: The Queen starts the Imperial Institute Anthem.
+Yankee Doodle's come to town.
+London's Fourth of July at Mr. Henry F. Gillig's.
+Accompanying text: THE SHOWMAN.
+THE AMERICAN EXHIBITION. On Saturday evening last the Executive Council of the American Exhibition gave a dinner in the Trophy Room of the Art Gallery to the London Working Men's Association, the attendance being upwards of one hundred. Colonel Russell, a member of the council, presided, and on his left sat Colonel Cody (Buffalo Bill). In proposing the toast of "The Queen" the chairman spoke of the working classes as the vitality of a nation, remarking that he alluded not merely to the work done on the farm on in the workshop, but to the work performed in every rank of life, and said that in America anarchy was crushed when it tried to establish revolution by the prostitution of the dignity of labour. Mr. George Potter proposed "Prosperity to the United States," and in doing so referred to various advantages they possessed over England, and expressed an earnest hope that the peoples of England and America would continue to exhibit good feelings towards each other, and go forward, hand in hand, as the pioneers of liberty, progress, and fraternity. Deputy-Consul Moffatt returned thanks. The remaining toasts included "British Industries," Mr. Jeans, secretary of the Iron and Steel Institute, responding; and "The Chairman and Directors of the American Exhibition," the secretary, Mr. Speed, responding. At the conclusion of the dinner all present accepted an invitation to view the evening performance of the "Wild West" Show in the adjacent arena. </tei:p></description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display/>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display/>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder/>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display/>
+         <source>
+            <name type="electronic" href=""/>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>European Tours</term>
+         </subject>
+         <subject>
+            <term>Personages/Royalty</term>
+         </subject>
+         <subject>
+            <term>Visual Culture</term>
+         </subject>
+         <subject>
+            <term/>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">Our Fourth of July Celebrations from The Penny Illustrated Paper and Illustrated Times (London, England), Saturday, July 09, 1887; pg. 29; Issue 1362.</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype/>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW"><tei:p></tei:p></description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.ill.00024"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder/>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pc.P.6.269">
+      <agentSet>
+         <display>unknown</display>
+         <agent>
+            <name>unknown</name>
+            <dates/>
+            <role/>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>circa 1910</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW"><tei:p>Charles Aldrich, head packer at TE Ranch, and William F. Cody ride in the trees of TE Ranch, accompanied by four pack horses.  Note on verso in pencil, "Col. Cody (R) Charles Aldrich (L) / T-E Ranch Head Packer."</tei:p></description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>photograph</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>5 x 7.188 b&amp;w photograph</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS6 William F. Cody Collection</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS6 William F. Cody Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Men</term>
+         </subject>
+         <subject>
+            <term>Pack animals</term>
+         </subject>
+         <subject>
+            <term>Horses</term>
+         </subject>
+         <subject>
+            <term>Ranches</term>
+         </subject>
+         <subject>
+            <term>Buffalo Bill, 1846-1917</term>
+         </subject>
+         <subject>
+            <term>Cody, William F. (William Frederick), 1846-1917</term>
+         </subject>
+         <subject>
+            <term>Pack animals (Transportation)</term>
+         </subject>
+         <subject>
+            <term>Ranches Wyoming</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">William F. Cody and Charles Aldrich ride with pack horses at the TE Ranch</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>photograph</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW"><tei:p></tei:p></description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.pc.P.6.269"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp06331">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indians and Buffaloes</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp06331</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Indians and Buffaloes</title>
+<title level="a" type="sub">That Make the Old Folks Down East Open Their Eyes</title>
+<title level="j">Omaha Daily Bee</title>
+<pubPlace>Omaha, NE</pubPlace>
+<date when="1883-10-24">October 24, 1883</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term> 
+<term>Audiences</term>
+<term>Cowboys</term>
+<term>Historical reenactments</term>
+<term>Horse arenas</term>
+<term>Horses</term>
+<term>Indian children</term>
+<term>Indian women</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Lakota dialect</term>
+<term>Livestock</term>
+<term>Nobility--England</term>
+<term>Press agents</term>
+<term>Private railroad cars</term>
+<term>Railroad travel</term>
+<term>Sioux Nation</term>
+<term>Stagecoaches</term>
+<term>Tipis</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Bennett, James Gordon, 1841-1918</term>
+<term>Carver, William F. (William Frank), 1840-1927</term>
+<term>Ingraham, Prentiss, 1843-1904</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Boston (Mass.)</term>
+<term>Coney Island (New York, N.Y.)</term>
+<term>Nebraska</term>
+<term>New Haven (Conn.)</term>
+<term>Newport (R.I.)</term>
+<term>Omaha (Neb.)</term>
+<term>Philadelphia (Pa.)</term>
+<term>Youngstown (Ohio)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp06331.001"/>
+
+
+<head type="main">INDIANS AND BUFFALOES.</head>
+<head type="sub">That Make the Old Folks Down East Open Their Eyes.</head>
+<head type="sub">An Interview With the Press Representatives of Buffalo Bill's Troupe.</head>
+<div2>
+<p>Yesterday <persName xml:id="ingraham.p">Mr. Prentiss Ingraham</persName> dropped into THE BEE office, and the scribes here enjoyed a friendly chat, in which a good deal was learned about the way in which Buffalo Bill's great show "took" in the East. Col. Ingrahrm is the press agent of this combination and general representative. As the show started from Omaha and is soon to give its final exhibition here for the season, it is one in which our people are particularly interested, and especially because it was organized and equipped in Nebraska. They have followed all accounts of its wanderings through the East with much interest, and have been pleased to learn of the success of Buffalo Bill and <persName xml:id="carver.w">Dr. Carver</persName> The first question we put to Colonel Ingraham, then was in regard to the earnings.</p>
+
+<p>"Our earnings have been enormous, he said, "but our expenses for so large a company have been correspondingly heavy. You see we had made for us</p>
+</div2>
+<div2>
+<head type="sub">A SPECIAL TRAIN</head>
+
+<p>of thirteen cars in which we have travelled the whole season, carrying 136 people and 108 head of stock, including twelve buffaloes. But we've had immense audiences wherever we went. Now, at Youngstown, Saturday three weeks ago, during the fair, we had 36,000 people, which is more than the population of the town, and the next week, without the fair, we had 36,000. In Boston we ave[]aged 6,000 people and our receipts in Philadelphia for five days showed &#36;1,000 each more than the day before. Why, people just went crazy over the show. They had never seen anything of the kind before. In New Haven we showed one day during a pouring rain and 7,000 people kept their seats. Twenty-five dollar bonnets just drooped and turned color in that rain I tell you."</p>
+
+<p>"You had big crowds at Coney Island, we understand?"</p>
+
+<p>"Yes, all the time, but to tell the truth we couldn't do as well at Coney Island as at some other places on </p>
+</div2>
+<div2>
+<head type="sub">ACCOUNT OF THE SAND.</head>
+
+<p>It made a bad track to run horses on and we couldn't get them off of a slow canter, and the stage coach could hardly be dragged through it. This took much of the dash and spirit out of the exhibition. That stage coach attracted as much attention as anything we had, and we always managed to fill it with important personages when it made its trip around the track and was attacked by Indians. Pop Whittaker would make his little speech introducing the history of the coach, that it had been attacked near Deadwood and the passengers rescued by cowboys, and then away it would go, while the audience grew wilder and wilder, At Newport Isaac Bell, jr.,<ref target="n01">1</ref> brother-in-law of James Gordon Bennett, and Lord Mandeville<ref target="n02">2</ref> were passengers, and we usually had</p>
+</div2>
+<div2>
+<head type="sub">MAYORS AND CONGRESSMEN</head>
+
+<p>or something of that sort, who were glad to accept an invitation to ride in it. The buffalo also attracted much curiosity, and, oh, yes; at Springfield the whole herd broke and swam the Connecticut river over to West Springfield, where they cavorted around in the cabbage patches of the innocent natives, much to their consternation. They were finally captured and driven back. The Springfield papers gave us good notices. Here is an interview one of these had with "Cha-sha-sha-na-po-ge-o," John Nelson,<!--LINK John Y. Nelson--> our squaw man. All of the papers devoted a great deal of space to us. The Brooklyn eagle sent down a man who stayed in camp a week and wrote up the whole thing."</p>
+
+<p>On account of the interesting way in which it is written we reprint part of the interview with Nelson from the </p>
+</div2>
+<div2>
+<head type="sub">SPRINGFIELD REPUBLICAN!</head>
+<p>We go to the lodge, which is a high and sharp tent of cotton cloth 20 feet in diameter, supported by poles on the inside as rafters support a roof, admirably calculated for protection against wind and rain. Upon the outside are a number of rude drawings in bright colored paints. We stoop to enter and find the inmates to be Nelson's Sioux wife, who is a very dark squaw of about his own age, and several of their children, while upon the other side of the lodge is a younger half breed woman with two children of her own, these last nearly white. Prone upon the ground lays the old man who bought the pistols. He is a tall, lank, dark Indian. Some pale-face had given him fire water during his excursion down town, and he is an unpleasant spectacle. Nelson immediately seizes this red man by the shoulders, jerks him to his feet, and pushes him out, talking pretty vigorously in the frontier idiom meantime, but pausing long enough to courteously invite the visitors to be seated. The Indian shuffles away in Nelson's grasp,</p>
+</div2>
+<div2>
+<head type="sub">WHINING AND MUTTERING,</head>
+
+<p>and we sit down on blankets. There is nothing in the tent but bedding, a few dishes and tin cups from which dinner has just been eaten, and a couple of traveling trunks. Neither of the women gives us the slightest notice. The old squaw is sewing on some bright colored cloth, does not look up, and only speaks occasionally in her utterly unintelligible language. The children are bright, play about quietly and are neither shy nor obtrusive, but cannot be got to speak. A little fellow of five or six, with face painted yellow and streaked with red, has a cigar half as long as his arm, readily comes up to see a little patent lighting apparatus, and, when the fire is offered, bites off the end of his prize like an old stager, puffs until it is well going, and then crawls out to lie on his face and enjoy a good smoke while </p>
+</div2>
+<div2>
+<head type="sub">WATCHING THE CROWD</head><p>Pretty soon Nelson comes back, full [missing] talk and good nature as ever. "Said he'd shoot me, that old cus did. 'G&#8212;d!' says he 'I shoot you!' Says I, 'It ain't no use. I've seen wuss lookin' Injuns that you are, and settled their hash, too! You git! says I. Goin' to scare me, he was. No, I won't have no sech work 'round my lodge. I've got children here, and I think just as much of 'em as any man does of his children. I won't have it! He'd got to get out of here. That old fellow had been down town and somebody give him whisky. Now I'm going' to watch&#8212;from this time I'm goin' to watch&#8212;and I'll send somebody to the penitentiary[] It's 10 years for anybody to give an Indian whisky. But they always find it." Nelson is on the best of terms with his children, and talks to them and to his visitors while he tries on a new pair of boots. "Yes, I talk to the children in English, and they </p>
+</div2>
+<div2>
+<head type="sub">TALK BACK IN INJUN.</head>
+
+<p>I can talk Injun just as easy as English; it seems more natural now. Throw that old hat out, Julie. I went West in 1849, from West Virginny. Started to go to Californy, got to where the Injuns were, stopped there, and been there ever since. Had some pretty hard times. Rosy, where's my other sock. Oh, here 'tis. Well, I always wanted to see Injuns. Used to read about 'em, same as boys do now in dime novels, I s'pose, and think when I was a man I'd see an Injun. Didn't wait till I got to be a man though. Ran into old Spotted Tail, out there, the first thing. I struck for the biggest tepee I see&#8212;heap bigger'n this&#8212;and went in. Couldn't understand a word, you know. When it come night they wanted I should leave, but I said: 'No, I'm goin' to camp here; that's what I'm going to do.' Now this boot is jest right, this is."</p>
+</div2>
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Isaac Bell, Jr. (1846-1889), an American businessman and diplomat, married Jeanette Gordon Bennett, daughter of <hi rend="italic">New York Herald</hi> founder James Gordon Bennett, Sr.</note>
+
+<note xml:id="n02">Note 2: Lord Mandeville was George V. D. Montagu (1853-1892), more properly addressed as Viscount Mandeville.</note>
+</back>
+</text>
+</TEI>

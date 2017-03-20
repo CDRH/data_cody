@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.cc.P.6.59">
+      <agentSet>
+         <display/>
+         <agent>
+            <name/>
+            <dates/>
+            <role/>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>1888 ca.</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW"><tei:p>A photograph of the Deadwood Stagecoach pulled by a team of mules. A driver is in the driver's seat. John Nelson is on the roof. Four passengers are in the cab including Sergeant Gilbert Henderson Bates on the right. Mountains and trees are in the background. Printed caption: "Copyright Woodburytype. The Famous Deadwood Coach, Buffalo Bill's Wild West."</tei:p></description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>cartes de visite</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>6.6 x 4.3 in cartes de visite</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS6 William F. Cody Collection</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS6 William F. Cody Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Bates, Gilbert Henderson, 1836-1917</term>
+         </subject>
+         <subject>
+            <term>Stagecoaches</term>
+         </subject>
+         <subject>
+            <term>Nelson, John Young, 1826-</term>
+         </subject>
+         <subject>
+            <term>Men</term>
+         </subject>
+         <subject>
+            <term>Mules</term>
+         </subject>
+         <subject>
+            <term/>
+         </subject>
+         <subject>
+            <term/>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">Mule drawn Deadwood stagecoach</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>cartes de visite</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW"><tei:p></tei:p></description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.cc.P.6.59"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

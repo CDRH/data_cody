@@ -42,7 +42,6 @@
 
 <notesStmt>
 <note type="audio">
-<ref type="audio" target="wfc.aud.69.238.4" /> targType="application/x-shockwave-flash" 
 </note>
 </notesStmt>
 
@@ -122,6 +121,7 @@
 </profileDesc>
 
 <revisionDesc>
+  <change when="2017-01-31"><name>Weakly, Laura K.</name> Updated encoding</change>
   <change when="2013-08-21"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -131,21 +131,18 @@
 <body>
 
 
-<div1 type="html">
+<div1 type="audio">
 
-<a href="http://codyarchive.org/images/view/photographs/wfc.img.69.238.4"><img src="http://codyarchive.org/figures/250/wfc.img.69.238.4.jpg"/></a>
+<figure>
+<graphic url="wfc.img.69.238.4"/>
+</figure>
 
-<h3>Commentary on "Drawing, 'Sammy Lone Bear, Catch Girls'"</h3>
-<h4>By Michelle Delaney, Smithsonian Institution</h4>
+<head>Commentary on "Drawing, 'Sammy Lone Bear, Catch Girls'"</head>
+<byline>By Michelle Delaney, Smithsonian Institution</byline>
 
-<audio controls="controls">
-<source src="../audio/mp3/wfc.aud.69.238.4.mp3" type="audio/mpeg"/>
-<source src="../audio/ogg/wfc.aud.69.238.4.ogg" type="audio/ogg"/> <embed
-src="http://www.google.com/reader/ui/3523697345-audio-player.swf"
-flashvars="audioUrl=../audio/mp3/wfc.aud.69.238.4"
-type="application/x-shockwave-flash" width="230" height="27"
-quality="best"/>
-</audio>
+<figure>
+<media url="wfc.aud.69.238.4.mp3" mimeType="audio/mp3" width="230px" height="27px"/>
+</figure>
 
 <p>Sammy Lone Bear made several drawings for Gertrude Käsebier after their initial portrait sitting. There's one dated March of 1899 called "Catch Girls." Sammy was a very handsome young man and in this drawing, like many other pictograph drawings I've seen by Native Americans, shows the courtship ritual that they would engage in, and the figures drawn are wrapped in blankets, and appear to have tails, I see. Whether they're coming from a part of their dress or maybe because they look very much like they could be animals the way that Sammy has drawn the three figures. The fourth being in a blanket but not with head covered, thinking about maturing and coming of age, and picking a partner within the tribe. I think Sammy was portraying something that was very important to him at the time, and sharing with his friend Gertrude Käsebier.</p>
 </div1>

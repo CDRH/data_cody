@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03336">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Lieut. Casey Murdered</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03336</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Lieut. Casey Murdered</title>
+<title level="a" type="sub">Another Brave Officer Falls a Victim of Indian Treachery</title>
+<title level="j">Macon Weekly Telegraph</title>
+<pubPlace>Macon, GA</pubPlace>
+<date when="1891-01-09">January 9, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term> 
+<term>Amputation</term>
+<term>Brul&#233; Indians</term>
+<term>Indian children</term>
+<term>Indian scouts</term>
+<term>Indian women</term>
+<term>Indians of North America</term>
+<term>Militia</term>
+<term>Oglala Indians</term>
+<term>Scouts (Reconnaissance)</term>
+<term>United States. Army. Cavalry, 6th</term>
+<term>United States. Army. Cavalry, 8th</term>
+<term>United States. Army. Cavalry, 9th</term>
+<term>United States. Army. Infantry Regiment, 22nd (1866-1957)</term>
+<term>United States. Army. Infantry</term>
+<term>United States. Office of Indian Affairs. Pine Ridge Agency</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Red Cloud, 1822-1909</term>
+<term>Thayer, John M. (John Milton), 1820-1906</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Fort Hall Indian Reservation (Idaho)</term>
+<term>Fort Keogh (Mont.)</term>
+<term>Oelrichs (S.D.)</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term> 
+<term>Pocatello (Idaho)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03336.001"/>
+
+
+<head type="main">LIEUT. CASEY MURDERED.</head>
+<head type="sub">ANOTHER BRAVE OFFICER FALLS A VICTIM OF INDIAN TREACHERY.
+Shot Down by an Ogallalla Whilst on a Mission of Peace&#8212;Red Cloud Returns From the Hostile Camp.</head>
+
+<div2>
+<p><hi rend="bold">PINE RIDGE, S. D., Jan. 8.</hi>&#8212;Yankton Charley, one of Buffalo Bill's men, now employed as a scout here, brings particulars of the murder of Lieut. Casey of the Twenty 
+second infantry, of Gen. Brooke's command, yesterday, near the hostile camp. Lieut. Casey had started out to visit the hostiles to induce the chiefs to come in and talk with Gen. Brooke. He passed a small band of Ogallallas, who were butchering, and proceeded further, followed, however, by two of the Indians, who appeared to be friendly. He was shortly afterward met by Pete Richards, son-in-law of Red Cloud, who had been sent by the latter to warn him not to approach nearer the hostiles, because it was dangerous. Lieut. Casey said he would ride to the top of a little knoll, whence he could get a view of the hostile camp. Richards dissuaded him, and he and Lieut. Casey turned around and departed. Just then Richards heard a shot, and, turning back, saw Lieut. Casey fall from his horse. The bullet passed through the latter's head, and was fired by the younger of the two Ogallallas who had followed Lieut. Casey. Richards would have shot the murderer, but his cartridges did not fit his gun.</p>
+</div2>
+
+<div2>
+<head type="sub">A BRILLIANT OFFICER.</head>
+<p>Lieut. Casey was one of the most brilliant and beloved officers of the service. He was a brother of Gen. Thomas L. Casey, chief of engineers of the army, and was about 40 years of age. He had been in command of troops of Cheyenne scouts for about a year, and was working in the interest of the Indians themselves. He had a reputation in the army of possessing an unusually acurate knowledge of Indian character.</p>
+
+<p>Last night Gen. Brooke sent out a detachment under Lieut. Getty to recover the remains of Lieut. Casey. The body was found stripped, but not mutilated. It was brought to Oelrich's, whence it will be sent to Fort Keogh, Montana.</p>
+</div2>
+
+<div2>
+<head type="sub">RED CLOUD DESERTS THE HOSTILES.</head>
+<p>Red Cloud came into the agency this morning and Gen. Miles<!--LINK Miles--> has appointed an hour to hold a conference with him. The old man slipped out of the hostile camp last night and, with his wife, walked fourteen miles to this place. Gen. Miles is hopeful that his example will be followed by others.</p>
+
+<p>Col. Kent, inspector-general of the Department of Dakota, Fifth infantry, and Col. Baldwin are ascertaining all the facts relative to the fight on Wounded Knee creek. This is not, as has been stated, a court of inquiry. No charges have been made against Col. Forsythe for his conduct in that engagement, nor has he been placed under arrest.</p>
+</div2>
+
+<div2>
+<head type="sub">BANNOCKS TAKE THE WAR PATH.</head>
+<p><hi rend="bold">BOISE CITY, Idaho, Jan. 8.</hi>&#8212;Advices received from Pocatello, Idaho, state that the Indians on the Fort Hall reservation have been dancing, and 200 in war paint have taken to the mountains, with arms, causing great excitement. Governor Wiley has been asked to order militia to Pocatello and probably a company of United States cavalry at Boise barracks will be sent there. The Indians on the reserv[missing]ion number 1,200 or 1,500, more than ha[missing] of whom are Bannocks, who caused the prolonged war twelve years ago. The people of Pocatello have almost no arms, and the towns of Blackfoot and Eagle Rock are on the border of the reserve. The Indians who took to the mountains are working eastward, toward Wyoming. The belief is expessed that if the Indians at Pocatello go on the war path they will be joined by the tribes on the Lemhi reservation, who number 500, embracing 125 able bodied bucks.</p>
+</div2>
+
+<div2>
+<head type="sub">A FALSE ALARM.</head>
+<p><hi rend="bold">BOISE CITY, Jan. 8.</hi>&#8212;There is no truth in the report of the burning of Pocatello. There is considerable excitement there and at Blackfoot over the hostile attitude of the Bannocks on Fort Hall reservation. Governor Wiley has received the following from Blackfoot: "A meeting of citizens, under the call of the commander of the G. A. R. Post, resolved to communicate with you and request you to forward to us immediately fifty guns, with the usual equipments and ammunition. Danger is possible and no arms are available. A permanent military organization is about to be perfected." Governor Wiley accord[missing]ngly has just shipped by express fifty guns and 3,000 rounds of ammunition.</p>
+</div2>
+
+<div2>
+<head type="sub">THE SITUATION AT THE FRONT.</head>
+<p><hi rend="bold">PINE RIDGE AGENCY, S. D., Jan. 8.</hi>&#8212;Gen. Miles' view of the situation is about as follows: There are 300 or 400 Indians in the hostile camp, who are very wicked and are trying every way known to influence Indians to remain out but to fight the matter to the end. On this point they may be mistaken. Gen. Miles hopes that the better element will prevail, and to some extent destroy these wicked brutes. On this account he is exercising patience. So long as there is a chane of them destroying each, he feels he can afford to wait.</p>
+
+<p>Gen. Brooke, from his camp on White Clay creek, writes Gen. Miles that he has been notified that it was determined in council today that many of the principal men and chiefs now on that creek will visit Gen. Miles tomorrow.</p>
+</div2>
+
+<div2>
+<head type="sub">DISPOSITION OF THE TROOPS.</head>
+<p>The position of the various bodies of troops of the Sixth Cavalry, one company of the Seventeenth Infantry and two Hotchkiss guns, at the junction of Wounded Knee creek and White river, Col. Offley, with two troops of the Eighth Cavalry and six companies of the Seventeenth Infantry, will be on White river, ab[missing]ut four miles southwest of Big Grass creek.</p>
+
+<p>Col. Sanford, with four troops of the Eighth Cavalry, four companies of the Second Infantry and one Ho[missing]chk[missing]ss gun, will be at the junction of Wh[missing]te Clay Creek and White River. Col. Wheaton, with four troops of the Ninth Cavalry, four companies of the Second Infantry, and two Hotchkiss guns, will be on White River, three miles north of Lower Lime Kiln Creek, and about eight miles from the hostile camp. Maj. Whitney, with three troops of the Ninth cavalry and one company of the Eighth infantry, will be on Wounded Knee creek, a short distance from the late battlefield. Capt. Illsley, with four companies of the Seventh cavalry, will be on Lower Lime Kiln creek, four miles from its source. The effect of these movements will be to narrow the circle in which the hostiles are now gathered.</p>
+
+<p>It was expected that Gen. Miles would hold a conference today with Red Cloud, but the expectation was not realized. The general has decided that he would hold no more talks with the old chief, as he had given him his ultimatum several days ago, to abandon the hostiles or suffer the consequence. The arrival of the old man is considered an evidence of his good faith, as is also the effort he made to save Lieut. Casey's life by warning him of his danger.</p>
+</div2>
+
+<div2>
+<head type="sub">FIGHTING AMONG THEMSELVES.</head>
+<p>Red Cloud told of a fight between the Ogallallas and Brulles shortly after the Killing of Casey. The former made an effort to separate from the Brulles and return to the agency. The latter objected, firing at them a number of shots, all of which, however, passed over their heads, no one being injured.</p>
+
+<p>This morning about 200 of the Ogallallas succeeded in forsaking the Brulles, and in a light fall of snow came into the agency. Young-Man-Afraid-of a-Horse, with several members of his band, returned today from their friendly visit to the Crows and were granted an audience by Gen. Miles.</p>
+
+<p>Isaac Miller, the cook of the herder camp, who was brought in yesterday murdered, was buried today.</p>
+
+<p>Buffalo Bill, attended by Buckskin Jack, arrived at noon from Rushville, in the face of a stiff breeze, his imperial hair and moustache covered with ice. He was warmly greeted by several hundred Indians who thronged about the settler's store and later called upon Gen. Miles. He bore a letter from Gov. Thayer setting forth Cody's connection with the state militia and assuring the general of the hearty co-operation of state troops. The latter have extended their lines toward Pine Ridge for ten miles from the towns at which they are located, and have a mounted patrol between several companies so that no Indians may pass through the lines. Gen. Miles heartily approved of the arrangement.</p>
+
+<p>The wounded and all the squaws and papooses, are quartered in the Episcopal church of the Holy Cross and Catholic school house. One woman died today. She was shot in seven places. The chief surgeon directed the amputation of one limb.</p>
+
+<p>When the news reached the bucks they protested loudly against the amputation. The operation was accordingly abandoned, with the above result. Five more of these creatures, it is expected, cannot survive. One of them is the wife of Big Foot, whose command precipitated the fight.</p>
+</div2>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

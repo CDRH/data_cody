@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03353">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indian War</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03353</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Indian War</title>
+<title level="a" type="sub">The Hostiles are Viewed From Pine Ridge Agency</title>
+<title level="j">Wheeling Register</title>
+<pubPlace>Wheeling, WV</pubPlace>
+<date when="1891-01-14">January 14, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Ammunition</term>
+<term>Artillery</term>
+<term>Firearms</term>
+<term>Fortification</term>
+<term>Horsemen</term>
+<term>Indian scouts</term>
+<term>Indians of North America</term>
+<term>Military maneuvers</term>
+<term>Priests</term>
+<term>Sioux Nation</term>
+<term>United States. Army. Cavalry</term>
+<term>United States. Office of Indian Affairs. Pine Ridge Agency</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Grouard, Frank, 1850-1905</term>
+<term>Maus, Marion P. (Marion Perry), 1850-1930</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03353.001"/>
+
+<head type="main">INDIAN WAR</head>
+<head type="sub">The Hostiles are Viewed From Pine Ridge Agency.
+THEY LOOK OVER THE BLUFF
+Into the Frowning Guns of the Military Fortifications.
+A WILD, BARBARIC SCENE.</head>
+<head type="sub">They Retire Into Camp and Refuse to Come Into the Agency&#8212;They Promise to Send Ten Chiefs to Confer With Gen. Miles. The Situation is Virtually Unchanged&#8212;The Friendlies Determined to Remain Loyal.</head>
+
+<p><hi rend="bold">ST. LOUIS, January 13.</hi>&#8212;The <hi rend="italic">Post-Dispatch</hi> staff correspondent at Pine Ridge agency, this morning telegraphs his paper as follows: The Indians are in camp within full view of the north fortifications. The right of their column rests there and the line extends northeasterly, running up a gulch behind the bluffs. The view from the fortifications is grandly picturesque. Just between the plain and the agency, perched on a hill behind earthworks is a three-inch rifle, which is trained on the camp. It seems to stare grimly down on the village of half crazed barbarians, and to warn them of the awful horror that will follow one rash act. For a while yesterday everybody in Pine Ridge waited nervously, feeling that the gun might be heard, and every one was expectant.</p>
+
+<p><persName xml:id="miles.n">General Miles</persName> has notified Father Jules<ref target="n01">1</ref> that he would not consent to a counsel. Capt. Dougherty, commanding the infantry company at the fortifications, had thrown out pickets a quarter of a mile. The Indians were known to be just behind a hill about 1,800 yards distant. Major Baker, the paymaster, visited the fortifications to pay off the company and all of the men were in the camp a hundred yards away except one who was left as a guard near the guns. Suddenly two Indians were seen on the crest of a hill but a short distance beyond the other pickets then others appeared on the hills to the northwest; for a moment more a dozen were soon on various elevations and then a body of more than a hundred bucks rose to the crest of the hill, behind which the hostiles were. The number was steadily increased to 400. Capt. Dougherty was immediately notified. He dispatched a courier to headquarters to notify General Miles of the movement. Then, hurrying to the fortifications, he had the guns prepared for action. The range find adjusted his sights and the cave in which the ammunition was stored, was opened. A line of skirmishers were sent out to beyond the fortifications on the crests of the hills. The activity at headquarters was stirring. Orders were sent to the cavalry to be in readiness to move southwest of camp. General Miles, accompanied by "Buffalo Bill" and his staff rode to the fortifications and made a circuit of the camp. Extra ammunition was issued and when everything was in readiness the troops waited a movement. After two hours General Miles received word that the Indians did not mean to make any advance, but they would like to talk with him. The General sent word to go quietly into camp and he would receive ten of the chief men. The warriors disappeared from the hill top, and an hour later they were camped with the end of their column on the plain.</p>
+
+<p>Their camp is more than three miles long and there are 7,000 Indians in it, 2,500 of whom are warriors. By the southeast trail they have been communicating with the friendlies, and the horsemen have been riding continually</p>
+
+<p>Capt. Maus, Gen. Miles' chief of staff, says that these communications have been between relatives. The friendlies held a council late last night and decided that they wanted none of the hostiles in their camp. They have dug rifle pits and say that if even a solitary warrior comes among them and causes any trouble they will arrest him; if he resists they will kill him. Still this does not give a feeling of security.</p>
+
+<p>The ground upon which they camp is is [sic]between the agency and retreat. If a fight takes place no one will know a friendly from a hostile, and the fight may become a battle between all the Indians and the whites. If the hostiles could be sure of thus dragging in the 2,500 friendlies, they would be sure to fight. The ten chiefs did not come in yesterday and they are expected this morning, but there are fears that it will be a day or two before they can be induced to come to the agency. <persName xml:id="grouard.f">Frank Giraud</persName>, Captain Taylor's chief Indian scout, says the young men are mad, and the old ones excited, though they are all half afraid. The squaws are silent and the warriors sullen. "I cannot tell," said he, "what they will do, but I hear that there are several hundred young men who want to fight. They have their war paint on and they are ready for a fight, if one occurs."</p>
+
+<p>The friendly camp is now an unsafe place because the hostiles are riding in there constantly and it is difficult to get even couriers to go through late in the evening. Gen. Brooke is coming slowly toward the agency. He is encumbered with a number of wounded, which makes his progress slow.</p>
+
+<p>The situation remains practically unchanged here this evening. The hostiles are still in camp about a mile and a half north. The chiefs that were to arrive here to-day for the purpose of holding council failed to come. There is a general feeling among the officers and soldiers to-night that a peaceable settlement is not far distant. However, such a feeling has received disappointment before. "Buffalo Bill" leaves tomorrow to join Brooke's command, six miles from the agency.</p>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Father Jule, a Roman Catholic priest sent by the United States military in 1890 to urge peace among hostile Indians near Pine Ridge. His influence there likely averted a violent outbreak.</note>
+</back>
+</text>
+</TEI>
+

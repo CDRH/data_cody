@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03226">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">No Battle Took Place</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03226</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">No Battle Took Place</title>
+<title level="a" type="sub">Official Denial that a Fight with Indians Occurred Near Fort Keogh</title>
+<title level="j">Inter Ocean</title>
+<pubPlace>Chicago, IL</pubPlace>
+<date when="1890-11-28">November 28, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Beef cattle</term>
+<term>Cheyenne Indians</term>
+<term>Ghost dance</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Infantry</term>
+<term>Military campaigns</term>
+<term>Military men</term>
+<term>Northern Pacific Railroad Company</term>
+<term>Oglala Indians</term>
+<term>Sioux Nation</term>
+<term>Tipis</term>
+<term>United States. Army. Cavalry</term>
+<term>United States. Office of Indian Affairs. Red Cloud Agency</term>
+<term>Ute Indians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>American Horse, Dakota Chief, 1840-1908</term>
+<term>Crook, George, 1829-1890</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Powell, David Franklin, 1847-1906</term>
+<term>Red Cloud, 1822-1909</term>
+<term>Short Bull, -1915</term>
+<term>Sitting Bull, 1831-1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Chicago (Ill.)</term>
+<term>Colorado</term>
+<term>Little Bighorn, Battle of the, Mont., 1876</term>
+<term>Minnesota</term>
+<term>Missouri River</term>
+<term>Montana</term>
+<term>North Dakota</term>
+<term>Oklahoma</term>
+<term>Omaha (Neb.)</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+<term>Rosebud Indian Reservation (S.D.)</term>
+<term>South Dakota</term>
+<term>Standing Rock Indian Reservation (N.D. and S.D.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03226.001"/>
+
+<head type="main">NO BATTLE TOOK PLACE.</head>
+<head type="sub">Official Denial that a Fight with Indians Occurred Near Fort Keogh.
+Reports that the Hostiles Are Massing in the Bad Lands Region.
+Buffalo Bill's Secret Mission&#8212;"Nosey" Cohen Thought to Be the Messiah.</head>
+<head type="sub">NO FIGHT NEAR FORT KEOGH.</head>
+
+<note><hi rend="bold">MISSOULA, Mont., Nov. 27.</hi>&#8212;<hi rend="italic">Special Telegram.</hi>&#8212;Reports from various points do not
+ confirm the reported battle between Indians and whites at Fort Keogh, Montana. The Indians are obstinate, however, and it is feared that the trouble is not over.</note>
+<div2>
+<p><hi rend="bold">CHICAGO, Nov. 27.</hi>&#8212;The following was received here to-night:</p>
+
+<p><hi rend="bold">ST. PAUL, Minn., Nov. 27.</hi>&#8212;William Henry Smith, General Manager Associated Press, Chicago: The sensational article from Missoula, Mont., in many morning papers about a battle between Indians and troops, near Fort Keogh, is without foundation in any way. The publication of the communications of this nature from unreliable correspondents is doing gross injustice to the Northwest.</p>
+
+<closer><signed><hi rend="bold">WILLIAM S. MELLEN,<lb/>
+General Manager Northern Pacific Railroad.</hi></signed></closer>
+</div2>
+
+<div2>
+<p><hi rend="bold">FORT KEOGH, Mont., Nov. 27.</hi>&#8212;The troops ordered to the field expect to move in the morning, as soon as transportation can be secured. All is quiet among the Cheyennes on Tongue River and at the Lame Deer Agency, and the settlers have no fear of any disturbance.</p>
+</div2>
+
+<div2>
+<head type="sub">REASSURING REPORTS.</head>
+
+<p><hi rend="bold">WASHINGTON, Nov. 27.</hi>&#8212;The advices received by the War Department to-day from the seat of the threatened Indian troubles are reassuring and indicate a gradual subsiding of the ghost dance.<!--LINK Ghost Dance--> The department officials believe that the presence of the increased military force in that locality is beginning to have a salutary effect on the turbulent spirits among the Indians.</p>
+</div2>
+
+<div2>
+<head type="sub">FEARS NOT ALLAYED.</head>
+<p><hi rend="bold">ST. PAUL, Minn., Nov. 27.</hi>&#8212;A <hi rend="italic">Pioneer Press</hi> special from Pierre, S. D., says: While there is no very startling Indian news to-day, there is plenty to confirm the news sent out last night. There is no doubt in the mind of any well-informed man that there is great possibility of serious trouble with the Sioux before the present unpleasantness blows over. The Indians are in a state of mind to fight, if ever Indians were. All that is needed now is the first overt act to touch them off. If the order is enforced to arrest their leaders in the dance there is not the least question but it will lead to open hostilities, and the base of war will be on the ceded lands, and will begin near the Bad Lands, at a point about eighty miles west of Pierre. Joe Wendel, and old Indian scout of fifty years' experience, says the Indians are acquainted with the passages through the Bad Lands and have several trails leading north and south through them known only to themselves. Madson and Thompson, two ranchers, who arrived this evening from eighty miles west of there, state that to-day they met a band of Indians with some hundred ponies going south, who were evidently bound for the camp on Pass Creek, and had come from the Cheyenne country. This is only another indication that the Indians are forwarding supplies and concentrating their forces near the entrance to the Bad Lands. Phillips, Waldron, Holland and Crow Eagle left for the Bad Lands to-day to investigate the reports.</p>
+</div2>
+
+<div2>
+<head type="sub">BUFFALO BILL'S MISSION.</head>
+
+<p><hi rend="bold">BISMARCK, N. D<supplied>.</supplied>, Nov. 27.</hi>&#8212;Buffalo Bill arrived this afternoon, accompanied by his old "pard," Frank Powell,<!--LINK Powell--> known as "White Beaver," and R. H. Haslan,<!--LINK Haslam--> to known as "Pony Bob," who once rode 108 miles in eight hours and ten minutes. Special conveyances with relays were engaged to take the trio to Standing Rock Agency. Buffalo Bill has a commission from <persName xml:id="miles.n">General Miles</persName>, which is believed to be the most important of any issued since <persName xml:id="sitting.bull">Sitting Bull's</persName> surrender. The party will go direct to Sitting Bull's camp, on Grand River. It will be remembered that Sitting Bull did not come in on Saturday, the regular ration day, but sent word to Agent McLaughlin that his child was sick. It is believed that Buffalo Bill has been sent out to get at the bottom of the Messiah dance, with almost unlimited authority to act. This is Buffalo Bill's first visit to this section since the Custer massacre.</p>
+</div2>
+
+<div2>
+<head type="sub">IS NOSEY COHEN THE MESSIAH?</head>
+<p>
+<hi rend="bold">DURANGO, Col., Nov. 27.</hi>&#8212;A band of Navajo Indians were here to-day from their reservation in the southern part of the State. While they say "they are not in it," they show from their action they are greatly excited over the reports from Dakota, and it will take but little to induce them to join the Sioux. They would talk but little, and claimed to have some communication from the North. Their theory is that the Messiah over whom the Pine Ridge and Rosebud agencies are excited is none other than Isidor Cohen, who is known throughout Southern Colorado as "Nosey<supplied>"</supplied> Cohen, a leader well acquainted with their dialects and customs. Many of the Southern Utes talk of the craze with but little interest, and seem to wish that all reports were true, that the good spirit would come to them as to the Sioux and restore the old days of flint arrows and game.</p>
+</div2>
+
+<div2>
+<head type="sub">TROOPS HELD IN READINESS.</head>
+<p><hi rend="bold">OKLAHOMA CITY, I. T., Nov. 27.</hi>&#8212;The Messiah craze has reached Oklahoma, and troops stationed at this city are hourly expecting orders to be sent to the seat of war. As an indication of the anxiety felt by the War Department at Washington it is only necessary to state that Captain Stiles, in command of the troops at Oklahoma, has received orders to march at a moment's notice. This order applies also to troops stationed at Elkins, Fort Sill, Kingfisher, and Guthrie. Captain Stiles, while deprecating the idea of an Indian outbreak, remarked sententiously that in case of such an occurrence it would be a lasting solution of the Indian problem.</p>
+</div2>
+
+<div2>
+<head type="sub">GENERAL BROOKE'S REPORT.</head>
+
+<p>At 10 o'clock last night General Miles received a dispatch from General Ruger,<!--LINK --> whose headquarters are at St. Paul, Minn., which stated that General Brooke<!-- LINK -->, who is in command at Pine Ridge Agency, reports that the situation in the Northwest Indian country is much improved, and that the presence of a good sized body of troops is having a very good effect upon the Indians.</p>
+</div2>
+
+<div2>
+<head type="sub">IN THE INDIAN CAMP.</head>
+
+<p><hi rend="bold">PINE RIDGE AGENCY, Nov. 25.</hi>&#8212;<hi rend="italic">Special Correspondence.</hi>&#8212;To those who are anxiously poring over the highly sensational and untrue reports now appearing in the Eastern papers, it may seem impossible that any one could go through the Indian camps with any safety, but such is the case. It is a fact that nearly 1,000 soldiers are encamped here, and nearly as many more reported as coming. The troops of cavalry, the columns of infantry, Gatling guns, and Hotchkiss cannon look like war, and it is now believed by both whites and reds that they will be brought into use, and blood must flow before this trouble is settled; yet it has been perfectly safe for any one known to the Indians to go through all their camps.</p>
+
+<p>In order to learn the situation from the red man's standpoint, I have during the last five days rode through the various camps, accessible from Pine Ridge, armed only with lead pencils and agency tobacco, and endured the smoke and stench of the tepee, in order to learn the facts. The spirit dance alone does not explain the serious condition of affairs here&#8212;there is a cause back of that. After talking freely with those whom I have known for years, I am convinced that the following may be relied upon as the Indian's idea.</p>
+
+<p>They thought that Dr. McGillicuddy was too strict, and were glad when Gallagher was appointed, as they did not think he would be so hard on them. The new agent was hardly settled in his house before they began testing and trying him in all the little ways that their craftiness could suggest, and he was not equal to the situation. In a short time discipline was practically unknown; obedient to his face, and behaving properly at the agency, as soon as the Indian returned from ration issue to his village he did as he pleased; purchased cartridges, went hunting in Wyoming, visited his friends on the Missouri River or in Montana, and occasionally slipped out and killed a beef for a ranchman, returning home to dance and enjoy life.</p>
+
+<p>Gallagher made the fatal mistake of recognizing Red Cloud<!--LINK Red Cloud--> and <persName xml:id="american.horse">American Horse</persName> as leaders. Red Cloud's history has been told over and over; every one familiar at all with Indian affairs knows that so long as this concentrated essence of Indian craftiness, shrewdness, and hatred is allowed the least license he makes trouble. Red Cloud is both hated and feared by the Indian, and has a large and strong following. American Horse is a coward, a liar, and a braggart, ambitious and double-tongued both to the reds and the whites. His band is insignificant, numbering only fifteen tepees, but he tries to make the Indian believe that he is backed by the agent, and tries to make the agent believe that he is a little tin god among the Indians. Yesterday he rode into the Uncapapa camp while I was there and began issuing a lot of orders<supplied>,</supplied> until called down by one of the sub-chiefs. Again and again individuals said to me, American Horse ought to be killed and if there is a war we will kill him.</p>
+
+<p>Red Cloud talked freely, saying that the soldiers had come again to burn his house, which is a good two-story frame building, the same as Crook<!--LINK Crook--> did fifteen years ago at the old Red Cloud Agency; that he did not want to fight, but would if pressed. On entering his camp the first thing noticeable was the fact that there were nearly 400 war ponies in his large corral, being fed and kept ready for instant use instead of being turned out to graze.</p>
+
+<p>I asked him why the ponies were not turned out and he said the soldiers would steal them. He wrote the following letter to Dr. George L. Miller, of Omaha, and willingly permitted a copy to be taken. He says: "My friend, your letter of Nov. 19 just received, in reply would say that the soldiers are here but I don't know what they are here for. I have spoken to my people and told them I don't want to have any trouble with the soldiers and white people living near here. About fifteen years ago General Crook burnt my house near where Fort Robinson now is, then I was willing to fight. It looks the same way now, but I don't want to have any trouble with the soldiers or white people and will not fight unless I have to. I am too old now to make war against the whites, and my white friends here have advised me against war and I shall take their advice. My mind is too weak to say a great deal. We have a great many schools out in the different camps, and if we go to war what will become of our schools and children?Your friend,<lb/>Red Cloud."</p>
+
+<p>Red Cloud is ably seconded by Big Road, who was chief of the Ogallala Sioux in the Custer massacre. Big Road has a large band and is a born fighter, ugly and vicious, refusing to talk. If looks would kill there would be two reporters less on this reserve. Standing Soldier and Fast Thunder act as lieutenants to the two leaders. Altogether there are about 400 fighting men in Red Cloud's camp, finely armed, with long experience in the field, and with influence sufficient to rally around them the fighters of their nation. Little Wound is camped now on White River, near the mouth of White Clay Creek fifty miles from here, having moved his camp from Bear on the Lodge Creek. He still refuses to come in and keeps up his dances. When the Indians take the field Little Wound will be the chief leader. He was very friendly until Gallagher ignored him and recognized American Horse. Wound has an unusually high temper even for an Indian, and is as stubborn as a battalion of government mules, revengeful, and sullen; he is also a born leader, and acknowledged to be the best fighter in all the tribes. If the soldiers attempt to bring him in he will fight to the last. The Indians say that they are starving, that before Gallagher came they used to get a beeve for every thirty persons for ten days' ration, but that they now get a beef for sixty persons and that the beeves are calves, and small ones at that. As one shrewd old fellow said<supplied>,</supplied> they weigh the beeves when purchased, then keep them half fed till issue day and give them to us at the purchase weights, and a beeves that weighs 1,000 when bought weighs 750 when we get it; and the shrinkage is not in the horns, hoofs, and hide, either.</p>
+
+<p>The Indians raise beef, hogs, and chickens on their farms, but not enough to materially increase the food supply of the 6,500 that are fed here. One deplorable feature of this whole trouble is that the friendly Indians, and those who have farms, cattle, hogs, and chickens dare not and will not leave the agency until peace is restored. In the meantime cattle, hogs, and chickens are scattered, to be lost or used up by the hostiles. The good Indian, the farmer, is discouraged, and no matter how the trouble ends the work of reclaiming the red man is set back ten years. All the Indians expect trouble and do not see how it can be averted.</p>
+<closer><signed><hi rend="bold">G. E. B.</hi></signed></closer>
+</div2>
+
+<div2>
+<head type="sub">AT HEADQUARTERS.</head>
+
+<p>At army headquarters in the Pullman Building General Miles was at his desk early yesterday morning, and the first business which he transacted was to send Governor Mellette, of South Dakota, a reply to the dispatch received from the Governor which was given publicity yesterday. Governor Mellette was assured that nothing would be left undone to give every assistance possible for the protection of life and property in the Northwest, where the Indian excitement now exists.</p>
+
+<p>"I have received quite satisfactory news from General Brooke," said General Miles last evening. "He reports that the Indian chief Little Wound came into Pine Ridge Agency yesterday, and that every hour seems to lessen the strength of the disappointed Indians. <persName xml:id="short.bull">Short Bull</persName>, of the Rosebud Agency, also came into the agency, and his people, about 500 lodges, numering nearly 2,500 Indians, are reported as also coming toward the agency. I consider Short Bull one of the worst and most treacherous Indian chiefs in the Northwest. General Brooke now has a strong command under him and ready for summary action at a moment's notice."</p>
+
+<p>General Miles' attention was called to the dispatches from Missoula, Mont., stating that a fierce battle had occurred between the United States troops and Northern Cheyenne Indians near Fort Keogh, Mont.; that lively skirmishing was in progress, and that the Indians had been driven back with a loss of several killed.</p>
+
+<p>"I have not had any official advices concerning this reported conflict," said he. "All I know of such an occurence is the newspaper reports. It is now late in the day, and I have not heard a word. In the absence of official information I am inclined not to believe the story. It may be the troops have been ordered to Fort Keogh, as it is an important point, to be stationed there for reserve force<supplied>.</supplied>"</p>
+</div2>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp05784">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Dug Rifle Pits</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp05784</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Dug Rifle Pits</title>
+<title level="a" type="main">Rude Indian Defenses in the Bad Lands</title>
+<title level="j">Brooklyn Daily Eagle</title>
+<pubPlace>Brooklyn, NY</pubPlace>
+<date when="1890-12-04">December 4, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Fortification</term>
+<term>Ghost dance</term>
+<term>Indian reservations</term>
+<term>Indian women</term>
+<term>Indians of North America</term>
+<term>Rifles</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Superior, Lake</term>
+<term>United States. Office of Indian Affairs. Pine Ridge Agency</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Harrison, Benjamin, 1833-1901</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Powell, David Franklin, 1847-1906</term>
+<term>Sitting Bull, 1831-1890</term>
+<term>Two Strike, 1832-1915</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Badlands (S.D. and Neb.)</term>
+<term>Chicago (Ill.)</term>
+<term>North Dakota</term>
+<term>Omaha (Neb.)</term>
+<term>Standing Rock Indian Reservation (N.D. and S.D.)</term>
+<term>Wisconsin</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp05784.001"/>
+
+<head type="main">DUG RIFLE PITS.</head>
+<head type="sub">Rude Indian Defenses in the Bad Lands.</head>
+<head type="sub">The Situation Has Not Improved and the Hostile Ghost Dancers Are Still Out. Buffalo Bill's Expedition to Arrest Sitting Bull.</head>
+<dateline><hi rend="bold">OMAHA, Neb., December 4.</hi></dateline>
+<div2>
+<p>The <hi rend="italic">Bee</hi> has the following from its special correspondent at Pine Ridge agency, S. D., via Rushville, Neb.:</p>
+
+<p>"The hostile Indians are making use of every moment's delay on the part of the military to move on them by strengthening their now almost impregnable camp in the dreaded Bad Lands. The five or six hundred squaws with them are working day and night digging rifle pits about the camp. This is something very unusual, if not unprecedented, on the part of Indians preparing for war. The reason for this move is, our scout says, more to insure the protection of the immense quantities of stolen beef and provisions in the camp than to insure a greater slaughter of soldiers. The moment that these supplies are captured by the military that moment the Indians must surrender unless their thirst for blood is so intense as to lead them to fight until they are downed either by starvation or United States bullets. At best, whether the military can capture the bulk of the hostiles' supplies or not, the Indians have undoubtedly secreted small quantities sufficient in the aggregate to run them for at least eight or ten weeks.</p>
+
+<p>Agent Royer fulfilled his promise to reward the friendlies who continue staying in the vicinity of the agency and has made a special issue of provisions. More than five hundred squaws presented themselves at the storehouse yesterday and went away loaded down with food. There was not a male Indian in the throng. It is rumored that Two Strike, the chief under whom the hostiles are marshaled, is wheeling around within shooting distance of the agency for the purpose of getting additional pointers on the military.</p>
+</div2>
+<div2>
+<dateline><hi rend="bold">CHICAGO, Ill., December 4.</hi></dateline>
+<p>A special dispatch from Winnipeg says that Superintendent McCall, who has charge of the Canadian Indians from Lake Superior to the western boundary of Manitoba, says that so far as his superintendency is concerned the Indians have not been affected by the Messiah craze. The danger is from the Cree tribes in Assinaboa, lying west of his district. They are in close proximity to their American brethren and the latter, if contemplating war, would be certain to send runners among them. He had not heard, however, that they were restless.</p>
+</div2>
+<div2>
+<dateline><hi rend="bold">LA CROSSE, Wis., December 4.</hi></dateline>
+<p>Dr. Frank Powell<!-- link --> returned to his home in this city yesterday from Standing Rock agency, North Dakota, accompanied by William F. Cody (Buffalo Bill) and R. H. Haslem (Pony Bob). Colonel Cody stated that his party was in the heart of the Indian country, seventeen miles from the camp of <persName xml:id="sitting.bull">Sitting Bull</persName>, where the ghost dance was in progress. "Our mission was to capture Sitting Bull," said Colonel Cody, "and we would have accomplished our object had not a courier overtaken us on the edge of the reservation with dispatches from the President ordering our party to return without carrying <persName xml:id="miles.n">General Miles'</persName> orders into effect. Our trip was not attended with any dangers. We were sent there, not on a mission of assassination, but capture. The trouble as it is now is unprecedented. Our party traveled 1,506 miles in less than seven days and our surprise was great in being recalled from our mission. We could have taken Sitting Bull, horse and all, into captivity, I am sure, without the loss of a single life. It is impossible for me to tell at this time whether this uprising will result in the destruction of thousands of lives and homes or in a peaceable settlement. It looks bad to-day, but the military may be able to handle the matter satisfactorily. We were sent out by the United States government and did our duty until called back. I am here waiting orders from the war department and, should General Miles order Powell and myself across the country at once, we will take the iron horse as far as we can go and then the saddle and take Sitting Bull and all his family, if we are ordered to do so. I am hourly expecting orders to go to the front, and the same party will accompany me."</p>
+
+</div2>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
