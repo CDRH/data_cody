@@ -73,7 +73,9 @@ McCracken Research Library, Buffalo Bill Center of the West
 <p></p>
 </correction>
 <normalization>
-<p></p>
+<p>Horizontal lines, encoded as milestones, have been placed between advertisements that appear on the same page.</p>
+<p>End-line hyphenation has been systematically deleted.</p>
+<p>Leaders (. . . ) that serve no editorial function have been deleted.</p>
 </normalization>
 </editorialDecl>
 </encodingDesc>
@@ -123,8 +125,6 @@ BUFFALO BILL'S WILD WEST<lb/>
 1896</head>
 
 </div2>
-
-<pb facs="wfc.mem00005.001"/>
 
 <div2>
 <pb facs="wfc.mem00005.002"/>
@@ -182,7 +182,7 @@ BUFFALO, N.Y.</ab>
 <pb facs="wfc.mem00005.011"/>
 
 <div2>
-<head> . . . PREFACE . . . </head>
+<head>PREFACE</head>
 
 
 <p>IT is usually customary in presenting a book of this kind to friends and the public to offer an apology, but the authors of this book have no apology to make, as neither one of us are authors or poets, but simply employees of the BUFFALO BILL WILD WEST COMPANY; and in an honest endeavor to earn our salaries and write a book at the same time is hard enough without going through the humiliation of offering an apology for our work, when we did the best we could under existing circumstances.</p>
@@ -1846,7 +1846,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 
 <pb facs="wfc.mem00005.043"/>
 <div2>
-<head> . . . ORDER OF PARADE . . . </head>
+<head>ORDER OF PARADE</head>
 
 <list type="noident">
 <item>HARRY GRAY, LEADER OF PARADE.</item>
@@ -1878,7 +1878,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 
 <pb facs="wfc.mem00005.044"/>
 <div2>
-<head> . . . PROGRAMME . . . </head>
+<head>PROGRAMME</head>
 
 
 <p>OVERTURE&#8212;"Star Spangled Banner." COWBOY BAND, William Sweeney, Leader.</p>
@@ -2359,7 +2359,7 @@ walking from New York City to San Francisco via Chicago and New Orleans, called 
 
 <ab>Refined Comedy Sketch Team.</ab>
 
-<ab>One of the Principal Features with the Buffalo Bill Concert, Season 1896 . . . . .</ab>
+<ab>One of the Principal Features with the Buffalo Bill Concert, Season 1896 </ab>
 
 <figure n="image"></figure>
 
@@ -2379,7 +2379,7 @@ With Every Second Goes a Laugh!</ab>
 <head>With Buffalo Bill's Wild West
 Season of 1896.</head>
 <head>CLOUD AND KERSHAW</head>
-<head>TWO IRISH . . . 
+<head>TWO IRISH  
 TALKERS, 
 SINGERS 
 and DANCERS.</head>
@@ -2442,7 +2442,7 @@ NEW YORK CLIPPER, N. Y. CITY.</ab>
 <pb facs="wfc.mem00005.061"/>
 
 <div3>
-<figure n="image"><ab type="credit"></ab><p>VERSATILE ARTISTS THE RIELLEYS IN THEIR LAUGHABLE ACT INTITLED . . . . LITTLE OF EVERYTHING</p></figure>
+<figure n="image"><ab type="credit"></ab><p>VERSATILE ARTISTS THE RIELLEYS IN THEIR LAUGHABLE ACT INTITLED LITTLE OF EVERYTHING</p></figure>
 </div3>
 
 <pb facs="wfc.mem00005.062"/>
@@ -2468,7 +2468,7 @@ NO MISTAKES.</ab>
 <div3>
 <head>ROYAL BLUE LINE</head>
 <ab>BETWEEN NEW YORK, PHILADELPHIA, BALTIMORE AND WASHINGTON</ab>
-<ab>. . . Via . . .
+<ab> Via 
 Baltimore and Ohio R. R.
 
 FASTEST, FINEST AND SAFEST TRAINS IN THE WORLD.</ab>
@@ -2489,7 +2489,7 @@ FASTEST, FINEST AND SAFEST TRAINS IN THE WORLD.</ab>
 <ab>MANUFACTURERS OF
 EVERITT'S FINE CONFECTIONERY
 FOR RAILROADS, CIRCUSES, 
-. . . EXCURSIONS, ETC . . .</ab>
+ EXCURSIONS, ETC </ab>
 
 <ab>PUT UP IN SEALED PACKAGES.</ab>
 
@@ -2507,7 +2507,7 @@ EL SOLERO CIGAR </head>
 <ab>FOR SALE AT THE STAND.</ab>
 
 
-<ab>. . . MADE BY . . .
+<ab> MADE BY 
 FRANK LAUER,
 MANUFACTURER OF
 FINE CIGARS
@@ -2534,7 +2534,7 @@ LIVERY AND FEED</head>
 
 <milestone unit="line"/>
 <div3>
-<head>THE FIRST MAN TO SEE AT COLUMBUS, INDIANA, IS WALTER DOUP. . . LICENSED . . .BILL POSTER AND DISTRIBUTER.</head>
+<head>THE FIRST MAN TO SEE AT COLUMBUS, INDIANA, IS WALTER DOUP LICENSED BILL POSTER AND DISTRIBUTER.</head>
 </div3>
 
 <div3>
@@ -2549,7 +2549,7 @@ LIVERY AND FEED</head>
 
 COMMISSION MERCHANTS</head>
 
-<ab>Wholesale Dealers in Flour, Grain, Feed, Provisions and Produce . . . </ab>
+<ab>Wholesale Dealers in Flour, Grain, Feed, Provisions and Produce  </ab>
 
 <ab>1201 and 1203 MAIN STREET,
 EVANSVILLE, IND.</ab>
@@ -2567,7 +2567,7 @@ E. T. HEVERIN &amp; BRO.</head>
 
 <ab>COMMERICAL 
 
-. . . AND . . .
+ AND 
 
 Theatrical Advertisers
 </ab>
@@ -2576,7 +2576,7 @@ Theatrical Advertisers
 
 
 <ab>CONTRACTORS 
-. . . FOR . . .
+ FOR 
 The Southern States
 </ab>
 <ab>LICENCED CITY BILL POSTERS</ab>
@@ -2589,7 +2589,7 @@ The Southern States
 
 <div3>
 <head>St. Louis Bill Posting Co.</head>
-<ab>. . . AN . . . 
+<ab> AN  
 UP-TO-DATE
 SERVICE</ab>
 
@@ -2615,7 +2615,7 @@ MAIN OFFICE AND WAREHOUSE,</ab>
 
 <ab>SUPPLIED
 Buffalo Bill's Wild West
-. . . AND . . .
+ AND 
 Ringling Bros. Shows.</ab>
 <ab>TELEPHONE 7769.</ab>
 <ab>818 and 820 Manchester Road,
@@ -2636,7 +2636,7 @@ City Bill Posters, Sign Advertisers</ab>
 EAST ST. LOUIS, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>F. L. DEVER.
 W. E. HULL. 
@@ -2651,10 +2651,10 @@ PEORIA, ILL.</ab>
 
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>H. McFADDEN &amp; BRO.</head>
-<ab>. . . DEALERS IN . . .
+<ab> DEALERS IN 
 GROCERIES, FLOUR AND FEED</ab>
 <ab>Hay and Straw. Grain by the Carload. Show Orders a Specialty.</ab>
 <ab>Nos. 9-11 NEIL ST.,
@@ -3007,14 +3007,14 @@ while on her way to Denver, Col. Uncle Jimmie Hutch, probably the oldest side-sh
 <div2>
 <div3>
 <head>American Advertising
-and . . .
+and 
 Bill Posting Company</head>
 
 <ab>Chicago, Ill.</ab>
 
 
 <ab>"DIN'NA YE HEAR THE SLOGAN?"</ab>
-<ab>The BIGGEST and BEST . . .
+<ab>The BIGGEST and BEST 
 BILL POSTING PLANT
 IN THE WORLD.</ab>
 <ab>CHICAGO&#8212;Proper.
@@ -3084,14 +3084,14 @@ Special rates to the Profession.</ab>
 <ab>CHAS. O. BLOOM, PROP.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>ED. SHUMAKER, ARCADE BILL POSTER</head>
 <ab>CONTROLS ALL BILL BOARDS IN THE CITY.</ab>
-<ab>. . . KANKAKEE, ILL.</ab>
+<ab> KANKAKEE, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>FENOUILLE'S LIVERY
 BOARDING AND FEED STABLE.</head>
@@ -3108,7 +3108,7 @@ KANKAKEE, ILL.</ab>
 <pb facs="wfc.mem00005.084"/>
 
 <div3>
-<head>W. A. JEFFERY, . . . 
+<head>W. A. JEFFERY,  
 CONTRACTOR and BILL-BOARD BUILDER</head>
 
 <ab>Also all kinds of Lithograph Boards.</ab>
@@ -3118,11 +3118,11 @@ OTTAWA, ILL.</ab>
 <ab>Refers by permission to Buffalo Bill's Wild West.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>S. B. BRADFORD,
-. . . Dealer in . . . Flour, Feed, Grain and Hay</head>
+ Dealer in  Flour, Feed, Grain and Hay</head>
 
 <ab>COR. MAIN AND CLINTON STS.
 Telephone 115.
@@ -3132,7 +3132,7 @@ OTTAWA, ILL.</ab>
 supplying show contracts.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JAMES B. BAILEY, BEST LIVERY IN THE COUNTY.</head>
 <ab>Furnishes all the Country Teams for the Big Tent Shows. First-class service. Prices reasonable.</ab>
@@ -3142,7 +3142,7 @@ PHONE 131.</ab>
 
 <ab>Refers by permission to Buffalo Bill's Wild West.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>TRI-CITY BILL POSTING CO.</head>
 <ab>Rock Island, Ill.
@@ -3162,7 +3162,7 @@ Controlling all Bill Boards in Rock Island.</ab>
 <figure n="image"><ab type="credit"></ab><p>BROWN'S HOTEL, . . GALESBURG, ILL.</p><p>NORMAN ANTHONY, PROPRIETOR</p></figure>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. W. HAMMOND.
 J. C. GEER.
@@ -3180,9 +3180,9 @@ GALESBURG, ILL.</ab>
 <pb facs="wfc.mem00005.086"/>
 
 <div3>
-<head>James O'Connor Livery,</head><head>Feed and Sale . . . Stable . . .</head><head>COR. SIMMONS AND CHERRY STS.,</head><head>GALESBURG, ILL.</head>
+<head>James O'Connor Livery,</head><head>Feed and Sale  Stable </head><head>COR. SIMMONS AND CHERRY STS.,</head><head>GALESBURG, ILL.</head>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>GEO. W. STONE, JOBBER</head>
@@ -3192,7 +3192,7 @@ GALESBURG, ILL.</ab>
 Burlington, Iowa</ab>
 </div3>
 
-
+<milestone unit="line"/>
 <div3>
 <head>H. E. HUNT
  IS THE OLDEST BILL POSTER IN IOWA</head>
@@ -3216,7 +3216,7 @@ Burlington, Iowa.</ab>
 QUINCY, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>HENRY WISKIRCHEN, Livery AND BOARDING STABLE. </head>
 
@@ -3244,10 +3244,10 @@ Boarding and Carriage Stables</head>
 
 <ab>110-114 SOUTH SEVENTH ST.,
 Telephone No. 5.
-. . . Springfield, Ill.</ab>
+ Springfield, Ill.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Hotel Palace</head>
 
@@ -3261,7 +3261,7 @@ Telephone No. 5.
 <ab>Rates, $2 per Day.</ab>
 <ab>SPRINGFIELD, ILL.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>W. J. HORN
 The City Bill Poster
@@ -3290,7 +3290,7 @@ and Display Advertiser</head>
 SPRINGFIELD, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>SNAPP &amp; FORBES LIVERY, FEED AND SALE STABLES</head>
 
@@ -3300,7 +3300,7 @@ SPRINGFIELD, ILL.</ab>
 DANVILLE, ILL.</ab>
 </div3>
 
-
+<milestone unit="line"/>
 <div3>
 <head>FRANK P. MYERS, 
 City Bill Poster AND DISTRIBUTER.</head>
@@ -3333,7 +3333,7 @@ TELEPHONE 365.
 Terre Haute, Ind.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. M. DISHON, 
 Bill Poster</head>
@@ -3367,7 +3367,7 @@ IN THE PRESENT GENERATION.</ab>
 <ab>21 WALNUT STREET,
 DANVILLE, ILL.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>New Aveline,
 FORT WAYNE, IND.
@@ -3376,7 +3376,7 @@ The Ramsey</head>
 <ab>Crawfordsville, Ind.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. J. INSLEY.
 E. L. MORSE.
@@ -3402,7 +3402,7 @@ Crawfordsville, Ind.</ab>
 116 N. Washington St.,
 Crawfordsville, Ind.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>T. C. MARTIN &amp; CO. DEALERS IN Flour, Meal, Feed HAY AND STRAW.</head>
@@ -3411,7 +3411,7 @@ Crawfordsville, Ind.</ab>
 LA FAYETTE, IND.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>JAMES H. ISLEY,
@@ -3422,7 +3422,7 @@ SEEGER'S STABLE.
 GRAND OPERA HOUSE.</ab>
 <ab>LA FAYETTE, IND.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Seeger's Transfer and Livery Co.</head>
 
@@ -3448,7 +3448,7 @@ City Bill Poster</head>
 <ab>215 SIXTH STREET, Logansport, Ind.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>I. N. CASH,
 LIVERY
@@ -3475,19 +3475,19 @@ Telephone 144.
 Fort Wayne, Ind.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. F. FLETCHER,
 Livery
-Feed and . . . Sale Stable</head>
+Feed and  Sale Stable</head>
 
 <ab>FURNISH FIRST-CLASS TEAMS FOR COUNTRY ROUTES.</ab>
 <ab>32 Barr Street, FORT WAYNE, Ind.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Fort Wayne City
-. . . Bill Posting Co.</head>
+ Bill Posting Co.</head>
 
 <ab>Members . . 
 ASSOCIATED AND INTER-STATE BILL POSTERS' ASSOCIATION</ab>
@@ -3511,13 +3511,13 @@ CHRIST BRANDT, . . Superintendent.</ab>
 <ab>EAST LAPORTE STREET,
 PLYMOUTH, IND.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>W. M. KENDALL, Dealer in HAY, GRAIN AND FEED</head>
 
 <head>A Full Line of Groceries and Provisions.</head><head>PLYMOUTH, IND.</head>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>I. E. LOWER,
 Bill Poster and Distributer</head>
@@ -3529,7 +3529,7 @@ Bill Poster and Distributer</head>
 <ab>PLYMOUTH, IND.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <figure n="image"><p>BUFFALO BILL TO THE RESCUE.</p></figure>
 </div3>
@@ -3551,6 +3551,7 @@ BUFFALO BILL'S WILD WEST.</ab>
 KOKOMO, IND.</ab>
 
 </div3>
+<milestone unit="line"/>
 <div3>
 <figure n="image"><p>The SCOUT BUFFALO BILL</p><p>Hon. W. F. CODY</p></figure>
 </div3>
@@ -4042,7 +4043,7 @@ SQUARE,
 KOKOMO, IND.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>M. L. SWAYZEE. 
@@ -4060,7 +4061,7 @@ Swayzee Bros. &amp; Hunter,</head>
 MARION, IND.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>DEAM &amp; STUDABAKER,
 Livery and Funeral Supplies.</head>
@@ -4118,7 +4119,7 @@ THE WHITE THEATRE,
 Marion, Ind.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JOS. W. HIXSON.
 SAM. R. HIXON.  
@@ -4145,7 +4146,7 @@ PIQUA, OHIO.</ab>
 <ab>Special Attention to Country Routes.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>O. L. BLACK, Wholesale and Retail Dealer in Grain, Choice Baled Hay</head>
 
@@ -4156,7 +4157,7 @@ DAYTON, OHIO.</ab>
 <ab>Reference, Buffalo Bill's Wild West and Sells Bros. Shows. </ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>COURT LIVERY AND SALE STABLE</head>
 
@@ -4168,6 +4169,7 @@ North of Court House,
 Dayton, Ohio.</ab>
 
 </div3>
+<milestone unit="line"/>
 <div3>
 
 <head>WOLF BROTHERS,General BILL POSTERS AND DISTRIBUTERS</head>
@@ -4195,7 +4197,7 @@ Kenton, Ohio.</ab>
 
 <ab>REFERENCE,  BUFFALO BILL'S WILD WEST.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JOHN CALLAM &amp; CO. John Callam.
 Ed. Boulton. THE Lumber Dealers</head>
@@ -4219,7 +4221,7 @@ TELEPHONE 280.
 Springfield, Ohio.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>I. N. PANGLE, Livery and Feed Stable.</head>
@@ -4236,7 +4238,7 @@ LIMA, OHIO.</ab>
 <ab>REFERENCES.&#8212;Barnum &amp; Bailey's Greatest Show on Earth. Buffalo Bill's Wild West and Congress of Rough Riders of the World.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>W. C. TIRRILL &amp; CO.,
@@ -4248,7 +4250,7 @@ BILL POSTERS</head>
 <ab>Office, 216 W. Market St.
 'PHONE 56.LIMA, OHIO.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>YOU WILL FIND US JUST EAST OF PUBLIC SQUARE ON MARKET STREET AT </head>
@@ -4284,11 +4286,11 @@ LIMA, OHIO.</ab>
 <ab>W. R. BINGHAM &amp; COMPANY, OF CHICAGO, Proprietors.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>GEORGE T. MANN, Licensed City Bill Poster</head>
 
-<ab>. . . AND . . .CONTRACTOR OF NEW BOARDS AND ALL KINDS OF SMALL BOARDS, SIGNS, ETC.</ab>
+<ab> AND CONTRACTOR OF NEW BOARDS AND ALL KINDS OF SMALL BOARDS, SIGNS, ETC.</ab>
 
 <ab>Distributing and all kinds of Outdoor Advertising a Specialty.</ab>
 
@@ -4315,6 +4317,7 @@ Nos. 17 and 19 WALNUT STREET,
 Mansfield, Ohio.</ab>
 
 </div3>
+<milestone unit="line"/>
 <div3>
 <head>The Watkins Livery Co.</head>
 <ab>FEED, SALE AND BOARDING STABLE</ab>
@@ -4339,7 +4342,7 @@ Licensed Bill Posters</head>
 COLUMBUS, OHIO</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. H. ATCHERSON,
 LIVERY, BOARDING and SALES 
@@ -4365,7 +4368,7 @@ COLUMBUS, OHIO.</ab>
 Columbus, O.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>D. W. LUCAS,  DEALER IN  Flour, Feed, Grain and Seeds</head>
 
@@ -4378,7 +4381,7 @@ Columbus, O.</ab>
 Newark, O.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>C. W. HOOVER. 
 W. M. GRAVES. HOOVER AND GRAVES,
@@ -4391,7 +4394,7 @@ Rear of Hotel Warden.
 Newark, O.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. M. GARBER,
 Contractor Builder and Lessee of Bill Boards</head>
@@ -4420,7 +4423,7 @@ TELEPHONE 178.
 ZANESVILLE, O.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JOHN H. CROOKS,  PROPRIETOR OF Hacks and Carriages Livery and Feed Stables</head>
 
@@ -4430,14 +4433,14 @@ ZANESVILLE, O.</ab>
 Zanesville, O.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>R. D. SCHULTZ, MANAGER SCHULTZ OPERA HOUSE</head>
 
 <ab>OWNS AND CONTROLS ALL THE BILL BOARDS  IN  ZANESVILLE , OHIO.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <figure n="image"><p>Buffalo Bill&#8212;SHOOTING GLASS BALLS</p></figure>
 </div3>
@@ -4482,7 +4485,7 @@ THE FRANK W. GASKILL COMPANY</head>
 <ab>ALLIANCE, OHIO.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Open Day and Night.
 Telephone No. 10.</head>
@@ -4543,7 +4546,7 @@ Opp. Court House.
 Steubenville, Ohio.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>E. L. HAMMOND, DEALER IN
 GRAIN 
@@ -4570,7 +4573,7 @@ City Bill Poster</head>
 <ab>STEUBENVILLE, OHIO.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JOSEPH G. BARRES,
 CITY BILL POSTER</head>
@@ -4581,7 +4584,7 @@ CITY BILL POSTER</head>
 <ab>JOS. G. BARRES.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>MOSSGROVE'S
 New U. S. Hotel</head>
@@ -4619,7 +4622,7 @@ Telephone 1002.
 CLEVELAND, O.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>GEORGE L. BIVINS LIVERY</head>
 
@@ -4678,7 +4681,7 @@ COR HIGH &amp; MIDDLE STS.</ab>
 <ab>We Reach 400,000 People</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>CHAS. LEDERER'S SON, DEALER IN  Flour, Feed, Grain, Baled Hay and Straw</head>
 
@@ -4688,7 +4691,7 @@ COR HIGH &amp; MIDDLE STS.</ab>
 TELEPHONE 2026.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>GALLAGHER BROS.
 WHOLESALE
@@ -4721,7 +4724,7 @@ Groceries and Provisions</head>
 TIFFIN, OHIO.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. R. LEWIS, 
 City Bill Poster</head>
@@ -4734,7 +4737,7 @@ City Bill Poster</head>
 <ab>POPULATION, 14,000.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>TIFFIN, OHIO</head>
 
@@ -4745,7 +4748,7 @@ The Electric Railway &amp; Power Co.</ab>
 <ab>Office, 99 WASHINGTON STREET.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>The Shawhan</head>
 
@@ -4772,7 +4775,7 @@ Phone 177.
 FINDLAY, OHIO.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">All Work Guaranteed.
 Population of City, 23,000.</head>
@@ -4799,7 +4802,7 @@ FINDLAY, Ohio.</ab>
 Cor. Main and Hardin.
 FINDLAY, Ohio.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>CHAS. BAETZ, MANAGER </head>
  
@@ -4810,7 +4813,7 @@ FINDLAY, Ohio.</ab>
 <ab>SANDUSKY, OHIO.</ab>
 <ab>Pleasure Resort.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">Established September, 1867.</head>
 
@@ -4841,7 +4844,7 @@ ST. CLAIR STREET,
 Toledo, Ohio.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">ESTABLISHED 1868.
 Population of City, 100,000.</head>
@@ -4868,11 +4871,11 @@ TELEPHONE 2726.
 DETROIT, MICH.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <figure n="image"></figure>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JACOB BECK &amp; SONS,</head>
 
@@ -4913,7 +4916,7 @@ DETROIT, Mich.
  DETROIT, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>WALKER &amp; CO.
 BILL POSTERS  AND General Advertisers.</head>
@@ -4948,7 +4951,7 @@ Bill Posting and  Distributing Company</head>
 
 </div3>
 
-
+<milestone unit="line"/>
 <div3>
 <head>W. S. EDDY, President.
 H. A. WOLPERT, Vice-Prest. HENRY W. CARR, Sec'y and Treas. A. GERNENZ, Ass't Manager.</head>
@@ -4988,7 +4991,7 @@ Telephone No. 324, 2 Rings.
 SAGINAW, E. S., MICH.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <figure n="image"></figure>
 </div3>
@@ -5014,7 +5017,7 @@ AND
 PORT HURON, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>BENNETT
 Bill Posting Company</head>
@@ -5051,7 +5054,7 @@ BAY CITY, MICH.</ab>
 1,000 FT. BOARDS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>FRED. LA FRANCE,
 Hack  AND Baggage Line</head>
@@ -5626,7 +5629,7 @@ Telephone No. 82.
 Owosso, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">C. W. AIKEN.
 ARTHUR WHELAN</head>
@@ -5638,7 +5641,7 @@ MEAL, OATS, BALED HAY, STRAW, Etc.</head>
 <ab>Owosso, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>H. C. WILMOT,
 City BILL POSTER and DISTRIBUTER.</head>
@@ -5663,7 +5666,7 @@ City BILL POSTER and DISTRIBUTER.</head>
 ANN ARBOR, MICH.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>J. A. POLHEMUS,
@@ -5698,7 +5701,7 @@ FAITHFULLY CARRIED OUT.</ab>
 ADRIAN MICH.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>A. M. FARNSWORTH PROPRIETOR OF Farnsworth's Hack and Livery Stable.</head>
@@ -5718,13 +5721,13 @@ ADRIAN, MICH.</ab>
 <head>GEO. M. HOCH.
 FRED. J. GMAHLING. Hoch &amp; Gmahling, PROPRIETORS OF THE "LEADER" GROCERY</head>
 
-<ab>HEADQUARTERS . . .
+<ab>HEADQUARTERS 
 FOR EVERYTHING DESIRABLE IN Choice Family Groceries, Provisions, Etc.</ab>
 
 <ab>No. 14 South Main St., ADRIAN, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. W. GUNSOLUS, DEALER IN Flour, Feed, Grain Baled Hay and Straw.</head>
 
@@ -5756,7 +5759,7 @@ BARN, Rear Hurd House.
 JACKSON, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">Members of the International Bill Posters' Association.</head>
 <head>Stevenson &amp; Solomon,
@@ -5794,7 +5797,7 @@ The International Association of Distributers.</ab>
 <ab>Kalamazoo, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JOEL WATERBURY, Livery</head>
 
@@ -5820,7 +5823,7 @@ Ringling Bros. Show.</ab>
 <ab>209 WEST WATER STREET.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>What We Have and Do.</head>
 
@@ -5863,7 +5866,7 @@ LANSING, MICH.</ab>
 
 <ab>J. A. ELLIS, Manager,</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>P. E. LACY.
 HORACE LAPHAM. 
@@ -5877,7 +5880,7 @@ P. E. LACY &amp; CO. DEALERS IN Grain, Hides, Pelts and Furs, Lime, Cement.</hea
 Lansing, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>W. L. McCLURE,
 Livery and Sale STABLE</head>
@@ -5904,7 +5907,7 @@ TELEPHONE 324
 GRAND RAPIDS, MICH.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>ESTABLISHED 1860.
 GEORGE M. LEONARD,
@@ -5941,7 +5944,7 @@ Fronting Western Avenue.
 MUSKEGON, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>G. F. Sperry &amp; Co. Wholesale and Retail Dealers in Flour, 
  Feed,  
@@ -5981,7 +5984,7 @@ FLOUR AND FEED</head>
 <ab>BENTON HARBOR, Mich.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>GEO. S. KOLB, WHOLESALE AND RETAIL Grocer AND Baker</head>
 
@@ -6003,7 +6006,7 @@ GOSHEN, Ind.</ab>
 GOSHEN, IND.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>C. J. ULREY.
 F. E. POYSER. ULREY &amp; POYSER, JOBBERS OF SPRING AND WINTER WHEAT FLOUR</head>
@@ -6036,7 +6039,7 @@ P. O. Box 746
 POPULATION, 10,000.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>OLIVER HOUSE</head>
 
@@ -6062,13 +6065,13 @@ POPULATION, 10,000.</ab>
 <ab>SOUTH BEND, IND.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>IRELAND AND SON,  PROPRIETORS LIVERY, BOARD, SALE AND FEED STABLES </head>
 
 <ab>HACKS FOR FUNERALS AND PARTIES A SPECIALTY.</ab>
 
-<ab>Have furnished Shows Country Teams PAST 23 YEARS . . . . .</ab>
+<ab>Have furnished Shows Country Teams PAST 23 YEARS</ab>
 
 <ab>REFERENCES: Buffalo Bill's Wild West.
 Barnum &amp; Bailey Show.
@@ -6094,7 +6097,7 @@ Opposite Passenger Depot,
 SOUTH BEND, IND.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>L. NICKEL, Jr., &amp; CO. LOW-PRICED GROCERY AND VIENNA BAKERY</head>
 
@@ -6148,7 +6151,7 @@ Undertaking</head>
 <ab>MICHIGAN CITY, IND.</ab>
 </div3>
 
-
+<milestone unit="line"/>
 <div3>
 <head>A. C. HEITSCHMIDT, Wholesale and Retail Dealer in Flour, Feed, Grain BALED HAY, STRAW, ROCK SALT AND ALL KINDS OF GRASS SEEDS.</head>
 
@@ -6159,7 +6162,7 @@ MICHIGAN CITY, Ind.
 Telephones:&#8212;M. M. 174, Bell 32.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>E. F. BAILEY 
 City  Bill  Poster</head>
@@ -6186,7 +6189,7 @@ JOLIET, Ills.
 TELEPHONE 208.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">S. V. DeLONG.
 GEO. W. BIEDERMAN.</head>
@@ -6224,7 +6227,7 @@ T. J. BYRON.</head>
 JOLIET, Ill.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Hobbs Grocery House</head>
 
@@ -6261,11 +6264,11 @@ PHONE No. 109.
 STREATOR, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>CHARLES FINLEN PROPRIETOR OF Livery, Sale and Feed Stables</head>
 
-<ab>Excellent Service . . . On Country Routes.</ab>
+<ab>Excellent Service  On Country Routes.</ab>
 
 <ab>Reference: Buffalo Bill's Wild West Show.</ab>
 
@@ -6289,7 +6292,7 @@ City Bill Poster DISTRIBUTER AND PROGRAMMER</head>
 <ab>AURORA, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>HEIDEMANN &amp; SON,  PROPRIETORS OF  The Stone Mills</head>
 
@@ -6299,7 +6302,7 @@ City Bill Poster DISTRIBUTER AND PROGRAMMER</head>
 ELGIN, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head type="sub">W. W. HICHCOX.
@@ -6332,7 +6335,7 @@ TELEPHONE NO. 50.</ab>
 <ab>H.S. MUETTERTIES, Proprietor.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>AUG. SCHEELE,
 THE GROCER</head>
@@ -6365,7 +6368,7 @@ Country Work, Etc.</ab>
 ELGIN, Ills.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>S. C. HOAGLAND, Livery, Sale and Express  Stables.</head>
 
@@ -6392,7 +6395,7 @@ BATTLE CREEK, Mich.
 TELEPHONE 113.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">The Leading Hotel of the City.</head>
 <head type="main">Merchants' Hotel</head>
@@ -6405,7 +6408,7 @@ TELEPHONE 113.</ab>
 <ab>Special accommodations and favorable rates to the amusement profession.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Geo. H. Robertson,
 CITY BILL POSTER AND DISTRIBUTER.</head>
@@ -6430,7 +6433,7 @@ DIXON, ILLS.</ab>
 DIXON, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>I. B. Countryman Co. WHOLESALE AND RETAIL Groceries</head>
 
@@ -6455,7 +6458,7 @@ AND DISTRIBUTER.</head>
 FREEPORT, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. R. ROSEBRUGH PROPRIETOR Palace Livery.</head>
 
@@ -6467,7 +6470,7 @@ Telephone No. 3.
 FREEPORT, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head type="sub">GEO. LICHTENBERGER.
@@ -6496,7 +6499,7 @@ FREEPORT, ILL.</ab>
 FREEPORT, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Hotel Brewster</head>
 
@@ -6513,7 +6516,7 @@ Steam Heat.</ab>
 <ab>Freeport, Ill.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>JACOB PFENDER,
@@ -6524,7 +6527,7 @@ BALED HAY AND STRAW</head>
 FREEPORT, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>C. C. JONES, 
 BILL POSTING AND DISTRIBUTING</head>
@@ -6558,7 +6561,7 @@ Bill Posting Co.</head>
 MILWAUKEE.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>EUGENE CARY &amp; CO.,
 Produce and Commission Merchants</head>
@@ -6590,7 +6593,7 @@ MILWAUKEE, WIS.</ab>
 TELEPHONE 22.
 MILWAUKEE, WIS.</ab>
 </div3>
-
+<milestone unit="line"/>
 
 <div3>
 <head>PEOPLE WHO EAT BREAD</head>
@@ -6613,7 +6616,7 @@ MILWAUKEE, WIS.</ab>
 MADISON, WIS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>H. KLUETER, DEALER IN Flour, Feed and Groceries</head>
 
@@ -6641,7 +6644,7 @@ MADISON, WIS.</ab>
 <ab>MADISON, WIS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">FREE BUS TO AND FROM ALL TRAINS</head>
 
@@ -6654,7 +6657,7 @@ MADISON, WIS.</ab>
 <ab>ROCKFORD, ILL.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>HOTEL MYERS</head>
 
@@ -6684,7 +6687,7 @@ MADISON, WIS.</ab>
 JANESVILLE, WIS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Van Kirk Grocery Co., WHOLESALE and RETAIL GROCERS AND PROVISION DEALERS.</head>
 
@@ -6712,7 +6715,7 @@ JANESVILLE, Wis.</ab>
 ROCKFORD, Ill.
 TELEPHONE 213.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>PUSH Your Business. PRINTERS' INK  PAYS IF YOU DISPLAY IT RIGHT.</head>
 
@@ -6745,12 +6748,12 @@ Telephone 61.
 RACINE, WIS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <figure n="image"><p>BUCKING MUSTANGS</p></figure>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>PALACE LIVERY</head>
 
@@ -7289,7 +7292,7 @@ AND ALL KINDS OF SEED.</head>
 APPLETON, Wis.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>FRANK WRIGHT, PROPRIETOR OF Livery SALE AND BOARDING Stable.</head>
 
@@ -7314,14 +7317,14 @@ City Bill Poster and Distributer</head>
 <ab>MEMBER OF THE INTERSTATE BILL POSTERS' ASSOCIATION.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>RYAN &amp; CARROLL GROCERS.</head>
 
 <ab>NO. 851 COLLEGE AVENUE,
 APPLETON, Wis.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>DAVID BARCLAY DEALER,</head>
 
@@ -7363,7 +7366,7 @@ MENOMINEE, MICH.</ab>
 <ab>Member of State Association of Bill Posters, Wisconsin.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>H. P. SCHMIDT'S
 Steam Bakery</head>
@@ -7371,7 +7374,7 @@ Steam Bakery</head>
 <ab>1113 CARPENTER ST., 
 Menominee, Mich.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>LYON BROTHERS &amp; CO. Commission Merchants</head>
 
@@ -7403,7 +7406,7 @@ GREEN BAY, WIS.</ab>
 <ab>ELEVATOR ON C. M. &amp; ST. P. TRACK.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>F. SNYDER,
 Livery and Exchange Stables</head>
@@ -7414,7 +7417,7 @@ Country Routes Promptly Attended To.</ab>
 <ab>215 N. ADAMS STREET, 
 GREEN BAY, WIS.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>E. M. COPPS &amp; CO.,</head>
@@ -7426,7 +7429,7 @@ Stevens Point, Wis.</ab>
 
 <ab>Refers to BUFFALO BILL'S WILD WEST SHOW.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>R. B. FINCH PROPRIETOR 
 City Livery Stable</head>
@@ -7447,7 +7450,7 @@ City Livery Stable</head>
 
 <ab>STEVENS POINT, WIS.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3><head>AUGUST ERICKSON &amp; CO., CITY BILL POSTERS</head>
 
 <ab>Distributing, Card Tacking and Country Work.</ab>
@@ -7459,7 +7462,7 @@ City Livery Stable</head>
 <ab>Office, 331 Pearl St.,LA CROSSE, WIS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>A. GRAMS &amp; SONS PROPRIETORS OF  Morning Star Mills</head>
 
@@ -7468,7 +7471,7 @@ City Livery Stable</head>
 <ab>218, 220, 222 SOUTH FRONT STREET,
 LA CROSSE, WIS.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>HENRY WERNER, CITY BILL POSTER and Distributer.</head>
 
@@ -7490,7 +7493,7 @@ LA CROSSE, WIS.</ab>
 <ab>WINONA, MINN.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>CHAS. WESTMAN, BOSTON BAKERY AND CONFECTIONERY</head>
 
@@ -7500,7 +7503,7 @@ LA CROSSE, WIS.</ab>
 WINONA, MINN.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JOHN WINKELS &amp; CO. WHOLESALE AND RETAIL DEALERS IN Fresh and Salt MEATS Game, Poultry, Etc.,</head>
 
@@ -7533,7 +7536,7 @@ Country Work,
 Etc.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>W. S. MASON, WHOLESALE Grain, Flour HAY and PRODUCE.</head>
 
@@ -7562,7 +7565,7 @@ EAU CLAIRE, Wis.</ab>
 <ab>SPLENDID TURN-OUTS FOR COUNTRY ROUTES.</ab>
 </div3>
 
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">Remodeled Throughout. Steam Heat. 
 Elegant New Sample Rooms. Finest in the West.
@@ -7580,7 +7583,7 @@ EAU CLAIRE, Wis.</ab>
 <ab>Rates $2.00 and $2.50 per day.</ab>
 </div3>
 
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">NEATNESS. 
 PROMPTNESS. 
@@ -7628,7 +7631,7 @@ Albertville. Chippewa Falls.</ab>
 <ab>Reference, Buffalo Bill's Wild West Shows.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <figure n="image"><ab type="credit">A. Hoen &amp; Co. Baltimore Md.</ab><p>BUFFALO BILL'S WILD WEST.</p></figure>
 
@@ -7651,7 +7654,7 @@ Telephone No. 7.
 Chippewa Falls, Wis.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>The New Stanley</head>
 
@@ -7664,7 +7667,7 @@ Chippewa Falls, Wis.</ab>
 <ab>REFERENCE.&#8212;BUFFALO BILL'S WILD WEST AND ALL LARGE SHOWS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>MONAT &amp; HANZLIK,
 Groceries</head>
@@ -7676,7 +7679,7 @@ Telephone 66.
 Chippewa Falls, Wis.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>A. BIGLER,
 City Bakery</head>
@@ -7704,7 +7707,7 @@ Telephone No. 53.
 ASHLAND, WIS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>W. D. KUHN &amp; BRO.
 Proprietors Grand Opera House.
@@ -7721,7 +7724,7 @@ of Advertising Matter. 1,750 lineal feet of Boards in the most prominent parts o
 
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>HANSON BROS.
@@ -7753,7 +7756,7 @@ TRIMMED IN THE LATEST STYLE.</ab>
 <ab>ASHLAND, WIS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>THOS. SULLIVAN &amp; CO.
  DEALERS IN 
@@ -7784,7 +7787,7 @@ Duluth, Minn.</ab>
 
 <ab>F. J. MARSH, Manager.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>GRAY BROTHERS,  Bakers  AND  CONFECTIONERS 
 ICE CREAM AT WHOLESALE AND RETAIL.</head> 
@@ -7793,7 +7796,7 @@ ICE CREAM AT WHOLESALE AND RETAIL.</head>
 Duluth, Minn.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">Established 1878.
 Incorporated 1889.</head>
@@ -7824,7 +7827,7 @@ MINN.</ab>
 <ab>REFERENCE,&#8212;Buffalo Bill's Wild West Shows.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>NICK RONNER,
 LIVERY
@@ -7856,7 +7859,7 @@ Telephone 1525.
 ST. PAUL, MINN.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">M. F. BRENNAN, Prop.
 E. W. WALLACE, Mgr.</head>
@@ -7870,7 +7873,7 @@ TELEPHONE 133-3
 St. Paul, Minn.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>C H. GRIEBEL, Jr.
 ONLY
@@ -7887,7 +7890,7 @@ Sec. and Treas. Minnesota State Bill Posters' Ass'n.</ab>
  MANKATO, MINN.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>G. M. PHILLIPS &amp; SON,
@@ -7918,7 +7921,7 @@ Hay, Grain  and  Flour</head>
 <ab>MARSHALLTOWN. Iowa.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>FRANK FRISBEE,
 SUCCESSOR TO FRISBEE BROS.
@@ -7931,7 +7934,7 @@ BUS AND TRANSFER LINE.</head>
 SHELDON, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JOHN WALTON, 
 Bill Poster, Circular Distributer</head>
@@ -7949,14 +7952,14 @@ City  3,000.</ab>
 SHELDON, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>H. E. PARKER,
 PROPRIETOR OF THE
 City Flour and Feed Store</head>
 
 <ab>FANCY BRANDS OF FLOUR
-Wholesale and Retail Dealer in . . .
+Wholesale and Retail Dealer in 
 GRAIN, COAL AND WOOD.</ab>
 
 <ab>225 AND 227 North Main Ave.
@@ -7986,7 +7989,7 @@ BILL POSTING COMPANY.</head>
 SIOUX FALLS, SO. DAKOTA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>SELZER'S  
 Palace Livery Stable</head>
@@ -7999,7 +8002,7 @@ Palace Livery Stable</head>
 SIOUX CITY, Iowa.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>E. A. CONWAY,
 Flour, Grain, Coal</head>
@@ -8038,7 +8041,7 @@ SIOUX CITY, Iowa.</ab>
 <ab>SIOUX CITY, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>WEART &amp; LYSAGHT, Dealers in Lumber</head>
 
@@ -8049,7 +8052,7 @@ SIOUX CITY, Iowa.</ab>
 <p>CHEROKEE, IOWA.</p>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>R. J. KIDDER, Dealer in Fine Groceries</head>
@@ -8076,7 +8079,7 @@ all in Prominent Locations.</ab>
 <ab>FORT DODGE, IOWA. 
 POPULATION, 10,000.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">W. H. H. COLBY.
 CHAS. COLBY.</head>
@@ -8104,7 +8107,7 @@ LIVERY AND FEED STABLE.</head>
 <ab>NO. 116 EAST SIXTH STREET,
 MASON CITY, IOWA.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Parker's Opera House</head>
 
@@ -8136,7 +8139,7 @@ Waterloo, Iowa.</ab>
 <ab>We Furnish Livery to all Large Shows.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">John M. Byrne.
 Joseph T. Byrne.
@@ -8152,7 +8155,7 @@ COR. 7TH AND LOCUST STREETS.
 Dubuque, Iowa.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">Brown's Opera House.</head>
 
@@ -8203,7 +8206,7 @@ In the Hawkeye State.</ab>
 Width between Girders, 38 feet. </ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. B. Schroeder &amp; Co.
 Commission Merchants</head>
@@ -8212,7 +8215,7 @@ Commission Merchants</head>
 <ab>REFERENCE: BUFFALO BILL'S WILD WEST SHOW.</ab>
  
 <ab>Jobbers and Dealers in 
-FLOUR, FEED, GRAIN, BALED HAY AND STRAW, AND ALL KINDS SALT, APPLES, POTATOES, . . . ONIONS AND CABBAGE. </ab>
+FLOUR, FEED, GRAIN, BALED HAY AND STRAW, AND ALL KINDS SALT, APPLES, POTATOES,  ONIONS AND CABBAGE. </ab>
 
 <ab>COR. EIGHTH AND WHITE STREETS,
 Telephone 267.
@@ -8243,7 +8246,7 @@ Barnum &amp; Bailey's Greatest Show on Earth.
 Forepaugh &amp; Sells' Shows.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>TATE AND SLOPPY
 City Bill Posters.</head>
@@ -8280,7 +8283,7 @@ And BOARDING STABLES.</head>
 Clinton, Iowa.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>I. A. LYTLE, 
 Livery, Feed and Sale Stable</head>
@@ -8293,7 +8296,7 @@ Livery, Feed and Sale Stable</head>
 CEDAR RAPIDS, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>W. KARBAN,
  DEALER IN 
@@ -8359,7 +8362,7 @@ AND
 BARNUM &amp; BAILEY GREATEST SHOW ON EARTH.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Frank Bowman, 
 LIVERY
@@ -8395,7 +8398,7 @@ ALWAYS TREATED SQUARE.</ab>
 OTTUMWA, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>W. S. CRIPS &amp; BRO.,
 Livery and Feed Stable</head>
@@ -8411,6 +8414,7 @@ COUNTRY ROUTES A SPECIALTY. </ab>
 OTTUMWA, IOWA.</ab>
 
 </div3>
+<milestone unit="line"/>
 <div3>
 
 <head>Jones and Buchanan,
@@ -8438,7 +8442,7 @@ FLOUR, FEED, MEAL, BALED HAY &amp; STRAW, GRAIN, COAL, WOOD.</head>
 OSKALOOSA, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">W. A. McNEILL, President and Gen. Manager. 
 J. F. McNEILL, Sec'y and Treasurer. 
@@ -8474,7 +8478,7 @@ DES MOINES, IOWA.
 TELEPHONE 97.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>MARTIN BROS., WHOLESALE AND RETAIL</head>
 <ab>Dealers in
@@ -8486,7 +8490,7 @@ HAY, FLOUR, FEED, &amp;c.</ab>
 900 WEST WALNUT ST.,
 DES MOINES, IOWA.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Foster's AND 
 The Grand OPERA HOUSES.</head>
@@ -8512,7 +8516,7 @@ LIVERY 'BUS, BAGGAGE AND Boarding Stables.</head>
 <ab>MARSHALLTOWN, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>"Of Course There Are Others,"
 BUT NO BILL POSTING CO. HAVE THE PRIVILEGES I  HAVE.</head>
@@ -8548,7 +8552,7 @@ COAL AND WOOD YARD.</head>
 <ab>Boone, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">MRS. KATE HALL, PROPRIETRESS.
 JAMES H. BLACK, MANAGER.</head>
@@ -8561,7 +8565,7 @@ New Management.</ab>
 <ab>BOONE, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. F. SCHUMACHER, WHOLESALE AND RETAIL DEALER IN FLOUR, FEED AND PRODUCE.</head>
 
@@ -8602,7 +8606,7 @@ CARROLL, IOWA.</ab>
 
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>THE COUNCIL BLUFFS
  BILL POSTING
@@ -8645,7 +8649,7 @@ Barn Telephone 286.</ab>
 <ab>SPECIAL RATES given to all Theatrical Troupes, and Country Routes for all Big Shows.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">T. J. Shugart.
 C. G. OUREN.</head>
@@ -8683,7 +8687,7 @@ Hay and Grain Co.</head>
 OMAHA, Neb.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>N. E. DILLRANCE,
 LIVERY
@@ -8720,7 +8724,7 @@ OMAHA, Neb.</ab>
 <ab>MEMBER OF THE ASSOCIATED BILL POSTERS' ASSOCIATION OF THE UNITED STATES AND CANADA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>PALACE LIVERY</head>
 
@@ -8753,7 +8757,7 @@ CARPENTER AND BUILDER</head>
 NORTH PLATTE, Neb.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>J. S. CRAIG, 
 LICENSED BILL POSTER</head>
@@ -8768,7 +8772,7 @@ HASTINGS, Neb.</ab>
 <ab>20,000 SQUARE FEET OF BOARDS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>SPRENGER &amp; SON,
@@ -8804,7 +8808,7 @@ Livery Stables</head>
 CARROLL, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>FUNKE
 Opera House.</head>
@@ -8821,7 +8825,7 @@ Opera House.</head>
 <ab>LINCOLN, NEB.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Gran Ensign,
 PROPRIETOR OF
@@ -8855,7 +8859,7 @@ JOSEPH H. MARTIN, Bill Poster.</ab>
 <ab>Beatrice, Neb.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head type="sub">S. P. WHEELER, President.
@@ -8873,7 +8877,7 @@ W. H. OTTO, Sec. &amp; Gen'l Mgr.</head>
 BEATRICE, NEB.
 TELEPHONE 33.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>CHARLEY GILL,
 THE UP-TO-DATE
@@ -8908,7 +8912,7 @@ City Bill Poster</head>
 <ab>ADVANCE AGENTS for all Tent Shows. See me. You cannot afford to skip us.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>M. B. DONOVAN,
  PROPRIETOR OF 
@@ -8946,7 +8950,7 @@ Bill Posting and Distributing</ab>
 Leavenworth, Kans.
 </ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">THOMAS L. GAUGH.
 W. MORT. GAUGH.</head>
@@ -8984,7 +8988,7 @@ KANSAS CITY, MO.
 Telephone 431.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head type="sub">ONLY LICENSED BILL POSTERS IN 
 Kansas City, Mo., Kansas City, Kans., Westport, Mo., Argentine. Kans.</head>
@@ -9032,7 +9036,7 @@ INCREASE YOUR TRADE?</ab>
 <ab>General Office, TOPEKA, KANS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>FORT SCOTT BILL POSTING CO.</head>
 
@@ -9050,7 +9054,7 @@ MANAGER DAVIDSON THEATRE.</ab>
 <ab>FORT SCOTT, KANSAS.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>HANNA BROS., 
 PROPRIETORS OF
@@ -9084,7 +9088,7 @@ Grain, Baled Hay and Straw</head>
 TELEPHONE 292. </ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>Wood's Opera House</head>
 
@@ -9104,7 +9108,7 @@ DRUGGIST AND CHEMIST,</ab>
 <ab>POPULATION 25,000.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>JOHN A. COLLINS,
 QUEEN CITY
@@ -9117,7 +9121,7 @@ Teams for Country Routes past 20 years&#8212;Quick service.</ab>
 SEDALIA, Mo.
 TELEPHONE No. 1.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>GEO. T. MENEFEE &amp; SONS,
  DEALERS IN
@@ -9145,7 +9149,7 @@ JACKSON, Mich.
 Takes care of all the Big Shows. He feeds them well at minimum cost.</head>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>SPINDLER GROCERY
  DEALER IN 
@@ -9175,7 +9179,7 @@ Telephone Connection.
 WEST BAY CITY.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>The Sandusky Steam Baking Company.</head>
 
@@ -9200,7 +9204,7 @@ Sandusky, Ohio.</ab>
 <ab>COR. NICOLLET AVE. AND 26TH STREET.
 MINNEAPOLIS, MINN.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>YOUNG AND MONSON,
 WHOLESALE AND RETAIL 
@@ -9211,7 +9215,7 @@ GROCERS.</head>
 <ab>132 &amp; 134 South Front Street,
 MANKATO, MINN.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>MERCHANTS HOTEL ANDLIVERY</head>
 
@@ -9220,7 +9224,7 @@ MANKATO, MINN.</ab>
 <ab>SIOUX FALLS, S. D.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>GEORGE J. FESSEL,
 PROPRIETOR OF THE
@@ -9253,7 +9257,7 @@ Feed and Sale Stable</head>
 <ab>110-112 North Williams Street,
 MOBERLY, MO.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>WESLEY GORHAM,
 Bill Poster
@@ -9270,7 +9274,7 @@ ALL WORK GUARANTEED.</ab>
 <ab>MOBERLY, MO.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>SMITH BROS.,
 CITY MEAT MARKET</head>
@@ -9292,7 +9296,7 @@ Grocers.</head>
 <ab>Waterloo, Iowa.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>A. B. ROSS
 Groceries CROCKERY, GLASSWARE
@@ -9319,7 +9323,7 @@ FIRST DOOR WEST OF COURT HOUSE.
 Fort Dodge, IOWA.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>LEAVENWORTH BILL POSTING CO.
 BROOKS &amp; CO.
@@ -9333,7 +9337,7 @@ Advertising Agents.</head>
 <ab>COR. FOURTH AND SENECA STS., 
 Leavenworth, Kansas.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>THOSE DESIRING COPIES
 OF
@@ -9778,7 +9782,7 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>P. &amp; R.</cell>
 <cell>93</cell></row>
 <row><cell>&#160;7 Tues.</cell>
-<cell>Reading...</cell>
+<cell>Reading</cell>
 <cell>"</cell>
 <cell>P. &amp; R.</cell>
 <cell>35</cell></row>
@@ -9788,17 +9792,17 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>P. &amp; R. and L. V</cell>
 <cell>53</cell></row>
 <row><cell>&#160;9 Thurs</cell>
-<cell>Allentown...</cell>
+<cell>Allentown</cell>
 <cell>"</cell>
 <cell>Lehigh Valley</cell>
 <cell>17</cell></row>
 <row><cell>10 Fri.</cell>
 <cell>Wilkesbarre</cell>
 <cell>"</cell>
-<cell>Lehigh Valley...</cell>
+<cell>Lehigh Valley</cell>
 <cell>82</cell></row>
 <row><cell>11 Sat.</cell>
-<cell>Scranton...</cell>
+<cell>Scranton</cell>
 <cell>"</cell>
 <cell>D. &amp; H. Co.</cell>
 <cell>19</cell></row>
@@ -9808,7 +9812,7 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>13 Mon.</cell>
-<cell>Carbondale...</cell>
+<cell>Carbondale</cell>
 <cell>"</cell>
 <cell>D. &amp; H. Co.</cell>
 <cell>16</cell></row>
@@ -9823,12 +9827,12 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>D. &amp; H. Co.</cell>
 <cell>75</cell></row>
 <row><cell>16 Thurs.</cell>
-<cell>Gloversville...</cell>
+<cell>Gloversville</cell>
 <cell>"</cell>
 <cell>N. Y. C. and F., J. &amp; G</cell>
 <cell>37</cell></row>
 <row><cell>17 Fri.</cell>
-<cell>Troy...</cell>
+<cell>Troy</cell>
 <cell>"</cell>
 <cell>F., J. &amp; G and N. Y. C</cell>
 <cell>59</cell></row>
@@ -9843,7 +9847,7 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>20 Mon.</cell>
-<cell>Albany...</cell>
+<cell>Albany</cell>
 <cell>"</cell>
 <cell>N. Y. C. &amp; H. R.</cell>
 <cell>70</cell></row>
@@ -9864,7 +9868,7 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>Boston &amp; Albany</cell>
 <cell>20</cell></row>
 <row><cell>24 Fri.</cell>
-<cell>Greenfield...</cell>
+<cell>Greenfield</cell>
 <cell>"</cell>
 <cell>Fitchburg</cell>
 <cell>38</cell></row>
@@ -9884,22 +9888,22 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>Boston &amp; Maine</cell>
 <cell>8</cell></row>
 <row><cell>28 Tues.</cell>
-<cell>Waterbury...</cell>
+<cell>Waterbury</cell>
 <cell>Conn.</cell>
 <cell>N. Y. &amp; N. E</cell>
 <cell>65</cell></row>
 <row><cell>29 Wed.</cell>
-<cell>Danbury...</cell>
+<cell>Danbury</cell>
 <cell>"</cell>
 <cell>N. Y. &amp; N. E</cell>
 <cell>30</cell></row>
 <row><cell>30 Thurs.</cell>
-<cell>Bridgeport...</cell>
+<cell>Bridgeport</cell>
 <cell>"</cell>
 <cell>N. Y., N. H. &amp; H</cell>
 <cell>39</cell></row>
 <row><cell>31 Fri.</cell>
-<cell>New Haven...</cell>
+<cell>New Haven</cell>
 <cell>"</cell>
 <cell>N. Y., N. H. &amp; H</cell>
 <cell>18</cell></row>
@@ -9916,9 +9920,9 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>Mls</cell></row>
 
 <row><cell>&#160;1 Sat.</cell>
-<cell>New Haven...</cell>
+<cell>New Haven</cell>
 <cell>Conn.</cell>
-<cell>N. Y., N. H. &amp; H...</cell>
+<cell>N. Y., N. H. &amp; H.</cell>
 <cell>18</cell></row>
 <row><cell>&#160;2 Sun.</cell>
 <cell>...</cell>
@@ -9926,24 +9930,24 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>&#160;3 Mon.</cell>
-<cell>Hartford...</cell>
+<cell>Hartford</cell>
 <cell>"</cell>
-<cell>N. Y., N. H. &amp; H...</cell>
+<cell>N. Y., N. H. &amp; H.</cell>
 <cell>36</cell></row>
 <row><cell>&#160;4 Tues.</cell>
-<cell>Norwich...</cell>
+<cell>Norwich</cell>
 <cell>"</cell>
-<cell>N. Y. &amp; N. E...</cell>
+<cell>N. Y. &amp; N. E.</cell>
 <cell>70</cell></row>
 <row><cell>&#160;5 Wed.</cell>
-<cell>Woonsocket...</cell>
+<cell>Woonsocket</cell>
 <cell>R. I.</cell>
-<cell>N. Y. &amp; N. E...</cell>
+<cell>N. Y. &amp; N. E.</cell>
 <cell>61</cell></row>
 <row><cell>&#160;6 Thurs.</cell>
-<cell>Worcester...</cell>
+<cell>Worcester</cell>
 <cell>Mass.</cell>
-<cell>N. Y. &amp; N. E...</cell>
+<cell>N. Y. &amp; N. E.</cell>
 <cell>54</cell></row>
 <row><cell>&#160;7 Fri.</cell>
 <cell>"</cell>
@@ -9951,9 +9955,9 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
  </row>
 
 <row><cell>&#160;8 Sat.</cell>
-<cell>Fitchburg...</cell>
+<cell>Fitchburg</cell>
 <cell>"</cell>
-<cell>Fitchburg...</cell>
+<cell>Fitchburg</cell>
 <cell>26</cell></row>
 <row><cell>&#160;9 Sun.</cell>
 <cell>...</cell>
@@ -9961,9 +9965,9 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>10 Mon. to Sat. 22</cell>
-<cell>Boston...</cell>
+<cell>Boston</cell>
 <cell>"</cell>
-<cell>Old Colony...</cell>
+<cell>Old Colony</cell>
 <cell>73</cell></row>
 <row><cell>23 Sun.</cell>
 <cell>...</cell>
@@ -9971,33 +9975,33 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>24 Mon.</cell>
-<cell>Providence...</cell>
+<cell>Providence</cell>
 <cell>R. I.</cell>
-<cell>Old Colony...</cell>
+<cell>Old Colony</cell>
 <cell>44</cell></row>
 <row><cell>25 Tues.</cell>
 <cell>"</cell>
 <cell>"</cell>
 <cell></cell></row>
 <row><cell>26 Wed.</cell>
-<cell>Newport...</cell>
+<cell>Newport</cell>
 <cell>"</cell>
-<cell>Old Colony...</cell>
+<cell>Old Colony</cell>
 <cell>37</cell></row>
 <row><cell>27 Thurs.</cell>
-<cell>Fall River...</cell>
+<cell>Fall River</cell>
 <cell>Mass.</cell>
-<cell>Old Colony...</cell>
+<cell>Old Colony</cell>
 <cell>19</cell></row>
 <row><cell>28 Fri.</cell>
-<cell>Brockton...</cell>
+<cell>Brockton</cell>
 <cell>"</cell>
-<cell>Old Colony...</cell>
+<cell>Old Colony</cell>
 <cell>31</cell></row>
 <row><cell>29 Sat.</cell>
 <cell>New Bedford</cell>
 <cell>"</cell>
-<cell>Old Colony...</cell>
+<cell>Old Colony</cell>
 <cell>34</cell></row>
 <row><cell>30 Sun.</cell>
 <cell>...</cell>
@@ -10021,9 +10025,9 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>Mls</cell></row>
 
 <row><cell>&#160;1 Mon.</cell>
-<cell>Lowell...</cell>
+<cell>Lowell</cell>
 <cell>Mass.</cell>
-<cell>Old Colony...</cell>
+<cell>Old Colony</cell>
 <cell>82</cell></row>
 <row><cell>&#160;2 Tues.</cell>
 <cell>"</cell>
@@ -10034,24 +10038,24 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
  
 
 <row><cell>&#160;3 Wed.</cell>
-<cell>Nashua...</cell>
+<cell>Nashua</cell>
 <cell>N. H.</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>15</cell></row>
 <row><cell>&#160;4 Thurs.</cell>
-<cell>Concord...</cell>
+<cell>Concord</cell>
 <cell>"</cell>
-<cell>Concord &amp; Mont...</cell>
+<cell>Concord &amp; Mont.</cell>
 <cell>38</cell></row>
 <row><cell>&#160;5 Fri.</cell>
-<cell>Manchester...</cell>
+<cell>Manchester</cell>
 <cell>"</cell>
-<cell>Concord &amp; Mont...</cell>
+<cell>Concord &amp; Mont.</cell>
 <cell>18</cell></row>
 <row><cell>&#160;6 Sat.</cell>
-<cell>Lawrence...</cell>
+<cell>Lawrence</cell>
 <cell>Mass.</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>27</cell></row>
 <row><cell>&#160;7 Sun.</cell>
 <cell>...</cell>
@@ -10059,34 +10063,34 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>&#160;8 Mon.</cell>
-<cell>Haverhill...</cell>
+<cell>Haverhill</cell>
 <cell>"</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>7</cell></row>
 <row><cell>&#160;9 Tues.</cell>
-<cell>Salem...</cell>
+<cell>Salem</cell>
 <cell>"</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>30</cell></row>
 <row><cell>10 Wed.</cell>
-<cell>Gloucester...</cell>
+<cell>Gloucester</cell>
 <cell>"</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>15</cell></row>
 <row><cell>11 Thurs.</cell>
-<cell>Lynn...</cell>
+<cell>Lynn</cell>
 <cell>"</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>20</cell></row>
 <row><cell>12 Fri.</cell>
-<cell>Portsmouth...</cell>
+<cell>Portsmouth</cell>
 <cell>N. H.</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>45</cell></row>
 <row><cell>13 Sat.</cell>
-<cell>Rochester...</cell>
+<cell>Rochester</cell>
 <cell>"</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>22</cell></row>
 <row><cell>14 Sun.</cell>
 <cell>...</cell>
@@ -10094,36 +10098,36 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>... </cell>
 <cell>...</cell></row>
 <row><cell>15 Mon.</cell>
-<cell>Biddeford...</cell>
+<cell>Biddeford</cell>
 <cell>Me.</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>39</cell></row>
 <row><cell>16 Tues.</cell>
-<cell>Lewiston...</cell>
+<cell>Lewiston</cell>
 <cell>"</cell>
 <cell>B. &amp; M. and Me. Cent.</cell>
 <cell>51</cell>
 </row>
 <row><cell>17 Wed.</cell>
-<cell>Waterville...</cell>
+<cell>Waterville</cell>
 <cell>"</cell>
-<cell>Maine Central...</cell>
+<cell>Maine Central</cell>
 <cell>48</cell></row>
 <row><cell>18 Thurs.</cell>
-<cell>Bangor...</cell>
+<cell>Bangor</cell>
 <cell>"</cell>
-<cell>Maine Central...</cell>
+<cell>Maine Central</cell>
 <cell>55</cell></row>
 <row><cell>19 Fri.</cell>
-<cell>Augusta...</cell>
+<cell>Augusta</cell>
 <cell>"</cell>
-<cell>Maine Central...</cell>
+<cell>Maine Central</cell>
 <cell>74</cell>
 </row>
 <row><cell>20 Sat.</cell>
-<cell>Portland...</cell>
+<cell>Portland</cell>
 <cell>"</cell>
-<cell>Maine Central...</cell>
+<cell>Maine Central</cell>
 <cell>62</cell></row>
 <row><cell>21 Sun.</cell>
 <cell>...</cell>
@@ -10138,45 +10142,45 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <row><cell>23 Tues.</cell>
 <cell>W. River Jct.</cell>
 <cell>"</cell>
-<cell>Boston &amp; Maine...</cell>
+<cell>Boston &amp; Maine</cell>
 <cell>61</cell></row>
 <row><cell>24 Wed.</cell>
-<cell>Montpelier...</cell>
+<cell>Montpelier</cell>
 <cell>"</cell>
-<cell>Central Vermont...</cell>
+<cell>Central Vermont</cell>
 <cell>65</cell></row>
 <row><cell>25 Thurs.</cell>
-<cell>St. Albans...</cell>
+<cell>St. Albans</cell>
 <cell>"</cell>
-<cell>Central Vermont...</cell>
+<cell>Central Vermont</cell>
 <cell>56</cell></row>
 <row><cell>26 Fri.</cell>
-<cell>Burlington...</cell>
+<cell>Burlington</cell>
 <cell>"</cell>
-<cell>Central Vermont...</cell>
+<cell>Central Vermont</cell>
 <cell>33</cell></row>
 <row><cell>27 Sat.</cell>
-<cell>Rutland...</cell>
+<cell>Rutland</cell>
 <cell>"</cell>
-<cell>Central Vermont...</cell>
+<cell>Central Vermont</cell>
 <cell>67</cell></row>
 <row><cell>28 Sun.</cell>
-<cell>... /</cell><cell>...</cell>
-<cell>... </cell><cell>/...</cell></row>
+<cell>... </cell><cell>...</cell>
+<cell>... </cell><cell>...</cell></row>
 <row><cell>29 Mon.</cell>
-<cell>Saratoga...</cell>
+<cell>Saratoga</cell>
 <cell>N. Y.</cell>
-<cell>D. &amp; H. C. Co...</cell>
+<cell>D. &amp; H. C. Co.</cell>
 <cell>63</cell></row>
 <row><cell>30 Tues.</cell>
-<cell>Glens Falls...</cell>
+<cell>Glens Falls</cell>
 <cell>"</cell>
-<cell>D. &amp; H. C. Co...</cell>
+<cell>D. &amp; H. C. Co.</cell>
 <cell>22</cell></row>
 <row><cell>31 Wed.</cell>
-<cell>Plattsburg...</cell>
+<cell>Plattsburg</cell>
 <cell>"</cell>
-<cell>D. &amp; H. C. Co...</cell>
+<cell>D. &amp; H. C. Co.</cell>
 <cell>177</cell></row>
 
 </table>
@@ -10191,19 +10195,19 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>Mls</cell></row>
 
 <row><cell>&#160;1 Thurs.</cell>
-<cell>Malone...</cell>
+<cell>Malone</cell>
 <cell>N. Y.</cell>
-<cell>D. &amp; H. and C. V...</cell>
+<cell>D. &amp; H. and C. V.</cell>
 <cell>65</cell></row>
 <row><cell>&#160;2 Fri.</cell>
-<cell>Ogdensburg...</cell>
+<cell>Ogdensburg</cell>
 <cell>"</cell>
-<cell>Central Vermont...</cell>
+<cell>Central Vermont</cell>
 <cell>61</cell></row>
 <row><cell>&#160;3 Sat.</cell>
-<cell>Watertown...</cell>
+<cell>Watertown</cell>
 <cell>"</cell>
-<cell>R., W. &amp; O...</cell>
+<cell>R., W. &amp; O.</cell>
 <cell>68</cell></row>
 <row><cell>&#160;4 Sun.</cell>
 <cell>...</cell>
@@ -10211,34 +10215,34 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>&#160;5 Mon.</cell>
-<cell>Syracuse...</cell>
+<cell>Syracuse</cell>
 <cell>"</cell>
-<cell>R., W. &amp; O...</cell>
+<cell>R., W. &amp; O.</cell>
 <cell>73</cell></row>
 <row><cell>&#160;6 Tues.</cell>
-<cell>Oswego...</cell>
+<cell>Oswego</cell>
 <cell>"</cell>
-<cell>R., W. &amp; O...</cell>
+<cell>R., W. &amp; O.</cell>
 <cell>37</cell></row>
 <row><cell>&#160;7 Wed.</cell>
-<cell>Utica...</cell>
+<cell>Utica</cell>
 <cell>"</cell>
 <cell>R., W. &amp; O. and N. Y. C</cell>
 <cell>90</cell></row>
 <row><cell>&#160;8 Thurs.</cell>
-<cell>Auburn...</cell>
+<cell>Auburn</cell>
 <cell>"</cell>
-<cell>N. Y. C. &amp; H. R...</cell>
+<cell>N. Y. C. &amp; H. R.</cell>
 <cell>79</cell></row>
 <row><cell>&#160;9 Fri.</cell>
-<cell>Geneva...</cell>
+<cell>Geneva</cell>
 <cell>"</cell>
-<cell>N. Y. C. &amp; H. R...</cell>
+<cell>N. Y. C. &amp; H. R.</cell>
 <cell>25</cell></row>
 <row><cell>10 Sat.</cell>
-<cell>Lockport...</cell>
+<cell>Lockport</cell>
 <cell>"</cell>
-<cell>N. Y. C. &amp; H. R...</cell>
+<cell>N. Y. C. &amp; H. R.</cell>
 <cell>106</cell></row>
 <row><cell>11 Sun.</cell>
 <cell>...</cell>
@@ -10246,34 +10250,34 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>12 Mon.</cell>
-<cell>Rochester...</cell>
+<cell>Rochester</cell>
 <cell>"</cell>
-<cell>N. Y. C. &amp; H. R...</cell>
+<cell>N. Y. C. &amp; H. R.</cell>
 <cell>56</cell></row>
 <row><cell>13 Tues.</cell>
-<cell>Olean...</cell>
+<cell>Olean</cell>
 <cell>"</cell>
-<cell>W. N. Y. &amp; P...</cell>
+<cell>W. N. Y. &amp; P.</cell>
 <cell>108</cell></row>
 <row><cell>14 Wed.</cell>
 <cell>Hornellsville.</cell>
 <cell>"</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>63</cell></row>
 <row><cell>15 Thurs.</cell>
-<cell>Bradford...</cell>
+<cell>Bradford</cell>
 <cell>Penn.</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>86</cell></row>
 <row><cell>16 Fri.</cell>
-<cell>DuBois...</cell>
+<cell>DuBois</cell>
 <cell>"</cell>
-<cell>B., R. &amp; P...</cell>
+<cell>B., R. &amp; P.</cell>
 <cell>87</cell></row>
 <row><cell>17 Sat.</cell>
-<cell>Warren...</cell>
+<cell>Warren</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>82</cell></row>
 <row><cell>18 Sun.</cell>
 <cell>...</cell>
@@ -10281,9 +10285,9 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>19 Mon.</cell>
-<cell>Buffalo...</cell>
+<cell>Buffalo</cell>
 <cell>N. Y.</cell>
-<cell>W. N. Y. &amp; P...</cell>
+<cell>W. N. Y. &amp; P.</cell>
 <cell>132</cell></row>
 <row><cell>20 Tues.</cell>
 <cell>"</cell>
@@ -10291,22 +10295,22 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
  <cell></cell>
 </row>
 <row><cell>21 Wed.</cell>
-<cell>Dunkirk...</cell>
+<cell>Dunkirk</cell>
 <cell>"</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>39</cell></row>
 <row><cell>22 Thurs.</cell>
-<cell>Jamestown...</cell>
+<cell>Jamestown</cell>
 <cell>"</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>37</cell></row>
 <row><cell>23 Fri.</cell>
-<cell>Meadeville...</cell>
+<cell>Meadeville</cell>
 <cell>Penn</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>68</cell></row>
 <row><cell>24 Sat.</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>"</cell>
 <cell>P., C. &amp; St. L. &amp; Nic. Pl.</cell>
 <cell>61</cell></row>
@@ -10316,34 +10320,34 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>26 Mon.</cell>
-<cell>Cleveland...</cell>
+<cell>Cleveland</cell>
 <cell>Ohio.</cell>
-<cell>Nickel Plate...</cell>
+<cell>Nickel Plate</cell>
 <cell>95</cell></row>
 <row><cell>27 Tues.</cell>
 <cell>Youngstown.</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>67</cell></row>
 <row><cell>28 Wed.</cell>
-<cell>Akron...</cell>
+<cell>Akron</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>55</cell></row>
 <row><cell>29 Thurs.</cell>
-<cell>Canton...</cell>
+<cell>Canton</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>24</cell></row>
 <row><cell>30 Fri.</cell>
 <cell>E. Liverpool.</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>66</cell></row>
 <row><cell>31 Sat.</cell>
-<cell>Wheeling...</cell>
+<cell>Wheeling</cell>
 <cell>W. Va</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>47</cell></row>
 </table>
 <pb facs="wfc.mem00005.286"/>
@@ -10364,9 +10368,9 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>&#160;2 Mon.</cell>
-<cell>Pittsburg...</cell>
+<cell>Pittsburg</cell>
 <cell>Pa.</cell>
-<cell>Baltimore &amp; Ohio...</cell>
+<cell>Baltimore &amp; Ohio</cell>
 <cell>71</cell></row>
 <row><cell>&#160;3 Tues.</cell>
 <cell>"</cell>
@@ -10376,22 +10380,22 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <row><cell>&#160;4 Wed.</cell>
 <cell>McKeesport.</cell>
 <cell>"</cell>
-<cell>Baltimore &amp; Ohio...</cell>
+<cell>Baltimore &amp; Ohio</cell>
 <cell>15</cell></row>
 <row><cell>&#160;5 Thurs.</cell>
 <cell>Connellsville.</cell>
 <cell>"</cell>
-<cell>Baltimore &amp; Ohio...</cell>
+<cell>Baltimore &amp; Ohio</cell>
 <cell>43</cell></row>
 <row><cell>&#160;6 Fri.</cell>
-<cell>Johnstown...</cell>
+<cell>Johnstown</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>72</cell></row>
 <row><cell>&#160;7 Sat.</cell>
-<cell>Altoona...</cell>
+<cell>Altoona</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>38</cell></row>
 <row><cell>&#160;8 Sun.</cell>
 <cell>...</cell>
@@ -10399,32 +10403,32 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>&#160;9 Mon.</cell>
-<cell>Lancaster...</cell>
+<cell>Lancaster</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>169</cell></row>
 <row><cell>10 Tues.</cell>
-<cell>York...</cell>
+<cell>York</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>25</cell></row>
 <row><cell>11 Wed.</cell>
-<cell>Harrisburg...</cell>
+<cell>Harrisburg</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>28</cell></row>
 <row><cell>12 Thurs.</cell>
 <cell>Williamsport.</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>93</cell></row>
 <row><cell>13 Fri.</cell>
-<cell>Elmira...</cell>
+<cell>Elmira</cell>
 <cell>N. Y.</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>78</cell></row>
 <row><cell>14 Sat.</cell>
-<cell>Ithaca...</cell>
+<cell>Ithaca</cell>
 <cell>"</cell>
 <cell>Elmira, Cort. &amp; Nor..</cell>
 <cell>50</cell></row>
@@ -10434,34 +10438,34 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>16 Mon.</cell>
-<cell>Cortland...</cell>
+<cell>Cortland</cell>
 <cell>"</cell>
 <cell>Elmira, Cort. &amp; Nor..</cell>
 <cell>20</cell></row>
 <row><cell>17 Tues.</cell>
-<cell>Norwich...</cell>
+<cell>Norwich</cell>
 <cell>"</cell>
-<cell>Del., Lack. &amp; West...</cell>
+<cell>Del., Lack. &amp; West</cell>
 <cell>62</cell></row>
 <row><cell>18 Wed.</cell>
 <cell>Binghamton.</cell>
 <cell>"</cell>
-<cell>Del., Lack. &amp; West...</cell>
+<cell>Del., Lack. &amp; West</cell>
 <cell>42</cell></row>
 <row><cell>19 Thurs.</cell>
-<cell>Port Jervis...</cell>
+<cell>Port Jervis</cell>
 <cell>"</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>127</cell></row>
 <row><cell>20 Fri.</cell>
 <cell>Middletown..</cell>
 <cell>"</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>21</cell></row>
 <row><cell>21 Sat.</cell>
-<cell>Newburg...</cell>
+<cell>Newburg</cell>
 <cell>"</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>32</cell></row>
 <row><cell>22 Sun.</cell>
 <cell>...</cell>
@@ -10469,19 +10473,19 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>23 Mon.</cell>
-<cell>Paterson...</cell>
+<cell>Paterson</cell>
 <cell>N. J.</cell>
-<cell>Erie...</cell>
+<cell>Erie</cell>
 <cell>46</cell></row>
 <row><cell>24 Tues.</cell>
-<cell>Orange...</cell>
+<cell>Orange</cell>
 <cell>"</cell>
-<cell>Del., Lack. &amp; West...</cell>
+<cell>Del., Lack. &amp; West</cell>
 <cell>27</cell></row>
 <row><cell>25 Wed.</cell>
-<cell>Newark...</cell>
+<cell>Newark</cell>
 <cell>"</cell>
-<cell>Del , Lack. &amp; West...</cell>
+<cell>Del , Lack. &amp; West</cell>
 <cell>4</cell></row>
 <row><cell>26 Thurs.</cell>
 <cell>"</cell>
@@ -10490,14 +10494,14 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
  </row>
 
 <row><cell>27 Fri.</cell>
-<cell>Trenton...</cell>
+<cell>Trenton</cell>
 <cell>"</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>48</cell></row>
 <row><cell>28 Sat.</cell>
 <cell>Wilmington..</cell>
 <cell>Del.</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>56</cell></row>
 <row><cell>29 Sun.</cell>
 <cell>...</cell>
@@ -10505,9 +10509,9 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>30 Mon.</cell>
-<cell>Baltimore...</cell>
+<cell>Baltimore</cell>
 <cell>Md.</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>69</cell></row>
 </table>
 
@@ -10520,14 +10524,14 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>Mls</cell></row>
 
 <row><cell>&#160;1 Tues.</cell>
-<cell>Baltimore...</cell>
+<cell>Baltimore</cell>
 <cell>Md.</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>69</cell></row>
 <row><cell>&#160;2 Wed.</cell>
 <cell>Washington..</cell>
 <cell>D. C.</cell>
-<cell>Penna...</cell>
+<cell>Penna</cell>
 <cell>42</cell></row>
 <row><cell>&#160;3 Thurs.</cell>
 <cell>"</cell>
@@ -10535,12 +10539,12 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
  <cell></cell>
 </row>
 <row><cell>&#160;4 Fri.</cell>
-<cell>Richmond...</cell>
+<cell>Richmond</cell>
 <cell>Va.</cell>
 <cell>Penna. and R. F. &amp; P.</cell>
 <cell>116</cell></row>
 <row><cell>&#160;5 Sat.</cell>
-<cell>Norfolk...</cell>
+<cell>Norfolk</cell>
 <cell>"</cell>
 <cell>A. C. L. and N. &amp; W..</cell>
 <cell>104</cell></row>
@@ -10550,34 +10554,34 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>&#160;7 Mon.</cell>
-<cell>Wilmington...</cell>
+<cell>Wilmington</cell>
 <cell>N. C.</cell>
 <cell>N. &amp; W. and A. C. L..</cell>
 <cell>244</cell></row>
 <row><cell>&#160;8 Tues.</cell>
-<cell>Goldsboro...</cell>
+<cell>Goldsboro</cell>
 <cell>"</cell>
-<cell>A. C L...</cell>
+<cell>A. C L.</cell>
 <cell>84</cell></row>
 <row><cell>&#160;9 Wed.</cell>
-<cell>Raleigh...</cell>
+<cell>Raleigh</cell>
 <cell>"</cell>
-<cell>A. C. L...</cell>
+<cell>A. C. L.</cell>
 <cell>48</cell></row>
 <row><cell>10 Thurs.</cell>
 <cell>Greensboro..</cell>
 <cell>"</cell>
-<cell>Southern...</cell>
+<cell>Southern</cell>
 <cell>82</cell></row>
 <row><cell>11 Fri.</cell>
-<cell>Salisbury...</cell>
+<cell>Salisbury</cell>
 <cell>"</cell>
-<cell>Southern (1 show)...</cell>
+<cell>Southern (1 show)</cell>
 <cell>50</cell></row>
 <row><cell>12 Sat.</cell>
-<cell>Asheville...</cell>
+<cell>Asheville</cell>
 <cell>"</cell>
-<cell>Southern...</cell>
+<cell>Southern</cell>
 <cell>142</cell></row>
 <row><cell>13 Sun.</cell>
 <cell>...</cell>
@@ -10585,34 +10589,34 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>14 Mon.</cell>
-<cell>Charlotte...</cell>
+<cell>Charlotte</cell>
 <cell>"</cell>
-<cell>Southern...</cell>
+<cell>Southern</cell>
 <cell>160</cell></row>
 <row><cell>15 Tues.</cell>
-<cell>Columbia...</cell>
+<cell>Columbia</cell>
 <cell>S. C.</cell>
-<cell>Southern...</cell>
+<cell>Southern</cell>
 <cell>168</cell></row>
 <row><cell>16 Wed.</cell>
-<cell>Charleston...</cell>
+<cell>Charleston</cell>
 <cell>"</cell>
-<cell>A. C. L...</cell>
+<cell>A. C. L.</cell>
 <cell>137</cell></row>
 <row><cell>17 Thurs.</cell>
-<cell>Savannah...</cell>
+<cell>Savannah</cell>
 <cell>Ga.</cell>
-<cell>C. &amp; S...</cell>
+<cell>C. &amp; S.</cell>
 <cell>115</cell></row>
 <row><cell>18 Fri.</cell>
-<cell>Augusta...</cell>
+<cell>Augusta</cell>
 <cell>"</cell>
-<cell>Central of Ga...</cell>
+<cell>Central of Ga.</cell>
 <cell>132</cell></row>
 <row><cell>19 Sat.</cell>
-<cell>Macon...</cell>
+<cell>Macon</cell>
 <cell>"</cell>
-<cell>Ga. R'y...</cell>
+<cell>Ga. R'y</cell>
 <cell>125</cell></row>
 <row><cell>20 Sun.</cell>
 <cell>...</cell>
@@ -10622,32 +10626,32 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <row><cell>21. Mon.</cell>
 <cell>Columbus...</cell>
 <cell>"</cell>
-<cell>Central of Ga...</cell>
+<cell>Central of Ga.</cell>
 <cell>100</cell></row>
 <row><cell>22. Tues.</cell>
 <cell>Montgomery.</cell>
 <cell>Ala.</cell>
-<cell>Central of Ga...</cell>
+<cell>Central of Ga.</cell>
 <cell>94</cell></row>
 <row><cell>23 Wed.</cell>
 <cell>Birmingham.</cell>
 <cell>"</cell>
-<cell>L. &amp; N...</cell>
+<cell>L. &amp; N.</cell>
 <cell>96</cell></row>
 <row><cell>24 Thurs.</cell>
 <cell>New Decatur</cell>
 <cell>"</cell>
-<cell>L. &amp; N. (1 show)...</cell>
+<cell>L. &amp; N. (1 show)</cell>
 <cell>85</cell></row>
 <row><cell>25 Fri.</cell>
-<cell>Nashville...</cell>
+<cell>Nashville</cell>
 <cell>Tenn.</cell>
-<cell>L. &amp; N...</cell>
+<cell>L. &amp; N.</cell>
 <cell>123</cell></row>
 <row><cell>26. Sat.</cell>
 <cell>Chattanooga.</cell>
 <cell>"</cell>
-<cell>N., C. &amp; St. L...</cell>
+<cell>N., C. &amp; St. L.</cell>
 <cell>151</cell></row>
 <row><cell>27. Sun.</cell>
 <cell>...</cell>
@@ -10655,9 +10659,9 @@ stay at the Garden they lost sixteen buffaloes from lung trouble.</p>
 <cell>...</cell>
 <cell>...</cell></row>
 <row><cell>28. Mon. to Nov. 3</cell>
-<cell>Atlanta...</cell>
+<cell>Atlanta</cell>
 <cell>Ga.</cell>
-<cell>Western &amp; Atlantic...</cell>
+<cell>Western &amp; Atlantic</cell>
 <cell>138</cell></row>
 </table>
 
