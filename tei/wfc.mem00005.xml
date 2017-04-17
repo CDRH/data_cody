@@ -346,7 +346,7 @@ BUFFALO, N.Y.</ab>
 
 <div4>
 <head>BILL POSTERS.</head>
-<list>
+<list type="noident">
 <item>George Beckley,</item>
 <item>Arthur McCloud,</item>
 <item>Pete Dunn,</item>
@@ -375,7 +375,7 @@ BUFFALO, N.Y.</ab>
 
 <div4>
 <head>BILL POSTERS.</head>
-<list>
+<list type="noident">
 <item>Al Foss,</item>
 <item>John Hartman,</item>
 <item>George Rice,</item>
@@ -417,7 +417,7 @@ BUFFALO, N.Y.</ab>
 
 <div4>
 <head>BILL POSTERS.</head>
-<list>
+<list type="noident">
 <item>William Perreault,</item>
 <item>William Flynn,</item>
 <item>C. H. Conway,</item>
@@ -445,7 +445,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Layers-Out.</head>
-<list>
+<list type="noident">
 <item>Col. Harry G. Barnum.</item>
 <item>Thomas Clear.</item>
 </list>
@@ -459,7 +459,7 @@ BUFFALO, N.Y.</ab>
 <ab>CLYDE W. CLARY, Sergeant.</ab>
 <ab>PAUL H. WEINERT, Standard Bearer.</ab>
 
-<list>
+<list type="noident">
 <item>Newton H. Mangus,</item>
 <item>Fred. Niedrest,</item>
 <item>Arthur McCann,</item>
@@ -493,7 +493,7 @@ BUFFALO, N.Y.</ab>
 <figure n="image"><ab type="credit"></ab><p>COWBOY</p></figure>
 
 
-<list>
+<list type="noident">
 <item>G. W. BURCH, Chief.</item>
 <item>WILLIAM BRACE, Assistant.</item>
 <item>John Franz,</item>
@@ -523,7 +523,7 @@ BUFFALO, N.Y.</ab>
 <head>German Cuirassiers.</head>
 <figure n="image"><ab type="credit"></ab><p>German Cavalry</p></figure>
 
-<list>
+<list type="noident">
 <item>JULIUS VON NATZMER, Captain.</item>
 <item>ALBERT BUSCH, Standard Bearer.</item>
 <item>Emil Wittmann,</item>
@@ -554,7 +554,7 @@ BUFFALO, N.Y.</ab>
 <head>French Dragoons.</head>
 <figure n="image"><ab type="credit"></ab><p>FRENCH CAVALRY.</p></figure>
 
-<list>
+<list type="noident">
 <item>PAUL FAVRET, Sergeant.</item>
 <item>LOUIS RANIER, Standard Bearer.</item>
 <item>Auguste Biree,</item>
@@ -575,7 +575,7 @@ BUFFALO, N.Y.</ab>
 <head>5th Royal Irish Lancers.</head>
 <figure n="image"><ab type="credit"></ab><p>ROYAL IRISH LANCERS</p></figure> 
 
-<list>
+<list type="noident">
 <item>W. THOMS, Sergeant.</item>
 <item>H. BURROWS, Standard Bearer.</item>
 <item>H. Winfield,</item>
@@ -599,7 +599,7 @@ BUFFALO, N.Y.</ab>
 <head>Cossacks.</head>
 <figure n="image"><ab type="credit"></ab><p>RUSSIAN COSSACK</p></figure>
 
-<list>
+<list type="noident">
 <item>THOMAS OLIVER, Interpreter.</item>
 <item>LOUCAS TCHKARTISHVILY, Chief.</item>
 <item>Konstantin Tchkartishvily,</item>
@@ -616,7 +616,7 @@ BUFFALO, N.Y.</ab>
 <head>Arabs.</head>
 <figure n="image"><ab type="credit"></ab><p>ARAB</p></figure>
 
-<list>
+<list type="noident">
 <item>SHIEK HADJ TAHAR.</item>
 <item>F. Hadie,</item>
 <item>Abdallah Ali,</item>
@@ -642,7 +642,7 @@ BUFFALO, N.Y.</ab>
 <div2>
 <head>Mexicans.</head>
 <figure n="image"><ab type="credit"></ab><p>MEXICAN</p></figure>
-<list>
+<list type="noident">
 <item>VICENTE ORAPEZA, Chief.</item>
 <item>Diomicio Ramos,</item>
 <item>Bernardo Ramos,</item>
@@ -659,7 +659,7 @@ BUFFALO, N.Y.</ab>
 <head>Gauchos.</head>
 <figure n="image"><ab type="credit"></ab><p>GAUCHO S.A. </p></figure>
 
-<list>
+<list type="noident">
 <item>PEDRO ESQUEVEL, Chief.</item>
 <item>Joseph Esquevel.</item>
 <item>Ben Galindo.</item>
@@ -678,7 +678,7 @@ BUFFALO, N.Y.</ab>
 <head>Indians.</head>
 <div3>
 <head>Chiefs.</head>
-<list>
+<list type="noident">
 <item>Rocky Bear,</item>
 <item>Bear Foot  </item>
 <item>Black Fox,</item>
@@ -692,7 +692,7 @@ BUFFALO, N.Y.</ab>
 <figure n="image"><ab type="credit"></ab><p>INDIAN CHIEF</p></figure>	
 <div3>
 <head>Braves.</head>
-<list>
+<list type="noident">
 <item>Brown Ears Horse,</item>
 <item>Brave,</item>
 <item>Bushy-Top Pine,</item>
@@ -748,7 +748,7 @@ BUFFALO, N.Y.</ab>
 
 <div3>
 <head>Squaws.</head>
-<list>
+<list type="noident">
 <item>Red Dog Woman,</item>
 <item>Looks Back,</item>
 <item>Walks at Night,</item>
@@ -828,7 +828,7 @@ BUFFALO, N.Y.</ab>
 
 <div3>
 <head>Indian Bareback Riders.</head>
-<list>
+<list type="noident">
 <item>Two-Bull.</item>
 <item>Strikes Three Times.</item>
 <item>Pines.</item>
@@ -983,7 +983,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Property Men.</head>
-<list><item>CHARLES WICHELHAUSER, In Charge.</item>
+<list type="noident"><item>CHARLES WICHELHAUSER, In Charge.</item>
 <item>George  Grooch,</item>
 <item>Joseph McAvoy,</item>
 <item>Thomas Burke.</item>
@@ -992,7 +992,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Ammunition Department.</head>
-<list>
+<list type="noident">
 <item>JOHNNIE BAKER, In Charge.</item>
 <item>Michael Quinn, Assistant.</item>
 <item>William Wood.</item>
@@ -1039,7 +1039,7 @@ BUFFALO, N.Y.</ab>
 <head>Ticket Sellers.</head>
 <div3>
 <head>Main Ticket Wagon.</head>
-<list>
+<list type="noident">
 <item>C. R. Hutchinson,</item>
 <item>Joseph P. Quaid.</item>
 <item>Ed. M. Showles.</item>
@@ -1048,7 +1048,7 @@ BUFFALO, N.Y.</ab>
 
 <div3>
 <head>Outside Tickets.</head>
-<list><item>John Tippitts,</item>
+<list type="noident"><item>John Tippitts,</item>
 <item>Lou Decker,</item>
 <item>Ed. M. Showles.</item>
 </list>
@@ -1089,7 +1089,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Main Door Tenders.</head>
-<list>
+<list type="noident">
 <item>J. P. Brogan,</item>
 <item>Fred. B. Hutchinson,</item>
 <item>Morris Kern,</item>
@@ -1099,7 +1099,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Front Door Watchmen.</head>
-<list>
+<list type="noident">
 <item>Ed. Gallinger.</item>
 <item>Charles Alberts.</item>
 <item>George Miller.</item>
@@ -1107,7 +1107,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Reserve Seat Tenders.</head>
-<list>
+<list type="noident">
 <item>John Stacks,</item>
 <item>Starr Pixley,</item>
 <item>J. J. McCarthy, in charge of Mail.</item></list>
@@ -1119,7 +1119,7 @@ BUFFALO, N.Y.</ab>
 
 <div3>
 <head>Orators.</head>
-<list>
+<list type="noident">
 <item>Frank Morris,</item>
 <item>Paul J. Stanton,</item>
 <item>Ed. M. Showles,</item>
@@ -1203,7 +1203,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Concert.</head>
-<list>
+<list type="noident">
 <item>The Deagans,</item>
 <item>The Rielleys,</item>
 <item>Harry St. Julien,</item>
@@ -1215,7 +1215,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Concert Orchestra.</head>
-<list>
+<list type="noident">
 <item>Frank Wentworth,</item>
 <item>Elmer Parlett,</item>
 <item>William Frank,</item>
@@ -1228,7 +1228,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Side Show Canvasmen.</head>
-<list>
+<list type="noident">
 <item>A.C. WILSON, In Charge.</item>
 <item>W. Gibson,</item>
 <item>John Tomsett,</item>
@@ -1240,7 +1240,7 @@ BUFFALO, N.Y.</ab>
 
 <div2>
 <head>Confectionary Department.</head>
-<list>
+<list type="noident">
 <item>C. L. RAMSEY, Superintendent.</item>
 <item>J. M. Dougherty,</item>
 <item>A. F. Partridge,</item>
@@ -1347,7 +1347,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.</fw>
 
 <div3>
 <head>Camp Fires.</head>
-<list><item>Frank  H. O'Clair, First,</item>
+<list type="noident"><item>Frank  H. O'Clair, First,</item>
 <item>Alex. J. Ewing, Assistant.</item></list>
 </div3>
 <div3>
@@ -1364,7 +1364,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.</fw>
 </div3>
 <div3>
 <head>Watermen.</head>
-<list><item>Chauncey Hover, First,</item>
+<list type="noident"><item>Chauncey Hover, First,</item>
 <item>Geo. J. Black, Assistant.</item></list>
 </div3>
 <div3>
@@ -1373,7 +1373,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.</fw>
 </div3>
 <div3>
 <head>Table No. 1&#8212;Staff.</head>
-<list>
+<list type="noident">
 <item>M. B. Lester,</item>
 <item>M. Martin</item>
 <item>M. C. McGrath, Coffee Boy.</item></list>
@@ -1381,20 +1381,20 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.</fw>
 <div3>
 
 <head>Table No. 2&#8212;Cowboy Band.</head>
-<list><item>T. D. Sullivan,</item>
+<list type="noident"><item>T. D. Sullivan,</item>
 <item>J. Fisk.</item>
 <item>E. A. Hughes, Coffee Boy.</item></list>
 </div3>
 <div3>
 <head>Table No. 3&#8212;Privilege.</head>
-<list><item>G. W. Burwell,</item>
+<list type="noident"><item>G. W. Burwell,</item>
 <item>J. Emery,</item>
 <item>W. O'Hara.</item>
 <item>N. B. Graham, Coffee Boy.</item></list>
 </div3>
 <div3>
 <head>Table No. 4&#8212;American Soldiers.</head>
-<list><item>B. Cook.</item>
+<list type="noident"><item>B. Cook.</item>
 <item>L. Keagy, Coffee Boy.</item>
 <item>J. Finlin.</item></list>
 </div3>
@@ -1404,13 +1404,13 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.</fw>
 </div3>
 <div3>
 <head>Table No. 6&#8212;English, French and German Soldiers.</head>
-<list><item>C. B. Lackey.</item>
+<list type="noident"><item>C. B. Lackey.</item>
 <item>A. Cassidy, Coffee Boy,</item>
 <item>C. J. Whitey.</item></list>
 </div3>
 <div3>
 <head>Table No. 7&#8212;Indians.</head>
-<list><item>Ed. West.</item>
+<list type="noident"><item>Ed. West.</item>
 <item>C. Longmore, Coffee Boy.</item></list>
 </div3>
 
@@ -1420,7 +1420,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.</fw>
 
 <div3>
 <head>Workingmen's Tables&#8212;Nos. 1, 2 and 3.</head>
-<list>
+<list type="noident">
 <item>E. F. Walton,</item>
 <item>R. L. Rush,</item>
 <item>C. H. Black,</item>
@@ -1437,14 +1437,14 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.</fw>
 </div3>
 <div3>
 <head>Dish Washers.</head>
-<list>
+<list type="noident">
 <item>B. McGrath, </item>
 <item>W. W. Twinner.</item>
 </list>
 </div3>
 <div3>
 <head>Dish Packers.</head>
-<list>
+<list type="noident">
 <item>Lon Martin,</item>
 <item>Thomas Mullens.</item></list>
 </div3>
@@ -1482,7 +1482,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.</fw>
 <ab>WILLIAM WELTON, Superintendent.</ab>
 <ab>ED. McLAUGHLIN, Assistant Supt.</ab>
 
-<list>
+<list type="noident">
 <item>HELPERS.</item>
 <item>Frank King,</item>
 <item>L. Morton,</item>
@@ -1490,7 +1490,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.</fw>
 
 <div3>
 <head>Eight-Horse Drivers.</head>
-<list>
+<list type="noident">
 <item>James Rushenberger,</item>
 <item>John Coleman,</item>
 <item>Harry Moran.</item></list>
@@ -1504,7 +1504,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 
 <div3>
 <head>Six-Horse Drivers.</head>
-<list>
+<list type="noident">
 <item>Dave Wilson,</item>
 <item>Frank Wilson,</item>
 <item>John Henry, </item>
@@ -1517,7 +1517,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 </div3>
 <div3>
 <head>Four-Horse Drivers.</head>
-<list>
+<list type="noident">
 <item>Harry Rogers,</item>
 <item>Eddie Lewis,</item>
 <item>Chas. Losso,</item>
@@ -1530,7 +1530,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 </div3>
 <div3>
 <head>Pull-Up Teams.</head>
-<list>
+<list type="noident">
 <item>Ed. Fletcher,</item>
 <item>William Thatcher,</item>
 <item>Nelson Doran,</item>
@@ -1579,7 +1579,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 
 <div3>
 <head>Blue Seats.</head>
-<list>
+<list type="noident">
 <item>J. Gregory,</item>
 <item>John Curling,</item>
 <item>J. Welch,</item>
@@ -1602,7 +1602,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 <head>Canvasmen.</head>
 <div3>
 <head>Big Top.</head>
-<list>
+<list type="noident">
 <item>JAKE PLATT, Superintendent.</item>
 <item>ED. LACEY, First Assistant.</item>
 <item>THOMAS McAVOY, Second Assistant.</item>
@@ -1788,7 +1788,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 
 <div3>
 <head>Front Door.</head>
-<list>
+<list type="noident">
 <item>Charles Alberts,</item>
 <item>Ed. Gallinger,</item>
 <item>George Miller.</item>
@@ -1798,7 +1798,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 
 <div3>
 <head>Horse Tents.</head>
-<list>
+<list type="noident">
 <item>H. VAN BUREN, Superintendent.</item>
 <item>John Kitner, In charge of Stake Wagon No. 14.</item>
 <item>Frank Powers,</item>
@@ -1848,7 +1848,7 @@ BUFFALO BILL'S WILD WEST ROUTE BOOK SEASON OF 1896.
 <div2>
 <head> . . . ORDER OF PARADE . . . </head>
 
-<list>
+<list type="noident">
 <item>HARRY GRAY, LEADER OF PARADE.</item>
 <item>COL. W. F. CODY, IN CARRIAGE.</item>
 <item>BAND OF INDIANS.</item>
@@ -2406,7 +2406,7 @@ TEN PIECES.</head>
 
 <ab>Second season with Buffalo Bill's Wild West. All sight-readers, playing everything from the hottest kind of Ballyhoo Music to the finest and most difficult works of some of the Best Masters.</ab>
 
-<list><item>L. Sacketto, Leader.</item>
+<list type="noident"><item>L. Sacketto, Leader.</item>
 <item>A. Vitelli, E-flat Clarinet.</item>
 <item>F. Recchia, B-flat Clarinet.</item>
 <item>T. Flocco, Solo, B-flat Cornet.</item>
@@ -2499,7 +2499,7 @@ One Door From Canal street,
 NEW YORK.</ab>
 
 </div3>
-
+<milestone unit="line"/>
 <div3>
 <head>SMOKE
 EL SOLERO CIGAR </head>
@@ -2532,7 +2532,7 @@ LIVERY AND FEED</head>
 
 </div3>
 
-
+<milestone unit="line"/>
 <div3>
 <head>THE FIRST MAN TO SEE AT COLUMBUS, INDIANA, IS WALTER DOUP. . . LICENSED . . .BILL POSTER AND DISTRIBUTER.</head>
 </div3>
@@ -2542,7 +2542,7 @@ LIVERY AND FEED</head>
 <head>The Hotel St. Denis,</head>
 <ab>Columbus, Ind.</ab>
 </div3>
-
+<milestone unit="line"/>
 <div3>
 
 <head>A. GOEKE &amp; SONS, 
@@ -7241,7 +7241,7 @@ has been five shows missed:  Lima, Ohio, one; Muskegon, Mich., one; Wausau, Wis.
 </div3>
 
 <div3>
-<list>
+<list type="noident">
 <item>Monday, September 28, Dubuque, Ia.</item>
 <item>Tuesday, September 29, Clinton, Ia.</item>
 <item>Wednesday, September 30, Cedar Rapids, Ia.</item>
@@ -7271,7 +7271,7 @@ has been five shows missed:  Lima, Ohio, one; Muskegon, Mich., one; Wausau, Wis.
 <item>Saturday, October 24, Moberly, Mo.</item>
 </list>
 
-<list><item>"HOME, SWEET HOME."</item></list>
+<list type="noident"><item>"HOME, SWEET HOME."</item></list>
 
 </div3>
 
