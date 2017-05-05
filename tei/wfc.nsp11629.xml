@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11629">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11629</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Wild West Show</title>
+<title level="j">North British Daily Mail</title>
+<pubPlace>Glasgow, Scotland</pubPlace>
+<date when="1892-01-16">January 16, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 920116</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Africans</term>
+<term>American Indians</term>
+<term>Audiences</term>
+<term>Cultural relations</term>
+<term>Dance</term>
+<term>Elephants</term>
+<term>Entertainers</term>
+<term>Indians of North America</term>
+<term>Indigenous peoples</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Glasgow (Scotland)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="tc">Cunningham, Tom</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11629.001"/>
+
+<head type="main">THE WILD WEST SHOW.</head>
+
+<p>Colonel Cody has taken a new departure in the Wild West, and to make it known to the public a large number of ladies and gentlemen were invited the show yesterday afternoon. There appeared, in the first place, a large number of African men, women, and children known to travellers as of the Schullis tribe, dressed in their native garb of short skirts for women, and scarcely any garments for the men&#8212;the former wearing silver rings in the nose. They are dark skinned, but not full-blooded Africans with thick lips and flat noses. They have rather pleasant faces, and the women especially have a modest air. One of them is remarkably beautiful, her cast of features being Grecian, and the wonder is how she had come to be in such company. The Red Indians followed their dusky brethren into the arena, and the chiefs on each side made friendly advances and delivered speeches, the one party saying they had come from a land where the sun rose, and the other that they had come where it set. A Red Indian told the Africans that if they obeyed the rules of the establishment they could make money. Both sides danced in their native fashion, the Americans doing so crouchingly, the Africans flinging their feet high. They could make themselves understood by signs, but in eloquence, according to the interpretation, the African chief beat all the others, his utterance being rapid and graceful and the words remarkably happy. To see the tribes of the Far West and the Far East or South performing together is delightful, and advantage should be taken of an opportunity which may never recur. Six elephants were introduced by Mr Lockhart, and stood upon their heads, swung see-saw, lay down, and played instruments. Much has been done by these sagacious animals in Glasgow, but nothing to equal what is to be seen in the Wild West. The spectators at the close of the performance were invited into the arena to see the wild people closely and go over the whole establishment. Nearly all availed themselves of the opportunity. The show, attractive as it has been, is now much more so, and should continue to draw thousands.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11593">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The American-Indian Fighting</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11593</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The American-Indian Fighting</title>
+<title level="j">The Scotsman</title>
+<pubPlace>Edinburgh, Scotland</pubPlace>
+<date when="1891-01-08">January 8, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 910113</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Fremont, Elkhorn, and Missouri Valley Railroad</term>
+<term>Indian dancers</term>
+<term>Indian reservations</term>
+<term>Indians of North America</term>
+<term>Military men</term>
+<term>Militia</term>
+<term>Nez Perc&#233; Indians</term>
+<term>Railroads</term>
+<term>Scalping</term>
+<term>Settler life</term>
+<term>United States--Politics and government</term>
+<term>United States. Office of Indian Affairs. Pine Ridge Agency</term>
+<term>Washington (D.C.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Harrison, Benjamin, 1833-1901</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Schofield, John McAllister, 1831-1906</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Idaho</term>
+<term>Kansas City (Mo.)</term>
+<term>Kansas</term>
+<term>Missouri</term>
+<term>Nebraska</term>
+<term>New York (N.Y.)</term>
+<term>Omaha (Neb.)</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11593.001"/>
+
+<head type="main">THE AMERICAN-INDIAN FIGHTING.</head>
+
+<p>KANSAS CITY, January 7.&#8212;The Governor of the Missouri has ordered the Third Regiment of Militia to be ready to move at an hour's notice. It is understood that the Federal Government has made a call upon the States of Kansas and Missouri to send troops to the western border of the Indian territory if reinforcements should be required there.</p>
+
+<p>NEW YORK, January 7.&#8212;Advices from Moscow, Idaho, report that the Nez Perces Indians are dancing in the reservation near Moscow.</p>
+
+<p>PINE RIDGE, January 7.&#8212;One of the friendly Indians has arrived at the Agency with the remains of an American trooper who was killed in the skirmish of Tuesday last. The body had be4:05 PM 2/7/2017en scalped and horribly mutilated.</p>
+
+<p>OMAHA, January 7.&#8212;A telegram from <persName xml:id="miles.n">General Miles</persName> has been received here stating that five of the principal Indian bands came into Pine Ridge agency yesterday. The General expresses the hope that all the Redskins will soon surrender, and declares that the settlers occupying land close to the line of railway can stay on their farms.</p>
+
+<p>PINE RIDGE, January 7.&#8212;The people along the Elk Horn and Missouri Valley Railroad in Nebraska believe they will be in great peril should the expected battle with the Indians result adversely to the United States. One thousand men of the Nebraska Militia are in the field, and reinforcements have been ordered.</p>
+
+<p>Colonel Cody (Buffalo Bill) thinks the Indians are in a state of frenzy, courting death. Should the braves overcome the troops at Pine Ridge they will overrun the country, and even if defeated they will do immense damage.</p>
+
+<p>The rumour of another fight has driven hundreds of settlers into the towns along the railway. A deputation of five chiefs and five braves came to Pine Ridge yesterday. General Miles told them that they must surrender, and that he would not listen to their complaints. The Indians stated that nearly all the braves on this Preservation desired peace.</p>
+
+<p>There was a night alarm in camp at White Clay Creek yesterday evening, owing to some lurking hostile braves firing on the pickets. The camp was at once aroused, but the Indians escaped under cover of darkness. One picket was wounded.</p>
+
+<p>WASHINGTON, January 7.&#8212;General Schofield, on behalf of President Harrison, has telegraphed to General Miles, giving him full authority to place the agencies under military control.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

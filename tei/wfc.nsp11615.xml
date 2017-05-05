@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11615">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Wild West Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11615</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Wild West Show</title>
+<title level="j">Govan Press</title>
+<pubPlace>Glasgow,Scotland</pubPlace>
+<date when="1891-11-28">November 28, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 911128</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians. </term>
+<term>Audiences</term>
+<term>Baker, Johnny, 1869-1931</term>
+<term>Cowboys</term>
+<term>De Lussan, Z&#233;lie, 1861-1949</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Equestrian accidents</term>
+<term>Exhibition buildings</term>
+<term>Firearms</term>
+<term>Frontier and pioneer life</term>
+<term>Grassland fires</term>
+<term>Horse arenas</term>
+<term>Indian dance--North America</term>
+<term>Indian women</term>
+<term>Indians of North America--Clothing</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Lasso</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Opera companies</term>
+<term>Parades</term>
+<term>Shooting</term>
+<term>Spectators</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="tc">Cunningham, Tom</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11615.001"/>
+
+
+[newspaper article]<h3>BUFFALO BILL'S WILD WEST SHOW.</h3><p>On Saturday evening the spacious building in which Buffalo Bill exhibits his Wild West Show was literally packed from floor to ceiling, the management being forced to refuse admission in hundreds who clamoured for admittance three quarters of an hour before the advertised time. The show seems to have fairly caught on, as the same eagerness has been shown during the whole week. The management, whose chief aim has been the comfort and convenience of patrons, have arranged that from to night the starting hour shall be half-past seven, as it was found that the entertainment was running too far into the night to allow of those who required to catch trains to see the performance in its entirety. As to the show it is novel, edifying, and amusing, and where such a combination is there are always to be found eager spectators. A fact worthy of mention is that, although there would be quite seven thousand persons within the building on Saturday, the plans have been so perfected that each individual commands an unobstructed view of the arena. The performance opens with a general parade of the celebrities. Thereafter a realistic view of a primeval forest in America is given. Here the spectators, we might say, are startled with a rush of Red Indians, who bear down on the central part with great speed and a whooping cry. They divide and pass out by side exits almost before the spectators have recovered their equilibrium. Then an amusing meeting of two Indian tribes takes place, the sign language causing no end of merriment. The feather and Omaha or war dance then follows to the tom-tom of a band of oval-eyed women. Six move round a ring as if one, while others dance in the most unskilled manner possible. For a picturesque scene the camping and the prairie fire would be difficult to improve upon, the gradual spreading of the prairie fire being done with a regard to the artistic and with an entire absence of that gaudiness which in the past has been associated with such scenes. What was termed "The Cowboys' Fun" must have been specially pleasing for those with a thirst for dangerous feats. A score of horses unbroken are brought into the arena, and with the unerring aim of the lasso are brought to bay. Then follows what is termed the fun of the cowboys&#8212;namely, the mounting of those horses. The horses plunge and roll, but the cowboy never lets go his hold, and winds up by mounting the fractious animal. Unfortunately one of the riders had his leg injured by his horse falling on top of him. A notice of the performance would be wholly inadequate if the marvellous shooting of Miss Annie Oakley<!--LINK--> and Master Johnnie Baker<!--LINK--> were not mentioned. These crack shots with unerring aim split numerous balls sent high into the air, Master Baker doing so from all sorts of positions. Amongst the most liberal with their applause were Mlle Zelie de Lussan and M. Jean Dimitresco, of the Cara Rosa Opera Company.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

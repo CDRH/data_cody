@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11626">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Charging Thunder" Gets Thirty Days</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11626</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"Charging Thunder" Gets Thirty Days</title>
+<title level="a" type="sub">His Lemonade Was Mixed</title>
+<title level="j">Glasgow Evening News</title>
+<pubPlace>Glasgow,Scotland</pubPlace>
+<date when="1892-01-12">January 12, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 920112</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bars (Drinking establishments)</term>
+<term>Court decisions and opinions</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Drinking of alcoholic beverages</term>
+<term>Glasgow (Scotland). Police Department</term>
+<term>Imprisonment</term>
+<term>Indian weapons</term>
+<term>Indians of North America</term>
+<term>Law enforcement</term>
+<term>Police charges</term>
+<term>Sioux Nation</term>
+<term>Translators</term>
+<term>Traveling exhibitions</term>
+<term>Whiskey</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11626.001"/>
+ 
+<head type="main">"CHARGING THUNDER" GETS THIRTY DAYS.</head>
+
+<head type="sub">HIS LEMONADE WAS MIXED</head>
+
+<p>"<persName xml:id="charging.thunder">Charging Thunder,</persName>" the Wild West Sioux Indian, who has been in custody and was remitted to the Sheriff for having on 31st December in the premises presently occupied by the show at the old East-End Exhibition Buildings, assaulted George Crager, interpreter, by hitting him a severe blow on the head and neck with an Indian club, came before Sheriff Birnie in the County Buildings to-day in all glory of his Indian finery. He pleaded guilty through an interpreter. An agent explained that Thunder was only 23 years of age, and was usually one of the quietest Indians in the show, but in common with all his kind the smallest quantity of drink was sufficient to intoxicate him. On the night in question Charging Thunder entered a public-house, and asked for lemonade, but by some mistake whisky was put into it. Charging returned to the show, and becoming very much excited he, while the performance was going on, came up and raised an ordinary club&#8212;not a war club&#8212;and struck the interpreter. Thunder entertained no malice towards the interpreter; indeed, they were good friends.</p>
+
+<p>The Sheriff asked where the shop was where the whisky was got.</p>
+
+<p>Thunder, through his interpreter, replied that it was in Duke Street, but he could not give the name of the occupier.</p>
+
+<p>His Lordship said that if Charging Thunder had not been a stranger to this country he would have sent him to prison for a long time. In the circumstances, however, he would send him 30 days to prison as a warning to others. It was a shame to supply these Indians with whisky.</p>
+
+<p>The sentence was translated to Charging, who left the Court in a melancholy mood. As he went out his sister, a Wild West Squaw, gave a parcel of apples and other kinds of fruit to the incarcerated Sioux.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

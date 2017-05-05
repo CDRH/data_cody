@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11630">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Courtesy of Colonel Cody]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11630</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Courtesy of Colonel Cody]</title>
+<title level="j">Quiz</title>
+<pubPlace>Glasgow, Scotland</pubPlace>
+<date when="1892-01-20">January  20, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 920120_2</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Actors and actresses</term>
+<term>American Indians</term>
+<term>Authors</term>
+<term>Calumets</term>
+<term>Characters in literature</term>
+<term>Cultural relations</term>
+<term>Indian dance--North America</term>
+<term>Educators</term>
+<term>Haunted places</term>
+<term>Indians of North America--Music</term>
+<term>Indians of North America</term>
+<term>Indigenous peoples</term>
+<term>Lakota dialect</term>
+<term>Nobility</term>
+<term>Novels</term>
+<term>Politicians</term>
+<term>Powwows</term>
+<term>Singers</term>
+<term>Sioux Nation</term>
+<term>Songs</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Cooper, James Fenimore, 1789-1851</term>
+<term>Haggard, H. Rider (Henry Rider), 1856-1925</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Glasgow (Scotland)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11630.001"/>
+
+<p>Through the courtesy of Colonel Cody, I had, on Friday last, the privilege of forming an item of one of the most marvellous gatherings that has ever been held in this or any other city. The scene was the magnificent arena of the Wild West Show; the occasion a great Pow Wow (I fancy that is the correct expression), the members of which included stately and stolid red braves from the prairie, dusky warriors and amazons from Darkest Africa, pressmen and professors, authors, actors and artists, clergymen and Glasgow magistrates. Surely as strange a combination as ever was dreamt of. Yet there they were all smoking (metaphorically) the calumet of peace together.</p>
+
+<p>There were Fenimore Cooper's Chingachgook and Uncas there, Rider Haggard's stern Umslopogas there in actual living reality, those whose shadows have peopled our imaginations ever since we read the Leatherstocking novels and the fascinating stories of African travel. There was beating of "tom-toms;"  there was shrill singing of wild songs; there was weird dancing by both races, and which dance is the more blood-curdling and eerie I cannot say. I am certain, however, that for pure diablerie the terpsichorean revel which Tom o'Shanter beheld in Alloway's auld haunted kirk was simply "not in it" with either of them.</p>
+
+<p>One of the most interesting events of the meeting was the interview between representative chiefs of both races, who in terms of high-flown courtesy expressed their mutual regard.  My knowledge of the Sioux tongue is limited, but it appears to be admirably adapted for eloquence. I fancy that a Sioux chief can convey as much meaning in a sentence as Lord Burleigh's famous head-shake is supposed to do in the "Critic."</p>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

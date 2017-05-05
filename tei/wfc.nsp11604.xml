@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11604">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"> "The Wild West" opens on Thursday</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11604</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"The Wild West" opens on Thursday</title>
+<title level="j">The Bailie</title>
+<pubPlace>Glasgow,Scotland</pubPlace>
+<date when="1891-11-11">November 11, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 911111</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Audiences</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Exhibition buildings</term>
+<term>Heroes--Fiction</term>
+<term>Historical reenactments</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Barnum, P. T. (Phineas Taylor), 1810-1891</term>
+<term>Reid, Mayne, 1818-1883</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11604.001"/>
+
+<p>"The Wild West" opens on Thursday, in the East-end Exhibition buildings, Duke Street, which have been converted into a gigantic circus, with an auditorium capable of seating 7000 of an audience, that is an audience which would fill St. Andrew's Hall twice over. Everybody has heard of "The Wild West," the show of shows. Its inventor, or at least its chief, "Buffalo Bill," has a name which has become a household word over two continents. A trained soldier, a daring and skilful scout, he is also an <hi rend="italic">enterpreneur</hi> of amazing enterprise and skill. To find his equal one must read over once more "The Scalp Hunters," and the life of Barnum. On the one side his career has been as full of adventure as were those of Mayne Reid's heroes; on the other he has shown himself, as regards tact, resource, and versatility, the equal of Phineas T. himself.</p>
+
+<p>As regards "The Wild West," why, the one thing that can be said concerning it is that it must be seen. "Itself can be its only parallel." Descriptions of the establishment in the east-end of Duke Street must inevitably partake of the character of an auctioneer's catalogue. What we have all got to do is to go out to the old Eastern Exhibition and make the acquaintance of "The Wild West" for ourselves.</p>
+
+<p>"The Wild West" opens on Thursday, and will remain open for some eight or ten weeks. There will be nightly performances from Mondays till Saturdays, and extra performances on Thursday and Saturday afternoons.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

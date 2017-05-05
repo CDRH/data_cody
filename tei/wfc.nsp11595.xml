@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11595">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The American Indian Rising</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11595</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The American Indian Rising</title>
+<title level="j">The Scotsman</title>
+<pubPlace>Edinburgh, Scotland</pubPlace>
+<date when="1891-01-16">January 16, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 910116</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Food</term>
+<term>Indian weapons</term>
+<term>Indians of North America</term>
+<term>Military campaigns</term>
+<term>Sioux Nation</term>
+<term>United States. Office of Indian Affairs. Pine Ridge Agency</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Miles, Nelson Appleton, 1839-1925</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="tc">Cunningham, Tom</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11595.001"/>
+
+<head type="main">THE AMERICAN INDIAN RISING.</head>
+<byline>[REUTER'S TELEGRAMS.]</byline>
+
+<p>PINE RIDGE, January 15.&#8212;Some other chiefs arrived yesterday, and conferred with <persName xml:id="miles.n">General Miles</persName>. It has been agreed that the "hostiles" shall leave their present camp and pitch their tents west of White Clay Creek, less than half a mile from the Agency; that the Indians shall surrender their arms to the chiefs, who will deliver them to the agent; that the chiefs shall endeavour to control the younger men, failing which they will arrest those who refuse to act as good Indians, and will hand them over to the agent. General Miles, gratified at the above result, has given the chiefs several days to redeem their promises, and, as evidence of his good will, has sent to the hostiles several thousand pounds of flour and several hundred pounds of coffee and sugar. The General has taken into consideration the complaints of the Indians regarding violation of the contracts made with them, and has guaranteed faithful observance of these engagements in future. The chiefs returned to their camp pleased with the kindly treatment they had received.</p>
+
+<p>PINE RIDGE, January 15 (later.)&#8212;General Miles has demanded the surrender of Lieutenant Casey's murderers, to which the chiefs promised to accede.</p>
+
+<p>PINE RIDGE, January 15, evening.&#8212;The outbreak among the Sioux may now be regarded as at an end.  There may still be some trouble with a few small bands, but the great majority of the Sioux have removed their war paint, and have camped near the friendlies at White Clay Creek.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
