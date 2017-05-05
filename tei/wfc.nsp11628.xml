@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11628">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Charging Thunder" Sent to Prison</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc. nsp11628</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"Charging Thunder" Sent to Prison</title>
+<title level="j">Glasgow Weekly Mail</title>
+<pubPlace>Glasgow, Scotland</pubPlace>
+<date when="1892-01-16">January 16, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 920116</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bars (Drinking establishments)</term>
+<term>Court decisions and opinions</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Drinking of alcoholic beverages</term>
+<term>Glasgow (Scotland). Police Department</term>
+<term>Imprisonment</term>
+<term>Indians of North America</term>
+<term>Law enforcement</term>
+<term>Police charges</term>
+<term>Sioux Nation</term>
+<term>Translators</term>
+<term>Traveling exhibitions</term>
+<term>Whiskey</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="tc">Cunningham, Tom</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc. nsp11628.001"/>
+ 
+<p>"CHARGING THUNDER" SENT TO PRISON.&#8212;In Sheriff Birnie's chambers on Tuesday "<persName xml:id="charging.thunder">Charging Thunder</persName>," of the Wild West Show, pleaded  guilty to having on 31st December assaulted <persName xml:id="crager.g">George Crager</persName>, one of the interpreters at the show, by striking him on the head with an Indian club. Mr F. R. R[i]chardson, addressing the Court on behalf of the prisoner, said his client was only 23 years of age, and usually one of the quietest members of the show, but, like all other Indians, the slightest amount of drink was sufficient to infuriate him. On the night referred to "Charging Thunder" entered a public-house and asked for lemonade (Colonel Cody having warned the publicans against giving the Indians drink), and by some mistake whisky was put into it. When he returned to the show he became very much infuriated, and during the performance raised a club (not a war club) and stuck the interpreter with it. He did not entertain any malice whatever towards the interpreter; indeed, they were friends. The Sheriff asked where the shop was in which the liquor was supplied. Prisoner replied (through the interpreter) that it was in Duke Street, but he did not know whose it was. The Sheriff said if "Charging Thunder" had not been a stranger he would have sent him to prison for a long time, but as he was a stranger he would make the term of imprisonment short. He would be sent to prison for 30 days, and it was to be hoped this would be a warning to others. It was a shame to supply these Indians with whisky.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

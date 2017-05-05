@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11608">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Buffalo Bill's" Wild West Show in Glasgow</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11608</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"Buffalo Bill's" Wild West Show in Glasgow</title>
+<title level="j">The (Edinburgh) Evening Dispatch</title>
+<pubPlace>Edinburgh, Scotland</pubPlace>
+<date when="1891-11-17">November 17, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 911117</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Audiences</term>
+<term>Band music</term>
+<term>Bands (Music)</term>
+<term>Cowboys</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Exhibition buildings</term>
+<term>Firearms</term>
+<term>Frontier and pioneer life</term>
+<term>Grassland fires</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Lasso</term>
+<term>Lighting</term>
+<term>Little Bighorn, Battle of the, Mont., 1876</term>
+<term>Mining camps</term>
+<term>Orators</term>
+<term>Ranching</term>
+<term>Sharpshooters</term>
+<term>Show riders</term>
+<term>Targets (Shooting)</term>
+<term>Theaters--Stage setting and scenery</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Sitting Bull, 1831-1890</term>
+<term>Sweeney, William, 1856-1916</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Black Hills (S.D. and Wyo.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11608.001"/>
+
+
+<head type="main">"BUFFALO BILL'S" WILD WEST SHOW IN GLASGOW.</head>
+
+<figure><p>mounting</p></figure>
+<figure><p>cracking The Bull Whip</p></figure>
+<figure><p>Backing Pony</p></figure>
+<figure><p>The Cowboy's Camp</p></figure>
+<figure><p>The Lassoe</p></figure>
+<figure><p>A Fall</p></figure>
+
+<p>AN important addition to the amusements of Glasgow was made last night by the opening of "Buffalo Bill's" celebrated Wild West Show. As already mentioned, the great show is located in the building which was last year utilised for the East End Exhibition. The premises, however, have been entirely reconstructed, and now form perhaps the largest and finest all open building in Scotland. Last night an audience which could not number much less than 5000 gathered to view the opening performance. Prominent among the spectators were the Lord Provost (Mr John Muir of Deanston),<ref target="n01">1</ref> several of the Magistrates, and numerous representative citizens. An elaborate programme was submitted, the chief feature of which was a representation in six episodes, illustrating the manners and customs of the daily life of the dwellers in the Far West of the United States through the means of actual and realistic scenes from life.  For this purpose a commodious stage occupies almost one side of the spacious arena, and is appropriately fitted up, some of the scenery being from the brush of that noted limner William Glover.<ref target="n02">2</ref> The proceedings were inaugurated with selections by the Wild West Cowboy Band, under the directorship of Mr <persName xml:id="sweeney.w">William Sweeney</persName>; and during the evening the band played several overtures in a very satisfactory manner. Following an American custom, Orator <persName xml:id="clifford.h">H. M. Clifford</persName> appeared at eight o'clock, and made an explanatory statement introducing the individuals and celebrities of the Wild West. Colonel W. F. Cody ("Buffalo Bill") received a most enthusiastic reception. Then followed the first episode, depicting the primeval forests of America before its discovery by the white man, in which were introduced glimpses of Indian tribal life; and the second, a tableau illustrating the landing of the Pilgrim Fathers of "Old England."  The third episode dealt with life on the prairie, and closed with a vivid representation of the horrors of a prairie fire. The fourth episode depicted scenes and incidents of ranche life in America, and closed with an Indian attack. A very attractive feature was furnished in the fifth episode. It included what was described as a correct historical representation of the camp of <persName xml:id="sitting.bull">Sitting Bull</persName> and his warriors, and pourtrayed one of the reddest pages of savage history in the massacre of General Custer and his entire command. Additional interest was given to this realistic scene by the presence of four of the Indians who took part in the carnage. The last episode depicted life in a mining camp in the Black Hills. The episodes were interspersed with other remarkable features. "Buffalo Bill" himself, in addition to taking a prominent part in the entertainment, gave an exhibition of his wonderful skill as a shot. Among those who distinguished themselves in this way were Miss <persName xml:id="oakley.a">Annie Oakley</persName>, Mr <persName xml:id="daly.c">L. C. Daly</persName>, and Master <persName xml:id="baker.j">Johnnie Baker</persName>. The almost indescribable skill and judgment displayed by those representatives of the rifle, shot-gun, and pistol was recognised with a hearty meed of applause. Not the least attractive item was the exhibition of horsemanship by the cow-boys and by the American rough riders. The lassoing of wild horses was a marvellous display, while the riding of bucking horses provided no end of excitement and laughter. To those unacquainted with horses the difficulties appeared almost insuperable, while the experienced horsemen must needs see the feats performed in order to thoroughly appreciate them. Altogether the entertainment presents a vivid picture of Western life such as will not easily be forgotten. The show is also instructive as well as amusing, and the numerous exhibitions of skill and daring, together with the originality and realism of the whole, outrival anything hitherto seen. The performance lasted will after eleven o'clock, but interest in it never seemed to flag. The lighting, heating, and seating arrangements were satisfactory, and there was scarcely what might be called a hitch during the performance of the gigantic show, which was received with universal enthusiasm.&#8212;The above are sketches taken last night.</p>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Lord Provost of Glasgow from 1889-1892 was Sir John Muir (1828-1903), 1st Baronet of Deanston, a community north of Glasgow, Scotland.</note>
+
+<note xml:id="n02">Note 2: William Glover (1833-1916), a Glasgow-born landscape artist in oil and watercolors, was a scene painter and manager of the Theatre Royal in Glasgow.</note>
+</back>
+</text>
+</TEI>

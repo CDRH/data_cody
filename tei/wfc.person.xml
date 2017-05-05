@@ -178,6 +178,11 @@
 </person>
 
  
+<person xml:id="clifford.h">
+<persName type="display">Clifford, Henry Marsh</persName>
+<note>Henry Marsh Clifford, British actor and orator, became the voice of Buffalo Bill's Wild West following the death of Frank Richmond in January 1890. At the conclusion of the tour in October 1892 Clifford was invited to return to the United States with the troupe to continue as orator; he chose to remain in Britain to continue his career performing in the theater.</note></person>
+
+
 <person xml:id="argyll.j">
 <persName type="display" subtype="viaf" key="http://viaf.org/viaf/49595748">Argyll, John Douglas Sutherland Campbell, Duke of, 1845-1914</persName>
 <birth when="1845">1845</birth>

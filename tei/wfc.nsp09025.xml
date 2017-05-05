@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp09025">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Red Cloud</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp09025</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Red Cloud</title>
+<title level="a" type="main">The Sioux Chief Makes His Statement</title>
+<title level="j">Chillicothe Constitution</title>
+<pubPlace>Chillicothe, MO</pubPlace>
+<date when="1890-11-23">November 23, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Ghost dance</term>
+<term>Horses</term>
+<term>Indian reservations</term>
+<term>Indians of North America</term>
+<term>Livestock</term>
+<term>Messiah</term>
+<term>Military men</term>
+<term>Scouts</term>
+<term>Sioux Nation</term>
+<term>Traveling exhibitions</term>
+<term>United States--Politics and government</term>
+<term>United States. Office of Indian Affairs</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Brooke, John Rutter, 1838-1926</term>
+<term>Burke, John M., -1917</term>
+<term>Crook, George, 1829-1890</term>
+<term>Harrison, Benjamin, 1833-1901</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Red Cloud, 1822-1909</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Fort Robinson (Neb.)</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+<term>San Francisco (Calif.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name xml:id="rk">Kron, Rebecca</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp09025.001"/>
+
+<head type="main">RED CLOUD.</head>
+
+<head type="sub">The Sioux Chief Makes His Statement.</head>
+
+<head type="sub">HE GUARDS HIS REMARKS.</head>
+
+<head type="sub">Not Anxious to Commit Himself&#8212;General Brooke Reports the Indians Excited&#8212;Timely Arrival of the Troops.</head>
+<div2>
+<p>PINE RIDGE AGENCY, Nov. 22.&#8212;The following statement on the Indian situation has been made by Red Cloud:</p>
+
+<p>"I see some of my friends here this morning, and I want to tell them all something. I have some more friends in Washington. The Great Father's friends are my friends. We are all friends with the agent and we are all friendly with the soldiers. I have been working under the direction of the of the Great Father at Washington for twenty years.</p>
+
+<p>"I have been to Washington ten times to see the Great Father. My people have built houses about the churches and schools, and some of the places look like villages. I tell my people to take care of their stock and increase it and they are doing it. I have got over 200 head. Major <persName xml:id="burke.j">Burke</persName> and Buffalo Bill take my people among the whites and they travel and learn some things. I get letters from them, and they bring me good news, for they tell me they are all well taken care of. Then I send my children to the big schools in the East, where they learn something.</p>
+
+<p>"Several years ago the troops came down on the reservation. They took our horses and burned our lodges. That did not make me angry, for they were much friends, and I let them take the horses. The reason I tell you this is because I see the troops here again. I don't want to fight and I don't want my people to fight. We have lots old women and lots old men. We've got no guns and we can't fight, for we have nothing to eat and are too poor to do any thing. On this reservation I am the head man and they all look to me. I have not been to see the dancing.<!--LINK Ghost Dance--> My eyes are sore and I can't see very well, but when they get well I will go see it. I will try to stop it. Those Indians are fools. The winter weather will stop it, I think. Any way it will be all over by spring. I don't think there will be any trouble. They say that I have been in the dance. That is not right. I have never seen it. When we made our treaty it was promised that there should be no troops on the reservation unless it was at the order of the Great Father. They are here, though, and I suppose it is all right. My name is Red Cloud. That is all I have to say about this question."</p>
+
+<p>The Indian's talk was accompanied by many gestures, but each statement was made deliberately and bore with it the impression that the speaker was weighing every word, and was not anxious to commit himself further than he intended.</p>
+
+<p>In viewing the situation General Brooke said: "About all I know is that we are here. There can be no doubt that these Indians are badly excited, and before we came here the white people were alarmed lest they should all be massacred. Our coming has had the effect of quieting their fears somewhat, and, furthermore, it has, as you might say, 'stiffened up' the peaceful Indians wonderfully. These people have been communicated with and they all know the troops are here. We have force enough to keep the day."</p>
+
+<p>Early Thursday Little Rat, a famous scout under Crook,<!--LINK--> galloped into the agency after a seventy mile ride from Fort Robinson. He was accompanied by another scout named Louis. They will be in the service of the Government during the present campaign.</p>
+
+<p>The Indians started out yesterday to summon all friendly Sioux to the agency, and yesterday many bucks with their families came into town. These friendly Sioux may be pressed into service to aid the Indian police in stopping the dances.</p>
+
+<p>Three cattlemen who came in last night from Wounded Knee camp report the Indians dancing as furiously as ever. Torn Belly, who went out to meet them, said the only difference between their religious services and those of the white men was that the Indians did not pass the hat.</p>
+</div2>
+<div2>
+<head type="sub">WARLIKE REPORTS DISCREDITED.</head>
+<p>WASHINGTON, Nov. 22.&#8212;Indian Bureau officials quite generally discredit the warlike and threatening reports that come from the Sioux country. Acting Commissioner Belt, of the Indian Office, does not believe the Indians contemplate hostile action toward the whites. The promised Messiah that they are looking for to lead them in their destruction of the whites has not and will not materialize, but when they discover that he is not likely to be forthcoming disappointment may make them troublesome. They will then turn upon the medicine men who have made these predictions, and there may be difficulties that will spread beyond tribal limits. He thinks, however, that the precautions already adopted in sending troops to the reservation will be ample to prevent any serious outbreak.</p>
+
+<p>General <persName xml:id="miles.n">Miles'</persName> scarey dispatches, according to the Star, meet with the following comment from a prominent army officer, who had in mind what is alluded to as General Miles' Presidential boom, started at a banquet in San Francisco last summer: "Miles is predicting a general Indian war, and virtually asks that the command of the army be turned over to him. He wants to create a scare and pose as the savior of the country. In fact he is almost in the attitude of a political Messiah, such as the Indians themselves are looking for. I have no doubt in the world that he is honest in his candidacy. He has shrewdly enlisted the favor of nearly every newspaper man in California and has, by his agreeable manners and the expenditure of his means, managed to make himself very popular in a certain way in the West. He is one of the most ambitious men in the army, and he is pulling the wires shrewdly."</p>
+</div2>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

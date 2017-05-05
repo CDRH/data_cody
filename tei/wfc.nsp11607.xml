@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11607">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Wild West Show in Glasgow</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11607</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Wild West Show in Glasgow</title>
+<title level="j">The Scotsman</title>
+<pubPlace>Edinburgh, Scotland</pubPlace>
+<date when="1891-11-17">November 17, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 911117</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Amusements</term>
+<term>Audiences</term>
+<term>Band music</term>
+<term>Bands (Music)</term>
+<term>Bullwhips</term>
+<term>Cowboys--Songs and music</term>
+<term>Cowboys</term>
+<term>Cyclones</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Entertainers</term>
+<term>Firearms</term>
+<term>Frontier and pioneer life</term>
+<term>Grassland fires</term>
+<term>Historical reenactments</term>
+<term>Horses</term>
+<term>Indian dance--North America</term>
+<term>Indians of North America</term>
+<term>Little Bighorn, Battle of the, Mont., 1876</term>
+<term>Mexicans</term>
+<term>Mustang</term>
+<term>Popular music--American influences</term>
+<term>Scotland</term>
+<term>Shooting</term>
+<term>Singers</term>
+<term>Spectators</term>
+<term>Theaters--Stage setting and scenery</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name>  Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11607.001"/>
+
+<head type="main">BUFFALO BILL'S WILD WEST SHOW IN GLASGOW.</head>
+
+<p>Last night Buffalo Bill's Wild West Show was opened in the East End of Glasgow, on the ground occupied last winter by the Industrial Exhibition, when there was an assemblage of spectators numbering fully 5000. From the fact that the Wild West Show has gained a world-wide reputation for its unconventionality amongst entertainments, a large attendance was naturally to be expected when the show was first set upon Scottish soil; and at the close, although the entertainment (owing to those taking part having as yet to become familiar with the grounds) was somewhat halting and very protracted, the plaudits which have everywhere been bestowed on this wonderfully realistic presentation of life in the Far West were heartily endorsed by the applause which was accorded to Buffalo Bill and his troupe. As an entertainment, the Wild West Show can be compared with no other form of performance or show before the public at the present time, a circus being the nearest approach to it, although differing for the most part in this respect, that the 250 Indians, cowboys, Mexicans, and frontier women who take part in the Wild West Show have had their training not in schools of instruction, but in real and active life, their chief, Colonel Cody, himself having had a career which has marked him out as one of the boldest and most astute of American frontiersmen. As an entertainment it is impossible to speak of the show otherwise than in terms of great praise. From the opening overture by the cowboy band to the closing salute there is revealed a living picture of the chief features of pioneer life in America, and by means of the large company of performers&#8212;about 180 horses, mustangs, and buffaloes, effectively arranged tableaux, and panoramic scenery&#8212;the Indian life in the far West is produced in most realistic fashion. Throughout the entertainment there are agreeable interludes of cowboy fun, Tyrolean singing, Indian dancing, gun and revolver shooting, and a clever piece of whip-cracking by Buffalo Bill. Amongst the most notable scenes are the prairie fire, the Custer massacre, and the cyclone effect. When the entertainment is brought into proper working order and compressed into two hours, the Wild West Show will be one of the strongest attractions in the way of amusement in Glasgow during the winter months.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

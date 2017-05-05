@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp06550">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West on the Sea</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp06550</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Wild West on the Sea</title>
+<title level="j">Omaha Daily Bee</title>
+<pubPlace>Omaha, NE</pubPlace>
+<date when="1889-05-12">May 12, 1889</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Atlantic crossings</term>
+<term>Band music</term>
+<term>Cowboys</term>
+<term>Cowgirls</term>
+<term>Dogs</term>
+<term>England</term>
+<term>Farewells</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indian reservations</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota</term>
+<term>Passenger lists</term>
+<term>Passenger ships</term>
+<term>Sioux Nation</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>Travois</term>
+<term>United States. Office of Indian Affairs. Rosebud Agency</term>
+<term>United States. Secret Service</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Bierstadt, Albert, 1830-1902</term>
+<term>Burke, John M., -1917</term>
+<term>Dos Passos, John R. (John Randolph), 1844-1917</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Wilder, Marshall P. (Marshall Pinckney), 1859-1915</term>
+<term>Wiman, Erastus, 1834-1904</term>
+<term>Red Shirt, 1845?-1925</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Berlin (Germany)</term>
+<term>Paris (France)</term>
+<term>Vienna (Austria)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name xml:id="rk">Kron, Rebecca</name>
+Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp06550.001"/>
+
+<head type="main">THE WILD WEST ON THE SEA.</head>
+<head type="sub">Indians, Cowboys, Vaqueros and Buffalo Off for Paris.</head>
+<head type="sub">SAYING FAREWELL IN THE RAIN.</head>
+<head type="sub">Buffalo Bill's European Route and What He Will Exhibit to the Foreigners&#8212;Red Shirt is Disgusted.</head>
+<head type="sub">Off For the Exposition.</head>
+
+<div2>
+<p>The cowboy band thumped away vigorously at "A Life on the Ocean Wave" when the steamship Persian Monarch backed out into the stream yesterday afternoon with the whole "Wild West" on board, says the New York Herald.</p>
+
+<p>Colonel Cody himself stood on the bridge, his big hat in his hand and his long hair glistening with the rain. The band played, the cowboys yelled, the Indians ki-yied, and the dripping crowds cheered. Buffalo Bill waved his hat in a comprehensive farewell to everybody, and the steamer started for Havre.</p>
+
+<p>Many of Colonel Cody's friends came down to the pier to see him off on his two years' trip and try to dispel the gloom of the dreary day. It was a melancholy start. The rain came down in floods and everybody was soaking wet. The Indians looked the picture of despair walking up and down the deck with rivulets running from their soggy blankets and rain drops trickling down their faces. The old Deadwood coach<!--LINK--> on the forward deck was leaking a pool of water down upon its seats. The Indian dogs looked dismal and half drowned. About the only things that were not visibly affected by the sloppiness were Buffalo Bill's spirits and the steamer's old stewardess.</p>
+</div2>
+<div2>
+<head>RED SHIRT IS DISGUSTED.</head>
+
+<p>Mr. <persName xml:id="red.shirt">Red Shirt</persName>, the pampered favorite of European sovereigns, sought the seclusion of the squaw's cabin early in the day and denied himself to reporters while he relieved his feelings copiously in the vigorous dialect of the Redbud agency.<ref target="n01">1</ref> Besides him there were on board 102, more or less, untutored sons of the forest, four squaws and five papooses. Of these, <persName xml:id="blackheart.w">Black Heart</persName>, <persName xml:id="little.chief">Little Chief</persName> and <persName xml:id="otakte">Kills Plenty</persName>, had accompanied Red Shirt on his former trip abroad. The others had never before been away from their agencies. They are all Sioux, mostly from the Ogallala and Redbud agencies, selected by the government agent from the Indian aristocracy, as it were. <persName xml:id="burke.j">John M. Burke</persName>, who is the manager of the show, says they are a much better looking lot of redskins than he took abroad in 1887, and the best specimens of American Indians he has ever seen together.</p>
+
+<p>The names, as entered on the ship's passengre list, are more striking than euphonious. Among them are Messrs. Yellow Eye, Jumping Crow, Wooden Face, Medicine Horse, <persName xml:id="noneck">No Neck</persName>, Raw Meat, Sick Antelope, Dog's Ghost and other members of the Indian four hundred, said to be well known on the agencies.</p>
+
+<p>The Indians are quartered in the steerage of the Monarch. Just below them on the two decks, are the 190 Indian ponies, as ugly as sin, and in the forward hold are twenty head of buffalo. Eight Indian dogs occupy a coop on the quarter deck. Major Burke repelled with emphasis the suggestion that the dogs were to furnish the Indians with their favorite soups and ragouts on the way over. Judging from his experience on the former trip the Indians would probably have little occasion to eat anything after they passed Sandy Hook.</p>
+</div2>
+<div2>
+<head>INDIAN DOGS GO ALONG THIS TIME.</head>
+<p>There are two teams of the dogs, and as a matter of fact they are intended to give the Parisians an idea of Indian methods of travel. They are under the charge of two Canadian trappers. Ambrose Lepine and Maxime Goulet, who, by the way, were engaged in Riel's rebellion in Manitoba, and only escaped hanging by flight to this country. General Dumas, who was Riel's lieutenant, is also with the party.</p>
+
+<p>The horses, buffalo and dogs were hoisted over the ship's side yesterday morning in slings worked with a tackle. The horses made a tremendous fuss about it and it took all the skill of their cowboy riders to get them on board. The buffalo went over without a murmur, though almost scared to death. The people who watched the transfer from the shore made the interesting discovery that a horned buffalo being yanked over a ship's side in a sling, hanging up by the middle with head and heels together, is a much more comical sight than anything in the show itself, and they laughed until their sides ached, though the buffalo didn't seem to find it at all amusing.</p>
+
+<p>In the company are three young women riders; two young women rifle shooters&#8212;Miss <persName xml:id="oakley.a">Annie Oakley</persName> and Miss <persName xml:id="smith.l">Lillie Smith</persName>&#8212;thirty-two cowboys, seven Mexican vaqueros and a big staff of property and camp men. There are 218 persons all told. They go first to Paris for several months, then to Vienna, Berlin, St. Petersburg and to other cities on the continent; then to England, and here in 1891.</p>
+</div2>
+<div2>
+<head>GOODBY AND GOOD LUCK.</head>
+
+<p>Albert Bierstadt, the artist; Marshall P. Wilder, the funny man; Colonel John S. Bell, chief of the United States secret service; Dr. H. C. Bullock, of Hartford; Erastus Wiman, John Dos Passos, George G. Ames, of Boston, and John W. Hamilton were among those who stood in the rain and gave the party cheer after cheer as it went away. Mr. Wilder cheered the loudest, because Colonel Cody had just made him a present of a little Indian pony, which, being conspicuously ugly, is named Juliet.</p>
+
+<p>Just as the steamer was starting it was discovered that one of party was missing. Mrs. Thompson, a young woman hired as assistant to Mrs. <persName xml:id="whittaker.m">Whittaker</persName>, the camp matron, had slipped away and left the pier. She didn't want to go very much in the first place, and at the last minute the idea of two years away from home was too much for her courage and she fled.</p>
+</div2>
+</div1>
+</body>
+
+<back><note xml:id="n01">Note 1: Rosebud Agency.</note></back>
+</text>
+</TEI>
