@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11627">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Colonel Cody]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11627</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Colonel Cody]</title>
+<title level="j">The Bailie</title>
+<pubPlace>Glasgow, Scotland</pubPlace>
+<date when="1892-01-13">January 13, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 920113</note>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Grassland fires</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Indians of North America</term>
+<term>Lasso</term>
+<term>Shooting</term>
+<term>Traveling exhibitions</term>
+<term>Western horses</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Trossachs (Scotland)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="tc">Cunningham, Tom</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11627.001"/>
+
+<head type="main">Monday Gossip.</head>
+
+<p>Colonel Cody will take a short run through the Trossachs one of these days with Mr William Glover<ref target="n01">1</ref> as cicerone.</p>
+
+<p>Buffalo Bill's show had a run of exceptional luck during the holidays, and deservedly so. Twice daily the large amphitheatre was packed with pleasure seekers, not a few of whom were "rustic and provincial." The novelty and genuineness of everything was thoroughly appreciated. No number on the programme caused so much sensation as the taming of the "bucking horses." On the Western ranches horses that have never been ridden are termed bronchos, and the cowboys who tame them after five or six mounts "broncho-busters." Some of Buffalo Bill's "buckers" are most unmanageable, and give the cowboys a "sweat." There can be no mistake about the efforts of the steed to get rid of his tamer at any cost. The scientific precision with which the lasso or nooze is thrown over the heads of the buffaloes, especially by Colonel Cody himself, invariably calls forth unstinted applause. The shooting feats, the representations of the prairie on fire, the primeval forests of America, and the fighting between the cowboys and the redskins, help to fill up a unique show.</p>
+
+<p>The feats of the horse-tamers, or, as they are called on the ranches, "broncho-busters," have been so much thought of by eye-witnesses that several gentlemen near Glasgow, with bronchos or unmanageable steeds, have had some of Buffalo Bill's cowboys engaged two or three times a week at the work of taming. One of the cowboys has been particularly successful with a valuable horse belonging to Mr Ralston, of Biggar.</p>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: William Glover (1833-1916), a Glasgow-born landscape artist in oil and watercolors, was a scene painter and manager of the Theatre Royal in Glasgow.</note>
+
+</back>
+</text>
+</TEI>

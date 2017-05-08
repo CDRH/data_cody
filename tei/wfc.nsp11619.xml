@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11619">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11619</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Wild West</title>
+<title level="j">Glasgow Observer</title>
+<pubPlace>Glasgow, Scotland</pubPlace>
+<date when="1891-12-12">December 12, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 911212</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term> 
+<term>Amusements</term>
+<term>Audiences</term>
+<term>Cavalry drill and tactics</term>
+<term>Cultural relations</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Education</term>
+<term>Historical reenactments</term>
+<term>Indians of North America</term>
+<term>Little Bighorn, Battle of the, Mont., 1876</term>
+<term>Native American culture</term>
+<term>Scouting (Reconnaissance)</term>
+<term>Shooting</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Sitting Bull, 1831-1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11619.001"/>
+
+<head>BUFFALO BILL'S "WILD WEST."</head>
+
+<p>Buffalo Bill's colossal show has now fairly "caught on," and has become <hi rend="italic">par excellence</hi> the attraction of the season. Bumper houses crowd the enormous building nightly, and the entertainment is received with the heartiest indication of popular favour. The show deserves its success. "There's plenty of room at the top" always, and in catering for public amusement, as in every other department of life, the truism holds good. Buffalo Bill is at the top and is undisturbed by any serious competition. The secret of his success lies, we fancy, in the novelty of his entertainment. We have had nothing like it before in Scotland. Circuses and menageries are mostly built on a pattern. The elephants, tigers, dromedaries, and boa constrictors of the one, and the speckled ponies and paper rings of the other, are fatally familiar. The Wild West is novel at every turn. There is instruction as well as amusement in the show. Within the spacious resources of his arena Colonel Cody is able to present a very counterfeit of life as it is lived by the prowlers of the prairie. The spectacle is picturesque in the highest degrees, accurate and complete. No feature is wanting to complete the <hi rend="italic">ensemble</hi> of the magnificent representation. The march of the Indians, their camping and scouting, meeting and merrymaking, their relations with the whites, friendly and fierce; all are realised to the life, as we sit and gaze in wonderment at the enterprise which has reproduced here so faithfully a living picture of the habits of the Red men. This is but a phase of the entertainment. As befits a Yankee show, it is rich in shootists, whose skill will secure approbation by virtue of its own merit. The buck jumping horses provide a lively quarter of an hour, and are always a fresh source of amusement. The cavalry drill is one of the prettiest spectacles that could be desired, and the march of Custer and his troops against <persName xml:id="sitting.bull">Sitting Bull</persName>, culminating in the massacre of the entire force, is something so realistic that we forget the simulation. To go over the features of entertainment in detail would encroach too largely on a space with many demands. We can only hint at a few of the more prominent items of the best show of the season. During the coming Christmas and New Year's holidays no better night's merrymaking out of doors can be enjoyed than a visit to the unique and wonderful exhibition. The space in its auditory is ample indeed, but we venture to predict it will not be found too extended during the course of the holidays upon which we are now about to enter.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp09744">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indian's Appeal</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp09744</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Indian's Appeal</title>
+<title level="a" type="main">Red Cloud, Aged Sioux Chieftan, Writes Pathetic Letter to Buffalo Bill</title>
+<title level="j">The Wyoming Tribune</title>
+<pubPlace>Cheyenne, WY</pubPlace>
+<date when="1907-04-24">April 24, 1907</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Indians of North America--Communication</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America--Wars</term>
+<term>Lakota dialect</term>
+<term>Oglala Indians</term>
+<term>Sioux Nation</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Red Cloud, 1822-1909</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name xml:id="rk">Kron, Rebecca</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp09744.001"/>
+
+<head type="main">INDIAN'S APPEAL</head>
+<head type="sub">RED CLOUD, AGED SIOUX CHIEFTAN, WRITES PATHETIC LETTER TO BUFFALO BILL.</head>
+<head type="sub">Says White Men Have Become Rich and Indians Poor and Asks to See That Indians Are Taken Care Of&#8212;Writes Farewell Epistle to Old Friend.</head>
+
+<p>The following unusually pathetic letter has been written by Red Cloud, the famous old chief of the Sioux tribe who is blind and feeble and patiently waiting his call to the Happy Hunting grounds at his home at Pine Ridge, to William F. Cody, a great old friend of Red Cloud:</p>
+
+<div2>
+<opener><dateline>"Pine Ridge, S. D., April 8.</dateline>
+
+<salute>"Buffalo Bill, Pe-Ha-Has-Ka.</salute><ref target="n01">1</ref></opener>
+
+<p>"Tell my friend, Pe-ha-has-ka, that it is Red Cloud that talks to him by one of my people, who knows white man pen sign, will talk what I say to him with my tongue and send by paper. Old Ogalalla, chief, last chief soldier of Sioux, talks from heart to the White Eagle of Great Father's warriors. I want to tell him old chief soon go to Manitou hunting grounds, never see Pe-ha-has-ka more. I say we fight&#8212;then smoke pipe&#8212;shake hands&#8212;bury hatchet&#8212;live same tepee. My people follow white man's road.</p><p>"You always good after fight to red brother&#8212;I speak you to be always friend my people. You good, you show my young men heap big village, heap things I never see. Old Indian more old than you, hope tell Great Father Washington and Great Father's head man take care my people; all want to be good.</p><p>"I like you come&#8212;I no see you, but I could hear you talk. Shake hands, make goodby friend; my eyes water, but Red Cloud soon go. Talk straight&#8212;my people give their ears to Pe-ha-has-ka. He friend Sioux. White man rich, Indian poor. Tell white man help Indian. I talk you last time. Heart down&#8212;if Black Robe speak straight, meet you in hunting grounds in sky. Tell Scarface brother goodby, too&#8212;good man, friend of Sioux last war. Pine Ride. (Signed.)</p>
+
+<closer><signed>"RED CLOUD. His (X) mark."</signed></closer>
+</div2>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Pahaska, also Pe-Ha-Has-Ka and Paha-Haska, as translated from Lakota Sioux language, means  "Long Hair," the name given to William F. Cody by the Sioux Nation.</note></back>
+</text>
+</TEI>

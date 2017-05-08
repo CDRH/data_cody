@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11620">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill and Indians In Grand Hotel</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11620</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill and Indians In Grand Hotel</title>
+<title level="j">North British Daily Mail</title>
+<pubPlace>Glasgow, Scotland</pubPlace>
+<date when="1891-12-23">December 23, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 911223</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Band music</term>
+<term>Bands (Music)</term>
+<term>Children</term>
+<term>Community schools</term>
+<term>Dance</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Luncheons</term>
+<term>School children</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Glasgow (Scotland)</term>
+<term>Highlands (Scotland)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="tc">Cunningham, Tom</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11620.001"/>
+
+<head type="main">BUFFALO BILL AND INDIANS IN GRAND HOTEL.</head>
+
+<p>Yesterday afternoon, Colonel the Hon. W. F. Cody was entertained to luncheon in the Grand Hotel by the 1390 Club. There were other guests invited to meet him. Colonel Menzies presided, and amongst those present were Colonel White, Captain Don Hamilton, Major Dalziel, Messrs <persName xml:id="burke.j">Burke</persName>, Mackay, W. Glover, W. Martin, McConnochie, John McKinnon, G.R. Mackenzie, W. F. Frame, G. Halley, James Young, John McDougall, W. Guilford, John Mackay, James Steel, Andrew Starke and R. A. Peacock. After an elegant luncheon, Colonel Cody was elected a member of the 1390 Club, the gallant Chairman alluding, in graceful terms, to the brilliant career of their American friend, whose health the company drank with Highland honours. Colonel Cody, in reply, said he had in the course of a chequered career experienced many sensations, but this was one of the happiest he could remember. He found words inadequate to express his thanks. Proud he was to be a member of the 1390 Club, and the honour was all the greater that it had been conferred upon him an American. He hoped he would meet some of them at the World's Fair at Chicago in 1893. If they did come they would always find the latch-string on the outside of the door. (Applause.) But if they chose to visit America at any other time, he would be glad to see them in his own home. He was happy to state that the children of the Board schools were to visit his show on Thursday afternoon, and that the children of the other schools and institutions would come at some subsequent date. He and his people were delighted to perform before the children. The hospitality and generosity he had received in Glasgow had not been surpassed in any other country, and he had visited many. Glasgow people had gone beyond their Scotch reputation, which was world-wide. In conclusion, he thanked the chairman, and members for their kindness, (Applause.) Mr Guilford, secretary, intimated that apologies had been received from Dr Underwood, Sir Augustus Harris, and others. The club then descended to the large hall of the hotel, where were assembled a large number of ladies and gentlemen, and where the band of the Wild West Show were playing popular airs. Soon the Indians of the show walked slowly into the hall and seated themselves in fantastic groups. They danced to the strains of half-a-dozen tambourines, and sang in their own language the hymn "Nearer, my God, to Thee." Other ceremonies delighted the spectators, who left very favourably impressed with the character of the wild Indians of the Far West. What specially delighted them was the kind consideration shown by Colonel Cody, Mr Burke, and other members of the staff towards the strangers.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

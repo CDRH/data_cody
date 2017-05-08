@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11605">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Town Tattle [The "Wild West" fever is running high]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11605</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Town Tattle</title>
+<title level="a" type="sub">[The "Wild West" fever is running high]</title>
+<title level="j">Quiz</title>
+<pubPlace>Glasgow, Scotland</pubPlace>
+<date when="1891-11-13">November 13, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Cultural relations</term>
+<term>Gossip columns</term>
+<term>Horses</term>
+<term>Soccer matches</term>
+<term>Soccer</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Glasgow (Scotland)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11605.001"/>
+
+
+<head>TOWN TATTLE</head>
+
+<p>THE "Wild West" fever is running high already, and the once innocent youth of St. Mungo are beginning to thirst for pale-face scalps and to laviat unsuspecting pedestrians from the ambush of dark pen-closes, while the Renfield Street trace boys which already acquired a new habit of wilfully causing the tramway horses to buck wildly after the fashion of the genuine Mexican plug. There is blood in the moon in the region of Belgrove.</p>
+
+<p>BILL himself&#8212;the handsome, the dashing Nimrod <hi rend="italic">sans peur et sans reproche,</hi> the last Leatherstocking of them all is a nice man for a supper party. He hob-a-nobbed with our Only Tragedian at the Athen&#230;um last week, and very sweet indeed did he look in the "clean biled rag" of civilization, despite his hirsute extravagance. He is, personally the pink of politeness and good breeding, and has a heart as big as a house. Not a whit less romantic or less <hi rend="italic">distingu&#233;</hi> or less amiable is Major <persName xml:id="burke.j">Burke</persName> his lieutenant, a man of Gath with a sabre slash on his O. P. cheek, and a detestation of the M'Kinlay party in his heart.</p>
+
+<p>BUFFALO BILL, as he gazed on the immense gathering at the football match, Queen's Park <hi rend="italic">v.</hi> Rangers on Saturday, may have felt that next to a Wild West show, that of a match between two popular clubs is the thing for drawing in the "Almighty Dollar." We may hear of "departures" of some of the famous Buck Jumpers of football fame to give an exhibition and no "fouls" claimed in the Wild West show of the east.</p>
+
+<p>THAT a life should be lost by drowning in the sight, and within two yards of above one hundred persons, is a deplorable fact, I witnessed at Kelvinhaugh Clutha landing-stage on Saturday, after the football match at Ibrox. The reckless rushing and scrambling of the hundreds who crowd the cluthas and ferries after these matches will not cease till some better provision is made to meet the extra traffic, or some terrible accident on a large scale takes place.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

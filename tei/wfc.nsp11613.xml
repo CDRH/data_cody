@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11613">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Wild West Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11613</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Wild West Show</title>
+<title level="j">Lennox Herald</title>
+<pubPlace>Dumbarton, Scotland</pubPlace>
+<date when="1891-11-21">November 21, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 911121</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Audiences</term>
+<term>Band music</term>
+<term>Bullwhips</term>
+<term>Colosseum (Rome, Italy)</term>
+<term>Cowboys--Songs and music</term>
+<term>Cowboys</term>
+<term>Cyclones</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Emigrants</term>
+<term>Firearms</term>
+<term>Frontier and pioneer life</term>
+<term>Historical reenactments</term>
+<term>Horse arenas</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Indian dance--North America</term>
+<term>Indians of North America--Clothing</term>
+<term>Indians of North America</term>
+<term>Mayflower (Brig)</term>
+<term>Mexicans</term>
+<term>Orators</term>
+<term>Pilgrims (New Plymouth Colony)</term>
+<term>Prairies</term>
+<term>Sharpshooters</term>
+<term>Shooting</term>
+<term>Spectators</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Theaters--Stage setting and scenery</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+<term>Wit and humor</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11613.001"/>
+
+<head type="main">BUFFALO BILL'S "WILD WEST."</head>
+
+<p>Glasgow, in the person of several thousands of it citizens, set the seal of unqualified approval on the inaugural exhibition at "Buffalo Bill's Wild West Show" on Monday night. The appearance of the large enclosure, when the curtain rose, suggested a comparison with the Colosseum in the days when gladiators were butchered to make a Roman holiday. The presence of the Lord Provost and Magistrates in the seats of honour was sufficient guarantee that the  entertainment, however exciting and nerve-testing, would be bloodless. All were on the tiptoe of expectation at eight o'clock, as a <persName xml:id="clifford.h">member of the company</persName> announced in stentorian tones that the exhibition would begin with the introduction of the individuals and celebrities of the Wild West Show. As troop after troop of Indian braves in warpaint and feathers, hidalgos and cowboys came riding into the arena, and passed the stalls as if borne on the wings of the wind, whooping and yelling, a good idea of the nature of the entertainment to follow was afforded the great concourse of spectators. The applause was loud and long continued when Colonel Cody appeared on the scene, and led the whole cavalcade that had previously swept past in troops into the arena, the whole presenting a medley of horses and savage warriors, rushing hither and thither in the most orderly confusion. From this point onward the exhibition consisted of a series of six episodes and four overtures. In the first episode the chief features were a representation of the primeval forest of America, as it was before the white man had explored its depths, at a time when the wild beasts and the Indians contested for the mastery; the friendly meeting of two Indian tribes, and a grand palaver, concluding with a war dance to a tom-tom accompaniment, more noisy than musical. he company would fain have lingered over the second episode&#8212;a beautiful tableau representing the landing of the Pilgrim Fathers of Old England from the Mayflower on Plymouth Rock. Miss <persName xml:id="oakley.a">Annie Oakley</persName> came off with flying, or rather, shooting, honours in the first overture, her feats of skill amply maintaining the reputation the young lady has made as one of the most celebrated wing and rifle shots[.] A third episode pleased the audience greatly by reason of the introduction of a little humour into it by Jule Keen, Buffalo Bill's Dutchman; indeed, it it could be managed, the introduction of a few features of a mirth-provoking nature at various stages of the entertainment would help to relax the strain imposed by the intensely realistic character of the whole proceedings. In this episode we are introduced to the prairies in the searching noonday sun; Buffalo Bill hunts a herd of real live buffaloes; then a German emigrant train comes upon the scene; all is quiet; when in an instant the marauding Indians come rushing down on the helpless band; the cowboys arrive; serious fighting followes; Jule Keen manfully fires his horse pistol into the air, and, after the fight is over, assumes a smiling air of "Alone I repulsed the Indians," in a manner that convulses the audience. This episode closes with "the prairie fire," and we have a momentary glance at the perils the early American settlers had to dare and come through. The overture, "The Cowboy's Fun," was most exciting, the riding of the bucking horses testing the skill and pluck of the boys in a manner somewhat painful to behold, until an unusually loud peal of laughter from the boys themselves showed that it was really fun to them. The fifth episode, perhaps the finest of the series, illustrating the fall of General Custor and his men, would require the pen of an Archibald Forbes or a Charles Williams to adequately depict the situations. It must be seen to be thoroughly realised. Colonel Cody's shooting feats, and his cracking of the gigantic bull-whip, display to the full his qualities as a marksman, and his immense muscular strength. The sixth episode embraces many novel and stirring scenes, the attack on the <rs xml:id="coach.deadwood">Deadwood stage</rs> coach and the cyclone working up the feelings of the audience to the highest pitch. The response to the grand equestrian salute by the Colonel and his company at he close of the most unique exhibition ever given in Scotland was hearty and spontaneous. There can be no doubt that during the stay of the Colonel and his company in Glasgow they will make many friends, and that those who have once seen the entertainment will want to return again and take their friends and neighbours with them.  It brings life in the Wild West home to the dullest imagination.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

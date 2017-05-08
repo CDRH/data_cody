@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11610">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11610</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Wild West</title>
+<title level="j">Elgin Courant</title>
+<pubPlace>Elgin, Moray, Scotland</pubPlace>
+<date when="1891-11-20">November 20, 1891</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>collection of Tom Cunningham, 911120</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Audiences</term>
+<term>Band music</term>
+<term>Cowboys</term>
+<term>Dennistoun (Glasgow, Scotland)</term>
+<term>Exhibition buildings</term>
+<term>Firearms</term>
+<term>Frontier and pioneer life</term>
+<term>Ghost dance</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Ranching</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Sharpshooters</term>
+<term>Shooting</term>
+<term>Sioux Nation</term>
+<term>Targets (Shooting)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Short Bull, -1915</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="tc">Cunningham, Tom</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11610.001"/>
+
+<head type="main">BUFFALO BILL'S WILD WEST.</head>
+
+<p>COLONEL CODY, or Buffalo Bill as he is more familiarly termed, says a correspondent, has arrived in Glasgow with his great show, which is stationed in the late Glasgow East-End Exhibition grounds, in close proximity to Bellgrove and Duke Street Stations. On Monday evening last his world-famed show was open to the public. His arrival had been eagerly looked forward to, as a large and appreciative audience, to the number of six or seven thousand, wended their way by rail, car, and every other available source, to see the grand entertainment. Conspicuous among the audience were the Hon. The Lord Provost Mure<ref target="n01">1</ref> and Magistrates of the city. Nothing of a like nature has ever been seen in the west of Scotland. The characters in the Wild West are not of the ordinary circus type, but are real live importations, there being no less than 300 persons employed in the gigantic exhibition, including Mexican ranchers, red Indians, cowboys, scouts &amp;c. Among the performers are warriors and Indian chiefs to the number of twenty-three, including Scatter, the Prophet of the Messiah; among the Sioux Nation, <persName>Kicking Bear</persName>, the notable leader in the rebellion, and the originator of the Ghost Dance, <persName>Short Bull</persName>. Life scenes are presented in a series of six episodes, the various sections being ushered in separately, the tribes of Indians, cowboys, and Mexicans making their appearance in the arena on horseback, no less than 170 horses of various breeds forming part of the entertainment, besides a score or so buffaloes, which were captured on the boundless prairies, striking scenes presenting a true idea of life in the wild west being introduced. An important part of the entertainment is the renowned shot, Miss <persName xml:id="oakley.a">Annie Oakley</persName>, who is quite an adept with the rifle. The horsemanship of the rough riders is also to be commended. Everything appears to have been comfortably arranged for the reception of the public. In addition to the foregoing a splendid band discourses music throughout the evening. Colonel Cody, along with his partner, Mr. <persName xml:id="salsbury.n">Nate Salisbury</persName>, have spared no expense in making the entertainment worthy of the name it gets. The show is well worth a visit, and, as the various railway companies have made special arrangements for the conveyance of the public to Glasgow during Colonel Cody's visit, we expect they will avail themselves of the opportunity of visiting an exhibition that is only seen once in a life-time.</p>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Lord Provost of Glasgow from 1889-1892 was Sir John Muir (1828-1903), 1st Baronet of Deanston, a community north of Glasgow, Scotland.</note>
+</back>
+</text>
+</TEI>
