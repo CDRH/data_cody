@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Wild West Show-Coatbridge and Airdrie</title>
+<title type="main">Untitled [Cowboy Band]</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -46,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main">Wild West Show-Coatbridge and Airdrie</title>
+<title level="a" type="main">Untitled [Cowboy Band]</title>
 <title level="j">Coatbridge Express</title>
 <pubPlace>Scotland</pubPlace>
 <date when="1892-02-27">February 27, 1892</date>
@@ -81,9 +81,6 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
-</keywords>
-<keywords scheme="lcsh" n="people">
 <term>American Indians</term>
 <term>Amusements</term>
 <term>Audiences</term>
@@ -98,6 +95,9 @@
 <term>Singers</term>
 <term>Sioux Nation</term>
 <term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
