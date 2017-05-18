@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03773">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Rise and Fall of the Pony Express</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03773</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Rise and Fall of the Pony Express</title>
+<title level="a" type="sub">How the News and Mail Were First Carried Across the Continent</title>
+<title level="j">Philadelphia Inquirer</title>
+<pubPlace>Philadelphia, PA</pubPlace>
+<date when="1894-08-19">August 19, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Communication</term>
+<term>Endurance riding (Horsemanship)</term>
+<term>Hazardous occupations</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Letter carriers</term>
+<term>Mail</term>
+<term>Mining engineers</term>
+<term>Missouri River</term>
+<term>Overland journeys to the Pacific</term>
+<term>Overland Trails</term>
+<term>Pack transportation</term>
+<term>Pony Express National Historic Trail</term>
+<term>Pony express stations</term>
+<term>Pony express</term>
+<term>Railroad travel</term>
+<term>Railroads</term>
+<term>Russell, Majors and Waddell</term>
+<term>Telegraph</term>
+<term>Wagon trains</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Buchanan, James, 1791-1868</term>
+<term>Lincoln, Abraham, 1809-1865</term>
+<term>Majors, Alexander, 1814-1900</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Black Hills (S.D. and Wyo.)</term>
+<term>Denver (Colo.)</term>
+<term>California</term>
+<term>Fort Churchill (Nev.)</term>
+<term>New York (N.Y.)</term>
+<term>Omaha (Neb.)</term>
+<term>Sacramento (Calif.)</term>
+<term>Saint Joseph (Mo.)</term>
+<term>Salt Lake City (Utah)</term>
+<term>San Francisco (Calif.)</term>
+<term>Sierra Nevada (Calif. and Nev.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03773.001"/>
+
+<head type="main">The Rise and Fall of the Pony Express</head>
+
+<head type="sub">HOW THE NEWS AND MAIL WERE FIRST CARRIED ACROSS THE CONTINENT</head>
+
+<head type="sub">Thrilling Experiences of Courageous Riders Who Faced Hardships and Death for the Sake of Their Precious Pouches&#8212;Buffalo Bill's Famous Feat.</head>
+
+<byline>(Copyright, 1894. by S.S. McClure, Limited.)</byline>
+
+<div2>
+<p>In the winter of 1859-60 Senator Gwinn, of California, several money magnates of New York and Alexander Majors, one of a firm who were at that time the transportation kings on the plains west of the Missouri River, met in Washington, D. C.</p>
+
+<p>The result of that meeting was the inception of one of the most daring and romantic business ventures this country has ever known, the Pony Express, by which the time of transmitting news across the continent was reduced from twenty-one days to ten days.</p>
+
+<p>It is 3500 miles by our most direct railway route from New York to San Francisco, and it takes seven days, three hours and forty-five minutes actual time to cover the distance on our fastest express trains. In 1859 there was not a mile of railway west of the Missouri River. St. Joseph, Mo., was the western terminus of railway communication, and between that city and the young city of the Golden Gate intervened 2000 miles of wild, uninhabited country, infested by warlike Indians. Through this uninviting region led the trails over which it was proposed to ride flying ponies.</p>
+
+<p>Majors Russell and Wadell established and maintained for a number of years a fourteen days' schedule by rail and pony express between New York and San Francisco, making the trip on the running ponies from St. Joseph to Sacramento, which requires five days by rail to-day, as exactly upon the schedule time as do our mails to-day. By using the telegraph to St. Joe, and the pony express beyond, news was carried from ocean to ocean in ten days. In 1860 President James Buchanan's last message was carried into San Francisco in eight days and five hours. But even this time was bettered with President Lincoln's inaugural address, which reached the Golden Gate in seven days and fourteen hours.</p>
+</div2>
+<div2>
+<head>THE ORGANIZATION.</head>
+
+<p>Five hundred fleet-footed horses of the tough and tireless "bronco" Indian and "Cayuse" breeds were secured. Two hundred men were engaged for the service, and eighty of them were selected as riders. These latter were chosen because of their expertness in the saddle, and having the hardihood to withstand the fatigue of a gallop that at times extended into hundreds of miles straight away. They had to possess, too, the bravery to face the dangers that beset their lonely routes and the judgment that would enable them to get all the speed out of their horses that was in them and yet not overtax them. Finally they must be of a weight of 100 pounds or less. They were paid &#36;125 per month for their hard and dangerous service.</p>
+
+<p>Majors Russell and Wadell were at this time already operating a stage line from St. Joseph to Salt Lake City, and this enabled them to use the same relay stations for the pony express that served for the stage line. But beyond Salt Lake lay 800 miles of the most desolate and difficult section of desert and mountains on this continent. Here relay stations had to be built and trails made, and this was entirely in the country of hostile Indians.</p>
+
+<p>As showing the difficulties attending the establishment of this line, I will quote from an experience told by J. G. Kelly, now a mining engineer located at Denver, Col.:</p>
+
+<p>"I was a pony express rider in 1860," says Mr. Kelly, "and I can assure you that the business was not a picnic. We had to build roads along the Carson River; we used willow brush laid crossways or corduroy fashion. We had to carry these willows 200 and 300 yards in our arms, and the mosquitos would pile on us until you could not tell whether the man was white or black. They had no hesitancy about presenting their bills, either.</p>
+
+<p>"At the sink of the Carson we built a fort. There were no rocks nor logs within miles. We took mud from the shores of the lake and made adobes (sun-dried bricks). To get the mud into the proper consistency we tramped it for hours with our bare feet. The mud was strongly impregnated with alkali. You can imagine the condition of our feet at the end of a week of this mortar mixing. They swelled to twice their normal size. Before that I had always worn a number six boot, but since, number nines are a snug fit."</p>
+</div2>
+<div2>
+<head>THE FIRST DASH.</head>
+
+<p>On April 3, 1860, at high noon, the first fleet-footed pony was mounted at St. Joe, Mo., and went swiftly across the rolling prairie toward the setting sun. No record has been left of the name of the rider who made the initial dash, carried news that had come tick-ticking over the wires from the East, and was then borne as swiftly as flying hoofs could carry it, across 2000 miles of plain, mountain and desert, desert, mountain and plain, on&#8212;on&#8212;on, day and night, with only halts of two minutes each for the rider to throw himself and his precious pouch from the tired pony at the end of his dash to a fresh one.</p>
+
+<p>Each rider had six to ten relays of ponies, making his ride 60 to 100 miles, according as the country traversed was rough or smooth. Day and night the mad race went on, until at the end of 10 days a foam-flecked pony dashed up to the telegraph office in far-off Sacramento, where the news was again put on the wires and flashed down to the ocean at San Francisco. Truly it was a great enterprise, grand in conception and heroically carried out.</p>
+</div2>
+<div2>
+<head>THE VALUE OF THE EXPRESS.</head>
+
+<p>To the people who had only a decade before begun life on the far-off Pacific
+
+<pb facs="wfc.nsp03773.002"/>
+
+
+<figure><p>CHANGING HORSES.</p></figure>
+
+coast, the pony express meant more than it did to the people of the East. To them it meant the shortening of the time of transit of lagging news from their old homes over eleven days. It meant a demonstration of the practicability of a year-round route across the continent, many miles shorter than any then in existence. It was the forerunner of the telegraph and the railroad they so longed for, and both of these followed on the route of the pony express within less than a decade.</p>
+
+<p>The rider who dashed out of Sacramento, April 3, 1860, toward the east, to meet the rider who had left St. Joe the same day, was followed with more interest, and his mission was more important to the people on the coast, than that of the lonely rider flying westward to the people he was leaving behind. The trail of the rider coming eastward lay, nearly from the start, through the high passes of a snow-capped range of mountains, that had heretofore seemed to bar the direct way eastward from California's sunny valleys. Across these mountains and an almost unknown inhospitable desert lay the trail between Sacramento and Salt Lake. These pioneer riders were demonstrating an unsolved problem. For this reason the names of the hardy men who made the first ride of the pony express from Sacramento to Salt Lake have been embalmed in the history of the West. At noon, April 3, 1860, "Harry" Roff got the word "go," and was soon hidden in the cloud of dust his "Cayuse" was raising with his flying hoofs. He changed ponies once in the first twenty miles, and covered the distance in fifty-nine minutes. At the end of sixty miles, at Placerville, he turned his dispatches over to a man called "Boston."</p>
+</div2>
+<div2>
+<head>FAST TIME.</head>
+
+<p>"Boston's" route lay up and over the Sierras. He made the schedule time, and at Friday station was relieved by Sam Hamilton, who pushed on with all speed to Fort Churchill. Both Boston and Hamilton encountered very deep snow on the Sierras, yet the 183 miles from Sacramento to Fort Churchill was covered in fifteen hours, a speed of over twelve miles per hour over the hardest trail on the route, and by many thought to be wholly impassable.</p>
+
+<p>At Fort Churchill Robert Haslam ("Pony Bob"), who afterwards became one of the most noted of the pony riders, took the saddle for a dash of 120 miles to Smithcreek. This trail lay through a hostile Indian country. From Smithcreek to Ruby Valley J. G. Kelly was in the saddle. From Ruby Valley to Deep Creek, H. Richardson was the mount. From Deep Creek to Salt Lake the ride was made by George Thatcher. This was the eastern terminus of the western division, and was under the superintendance of Boliver Roberts. Salt Lake was reached on schedule time as was also St. Joe, Mo.</p>
+
+<p>The pony express was operated for over two years. At the end of that time an enterprising citizen of Omaha, Neb., Edward Creighton, completed a telegraph line across the continent, and the swift pony was superseded by the swifter lightning.</p>
+</div2>
+<div2>
+<head>FIVE DOLLARS AN OUNCE FOR EXPRESSAGE</head>
+
+<p>Messages carried by the pony express were required to be written on tissue paper, thus combining lightness and compactness. The rate charged was &#36;5 an ounce, and the weight carried each trip was limited to ten pounds. It was a losing business venture, but it opened the way for the telegraph and the railway lines.</p>
+
+<p>One of the riders of the pony express of wide fame, Colonel W. F. Cody (Buffalo Bill), then a much lighter "weight" in avoirdupois, and in fame, than he is to-day, rode a route of 116 miles over a rough and dangerous trail, through a hostile Indian country, in a section now comprised in the Black Hills region.</p>
+
+<p>On one occasion on reaching the end of his route he found the rider who should succeed him had been killed by the Indians. Young Cody was called upon to push forward on the route of the dead rider. This he did, making a ride of 384 miles without rest or stop, except the two-minute changes of horses and for his meals. He made the journey in twenty-four hours, riding an average of sixteen miles an hour, and changing horses thirty-six times. This was a wonderful ride, and is still the subject of comment among men with whom feats of skill and endurance in the saddle were every-day occurrences. </p>
+
+</div2>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

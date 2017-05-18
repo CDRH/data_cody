@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp04598">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp04598</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Wild West</title>
+<title level="a" type="sub">In It Are Rough Riders Who Charged The Spaniards Before Santiago</title>
+<title level="j">The Sun</title>
+<pubPlace>Baltimore, MD</pubPlace>
+<date when="1899-04-17">April 17, 1899</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>Artillerymen</term>
+<term>Cavalry</term>
+<term>Cossacks--Ukraine</term>
+<term>Cubans</term>
+<term>Electric lighting</term>
+<term>Filipinos</term>
+<term>Hawaiians</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Indian Territory</term>
+<term>Logistics</term>
+<term>Madison Square Garden (New York, N.Y.)</term>
+<term>Mexicans</term>
+<term>Mules</term>
+<term>Parades</term>
+<term>Patriotism</term>
+<term>Puerto Ricans</term>
+<term>San Juan Hill, Battle of, Cuba, 1898</term>
+<term>Spanish-American War, 1898</term>
+<term>Trick roping</term>
+<term>United States. Army. Volunteer Cavalry, 1st</term>
+<term>War correspondents</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Fellows, Dexter W. (Dexter William), 1871-1937</term>
+<term>Marshall, Edward, 1870-1933</term>
+<term>McGinty, Billy, 1871-1961</term>
+<term>Roosevelt, Theodore, 1858-1919</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Baltimore (Md.)</term>
+<term>Cuba</term>
+<term>Great Britain</term>
+<term>Hawaii</term>
+<term>Mexico</term>
+<term>New Mexico</term>
+<term>Oklahoma</term>
+<term>Philippines</term>
+<term>Puerto Rico</term>
+<term>Santiago de Cuba Bay (Cuba)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sbc">Buffalo Calf, Shelly</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp04598.001"/>
+
+
+<head type="main">BUFFALO BILL'S WILD WEST</head>
+
+<head type="sub">In It Are Rough Riders Who Charged The Spaniards Before Santiago.</head>
+
+<p>Buffalo Bill's Wild West show, which comes to Baltimore directly from New York, where the show closed on Saturday night, arrived in this city Saturday and yesterday, and this afternoon will begin a series of four performances.</p>
+
+<p>The show, which New York has proclaimed to be the best that Buffalo Bill has ever given, will be held on the York road lot, opposite Oxford avenue. This is the lot upon which the Baltimore Baseball Club had its grounds several years ago.</p>
+
+<p>The first performance will be given this afternoon at 2 o'clock and the second tonight at 8. Tomorrow two performances will be given, one in the afternoon and one in the evening, at the same times. This morning a street parade will be held, in which some of the most interesting men in the troupe will ride.</p>
+
+<p>The start will be made at 9:30 A.M., leaving the grounds, York road and Oxford avenue. The route is: York road to Greenmount avenue, to Forrest street, to Hillen, to Rodgers avenue, to Gay street, to Broadway, to Baltimore street, to Eutaw, to Madison, to Charles, to Mt. Royal avenue, to St. Paul street, to North avenue, to York road, to the camp grounds.</p>
+
+<p>It may be well to refer to some of the features of the show. In the first place there are several of Roosevelt's Rough Riders who fought in the battle of San Juan Hill, outside of Santiago, and all of whom are vouched for by Colonel Roosevelt&#8212;now Governor Roosevelt, of New York. Chief among these, in public interest, are Privates Isabel and <persName xml:id="mcginty.w">McGinty</persName>. Speaking of these men in a letter written to Colonel Cody (Buffalo Bill) by Governor Roosevelt, the latter said: "They are thoroughly good men. I am glad you have them with you."</p>
+
+<p>Isabel is the man who fired the first shot when the Rough Riders were going to the front through the jungle. The Americans were under fire, but they could not see the Spaniards. Isabel's Indian-Territory eagle eye was the first to spy one of them. He dropped to his knee, took aim and fired. There was a sudden death among the Spaniards. Isabel was wounded seven times in the next few minutes. Five seconds after he dropped Captain Capron was killed.</p>
+
+<p>Private Muxlow, another Rough Rider who is with the troupe, is one of those who helped Edward Marshall, the correspondent of a New York newspaper, from the field after Marshall had been seriously injured. Marshall and Muxlow met a few nights ago at the Madison Square Garden, New York, and the meeting brought tears to the eyes of all who saw it.</p>
+
+<p>Among the others who fought at Santiago and who are in Buffalo Bill's show are several Untied St[a]tes cavalrymen and artillerymen. There is also a detachment of real "rough riding" Englishmen, and also some Cossacks, representing Russia. A feature of the performance, and also of the parade, will be the introduction of people from all of Uncle Sam's new provinces-Cuba, Porto Rico. Hawaii and the Philippines. Mexico furnishes a large contingent, led by Orepezo, the "King of Lariat Throwers."</p>
+ 
+<p>The charge up San Juan Hill, as portrayed by the Rough Riders and others, is said to be astonishing. In New York it excited tremendous patriotic enthusiasm. Major <persName xml:id="burke.j">Burke</persName>, one of Buffalo Bill's right-hand men, personally secured the Rough Riders by traveling through Oklahoma, New Mexico and the Indian Territory. Finally, he engaged his men and sent his list to Colonel Roosevelt, who marked them all "O.K."</p>
+ 
+<p>The baggage, seats and seat coverings of the show arrived in Baltimore Saturday and the performers, of whom there are 600, yesterday. There are also 600 horses and mules carried by the show, and several buffalos. The company carries its own electric light plant, and all the performers are fed at the groundls, 1,800 meals a day being served. The Indians camp upon the grounds.</p>
+
+<p>Colonel Cody will appear at every performance. He is registered at the Stafford. Major Burke and Mr. Dexter W. Fellows,<!--LINK--> the press agent, are at the Rennert.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

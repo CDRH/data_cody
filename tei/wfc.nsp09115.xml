@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp09115">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West Camp</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp09115</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Wild West Camp</title>
+<title level="a" type="sub">Where 500 Strange People Dwell in Comfort and Harmony</title>
+<title level="j">New York Sun</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-05-13">May 13, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Acrobats</term>
+<term>American Indians</term>
+<term>American</term>
+<term>Ammunition</term>
+<term>Arabs</term>
+<term>Armies</term>
+<term>Band musicians</term>
+<term>Bedouins</term>
+<term>British</term>
+<term>Cartridges</term>
+<term>Caterers and catering</term>
+<term>Cavalry drill and tactics</term>
+<term>Cavalry horses</term>
+<term>Cavalry</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Dialects</term>
+<term>Dinners and dining</term>
+<term>Dragoons</term>
+<term>Ethnic costume</term>
+<term>Ethnology</term>
+<term>Europeans</term>
+<term>Firearms</term>
+<term>France. Arm&#233;e</term>
+<term>French</term>
+<term>German language</term>
+<term>Germany. Heer</term>
+<term>Great Britain. Army</term>
+<term>Historical reenactments</term>
+<term>Horse arenas</term>
+<term>Horse sports</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indian children</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Language and languages</term>
+<term>Mexicans</term>
+<term>Military men</term>
+<term>Military uniforms</term>
+<term>Orators</term>
+<term>Pistols</term>
+<term>Rifles</term>
+<term>Russian language</term>
+<term>Saddlery</term>
+<term>Sharpshooters</term>
+<term>Shooting contests</term>
+<term>Spanish language</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Tents</term>
+<term>Tipis</term>
+<term>Translators</term>
+<term>Trick roping</term>
+<term>Turkish language</term>
+<term>United States. Army. Cavalry, 7th</term>
+<term>Wild horses</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Butler, Frank E., 1852?-1926</term>
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Nelson, John Young, 1826-</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+<term>Chicago (Ill.)</term>
+<term>Deadwood (S.D.)</term>
+<term>London (England)</term>
+<term>New York (N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp09115.001"/>
+
+<head type="main">THE WILD WEST CAMP.</head>
+
+<head type="sub">WHERE 500 STRANGE PEOPLE DWELL IN COMFORT AND HARMONY.</head>
+
+<head type="sub">How They Rehearsed for Buffalo Bill's Show&#8212;A Reckless, Hardy Lot of Rough Riders Who Live in South Brooklyn's Tent City&#8212;A Babel in a Dining Room.</head>
+
+<p>"Five hundred men and every one a character" is the description some one gave of the performers in the Wild West show, which opened in <rs xml:id="park.ambrose">South Brooklyn</rs> yesterday.</p>
+
+<p>To tell this story about the Indians, cowboys, Mexicans, and European rough riders, who make up the small army encamped on the grounds of the show, a SUN reporter passed a day with them; watched their morning and afternoon rehearsals; took midday dinner with them; visited Indians, Cossacks, Bedouins, cavalrymen, and cowboys in their tents; roamed through the stables of 400 horses;
+
+<figure n="illustration"><p>AN ABORIGINAL TEA PARTY.</p></figure>
+
+watched the ammunition men at work, by whom 2,000 cartridges for rifles and pistols are daily made; and saw a little of the administration department wherein this most curious enterprise is directed, held together, and operated.</p>
+
+<p>The morning rehearsals were from 9 to 12, the afternoon from 2 to 5 o'clock, and during those six hours Col. Cody, the only Buffalo Bill, was in the saddle, riding hard, directing and drilling, and always surrounded by a dozen interpreters, for it takes that many to convey the orders to the performers of as many different nationalities.</p>
+
+<p>Although not so brilliant, the costumes of the performers at rehearsals are even more picturesque than their full dress. Four of the companies of cavalry, the American, English, German, and French, do their rehearsal work in a most disreputable array of mismated odds and ends. The Americans, from the Seventh
+
+<figure n="illustration"><p>INDIAN CHIEFS.</p></figure>
+
+Cavalry. Custer's regiment, appear for rehearsal in as many varieties of hats and caps as there are men in the command. Some wear old military jackets, some sweaters, some wear nothing over their blue shirts, and some wear canvas stable jackets. The Germans make an attempt at a partial uniform, nearly all wearing white peakless caps and white jackets at rehearsals; the English are as bad as the Americans, and most of the French wear the ridiculous red caps with enormous peaks, and some wear old red army trousers. The Cossacks are always in uniform, but the Arabs seem to strive to put on as many mismated pieces of clothing as their tents afford. The Mexicans are in uniform only as to the impressive size of their hats and the tightness of their trousers.</p>
+
+<pb facs="wfc.nsp09115.002"/>
+
+
+<p>With the big arena filled with hundreds of men in such costumes, some thundering man&#339;vre will suddenly be stopped by Col. Cody, and the Captains of the different commands will gather around the leader while instructions will be patiently explained in a half dozen Indian dialects, in Russian, French, German, Spanish, Turkish, and as many more languages, and another start will be made.</p>
+
+<p>Between the hours of regular rehearsals the big arena, although not so crowded, is yet always lively. The champion "roper" (lariat handler) of Mexico is making his rope describe all sorts of serpentine circles in the air; Arab boys like water spiders are darting about on hands and feet or wholly in the air; a slouchy-looking Bedouin is patiently piling fourteen men aloft and holding them there, and a French cavalryman darts on horseback into the ring, "bustling," as it is called, some horse that has displayed too lively a disposition at rehearsals. Up in the band stand thirty-five musicians in
+
+<figure n="illustration"><p>THE CAVALRY PARADE.</p></figure>
+
+shirtsleeves are blowing away at practice, and in one corner of the arena some cowboys are practicing solo tricks, picking up objects from the ground while at full speed, and the like.</p>
+
+<p>The great amount of rehearsal was necessary because in nearly every command there are a majority of new recruits who have had to be taught the numerous and in some cases complicated movements. No more than 25 per cent. of the performers who were with the show in Chicago were reengaged for the New York season, and the total number of performers has been greatly increased. The changes in the individuals composing the big company have been made always with the view to securing better material, and from the riding and special acts which THE SUN man saw at the rehearsal which he was able to compare with the Chicago show, the object in view has been attained.</p>
+
+<p>Except during the rehearsal hours the 500 people gathered from the four corners of the globe&#8212;by the way, there is one South Sea Islander&#8212;have been busy making their canvas houses comfortable and convenient. The show is run by a company, and that company is inclined to be liberal in the matter of supplying the performers with materials for their comfort. The first thing the German soldiers asked for was lumber for lattice arbors, and now in front of every German's tent there is an arbor in place, and vines and roses planted.</p>
+
+<p>The Germans are the best housekeepers on the grounds. The interiors of their big circular tents make one wish for a summer camping experience. On the centre table the metal
+
+<figure n="illustration"><p>A COSSACK CAVALRYMAN.</p></figure>
+
+helmet and cuirass of each inmate of the tent rest in gleaming readiness for the performance. The other portions of the showy uniforms are hanging near by. At a smaller table there are a few books, a pack of cards, and some writing materials, all in admirable order. The trunks of the tent holders are spread over with some cheap but attractive material and utilized as settees. The board floor of the tent is scrubbed and dusted, and the beds
+
+<pb facs="wfc.nsp09115.003"/>
+
+would make the reputation of a chambermaid. The economy of space observed is remarkable, for with four men in a tent, each with a cot bed, there seems to be all the room required for convenience or comfort.</p>
+
+<p>The first thing the Mexicans did was to have benches built on the north side of their tents, and there, in the shade, they loll and smoke cigarettes, never thinking of entering their tents except to dress and to sleep.</p>
+
+<p>The Indians have their tepees after their own fashion, and although they are very picturesque to look at they are cheerless and uncomfortable living places. The Indians seem to have no idea of comfort.</p>
+
+<p>The only concession they have made to civilized prejudices is to consent to have their tepees floored. But even then there is an iron-lined square opening in the centre of the floor, where, on the earth, they build camp fires on chilly evenings, letting the smoke find a way out the best it can. In the Indian tepees the most characteristic thing is the pots and
+
+<figure n="illustration"><p>AN ARAB SHEIK.</p></figure>
+
+pans of war paint. All of their face paints they make themselves, most of them from clay and other minerals. They use some vegetable colorings. THE SUN man, who visited the Indians with an interpreter, tried diligently to learn how the colors were made, as they are vividly brilliant, but the Indians were uncommunicative on the subject.</p>
+
+<p>An interesting tent is that occupied by <persName xml:id="whittaker.m">"Mother" Whittaker</persName>.<!--LINK--> She is the mother of the camp, and has been for years. On the pay roll she is probably described as general housekeeper, but she is more than that. If any one has an ill or ache or hurt, whether it is the grizzled old scout, <persName xml:id="nelson.j">Nelson</persName>, or a nursing papoose, "Mother" is sent for at once, and cures the evil unless it is so serious that the camp surgeon must be called in.</p>
+
+<p>If an Irish Dragoon has a vague longing for higher art in the way of a tent curtain he consults with Mother, and a Bedouin who tries to sew with the wrong end of a Yankee needle has his pricked fingers bound up by Mother, who gives him a few easy lessons in sewing. In her tent are herbs and bottles of ointments, thread and needles, Bibles, buttons,
+
+<figure n="illustration"><p>INDIAN BOY AND MUSICIANS.</p></figure>
+
+goodies for the children, and, when she is there, an abundance of good advice.</p>
+
+<p>There are two big tents for Col. Cody and <persName xml:id="salsbury.n">Nate Salsbury</persName>, and opposite them a dainty little tent for <persName xml:id="oakley.a">Annie Oakley</persName>. That young sharpshooter, who in private life is Mrs. Frank Butler, lives in a flat near by, but confesses that her most comfortable hours are those passed in her carpeted tent. She, too, has been busy rehearsing. She recently made a new world's record in breaking 100 balls. From three traps, sixteen-yards rise, loading her own guns, she broke 100 balls in 6 minutes and 32 seconds.</p>
+
+<p>The previous world's record, under the same conditions, was 7 minutes 40 seconds.</p>
+
+<p>Paths have been laid out making all the tent grounds accessible to visitors, and flowers, trees, and sward have added to the beauty of the little city.</p>
+
+<p>Two big dining rooms and two kitchens furnish the performers their meals. Breakfast from 7 to 8:30 o'clock, dinner from 12 to 1:30, and supper from 5 to 6:30 are supplied for 500 persons, and the meals are excellent in material and cooking. At meal time the dining room is a Babel. The different nationalities
+
+<figure n="illustration"><p>MEXICAN COWBOY.</p></figure>
+
+<pb facs="wfc.nsp09115.004"/>
+
+sit at different tables, but the tables are close together, and one standing in the centre of the room can hear lively conversation in a dozen different languages. The eighty Indians have a separate dining room. They just eat and say nothing.</p>
+
+<p>The riders are not required, as cavalrymen in the army are, to care for their own horses. Having two hard performances a day, they are relieved from all other work, and the horses are cared for by a large stable gang.</p>
+
+<p>Nearly all the horses are tough little animals from the plains, and many of them are unbroken. These are used in the cowboy sports. One of the cowboys, Johnny France, was mounted on an unbroken broncho after rehearsal the other day, and one of the other cowboys drawled out: "Make him jump the hurdle, Johnny."</p>
+
+<p>The hurdle was set, and after a lively amount of fussing and bucking Johnny induced his woolly little beast to make a dash at it. Horse and rider shot up in the air and turned completely over. After striking the ground they rolled over, it seemed to the writer, four or five times. Then Johnny got up and yelled "Hi, yi!" He was cut and bruised and bleeding, but he just sang "Hi, yi!" as he led his limping horse out to the stable yard, where he played the hose on him. The other cowboys looked as if they envied Johnny.</p>
+
+<p>Although not required to go to the stables, except at mounting time, the Mexicans cannot
+
+<figure n="illustration"><p>MEMBERS OF THE SHOW.</p></figure>
+
+be kept away from there. Not that they care for their horses, for they seem not to care at all, but they will handle their saddles and bridles lovingly for hours at a time.</p>
+
+<p>The Indians seem to care very little for their ponies, and as they have no saddles and always take their bridles to their tents with them, the stables have no attractions for them.</p>
+
+<p>Here is a story about the Indian character which suggests that their indifference to all things is more apparent than real. Each tribe and chief in the first entrance is announced by Mr. McCarthy, the "Orator" of the show. He was diligently conning the names of the new chiefs when a SUN man met him. "Sometimes," he said, "I forget or mix up the long jaw-breaking name of a chief, but that has never yet occurred that I have not been promptly called down for it."</p>
+
+<p>"By Col. Cody?" the reporter asked.</p>
+
+<p>"Not at all. By the chief whose name I have slighted or mispronounced. He promptly sends the interpreter to me to register a kick.
+
+<pb facs="wfc.nsp09115.005"/>
+
+They are very proud of their introductions, and insist upon their being made properly.</p>
+
+<p>Mr. Haller, who for years has had charge of the ushering and policing of the wild west audiences, says that a performance never passes that he is not asked a hundred times if the Indians are "real." "I know perfectly well," Mr. Haller said, "that lots of people believe our Indians are stage Indians."</p>
+
+<p>Jack Burke, who drives the <rs xml:id="coach.deadwood">Deadwood Coach</rs> in the show, and is proud of the number of lord chaps who rode with him in London, has only five of his famous mule team this year. One of the leaders "went to pieces," after its Chicago experience, and a new leader has been put in its place. On that account there has been more than the usual amount of rehearsal of the stage coach attack and defence act. This pleases the Indians and cowboys. There is no doubt that they gloriously like that rattling, yelling, whooping, shooting dash. While this act was being rehearsed the day THE SUN man visited the camp the Bedouins and Cossacks saw it for the first time. The Cossacks regarded it unmoved, stonily, and made no comments. The Bedouins appeared to be on the verge of insanity from their excitement over the act. Ethnology can be studied to advantage there.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

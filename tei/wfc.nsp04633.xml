@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp04633">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Bill" Cody's Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp04633</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"Bill" Cody's Show</title>
+<title level="a" type="sub">An Enormous Crowd Attends The Performance</title>
+<title level="j">Wilkes-Barre Times</title>
+<pubPlace>Wilkes-Barre, PA</pubPlace>
+<date when="1899-05-19">May 19, 1899</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Audiences</term>
+<term>Cavalry drill and tactics</term>
+<term>Cavalry horses</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Cubans</term>
+<term>Firearms</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Military campaigns</term>
+<term>Military men</term>
+<term>Pack animals (Transportation)</term>
+<term>Parades</term>
+<term>Patriotic music</term>
+<term>San Juan Hill, Battle of, Cuba, 1898</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Shooting</term>
+<term>Spanish-American War, 1898</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army--African American troops</term>
+<term>United States. Army. Field Artillery</term>
+<term>United States. Army. Infantry</term>
+<term>United States. Army. Volunteer Cavalry, 1st. </term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Fellows, Dexter W. (Dexter William), 1871-1937</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Santiago de Cuba Bay (Cuba)</term>
+<term>Wilkes-Barre (Pa.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="rk">Klein, Rebecca</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp04633.001"/>
+
+
+<head type="main">"BILL CODY'S SHOW.</head>
+
+<head type="sub">AN ENORMOUS CROWD ATTENDS THE PERFORMANCE.</head>
+
+<head type="sub">Buffalo Bill's Shooting, the Customary Rough Riding Cavalry, Manoeuvres, Riding of Bronchos, and the Battle of San Jaun Hill Throughly Enjoyed.</head>
+
+<div2>
+<p>This is "Cody Day," the one day above all days in the year when it is a hard proposition to keep factories, mines, breakers and all the other various industries of a hustling and progressive city in operation. Early this morning the famous show arrived from Williamsport and had hardly reached the city when customary large delegations from the country began to come in. Before 9 o'clock the streets were crowded and when the parade made its appearance the sidewalks were simply packed by the thousands of admirers of Buffalo Bill and his famous Wild West show. Of course there's a big crowd at the show this afternoon&#8212;a crowd which inspires delight in the hearts of the showman, especially such showmen as "Bill" Cody, <persName xml:id="salsbury.n">"Nate" Salsbury</persName>, Frank O Donnell, Major <persName xml:id="burke.j">Burke</persName>, "Jule" Keen, Dexter Fellows<!--LINK--> and the rest of this interesting bunch of men who emigrate to a new balliwick every day and carry a city of frontier character with them wherever they go.</p>
+</div2>
+<div2>
+<head>THE PARADE</head>
+
+<p>The parade this morning was one of the most unique and picturesque yet seen in the city. The cowboys, the United States artillery, the Kossacks and above all the heroes of the Santiago fight, "Tom" Isabel especially, came in for their share of applause. Col. Cody, of course, was the prime feature of the parade. A noble and handsome looking fellow is Buffalo Bill and it was but natural that he received the most enthusiastic plaudits from the admiring populace all along the route.</p>
+</div2>
+<div2>
+<head>UP SAN JUAN HILL.</head>
+
+<p>The events associated with the battle of San Juan were very realistically reproduced. There were two scenes in the first of which the bivouac of the troops on the road to San Juan Hill the night before the battle was shown. The invading American forces, composed of the artillery representing Grimes' Battery, the mule pack train carrying ammunition, the colored regulars, Roosevelt's Rough Riders, the Seventy-first Infantry, the Cuban scouts and guides, were seen at sunset at the conclusion of a desperately hard day's march over apparently rough and jungle-choked trails, under blistering rays of a tropical sun, moving into the encampment selected for a resting place on the night preceding the morrow's grim work. The various commands take up the positions assigned them and to the spectator the bivouac presents a most warlike and novel scene of disciplines bustle and preparation.</p>
+</div2>
+<div2>
+<head>A REALISTIC SCENE.</head>
+
+<p>The sentries were posted, the tired animals unloaded unharnessed and picketed, the weary soldier boys gladly obey the order to stack arms, and, relieved of their haversacks and cumbersome accoutrements, lull and lie around in groups, while the camp fires are lighted and the preparations for the evening meal are quickly made. The coffee and hardtack disposed of and the hard hand of discipline temporarily relaxed they indulge in an al fresco "smoker," and forget their toils and danger in a story, song and jest, the familiar songs and patriotic anthems of home are chorused in melodious and stentorian tones from hundreds of throats wafted toward doomed Santiago on the balmy wings of the night winds, and sounding singular and solemn on that vast natural stage, heretofore a stranger to the exultant notes of freedoms sons. Night creeps on more stealthily than a Spanish guerilla through the dense encircling foliage, until taps give warning that the hour for sleep and silence has struck. Soon the entire command with the exception of the watchful outposts, reclining on mother earth's broad bosom, and canopied by the starry heavens, is wrapped in merciful oblivion or beguiled by dreams of distant loved ones. At length the sharp rattle of the reveille arouses the camp to preparation on the onward march, and the scene closes with the advance of the army toward the stronghold of San Juan.</p>
+
+<p>The second scene reveals the regiments already named, massed in the forks of the trail at the foot of San Juan hill a most exact and effective representation and reproduction of which is introduced showing the blockhouse, the breastworks the rifle pits, and the natural and apparently insurmountable difficulties our soldiers were obliged to encounter to overcome in their final and victorious assault. From the fancied impregnability of their position, the superior Spanish force is seen pouring an incessant torrent of shrapnel and Mauser bullets into our exposed ranks which choke up the narrow trail behind, beyond the hope of extrication and apparently beyond the possibility of escape. It is an hour of supreme trial and agony, in a veritable hell pit and snare.</p>
+</div2>
+<div2>
+<head>A SPIRITED BATTLE PICTURE</head>
+
+<p>Retreat they cannot to remain is destruction and to advance according to all precedent and estimation, but speedier annihilation. But casting theories, dictums and doubts to the winds, contemptuously fearless of conspicuous exposure, with splendid intrepidity, assuming and diving that what must be done can be done a horseman wearing the uniform of Rough Riders presses to the foot of the death-swept hill and, calling upon the men to follow him, rides straight up to the fortressed foe. There is a frantic yell of admiration and approval as the soldiers spring from their cowering position of utter helplessness and follow him and the flag. The Spaniards cannot believe that such a small force would dare an assault so forlorn of all hope. They erroneously infer that an army is charging close behind it, and as it breathlessly comes closely on for a hand-to-hand grapple, they pale, they flinch, and at last turn and fly in panic. Their gold and crimson emblem of ruthless oppression is torn from the ramparts and Old Glory streams on the breeze&#8212;triumphant in its place&#8212;their defenses are turned against themselves, and Santiago is doomed.</p>
+
+<p>The entire six hundred members of the organization under the direction of Col. Cody took part in this most vivid and realistic reproduction of the most immortal charge. Many of those in the exhibition were present at the battle, and many of them bear marks of the wounds that they received in the heroic event. The show was a great one&#8212;the finest yet given in this city&#8212;and will be repeated, rain or shine, this evening.</p>
+
+</div2>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

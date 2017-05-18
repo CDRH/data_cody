@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03727">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03727</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Risdell, J. H.</author>
+<title level="a" type="main">Buffalo Bill</title>
+<title level="a" type="sub">William F. Cody's Name and Fame Were Honestly Won</title>
+<title level="j">Columbus Daily Enquirer</title>
+<pubPlace>Columbus, GA</pubPlace>
+<date when="1894-03-04">March 4, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>American bison</term>
+<term>Hand-to-hand fighting</term>
+<term>Melodrama, American</term>
+<term>Nobility--Russia</term>
+<term>Shooting</term>
+<term>Taxidermy</term>
+<term>Tickets</term>
+<term>Traveling theater</term>
+<term>Ward's Natural Science Establishment, Inc.</term>
+<term>Wild west shows</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Alekse&#301; Aleksandrovich, Grand Duke of Russia, 1850-1908</term>
+<term>Buntline, Ned, 1822 or 1823-1886</term>
+<term>Omohundro, John Burwell, 1846-1880</term>
+<term>Ward, Henry A. (Henry Augustus), 1834-1906</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Nebraska</term>
+<term>Russia</term>
+<term>Washington (D.C.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03727.001"/>
+
+<head type="main">BUFFALO BILL.</head>
+
+<head type="sub">William F. Cody's Name and Fame Were Honestly Won.</head>
+
+<byline>[Special Correspondence.]</byline>
+
+<p>ST. LOUIS, March 1.&#8212;"I was greatly interested in reading," said a man at one of the hotels this morning, "that W. F. Cody, otherwise known as Buffalo Bill, does not wish to write 'governor of Nebraska' after his name. I was also greatly interested in reading of the way he floored that fellow May<ref target="n01">1</ref> in Washington. I'm glad his advancing years have not yet weakened his muscles or his nerve.</p>
+
+<p>"Cody was always quick to act, but few persons ever found any cause for quarreling with him. Some years ago there was a good deal of discussion as to his right to the title of Buffalo Bill. I believe it was shown conclusively that another man was called Buffalo Bill before Cody, but I never could understand how that made it a crime for him to be also called by that nickname. Cody's early fame was genuinely won on the plains in the old days when there were buffalo. He was a figure in the eastern and European prints for the first time nearly 22 years ago, when he was engaged to show the Grand Duke Alexis of Russia, then paying a friendly visit to Uncle Sam's farm, how to shoot and ride l'Americaine.</p>
+
+<p>"Cody had not more than finished with the Russian when along came a scientist named Ward, from one of the minor eastern colleges, who engaged the hunter to help in getting some specimens of buffalo to be mounted for a natural history museum. Ward liked Cody so well that he invited him to make a visit to the east. Cody accepted and met, as a guest at the professor's house, Ned Buntline, who had a play called 'Western Life,' in which he persuaded Cody to act the part of Texas Jack.</p>
+
+<p>"It was some years after that when Cody got up his first wild west show. Summers he used to go back to the plains; winters he would play. As he began to make money he came to have an almost superstitious affection for the town in which he first met Buntline. While playing in that city he would make it a point to see that the members of his company had unusual facilities for enjoying life, and these facilities he extended to himself right liberally. He had a horror of a half filled theater there, and if he found the sale running light he would always hasten to 'paper' the house with free tickets. Even if sales were good he was always unusually free with passes there. On one occasion he issued a pass in response to a request for a single ticket that has probably never been matched for comprehensiveness, it read: 'Admit bearer and party. W.F. Cody.' The man who got it hunted up every acquaintance he had in town and marched 21 men in a body to the box office. And they all went in too."</p>
+
+<p>J. H. RISDELL.</p>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Frederick May was bested by William F. Cody in a fistfight in Washington, D.C., February 17, 1894, over an incident that occurred several years before; accounts differ as to which man was the aggressor.</note>
+</back>
+</text>
+</TEI>

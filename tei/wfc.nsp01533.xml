@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01533">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill at Ambrose Park</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01533</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill at Ambrose Park</title>
+<title level="a" type="sub">Admirable Performance and Finest Weather</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-08-05">August 5, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Amusements</term>
+<term>Arabs</term>
+<term>Cavalry drill and tactics</term>
+<term>Cavalry</term>
+<term>Cowboys</term>
+<term>France</term>
+<term>Gauchos</term>
+<term>Grounds maintenance</term>
+<term>Horsemen and horsewomen</term>
+<term>Indians of North America</term>
+<term>Logistics</term>
+<term>Military maneuvers</term>
+<term>Rifs (Berber people)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>South America</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name>Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01533.001"/>
+
+
+<head type="main">BUFFALO BILL AT AMBROSE PARK.</head>
+
+<head type="sub">Admirable Performance and Finest Weather.</head>
+
+<p>Never before has this section of the country been treated to such an entertainment as Col. Cody and his Congress of Rough Riders of the World are giving at <rs type="park.ambrose">Ambrose Park</rs>, South Brooklyn. Two performances are given every day, rain or shine, at 3 and 8:15 P. M. Ambrose Park is situated directly on the bay, within twenty minutes' ride from the Battery, and those who visited the park during the hot spell can testify as to how cool it has been there, while over in the city it has been almost too hot to venture into the street. Added to the fact that the park is naturally cool on account of its being so close to the bay, it is carefully looked after by Superintendent Parker, who sees that the grounds and arena are watered twice a day, before and after the afternoon performance; as a consequence it cannot fail to be cool. Everything possible is done to look after the comfort of those visiting the Wild West, and when, in the fearful hot weather that we have been having, the people of Greater New-York are able to find a nice cool spot within twenty minutes' or a half hour's ride of their home, they should ask for little else. The performance goes on as smoothly as possible and there is nothing in the entertainment but what will please even the most exacting critic. Such a performance has never been seen here before and is not likely to be seen here again. We would therefore advise, those who have not yet seen Buffalo Bill and his Congress of Rough Riders of the World to make an early trip over to Ambrose Park and see for themselves what a wonderful entertainment is being provided. The performance opens with a grand military review, in which are seen the cavalry representatives from Germany, France, Great Britain, the United States, Indians, Mexicans, cowboys, South American gauchos, Riffian Arabs, and the representatives of almost every other nation on the face of the globe, and, from the beginning to the end, there is not a single number but seems to be better than that which preceded it.
+</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

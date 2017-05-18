@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp04599">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Rough Riders Did Well</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp04599</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Rough Riders Did Well</title>
+<title level="a" type="sub">United States Cavalrymen Easily the Leaders in Buffalo Bill's Congress</title>
+<title level="j">The Sun</title>
+<pubPlace>Baltimore, MD</pubPlace>
+<date when="1899-04-18">April 18, 1899</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Acrobats</term>
+<term>American bison hunting</term>
+<term>American Indians</term>
+<term>Arabs</term>
+<term>Audiences</term>
+<term>Band music</term>
+<term>Cavalry</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Cubans</term>
+<term>Filipinos</term>
+<term>Firearms</term>
+<term>Flags--United States</term>
+<term>Great Britain. Army. Queen's Lancers, 16th</term>
+<term>Hawaiians</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Military men</term>
+<term>Parades</term>
+<term>Patriotic music</term>
+<term>Patriotism</term>
+<term>Puerto Ricans</term>
+<term>San Juan Hill, Battle of, Cuba, 1898</term>
+<term>Shooting</term>
+<term>Spanish-American War, 1898</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+<term>United States. Army. Cavalry, 6th</term>
+<term>United States. Army. Volunteer Cavalry, 1st</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Roosevelt, Theodore, 1858-1919</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Baltimore (Md.)</term>
+<term>Germany</term>
+<term>Santiago de Cuba Bay (Cuba)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sbc">Buffalo Calf, Shelly</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp04599.001"/>
+
+<head type="main">ROUGH RIDERS DID WELL</head>
+
+<head type="sub">United States Cavalrymen Easily The Leaders In Buffalo Bill's Congress.</head>
+
+<p>Not less than thirty thousand Baltimoreans saw the two performances which were given yesterday afternoon and last night at the grounds on the York road, opposite Oxford avenue, by Buffalo Bill's Congress of Rough Riders of the World and his Wild West show.</p>
+
+<p>The Congress of Rough Riders does not come first upon the program, but it comes first here, because, with the reproduction of the battle of San Juan Hill, in which a number of original Rough Riders take part, the horsemanship and riding of the men whom Colonel Cody has gathered about him is really the best part of the show.</p>
+
+<p>As far as the term Wild West is concerned, Colonel Cody's exhibition has branched out to such an extent that Wild West doesn't stand responsible for it. It might as well be the Wild East as the Wild West, for there are in the troupe of six hundred Filipinos and Hawaiians, so that the scope of the show really extends all around the world. It was Colonel Cody's desire to show citizens of the United States what the inhabitants of their new colonies looked like that makes this statement possible. There are also Cubans and Porto Ricans with the "expedition," if it might be so called, and so all of the new provinces are thus represented.</p>
+
+<p>"The Rough Riders of the World." There is a wealth of meaning in the expression and a wealth of instruction for anyone who goes to see them perform. Naturally, first of all, come our own Rough Riders, of Santiago fame, who are the "real thing," vouched for by Colonel Roosevelt. They take part in the general review of all the Rough Riders before the audience, and they also participate in a very realistic counterfeit of the fight at the San Juan blockhouse.</p>
+
+<p>Patriotic enthusiasm ran rampant yesterday afternoon and last night when the American troops, yelling like tigers first, and cheering like victors afterward, stormed the heights, pulled down the yellow flag of Castile, and hoisted the gleaming stars and stripes upon the flagpole.</p>
+
+<p>The bivouac of the American troops, on their march to San Juan, was almost as impressive. The sky-larking, devil-may-care, not-afraid-of-anything air of the soldiers, was excellently portrayed, and the enthusiasm was intense when the now historic "There'll Be A Hot Time In the Old Town Tonight" was struck up in chorus as the men began to move forward-some to victory, some to death.</p>
+
+<p>As for the rest of the show, saving the two innovations already referred to, it is Buffalo Bill's Wild West, which has always been good. There are some real English cavalrymen who ride well-some of the "Queen's Own" Regiment-and some real Germans, and some real Cossacks. They all know how to ride, but the real riding does not begin until the American cowboys, the American Indians, and Roosevelt's Rough Riders show how they can sit a horse. But, best of all, excepting nobody, is the exhibition given by a detachment of the Sixth United States Cavalry, who ride bareback, with their shoes on, and stand upon and control the three or four horses which they are assigned to far better than the average circus performer does, who has his horse's back and his own stockings spread with rosin. These gallant boys in blue are "simply great."</p>
+
+<p>The rifle shooting by Miss <persName xml:id="oakley.a">Annie Oakley</persName> and <persName xml:id="baker.l">Johnny Baker</persName> and "Bill" himself was quite up to their usual standard. The Buffalo hunt and the attack upon the stage coach by Indians was also given. It is well remembered. The Arabs excelled in gymnastic feats, and the whole show, both old and new, is well worth seeing.</p>
+
+<p>A street parade was given yesterday morning, which thousands of persons witnessed.</p>
+
+<p>Two performances will be given today and the show will then move on to Washington.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

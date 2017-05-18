@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01504">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Daring Feats by Horsemen</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01504</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Daring Feats by Horsemen</title>
+<title level="a" type="sub">Some of the Remarkable Features of the Wild West Show</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-05-10">May 10, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Arabs</term>
+<term>Armies</term>
+<term>Bedouins</term>
+<term>Cavalry horses</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Ferries</term>
+<term>France. Arm&#233;e de terre. R&#233;giment de cuirassiers, 11e</term>
+<term>Gauchos</term>
+<term>Germany. Heer</term>
+<term>Grandstands</term>
+<term>Great Britain. Army. Royal Irish Lancers, 5th</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Hussars</term>
+<term>Indians of North America</term>
+<term>Lancers</term>
+<term>Llano Estacado</term>
+<term>Logistics</term>
+<term>Mexicans</term>
+<term>Military men</term>
+<term>Show riders</term>
+<term>Traveling exhibitions</term>
+<term>Trick roping</term>
+<term>United States. Army--African American troops</term>
+<term>United States. Army. Cavalry, 10th</term>
+<term>United States. Army. Cavalry, 9th</term>
+<term>Wild horses</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+<term>France</term>
+<term>Pampas (Argentina)</term>
+<term>Staten Island (New York, N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01504.001"/>
+
+<head type="main">DARING FEATS BY HORSEMEN.</head>
+
+<head type="sub">Some of the Remarkable Features of the Wild West Show.</head>
+
+<p>Col. William F. Cody, better known to the general public as Buffalo Bill, entertained a party of visitors with a private rehearsal of his Wild West Show, at <rs xml:id="park.a">Ambrose Park</rs>, South Brooklyn, yesterday afternoon. Previous to the rehearsal the visitors were escorted through the grounds where the various tribes of Indians, in their highly-decorated tepees; the French, German, Irish, and American soldiers; the Cossacks, American cowboys from the great Staked Plain, Arabs, and Mexican rough riders have their camps, each living in tents and encamped in different parts of the grounds.</p>
+
+<p>About all the tents beds of flowers have been planted, and in a few days the entire residential part of the park will be a showy garden, blazing with bright colors.</p>
+
+<p>A luncheon was served to the visitors, and Col. Cody, Major <persName xml:id="burke.j">John M. Burke</persName>, <persName xml:id="salsbury.n">Nate Salsbury</persName>, and Frank Small addressed the guests.</p>
+
+<p>After dinner, the show began with a parade of all the various peoples composing the corps of performers. The riding of the Indians was a remarkable performance, yet nothing excelled the wonderful horsemanship of the Cossacks, considering that they were riding horses strange to them and given to "bucking."</p>
+
+<p>There are no better riders in America than the cowboys, and they evenly divided the honors with the daring and intrepid Cossacks. The fact, however, that the cowboys knew the horses they were handling left the advantage on the side of the Cossacks.</p>
+
+<p>The exhibitions of riding where a cowboy mail carrier changes horses at full speed and the saddling, bridling, and riding of two of the bucking bronchos are features of the show.</p>
+
+<p>The work of the cavalrymen from the Tenth United States Cavalry, the German Hussars, the French Cuirassiers, and the Royal Irish Lancers was perfection from a military standpoint.</p>
+
+<p>In rough riding the Bedouin Arab sits his horse as if he was part of it. He is much like the Comanche Indian in his tricks of skill. When one sees the Mexican ride one simply sees another edition of the American cowboy.</p>
+
+<p>One of the principal features of yesterday's exhibition was the wonderful rope casting of the Mexican, Vincente Oropeza, who is called the champion lasso thrower of the world. The battle of Wounded Knee Creek, the attack on the Deadwood coach, old Jack Nelson, Chiefs <persName xml:id="noneck">Noneck</persName> and Young Spotted Tail will attract much attention.</p>
+
+<p>Corp. Moses Jordan and Private Samuel Thomas of the Ninth Colored United States Cavalry joined the troupe yesterday. They are reputed to be two of the most skillful horsemen in the country. The Gauchos from the pampos of Argentina have not yet arrived.</p>
+
+<p>The show will open on Saturday, and can be reached by the Fifth Avenue elevated railroad, the Third Avenue surface lines in Brooklyn, and by the Thirty-ninth Street ferry from the foot of Whitehall Street, New-York. Special boats will run from Newark and Staten Island. The great ampitheatre, where the show will be given, is calculated to seat 20,000 people. It is the largest grand stand in this country.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

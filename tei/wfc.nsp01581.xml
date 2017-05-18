@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01581">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">To Close Saturday Night</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01581</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">To Close Saturday Night</title>
+<title level="a" type="sub">Only Four Days Left in Which to Visit Buffalo Bill's Wild West</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-10-03">October 3, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Amusements</term>
+<term>Arabs</term>
+<term>Armies</term>
+<term>Cavalry--Great Britain</term>
+<term>Cavalry</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Education</term>
+<term>Entertainers</term>
+<term>France. Arm&#233;e</term>
+<term>Germany. Heer</term>
+<term>Great Britain. Army</term>
+<term>Historical reenactments</term>
+<term>Indians of North America</term>
+<term>Logistics</term>
+<term>Mexicans</term>
+<term>Military men</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+<term>New York (N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01581.001"/>
+
+<head type="main">TO CLOSE SATURDAY NIGHT.</head>
+
+<head type="sub">Only Four Days Left in Which to Visit Buffalo Bill's Wild West.</head>
+
+<p>The season of outdoor amusements is drawing to a close. Buffalo Bill's Wild West and Congress of Rough Riders of the World was first in the field for public patronage, and for nearly six months has been one of the most popular places of resort for amusement seekers within the bounds of what in the future will be called Greater New-York. Located at <rs xml:id="park.a">Ambrose Park</rs>, adjoining the Thirty-ninth Street Ferry, in South Brooklyn, with the various easy methods of transportation from all parts of the city and surrounding country, it has proved the Mecca to which the faces of all seekers after amusement have been turned.</p>
+
+<p>Cody &#38; <persName xml:id="salsbury.n">Salsbury</persName>, proprietors of this entertainment, have definitely decided to close their season on Saturday, Oct. 6, and those who desire to witness the entertainment provided by this aggregation of the rough riders of the world must visit Ambrose Park during the present week, or they will miss an entertainment of an outdoor nature such as has not been seen during the present generation.</p>
+
+<p>The last performance will be given on Saturday night, when the tents will be struck, and on the following day the people engaged in the show will depart for their homes in the four quarters of the globe, the Cossacks going beyond the borders of the Black Sea, the French, German, and English soldiers rejoining the regiments from which they have been furloughed, the Arabs to Morocco, the Indians to the foothills of the Rocky Mountains, the cowboys, Mexicans, and others to their homes.</p>
+
+<p>A combination equal to that of the Wild West has seldom been formed, and not only on account of its amusement, but of it educative qualities, should it be seen by everybody. During the remainder of the week two performances will be given every day, at 3 and 8:15 o'clock, including Saturday.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

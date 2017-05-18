@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01742">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Horsemen of All Nations</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01742</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Horsemen of All Nations</title>
+<title level="a" type="sub">Buffalo Bill's Rough Riders from All Parts of the World&#8212;New Features</title>
+<title level="j">The Washington Post</title>
+<pubPlace>Washington, DC</pubPlace>
+<date when="1899-04-19">April 19, 1899</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Cavalry</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Cubans</term>
+<term>Filipinos</term>
+<term>Hawaiians</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Military campaigns</term>
+<term>Parades</term>
+<term>Patriotism</term>
+<term>Puerto Ricans</term>
+<term>San Juan Hill, Battle of, Cuba, 1898</term>
+<term>Spanish-American War, 1898</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army. Volunteer Cavalry, 1st. </term>
+<term>United States. War Department. </term>
+<term>United States. Navy</term>
+<term>War correspondents</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Marshall, Edward, 1870-1933</term>
+<term>Roosevelt, Theodore, 1858-1919</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Washington (D.C.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name>  Proofreading</change>
+<change when="2017"><name xml:id="gm">Mummery, G.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01742.001"/>
+
+
+<head type="main">HORSEMEN OF ALL NATIONS.</head>
+
+<head type="sub">Buffalo Bill's Rough Riders from All Parts of the World&#8212;New Features.</head>
+
+<p>With the addition of many new features, international and patriotic in character, and in entire consonance with the nature and purpose of his world-famed exhibition, Col. W. F. Cody will give the residents of this city a chance to see the "Wild West and Congress of the Rough Riders of the World" to-day and to-morrow. The main features which have gone to make up the "Wild West" in past seasons have been retained, but, in addition, there is much that is entirely new. Among the new features are typical horsemen from Hawaii, Filipino warriors, and a detachment from the famous Roosevelt's Rough Riders, who will be seen as they appeared during their memorable Cuban campaign. The fight at San Juan will be presented and enacted by men who were there and fought, showing an accurate and realistic reproduction of the Spanish fortifications, the field 
+
+<figure n="illustration"><p>Col. W. F. Cody.</p></figure>
+
+of action, and the march and bivouac preceding the fight, with the heroic Rough Riders and horses from Roosevelt's command re-enacting the valorous deeds.</p>
+
+<p>The men who went up the hill at El Caney with Gov. Col. "Teddy" Roosevelt are dear to the hearts of the American people&#8212;of all the people, irrespective of politics or creed&#8212;and of these the public will have for the first time a sight and a chance for recognition at Buffalo Bill's Wild West Show, which is to exhibit in this city to-day and to-morrow.</p>
+
+<p>A realistic representation of the charge up San Juan Hill will be the most conspicuous feature of the entertainment, and it will be presented by men who made the charge. Among these will be Tom Isbel, the Rough Rider, who, to quote the words of Edward Marshall, the war correspondent, was seriously wounded at the time, who "fired the first shot, a shot which was destined, like the first shot at Lexington in 1776, to be a shot which reverberated 'around the world.'"</p>
+
+<p>As Mr. Marshall says, "Tom Isbel saw a Spaniard and cheerfully killed him," an example which was followed by more than one of his comrades. Before seven shots were fired, Capt. Capron was killed, probably within five minutes. Others who will appear in this historic diorama are Sergt. Gerald A. Webb, Walter A. Cook, and other well-known participants in the fight, which they will so graphically reproduce.</p>
+
+<p>The equestrian exhibition will be the most remarkable ever seen, comprising as it does the whole gamut of national horsemanship. The Cossack will ride in the breezy way peculiar to his country 
+
+<figure n="illustration"><p>Rough Rider.</p></figure>
+
+and clime, and this Cossack riding will be at once reproduced and duplicated by the American cavalryman and the American cowboy. 
+The new provinces of the United States will also be represented by the Hawaiian riders, who will present their insular ideas of horsemanship for the first time, in contrast with the Rough Riders of the World. There will also be riders from Cuba, Porto Rico, and the Philippines, making the list absolutely complete and up to date.</p>
+
+<p>The street parade, which has been such a prominent feature for years, will occur this morning. The whole outfit, re-enforced by representatives of our colonial acquisitions, will be in the line, riding over the following route: Starting from camp, North Capitol and M streets, along M to New York avenue, to Seventh street, north side Mount Vernon Square to Ninth street and Massachusetts avenue, out Massachusetts avenue to Fourteenth street (Thomas Circle), up Fourteenth street to Rhode Island avenue, down Rhode Island avenue to Connecticut avenue, to Seventeenth street (Farragut Square), down Seventeenth, around War, Navy, and State Departments to Pennsylvania avenue, down Pennsylvania avenue past President's home to Fifteenth street, past Treasury Department to Pennsylvania avenue, to Four-and-a-half street, to City Hall, Indiana avenue to Third street, to M street, to camp grounds.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

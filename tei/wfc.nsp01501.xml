@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01501">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">World's Riders with Buffalo Bill</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01501</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">World's Riders with Buffalo Bill</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-05-02">May 2, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Arabs</term>
+<term>Atlantic crossings</term>
+<term>Caucasus</term>
+<term>Cavalry drill and tactics</term>
+<term>Cavalry</term>
+<term>Cossacks</term>
+<term>Dragoons</term>
+<term>Ethnic costume</term>
+<term>Gauchos</term>
+<term>Great Britain. Army. Royal Irish Lancers, 5th</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Lasso</term>
+<term>Passenger ships</term>
+<term>Rifs (Berber people)</term>
+<term>Traveling exhibitions</term>
+<term>Trick roping</term>
+<term>United States. Army. Cavalry, 7th</term>
+<term>Women athletes</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="mh">Heppler, Mark</name> <name xml:id="bm">Miller, Ben</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01501.001"/>
+
+<head>World's Riders with Buffalo Bill.</head>
+
+<p>On board the steamship Berlin, which arrived from Southampton yesterday afternoon, were 161 members of Buffalo Bill's Wild West Show and Congress of Rough Riders of the World, which is soon to open at Ambrose Park, South Brooklyn. Among them were troopers representing all the great cavalry nations&#8212;forty men from Emperor William's own regiment, the Garde Cuirassiers, under command of Lieut. von Natzener; forty French dragoons, commanded by Lieut. Alexander Bayard; forty men of the Fifth Royal Irish Lancers of Great Britain, under Sergt. Major Murdoch; fourteen Cossacks of the Caucasus, under Prince Lucas Tschartichvily, and a group of Riffian Arabs, including two sisters, under Sheik Hadji Tarhar. Hhe Cossacks wore the costumes of their people in the time of Catherine II. All the men were selected as representatives of different styles of horsemanship, and during the next six or seven months they will compete daily with the Seventh Cavalry of the United States Army, which has been granted a six-months' furlough. The troopers of the Seventh have been participants in many well-fought frontier battles, the last of which was Wounded Knee, and are perfect masters of the style of horsemanship made necessary by the conditions of Indian warfare. On Monday afternoon the riders gave an exhibition of their skill in singing and dancing. Fourteen Gauchos, experts in the use of the lasso, will sail from Southampton today.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

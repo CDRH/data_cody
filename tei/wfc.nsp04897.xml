@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp04897">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">May Lead To A Duel</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp04897</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">May Lead To A Duel</title>
+<title level="a" type="sub">Buffalo Bill Strikes Fred May in a Washington Resort</title>
+<title level="j">The Daily Inter Ocean</title>
+<pubPlace>Chicago, IL</pubPlace>
+<date when="1894-02-18">February 18, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Arguments</term>
+<term>Drinking of alcoholic beverages</term>
+<term>Dueling</term>
+<term>Firearms</term>
+<term>Hand-to-hand fighting</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name>  Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp04897.001"/>
+
+
+<head type="main">MAY LEAD TO A DUEL.</head>
+
+<head type="sub">Buffalo Bill Strikes Fred May in a Washington Resort.</head>
+
+<head type="sub">PARTED BY FRIENDS.</head>
+
+<head type="sub">Men Separated While Eager to Continue the Fight.</head>
+
+<head type="sub">CODE TALK IS INDULGED</head>
+
+<head type="sub">Both Can Use Firearms and Will Do So if Forced.</head>
+
+<head type="sub">Encounter the Result of a Quarrel Had in London Over an Actress.</head>
+<div2>
+<p>WASHINGTON, D. C., Feb. 17.&#8212;<hi rend="italic">Special Telegram.</hi>&#8212;Fred May,<ref target="n01">1</ref> the clubman and ex-New Yorker, and Colonel "Buffalo Bill" Cody met for the first time in six years in Chamberlain's, early this morning, and a blow was struck by Cody in settlement of an old quarrel. Various accounts are given of the meeting between the two giants, but all agree that May was not the aggressor.</p>
+
+<p>Cody struck May a powerful blow, and it is not likely that May will allow the insult to go unavenged. All sorts of rumors as to a possible duel between the men are afloat today, but it is believed that their friends will be able to keep the matter from coming to such a serious pass.</p>
+
+<p>May had been dining with Baltimore friends, and, from all reports, had drunk freely of wine. After the party broke up May strolled out into the public cafe and sat down with a friend to smoke a cigar.</p>
+
+<p>Colonel Cody had been drinking in another part of the room. On recognizing May he left his party and walked over toward him. The place was filled with people at the time, but there was nothing threatening in Cody's manner, and no one imagined that there was any feeling between the men.</p>
+</div2>
+<div2>
+<head>Bill Led with His Right.</head>
+
+<p>No hard words were exchanged, and the first intimation of trouble was given when Cody said, as his fist shot out and struck May in the face, "Take that, &#8212; you."</p>
+
+<p>In a second May had kicked his chair from him and had made a dive for the long-haired plains man. Before he could reach him half a dozen men jumped between the combatants, and, after a lively struggle, in which chairs and tables were overturned, Cody and May were separated.</p>
+
+<p>Smarting under the blow, May made several attempts to release himself from the grasp of his friends, but they forced him into another room. Cody, with much profanity, threatened May with serious results if he attacked him, and it is reported that during the melee he had made a suspicious move toward his hip pocket. As Cody was led away May shouted that he would settle with him later.</p>
+
+<p>Although efforts were made to keep the affair quiet, the story leaked out today and aroused much speculation as to the outcome. Both Cody and May are over six feet tall, and are broad-shouldered, athletic men, but Cody has passed his prime, and it is not believed he would be a match for May in a rough-and-tumble fight.</p>
+</div2>
+
+<pb facs="wfc.nsp04897.002"/>
+
+<div2>
+<head>Each Is Handy with Firearm.</head>
+
+<p>Cody is "handy with a gun," and May is also known to be clever with firearms. While it is not believed that there will be a bloody sequel to the assault on May, it would surprise no one if May took revenge in a most forcible manner. Neither Cody nor May has been seen about their usual haunts today. May, it is understood, was prevailed upon by his friends who knew his temperament to remain at home, and Cody, it is understood, kept in hiding in his room.</p>
+
+<p>May came here from New York after the proceedings against him for shooting a policeman had been dropped, and settled down to live quietly with his mother, who owns a fine little home in this city. He has indulged in very little dissipation, and, in fact, has surprised his friends by his changed habits. About two weeks ago he was placed in charge of a New York brokerage agency here, and has attended closely to business.</p>
+</div2>
+<div2>
+<head>Stories of Friends Differ.</head>
+
+<p>The trouble at Chamberlain's is the first into which he has got since he came here to live and it was not of his own seeking. It is said by his friends that he did not imagine when Colonel Cody approached him that the plainsman premeditated an assault. It is said Colonel Cody offered his hand to May and that as the latter was about to grasp it Cody dealt him a stunning blow in the face.</p>
+
+<p>This is May's side of the story. Colonel Cody's friends have a different version. They claim that Colonel Cody offered his hand to May, and the clubman not only refused to accept it, but ignored Cody with a sneering remark. Cody, they say, fearing that May would follow this up with an attack, struck him.</p>
+
+<p>The feud between the two men dates back to 1887, when both men, it is said, were paying attention in London to a young actress, who is now playing at the Broadway Theater. Cody and May had hot words over the actress. Whether they came to blows at that time is not known.</p>
+
+<p>The meeting in Chamberlain's was the first since their trouble in London. May, since 1887, has been kept busy extricating himself from more serious troubles, and it is said by his friends that he had harbored no ill will toward Cody.</p>
+</div2>
+
+</div1>
+</body>
+
+<back>
+
+<note xml:id="n01">Note 1: Frederick May was bested by William F. Cody in a fistfight in Washington, D.C., February 17, 1894, over an incident that occurred several years before; accounts differ as to which man was the aggressor.</note>
+
+</back>
+</text>
+</TEI>
