@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01499">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Fred May in Trouble Again</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01499</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Fred May in Trouble Again</title>
+<title level="a" type="sub">Got Drunk, Attacked Buffalo Bill, and Was Knocked Down a Few Times</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-02-18">February 18, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Drinking of alcoholic beverages</term>
+<term>Hand-to-hand fighting</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="kb">Katie Bowman</name> <name>Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01499.001"/>
+
+<head type="main">FRED MAY IN TROUBLE AGAIN.</head>
+
+<head type="sub">Got Drunk, Attacked Buffalo Bill, and Was Knocked Down a Few Times.</head>
+
+<p>WASHINGTON, Feb. 17.&#8212;Fred May does not find it easy to keep out of brawls. In spite of the very serious lesson he recently had in the courts, he has again disturbed the peace, but without glory.</p>
+
+<p>William F. Cody, Buffalo Bill, is stopping at Chamberlin's. On entering the hallway early last evening he met Fred May and Victor Baughman, both intoxicated and quarrelsome.</p>
+
+<p>Baughman insisted that Cody owed May an apology for some old offense in New York. Cody was amicable and cheerfully apologized and invited May and Baughman to join him at dinner.</p>
+
+<p>They declined. Cody went to dinner with friends, and quite late in the evening, in returning to the hall, encountered May and Baughman again.</p>
+
+<p>Egged on by Baughman, May, now more intoxicated than before, demanded more apology. Baughman stepped forward to insist that it should be made at once.</p>
+
+<p>"Come," said Baughman, "apologize!"</p>
+
+<p>Cody met him as he advanced, and with a sweep of the arm struck him under the jaw, tumbling him over against a hat rack.</p>
+
+<p>May advanced with his demand for an apology, and Cody struck him in the eye, flooring him.</p>
+
+<p>Baughman was now reaching for something in his hip pocket, and a gentleman standing by grabbed him. May got up and appeared to be feeling for a weapon, and Cody knocked him under a table in the front room and then jumped on him, expecting that he was about to use a pistol.</p>
+
+<p>There was great noise and confusion in the place, usually peaceful, and May and Baughman were hustled away by their friends.</p>
+
+<p>Cody soon after went to bed, and his assailants returned to find him, expressing a great desire to get at him as soon as they learned that he was asleep.</p>
+
+<p>All the accounts of the affair agree in representing the assault on Cody as absolutely unprovoked and unwarranted.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

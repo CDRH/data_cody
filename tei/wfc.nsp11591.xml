@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11591">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Crowds at the Wild West Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11591</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Crowds at the Wild West Show</title>
+<title level="a" type="sub">The Exhibition at Ambrose Park Continues to be Well Patronized</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-06-10">June 10, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Arabs</term>
+<term>Armies</term>
+<term>Cavalry drill and tactics</term>
+<term>Cavalry--Great Britain</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>France. Arm&#233;e</term>
+<term>Gauchos</term>
+<term>Germany. Heer</term>
+<term>Grandstands</term>
+<term>Great Britain. Army</term>
+<term>Historical reenactments</term>
+<term>Horse arenas</term>
+<term>Horsemanship</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Military men</term>
+<term>Sharpshooters</term>
+<term>Shooting</term>
+<term>Show riding</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+<term>New York (N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11591.001"/>
+
+<head type="main">CROWDS AT THE WILD WEST SHOW.</head>
+
+<head type="sub">The Exhibition at Ambrose Park Continues to be Well Patronized.</head>
+
+<p>The Wild West, at <rs xml:id="park.ambrose">Ambrose Park</rs>, has proved a great drawing card for the citizens of Greater New-York, and they are patronizing it with a liberality that is astonishing, in face of the disagreeable weather of the last three weeks. The weather has been a little better for the last few days, however, and it is safe to predict that the Wild West will continue to fill its spacious grand stand at every performance.</p>
+
+<p>The military review which opens the entertainment is certainly an artistic and elaborate affair, and the spectators can sit in a seat on the grand stand and see the representatives from almost every nation on the globe on horseback before them. There are the United States cavalry, German, French, and Great Britain representatives, Cossacks, South American gauchos, Indians, Mexicans, our own American cowboys, Arabs, &amp;c., and they form a very imposing picture, and one that is really most instructive as they go through their many evolutions in the vast arena.</p>
+
+<p>Every known specimen of rough riding is indulged in by these people throughout the entertainment which follows the military review, and many other interesting and instructive features besides. The shooting of Miss <persName xml:id="oakley.a">Annie Oakley</persName>, the celebrated woman shot, is a part of the programme always appreciated; also the marksmanship of <persName xml:id="baker.l">"Johnnie" Baker</persName>. The breaking of glass balls by Col. Cody while his horse is going at full gallop is a thrilling piece of marksmanship.</p>
+
+<p>Two performances are given every day, rain or shine, at 3 and 8:15 P. M. Ambrose Park is accessible from all parts of New-York, Brooklyn, and Jersey City, and the residents of Greater New-York are fortunate in having such an entertainment to attend during the Summer months.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

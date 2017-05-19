@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01539">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01539</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Steward</title>
+<title level="a" type="sub">His Bill of Fare is Suited to the Tastes of all Nations</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-08-26">August 26, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Arabs</term>
+<term>Armies</term>
+<term>Brul&#233; Indians</term>
+<term>Caterers and catering</term>
+<term>Caucasus</term>
+<term>Cheyenne Indians</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Food service</term>
+<term>France. Arm&#233;e</term>
+<term>Gauchos</term>
+<term>Germany. Heer</term>
+<term>Great Britain. Army. Royal Irish Lancers, 5th</term>
+<term>Groceries</term>
+<term>Military men</term>
+<term>Oglala Indians</term>
+<term>Sioux Nation</term>
+<term>Uhlans</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>South America</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01539.001"/>
+
+<head type="main">BUFFALO BILL'S STEWARD.</head>
+
+<head type="sub">His Bill of Fare is Suited to the Tastes of all Nations.</head>
+
+<p>Nowhere in this country, or perhaps in the world, is there any one man that caters to the wants of so many nationalities, three times daily and seated under one roof, as Mr. William Langan,<ref target="n01">1</ref> the capable steward of Buffalo Bill's Wild West, now at <rs xml:id="park.ambrose">Ambrose Park</rs>, Thirty-seventh Street, South Brooklyn. To cater to the wants of an American citizen, or to any single civilized nation, is perhaps not a severe task, as their individual tastes and desires can be more easily studied, but under the existing circumstances at the Wild West it requires ingenuity to prepare a bill of fare that will prove satisfactory to the 600 representatives of the following countries:</p>
+
+<p>A detachment of the First Garde Uhlan Regiment of his Majesty, William II., German Emperor, a troop of Fifth Lancers, Royal Irish; a detachment of Chasseurs, a cheval; a band of Sioux, Brule Sioux, Ogallallas, and Cheyennes; Gauchos from South America, Arabs from the deserts of Arabia, and Cossacks from the Caucasus, as well as our own American cowboys. The following bill of fare is an average of the many good things Mr. Langan serves to his guests daily:</p>
+
+<p>BREAKFAST.</p>
+
+<p>Oat meal, beefsteak, bacon and eggs, fried and minced potatoes, griddle cakes and coffee, tea, milk, white, brown, and rye bread.</p>
+
+<p>DINNER.</p>
+
+<p>Soup, fish, roast beef, roast pork, roast mutton, corn potatoes, spinnach, pie, pudding, coffee, tea, milk.</p>
+
+<p>SUPPER.</p>
+
+<p>Beefsteak, veal cutlets, hash, fried and baked potatoes, tea, coffee, milk, fruit, and salad.</p>
+
+<p>This bill of fare simply represents one day's services, as there is a change daily. There is nothing to be had in the markets that is not supplied at the Wild West. Table fruits, vegetables, and game in its season. The quantities used show the appreciation and the keen appetites of Mr. Langan's family. There is used weekly, as shown by the steward's vouchers: Beef, 5,694 pounds; veal, 1,250 pounds; mutton, 750 pounds; pork, 966 pounds; bacon, 350 pounds; hams, 410 pounds; chickens, 820 pounds; bread, 2,100 loaves; milk, 3,260 quarts; ice, 10 tons; potatoes, 31 barrels; cabbage, 7 barrels; spinnach, 9 barrels; onions, 8 barrels; eggs, 570 dozen; butter, 298 pounds; fish, 720 pounds; green peas, 2 barrels; succotash, 14 cases; sweet corn, 12 cases; string beans, 12 cases; buckwheat, 150 pounds; rice, 75 pounds; vinegar, 6 gallons; catsup, 15 gallons; Worcestershire sauce, 15 gallons; mustard, 15 pounds; pepper sauce, 3 dozen; jelly and jams, 220 pounds; condensed milk, 5 cases; pepper, 20 pounds; sugar, 3&#189; barrels; salad, oil, 5 gallons; crackers, 10 boxes; oatmeal, 60 pounds; lettuce, 250 head; radishes, 250 bunches; young onions, 250 bunches; water-cress, 2 barrels; sago, 20 pounds; farina, 15 pounds; tapioca, 25 pounds; lard, 200 pounds; olives, 4 gallons; horse radish, 4 dozen bottles; asparagus, 200 bunches; tea, 25 pounds; coffee, 225 pounds; salt, 100 pounds; pickles, &#189; barrel; pickillall, &#189;barrel; mackerel, 1 barrel; pig's feet, 1 barrel; flour, 4 barrels; cornmeal, 200 pounds; syrup, 10 gallons; pies, 500; cheese, 3 American dairy, 10 Edam, and 1 Gruyere.</p>
+
+</div1>
+</body>
+
+<back>
+
+<note xml:id="n01">Note 1: William Langan (1860-1932) was employed by Buffalo Bill's Wild West Company as early as 1886 and is listed as supply agent from 1891-94.</note>
+
+</back>
+</text>
+</TEI>

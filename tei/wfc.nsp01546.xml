@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01546">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West Pony Express</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01546</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Cody, William F., 1846-1917.</author>
+<title level="a" type="main">The Wild West Pony Express</title>
+<title level="a" type="sub">Showing Adventures of Buffalo Bill as a Boy Mail-carrier</title>
+<title level="j">The Washington Post</title>
+<pubPlace>Washington, DC</pubPlace>
+<date when="1894-09-05">September 5, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Endurance riding (Horsemanship)</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mail</term>
+<term>Overland Stage Line</term>
+<term>Pony Express National Historic Trail</term>
+<term>Pony express stations</term>
+<term>Pony express</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01546.001"/>
+
+
+<head type="main">THE WILD WEST PONY EXPRESS.</head>
+
+<head type="sub">Showing Adventures of Buffalo Bill as a Boy Mail-carrier.</head>
+
+<byline>From the New York Recorder.</byline>
+
+<p>"You know what the pony express was?" began Buffalo Bill. "No? Well, then, I'll tell you. By the year 1859 the telegraph system extended from the Atlantic seaboard as far west as St. Joseph, and from San Francisco as far east as Sacramento. But between Sacramento and St. Joseph intervened 1,982 miles of desert. An overland mail coach system was established in 1859, which accomplished the distance in about three weeks. Senator Gwinn, of California, saw what an immense advantage it would be to the entire country, and especially to his own State, if this time could be reduced. He suggested to the Overland Stage Company that a pony express, consisting of successive relays of ponies, that should be changed at stations along the route, would carry telegrams and mails in less than half the time it took the lumbering stages. The company was quick to take the hint. Hence the pony express. The schedule time was ten days, and, though the riders had to pass through a desert country infested by hostile savages and frequently swept by storms and blizzards, though they had to clamber over precipitous mountains, wade through streams and rivers, and make difficult headway through trackless wastes of sand and sage brush, they were rarely even so much as an hour behind the schedule time.</p>
+
+<p>"The pony express was established on April 9, 1860. Sixty riders and 420 ponies were secured. The stations were from twelve to fifteen miles apart. Each pony made only one station, each rider was required to make three, but he had the option of doing double duty. The keepers of the stations had the ponies ready saddled and bridled, the rider merely jumping from the back of one to another, or where the rider was changed his pouch was unbuckled and handed to his already mounted successor, who started at a gallop as soon as his hand clutched the bag.</p>
+
+<p>"Almost with the very establishment of the pony express I had become a rider. I was only fifteen, but I soon made a reputation as a thoroughly reliable rider. But my mother wanted me at home, and at her urgent entreaty I resigned after two months' service. Still, the fever had entered my blood. I looked back yearningly on those two months of active, adventurous life. At last I could stand it no longer. That fall I told my mother I had made up my mind to return to the pony express. She gave a reluctant consent.</p>
+
+<p>"I sought out the famous Capt. Slade, who was then stage agent for the division extending from Julesburg to Rocky Ridge.</p>
+
+<p>"'Why, my boy,' said Slade, when I explained my errand, 'you're too young for a pony express rider. It takes men, and good men, for that business.'</p>
+
+<p>"'Well,' I replied, a little hotly perhaps, 'I rode two months last year on Bill Trotter's division, and I think I am a better man now than I was then.'</p>
+
+<p>"'What!' said Slade; 'you're the boy, are you, the youngest rider on the road whom I've heard them speak of?'</p>
+
+<p>"'Yes, I am,' I replied.</p>
+
+<p>"'Good; I'll engage you.'</p>
+
+<p>"I was assigned to duty on the road from Red Buttes, on the North Platte, to the Three Crossings of the Sweetwater&#8212;a distance of seventy-six miles. It was a long distance, but I soon showed that I was equal to more than this, for one day, when I had come to the end of my route, I found that my successor was dead drunk. His route was eighty-five miles long. What did I care? I at once mounted his pony and dashed off. I made every relay station on time and accomplished the round trip of 322 miles back to Red Buttes without an hour's rest. I believe this is the longest ride in the records of the Pony Express Company."</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01507">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Lo" to be Civilized</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01507</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"Lo" to be Civilized</title>
+<title level="a" type="sub">He Views Chicago on His Way to the Effete East with Buffalo Bill</title>
+<title level="j">Washington Post</title>
+<pubPlace>(Washington, DC</pubPlace>
+<date when="1894-05-13">May 13, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Arapaho Indians</term>
+<term>Cheyenne Indians</term>
+<term>Cigarettes</term>
+<term>Indian children</term>
+<term>Indians of North America--Clothing</term>
+<term>Indians of North America</term>
+<term>Oglala Indians</term>
+<term>Railroad travel</term>
+<term>Sioux Nation</term>
+<term>Smoking</term>
+<term>Translators</term>
+<term>United States Indian School (Carlisle, Pa.)</term>
+<term>United States. Department of the Interior</term>
+<term>United States. Office of Indian Affairs. Pine Ridge Agency</term>
+<term>United States. Office of Indian Affairs. Rosebud Agency</term>
+<term>United States. Office of Indian Affairs. Spotted Tail Agency</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+<term>Yellowstone National Park (Agency : U.S.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Cooper, James Fenimore, 1789-1851</term>
+<term>Grant, Ulysses S. (Ulysses Simpson), 1822-1885</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Rocky Bear</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Spotted Tail, 1823-1881</term>
+<term>Standing Bear, Luther, 1868?-1939</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+<term>Sheridan (Wyo.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01507.001"/>
+
+
+<head type="main">LO" TO BE CIVILIZED.</head>
+
+<head type="sub">He Views Chicago on His Way to the Effete East with Buffalo Bill.</head>
+
+<byline>From the Chicago Times.</byline>
+
+<p>"Lo" was in town yesterday&#8212;100 and odd of him. He has his untutored mind along with him, occupying it most of the time with cigarette smoking.</p>
+
+<p>The poor Indian was on his way east to assuage his poverty at the rate of from $25 to $35 per month and "found." Buffalo Bill's Wild West show at Brooklyn is his destination. Col. Cody and Maj. <persName xml:id="salsbury.n">Salsbury</persName> intend to have 300 warriors in their Long Island show, and those that went through yesterday were the Sioux, Cheyenne, and Arrapahoe contingents under the charge of W. O. Snyder, who has handled Indians for Buffalo Bill ever since the latter went into the show business.</p>
+
+<p>There were some pretty husky Indians in the lot, too. There was William Spotted Tail, son of the celebrated old chief of the same name. He bears a striking resemblance to his father. This is the first time he has ever traveled on a railroad train since he was taken to the Indian school at Carlisle, Pa., when he was a boy. He only remained at the school one day. Then he escaped and made his way back to the old Spotted Tail reservation for the distinct purpose of killing the man who assassinated his father.</p>
+
+<p>William Spotted Tail wears a neglige shirt and a blue necktie; also a breech clout and a blanket. His moccasins were beaded in a beautiful color scheme of pale blue. He wears his black hair long and highly ornamented with feathers. On his breast, suspended from his neck by a buckskin thong he wore a huge silver medal that was presented to his father by Gen. Grant. As he sat in the waiting room at Polk Street station smoking cigarettes William Spotted Tail was a fine exhibit of that native dignity and gravity which you read about in Cooper's novels.</p>
+
+<p>The heap biggest Indians in the aggregation were No Neck, Yankton Charley or Plenty Wolves, and <persName xml:id="rocky.bear">Rocky Bear</persName>. These three are the head chiefs of the three tribes represented, the Sioux, the Cheyennes, and the Arrapahoes. <persName xml:id="noneck">No Neck</persName> and Yankton Charley called on Gen. <persName xml:id="miles.n">Miles</persName> at his request. They were accompanied by the chief interpreter, <persName xml:id="shangreaux.j">John Shangran</persName>. No Neck is accompanied by his wife, White Buffalo Cow, and their adopted child, <persName xml:id="noneck.j">Johnny Burke No Neck</persName>. Johnny Burke No Neck was picked up as a papoose on the battle-field right after the battle of Wounded Knee. Chief No Neck adopted him and the name of Johnny Burke was given him in compliment to Maj. <persName xml:id="burke.j">Burke</persName>, whom everybody knows.</p>
+
+<p>Some of the other Indians who composed Mr. Snyder's band are <persName xml:id="standing.bear">Standing Bear</persName>, Little Wolf, Iron Shell, Brings Back Plenty of Horses, No Water, Little Bear, Keeps the Mountains, High Bear, Charging Crow, Flat Iron, Sees Red, Feather, Black Heart, Hand, and Hairy Shirt. A few of them have been with Buffalo Bill before, but to most of them it is an entirely new experiment.</p>
+
+<p>Flat Iron is seventy-six years old, lithe and agile as a youth, and a noted "crier" among the Ogalalla Sioux. Standing Bear, an old aborigine sinner of fifty winters, displayed with a good deal of savage pride a "scalp shirt" he had just finished. Barring the buckskin and the beads in the shirt it is composed wholly of the scalps which Standing Bear and the other members of his band have gathered in a long and fruitful life of violence.</p>
+
+<p>Maj. Jesse M. Lee, now on Gen. Miles' staff, but who used to be the Indian agent at Spotted Tail and Rosebud agencies, came down to the station to see some of his old wards. A great many of them recognized him and shook his hand heartily.</p>
+
+<p>These Indians are from the Pine Ridge and Rosebud agencies. Only Indians of good moral character are allowed to leave the agencies by the Department of the Interior, and then only on the giving of bond that they will return. Col. Cody gave a &#36;40,000 bond for this consignment. They came from Rushville, S.D., over the Northwestern road, in two passenger coaches. They arrived at 8:15 o'clock yesterday morning and were transferred in busses to the Polk street station and left at 3 o'clock over the Wabash. They were accompanied by Mr. Jagoe, traveling passenger agent for the West Shore road. When they reach New York they will be met by Col. Cody and those new English mail coaches he has just imported to put on that pleasure route between Sheridan, Wyo., and Yellowstone Park. In these the painted savages will be driven down Broadway and across the Brooklyn Bridge to the show grounds.</p>
+
+<p>The baggage of the entire party was extremely limited. Most of them wore blankets and breech clouts. They will come back six months from now wearing loud checked trousers turned up at the bottom and silk hats. No extra baggage cars were necessary on their train yesterday. It will take at least two extra ones to bring back their trunks and hat-boxes. Thus does the untutored savage take on the veneer of civilization.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

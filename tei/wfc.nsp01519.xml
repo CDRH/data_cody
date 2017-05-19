@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01519">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Cowboys and Mexicans Danced</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01519</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Cowboys and Mexicans Danced</title>
+<title level="a" type="sub">Mr. High Bear and Miss Holy Blanket Married in South Brooklyn</title>
+<title level="j">Washington Post</title>
+<pubPlace>Washington, DC</pubPlace>
+<date when="1894-06-11">June 11, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Indian dance</term>
+<term>Indian men</term>
+<term>Indian women</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Marriage service</term>
+<term>Mexicans</term>
+<term>Oglala Indians</term>
+<term>Sioux Nation</term>
+<term>Wedding dances</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Red Cloud, 1822-1909</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01519.001"/>
+
+<head type="main">COWBOYS AND MEXICANS DANCED.</head>
+
+<head type="sub">Mr. High Bear and Miss Holy Blanket Married in South Brooklyn.</head>
+
+<byline>From the Brooklyn Eagle.</byline>
+
+<p>Mr. High Bear and Miss Holy Blanket, of Buffalo Bill's Wild West Show, were united in the holy bonds of wedlock at <rs xml:id="park.ambrose">Ambrose Park</rs>, South Brooklyn. It was the original intention of the high contracting parties to keep the affair as quiet as possible, and to surround it with the solemn dignity of a Christianized function. To this end no cards were issued, and only the immediate family and daily associates of the bride and bridegroom were invited.</p>
+
+<p>High Bear's name on his native heath is Mato Wangata, while along the mossy banks of Wounded Knee Creek the dusky bride answers to the call of Jasina Wakam. Both are Ogalalla Sioux, and their homes are about four miles from the scene of the Wounded Knee fight. High Bear was a peacemaker and non-combatant during the war of 1890 and '91. He is a member of Red Cloud's band. Holy Blanket's father is one of Little Wound's right hand men, and she is closely related to that noted chief.</p>
+
+<p>Despite the fact that High Bear disports himself like a wild, untutored savage in the daily raid on the <rs xml:id="coach.deadwood">Deadwood coach</rs> and assists in a Sioux war dance, he is possessed of what he calls "a great heart," which, like the organ of his more civilized brother, beats responsive to the tender sentiment of love. The ceremony was performed by the Rev. Dr. Lloyd, of the Reformed Church, South Brooklyn, in the presence of the entire camp. After a few drinks all round the Ogalallas walked in a ring around the happy couple, and immediately scattered all pretense to a quiet, dignified wedding.</p>
+
+<p>The Sioux wedding dance is anything but quiet and dignified. The Indians had not had such an opportunity for a high old time since leaving home, and they improved the occasion for all it was worth. The cowboys and Mexicans joined in the dance, while the Orientals in the show looked on in amazement. Mr. and Mrs. High Bear were escorted to their tepee, and the congratulations of the camp and the honeymoon were on.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp04631">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Wants Him To Ring Off</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp04631</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Wants Him To Ring Off</title>
+<title level="j">Dallas Morning News</title>
+<pubPlace>Dallas, TX</pubPlace>
+<date when="1899-05-16">May 16, 1899</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>El Caney, Battle of, El Caney, Cuba, 1898</term>
+<term>Filipinos</term>
+<term>Heroes</term>
+<term>Military campaigns</term>
+<term>San Juan Hill, Battle of, Cuba, 1898</term>
+<term>Spanish-American War, 1898</term>
+<term>United States. Army. Volunteer Cavalry, 1st</term> 
+<term>War correspondents</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Fitzsimmons, Robert James, 1863-1917</term>
+<term>Grant, Ulysses S. (Ulysses Simpson), 1822-1885</term>
+<term>Johnston, Joseph E. (Joseph Eggleston), 1807-1891</term>
+<term>Lee, Robert E. (Robert Edward), 1807-1870</term>
+<term>Roosevelt, Theodore, 1858-1919</term>
+<term>Sheridan, Philip Henry, 1831-1888</term>
+<term>Sherman, William T. (William Tecumseh), 1820-1891</term>
+<term>Sullivan, John Lawrence, 1858-1918</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Cuba</term>
+<term>Philippines</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="rk">Klein, Rebecca</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp04631.001"/>
+
+
+<head type="main">Wants Him To Ring Off.</head>
+
+<p>The Memphis Commercial Appeal writes down Gov. Roosevelt of New York as "a great war snorter." It is not out of order for friends of the governor to advise him to tone down his ardor and eloquence. Referring to his Chicago speech, the Commercial Appeal insists that he exalted war as the greatest of all blessings; he advocated war for war's sake; he sang of "arms and the man;" he scented the battle from afar, and he seemed to be restless and uneasy because they were spilling blood over in the Philippines and he was not there to see it done. The Memphis contemporary adds: It is something of a disappointment to see one of the popular heroes of the recent war going about the country and using the same impressive brand of language that is employed by that effusive and cock blackguard, Bob Fitzsimmons, or that custodian of the alcoholic interests, John L. Sullivan. When the war of secession was over we have always understood that Robert E. Lee, Ulysses S. Grant, Phil Sheridan<!--LINK--> and Joseph E. Johnston had had enough of it to last them the balance of their lives; and we do not remember that any of them was in love with the idea of seeing some more gore spilt. Neither of these old heroes was ever heard snorting for more war. William T. Sherman<!--LINK--> said that it was hell, and no doubt he was glad enough to get out of hell and stay out. * * * Roosevelt managed to see some of the fighting, and he has been gleefully supping on horrors ever since. He is still suffering from an unquenchable thirst for blood, and he declines to be placated. Teddy may be a bold brave, bully boy with a glass eye, but to our way of thinking it would be far more seemly in him to subside, now that he is out of the line of fire.</p>
+
+<p>The Commercial Appeal does the rough riders injustice, saying:</p>
+
+<p>Roosevelt conceived a brilliant idea of organizing a sort of Buffalo Bill wild west show to penetrate the jungles of Cuba. Organizing his regiment of rough riders for pedestrian exercise at Santiago and surrounding himself with a corps of intrepid war correspondents, clad in sweaters and golf uniforms, he invaded Cuba. Some warm fighting was done, but the rough riders were so busy having their photographs taken that they saw very little of it. About as many of them were slain as would have been killed at a Kentucky dance or a school entertainment in Sullivan county. It wouldn't have made the least difference on the result of the campaign if all of them had stayed at home. The soldiers who won the battles of San Juan and El Caney were the unobtrusive heroes of the regular army, who have done no bragging about it, and whose names are seldom in the newspapers. The rough riders were brave enough, no doubt, and they were under fire, but really they hardly counted at all in the fighting; yet one would think, to hear Roosevelt talk, that there were naught but rough riders at Santiago, and that they did it all.</p>
+
+<p>This is almost sacrilegious. But, while this and other flings of the Memphis contemporary might very properly have been omitted, the same remark certainly applies to some of Gov. Roosevelt's overdone war talk. As an exchange says: "We did not go into the war with Spain for the fight there was in it. We undertook to put an end to Spanish rule and cruelty in the western hemisphere. It was a righteous and justifiable war. We are not fighting the Filipinos now for mere love of a scrap, but because they declared war and opened hostilities-against our troops in the Philippines. All admit that the war is regrettable, but it could not be avoided, and everybody will be glad when it is over."</p>
+
+
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

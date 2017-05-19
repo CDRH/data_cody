@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01509">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Wild West Show Attractions</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01509</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Wild West Show Attractions</title>
+<title level="a" type="sub">In Spite of the Unfavorable Weather Thousands Have Visited Ambrose Park</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-05-27">May 27, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Amusements</term>
+<term>Armies</term>
+<term>Audiences</term>
+<term>Cossacks</term>
+<term>Cultural relations</term>
+<term>Education</term>
+<term>Ethnology</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Military maneuvers</term>
+<term>Military men</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01509.001"/>
+
+<head type="main">WILD WEST SHOW ATTRACTIONS.</head>
+
+<head type="sub">In Spite of the Unfavorable Weather Thousands Have Visited Ambrose Park.</head>
+
+<p>During the last week the weather has been peculiarly unfavorable to out-door entertainments, but the extraordinary merit of Buffalo Bill's Wild West has induced many thousands to brave the elements and visit <rs xml:id="park.ambrose">Ambrose Park</rs>, in South Brooklyn, where, twice every day, in spite of the adverse circumstances, performances have been given with a regularity and completeness that has challenged the admiration of all.</p>
+
+<p>When Messrs. Cody &#38; <persName xml:id="salsbury.n">Salsbury</persName> brought their great entertainment, with its cosmopolitan characteristics, for a Summer season in this vicinity, the wiseacres shook their heads and doubted the managerial sagacity they have heretofore shown, but, during the last week the attendance, in spite of the storms, has proved that the amusement public was ripe for an entertainment such as they give. In addition to the amusing and entertaining qualities of the Wild West, there is much of an educative character which is equally valuable to the old and the young. It is certainly an exhibition combining more instruction and entertainment than has ever been found in any other presented to the public.</p>
+
+<p>As an ethnological study, showing the human race from primitive man, as represented by the Indian, Cossack, and Gaucho, to the perfect representative in the person of the educated and trained soldiers of the four great armies of the world, taking in all of the improvements made by time, locality, and opportunity, which can be seen and learned by contrast that could never have been brought so closely to the attention of the visitor but for the enterprise of Cody &#38; Salsbury, in gathering these people from all quarters of the globe. Bayard Taylor and other travelers of world-wide fame have been unable to see these people, to study their methods of life, and to contrast their natures in different ways, but it remained for Messrs. Cody &#38; Salsbury, for the first time in history, to congregate them all in one aggregation and show to the American public what was never seen before, except by making the long and tedious journeys in foreign lands.</p>
+
+<p>The particular feature that is strongly impressed by the management of the Wild West on visitors is the horsemanship of the representatives of the different races constituting their entertainment. With the sub-title of "Congress of Rough Riders of the World," Cody &#38; Salsbury have added a most comprehensive subject to the original Wild West, and, in doing so, they have added a feature not only of novelty, but what, to the thoughtful mind, is most instructive. It is fast becoming a fad among educated people to visit this entertainment and make comparisons and notes, verifying what they have only been able to read of in books of history and travel. It is an opportunity that could not and will not be neglected by any one.</p>
+
+<p>To the unthinking person, who only seeks diversion and amusement, the Wild West offers an opportunity so full of what is sought, that no fault can be found with it by the old or young. Ambrose Park, South Brooklyn, has already become one of the best-known spots in the vicinity of New-York and Brooklyn, and, as the weather clears and the Summer days are upon us, it will become the Mecca to which the feet of all amusement seekers will be turned, and twice each day at 3 o'clock and 8:15 P. M., thousands upon thousands will be found enjoying the advantages offered them by the Wild West and Congress of Rough Riders of the World both for amusement and instruction.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

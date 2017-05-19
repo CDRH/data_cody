@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp04898">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill and Fred May</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp04898</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill and Fred May</title>
+<title level="a" type="wub">Mayor Powell of La Crosse Talks of the Cause of Their Fight</title>
+<title level="j">The Milwaukee Journal</title>
+<pubPlace>Milwaukee, WI</pubPlace>
+<date when="1894-02-20">February 20, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American woman</term>
+<term>Arguments</term>
+<term>Chivalry</term>
+<term>Dueling</term>
+<term>Hand-to-hand fighting</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Powell, David Franklin, 1847-1906</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>La Crosse (Wis.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp04898.001"/>
+
+<head type="main">BUFFALO BILL AND FRED MAY.</head>
+
+<head type="sub">Mayor Powell of La Crosse Talks of the Cause of Their Fight.</head>
+
+<p>LA CROSSE, Wis., Feb. 20.&#8212;Mayor Frank Powell explains the cause of the incipient row in a Washington restaurant between Buffalo Bill Cody and Fred May<ref target="n01">1</ref> which was expected to result in a duel.</p>
+
+<p>Mr. Powell, who is a warm friend of Col. Cody, says there will certainly be a duel if May could be coaxed to fight. Mayor Powell said: "The trouble is not over an actress but over an American girl, who was visiting in London when both Col. Cody and May were there. This girl went to Col. Cody one afternoon and told him that May was giving her attention, but that his attention was not that of an American. This was in 1887. Col. Cody agreed to see May and get him to stop visiting the girl. A few days later May and Col. Cody were present at the same banquet and Col. Cody calmly stated to May that he ought, as a gentleman, to discontinue his offensive attentions to Miss&#8212;. May grew red in the face and wanted to fight then and there. There was no blood shed because of the interference of others, but May kept up his visits to the American girl, who came to Col. Cody one afternoon crying and said May was becoming so offensive that she could no longer bear him. At this Col. Cody wrote May the following letter: 'I will whip you on sight.'</p>
+
+<p>"The men had not met in nearly seven years, but Col. Cody started in to keep his word, and would have succeeded if the people present in the Washington restaurant had not got between them. The girl is a good American girl in whom Col. Cody had no other interest than that of a friend."</p>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Frederick May was bested by William F. Cody in a fistfight in Washington, D.C., February 17, 1894, over an incident that occurred several years before; accounts differ as to which man was the aggressor.</note>
+</back>
+</text>
+</TEI>

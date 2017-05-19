@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp06741">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Fred May's Last Mistake</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp06741</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Fred May's Last Mistake</title>
+<title level="a" type="sub">He Undertakes to Bulldoze Buffalo Bill, but Makes a Botch of It</title>
+<title level="j">Omaha Daily Bee</title>
+<pubPlace>Omaha, NE</pubPlace>
+<date when="1894-02-18">February 18, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Apologies</term>
+<term>Drinking of alcoholic beverages</term>
+<term>Dueling</term>
+<term>Epithets</term>
+<term>Hand-to-hand fighting</term>
+<term>Indian reservations</term>
+<term>Indians of North America</term>
+<term>Revolvers</term>
+<term>United States. Department of the Interior</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Beck, George T. (George Thornton), 1857-1943</term>
+<term>Bennett, James Gordon, 1841-1918</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>New York (N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name>  <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp06741.001"/>
+
+<head type="main">FRED MAY'S LAST MISTAKE.</head>
+
+<head type="sub">He Undertakes to Bulldoze Buffalo Bill, but Makes a Botch of It.</head>
+
+<p>WASHINGTON, Feb. 17.&#8212;(Special Telegram to The Bee.)&#8212;Colonel William F. Cody, of Nebraska, who is here to secure permission from the secretary of the interior to take with his show this season a number of Indians from the northwest reservations, had a lively fistic encounter at Chamberlain's last night. With George Beck of Wyoming and a number of other friends Colonel Cody was entering a private dining room to take supper, when Fred May,<ref target="n01">1</ref> the well known New York athlete and club man, who a dozen years or so ago fought a duel with James Gordon Bennett, approached the Nebraskan and gruffly demanded an apology for an alleged offense a decade since in New York. Colonel Cody said that he was not aware that he ever had offended May, but that if he had he apologized, for he did not mean to wantonly offend any man. May was drinking and was somewhat under the influence of liquor. Then Colonel Cody entered the dining room.</p>
+
+<p>After supper he and his friends were leaving Chamberlain's, when May, accompanied by three or four companions, approached him and again demanded further apology. May delared that the apology made was "no apology at all."</p>
+
+<p>"Yes," said one of May's companions, "make the d&#8212;d long-haired western ranger apologize," and he applied an offensive epithet.</p>
+
+<p>Up to this moment Colonel Cody had been apologetical and good natured, but now he struck out from the shoulder. May's companion, a burly fellow, got Bill's fist just under the left ear and went sprawling into the hat rack some distance away.</p>
+
+<p>"Now you will apologize to me," exclaimed May, approaching Colonel Cody, and assuming a fistic attitude. "All right," replied Buffalo Bill, and he let May have it in the neck.</p>
+
+<p>No sooner had May "went to grass" than Bill's first victim drew a revolver. Mr. Beck caught this and wrenched it from the stranger's hand just as Bill hit the latter a right-hander in the eye and knocked him out. By this time May, who is a powerfully built man and a slugger from way back, was on his feet and coming at the Nebraskan. This was the climax. The Wild West showman hit May a blow on the chin, which actually knocked him ten feet under the table. This ended the fight. Neither assailant renewed the battle. Buffalo Bill had whipped two men, either of whom was his equal, if not his superior, in physical strength and size.</p>
+
+<p>Colonel Cody is much humiliated over the affair. He is not a quarrelsome man and after due apologies for fancied wrongs actually begged May and his friends not to make a row. The affair was kept a secret until today, and efforts have been made to have no publication made of it. Everybody says Cody was right. May and his friends are yet in bad blood, but the end has possibly been reached.</p>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Frederick May was bested by William F. Cody in a fistfight in Washington, D.C., February 17, 1894, over an incident that occurred several years before; accounts differ as to which man was the aggressor. </note>
+</back>
+</text>
+</TEI>

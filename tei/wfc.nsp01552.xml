@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01552">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Greatest Summer Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01552</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Greatest Summer Show</title>
+<title level="a" type="sub">Buffalo Bill's Wild West and Its Many Features that Please and Instruct</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-09-09">September 9, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Acrobats</term>
+<term>American bison</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Arabs</term>
+<term>Audiences</term>
+<term>Bolas</term>
+<term>Children</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Education</term>
+<term>Frontier and pioneer life</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Japanese</term>
+<term>Lasso</term>
+<term>Mexicans</term>
+<term>Mules</term>
+<term>Mustang</term>
+<term>Prairies</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Theater attendance</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Berlin (Germany)</term>
+<term>Brooklyn (New York, N.Y.)</term>
+<term>London (England)</term>
+<term>Paris (France)</term>
+<term>Patagonia (Argentina and Chile)</term>
+<term>Vienna (Austria)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01552.001"/>
+
+<head type="main">THE GREATEST SUMMER SHOW.</head>
+
+<head type="sub">Buffalo Bill's Wild West and Its Many Features that Please and Instruct.</head>
+
+<p>A most gratifying feature at the Wild West last week was the presence of so many children. Now that vacation has drawn to a close, and the little folks must again take up their text books, there was a universal desire among them to see this unique, original, and instructive exhibition.</p>
+
+<p>Particularly was this the case when, on Labor Day, during the two performances, nearly 30,000 persons visited the vast arena, and went away enthusiastically pleased. The Wild West consists essentially of a natural and realistic representation of the vagaries and peculiarities of life among the wilds and fastnesses of the Great West. Indians, cowboys, and scouts, taken fresh from their native haunts, among the hills and prairies, make up the bulk of the company proper, while buffaloes, mules, mustangs, and other animals from the land of the setting sun go to complete and especially set off the vividness of the scenes portrayed.</p>
+
+<p>Of course, Buffalo Bill is the cynosure of attraction, and his recent shooting of glass balls, while riding at full speed, has been of unusual excellence. There is also remarkable shooting by Miss <persName xml:id="oakley.a">Annie Oakley</persName> and <persName xml:id="baker.l">Johnnie Baker</persName>, the latter going so far that at the conclusion of his act he stands on his head and shoots with unerring accuracy balls cast into the air 100 feet away through the manipulation of traps. Gus Uhl, who now heads the party of original cowboys, and likewise excites admiration by his splendid feats of horsemanship and his dexterous use of the lasso, that noiseless weapon so effectively used by the cowboy in his wild life on the plains, and Lee Martin, riding the celebrated horse Jumbo, who has never been and probably never can be trained, and is four times as large as his rider, always are received with thrilling interest by the spectators. The exciting attack upon the <rs xml:id="coach.d">Deadwood stage coach</rs>, in which the entire troop of Indians, cowboys, and scouts participates, is repeated, as usual, at each performance, and never fails to excite the utmost interest and applause among the audience.</p>
+
+<p>It is one of the most exciting, realistic, and highly entertaining features of the show.</p>
+
+<p>The Gauchos, from the Argentine Republic, with their wonderful bolas throwing, lassoing, and riding jumping horses; a group of the most artistic and skillful Arabs, with their little Japanese assistant, Touyo Kichi, do almost impossible tumbling, holding, and other gymnastic acts. A spectacle of one Arab, walking across the arena, holding one man on his head and three others on his sides and shoulders, then bearing aloft in midair a pyramid of ten men, must be seen to be understood and appreciated. The hurdle jumping by Indians, Cossacks, cowboys, and Mexicans is always enjoyable. The other features of the show are equally commensurate of recognition, and as people who now return from the watering places and other Summer resorts inquire where to go, hotel keepers as well as friends invariably direct them to the Wild West.</p>
+
+<p>It is really the greatest Summer show Greater New-York has been entertained with for many years, sustaining the relation to this community that the superb attractions always to be found in Berlin, Paris, Vienna, and London do to those communities. <rs xml:id="park.a">Ambrose Park</rs> is always cool and is easily reached by way of the Thirty-ninth Street Ferry and the bridge.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

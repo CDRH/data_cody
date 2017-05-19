@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01510">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Cowboys Save Four Lives</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01510</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Cowboys Save Four Lives</title>
+<title level="a" type="sub">Two of "Buffalo Bill's" Company Complimented for Bravery</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1894-05-30">May 30, 1894</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Boating accidents</term>
+<term>Cowboys</term>
+<term>Dogs</term>
+<term>Heroes</term>
+<term>Newfoundland dog</term>
+<term>Rescues</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brooklyn (New York, N.Y.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01510.001"/>
+
+<head type="main">COWBOYS SAVE FOUR LIVES.</head>
+
+<head type="sub">Two of "Buffalo Bill's" Company Complimented for Bravery.</head>
+
+<p>Four men were rescued from drowning at the foot of Thirty-sixth Street, South Brooklyn, at 7 o'clock last evening by the timely action of two of the cowboys attached to the Wild West Company. The men, whose names are Charles Johnson, Edward Barber, Ernest, and an unknown man, got into a boat at that point to go for a row on Gowanus Bay. They had with them a large Newfoundland dog.</p>
+
+<p>Before they proceeded far they began to torment the brute. He resented their familiarity, and in the scuffling the boat was overturned and men and dog were thrown into the water. None of the men could swim except the one whose name was not learned. Ernest clung to the boat, and the dog took care of Johnson for a time.</p>
+
+<p>George Shannon and Burt Schenck, two of the cowboys, who were at the landing when the men embarked, jumped into another boat and went to the rescue. They succeeded in saving all of the men, as well as the dog, which was still supporting one of them when help arrived. The cowboys are heroes at the camp, and have been complimented by both Col. Cody and Mr. <persName xml:id="salsbury.n">Salsbury</persName> for their timely act.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
