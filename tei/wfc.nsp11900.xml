@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11900">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">News from Rome</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11900</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">News from Rome</title>
+<title level="j">London Evening Standard</title>
+<pubPlace>London, England</pubPlace>
+<date when="1890-03-05">March 5, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.079.04 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Audiences</term>
+<term>Caetani family</term>
+<term>Campagna di Roma (Italy)</term>
+<term>Cowboys</term>
+<term>Horses--Training. </term>
+<term>Nobility--Italy</term>
+<term>Romans</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Bonaparte, Napol&#233;on-Joseph-Charles-Paul, prince, 1822-1891</term>
+<term>Caetani, Onorato</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="hb">Blubaugh, Hannah</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11900.001"/>
+
+<head type="main">NEWS FROM ROME.</head>
+
+<byline>(FROM OUR CORRESPONDENT.)</byline>
+<dateline>ROME, TUESDAY NIGHT.</dateline>
+
+<p>All Rome was in great excitement this afternoon. The Duke di Sermoneta had assured Buffalo Bill that he had horses on the Campagna at his estate of Cisterna, which he defied the cowboys to ride. It was impossible even to put a halter on them, and they had to be left wild, although they were valuable animals. The challenge being accepted, three horses were, with much difficulty, driven into the city, and to-day, after a most exciting struggle, two of the most powerful were lassoed, saddled, bridled, and ridden by the cowboys in the presence of about fifteen thousand people. Prince Napoleon was among the audience. The excitement ran so high because the famous herdsmen of the Campagna are supposed to be able to ride anything.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

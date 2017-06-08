@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11770">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Indians at the Vatican</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11770</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Indians at the Vatican</title>
+<title level="a" type="sub">Visit to the Pope of Buffalo Bill and His Troupe</title>
+<title level="j">New York Herald (London ed.)</title>
+<pubPlace></pubPlace>
+<date when="1890-03-04">March 4, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<relatedItem type="similar">
+<bibl><title level="a" type="main">Blessed by the Pope</title><title level="a" type="sub">Buffalo Bill, His Cowboys and Indians in the Halls of the Vatican</title><title level="j">Kansas City Star</title><pubPlace>Kansas City, MO</pubPlace><date when="1890-03-06">March 6, 1890</date></bibl>
+</relatedItem>
+</bibl>
+
+
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.032.02 (Rome)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Aristocracy (Social class)</term>
+<term>Basilica di San Pietro in Vaticano</term>
+<term>Borghese family</term>
+<term>Cappella Sistina (Vatican Palace, Vatican City)</term>
+<term>Catholic Church</term>
+<term>Cowboys</term>
+<term>Diplomatic and consular service, Papal States</term>
+<term>Indian blankets</term>
+<term>Indian weapons</term>
+<term>Indians of North America--Clothing</term>
+<term>Indians of North America</term>
+<term>Knights of Malta. Gran priorato di Roma</term>
+<term>Knives</term>
+<term>Nobility--Italy</term>
+<term>Paganism</term>
+<term>Papal blessings</term>
+<term>Papal guards</term>
+<term>Ruspoli family</term>
+<term>Sioux Nation</term>
+<term>Swords</term>
+<term>Tomahawks</term>
+<term>Tribuna (Rome, Italy)</term>
+<term>Vatican City</term>
+<term>Vatican City. Guardia svizzera pontificia</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Leo XIII, Pope, 1810-1903</term>
+<term>Michaelangelo, 1475-1564</term>
+<term>Raphael, 1483-1520</term>
+<term>Rocky Bear</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11770.001"/>
+
+<head type="main">INDIANS AT THE VATICAN.</head>
+
+<head type="sub">VISIT TO THE POPE OF BUFFALO BILL AND HIS TROUPE.</head>
+
+<byline>From the Herald's Special Correspondent.</byline>
+
+<p>ROME, March 3.&#8212;One of the strangest spectacles ever seen within the venerable walls of the Vatican was the dramatic entry of Buffalo Bill, at the head of his Indians and cowboys, this morning, when the ecclesiastical, secular, and military court of the Papacy assembled to witness the twelfth annual thanksgiving of Leo XIII. for his coronation.</p>
+
+<p>In the midst of a scene of supreme splendour, crowded with the old Roman aristocracy and surrounded with walls immortalised by Michael Angelo and Raffaele, there suddenly appeared a host of savages in paint, feathers, and blanket, carrying tomahawks and knives. A vast multitude surged into the great square before St. Peter's early in the morning to witness the arrival of the Americans. Before half-past nine o'clock the Ducal Hall, Royal Hall, and Sistine Chapel of the Vatican were packed with those who had influence enough to obtain admittance. Through the middle of the three audiences was a pathway, bordered with the brilliant uniforms of the Swiss Guards, the Palatine Guards, the Papal Gendarmes, and Private Chamberlains. The sunlight fell upon lines of glittering steel, nodding plumes, golden chains, shimmering robes of silk, and all the blazing emblems of Pontifical power and glory.</p>
+
+<p>Suddenly a tall and chivalrous figure appeared at the entrance, and all eyes were turned towards him. It was Buffalo Bill. With a sweep of his great sombrero he saluted the chamberlains, and then strode between the guards with his partner, <persName xml:id="salsbury.n">Nate Salsbury</persName>. Next came <persName xml:id="taylor.w">Buck Taylor</persName>, who towered hugely above the tallest man in the Palace, his long hair tied back on his shoulders. Then came <persName xml:id="irving.w">Bronco Bill</persName> in buckskin, and after him trooped the cowboys, splashed with mud and picturesque beyond description. <persName xml:id="rocky.bear">Rocky Bear</persName> led the Sioux warriors in the rear. They were painted in every colour that the Indian imagination could devise. Every man carried something to present to the "Medicine Man" sent by the Great Spirit.</p>
+
+<p>Rocky Bear rolled his eyes and folded his hands on his breast as he stepped on tiptoe through the glowing sea of colour. His braves furtively eyed the halberds and two-handled swords of the the Swiss guards. The Indians and cowboys ranged in the south corners of the Ducal hall. Buffalo Bill and Saulsbury were escorted into the Sistine Chapel by the Chamberlains, and were greeted by General Sherman's laughter. A Princess invited Colonel Cody to a place in the tribune of the Roman nobles. He stood facing the gorgeous Diplomatic Corps, surrounded by Prince and Princess Borghesi, Marquis Serlupi, Princess Bandini, Duchess Grazioli, Prince and Princess Massino, Prince and Princess Ruspoli, and all the ancient families of the city. When the Pope appeared, carried above the heads of his guards, preceded by the Knights of Malta and a procession of Cardinals and Archbishops, the cowboys bowed, and so did the Indians. Rocky Bear knelt and made the sign of the Cross. The Pontiff leaned yearningly towards the rude groups and blessed them. He seemed to be touched by the sight. As the train swept on the Indians became excited, and a squaw fainted. They had been warned not to utter a sound, and were with difficulty restrained from whooping. The Pope looked at Colonel Cody intently as he passed, and the great scout bent low as he received the benediction. After the thanksgiving mass with its grand choral accompaniment, with now and then the sound of the Pope's powerful voice heard ringing through the Sistine chapel, the great audience poured out of the Vatican.</p>
+
+<p>When the Indians went back to their camp within sight of the grim castle of San Angelo, they found the only warrior who did not go the Vatican dead in his blanket. Rocky Bear told his followers that the Great Spirit had done it. To-night the Indians have temporarily relapsed into Paganism, and are howling over the dead brave, some of them tearing their flesh and sprinkling the funeral tent with their blood.</p>
+
+<p>The Pope looked well to-day, notwithstanding his eighty years. When the College of Cardinals, through Cardinal Monaco la Valetta, congratulated him in his private room, he made a long speech, the burden of which was that the social dangers which now threaten human society and all government can only be averted by the true reign of Christ on earth.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

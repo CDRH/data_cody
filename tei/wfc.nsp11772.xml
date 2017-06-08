@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11772">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West at the Vatican</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11772</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Wild West at the Vatican</title>
+<title level="a" type="sub">Buffalo Bill's Indians and Cowboys at the Anniversary Ceremony of Leo XIII</title>
+<title level="j">New York Herald (Paris ed.)</title>
+<pubPlace></pubPlace>
+<date when="1890-03-04">March 4, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.033.01 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Aristocracy (Social class)</term>
+<term>Basilica di San Pietro in Vaticano</term>
+<term>Borghese family</term>
+<term>Cappella Sistina (Vatican Palace, Vatican City)</term>
+<term>Catholic Church</term>
+<term>Cowboys</term>
+<term>Diplomatic and consular service, Papal States</term>
+<term>Foreign ministers</term>
+<term>Indians of North America</term>
+<term>Knights of Malta. Gran priorato di Roma</term>
+<term>Nobility--Italy</term>
+<term>Paganism</term>
+<term>Papal blessings</term>
+<term>Papal guards</term>
+<term>Ponte San Angelo (Rome, Italy)</term>
+<term>Ruspoli family</term>
+<term>Sioux Nation</term>
+<term>Tribuna (Rome, Italy)</term>
+<term>Vatican City. Guardia svizzera pontificia</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Leo XIII, Pope, 1810-1903</term>
+<term>Michaelangelo, 1475-1564</term>
+<term>Raphael, 1483-1520</term>
+<term>Rocky Bear</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Rome (Italy)</term>
+<term>Vatican City</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11772.001"/>
+
+
+<head type="main">THE WILD WEST AT THE VATICAN.</head>
+
+<head type="sub">Buffalo Bill's Indians and Cowboys at the Anniversary Ceremony of Leo XIII. </head>
+
+<head type="sub">A RELAPSE INTO PAGANISM. </head>
+
+<head type="sub">His Holiness on the Social Dangers that Threaten Modern Society.</head>
+
+<byline>[FROM OUR SPECIAL CORRESPONDENT.]</byline>
+<dateline>ROME, March 3.</dateline>
+<div2>
+<p>One of the strangest spectacles ever seen within the venerable walls of the Vatican was the dramatic entry of 
+
+<figure n="illustration"/>
+
+"Buffalo Bill" at the head of his Indians and cowboys this morning, when the ecclesiastical and secular military court of the Holy See assembled to witness the twelfth annual thanksgiving of Leo XIII. for his coronation. In the midst of the splendid scene, crowded with the old Roman aristocracy, and surrounded by walls immortalized by Michael Angelo and Raffael, there suddenly appeared a host of savages in war paint, feathers and blankets, carrying tomahawks and knives.</p>
+
+<p>A vast multitude surged in the great square before St. Peter's early in the morning to witness the arrival of the Americans. Before half-past nine o'clock the Ducal Hall, Royal Hall and Sixtine Chapel of the Vatican were packed with those who had influence enough to obtain admittance. Through the middle of the three audiences, the pathway was bordered with the brilliant uniforms of the Swiss Guards, Palatine Guards, Papal gendarmes and private chamberlains. The sunlight fell upon the lines of glittering steel, nodding plumes, golden chains, shimmering robes of silk, and all the blazing emblems of pontifical power and glory.</p>
+</div2>
+<div2>
+<head>THE WILD WEST MAKE THEIR ENTR&#201;E.</head>
+
+<p>Suddenly, a tall and chivalrous figure appeared at the entrance, and all eyes were turned towards him. It was Colonel W. F. Cody ("Buffalo Bill"). With a sweep of his great sombrero, he saluted the chamberlains, and then strode between the guards with his partner, Mr. <persName xml:id="salsbury.n">Nate Salsbury</persName>, by his side.</p>
+
+<p>Next came <persName xml:id="taylor.w">Buck Taylor</persName>, who towered hugely above the tallest man in the Palace, his long hair tied back on his shoulders. Then came <persName xml:id="irving.w">Broncho Bill</persName>, in buckskin, and after him trooped the cowboys, splashed with mud, and picturesque beyond description. </p>
+
+<p><persName xml:id="rocky.bear">Rocky Bear</persName> led the Sioux warriors, who brought up the rear. They were painted in every color that Indian imagination could devise. Every man carried something with which to make big medicine in the presence of the great medicine man sent by the Great Spirit.</p>
+
+<p>Rocky Bear rolled his eyes and folded his hands on his breast as he stepped on tiptoe through the glowing sea of color. His braves furtively eyed the halberds and two handed swords of the Swiss Guards.</p>
+
+<p>The Indians and cowboys were ranged in the south corners of the Ducal hall. Colonel Cody and Mr. Salsbury were escorted into the Sixtine Chapel by chamberlains, where they were greeted by Miss Sherman, daughter of General Sherman.  A Princess invited Colonel Cody to a place in the tribune of the Roman nobles.</p>
+
+<p>He stood facing the gorgeous Diplomatic Corps, surrounded by the Prince and Princess Borghesi, the Marquis Serlupi, Princess Bandini, Duchess di Grazioli, Prince and Princess Massimo, Prince and Princess Ruspoli and all the ancient noble families of the city.</p>
+</div2>
+<div2>
+<head>THE PAPAL BLESSING.</head>
+
+<p>When the Pope appeared in the <hi rend="italic">sedia gestatoria</hi> carried above the heads of his Guards, preceded by the Knights of Malta and a procession of cardinals and archbishops, the cowboys bowed and so did the Indians. Rocky Bear knelt and made the sign of the cross. The Pontiff leaned affectionately towards the rude groups and blessed them. He seemed to be touched by the sight.</p>
+
+<p>As the Papal train swept on, the Indians became excited, and a squaw fainted. They had been warned not to utter a sound, and were with difficulty restrained from whooping. The Pope looked at Colonel Cody intently as he passed, and the great scout and Indian fighter bent low as he received the Pontifical benediction.</p>
+
+<p>After the Thanksgiving Mass, with its grand choral accompaniment and now and then the sound of Leo XIII.'s voice, heard ringing through the chapel, the great audience poured out of the Vatican.</p>
+
+<p>When the Indians went back to their camp, within sight of the grim castle of San Angelo, they found the only warrior who did not go to the Vatican dead in his blanket. Rocky Bear told his followers that the Great Spirit had done it.</p>
+</div2>
+<div2>
+<head>AN INDIAN WAKE.</head>
+
+<p>To-night the Indians have temporarily relapsed into paganism, and are howling over the dead brave, some of them tearing their flesh and sprinkling the funeral tent with their blood.</p>
+
+<p>The Pope looked well to-day, notwithstanding his eighty years. When the College of Cardinals, through Cardinal Monaco la Valetta, congratulated him in his private appartment, he made a long speech, the burden of which was that the social dangers which now threaten modern society and all Governments can only be averted by the true reign of Christ on earth. "The experience of a century," said His Holiness, "has proved that this rebellion against the divine light of the truth will end disastrously for the prosperity of the people, the peace of the State and the happiness of the family. May it please God that those who have in their hands the control of nations may abate this war in all ranks of teaching against the Catholic doctrine and place the Church and its head in conditions of liberty, so that the mission received from Christ may be carried out for the good of the whole world."</p>
+</div2>
+<div2>
+<head>The Wild West Fulfilling Its Mission</head>
+
+<p>A HERALD correspondent ran across Major <persName xml:id="burke.j">John M. Burke</persName> yesterday evening. In the course of their chat, the Major said that he had been delighted at the way the company had been received in every city it had visited. "You see," he said, "the Wild West is filling its mission of civilizing the Red man. From Barcelona, in the country whence Columbus embarked to discover America, to Italy, his native land, our warriors and cowboys have been most kindly received by the public. Everywhere I found the representatinve of our Government: Ministers, Secretaries of Legation and Consuls, willing and anxious to give me every assistance in their power towards making the preparatory arrangements for the appearance of the company. This was especially the case with ex-Governor Porter, of Indiana, our Minister at Rome; Mr. Charles A. Dougherty, of Philadelphia, his Secretary of Legation, and ex-Governor Bowen, of Rhode Island, our Consul-General in the Eternal City. Father O'Connell, of the American College, was also extremely kind to me, and it was mainly to the good offices of these gentlemen that we are indebted for arousing the interest of His Holiness in the representatives of a page of American life, which in a few years more will be only a matter of history.</p>
+</div2>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

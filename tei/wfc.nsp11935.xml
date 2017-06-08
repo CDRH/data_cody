@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11935">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill in Italy</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11935</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill in Italy</title>
+<title level="j">The Galignani's Messenger</title>
+<pubPlace>Paris, France</pubPlace>
+<date when="1890-03-27">March 27, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.089.01 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Bologna (Italy)</term>
+<term>Empoli (Italy)</term>
+<term>Flags--United States</term>
+<term>Historical reenactments</term>
+<term>Indian dance--North America</term>
+<term>Indians of North America</term>
+<term>Logistics</term>
+<term>Mustang</term>
+<term>Railroad travel</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Yankee Doodle (Song)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Florence (Italy)</term>
+<term>Livorno (Italy)</term>
+<term>Milan (Italy)</term>
+<term>Pisa (Italy)</term>
+<term>Pistoia (Italy)</term>
+<term>Pontassieve (Italy)</term>
+<term>Prato (Italy)</term>
+<term>Siena (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11935.001"/>
+
+<head type="main">BUFFALO BILL IN ITALY.</head>
+
+<byline>[FROM OUR OWN CORRESPONDENT.]</byline>
+<dateline>FLORENCE, March 23.</dateline>
+
+<p>The Wild West Show gave its last performance here on Thursday afternoon to a large audience notwithstanding the weather. The arena was a perfect quagmire, and so full of holes and ditches that the <rs xml:id="coach.deadwood">Deadwood coach</rs> looked as if it would be broken to pieces, while the amateur passenger occupying the box seat was seen wildly clinging to anything he could lay his hands on to prevent being shot off into the mud. The five-franc places under cover were quite filled, only a few of the cheaper seats in the open air being vacant. During his eight days' stay, Colonel Cody had only three fine days, but, nevertheless, the receipts amounted to some 70,000fr. Special trains and tickets brought in large numbers of people from Sienna, Empoli, Leghorn, Pisa, Pontassieve, Prato, and Pistoia.</p>
+
+<p>The whole amphitheatre was taken down and and placed aboard the special train for Bologna in four hours after the performance, and the next evening another special followed Colonel Cody, who left in the afternoon by the <hi rend="italic">lampo</hi>, as the Italians call the lightining express.</p>
+
+<p>The company will remain nearly a week in Bologna before going to Milan, whence they work up through Germany to Brussels, embarking for England at Antwerp instead of Hamburg, as was intended a few days ago. Colonel Cody states that he intends retiring from the Wild West business after getting home.</p>
+
+<p>The Italian trip so far has been a success, and if the weather had kept fine, as it was during the first two days, people would have been turned away, as they were at the early performances. The troop received much hospitality in Florence, and thousands of English and Americans were constant visitors in all weathers.</p>
+
+<p>The American pop-corn and caramel dealers who travel with the show did a thriving trade, and after the performances a crowd three deep besieged the booth.</p>
+
+<p>The Wild West troupe of wild Indians, wild buffaloes, and wild mustangs arrived at Bologna on Saturday morning, and created quite a sensation as the Red Skins muffled up in vari-coloured blankets passed through the streets flanked by frowning palaces, forming a notable contrast to the last representatives of North American Indians. A spacious hippidrome is erected outside the Porta San Felici, where in a few hours the wigwams and tents were set up.</p>
+
+<p>The first performance was given on Sunday afternoon at half-past two. The weather which had been bad up to that day turned fine, and all Bologna that could manage to secure seats crowded outside the gate to see the representation. The vivid Italian imagination had been greatly excited by means of hundreds of brightly-coloured bills which were lavishly posted about the city. The spectacle began with the entrance of the various tribes of Indians, cowboys, and Mexicans, and loud applause greeted the appearance of the Italian flag as it was carried by a rider, who, amidst the strains of the Royal March, bore it so swiftly onward that it stood out like metal against the sky. An equally popular reception greeted the American flag, the band playing "Yankee Doodle."</p>
+
+<p>Col. Cody's appearance also made a strong impression, and numbers of the dark-eyed Bolognese beauties spoke in enthusiastic terms of "BuffaBill" as the handsomest man ever seen there. Miss <persName xml:id="oakley.a">Oakley's</persName> shooting, <persName xml:id="baker.l">Barker's</persName> pistol feats and Col. Cody's glass-ball shooting at full gallop were also much applauded. The attacks on the immigrants and Deadwood coach, and the Indian dances, were greatly liked, The whole spectacle was given so quickly that one must return again and again to take it all in. The company remains till next Monday.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

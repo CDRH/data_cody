@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11881">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Buffalo Bill's Wild West Show]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11881</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Buffalo Bill's Wild West Show]</title>
+<title level="j">New York Clipper</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1890-03-01">March 1, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<relatedItem>
+<bibl>
+<title level="a" type="main">Buffalo Bill Now in Rome</title>
+<title level="a" type="sub">Col. Cody and His Wild West Show Create Quite a Sensation</title>
+<title level="j">The Chicago Tribune</title>
+<date when="1890-02-21">February 21, 1890</date>
+<note>http://archives.chicagotribune.com/1890/02/21/page/5/article/vindication-for-parnell</note>
+</bibl>
+
+</relatedItem>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.073.03 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Ambassadors</term>
+<term>Aristocracy (Social class)</term>
+<term>Audiences</term>
+<term>Diplomatic and consular service</term>
+<term>Diplomats</term>
+<term>Foreign ministers</term>
+<term>Forgery</term>
+<term>Nobility--Italy</term>
+<term>Prati di Castello (Rome, Italy)</term>
+<term>Stagecoaches</term>
+<term>Tickets</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Naples (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11881.001"/>
+
+<p>BUFFALO BILL'S WILD WEST SHOW has been remarkably successful at Naples, but at a recent performance the attendance was beyond all calculation, and the resources of the show were severely taxed to accommodate the overflow. The astonishing rush was accounted for the next day, when it was discovered that two thousand people had entered upon spurious tickets. Col. Cody made a complaint before a magistrate, but got little satisfaction. The show gave its first performance at Rome, Feb. 20, in the Piazza Darmi,<ref target="n01">1</ref> at the Prati di Castello. The whole of the elite of Rome may be said to have been present, and hundreds of persons were refused admission for want of room. The Roman aristocracy attended, as well as the English and American colonies. Among the members of the Diplomatic Corps present were Judge Porter, the American Minister and his daughter, and the secretaries to the American Legation, the English Embassy and the French and Spanish ambassadors. The scene of the attack on the famous "<rs xml:id="coach.deadwood">Deadwood coach</rs>" caused great excitement, as in the coach were Prince Orsini, Mr. Grant and Count Bruschi. At the end of the performance, hearty cheers were given for Col. Cody and his Wild West Show.</p>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Piazza d'Armi.</note>
+</back>
+</text>
+</TEI>

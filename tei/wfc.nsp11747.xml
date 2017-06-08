@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11747">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Rome Gossip</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11747</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Rome Gossip</title>
+<title level="a" type="sub">Buffalo Bill</title>
+<title level="j">The Roman Herald</title>
+<pubPlace>Rome, Italy</pubPlace>
+<date when="1890-03-01">March 1, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.025.01 (Rome)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Cappella Sistina (Vatican Palace, Vatican City)</term>
+<term>Catholic Church</term>
+<term>Cowboys</term>
+<term>Diplomatic and consular service</term>
+<term>Ethnic costume</term>
+<term>Ethnology</term>
+<term>Gossip</term>
+<term>Historical reenactments</term>
+<term>Horse arenas</term>
+<term>Horse sports</term>
+<term>Indians of North America</term>
+<term>Indians of North America--Clothing</term>
+<term>Monte Mario (Rome, Italy)</term>
+<term>Pantheon (Rome, Italy)</term>
+<term>Prati di Castello (Rome, Italy)</term>
+<term>Shooting</term>
+<term>Sistine Chapel (Vatican Palace, Vatican City)</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Wagon trains</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Leo XIII, Pope, 1810-1903</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Victor Emmanuel II, King of Italy, 1820-1878</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Florence (Italy)</term>
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11747.001"/>
+
+<head type="main">ROME GOSSIP.</head>
+
+<head type="sub">BUFFALO BILL</head>
+
+<p>All Rome, both the elegant and the sporting element, the diplomatic and the artistic, those groups who never fail to visit an Exhibition, or show themselves at the Capannelle races fill daily to overflowing the immense amphitheatre in the Prati di Castello where Buffalo Bill presents his wonderful spectacular circus to the public; which does not resemble in the laest the ordinary circus, but is a real ethnographical study and brilliant show of Indian costumes. The amphitheatre full of people presents a really imposing aspect, with Monte Mario in the distance, its beautiful outline and its sides sloping gently down so as to make one whith the green mounds from behind which the Indians in their picturesque costumes rush impetuously out. This entrance of a hundred or more warriors on horseback is most effective. They enter in groups of twelve, and do not galop but literally fly like the wind; their horses but just grazing the grass with their hoofs. The painted faces, the rich variety of colours, the guttural and deafening howls of these Indians, and their precipitous flight out of the Circus is a never-to-be-forgotten spectacle for the delighted public who find it difficult to say whether to admire more the beautiful little Mexican horses or the strange costumes of the Indians.</p>
+
+<p>The entrance of Buffalo Bill mounted on a fiery grey charger is followed by the most enthusiastic applause. Unfailing admiration is also elicited by Miss <persName xml:id="oakley.a">Annie Oakley</persName> for the indescribable precision of her aim in shooting with a carabine at balls and other objects thrown into the air by an Indian, and of which she never misses one. Then the interest of the public never flags at the entrance of the old fashioned courier on horseback carrying the governmental papers and documents along the frontier before the construction of the railways, or before the telegraph wires were set up, the postillion changing horse at every round. The amazing rapidity with wich all this is done is startling to any ordinary rider. Then follows the attack of an emigrant train by the Indians; various historical scenes in the life of Buffalo Bill, with some more marvellous shooting by a young marksman, <persName xml:id="baker.l">Johnnie Baker</persName>.</p>
+
+<p>But one of the most exciting parts of the performance is the cow-boy's sport, who with a running noose pick up things from the ground whilst galopping past, on the wildest of horses, followed by Buffalo Bill himself who takes the first place in the catching of the little wild colts with the noose, never missing one. Great fun is caused by the horse bucking, followed by the entrance of a herd of buffaloes, and the scene of a village attacked by the Indians which closes the performance and creates the greatest enthusiasm. A visit also to the Indian encampment, the war trophies, and the boys' race must not be forgotten as altogether it forms a most picturesque grouping.</p>
+
+<p>Buffalo Bill will go with his company to Florence on leaving Rome. He has asked the municipality of Florence to let him that space of ground near the Porta alla Croce where the historic tournament was held in 1888, and has obtained gratis the vast square called the <hi rend="italic">Piazzoni</hi> where he will pitch his tents and give some grand representations in the first half of March.</p>
+
+<p>Colonel William Cody (Buffalo Bill), for the benefit of those who do not know it, is of the Roman Catholic faith, to which he has converted some of his Indians. He has asked for an audience from His Holiness for himself and for the whole of his company. The Pope answered that they were too many to be received in a private audience, but agreed to admit them in the Ducal Hall the Morning of march 3rd when he must pass through it on his way to the Sistine Chapel for the ceremony of the anniversary of His coronation. So in that way Leo XIII can also see Buffalo Bill's troop.&#8212;We must add however that Colonel Cody with a few of his followers went a few days since to place two magnificent wreaths of flowers on Victor Emmanuel's tomb in the Pantheon.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

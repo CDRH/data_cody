@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11852">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Society in Florence</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11852</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>EXCERPT ONLY... first four paragraphs of article; remainder of article omitted.</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Society in Florence</title>
+<title level="j">The Galignani's Messenger</title>
+<pubPlace>Paris, France</pubPlace>
+<date when="1890-03-08">March 08, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.064.01 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Exposition universelle de 1889 (Paris, France)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Michaelangelo, 1475-1564</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Florence (Italy)</term>
+<term>Riviera (France)</term>
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11852.001"/>
+
+
+<head type="main">SOCIETY IN FLORENCE</head>
+
+<byline>[<hi rend="italic">From Our Own Correspondent.</hi>]</byline>
+
+<dateline>FLORENCE, March 8.</dateline>
+
+<p>The severe weather described in my last has somewhat mitigated, and although the thermometer in the shade only ranges from 10 deg. to 15 deg. Centigrade, the sun is warm, and shines brightly every day.</p>
+
+<p>The great topic of interest now is the arrival of Buffalo Bill and his "Wild West," which is announced for Tuesday, the 11th inst. The accounts from Rome, that have appeared in our local journals, have advertised the performance better than miles of posters, and the loquacious Florentines are already as familiar with his name as with that of Michael Angelo.</p>
+
+<p>The grounds engaged for the show are situated at the end of the Lung' Arno della Zecchia Vecchia, near the Arno and Viale, where the tramways pass at the upper end of the town. They have been surrounded with a substantial board fence, the knotholes of which will be eagerly disputed by street arabs aspiring to a furtive and gratuitous peep, The dinner organised for Colonel Cody by a few members of the Florence Club numbers nearly twenty-five subscribers, and will probably take place on the night of the opening performance.</p>
+
+<p>Visitors from the Rivieria are beginning to arrive at our hotels, which have done but poor business during the past winter, owing to the influenza epidemic and other causes that seem to have kept people from travelling. The Paris Exhibition, moreover, is generally execrated by hotel proprietors in this part of the world as having absorbed most of the spare cash of the well-to-do.</p>
+
+<gap reason="sampling"/>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
