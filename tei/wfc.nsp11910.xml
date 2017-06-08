@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11910">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill in Rome</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11910</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill in Rome</title>
+<title level="j">Galignani's Messenger</title>
+<pubPlace>Paris, France</pubPlace>
+<date when="1890-03-06">March 6, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.081.03 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Amusements</term>
+<term>Aristocracy (Social class)</term>
+<term>Catholic Church</term>
+<term>Cowboys</term>
+<term>Indians of North America</term>
+<term>Kings, queens, rulers, etc.</term>
+<term>Mexicans</term>
+<term>Papal blessings</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Leo XIII, Pope, 1810-1903</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Rome (Italy)</term>
+<term>Vatican City</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11910.001"/>
+
+<head type="main">Buffalo Bill in Rome.</head>
+
+<p>The <hi rend="italic">Globe</hi> comments upon the singular associate of Buffalo Bill's name with that of the Pope, and says:&#8212;That the two should ever have been brought into juxtaposition is an effective testimony to the change that has come over the face of "civilised" society. The Sovereign Pontiff has given audience to the whole troupe&#8212;Indians, Mexicans, Cowboys, and all; and we are told that the Indians are especially delighted with their reception. No doubt there was on both sides a good deal of pardonable curiosity. "The Pope" is a phrase to conjure with in all parts of the globe, suggesting the most notable personality of all those that fill the imaginations of men. There are may ruling potentates, but only one who dominates so largely the spiritual world. On the other hand, the Pope may well have felt interest in men coming from so far and on such an errand. The amusements of mankind must always be an object of study on the part of those who desire to direct its conduct and energies. What manner of persons are those who invade the Eternal City with all the paraphernalia of a traveling circus? The Pope now knows; and, at the same time, Buffalo Bill and his <hi rend="italic">entourage</hi> may plume themselves upon having received their highest distinction. Royalty has long smiled upon them; they have now been recognised by the Church.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

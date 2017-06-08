@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11839">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Buffalo Bill has the reputation as a smart businessman]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11839</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Buffalo Bill has the reputation as a smart businessman]</title>
+<title level="j"></title>
+<pubPlace></pubPlace>
+<date when="1890">1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<relatedItem type="similar">
+<bibl><title level="a" type="main">Fleecing Buffalo Bill'</title>
+<title level="j">Daily Yellowstone Journal</title>
+<date when="1890-05-24">1890.05.24</date></bibl>
+</relatedItem>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.060.04 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Forgery</term>
+<term>Indians of North America</term>
+<term>Tickets</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Naples (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11839.001"/>
+
+<p>Buffalo Bill has the reputation of being as smart a business man as Barnum himself, but the Neapolitans, among whom he is at present exhibiting his buck horses and wild Indians, are a wily kind of people, and quite a match for the American showman. There was a great rush to see the first performance, and the collectors had not time to examine the tickets closely. When Buffalo Bill looked into the accounts in the evening he found to his amazement upwards of 2,000 francs worth of forged tickets, which the Neapolitans had foisted on the doorkeepers. The Colonel lost no time in looking up a magistrate and lodging a formal complaint; but that worthy was far more impressed with the cleverness of his countrymen than with the losses of their victim, and only held up his hands, exclaiming, "Che gran popolo!" Buffalo Bill's response is not on record.</p>
+
+
+</div1>
+</body>
+
+<back>
+<note>Note 1: Year is 1890; exact date of article is unknown; Buffalo Bill's Wild West appeared in Naples, Italy, from January 26-March 17, 1890.</note>
+</back>
+</text>
+</TEI>

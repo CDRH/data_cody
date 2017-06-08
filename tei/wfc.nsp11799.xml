@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11799">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Riders</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11799</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Massett, Stephen C.</author>
+<title level="a" type="main">Buffalo Bill's Riders</title>
+<title level="j">The World</title>
+<pubPlace>New York, NY</pubPlace>
+<date when="1890-03-16">March 16, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.042.04 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Catholic Church</term>
+<term>Cowboys</term>
+<term>Indians of North America</term>
+<term>Nobility--Italy</term>
+<term>Poetry</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Leo XIII, Pope, 1810-1903</term>
+<term>Massett, Stephen C.</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11799.001"/>
+
+
+<head>Buffalo Bill's Riders.</head>
+
+<lg>
+<lg>
+<l>Hurrah for Buffalo Bill and his band!</l>
+<l>&#160;For they've captured the seven-hill'd city,</l>
+<l>And his cowboys have made Rome howl with delight,</l>
+<l>&#160;And his braves carol the war-whoop ditty.</l>
+<l>For the wild Roman horses, that no one could tame</l>
+<l>&#160;Or ride, as a matter of fact,</l>
+<l>In their hands are subdued from foot to mane&#8212;</l>
+<l>&#160;Thanks to the Western boys' courage and tact.</l>
+</lg>
+
+<lg>
+<l>For the dukes, lords and ladies of high deree,</l>
+<l>The Pope, Cardinals, Bishops&#8212;all, all come to see</l>
+<l>The Wild West Show of Buffalo Bill.</l>
+<l>His cowboy daring and wonderful skill.</l>
+</lg>
+
+<lg>
+<l>For no one in Rome, whether absent or present,</l>
+<l>From the highest in the land to the lowliest peasant,</l>
+<l>&#160;Their wild horses could tame or ride or astride,</l>
+<l>Until Buffalo Bill's boys dashing along came,</l>
+<l>Putting at once all other horsemen to shame</l>
+<l>And, with the breezy coolness of the Western slope,</l>
+<l>Tamed them at once, right in sight of the Pope!</l>
+</lg>
+
+<lg>
+<l>Then hurrah for Buffalo Bill and his boys!</l>
+<l>For the wild horses of Rome to them are but toys!</l>
+<l>Ah! the cowboys of the West know nothing of fear,</l>
+<l>And the welkin will ring with cheer upon cheer</l>
+<l>When they return once again to "Home, Sweet, Home."</l>
+<l>And tell of their wonderful "Ride in Rome!"</l>
+</lg>
+<byline>&#160;&#160;&#160;STEPHEN MASSETT.</byline>
+
+</lg>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

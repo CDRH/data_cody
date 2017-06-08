@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11911">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled ["Buffalo Bill" feels rather chagrined]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11911</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled ["Buffalo Bill" feels rather chagrined]</title>
+<title level="j">The Star</title>
+<pubPlace>Guernsey/London, England</pubPlace>
+<date when="1890-03-05">March 5, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.081.04 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Gifts</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carnot, Adolphe, 1839-1920</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11911.001"/>
+
+<p>"Buffalo Bill" feels rather chagrined at President Carnot's refusal to accept a handsome lamp that our famous American had made in America for the French President at a cost of &#163;250. President Carnot declined on the ground that he accepted presents from no one. The lamp is nine feet hight, made of carved brass on a table of Mexican onyx, 28 inches square. On a plaque of onyx fastened to the lamp rod is attached a large buffalo head, captured by Colonel Cody on the frontiers. The shade of the lamp is 37 inches in diameter, and is made of scarlet silk, covered with moss green tulle, embroidered with poppies and corn flowers.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

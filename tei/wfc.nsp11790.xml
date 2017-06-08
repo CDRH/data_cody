@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11790">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Boys</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11790</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Boys</title>
+<title level="j">New York Herald (Paris ed.)</title>
+<pubPlace></pubPlace>
+<date when="1890-03-06">March 6, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.040.03 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Aristocracy (Social class)</term>
+<term>Caetani family</term>
+<term>Caetani, Onorato</term>
+<term>Cowboys</term>
+<term>Horses--Training</term>
+<term>Nobility--Italy</term>
+<term>Pontine Marshes (Italy)</term>
+<term>Prati di Castello (Rome, Italy)</term>
+<term>Romans</term>
+<term>Wagers</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Bonaparte, Napol&#244;on-Joseph-Charles-Paul, prince, 1822-1891</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Rome (Italy)</term>
+<term>Vatican City</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name>  Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11790.001"/>
+
+<head type="main">BUFFALO BILL'S BOYS.</head>
+
+<head type="sub">TWO MORE WILD HORSES SUBDUED AND RIDDEN AT ROME AMIDST TREMENDOUS APPLAUSE.</head>
+
+<byline>[FROM OUR SPECIAL CORRESPONDENT.]
+</byline>
+<div2>
+<p>ROME, March 5.&#8212;Buffalo Bill's cowboys conquered a second pair of wild horses furnished by the Duke Sermoneta to-day. The Romans were in a frenzy of excitement over the event, and the betting was very heavy.</p>
+
+<p>Enormous crowds went to the Prati di Castello, and outside speculators erected big stands on the surrounding hills. It is even said that the battle was watched with opera glasses from the Vatican. Prince J&#233;r&#244;me Bonaparte and the whole Roman aristocracy was present.</p>
+</div2>
+<div2>
+<head>A TUG OF WAR.</head>
+
+<p>The two powerful black stallions were driven into the arena by the Dukes cowboys from the Pontine Marshes, then the American cowboys appeared, and a terrific struggle followed. Buffalo Bill lassoed one horse, and the furious animal broke the rope. Lasso after lasso was snapped like thread. Meanwhile the Romans were shouting with exctement. Finally <persName xml:id="taylor.w">"Buck" Taylor</persName> made a cunning throw and caught the two front feet of one horse with his noose, and the maddened beast fell helpless amid a thunder of applause. He was then saddled, bridled and ridden. The other horse was similarly mastered.</p>
+</div2>
+
+<div2>
+<head>ACCEPTS THE CHALLENGE.</head>
+
+<p>The Duke of Sermoneta has taken up Colonel Cody's challenge, and will supply some Italian cowboys to ride the bucking bronchos on Friday. All the American cowboys are betting against the Italians, and "Buck" Taylor offers &#36;500 on "Jubilee," which he backs against any Italian who may try to ride him.</p>
+
+</div2>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11919">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Colonel Cody's exploits in the Old World]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11919</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Colonel Cody's exploits in the Old World]</title>
+<title level="j">Galignani's Messenger</title>
+<pubPlace>Paris, France</pubPlace>
+<date when="1890-03">March 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.082.07 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American perspectives</term>
+<term>Americans</term>
+<term>Aristocracy (Social class)</term>
+<term>Celebrities</term>
+<term>European perspectives</term>
+<term>Europeans</term>
+<term>Kings, queens, rulers, etc.</term>
+<term>Newspapers</term>
+<term>Nobility</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Leo XIII, Pope, 1810-1903</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name>  Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11919.001"/>
+
+<p>When Americans read of Colonel Cody's exploits in the Old World, they must be reminded of the prophet without honour in his own country. Buffalo Bill's fellow-citizens in the United States have never taken him quite seriously, and New York society, even outside of the very exclusive Four Hundred, has never thrown open its drawing-rooms to the leader of the Wild West. Trans-atlantic editors are, therefore, naturally bewildered when they read cablegrams concerning Colonel Cody's European conquests. It must be admitted, however, that Americans in Europe grow as enthusiastic over the <rs xml:id="coach.deadwood">Deadwood coach</rs> <hi rend="italic">et al.</hi>, as Europeans themselves, and finally look upon the Colonel as one of the characters of the age. And no wonder; for a man who receives attentions from European Monarchs, Princes, Presidents and the Pope, may be considered to be a personage, at least while he is in foreign parts.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

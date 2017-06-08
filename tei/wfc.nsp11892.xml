@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11892">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Marksmanship: Past and Present</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11892</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Marksmanship: Past and Present</title>
+<title level="j">Shooting and Fishing</title>
+<pubPlace>Boston (Mass.)</pubPlace>
+<date when="1890-01">January 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3777.078.01 (Rome)</idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>Buffalo Bill Combination</term>
+<term>Firearms</term>
+<term>Sharpshooters</term>
+<term>Shooting contests</term>
+<term>Smith &amp; Wesson</term>
+<term>Targets (Shooting)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+<term>Payne, David Lewis, 1836-1884</term>
+<term>Sullivan, John Lawrence, 1858-1918</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11892.001"/>
+
+
+<head type="main">MARKSMANSHIP: PAST AND PRESENT.</head>
+
+<p>At one time the claim to fame of the Hon. Wm. F. Cody rested mainly on the fact, that he had slain, by approved methods, 4280 American bisons, known as "buffalo" in the vulgar tongue. From this beginning Mr. Cody seems likely to make a very successful ending. Like John L. Sullivan of Boston, the Hon. Mr. Cody has been introduced (not presented) to <persName xml:id="albert.edward">Albert Edward, Prince of Wales</persName>, and heir apparent to the crown of Great Britain and Ireland; and not only has this great honor happened to the wild, untamed plainsman, but he has lived to prove that the ability he once wasted in helping to exterminate a noble species, could also be successfully employed in building up a fortune for himself.</p>
+
+<p>It is hardly, however, with his capacity as showman that we have to deal&#8212;but as he is considered by many to be an unrivalled shot&#8212;with the mastery he has shown over rifle and revolver, and I have been able to gather together the following accounts of the reputed doings of his earlier years:&#8212;</p>
+
+<p>"During September, 1880,<ref target="n01">1</ref> Bill was performing at Pope's theatre, in St. Louis, having with his company the celebrated marksman, Ira Paine, whose exhibitions of rifle and pistol shooting have been so often witnessed. One morning, as a number of Bill's and Paine's friends, among others, Capt. D. L. Payne, the scout, and Dr. Voerster, ex-coroner of St. Louis, were engaged in friendly conversation, a dispute arose respecting the relative abilities, as marksmen, of Bill and Ira Paine. As a result of the dispute, a contest was arranged to take place the following afternoon at the fair grounds.</p>
+
+<p>A wager being laid of a basket of champagne and a supper of oysters, Capt. Payne backing Bill, and Ira Paine betting on himself. The shooting was to consist of rifle and pistol practice, steady and snap shots, at a mark and flying glass balls. The terms and place having been agreed upon, the party, re&#235;nforced by several of their friends repaired to the fair grounds, where the contest took place. Buffalo Bill won with such ease in all the varieties of shots, that comparison in the contest would be ridiculous. Out of 100 glass balls thrown from a distance of forty yards, Bill broke 98 and chipped another, making 99 out of a possible 100. A dispute arose over the one ball that was chipped, some contending that it was missed, while Capt. Payne maintained that it was struck, and, to prove his assertion he walked out on the field, and, picking up the ball, was returning with it to the crowd, when Bill shouted to him: 'Hold on, Payne; let me cut the ashes off your cigar without touching the fire.' Payne stopped, and turning his face sideways, permitted Bill to fire. The bullet struck the ashes, leaving the fire exposed.</p>
+
+<p>'Now,' said Bill, 'I'll cut off the tip end of the cigar, so that you will only lose the fire. This also was successfully accomplished. 'Step out again, Payne, and I'll see if I can't cut the cigar out of your mouth with this pistol without touching your lips.' At the crack of the pistol Payne turned about and exhibited a little stump of his cigar, the part he held between his teeth."</p>
+
+<p>This extract is from a work entitled "The Heroes of the Plains," which purports to be a full, true, and particular account of the doings of Buffalo Bill, and similar worthies. It is more as a shocking example of the depth of ignorance some writers on marksmanship are permitted to attain to, than as a sober description of a shooting contest, that I have given the above. I do not wish to be understood to cast the slightest reflection upon the honorable gentleman's holding powers; quite the reverse; but I have the very gravest doubts (not to mention certainty), that there is no revolver in the world capable of doing such remarkably close shooting as the extracts above given would indicate. It is to be regretted that the make of revolver and weights of bullet and powder were not given, but even with a Smith &amp; Wesson target revolver, Russian model, and shooting a reduced charge of six grains and round ball, such as is used for gallery practice, I should prefer a friend to bit the cigar between his clenched jaws rather than myself; but then, I never was brave, and am altogether unprepared for a better land&#8212;which makes quite a difference.</p>
+
+<p>With this paper I propose to finish with the legendary heroes of the trigger, and shall, in my very next, give a short resum&#233; of some of the best scores made by professional shots during the last decade.</p>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Buffalo Bill Combination performances at Pope's Theater, St. Louis, Missouri, occurred October 4-9, 1880.</note>
+</back>
+</text>
+</TEI>
