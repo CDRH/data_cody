@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp09020">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Our Own Cowboys in Europe</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp09020</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Our Own Cowboys in Europe</title>
+<title level="j">The Chillicothe Constitution</title>
+<pubPlace>Chillicothe (Mo.)</pubPlace>
+<date when="1890-03-20">March 20, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno></idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Cowboys</term>
+<term>German newspapers</term>
+<term>Horses--Training</term>
+<term>Kings, queens, rulers, etc</term>
+<term>Nobility--Italy</term>
+<term>Romans</term>
+<term>Stagecoaches</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Germany</term>
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp09020.001"/>
+
+
+<head type="main">Our Own Cowboys in Europe.</head>
+
+<p>We may point with pride to the achievements of our cowboys among the kings and emperors. They have made an impression that our army, our navy and the whole diplomatic staff in Europe have hitherto failed to produce.</p>
+
+<p>It seems there is still a mail coach in an antiquated part of the German empire. Not long since this stage was attacked by robbers and its valuables carried off in true old fashioned style. Thereupon German newpapers, that hate everything American, gravely argued that the robbers must be Americans. If not, then at least the crime was inspired by the scene in the Wild West show in which the old Deadwood coach is held up and robbed. So the United States got the credit of the robbery in any case.</p>
+
+<p>At Rome, however, our cowboys have most distinguished themselves. The Wild West show has created in the Eternal City an excitement one imagines to be second only to that of the days when Roman swell society looked on while bears and lions ate up Christian maidens. Cody advertised that his cowboys would break in and ride in five minutes the wildest steed the Italian kingdom could furnish. And they did it, too, while the Romans looked on in wild amaze, behind the heavy barricades that had been erected to keep the horses from murdering them.</p>
+
+<p>Then Buffalo Bill dared any Italian son of a macaroni eating ancestry to ride one of the great and only original American bucking broncos. Up to date nobody has accepted the challenge.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

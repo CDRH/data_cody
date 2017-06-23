@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp10389">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The District Fair at Valley Falls</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp10389</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The District Fair at Valley Falls</title>
+<title level="j">The Leavenworth Weekly Times</title>
+<pubPlace>Leavenworth (Kan.)</pubPlace>
+<date when="1878-09-05">September 5, 1878</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Amusements</term>
+<term>Exhibitions</term>
+<term>Fairs</term>
+<term>Harness racing</term>
+<term>Horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Goodman, Julia Cody, 1843-1928</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Leavenworth (Kan.)</term>
+<term>Valley Falls (Kan.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp10389.001"/>
+
+
+<head type="main">THE DISTRICT FAIR AT VALLEY FALLS</head>
+
+<p>EDITOR TIMES:&#8212;The district fair to be held at Valley Falls, on the 3d, 4th, 5th and 6th of September, 1878, promises to be a success. The grounds selected are within five minutes walk of the Kansas Central and A. T. &amp; S. F. R. R., and located on the farm of J. A. Cooly,<ref target="n01">1</ref> which joins Valley Falls on the South, and in a most magnificent grove of walnut, mulberry and other timber of about twenty acres, and bounded on the East and South by the Delaware river. The trotting park is one-half mile, and on perfectly level prairie, and joins the grove, so that spectators can stand in this beautiful shady grove and view with pleasure the sports and amusements of the turf. The track is pronounced by turf men to be the finest in the West. The main building, 30x30 feet, with two wings of 50 feet each, make a lofty and grand appearance, just peaping out of the rich foliage of the forest and in full view of the sporting ring. The grand pavillion opposite the judges' stand will sear one thousand people; there is a stand neat the pavillion for two bands of music, which will contend for a prize in discoursing tones that will make the angels laugh (as thousands are expected to be present on that occasion). Stabling for forty horses, located on the bank of the river is a cool breezy ground in full view of the driving park. Ten horses are now on the ground preparing for the contest of the arena, and more are expected daily. Full and ample arrangements are made for the accommodation of all kinds of stock. Every kind of refreshment for man will be abundantly prepared. Many of the finest horses in the West will be there to contend for the honors of the field. "Buffalo Bill" was invited to be present with his wild Indians to exhibit in full Indian costume the war dance, but his previous engagements prevent. He made his sister, Mrs. Goodman, who lives here, a short visit last week. He visited the fair grounds to view the fine horses. After looking through the stables, and about to leave, J. A. Goodman led out his silver clog horse colt, three past, nearly sixteen hands and for form, beauty, step and style, is not surpassed in any country. Mr. Cody took in the vision before him in an instant and said to Goodman: "I must have that colt. What is your price?" Goodman said $500. Cody replied: "I will take him, and give you $50 more if you will keep him till spring. The colt will be on exhibition at the fair, together with a full sized picture of "Buffalo Bill." People from all parts of the country are visiting the grounds daily. A sister from a neighboring city, romantically remarked to her husband: "What a glorious place for camp meetings, picnics, &amp;c., in this boundless contiguity of shade, fit haunts of gods, &amp;c." This brought down the house, when all proposed that Buffalo Bill give a specimen of his rifle shooting. The company were standing under a plum tree, in the grove, which was full of plums. It was proposed that the trial be on ten plums thrown singly into the air. The first one was missed but the other nine were hit. This brought down the grove with three cheers and a tiger, when we adjourned from labor and refreshment.</p>
+
+<p>Mr. S. A. Huron, secretary of the association, who, by the way, is a most agreeable and sociable gentleman, has the control and management of all the arrangements, Mr. Ed. Hutchins, the president, having but little time to devote to it.</p>
+
+<byline>J. A Cody.<ref target="n01">1</ref></byline>
+ 
+
+
+
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Joseph A. Cody, paternal uncle to William F. Cody; editor of the Jefferson County newspaper <hi rend="italic">Grasshopper,</hi> Grasshopper Falls, Kansas.</note></back>
+</text>
+</TEI>

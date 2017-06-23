@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp02945">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Is Marriage a Failure? Lillian Smith and "Jim the Kid" are Satisfied it is</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp02945</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Is Marriage a Failure? Lillian Smith and "Jim the Kid" are Satisfied it is.</title>
+<title level="j">Salt Lake Tribune</title>
+<pubPlace>Salt Lake City (Utah)</pubPlace>
+<date when="1889-08-15">August 15, 1889</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Divorce</term>
+<term>Marriage</term>
+<term>Sharpshooters</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp02945.001"/>
+
+    <head type="main">IS MARRIAGE A FAILURE?</head>
+    
+    <head type="sub">Lillian Smith and "Jim the Kid" are Satisfied it is.</head>
+    
+    <p>NEW YORK, Aug. 12--[<hi rend="italic">Chronicle</hi> dispatch--Special to TRIBUNE.]--At the time of the first appearance at Staten Island of the "Wild West Show," <persName xml:id="willoughby.j">James G. Willoughby</persName>, otherwise known as "Jim the Kid," became enamored of Miss <persName xml:id="smith.l">Lillian Smith</persName> of California, champion rifle shot, who was attached to the show. A romantic marriage was the result, Justice Hulselus of Port Richmond officiating. Only <persName xml:id="taylor.w">Buck Taylor</persName> and a few friends were present, while the father of Miss Lillian was watching eagerly shotgun in hand, to shoot "The Kid," as he was opposed to the match. After the marriage the bride was taken by her parents to Connecticut, and not until after several attempts did the groom finally by strategem succeed in regaining her. The couple have remained with Buffalo Bill since, but it now appears that jealousy has invaded the family in France, and Justice Hulselus, who united them in marriage, is in receipt of a letter from Paris in which the husband says that his "marriage life is a failure," and asks advice as to the manner of procuring a divorce. Justice Hulselus, under the peculiar circumstances, does not know what advice to give his would-be client.</p>
+    
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp09198">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp09198</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill</title>
+<title level="a" type="main">A Short Sketch of the Life of Hon. William F. Cody, the Famous Scout of the Prairies</title>
+<title level="j">Ogdensburg Daily Journal</title>
+<pubPlace>Ogdensburg (N.Y.)</pubPlace>
+<date when="1874-07-16">July 16, 1874</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>Big game hunting</term>
+<term>Biography</term>
+<term>Firearms</term>
+<term>Hunting--North America</term>
+<term>Kansas Pacific Railway Company</term>
+<term>Pony express</term>
+<term>Russell, Majors and Waddell</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Settler life</term>
+<term>Sioux Nation</term>
+<term>United States--History--Civil War, 1861-1865</term>
+<term>United States. Army. Cavalry, 5th</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Alekse&#301; Aleksandrovich, Grand Duke of Russia, 1850-1908</term>
+<term>Bennett, James Gordon, 1841-1918</term>
+<term>Blunt, James G. (James Gillpatrick), 1826-1881</term>
+<!-- <term>Buffalo Bill, 1846-1917</term> -->
+<term>Buntline, Ned, 1822 or 1823-1886</term>
+<term>Carr, E. A. (Eugene Asa), 1830-1910</term>
+<term>Dunraven, Windham Thomas Wyndham-Quin, Earl of, 1841-1926</term>
+<term>Hickok, Wild Bill, 1837-1876</term>
+<term>Jerome, Leonard, 1818-1891</term>
+<term>Sheridan, Philip Henry, 1831-1888</term>
+<term>Ward, Henry A. (Henry Augustus), 1834-1906</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Fort McPherson (Neb.)</term>
+<term>Fort Sanders (Wyo.)</term>
+<term>Hays (Kan.)</term>
+<term>Kansas</term>
+<term>Leavenworth (Kan.)</term>
+<term>Rochester (N.Y.)</term>
+<term>Scott County (Iowa)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name><name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp09198.001"/>
+
+
+<head type="main">Buffalo Bill.</head>
+
+<head type="sub">A Short Sketch of the Life of Hon. William F. Cody, the Famous Scout of the Prairies.&#8212;Incidents and Adventures.</head>
+
+<byline>From the Rochester Democrat.</byline>
+
+<p>Probably it is already well-known by the majority of our readers that the famous scout and frontiersman William F Cody, better known by the sobriquet of Buffalo Bill, has taken up his residence in this city. It is however, safe to say that very few, comparatively, have any adequate idea of the singular and eventful life of the man, or the great part he has played in the drama of border life. Thinking, therefore, that a sketch of his life and a recital of a few of his adventures might not be uninteresting to those among whom this noted personage has taken up his abode, a reporter of the Democrat and Chronicle called upon Mr. Cody yesterday, to ascertain the necessary facts and data for such an article. It is proper in the first place to state that Mr. Cody is far different from the generality of the class who make themselves famous, and consequently are obliged to suffer the affliction of interviewing, inasmuch as he is extremely modest, and cannot be coaxed to describe any of the daring exploits and brave deeds for which he is so noted, and which have made his name a household word throughout the whole western country. Indeed this article would be almost utterly devoid of interest in that regard were it not for various printed statistics our reporter was able to find, facts gathered from Prof. Ward, of the University, and others who have been intimately associated with the scout in his expeditions on the plains.</p>
+
+<p>Our reporter called upon Mr. Cody as his residence, 217 Exchange street, about 4 o'clock, and found him suffering from a slight attack of chills and fever, which, however, was not sufficient to confine him to his room. He received his visitor with much cordiality, and submitted to his close questioning with much patience.</p>
+
+<p>William F. Cody was born in Scott county, Iowa in 1842.<ref target="n01">1</ref> When ten years of age he accompanied his father <persName xml:id="cody.i">Isaac Cody</persName> to Kansas.&#8212;They were among the first settlers of that territory, and their life there was filled with strange and remarkable experiences. His father was elected as a member of the first territorial Legislature, and took quite a prominent part in the politics of the day. He was one of the leading spirits of the "Free State" side in the days of the notorious Jim Lane,<ref target="n02">2</ref> and in 1866 was murdered by the pro-slavery party, on account of his strong abolition principles. The deed
+
+<pb facs="wfc.nsp09198.002"/>
+
+was committed by the well-known cut-throats, the Candliss gang, which were all&#8212;twelve in number&#8212;eventually wiped out of existence by the famous <persName xml:id="hickok.j">Wild Bill</persName>, with whom our readers are also somewhat familiar. At this time William was fourteen years of age, and was in the employ of the government freighters working between Salt Lake city and the Missouri River. He entered the service at Russell, Major &amp; Waddle, as a freighter across the plains, in order to support his widowed mother and sisters. He continued in this business until the establishment of the pony express, when he entered the service as a rider. The pony express, as it was called, was instituted for the speedy transmission of important messages and documents from St. Joseph, Missouri, to San Francisco. The stations were about fifteen miles apart, and at every station the riders changed horses. This distance was expected to be made in an hour, so that the horses were put through at the top of their speed. The position of the rider was one of great peril, inasmuch as the route lay for the greater part through a country filled with hostile Indians and white desperadoes, who gained their living by robbery and crime. The riders received strict orders to speak to no one upon their route, and not to stop except upon some imperative business. On the entire route about four riders a month was the average number killed. In this business Bill, though young, evinced the greatest courage, combined with unusual prudence and cunning, so that by the time the war broke out he had gained considerable reputation as a cool, daring Indian fighter. He was among the first riders in the express line, and was among the very few who remained in it until the outbreak of the war. The line was finally done away with by the introduction of the telegraph. During the five years that Bill was connected with it he passed through many a hair-breadth escape, and it is impossible to detail all the adventures he encountered during that eventful period of Western history. Although not out of his teens, his reputation as a dare-devil scout who feared neither hostile Indian or treacherous white man was full established and wide spread. It was during his connection with it that he first met that strange dare-devil, soldier and officer, Wild Bill.</p>
+
+<p>When the war of the Rebellion broke out Cody quickly espoused the Federal cause and enlisted in the service as a scout, for which his previous experience well fitted him. He was first a member of the company known as the "Red Legged Scouts" connected with Gen. Blunt's command. He was afterwards with Gen. McNeil, and still later with Gen. A. J. Smith, in Missouri. He operated against the rebel General Price, and his defeat on numerous raids was due in a great measure to Cody's valuable aid.</p>
+
+<p>The war being ended, he returned to Leavenworth, Kansas, in '65. In '66 he married a most estimable young lady in St. louis, who is still the partner of his joys and sorrows. The Kansas and Pacific railroad company were about that time laying their track through that section, and he was employed as a hunter in furnishing buffalo meat for the men in the employ of Shoemaker &amp; Miller, contractors. As the company of men numbered 1,200, it may easily be imagined that considerable meat was required for their daily consumption. He continued in this business for eighteen months, and, incredible as it may seem, in that time brought down 4,280 buffalos with one rifle. This fact is on record in the books of the company. This extraordinary feat won for him the <hi rend="italic">sobriquet</hi> of Buffalo Bill, and gained for him a fame which has spread over the whole country. The rifle with which this slaughter was committed was one of the improved Springfield make, with calibre reduced from 61 to 50, loading at the breech. The old gun is now in rather a dilapidated condition, but Cody's eyes glistened with a pardonable pride as he brought out the battered and bruised piece yesterday and showed it to our reporter with the remark, "It's a rough looking piece, but it's spoke loud to many a redskin and buffalo." The barrel of the gun was badly bent and the stock considerably shattered, the effects, as he stated, of an encounter with a wounded elk.</p>
+
+<p>In 1867 Buffalo Bill took up his residence again in Hays City, Kansas, and continued his occupation as a hunter. He shipped game east and was one of the first engaged in the business. A large amount of game was also shipped to Europe. In the spring of '68 the Indian war broke out and he was employed as a government scout and guide in the army commanded by Gen. Sheridan<!--LINK--> with headquarters at Fort Hays. Buffalo Bill went afterwards as a guide for the fifth cavalry, and in '71 he was ordered with General Carr<!--LINK--> to the department of the Platte. He remained with him until '72, when the third cavalry under Gen. Reynolds took its place. About this time he was elected to represent nine counties of the Nebraska legislature. He was also elected justice of the peace, and while serving in this capacity first made the acquaintance of Prof. Henry A. Ward of the Rochester university. He was in search of zoological and geological specimens, and the two took many a hunting excursion together. Many of the handsome buffalo heads and other interesting specimens which Prof. Ward sent home were obtained through Buffalo Bill. The acquaintance thus began ripened into friendship, and Buffalo Bill took his first trip east in company with Prof. Ward. When the <persName xml:id="aleksandrovich.a">Grand Duke Alexis</persName> started out for his grand hunt of course, Buffalo Bill was chosen to lead the expedition, and for the manner in which he discharged his duties, he received some very valuable gifts.&#8212;
+
+<pb facs="wfc.nsp09198.003"/>
+
+Among these were a handsome diamond cluster pin and a torquoise set with nine diamonds which Alexis took from his own scarf and presented him. As before stated Buffalo Bill came east with Prof. Ward, and visited a few days at his residence in this city. He then went on to New York, and was lionized by young Bennett of the Herald, Jerome and many others who had received favors at his hands on the plains. He afterwards accompanied many other excursion parties from the east, or from Europe to the praries. Among these were Sir Geo. Watts Garland in '71, and the <persName xml:id="dunraven.w">Earl of Dunhaven</persName> in the fall of '72.</p>
+
+<p>In December, '72, he first conceived the idea of going upon the stage to represent border life, and made the experiment in company with <persName xml:id="buntline.n">Ned Buntline</persName>. This proved successful, and he has since spent the winters in that business.&#8212;The dramatic season being now ended Mr. Cody has returned to this city to spend a few days in recreation and rest. His family are here and it is his intention to have them remain here until his children are grown up and educated. The latter are three in number and remarkably bright and handsome. The eldest is a little girl of eight years; the next his only son&#8212;named in honor of the great scout and his personal friend&#8212;Kit Karson Cody, and the youngest a girl of two. Bill says he likes to see the little ones enjoying themselves playing about in the grass.&#8212;Occasionally he says he has to go to the door with the lariat and rope them in, to get cleaned up as they like too well the fun of getting into the dirt. His family is very pleasant indeed, and it is no wonder he is so proud of them.&#8212;Next week he goes west to assume the charge of a hunting expedition undertaken by Thomas Medley, the famous millionaire of London, England. He will there be joined by Wild Bill and some of his other friends, who are now in the Yosemite valley. After joining the party at Corinne, Buffalo Bill will proceed with them to Fort Bridger, from which place they will hunt grizzly bear. Thence they will proceed to Fort Saunders, Wyoming, where they will make a raid on mountain sheep and elk, which are numerous in that locality. From there the party will go to Sidney Plains and Fort McPherson, the former home of Buffalo Bill, where they will hunt buffalo. The party are fitted out with everything required for the trip, which will last eight weeks, or longer. Mr. Medley has given orders to Buffalo Bill to spare neither pains nor expense in fitting out the expedition, saying that he is willing to expend $20,000 to beat the famous expedition of Grand Duke Alexis. Mr. Cody's family will remain at their pleasant residence in this city and in the fall he intends to enter again the dramatic profession.</p>
+
+<p>Mr. Cody bears upon his person ample proof of the various desperate struggles and hair-breadth escapes he has passed through. His right leg is badly shattered below the knee by a bullet received from an Indian while on a hunting expedition. Although badly wounded he was not beaten, and that Indian never shot another man after that. While in a skirmish with the redskins in '68 an arrow passed completely through the fleshy portion of his right thigh, and in '69 another bullet broke his skull.&#8212;While under General Carr in the Indian war he killed the famous Sioux chief, Tall Bull, and captured his horse&#8212;said to be the finest and fastest animal on the praries. To relate the hundreds of adventures he has had would fill a large-sized volume, and we cannot, therefore, attempt to do anything with them. He is regarded by the Indians as some one gifted with superhuman powers, and although a reward of two hundred ponies has been offered for his scalp, none dare meet him face to face and try to take it. He is called by several names by them. The Pawnees call him Keweick, (Big Buffalo,) and the Sioux <rs xml:id="pahaska">Pa-he-has-ka, (Longhair.)</rs> In his scouting expeditions he travels by night, sleeping day times in bushes and grass, hidden from view. He has often been compelled to kill his horse or mule when out on these trips, using the dead body as a defense while he kept his enemies at bay with his unerring rifle, until night or some friendly party furnished him with the means of escape. His exploits have been indeed wonderful, and if written in full would make an exceedingly interesting book.</p>
+
+</div1>
+</body>
+
+<back>
+
+<note xml:id="n01">Note 1: William F. Cody's birthdate was February 26, 1846.</note>
+
+<note xml:id="n02">Note 2: James Henry Lane (1814-1866), an abolitionist leader during the "Bleeding Kansas" period following the Kansas-Nebraska Act of 1854.</note>
+
+
+</back>
+</text>
+</TEI>
