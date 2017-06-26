@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01116">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Two Famous Scouts</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01116</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Two Famous Scouts</title>
+<title level="j">Saturday Evening Post</title>
+<pubPlace>Philadelphia (Pa.)</pubPlace>
+<date when="1877-08-25">August 25, 1877</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Buffalo Bill Combination</term>
+<term>Firearms accidents</term>
+<term>Military men</term>
+<term>Traveling theater</term>
+<term>Whiskey</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Crawford, Jack, 1847-1917</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01116.001"/>
+
+
+<head type="main">TWO FAMOUS SCOUTS.</head>
+
+<byline>From the Virginia City Enterprise.</byline>
+
+<p>As illustrative of the friendship existing between the two scouts, Buffalo Bill and Captain Jack Crawford, we may relate a little story of the manner in which Jack (now slowly recovering in this city from a wound inflicted in his thigh by the accidental discharge of his pistol while performing at the National Theatre) once came to Bill's relief far out in the wilderness. Buffalo Bill acting as a scout was leading an army of some 4,000 men into the Indian country. Long after Bill and the army had left the last post on the frontier, Captain Jack was sent as a bearer of despatches to the officer in command of the advancing forces. Before mounting his horse to set out on his journey Captain Jack thought of a slight weakness of Bill's for "fire-water." He felt quite sure that a "drop of the ardent" in the wilderness would be more acceptable to Bill than the heaviest shower of manna that ever fell. He therefore procured a bottle of the best whiskey to be had at the fort and stowed it away for Bill.</p>
+
+<p>He was obliged to travel 400 miles before overtaking the trains, so far had they advanced before he was sent after them.</p>
+
+<p>When Jack had reached the camp of the soldiers and delivered his despatches to the commanding officer, he sought out his friend Buffalo Bill.</p>
+
+<p>The two scouts greeted each other in the hearty and sincere style of frontiersmen. After a few minutes had been spent in asking and answering questions, Jack informed Bill that he had brought something for him all the way from the post.</p>
+
+<p>"What is it you have taken the pains to bring so far?" asked Bill.</p>
+
+<p>"Guess," said Jack.</p>
+
+<p>"How can I guess? It must be something very nice and very useful to be carried so far and in such a country."</p>
+
+<p>"It is very nice; as regards its usefulness, you must be judge."</p>
+
+<p>"Why don't you say what it is at once?"</p>
+
+<p>"Can't you guess?"</p>
+
+<p>"No."</p>
+
+<p>"What would you most like to have just now?"</p>
+
+<p>"A good, big horn of old Bourbon," frankly admitted Bill, smacking his lips.</p>
+
+<p>"Bravo! I have brought you a whole bottle, and a rousing big bottle, too!"</p>
+
+<p>"No, Jack? Get out, now, you can't fool me!"</p>
+
+<p>"Honor bright!"</p>
+
+<p>"Can it be possible that you have carried a bottle of whiskey 400 miles!"</p>
+
+<p>"You know, Bill, that I never drink."</p>
+
+<p>"I know; but to thing of bringing it so far."</p>
+
+<p>"Just as easy to carry it 400 as to carry it ten, once I had it stowed away."</p>
+
+<p>"Jack, you've worked upon my feelings to such an extent that it will go hard with me if you are fooling."</p>
+
+<p>"Come and see"</p>
+
+<p>Jack led the way and produced from his saddle bags a quart bottle of what Bill pronounced "good stuff."</p>
+
+<p>Bill sought out a chum among the officers, and the two stole away to a neighboring brook, where they seated themselves in the shade of a clump of willows, and never left the spot until they had drained the bottle of the last drop. Bill swore that never in his life had he tasted whisky that came so near his idea of the tipple of the gods. That evening some of the men were heard to say they would think Buffalo Bill "a leetle set up," did they not know that there was not a drop of whiskey within 400 miles of the camp. Captain Jack looked wise, but said nothing.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

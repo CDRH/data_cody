@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp03064">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Rome and Nebraska</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp03064</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Rome and Nebraska</title>
+<title level="j">Omaha World-Herald</title>
+<pubPlace>Omaha (Neb.)</pubPlace>
+<date when="1890-03-09">March 9, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Colosseum (Rome, Italy)</term>
+<term>Cowboys</term>
+<term>Horsemanship</term>
+<term>Horses--Training</term>
+<term>Nobility--Italy</term>
+<term>Traveling exhibitions</term>
+<term>Western riding</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Caetani, Onorato</term>
+<term>Nebraska</term>
+<term>Rome (Italy)</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp03064.001"/>
+
+<head type="main">ROME AND NEBRASKA</head>
+
+<p>Nebraska has conquered Rome. It was the cowboy that did it. And it was at an exhibition. Rome has been used to exhibitions for many years&#8212;for several centuries, in fact. She used to enjoy herself long before Nebraska was doing anything in particular. By looking over the files it has been ascertained that she had several holidays even before the state house was built at Lincoln. She used to have gladiatorial fights and wild beast fights and fights between men and wild beasts in the Coliseum. Nebraska also has a coliseum, and it may be that this accounts for the manner in which its representatives have been able to astonish the city on her seven hills.</p>
+
+<p>Six wild Roman steeds were brought from the breeding farm of the Duke de Sermoneta to the Prati di Castello to put to defiance the cowboys of our gallant plainsman, Buffalo Bill, and all Rome gathered to see what would happen. When these horses came in, wild from the meadows, virgin to shoe or bridle, high bred, fearless and angry, no one had any doubt about the outcome. It looked as if the cowboys were going to be sacrificed for the old reason&#8212;to make a Roman holiday.</p>
+
+<p>But brains are more than force, and there are tricks in the trade of the cowboy, as Nebraskans know. In less than five minutes these handsome and vicious creatures were tamed, and were obeying the will of their riders, who rode them as confidently and as familiarly as if they had been on those same backs a thousand times. Rome hardly believed her eyes. It went wild with enthusiasm. We are assured by those who know that the principles of the German&#8212;and hence, the English&#8212;method of riding are correct. It is the proper thing, so those say in authority, to ride as they ride. But Americans have a suspicion which they dare only whisper, that the cowboys of Nebraska know more about the way to ride than all the armies of England and Germany together.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

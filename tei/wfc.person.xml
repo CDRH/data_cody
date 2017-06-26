@@ -95,6 +95,22 @@
 
 <listPerson type="other">
 
+<person xml:id="aleksandrovich.a">
+<persName type="display" subtype="viaf" key="http://viaf.org/viaf/50056916">Alekse&#301; Aleksandrovich, Grand Duke of Russia, 1850-1908</persName>
+<birth when="1850">1850</birth>
+<death when="1908">1908</death>
+<sex>male</sex>
+<note>At the invitation of General Philip Sheridan, Alekse&#301; Aleksandrovich, Grand Duke of Russia, arrived in the United States in November 1871 for a tour of the country, including an elk and buffalo hunt in Nebraska, guided by William F. Cody and supported by United States Cavalry under General Sheridan's command.</note>
+</person>
+
+<person xml:id="hickok.j">
+<persName type="display">Hickok, James Butler "Wild Bill", 1837-1876</persName>
+<persName type="viaf" subtype="viaf" key="http://viaf.org/viaf/37709764">Hickok, Wild Bill, 1837-1876</persName>
+<note>James Butler "Wild Bill" Hickok (1837-1876), one of the most notable figures of the American West, was a lawman, gunfighter, marksman, professional gambler, and army scout. He served in the Union Army during the Civil War and gained publicity after the war for his exploits as a scout, marksman, and professional gambler. He was something of a hero to William F. Cody, who based a number of elements of his public image on Hickok. In 1873 Cody invited Hickok to join the Buffalo Bill Combination, along with John Burwell "Texas Jack" Omohundro (1846-1880), on stage in their new play, <hi rend="italic">Scouts of the Plains</hi>; he left the Combination in March 1874. In March 1876 Hickok married Agnes Lake and thereafter organized gold prospectors in the Black Hills. In August 1876, while playing poker in a saloon in Deadwood, Dakota Territory, Hickok was shot and killed by Jack McCall; McCall was eventually found guilty and hanged for the crime.</note>
+</person>
+
+
+
  <person xml:id="albert.edward">
 <persName type="display" subtype="viaf" key="http://viaf.org/viaf/316401971">Albert Edward, Prince of Wales, 1841-1910</persName>
 <persName type="viaf" subtype="viaf" key="http://viaf.org/viaf/265340794">Edward VII, King of Great Britain, 1841-1910</persName>
@@ -1626,7 +1642,7 @@
 <education></education>
 <residence></residence>
 <faith></faith>
-<note type="photograph"><figure><graphic n="69.1256"/></figure></note>
+<!-- <note type="photograph"><figure><graphic n="69.1256"/></figure></note> -->
 <note type="bio">Born an Oglala Lakota in South Dakota in 1842, Siŋté Máza or Iron Tail joined Buffalo Bill's Wild West in 1889 and would remain with the exhibition until it closed in 1913. William F. Cody and Iron Tail became close friends, and Iron tail often accompanied Cody on the annual hunt following the close of the Wild West’s touring season. Iron Tail was among the show Indians photographed by Gertrude Käsebier in her New York studio in 1898. In 1913 Iron Tail worked with Cody on his film <hi rend="italic">The Indian Wars</hi> and was one of the models for the Indian-head nickel which was minted that year. When Buffalo Bill's Wild West closed in 1913, Iron Tail began working for Miller Brothers &amp; Arlington 101 Ranch Real Wild West. While traveling by train to return to his home in South Dakota, Iron Tail contracted influenza and died in Chicago on May 29, 1916; he is buried in Red Cloud Cemetery at Pine Ridge Reservation, South Dakota.</note>
 </person>
 
@@ -1726,7 +1742,7 @@
 <residence></residence>
 <faith></faith>
 <note type="bio">Born near the Grand River in South Dakota and originally given the name Slon-He (Slow), Sitting Bull (Thatha&#414;ka Iyotha&#414;ka) achieved fame first as a Hunkpapa Lakota warrior fighting Crows and, later, Americans. A veteran of the Great Sioux War and Little Big Horn, Sitting Bull resisted American encroachment into the West and continued fighting against Americans until he surrendered in 1881. Sitting Bull joined the Wild West Exhibition in 1885 in Buffalo, New York, after William Cody spent nearly two years trying to recruit him. As perhaps the most well-known Indian in America as both a survivor of Little Big Horn and a symbol of Indian resistance to westward expansion, the chance to sign Sitting Bull would only serve to increase Cody's prestige and generate publicity for the Wild West. Sitting Bull toured with Buffalo Bill's Wild West for only four months. Having grown tired of the travel and bustling cities, he decided to return to his home on Pine Ridge. In 1890 Indian agent James McLaughlin sent Indian police to arrest Sitting Bull. Shooting erupted and Sitting Bull was killed in the skirmish. Sitting Bull's son and six other Hunkpapas died, as did six policemen.</note>
-<note type="photograph"><figure><graphic n="P.6.876"/></figure></note>
+<!-- <note type="photograph"><figure><graphic n="P.6.876"/></figure></note> -->
 </person>
 
 <!--

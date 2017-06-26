@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp04808">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Notable Scout</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp04808</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">A Notable Scout</title>
+<title level="a" type="sub">Incidents in the Career of Wm. Cody, Better Known as "Buffalo Bill"</title>
+<title level="j">St. Louis Globe Democrat</title>
+<pubPlace>St. Louis (Mo.)</pubPlace>
+<date when="1877-05-20">May 20, 1877</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Biography</term>
+<term>Colt firearms</term>
+<term>Firearms</term>
+<term>Hunting guides</term>
+<term>Hunting</term>
+<term>Indians of North America</term>
+<term>Kansas Pacific Railway Company</term>
+<term>Military men</term>
+<term>Mormons</term>
+<term>Nicknames</term>
+<term>Nobility of character</term>
+<term>North Platte River</term>
+<term>Pony express</term>
+<term>Republican River (Neb. and Kan.)</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Wagon trains</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Alekse&#301; Aleksandrovich, Grand Duke of Russia, 1850-1908</term>
+<term>Blunt, James G. (James Gillpatrick), 1826-1881</term>
+<term>Crook, George, 1829-1890</term>
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Hancock, Winfield Scott, 1824-1886</term>
+<term>Johnston, Albert Sidney, 1803-1862</term>
+<term>Sheridan, Philip Henry, 1831-1888</term>
+<term>Sitting Bull, 1831-1890</term>
+<term>Terry, Alfred Howe, 1827-1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Badlands (S.D. and Neb.)</term>
+<term>Scott County (Iowa)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp04808.001"/>
+
+<head type="main">A NOTABLE SCOUT.</head>
+
+<head type="sub">Incidents in the Career of Wm. Cody, Better Known as "Buffalo Bill."</head>
+
+<head type="sub">How He Obtained His Sobriquet&#8212;Adventures in Indian Campaigns&#8212;A ride of 120 Miles in Eighteen Hours&#8212;An Exciting Time with the Redskins.</head>
+
+<byline>(From the San Francisco Call.)</byline>
+
+<p>Nearly every one, male or female, young or old, is tinged with a love of adventure and admiration of those few whose daring deed on flood or field have made them famous. One can not help respecting bravery, whether moral or physical, and where it is aided by indomitable will, keen perception, strict integrity, unassuming modesty and unfailing good humor, this respect merges into a still warmer feeling for the fortunate man who possesses so many good qualities.</p>
+
+<p>William T. Cody, popularly known as "Buffalo Bill," is fully entitled to this character, as any army officer with whom he has served during the past twenty years will bear witness. Cody is</p>
+<div2>
+<head type="sub">AN EXCEPTIONAL MAN,</head>
+
+<p>for with every disadvantage of education and early training to contend against, he has steadily advanced upon the road which chance engineered for him, keeping clear of its pitfalls, and passing, one after the other, all his competitors, until he stands to-day the foremost scout in America. This is no fulsome flattery, for every one who knows Cody acknowledges his worth and feels honored in claiming him as a friend. The writer of this article has hand many opportunities to judge the man's character, and has always found him courageous, keen-witted and absolutely faithful to his friends. When serving as a scout he is the associate, not the inferior, of the officers, is always a welcome visitor to their tents, and holds receptions in his own camp second only to those of the General in command. Of course his roving, vagabond life, has given little opportunity for the acquirement of society polish, or of educational improvement, and his manner lacks the refinement of the carpet knight; but that ingredient of the true gentleman, which instinctively avoids any word or deed that might wound the feelings of another, that self-denial for the sake of others, and that almost reckless generosity toward those who are in trouble, are found in Cody, and prove him to be one of those rare phenomena, a nature's nobleman.</p>
+
+<p>Will Cody was born in Scott County, Iowa, in 1839,<ref target="n01">1</ref>  and is therefore thirty-eight years of age. While he was yet an infant his father, whose pioneer instincts always carried him to the furthest frontier, became an Indian trader in Kansas and Nebraska, and it was in that wilderness and under such untoward circumstances that "Little Billy," his then nom de plume, picked up the rudiments of education from the kindly wives of officers at different forts and trading posts. In 1855 the boy started in life on his own account, and drove an army team until 1857, when he </p></div2>
+<div2>
+<head type="sub">VOLUNTEERED FOR THE MORMON WAR,</head>
+
+<p>and made the campaign under Sidney Johnston. During '60 and '61 he was employed as a pony express rider on some of the most dangerous portions of the overland route. Early in '62 he joined that celebrated band known as Gen. Blount's "Red-legged Scouts," and served with them in Kansas and Western Missouri until the close of the war, when he went out to the plains as Government scout and dispatch carrier. In '67 he was appointed chief hunter of the Kansas Pacific Railroad Company, and it was in their service that he gained his sobriquet of "Buffalo Bill," on account of the immense number of bison that fell to his rifle. When the Indian war broke out, during that year he served with the army under Gens. Hancock and Custer, and in 1868 was appointed by Gen. Sheridan Chief of Scouts for the Department of the Missouri. He remained in service until 1871, when he had the management of the Grand Duke Alexis' hunting-party. In February, 1872, he paid his first visit to the East. Being then taken in hand by theatrical managers, who scented a fresh sensation in the good-looking frontiersman, Cody made</p></div2>
+<div2>
+<head>HIS DEBUT AS A FOOTLIGHT SCALPER,</head>
+
+<p>and since that time has passed his winters in paint and tinsel on the stage, his summers in patched buckskin on the plains. So far superior is his love of actual to mimic warfare that at the outbreak of the Sioux war last year he forfeited an engagement in the East, and hurried to the front, where he was at once appointed chief of scouts, first to Gen. Crook's command and after to the joint commands of Crook and Terry. Toward the close of the campaign, Cody performed a remarkable feat of physical endurance, and the writer can vouch for the truth of the following description. Believing the war practically at a close, so far as any actual fighting was concerned, when the command reached the Yellowstone River, he resigned his position and started for the Missouri on a steamer, the commands meanwhile marching back into the Bad Lands on their bootless search for the unfindable Sitting Bull. The steamer was delayed for two days some few miles below the late camp, and as she was starting out on the second afternoon met a steamer coming up from the settlements with dispatches for Terry and Crook. There were several well-known scouts on board, but Gen. Whistler made a special request that Cody should carry the dispatches through, offering him, in case he should accept the task, the use of his own blooded mare. The mission was not only difficult but dangerous. Difficult because the command was 
+
+<pb facs="wfc.nsp04808.002"/>
+
+known to be at least thirty miles distant, and the intervening country to be as scarred and rugged as the face of a volcano; dangerous on account of the small war parties of Indians that were scattered all through the district. Of course Cody undertook the mission, leaving the steamers at 5 p.m. He returned shortly after midnight with counter dispatches from the twin commanders, and so great had been the exertion that Gen. Whistler's mare died during the night. Finding that a fresh batch of orders must be sent forward, Cody insisted upon carrying them, as he had already crossed the country and could make better time. At 1 o'clock, after only three-quarters of an hour's rest, he started off upon a fresh horse into the black night, for it was raining, and the darkness seemed impenetrable. At 11 o'clock next morning he appeared mounted upon a third horse, for the second one also had broken down. His face looked haggard, and his step was weary as he came across the gang plank to be greeted by rousing cheers from rank and file; but he quietly handed over the dispatches and said, "If you don't need me longer, General, I'll take a nap." Within six hours he was up again, apparently as bright and fresh as on the previous day, and that after riding more than 120 miles over a land that is truly named "God-forsaken."</p></div2>
+
+<div2><head>HOW BUFFALO BILL LOOKS.</head>
+
+<p>Cody is a splendid-looking specimen of humanity, over six feet in height, weighing nearly 200 pounds, and admirably proportioned, while his acquiline features, somewhat <hi rend="italic">outre</hi> style of dress, and long dark brown hair, which falls in masses of curls over his shoulders, make him a center of attraction among the puny dwellers in cities. A couple of anecdotes, as told by him to the present narrator, told over the camp-fire and vouched for by gentlemen present, will give a fair idea of the life this adventurous man has passed, of his endurance in time of suffering, and desperate courage in the hour of danger.</p>
+
+<p>"Look here, Will," said one of the officers as he kicked the glowing embers into a blaze, "spin us a yarn about yourself and shut up about other people." The request was unanimously approved, and one officer remarked: "Tell them about that rough spell on the Republican, for they have probably not heard it."</p>
+
+<p>Will shook the last drop out of his canteen (it was only alkali water with a dash of lemon in it) and said: "I'm not much of a hand at blowing this sort of a trumpet, but if you want to hear</p></div2>
+
+<div2><head type="sub">HOW ONE MAN STUCK TO ANOTHER</head>
+
+<p>when he was on a ragged edge, I'll tell you how George Hanson stood by me. In the winter of '59, and it <hi rend="italic">was</hi> a winter, George and I were trapping on a branch of the Republican River. The Indians were pretty much friendly at that time, and it was too cold for them to be browsing around much anyhow, so we felt cozy as pie in a little dug-out we'd made in the side of the bluff. One day while George and I were skylarking on the ice I fell and broke my leg, or rather I splintered the shin bone. That sort of thing isn't the pleasantest in the world, even if you are at a post where there's a doctor to look out for you, and when it happens on the plains in mid-winter, you feel like saying your prayers. George took it very rough, almost worse than I did, and he just hustled around me as though I was a baby. He made some splints, and set the bone as well as he could, and then he got a lot of firewood and piled it in the dugout, laid in a supply of meat, and as much water as he had cans to hold, and then he said: "I must get you to the settlements, old boy." Our horses saw nothing for them to eat thereabouts, so had wandered away some time before, for there George piled our blankets and pelts together, and laid me on them, and then he took a pull at his belt, pickup up his rifle and started out a-foot. To say I felt lonley wouldn't express it, but you see I knew he ought to be back in twelve days, and I just counted the hours. The twelve days passed, somehow or other, and then came the thirteenth, but George didn't turn up. All the wood I could get was gone by this time, so I couldn't melt the ice or cook the meat, and had to be content with raw flesh frozen and icicles or snow. Day after day passed, and still he didn't come, and I knew he was dead or had come to grief somewhere, for that sort of man don't leave a friend in the lurch, cost what it may. I tell you, gentlemen, you can hear the wolves now if you listen, but you are used to it and don't think of them; nor did I until that time; but when my fire was gone out they'd get around that dug-out at nights, and howl like dogs over their dead master. It wasn't cheerful at the start, and didn't grow more comfortable as</p> </div2>
+
+<div2><head type="sub">THE DAYS TURNED INTO WEEKS.</head>
+
+<p>But you see a man hates to die like a wounded bear, so I just held on for all I knew. Twenty days and nights had passed, and I began to reckon up what I had done in this world and the time I had left to stay in it. I got through that night some how or other, but I guess my head was a little off next day, for I seemed to hear voices all around, and didn't feel the bitter cold as I had before. All of a sudden I heard footsteps crackling on the snow outside, and I knew they were real, but couldn't call out for the life of me. It was George. He crawled slowly into the dug-out and came alongside of me, where I lay with my eyes shut, for I couldn't look up at first, and when I did then&#8212;well, we didn't either of us say anything for awhile.</p>
+
+<p>You see he had reached the settlements all right, and had started back all alone with an ox team&#8212;people didn't care about traveling around much that winter. On the second day out an awful snow storm commenced, and he struggled and blundered against it till his team wouldn't go any further. He didn't give up, however, but fought his way along whenever he could get a start out of his team, although he made up his mind at last that he'd find nothing of me but the bones; and this is how he came to be so late. He took me down to the nearest fort on the cart, and there they set the leg over again. You can see the lump on it still. No, that's a bullet wound, and that's where an' arrow stuck."</p></div2>
+
+<pb facs="wfc.nsp04808.003"/>
+
+<div2><head>A TICKLISH SITUATION.</head>
+
+<p>On another, but similar, occasion Will told the following story:</p>
+
+<p>"We were coming back from the Mormon scrimmage, when Sidney Johnston had command, you know, and I was sort of assistant in the wagon train. I was quite a lad then. Lou Simpson was brigade Wagonmaster, and had charge of two trains, which traveled about fifteen miles apart, and his second in command was George Woods. About noon one day Simpson, Woods and I started from the hindmost train to overtake the one in front. Knowing there were Indians around we kept the sharpest kind of lookout, but didn't see anything until we got near Ash Hollow, on the North Platte, some eight miles from the train we'd left, when a band of about sixty Indians rose out of a gulch a half mile off and came for us. Simpson, who understood that sort of business, made us jump off and put our mules together, head to tail, in the shape of a triangle, and he then shot them dead in their tracks with a revolver. This made an all around breastwork, behind which he lay. Each of us had a heavy muzzle-loading rifle and two Colt's revolvers, so we made it pretty warm for the reds; but it was right on the smooth prairie, and they charged up within a few yards of us, hitting woods hard at the first fire. He couldn't do any more fighting, poor fellow, but he lay on his back and loaded while we did the shooting. They Indians didn't have any guns at that time, and they didn't charge right over people as they sometimes do nowadays, but they'd ride up within a few yards, pop off their arrows, and circle away, throwing themselves on the off side of their ponies. After keeping up this business until almost sundown, they gave it up and squatted out of range, evidently determined to starve us out, and so we had no way of getting water. They of course thought we were stragglers from the train they had seen pass. During that afternoon we killed twelve Indians, besides wounding a number, for they would ride up so close that he could give it to them with a revolver in each hand. In the morning they made a few charges, just enough to keep us excited, but the holding-on policy was what they meant. At 11 o'clock that day the train hove in sight, and the Indians, whooping like devils, made one final charge, and left in short order. That is about the tightest scrape I ever got caught in, and it did not make me love the Indians any better you may be sure."</p></div2>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: William F. Cody's birthdate was February 26, 1846.</note>
+
+</back>
+</text>
+</TEI>
