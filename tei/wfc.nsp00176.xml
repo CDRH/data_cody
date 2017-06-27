@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp00176">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title type="main">The Funniest of Marriages</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp00176</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Funniest of Marriages</title>
+<title level="a" type="main">How Buffalo Bill Performed the Ceremony for a Couple</title>
+<title level="j">Wheeling Daily Register</title>
+<pubPlace>Wheeling (W. Va.)</pubPlace>
+<date when="1877-05-21">May 21, 1877</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Marriage service</term>
+<term>Marriage</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="da">Adams, Deb</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp00176.001"/>
+    
+    <head type="main">THE FUNNIEST OF MARRIAGES</head>
+    
+    <head type="sub">How Buffalo Bill Performed the Ceremony for a Couple.</head>
+    
+    <byline>Chicago Times.</byline>
+    
+    <p>A good story is told of how he performed the ceremony of marriage while he was justice of the peace. It was his first attempt, and the applicants were of the true western type. They called upon Cody in the log cabin where he held his justice office. Bill had a book of forms, which he took down and studied attentively to get some idea of how he should tie the knot. There were forms for nearly every transaction of life, but he failed to find what he was looking for and finally slammed the book down and observed to the parties:</p>
+    
+    <p>"You two fellers join hands," and the "two fellers" did so.</p>
+    
+    <p>Then he said to the groom: "Are you willing to take this woman to be your lawful wedded wife, to love her, honor her, and obey her?"</p>
+    
+    <p>"You bet your butes," was the response of the bashful hair-lifter.</p>
+    
+    <p>"And you, Miss, are you willing to take this here man to be your wedded husband, to love him, honor him, and support him?"</p>
+    
+    <p>She giggled, and nodded in the affirmative; but this didn't suit Bill, who said: "See here, Miss, we've got to have this thing on the dead square, and we can't marry folks by halves in this country. We are bound to go the whole hog. If you want this here man for a husband you must speak out and out and say so, as though you meant it sure, I'll ask you again. Will you take this here man to be your lawful wedded husband, to love him, honor him, and support him?"</p>
+    
+    <p>This time the lady responded bravely, "Yes, Sir, I will"</p>
+    
+    <p>This satisfied his honor, and he remarked, "That settles it. Now look here, you two; you are man and wife, and whoever Bill Cody and God almighty have joined together, let no man put asunder."</p>
+    
+    <p>"And now," added Bill, "let's take another sip of tarantula juice, and drink to the happiness of the happy couple," which everybody with true western unanimity proceeded to do.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
