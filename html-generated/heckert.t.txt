@@ -1,8 +1,0 @@
-<div class="life_item" id="heckert.t">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/heckert.t">Heckert, Theodore</a>
-   </h3>
-   <p>
-      <div class="note">Theo or Theodore Heckert was a railroad contractor who owned grading equipment used in land development. In 1895 George Beck, Chief Surveyor Charles Hayden, and Heckert set up a grading camp and started construction of the head gate and flume of the Cody Canal.</div>
-   </p>
-</div>

@@ -1,8 +1,0 @@
-<div class="life_item" id="swoob.j">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/swoob.j">Schwoob, Jacob M., 1874-1932</a>
-   </h3>
-   <p>
-      <div class="note">Jacob M. Schwoob was born at Wellandport, Ontario, Canada, in 1874. He entered the hotel business in Buffalo, New York in 1892 and became a U.S. citizen in 1897. Schwoob moved to Cody, Wyoming, in 1898 as manager of the Cody Trading Company, a prominent local business. By 1920 Schwoob was sole owner of the Cody Trading Company. Schwoob was active in republican politics, and was elected treasurer of Cody in 1900. He served as mayor of Cody from 1903 to 1905 and was elected a Wyoming state senator in 1905, serving until 1913. In 1925 he was appointed a trustee of the University of Wyoming. A member of several fraternal organizations as well as a successful businessman, Schwoob was a leading citizen of Cody until his death in 1932.</div>
-   </p>
-</div>

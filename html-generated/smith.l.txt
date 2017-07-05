@@ -1,8 +1,0 @@
-<div class="life_item" id="smith.l">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/smith.l">Smith, Lillian Francis, 1871-1930</a>
-   </h3>
-   <p>
-      <div class="note">In 1886 at age 15, Lillian Francis Smith (1871-1930) joined Buffalo Bill's Wild West as a headliner, billed as "The California Huntress and Champion Girl Rifle Shot." Smith married cowboy and fellow performer James "Jim Kid" Willoughby in early 1887. She performed in England in 1887-88 and in the U.S. during 1888. Smith and Willoughby’s marriage ended when Smith and another cowboy performer left the tour prior to the opening in France in 1889. Following her departure from Buffalo Bill's Wild West, Smith performed with other Wild West shows, including Pawnee Bill's. Smith performed with Miller Brothers and Arlington 101 Ranch Real Wild West, headlining as Princess Wenona until she retired in 1920. Several of her shooting records have never been surpassed.</div>
-   </p>
-</div>

@@ -1,8 +1,0 @@
-<div class="life_item" id="canfield.g">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/canfield.g">Canfield, George, 1836-1899</a>
-   </h3>
-   <p>
-      <div class="note">George Canfield (1836-1899), an old friend of Cody's from Omaha, was the owner of the Cozzens House Hotel in downtown Omaha, later known as Canfield House which Canfield ran until 1894. Canfield and an investment partner also established the Farnam Street Boarding and Sales Stables in 1881, which George Canfield owned by 1885. George Canfield is father of Sherman D. Canfield, Cody's personal representative and confidential secretary during the first two European tours of Buffalo Bill's Wild West.</div>
-   </p>
-</div>

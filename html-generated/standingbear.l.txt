@@ -1,9 +1,0 @@
-<div class="life_item" id="standingbear.l">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/standingbear.l">Standing Bear, Luther, 1868?-1939</a>
-   </h3>
-   <p>
-      <div class="note">Luther Standing Bear (<em class="hi">Ota Kte,</em> 
-         <em class="hi">Plenty Kill,</em> and <em class="hi">Mato Najin,</em> 1868-1939), was educated by the Carlisle Indian School and worked as a teacher, merchant, and minister upon his return to Rosebud and Pine Ridge Reservations. Standing Bear joined Buffalo Bill's Wild West as interpreter and Chief of Indians in late 1902 but left the troupe in 1904 when he was among the seriously injured in a train wreck that killed six Indians. Standing Bear rose in his tribe to become chief in 1905, working tirelessly to help his people acquire civil rights, including U.S. citizenship. In 1912 Standing Bear became an actor in California, appearing in thirteen films and authoring three books in his later years. He died in 1939 in Huntington Park, California, while filming <em class="hi">Union Pacific,</em> having worked his entire life to improve the plight of his people.</div>
-   </p>
-</div>

@@ -1,8 +1,0 @@
-<div class="life_item" id="woods.a">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/woods.a">Woods, Alfred Wilderman, 1857-1942</a>
-   </h3>
-   <p>
-      <div class="note">Alfred Wilderman Woods (1857-1942) was born in St. Clair County, Illinois, and studied architecture in Quincy, Illinois. He practiced architecture in Lincoln, Nebraska, from 1885 to 1933, and died in Lincoln in 1942. Woods was best known for designing over one hundred churches located in at least seventeen states. He published technical writings concerning the use of the steel square. Woods was hired by William F. Cody to plan the Irma Hotel in Cody, Wyoming. Cody sometimes refers to him as "Mr. Wood" rather than "Mr. Woods."</div>
-   </p>
-</div>

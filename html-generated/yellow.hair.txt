@@ -1,8 +1,0 @@
-<div class="life_item" id="yellow.hair">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/yellow.hair">Yellow Hair (Hay-o-wei or Heova'ehe), c.1850-1876</a>
-   </h3>
-   <p>
-      <div class="note">Yellow Hair (<em class="hi">Hay-o-wei,</em> or <em class="hi">Heova'ehe,</em> c.1850-1876), whose name was incorrectly translated as "Yellow Hand," was the Southern Cheyenne sub-war chief killed and scalped by Army scout William F. Cody on July 17, 1876, at Hat Creek during the Battle of Warbonnet Creek (Nebraska). Yellow Hair, the son of Cheyenne Chief Cut Nose, acquired his name because of a blonde scalp he once had taken.</div>
-   </p>
-</div>

@@ -1,8 +1,0 @@
-<div class="life_item" id="hayden.c">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/hayden.c">Hayden, Charles E.</a>
-   </h3>
-   <p>
-      <div class="note">Charles Emory Hayden (1866-1938) was hired to survey the Cody, Wyoming, town site, which was south of the Shoshone River near the DeMaris sulphur springs. Hayden was the surveyor-assistant manager of Shoshone Irrigation Company.  Over the next several years Hayden was hired by William F. Cody to survey other parcels and sections, including oil and placer claims south of Cody, Wyoming.</div>
-   </p>
-</div>

@@ -1,8 +1,0 @@
-<div class="life_item" id="craft.f">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/craft.f">Craft, Francis M., 1852-1920</a>
-   </h3>
-   <p>
-      <div class="note">Francis M. Craft (1852-1920) entered medical school at Columbia University at the age of twelve, attended the University of Louvain for advanced study in surgery, and ultimately joined his father's medical practice in Pennsylvania. Craft became a Catholic in 1876; was recruited to the Dakota Territory and ordained as a priest in 1883; and practiced medicine among the Sioux for nearly twenty years. He was present during the massacre at Wounded Knee where he suffered a knife wound to the back. Father Craft was revered among the Sioux for defying both the Indian Agency bureaucracy and the Catholic Church to improve the horrible conditions the Sioux people endured on the reservations. Following his founding a sisterhood for Indian women, Craft and four of the sisters went to Cuba to serve during the Spanish-American War. When the sisterhood disbanded, Father Craft served as parish priest in Pennsylvania until his death in 1920.</div>
-   </p>
-</div>

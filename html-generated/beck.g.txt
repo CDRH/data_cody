@@ -1,8 +1,0 @@
-<div class="life_item" id="beck.g">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/beck.g">Beck, George Washington Thornton, 1856-1943</a>
-   </h3>
-   <p>
-      <div class="note">George Washington Thornton Beck (1856-1943) was born near Lexington, Kentucky. His father, James B. Beck (1822-1890), represented Kentucky in the U.S. Congress for over twenty years, first in the House and later in the Senate. George Beck studied civil engineering at Rensselaer Polytechnic Institute and moved to the West in 1877. Beck became involved in numerous business enterprises in Wyoming, including sheep ranching, mining, irrigation, and later the development of oil fields. Beck was a key partner with William F. Cody in founding the town of Cody in 1896. Beck managed the construction and day-to-day operations of the Cody Canal for the Shoshone Irrigation Company, of which William F. Cody was president. Although the Shoshone Irrigation Company was not a success, Beck's other investments were profitable, and he became an important local leader in both business and politics. Beck served as mayor of Cody in 1903 and was a Wyoming state senator from 1913 to 1917. He ran unsuccessfully for governor of Wyoming in 1902.</div>
-   </p>
-</div>

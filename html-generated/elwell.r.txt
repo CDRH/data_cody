@@ -1,8 +1,0 @@
-<div class="life_item" id="elwell.r">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/elwell.r">Elwell, Robert Farrington, 1874-1962</a>
-   </h3>
-   <p>
-      <div class="note">Robert Farrington Elwell (1874-1962) was born near Boston. A self-taught artist, Elwell met William F. Cody when Buffalo Bill's Wild West played Boston, probably about 1895.  Cody hired the young artist to work on the TE Ranch (near Cody) and attempted to promote Elwell's artistic career. </div>
-   </p>
-</div>

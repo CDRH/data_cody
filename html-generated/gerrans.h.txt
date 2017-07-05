@@ -1,8 +1,0 @@
-<div class="life_item" id="gerrans.h">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/gerrans.h">Gerrans, Henry M., 1853-1939</a>
-   </h3>
-   <p>
-      <div class="note">Henry M. Gerrans (1853-1939) lived much of his life in Buffalo, New York, where he was co-owner of the Iroquois Hotel Company from the late 1880s to the early 1920s.  Gerrans appears to have been prominent in Buffalo's civic affairs, as he was on the board of directors for the Pan-American Exposition of 1901, which was held in that city. He invested in the Shoshone Irrigation Company in the 1890s, and became one of three members of the company's board with personal and business ties to Buffalo. Although Gerrans apparently did not make the Big Horn Basin his home, he did invest in oil fields and other business interests in the Basin in addition to the irrigation venture.</div>
-   </p>
-</div>

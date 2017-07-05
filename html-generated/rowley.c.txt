@@ -1,8 +1,0 @@
-<div class="life_item" id="rowley.c">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/rowley.c">Rowley, Clarence W., 1871-1943</a>
-   </h3>
-   <p>
-      <div class="note">Clarence W. Rowley (1871-1943) was a successful attorney in Boston who apparently did legal work related to William F. Cody's mining ventures in Arizona. Rowley may have been an investor in Cody's mines himself. He was a personal friend of Cody as well. Cody was not Rowley's only celebrity legal client, for Rowley was the executor of the famous boxer John L. Sullivan's estate upon Sullivan's death in 1918.</div>
-   </p>
-</div>

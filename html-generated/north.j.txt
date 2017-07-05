@@ -1,8 +1,0 @@
-<div class="life_item" id="north.j">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/north.j">North, Frank Joshua, 1840-1885</a>
-   </h3>
-   <p>
-      <div class="note">Frank Joshua North (1840-1885) was a farmer, a clerk and interpreter at the Pawnee Indian Agency, and a U.S. Army Captain who was later promoted to Major in charge of the Pawnee scouts during the Indian Wars, 1864-1876. North became a ranching partner with William F. Cody and was a member of the Nebraska legislature. In 1884 North joined Buffalo Bill's Wild West as manager of the show Indians at which time he sustained serious injuries in a horse accident. North died in 1885 as result of those injuries and the illness that followed.</div>
-   </p>
-</div>

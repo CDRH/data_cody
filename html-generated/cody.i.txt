@@ -1,8 +1,0 @@
-<div class="life_item" id="cody.i">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/cody.i">Cody, Isaac, 1811-1857</a>
-   </h3>
-   <p>
-      <div class="note">Isaac Cody was born September 15, 1811, in Toronto, Ontario, Canada. He married Martha Miranda O'Connor in 1834 in Cleveland, Ohio, who died in 1835 following the birth of a daughter, Martha Cody (1835-1858). Cody then married Rebecca Summer in 1836 in Ohio, who died that same year. His third marriage was to Mary Ann Bonsall Laycock in 1840 in Cincinnati, Ohio; they had seven children: Samuel (1841-1853); Julia Melvinia (1843-1928); William Frederick (1846-1917); Eliza Alice (1848-1902); Laura Ella (1850-1911); Mary Hannah (1853-1926); and Charles W. (1855-1864). In September 1854 at a settlers' meeting in Leavenworth, Kansas, an argument ensued over the "free states" issue, and Isaac Cody was stabbed by Charles Dunn. Cody died from a fever on March 10, 1857, in Leavenworth County, Kansas.</div>
-   </p>
-</div>

@@ -1,8 +1,0 @@
-<div class="life_item" id="omohundro.j">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/omohundro.j">Omohundro, John Burwell, 1846-1880</a>
-   </h3>
-   <p>
-      <div class="note">Texas Jack (John Burwell Omohundro, 1846-1880), the son of a Virginia planter, made his way west after the Civil War and worked as a cowboy in Texas during the late 1860s. In 1869 Texas Jack drove a herd of cattle from Texas to North Platte, Nebraska. He became a U.S. Army Scout at Fort McPherson, along with William F. Cody. Omohundro accompanied Cody on hunts and was one of the original stage performers in the Buffalo Bill Combination in the 1870s. In 1873 Omohundro married actress Giuseppina Morlacchi, who was also a performer with the Combination. Omohundro died of pneumonia in 1880.</div>
-   </p>
-</div>

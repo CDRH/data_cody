@@ -1,8 +1,0 @@
-<div class="life_item" id="spoor.g">
-   <h3>
-      <a class="persNameLink" href="http://codyarchive.org/doc/spoor.g">Spoor, George K., 1872-1953</a>
-   </h3>
-   <p>
-      <div class="note">George K. Spoor (1872-1953) was an important pioneer of early American cinema. In partnership with Gilbert M. "Broncho Billy" Anderson (1880-1971), Spoor founded the Essanay Film Manufacturing Company in 1907. Essanay (which stood for "S and A," the founders' initials) was truly a motion picture studio, whose productions included many Westerns starring Anderson as well as a number of films featuring Charlie Chaplin. After Essanay disbanded in 1918, Spoor was involved in developing a new widescreen motion picture process in the 1920s, which did not become a commercial success. In 1948 Spoor received an honorary Academy Award for his contributions to the early motion picture industry.</div>
-   </p>
-</div>
