@@ -1,5 +1,5 @@
 # ignore config files except examples
 **/*.yml
 !**/*.example.yml
-
+html-generated/
 .DS_Store
