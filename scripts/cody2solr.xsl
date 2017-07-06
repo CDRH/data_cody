@@ -55,10 +55,10 @@
 										<xsl:text>illustrations</xsl:text>
 									</xsl:when>
 									<xsl:when test="contains($filename, 'visual_art')">
-										<xsl:text>visual art</xsl:text>
+										<xsl:text>visual_art</xsl:text>
 									</xsl:when>
 									<xsl:when test="contains($filename, 'cabinet_cards')">
-										<xsl:text>cabinet cards</xsl:text>
+										<xsl:text>cabinet_cards</xsl:text>
 									</xsl:when>
 								</xsl:choose>
 							</field>
