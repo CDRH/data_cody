@@ -36,38 +36,33 @@
 	<!-- ==================================================================== -->
 	<!--                            OVERRIDES                                 -->
 	<!-- ==================================================================== -->
-	
-	<!-- Individual collections can override matched templates from the
-       imported stylesheets above by including new templates here -->
-	<!-- Named templates can be overridden if included in matched templates
-       here.  You cannot call a named template from directly within the stylesheet tag
-       but you can redefine one here to be called by an imported template -->
-	
-	<!-- The below will override the entire text matching template -->
-	<!-- <xsl:template match="text">
-        <xsl:call-template name="fake_template"/>
-      </xsl:template> -->
-	
-	<!-- The below will override templates with the same name -->
-	<!-- <xsl:template name="fake_template">
-        This fake template would override fake_template if it was defined
-        in one of the imported files
-      </xsl:template> -->
-	
-	
-	<!-- Uncomment this to prevent personography behavior -->
-	<!-- <xsl:template name="personography"/> -->
-	
-	<!-- Uncomment this and fill it in with your own fields
-       this will not affect the personography solr entries -->
-	<!-- <xsl:template name="extras">
-    <field name="new_field_s">Your thing here</field>
-  </xsl:template> -->
   
+  
+  <!-- choosing dates from VRA files. This needs some work -->
+  <xsl:variable name="vra_date">
+    <xsl:choose>
+      <!-- exact date -->
+      <xsl:when test="/vra/work/dateSet/date/earliestDate and not(/vra/work/dateSet/date/latestDate)">
+        <xsl:value-of select="/vra/work/dateSet/date[1]/earliestDate[1]"/>
+      </xsl:when>
+      <!-- circa date, taking the earliest right now but could change -->
+      <xsl:when test="/vra/work/dateSet/date/earliestDate and /vra/work/dateSet/date/latestDate">
+        <xsl:value-of select="/vra/work/dateSet/date[1]/earliestDate[1]"/>
+      </xsl:when>
+      <xsl:when test="/vra/work/dateSet/date[1]/earliestDate[1] = ''">
+        <xsl:text>undated</xsl:text>
+      </xsl:when>
+      <xsl:when test="contains(/vra/work/dateSet[1]/display[1],'circa')">
+        <xsl:value-of select="substring(/vra/work/dateSet[1]/display[1],7,4)"/>
+      </xsl:when>
+      <xsl:otherwise>unknown</xsl:otherwise>
+    </xsl:choose>
+  </xsl:variable>
+  
+  <!-- taking filename/id for now -->
   <xsl:template name="image_id">
-
     <field name="image_id">
-      <xsl:value-of select="/vra/work[1]/@id"/>
+      <xsl:value-of select="substring-after(substring-after(/vra/work[1]/@id, 'wfc.img.'),'.')"/>
     </field>
   </xsl:template>
   
@@ -77,6 +72,18 @@
     </field>
   </xsl:template>
   
+  <xsl:template name="creators">
+    <field name="creator">
+      <xsl:value-of select="/vra/work[1]/agentSet[1]/agent[1]/name[1]"/>
+    </field>
+    
+    <field name="creators">
+      <xsl:value-of select="/vra/work[1]/agentSet[1]/agent[1]/name[1]"/>
+    </field>
+  </xsl:template>
+  
+  <!-- master tamplate does not handle keywords, when it does, overwrite here instead of in extras -->
+  <!--<xsl:template name="keywords"></xsl:template>-->
   
   <xsl:template name="category">
     <field name="category">
@@ -84,21 +91,40 @@
     </field>
   </xsl:template>
   
+  <!-- setting subCategory by filename -->
   <xsl:template name="subCategory">
     <field name="subCategory">
-      <xsl:value-of select="/vra/work[1]/worktypeSet[1]/worktype[1]"/>
-      <xsl:text>s</xsl:text>
+      <xsl:variable name="filename" select="tokenize(document-uri(/), '/')[last()]" />
+      <xsl:choose>
+        <xsl:when test="contains($filename, '.pho.')">
+          <xsl:text>photographs</xsl:text>
+        </xsl:when>
+        <xsl:when test="contains($filename, '.pc.')">
+          <xsl:text>postcards</xsl:text>
+        </xsl:when>
+        <xsl:when test="contains($filename, '.pst.')">
+          <xsl:text>posters</xsl:text>
+        </xsl:when>
+        <xsl:when test="contains($filename, '.ill.')">
+          <xsl:text>illustrations</xsl:text>
+        </xsl:when>
+        <xsl:when test="contains($filename, '.va.')">
+          <xsl:text>visual_art</xsl:text>
+        </xsl:when>
+        <xsl:when test="contains($filename, '.cc.')">
+          <xsl:text>cabinet_cards</xsl:text>
+        </xsl:when>
+      </xsl:choose>
     </field>
   </xsl:template>
   
   
+  <!-- DATES -->
   <xsl:template name="date">
-    
     <!-- could probably use more robust handling -->
     <field name="date">
-      <xsl:value-of select="/vra/collection[1]/dateSet[1]/date[1]/earliestDate[1]"/>
+      <xsl:value-of select="$vra_date"/>
     </field>
-    
     
     <field name="dateDisplay">
       <xsl:value-of select="/vra/work[1]/dateSet[1]/display[1]"/>
@@ -124,8 +150,23 @@
     </field>
   </xsl:template>
 
+  <!-- EXTRAS -->
   <xsl:template name="extras">
-    <field name="new_field_s">Your thing here</field>
+    
+    <field name="dateSort_s">
+      <xsl:value-of select="$vra_date"/>
+    </field>
+    
+    <xsl:for-each select="/vra/work/subjectSet/subject">
+      <!-- if term is not empty -->
+      <xsl:if test="./term != ''">
+      <field name="keywords">
+        <xsl:value-of select="term"/>
+      </field>
+      </xsl:if>
+    </xsl:for-each>
+    
   </xsl:template>
+  
 
 </xsl:stylesheet>

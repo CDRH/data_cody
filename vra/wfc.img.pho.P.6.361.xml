@@ -13,7 +13,9 @@
       </agentSet>
       <dateSet>
          <display>May 30, 1904</display>
-         <date/>
+          <date>
+            <earliestDate>1904-05-30</earliestDate>
+          </date>
       </dateSet>
       <descriptionSet>
          <description source="BBCW"><tei:p>Five Native Americans and one non-Indian walking along roadway with stone hedge in
