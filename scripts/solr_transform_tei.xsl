@@ -55,6 +55,30 @@
 
   <!-- Uncomment these to prevent personography behavior -->
   <!-- <xsl:template name="personography"/> -->
+  
+  <xsl:template name="extras">
+    <field name="dateSort_s">
+      <xsl:choose>
+        <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when or /TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore">
+          <xsl:choose>
+            <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore">
+              <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore"/>
+              <xsl:text> circa</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"/>
+              <xsl:text> zzz</xsl:text> <!-- To sort after circas -->
+            </xsl:otherwise>
+          </xsl:choose>
+        </xsl:when>
+        <xsl:otherwise>undated</xsl:otherwise> <!-- When no @when or @notBefore exist -->
+      </xsl:choose>
+    </field>
+    
+    <field name="itemCategory_s">
+      <xsl:text>texts</xsl:text>
+    </field>
+  </xsl:template>
 
   <xsl:template name="rightsURI">
     <field name="rightsURI">http://centerofthewest.org/research/rights-reproductions/</field>
@@ -76,6 +100,38 @@
         </xsl:otherwise>
       </xsl:choose>
     </field>
+  </xsl:template>
+  
+ 
+  <xsl:template name="date">
+    <xsl:variable name="doc_date">
+      <xsl:choose>
+        <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when">
+            <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"/>
+        </xsl:when>
+        <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore">
+            <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@notBefore"/>
+        </xsl:when>
+      </xsl:choose>
+    </xsl:variable>
+      
+      <field name="date">
+        <xsl:call-template name="date_standardize">
+          <xsl:with-param name="datebefore">
+            <xsl:value-of select="substring($doc_date,1,10)"/>
+          </xsl:with-param>
+        </xsl:call-template>
+        <xsl:text>T00:00:00Z</xsl:text>
+      </field>
+    
+      <!-- dateDisplay -->
+      <field name="dateDisplay">
+        <xsl:variable name="display_date">
+          <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc/sourceDesc/bibl/date[1])"/>
+        </xsl:variable>
+        <xsl:value-of select="$display_date"/>
+      </field>
+    
   </xsl:template>
 
 </xsl:stylesheet>
