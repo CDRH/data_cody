@@ -40,7 +40,8 @@
          <measurements type="height" unit="in"/>
       </measurementsSet>
       <relationSet>
-         <relation/>
+        <display>Audio commentary on "Whirlwind Horse"</display>
+        <relation type="relatedTo" href="multimedia/wfc.aud.69.236.99"/>
       </relationSet>
       <rightsSet>
          <rights>
@@ -49,9 +50,9 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <display>multimedia/wfc.aud.69.236.99</display>
+        <display>Photographic History Collection, National Museum of American History, Smithsonian Institution 69.236.99, 2004-57885</display>
          <source>
-            <name type="electronic" href="http://americanhistory.si.edu">multimedia/wfc.aud.69.236.99</name>
+            <name type="electronic" href="http://americanhistory.si.edu"/>
          </source>
       </sourceSet>
       <subjectSet>

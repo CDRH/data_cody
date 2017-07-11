@@ -41,7 +41,8 @@
          <measurements type="height" unit="in"/>
       </measurementsSet>
       <relationSet>
-         <relation/>
+        <display>Audio commentary on "Plenty Wounds, Sioux Indian"</display>
+        <relation type="relatedTo" href="multimedia/wfc.aud.69.236.94"/>
       </relationSet>
       <rightsSet>
          <rights>
@@ -51,9 +52,10 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <display>multimedia/wfc.aud.69.236.94</display>
+        <display>Photographic History Collection, National Museum of American History, Smithsonian
+          Institution 69.236.94, 2004-57880</display>
          <source>
-            <name type="electronic" href="http://americanhistory.si.edu">multimedia/wfc.aud.69.236.94</name>
+            <name type="electronic" href="http://americanhistory.si.edu"/>
          </source>
       </sourceSet>
       <subjectSet>

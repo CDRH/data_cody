@@ -42,7 +42,8 @@
          <measurements type="height" unit="in"/>
       </measurementsSet>
       <relationSet>
-         <relation/>
+        <display>Audio commentary on "Sioux Indians photographed in Gertrude Käsebier's Studio"</display>
+        <relation type="relatedTo" href="multimedia/wfc.aud.69.236.7"/>
       </relationSet>
       <rightsSet>
          <rights>
@@ -52,9 +53,10 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <display>multimedia/wfc.aud.69.236.7</display>
+        <display>Photographic History Collection, National Museum of American History, Smithsonian
+          Institution 69.236.7, 2004-57852</display>
          <source>
-            <name type="electronic" href="http://americanhistory.si.edu">multimedia/wfc.aud.69.236.7</name>
+            <name type="electronic" href="http://americanhistory.si.edu"/>
          </source>
       </sourceSet>
       <subjectSet>

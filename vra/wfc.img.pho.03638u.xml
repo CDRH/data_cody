@@ -40,7 +40,8 @@
          <measurements type="height" unit="in"/>
       </measurementsSet>
       <relationSet>
-         <relation/>
+        <display>Audio commentary on "Red Man"</display>
+        <relation type="relatedTo" href="multimedia/wfc.aud.03638u"/>
       </relationSet>
       <rightsSet>
          <rights>
@@ -49,9 +50,9 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <display>multimedia/wfc.aud.03638u</display>
+        <display>Museum of Modern Art</display>
          <source>
-            <name type="electronic" href="">multimedia/wfc.aud.03638u</name>
+            <name type="electronic"/>
          </source>
       </sourceSet>
       <subjectSet>

@@ -40,9 +40,10 @@
          <measurements type="width" unit="in"/>
          <measurements type="height" unit="in"/>
       </measurementsSet>
-      <relationSet>
-         <relation/>
-      </relationSet>
+     <relationSet>
+       <display>Samuel American Horse and wife, Sioux Indians</display>
+       <relation type="relatedTo" href="multimedia/wfc.aud.69.236.89"/>
+     </relationSet>
       <rightsSet>
          <rights>
             <rightsHolder>Photographic History Collection, National Museum of American History, Smithsonian
@@ -51,7 +52,8 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <display/>
+        <display>Photographic History Collection, National Museum of American History, Smithsonian
+          Institution 69.236.89, 2004-57874</display>
          <source>
             <name type="electronic" href="http://americanhistory.si.edu"/>
          </source>

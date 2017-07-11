@@ -43,19 +43,20 @@
          <measurements type="height" unit="in"/>
       </measurementsSet>
       <relationSet>
-         <relation/>
+        <display>Audio commentary on "High Heron and Has No Horses, Sioux Indians"</display>
+        <relation type="relatedTo" href="multimedia/wfc.aud.69.236.31"/>
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder>Photographic History Collection, National Museum of American History, Smithsonian
-   Institution 69.236.31, 2004-57811</rightsHolder>
+            <rightsHolder>Photographic History Collection, National Museum of American History, Smithsonian Institution 69.236.31, 2004-57811</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
       <sourceSet>
-         <display>multimedia/wfc.aud.69.236.31</display>
+        <display>Photographic History Collection, National Museum of American History, Smithsonian
+          Institution 69.236.31, 2004-57811</display>
          <source>
-            <name type="electronic" href="http://americanhistory.si.edu">multimedia/wfc.aud.69.236.31</name>
+           <name type="electronic" href="http://americanhistory.si.edu"/>
          </source>
       </sourceSet>
       <subjectSet>

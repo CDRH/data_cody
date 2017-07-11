@@ -40,7 +40,8 @@
          <measurements type="height" unit="in"/>
       </measurementsSet>
       <relationSet>
-         <relation/>
+        <display>Audio related to "Drawing, 'Sammy Lone Bear, Catch Girls'"</display>
+        <relation type="relatedTo" href="multimedia/wfc.aud.238.4"/>
       </relationSet>
       <rightsSet>
          <rights>
@@ -50,9 +51,10 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <display>multimedia/wfc.aud.238.4</display>
+        <display>Photographic History Collection, National Museum of American History, Smithsonian
+          Institution 69.238.4, 2004-57921</display>
          <source>
-            <name type="electronic" href="http://americanhistory.si.edu">multimedia/wfc.aud.238.4</name>
+            <name type="electronic" href="http://americanhistory.si.edu"/>
          </source>
       </sourceSet>
       <subjectSet>

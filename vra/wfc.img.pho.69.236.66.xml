@@ -43,7 +43,8 @@
          <measurements type="height" unit="in"/>
       </measurementsSet>
       <relationSet>
-         <relation/>
+        <display>Audio commentary on "High Heron, Sioux Indian performer in Buffalo Bill's Wild West, tipi behind"</display>
+        <relation type="relatedTo" href="multimedia/wfc.aud.69.236.66"/>
       </relationSet>
       <rightsSet>
          <rights>
@@ -53,9 +54,10 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <display>multimedia/wfc.aud.69.236.66</display>
+        <display>Photographic History Collection, National Museum of American History, Smithsonian
+          Institution 69.236.66, 2004-57848</display>
          <source>
-            <name type="electronic" href="http://americanhistory.si.edu">multimedia/wfc.aud.69.236.66</name>
+            <name type="electronic" href="http://americanhistory.si.edu"/>
          </source>
       </sourceSet>
       <subjectSet>
