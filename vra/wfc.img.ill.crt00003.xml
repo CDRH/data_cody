@@ -2,23 +2,24 @@
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
 
 <vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.ill.00008">
+   <work id="wfc.img.ill.crt00003">
       <agentSet>
-         <display>A. B.</display>
+         <display>Corbould, Alfred Chantrey (1852-1920)</display>
          <agent>
-            <name>A. B.</name>
+            <name>Corbould, Alfred Chantrey (1852-1920)</name>
             <dates/>
             <role/>
          </agent>
       </agentSet>
       <dateSet>
-         <display>1887-05-21</display>
+         <display>1887-05-07</display>
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>
-Main caption reads: Days with Celebrities. (301.) Buffalo Bill. 
-  Inset captions: The Champion Scalper.He is most popular with the profession.Yours is a great country!He has been to the top of St. Pauls.Oscar Wilde is entirely forgotten now.The very street urchin's play at being Buffalo Bill.The Buffalo Bill hat is now all the fashion.He has been received by Marlborough House.At the Academy.He went to the House one night last week and it is to be hoped the Irish Party behaved themselves.The Cowboys have turned half the girls heads in Brompton."If you please we want to be like Buffalo Bill."Buffalo Bill at home.</tei:p></description>
+         <description source="BBCW"><tei:p>The main caption reads: Buffalo Bill's Wild West show at the American Exhibition, Earl's Court.
+The secondary captions are, from top:
+  View of The Camp — taken from alongside of the Tent of Buck Taylor, 'The Kind of the Cowboys'Scaffolding of grand stand in distance to the rightThe Tent on left is "Redshirt's" (The Senior Chief).The Tent on right of Drawing is Buffalo Bill's. 
+  The Hon. W. F. Cody"Buffalo Bill"Art CriticsThe Deadwood Mail Coach -One of Nature's NoblesBuck Taylor (King of the Cowboys) and his horse "Chieftan""Nigger" — "The horse with a mane in the middle of his back."John Nelson Guard of the Deadwood Coach —"This is his scalplock."Buffalo Bill's Old Charlie 20 years oldWe sketch each other.The Pop=gun Puzzle —</tei:p></description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -46,7 +47,7 @@ Main caption reads: Days with Celebrities. (301.) Buffalo Bill.
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder/>
+            <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3353</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
@@ -64,17 +65,29 @@ Main caption reads: Days with Celebrities. (301.) Buffalo Bill.
             <term>Cowboys</term>
          </subject>
          <subject>
-            <term>European Tours</term>
+            <term>Cowgirls</term>
          </subject>
          <subject>
-            <term>Personages/Royalty</term>
+            <term>Firearms</term>
+         </subject>
+         <subject>
+            <term>Horses</term>
+         </subject>
+         <subject>
+            <term>Logistics</term>
+         </subject>
+         <subject>
+            <term>Rough Riders</term>
+         </subject>
+         <subject>
+            <term>Show Indians</term>
          </subject>
       </subjectSet>
       <techniqueSet>
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">Days with Celebrities from Moonshine (British weekly magazine, 1879-1902)</title>
+         <title xml:lang="English">Buffalo Bill's Wild West show at the American Exhibition, Earl's Court from The Graphic (British newspaper, 1869-1932) No 910. Vol. XXXV</title>
       </titleSet>
       <worktypeSet>
          <worktype>Illustration</worktype>
@@ -93,11 +106,11 @@ Main caption reads: Days with Celebrities. (301.) Buffalo Bill.
             <description source="BBCW"><tei:p></tei:p></description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00008"/>
+            <relation type="imageOf" relids="wfc.img.ill.00003"/>
          </relationSet>
          <rightsSet>
             <rights>
-               <rightsHolder/>
+               <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3353</rightsHolder>
                <text/>
             </rights>
          </rightsSet>

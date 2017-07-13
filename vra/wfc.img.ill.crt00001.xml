@@ -2,27 +2,21 @@
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
 
 <vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.ill.00002">
+   <work id="wfc.img.ill.crt00001">
       <agentSet>
-         <display>Opper, Frederick Burr (1857-1937)</display>
+         <display>A. B.</display>
          <agent>
-            <name>Opper, Frederick Burr (1857-1937)</name>
+            <name>A. B.</name>
             <dates/>
             <role/>
          </agent>
       </agentSet>
       <dateSet>
-         <display>1887-04-13</display>
+         <display>1889-04-13</display>
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>The main image caption reads: BUFFALO BILL'S "WILD WEST" SHOW IN ENGLAND.
-Secondary captions are, from top left:
-  Presented to the Queen—They will probably enter the presence in the real old dime novel style.
-  Buffalo Bill—Great Moccasins! Custer's last charge was nothing to this!
-  The American Bill calls on the English Bill.
-  Empty is the box, the Prince has gone.
-  The Show will undoubtedly be lionized by London Society. (We are sorry to get ahead of Mr. Du Maurier, of Punch, in this way, but business is business.)
+         <description source="BBCW"><tei:p>The following text accompanies this illustration: Buffalo Bill and Co. will be agreeable additions to London society, as well as a big attraction in the show way. We have had lots of our American cousins, more or less polished, but the real rough diamonds have been reserved till now. Let us hope nothing may happen to ruffle their equanimity. The idea of a horde of untamed savages running amuck down Fleet Street and the Strand tomahawking and scalping harmless newspaper men makes one nervous. Talking of tomahawks, by-the-way, it might not be such a bad notion for some one to revive the title of that sprightly journal once conducted by Messrs. Arthur A'Beckett and Matt Morgan, as an organ for the Buffalo band.
 </tei:p></description>
       </descriptionSet>
       <inscriptionSet>
@@ -51,7 +45,7 @@ Secondary captions are, from top left:
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3351</rightsHolder>
+            <rightsHolder>http://superitch.com/images/2010/05/Judy18870413v40pg172closeup.jpg</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
@@ -66,13 +60,7 @@ Secondary captions are, from top left:
             <term>American Indians</term>
          </subject>
          <subject>
-            <term>Cowboys</term>
-         </subject>
-         <subject>
             <term>European Tours</term>
-         </subject>
-         <subject>
-            <term>Firearms</term>
          </subject>
          <subject>
             <term>Personages/Royalty</term>
@@ -80,12 +68,15 @@ Secondary captions are, from top left:
          <subject>
             <term>Show Indians</term>
          </subject>
+         <subject>
+            <term>Visual Culture</term>
+         </subject>
       </subjectSet>
       <techniqueSet>
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">Buffalo Bill's "Wild West" Show in England from Puck (American magazine, 1871-1918)</title>
+         <title xml:lang="English">Buffalo Bill, from Judy; or the London serio-comic journal (1867-1907)</title>
       </titleSet>
       <worktypeSet>
          <worktype>Illustration</worktype>
@@ -104,11 +95,11 @@ Secondary captions are, from top left:
             <description source="BBCW"><tei:p></tei:p></description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00002"/>
+            <relation type="imageOf" relids="wfc.img.ill.00001"/>
          </relationSet>
          <rightsSet>
             <rights>
-               <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3351</rightsHolder>
+               <rightsHolder>http://superitch.com/images/2010/05/Judy18870413v40pg172closeup.jpg</rightsHolder>
                <text/>
             </rights>
          </rightsSet>

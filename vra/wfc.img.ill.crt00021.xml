@@ -2,21 +2,21 @@
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
 
 <vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.ill.00015">
+   <work id="wfc.img.ill.crt00021">
       <agentSet>
-         <display>Mitchell, John Ames, 1845-1918</display>
+         <display>Zimmerman, Eugene "Zim" (1862-1935)</display>
          <agent>
-            <name>Mitchell, John Ames, 1845-1918</name>
+            <name>Zimmerman, Eugene "Zim" (1862-1935)</name>
             <dates/>
             <role/>
          </agent>
       </agentSet>
       <dateSet>
-         <display>1887-06-04</display>
+         <display>1887-06-25</display>
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Caption reads: What we may expect to see when the Wild West show returns from abroad.</tei:p></description>
+         <description source="BBCW"><tei:p>Caption reads: Prince of Wales.—"They call you King of the Cowboys, Bill, but I'll never be King of anything if the old lady holds on much longer."</tei:p></description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -29,7 +29,7 @@
          </location>
       </locationSet>
       <materialSet>
-         <display>Illustration</display>
+         <display/>
          <notes/>
          <material/>
       </materialSet>
@@ -44,7 +44,7 @@
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder/>
+            <rightsHolder>http://superitch.com</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
@@ -56,13 +56,13 @@
       </sourceSet>
       <subjectSet>
          <subject>
-            <term>American Indians</term>
-         </subject>
-         <subject>
             <term>European Tours</term>
          </subject>
          <subject>
-            <term>Show Indians</term>
+            <term>Personages/Royalty</term>
+         </subject>
+         <subject>
+            <term/>
          </subject>
          <subject>
             <term/>
@@ -72,10 +72,10 @@
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">What we may expect to see when the Wild West show returns from abroad from Judge, a weekly satirical magazine (New York, 1881-1947)</title>
+         <title xml:lang="English">Prince of Wales from Judge</title>
       </titleSet>
       <worktypeSet>
-         <worktype>Illustration</worktype>
+         <worktype/>
       </worktypeSet>
       <image>
          <agentSet>
@@ -91,11 +91,11 @@
             <description source="BBCW"><tei:p></tei:p></description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00015"/>
+            <relation type="imageOf" relids="wfc.img.ill.00021"/>
          </relationSet>
          <rightsSet>
             <rights>
-               <rightsHolder/>
+               <rightsHolder>http://superitch.com</rightsHolder>
                <text/>
             </rights>
          </rightsSet>

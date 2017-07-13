@@ -2,7 +2,7 @@
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
 
 <vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.ill.00009">
+   <work id="wfc.img.ill.crt00024">
       <agentSet>
          <display/>
          <agent>
@@ -12,17 +12,16 @@
          </agent>
       </agentSet>
       <dateSet>
-         <display>1887-05-21</display>
+         <display>1887-07-09</display>
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Caption reads: The Queen at the Wild West Show of the Great American Exhibition.
-Inset Captions:
-  1. The Scene in the Arena. 
-  2. Miss Smith showing the Queen her Rifle.
-  3. The Sioux Chief "Red Shirt," presented to the Queen.
-  4. The Queen and the Indian Squaws.
-</tei:p></description>
+         <description source="BBCW"><tei:p>Headline reads: Our Fourth of July Celebrations.
+ Inset captions: The Queen starts the Imperial Institute Anthem.
+Yankee Doodle's come to town.
+London's Fourth of July at Mr. Henry F. Gillig's.
+Accompanying text: THE SHOWMAN.
+THE AMERICAN EXHIBITION. On Saturday evening last the Executive Council of the American Exhibition gave a dinner in the Trophy Room of the Art Gallery to the London Working Men's Association, the attendance being upwards of one hundred. Colonel Russell, a member of the council, presided, and on his left sat Colonel Cody (Buffalo Bill). In proposing the toast of "The Queen" the chairman spoke of the working classes as the vitality of a nation, remarking that he alluded not merely to the work done on the farm on in the workshop, but to the work performed in every rank of life, and said that in America anarchy was crushed when it tried to establish revolution by the prostitution of the dignity of labour. Mr. George Potter proposed "Prosperity to the United States," and in doing so referred to various advantages they possessed over England, and expressed an earnest hope that the peoples of England and America would continue to exhibit good feelings towards each other, and go forward, hand in hand, as the pioneers of liberty, progress, and fraternity. Deputy-Consul Moffatt returned thanks. The remaining toasts included "British Industries," Mr. Jeans, secretary of the Iron and Steel Institute, responding; and "The Chairman and Directors of the American Exhibition," the secretary, Mr. Speed, responding. At the conclusion of the dinner all present accepted an invitation to view the evening performance of the "Wild West" Show in the adjacent arena. </tei:p></description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -50,7 +49,7 @@ Inset Captions:
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3352</rightsHolder>
+            <rightsHolder/>
             <text/>
          </rights>
       </rightsSet>
@@ -62,32 +61,23 @@ Inset Captions:
       </sourceSet>
       <subjectSet>
          <subject>
-            <term>American Indians</term>
-         </subject>
-         <subject>
             <term>European Tours</term>
          </subject>
          <subject>
             <term>Personages/Royalty</term>
          </subject>
          <subject>
-            <term>Shooting</term>
+            <term>Visual Culture</term>
          </subject>
          <subject>
-            <term>Show Indians </term>
-         </subject>
-         <subject>
-            <term>Smith, Lillian Francis, 1871-1930</term>
-         </subject>
-         <subject>
-            <term>Red Shirt, 1845?-1925</term>
+            <term/>
          </subject>
       </subjectSet>
       <techniqueSet>
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">The Queen at the Wild West Show of the Great American Exhibition from Illustrated London News (British weekly, 1842-)</title>
+         <title xml:lang="English">Our Fourth of July Celebrations from The Penny Illustrated Paper and Illustrated Times (London, England), Saturday, July 09, 1887; pg. 29; Issue 1362.</title>
       </titleSet>
       <worktypeSet>
          <worktype/>
@@ -106,11 +96,11 @@ Inset Captions:
             <description source="BBCW"><tei:p></tei:p></description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00009"/>
+            <relation type="imageOf" relids="wfc.img.ill.00024"/>
          </relationSet>
          <rightsSet>
             <rights>
-               <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3352</rightsHolder>
+               <rightsHolder/>
                <text/>
             </rights>
          </rightsSet>

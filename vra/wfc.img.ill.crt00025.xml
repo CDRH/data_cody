@@ -2,22 +2,26 @@
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
 
 <vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.ill.00019">
+   <work id="wfc.img.ill.crt00025">
       <agentSet>
-         <display>Charlton, John (1849-1917)</display>
+         <display>Corbould, A. C.</display>
          <agent>
-            <name>Charlton, John (1849-1917)</name>
+            <name>Corbould, A. C.</name>
             <dates/>
             <role/>
          </agent>
       </agentSet>
       <dateSet>
-         <display>1887-06-18</display>
+         <display>1887-05-21</display>
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Caption reads: The Wild West Show at West Brompton. The Company Forming in Line.
-Text from verso reads: THE WILD WEST—FORMING IN LINE. One of the most stirring items in Buffalo Bill's programme in this Wild West show at the American Exhibition, is the entry into the arena of the various members of the company, as one by one they dash out of their rocky fastnesses and ride wildly round the arena to what may be called the saluting point in front of the chief seats—when they rein suddenly in, and after saluting the spectators join their comrades and form a long thin line. A singular picturesque sight is afforded by this row of cowboys, vaqueros—Indians all in their peculiar attire, particularly when, as in our sketch, the Sioux chief, Red Shirt, ride up, being received with shrill whoops by his comrades, prior to the arrival on the scene of Buffalo Bill himself. A black and white version of this image ran in The Graphic on June 4, 1887 (see wfc.img.ill.00016).</tei:p></description>
+         <description source="BBCW"><tei:p>Caption reads: The Queen's Visit to the Wild West Show at West Brompton.
+Buffalo Bill before the Queen—Horse and Rider make Obeisance.
+The American Flag: carried by Sergeant Bates.
+The smallest Cowboy kisses his Hand to the Queen.
+The Queen and the little Indian Baby Girl.
+The Queen and Red Shirt.</tei:p></description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -45,14 +49,14 @@ Text from verso reads: THE WILD WEST—FORMING IN LINE. One of the most stirring
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3401ab</rightsHolder>
+            <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.2277b</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
       <sourceSet>
-         <display>wfc.img.ill.00016</display>
+         <display>wfc.img.ill.00010</display>
          <source>
-            <name type="electronic" href="">wfc.img.ill.00016</name>
+            <name type="electronic" href="">wfc.img.ill.00010</name>
          </source>
       </sourceSet>
       <subjectSet>
@@ -69,14 +73,26 @@ Text from verso reads: THE WILD WEST—FORMING IN LINE. One of the most stirring
             <term>Horses</term>
          </subject>
          <subject>
+            <term>Military</term>
+         </subject>
+         <subject>
+            <term>Personages/Royalty</term>
+         </subject>
+         <subject>
+            <term>Red Shirt, 1845?-1925</term>
+         </subject>
+         <subject>
             <term>Show Indians</term>
+         </subject>
+         <subject>
+            <term>Visual Culture</term>
          </subject>
       </subjectSet>
       <techniqueSet>
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">The Wild West Show at West Brompton from The Illustrated Foreign News</title>
+         <title xml:lang="English">The Queen's Visit to the Wild West Show at West Brompton from The Graphic</title>
       </titleSet>
       <worktypeSet>
          <worktype>Illustration</worktype>
@@ -95,11 +111,11 @@ Text from verso reads: THE WILD WEST—FORMING IN LINE. One of the most stirring
             <description source="BBCW"><tei:p></tei:p></description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00019"/>
+            <relation type="imageOf" relids="wfc.img.ill.00025"/>
          </relationSet>
          <rightsSet>
             <rights>
-               <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3401ab</rightsHolder>
+               <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.2277b</rightsHolder>
                <text/>
             </rights>
          </rightsSet>

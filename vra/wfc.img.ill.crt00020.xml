@@ -2,22 +2,21 @@
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
 
 <vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.ill.00001">
+   <work id="wfc.img.ill.crt00020">
       <agentSet>
-         <display>A. B.</display>
+         <display>Saulsbury, J.</display>
          <agent>
-            <name>A. B.</name>
+            <name>Saulsbury, J.</name>
             <dates/>
             <role/>
          </agent>
       </agentSet>
       <dateSet>
-         <display>1889-04-13</display>
+         <display>1887-06-23</display>
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>The following text accompanies this illustration: Buffalo Bill and Co. will be agreeable additions to London society, as well as a big attraction in the show way. We have had lots of our American cousins, more or less polished, but the real rough diamonds have been reserved till now. Let us hope nothing may happen to ruffle their equanimity. The idea of a horde of untamed savages running amuck down Fleet Street and the Strand tomahawking and scalping harmless newspaper men makes one nervous. Talking of tomahawks, by-the-way, it might not be such a bad notion for some one to revive the title of that sprightly journal once conducted by Messrs. Arthur A'Beckett and Matt Morgan, as an organ for the Buffalo band.
-</tei:p></description>
+         <description source="BBCW"><tei:p>A Sickening Blow to the Anglomaniac. Who finds upon landing in England that the British Nation—Thanks to the  Hon. Buffalo B. William—has become thoroughly Americanized.</tei:p></description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -45,7 +44,7 @@
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder>http://superitch.com/images/2010/05/Judy18870413v40pg172closeup.jpg</rightsHolder>
+            <rightsHolder>http://superitch.com</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
@@ -63,20 +62,20 @@
             <term>European Tours</term>
          </subject>
          <subject>
+            <term>Horses</term>
+         </subject>
+         <subject>
             <term>Personages/Royalty</term>
          </subject>
          <subject>
             <term>Show Indians</term>
-         </subject>
-         <subject>
-            <term>Visual Culture</term>
          </subject>
       </subjectSet>
       <techniqueSet>
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">Buffalo Bill, from Judy; or the London serio-comic journal (1867-1907)</title>
+         <title xml:lang="English">A Sickening Blow to the Anglomaniac from Life (American magazine, 1883-1936)</title>
       </titleSet>
       <worktypeSet>
          <worktype>Illustration</worktype>
@@ -95,11 +94,11 @@
             <description source="BBCW"><tei:p></tei:p></description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00001"/>
+            <relation type="imageOf" relids="wfc.img.ill.00020"/>
          </relationSet>
          <rightsSet>
             <rights>
-               <rightsHolder>http://superitch.com/images/2010/05/Judy18870413v40pg172closeup.jpg</rightsHolder>
+               <rightsHolder>http://superitch.com</rightsHolder>
                <text/>
             </rights>
          </rightsSet>

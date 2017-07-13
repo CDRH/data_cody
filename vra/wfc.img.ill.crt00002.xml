@@ -2,28 +2,27 @@
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
 
 <vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.ill.00017">
+   <work id="wfc.img.ill.crt00002">
       <agentSet>
-         <display>Renaud, G.</display>
+         <display>Opper, Frederick Burr (1857-1937)</display>
          <agent>
-            <name>Renaud, G.</name>
+            <name>Opper, Frederick Burr (1857-1937)</name>
             <dates/>
             <role/>
          </agent>
       </agentSet>
       <dateSet>
-         <display>1887-06-15</display>
+         <display>1887-04-13</display>
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Headline reads: Getting it Hot. 
-Six inset captions:
-There was once a Noble Savage - who was invited to a Swell Dinner.
-He went literally in his War Paint.
-When he had eaten? quite as much as was good for him ...
-He thought he would try a little Custard.
-He had mistaken the sound of the Word. It was Mustard!!!!
-He has now returned to the simple habits of his Fathers.
+         <description source="BBCW"><tei:p>The main image caption reads: BUFFALO BILL'S "WILD WEST" SHOW IN ENGLAND.
+Secondary captions are, from top left:
+  Presented to the Queen—They will probably enter the presence in the real old dime novel style.
+  Buffalo Bill—Great Moccasins! Custer's last charge was nothing to this!
+  The American Bill calls on the English Bill.
+  Empty is the box, the Prince has gone.
+  The Show will undoubtedly be lionized by London Society. (We are sorry to get ahead of Mr. Du Maurier, of Punch, in this way, but business is business.)
 </tei:p></description>
       </descriptionSet>
       <inscriptionSet>
@@ -52,7 +51,7 @@ He has now returned to the simple habits of his Fathers.
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder/>
+            <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3351</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
@@ -67,20 +66,26 @@ He has now returned to the simple habits of his Fathers.
             <term>American Indians</term>
          </subject>
          <subject>
+            <term>Cowboys</term>
+         </subject>
+         <subject>
+            <term>European Tours</term>
+         </subject>
+         <subject>
+            <term>Firearms</term>
+         </subject>
+         <subject>
+            <term>Personages/Royalty</term>
+         </subject>
+         <subject>
             <term>Show Indians</term>
-         </subject>
-         <subject>
-            <term/>
-         </subject>
-         <subject>
-            <term/>
          </subject>
       </subjectSet>
       <techniqueSet>
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">Getting it Hot from Judy; or the London Serio-Comic Journal (1867-1907)</title>
+         <title xml:lang="English">Buffalo Bill's "Wild West" Show in England from Puck (American magazine, 1871-1918)</title>
       </titleSet>
       <worktypeSet>
          <worktype>Illustration</worktype>
@@ -99,11 +104,11 @@ He has now returned to the simple habits of his Fathers.
             <description source="BBCW"><tei:p></tei:p></description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00017"/>
+            <relation type="imageOf" relids="wfc.img.ill.00002"/>
          </relationSet>
          <rightsSet>
             <rights>
-               <rightsHolder/>
+               <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3351</rightsHolder>
                <text/>
             </rights>
          </rightsSet>

@@ -2,21 +2,21 @@
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
 
 <vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.ill.00018">
+   <work id="wfc.img.ill.crt00010">
       <agentSet>
-         <display>Carter, Samuel John (1835-1892)</display>
+         <display>G. K. J.</display>
          <agent>
-            <name>Carter, Samuel John (1835-1892)</name>
+            <name>G. K. J.</name>
             <dates/>
             <role/>
          </agent>
       </agentSet>
       <dateSet>
-         <display>1887-06-18</display>
+         <display>1887-05-21</display>
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Caption reads: The "Wild West" at the Great American Exhibition: Hunting Bison and Wapiti Deer.</tei:p></description>
+         <description source="BBCW"><tei:p>Caption reads: The Queen's Visit to the East End. The Royal Procession Passing the London Hospital, Whitechapel.</tei:p></description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -44,19 +44,22 @@
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder>Buffalo Bill Center of the West, Western Scenes Woodcuts &amp; Engravings, MS51.51.395</rightsHolder>
+            <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.2277a</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
       <sourceSet>
-         <display/>
+         <display>wfc.img.ill..00025</display>
          <source>
-            <name type="electronic" href=""/>
+            <name type="electronic" href="">wfc.img.ill..00025</name>
          </source>
       </sourceSet>
       <subjectSet>
          <subject>
             <term>American Indians</term>
+         </subject>
+         <subject>
+            <term>Cowboys</term>
          </subject>
          <subject>
             <term>European Tours</term>
@@ -65,17 +68,23 @@
             <term>Horses</term>
          </subject>
          <subject>
-            <term>Shooting</term>
+            <term>Military</term>
+         </subject>
+         <subject>
+            <term>Personages/Royalty</term>
          </subject>
          <subject>
             <term>Show Indians</term>
+         </subject>
+         <subject>
+            <term>Visual Culture</term>
          </subject>
       </subjectSet>
       <techniqueSet>
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">The "Wild West" at the Great American Exhibition: Hunting Bison and Wapiti Deer from Illustrated London News (British weekly, 1842-)</title>
+         <title xml:lang="English">The Queen's Visit to the East End from The Graphic</title>
       </titleSet>
       <worktypeSet>
          <worktype>Illustration</worktype>
@@ -94,11 +103,11 @@
             <description source="BBCW"><tei:p></tei:p></description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00018"/>
+            <relation type="imageOf" relids="wfc.img.ill.00010"/>
          </relationSet>
          <rightsSet>
             <rights>
-               <rightsHolder>Buffalo Bill Center of the West, Western Scenes Woodcuts &amp; Engravings, MS51.51.395</rightsHolder>
+               <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.2277a</rightsHolder>
                <text/>
             </rights>
          </rightsSet>
