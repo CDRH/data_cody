@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.6.205">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.6.205">
       <agentSet>
          <display>Wild west shows</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Cast of Buffalo Bill's Wild West including William F. Cody, Nate Salsbury, Johnny Baker, Annie Oakley, Buck Taylor, John Burke, and John Nelson.   Cast photograph possibly taken at Earl's Court, London, England. From May 9, 1887, thru November 30, 1887, Buffalo Bill's Wild West performed at the American Exhibition, Earl's Court, London, England.</tei:p></description>
+         <description source="BBCW">
+            <tei:p>Cast of Buffalo Bill's Wild West including William F. Cody, Nate Salsbury, Johnny Baker, Annie Oakley, Buck Taylor, John Burke, and John Nelson.   Cast photograph possibly taken at Earl's Court, London, England. From May 9, 1887, thru November 30, 1887, Buffalo Bill's Wild West performed at the American Exhibition, Earl's Court, London, England.</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -98,10 +100,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.6.205"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.6.205"/>
          </relationSet>
          <rightsSet>
             <rights>

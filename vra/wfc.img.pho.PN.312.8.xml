@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.PN.312.8">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.pn.312.8">
       <agentSet>
          <display>unknown</display>
          <agent>
@@ -16,9 +16,11 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>William Ghost Bear and Jas. [James?] Good Lance standing in grass in front of Wild
+         <description source="BBCW">
+            <tei:p>William Ghost Bear and Jas. [James?] Good Lance standing in grass in front of Wild
    West show tent wearing quillwork vests.  Hand printed at
-   bottom, "Jas. Good Lance, Wm. Ghost Bear."</tei:p></description>
+   bottom, "Jas. Good Lance, Wm. Ghost Bear."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -114,10 +116,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.PN.312.8"/>
+            <relation type="imageOf" relids="wfc.img.pho.pn.312.8"/>
          </relationSet>
          <rightsSet>
             <rights>

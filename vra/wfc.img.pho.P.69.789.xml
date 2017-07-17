@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.69.789">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.789">
       <agentSet>
          <display>unknown</display>
          <agent>
@@ -16,11 +16,13 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Three Native American men in beaded clothing in front of tipis and large tent of
+         <description source="BBCW">
+            <tei:p>Three Native American men in beaded clothing in front of tipis and large tent of
    Buffalo Bill's Wild West. Possibly, left to right: Brave Eagle, Black Whistle, and Black Horse.
     Hand written note on verso of print reads, "For
    Colonel Cody, Muncie, Ind. From Harry M. Wheeler, Decatur, Ill. Aug.
-   1907."</tei:p></description>
+   1907."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -96,10 +98,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.69.789"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.789"/>
          </relationSet>
          <rightsSet>
             <rights>

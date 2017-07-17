@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.ill.crt00008">
       <agentSet>
          <display>A. B.</display>
@@ -16,9 +16,11 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>
+         <description source="BBCW">
+            <tei:p>
 Main caption reads: Days with Celebrities. (301.) Buffalo Bill. 
-  Inset captions: The Champion Scalper.He is most popular with the profession.Yours is a great country!He has been to the top of St. Pauls.Oscar Wilde is entirely forgotten now.The very street urchin's play at being Buffalo Bill.The Buffalo Bill hat is now all the fashion.He has been received by Marlborough House.At the Academy.He went to the House one night last week and it is to be hoped the Irish Party behaved themselves.The Cowboys have turned half the girls heads in Brompton."If you please we want to be like Buffalo Bill."Buffalo Bill at home.</tei:p></description>
+  Inset captions: The Champion Scalper.He is most popular with the profession.Yours is a great country!He has been to the top of St. Pauls.Oscar Wilde is entirely forgotten now.The very street urchin's play at being Buffalo Bill.The Buffalo Bill hat is now all the fashion.He has been received by Marlborough House.At the Academy.He went to the House one night last week and it is to be hoped the Irish Party behaved themselves.The Cowboys have turned half the girls heads in Brompton."If you please we want to be like Buffalo Bill."Buffalo Bill at home.</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -90,10 +92,12 @@ Main caption reads: Days with Celebrities. (301.) Buffalo Bill.
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00008"/>
+           <relation type="imageOf" relids="wfc.img.ill.crt00008"/>
          </relationSet>
          <rightsSet>
             <rights>

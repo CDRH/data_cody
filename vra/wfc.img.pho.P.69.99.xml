@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.69.99">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.99">
       <agentSet>
          <display>E. A. Brininstool</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>William F. Cody mounted on gray horse stands and views procession of riders in front of grandstand, Buffalo Bill's Wild West.  Handwritten on top of photograph "Presented to Buffalo Bill Museum Association, by his old friend Col. Homer W. Wheeler, U. S. Army. Retired. Los Angeles August 2nd 1927."  Handwritten on front "Photo by E. A. Brininstool at Los Angeles, Cal Oct. 17. 1910."</tei:p></description>
+         <description source="BBCW">
+            <tei:p>William F. Cody mounted on gray horse stands and views procession of riders in front of grandstand, Buffalo Bill's Wild West.  Handwritten on top of photograph "Presented to Buffalo Bill Museum Association, by his old friend Col. Homer W. Wheeler, U. S. Army. Retired. Los Angeles August 2nd 1927."  Handwritten on front "Photo by E. A. Brininstool at Los Angeles, Cal Oct. 17. 1910."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -101,10 +103,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.69.99"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.99"/>
          </relationSet>
          <rightsSet>
             <rights>

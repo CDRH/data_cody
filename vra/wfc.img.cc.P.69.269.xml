@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.cc.P.69.269">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.cc.p.69.269">
       <agentSet>
          <display>Mosher</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>William F. Cody sitting wearing overcoat with hat on knee.</tei:p></description>
+         <description source="BBCW">
+            <tei:p>William F. Cody sitting wearing overcoat with hat on knee.</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -92,10 +94,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.cc.P.69.269"/>
+            <relation type="imageOf" relids="wfc.img.cc.p.69.269"/>
          </relationSet>
          <rightsSet>
             <rights>

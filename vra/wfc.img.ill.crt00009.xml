@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.ill.crt00009">
       <agentSet>
          <display/>
@@ -16,13 +16,15 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Caption reads: The Queen at the Wild West Show of the Great American Exhibition.
+         <description source="BBCW">
+            <tei:p>Caption reads: The Queen at the Wild West Show of the Great American Exhibition.
 Inset Captions:
   1. The Scene in the Arena. 
   2. Miss Smith showing the Queen her Rifle.
   3. The Sioux Chief "Red Shirt," presented to the Queen.
   4. The Queen and the Indian Squaws.
-</tei:p></description>
+</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -103,10 +105,12 @@ Inset Captions:
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00009"/>
+           <relation type="imageOf" relids="wfc.img.ill.crt00009"/>
          </relationSet>
          <rightsSet>
             <rights>

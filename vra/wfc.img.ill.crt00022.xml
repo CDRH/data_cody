@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.ill.crt00022">
       <agentSet>
          <display>Opper, Frederick Burr (1857-1937)</display>
@@ -16,7 +16,8 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Caption reads: Why Wouldn't a Wild East Show be Popular, too? Here are a Few Features for It.
+         <description source="BBCW">
+            <tei:p>Caption reads: Why Wouldn't a Wild East Show be Popular, too? Here are a Few Features for It.
 Inset captions:
  Marvelous wild eastern marksmanship.
 Attack on a passenger conveyance by wild newspaper hoodlums of the highway.
@@ -24,7 +25,8 @@ The great Brooklyn medicine chief, "Howling Whirlwind."
 The lightening courier of the pathless East.
 War-dance of the Stock-Exchange Indians.
 The "Copper" tribe on the war-path--Surrounding the home of a peaceful settler.
-</tei:p></description>
+</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -96,10 +98,12 @@ The "Copper" tribe on the war-path--Surrounding the home of a peaceful settler.
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00022"/>
+           <relation type="imageOf" relids="wfc.img.ill.crt00022"/>
          </relationSet>
          <rightsSet>
             <rights>

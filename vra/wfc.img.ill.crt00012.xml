@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.ill.crt00012">
       <agentSet>
          <display>Taylor, Charles Jay</display>
@@ -16,10 +16,12 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Text reads: On Their Return
+         <description source="BBCW">
+            <tei:p>Text reads: On Their Return
 RED SHIRT.—Heap poor-aw-style, heah.
 BUFFALO BILL.—Ya-as. That hawnsom's weally the only wefreshing thing I've seen, don'tcherknow?
-</tei:p></description>
+</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -91,10 +93,12 @@ BUFFALO BILL.—Ya-as. That hawnsom's weally the only wefreshing thing I've seen
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00012"/>
+           <relation type="imageOf" relids="wfc.img.ill.crt00012"/>
          </relationSet>
          <rightsSet>
             <rights>

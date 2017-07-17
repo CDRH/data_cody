@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.PN.312.5">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.pn.312.5">
       <agentSet>
          <display>unknown</display>
          <agent>
@@ -16,11 +16,13 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Big Charger standing with woman and child (probably wife and daughter) in front of
+         <description source="BBCW">
+            <tei:p>Big Charger standing with woman and child (probably wife and daughter) in front of
    tipi at Wild West show with grandstand in background. Big
    Charger may have been a member of the Miller Bros. &amp; Arlington 101 Ranch Real Wild West.
     Hand printed at top of image, "Big Charger
-   101."</tei:p></description>
+   101."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -128,10 +130,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.PN.312.5"/>
+            <relation type="imageOf" relids="wfc.img.pho.pn.312.5"/>
          </relationSet>
          <rightsSet>
             <rights>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.69.1154">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.1154">
       <agentSet>
          <display>unknown</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>William F. Cody and Prince of Monaco on horses near Pahaska speaking to an unidentified man standing on the ground. Hand written note on verso of print reads, "Colonel cody, Prince of Monaco-Hunting on Colonel Cody's ranch - TE - near Cody, Wyoming, Mary Jester Allen Collection."</tei:p></description>
+         <description source="BBCW">
+            <tei:p>William F. Cody and Prince of Monaco on horses near Pahaska speaking to an unidentified man standing on the ground. Hand written note on verso of print reads, "Colonel cody, Prince of Monaco-Hunting on Colonel Cody's ranch - TE - near Cody, Wyoming, Mary Jester Allen Collection."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -98,10 +100,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.69.1154"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.1154"/>
          </relationSet>
          <rightsSet>
             <rights>

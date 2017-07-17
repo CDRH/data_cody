@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.cc.P.69.1844">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.cc.p.69.1844">
       <agentSet>
          <display>J. Pitcher Spooner</display>
          <agent>
@@ -16,12 +16,14 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Portrait of Sitting Bull and his family wearing traditional regalia. Sitting
+         <description source="BBCW">
+            <tei:p>Portrait of Sitting Bull and his family wearing traditional regalia. Sitting
    Bull's mother, Her Holy Door sits on his right, wives Four Robes and Seen-By-The-Nation stand
    behind him, and his oldest daughter, Many Horses and her son sit on his left. Sitting Bull holds
    a pipe and pipe bag on is lap.  Hand written note on verso of
    card reads, "Sitting Bull &amp; family, Ta Tonka E U tanki,
-   Sioux."</tei:p></description>
+   Sioux."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -97,10 +99,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.cc.P.69.1844"/>
+            <relation type="imageOf" relids="wfc.img.cc.p.69.1844"/>
          </relationSet>
          <rightsSet>
             <rights>

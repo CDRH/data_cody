@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.69.114">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.114">
       <agentSet>
          <display>unknown</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>William F. Cody, mounted on gray horse in arena center and holding loving cup in right hand, addresses citizens of Clinton, Iowa, seated in grandstand; gentleman and children stand by flag-draped table in front of Cody.  Hand printed on mat below photograph "Col. W. F. Cody thanking the citizens of Clinton, Iowa, after the presentation of the loving cup - Aug 4 - 1911."  On verso "Irving R. Bacon, Redford, Mich."</tei:p></description>
+         <description source="BBCW">
+            <tei:p>William F. Cody, mounted on gray horse in arena center and holding loving cup in right hand, addresses citizens of Clinton, Iowa, seated in grandstand; gentleman and children stand by flag-draped table in front of Cody.  Hand printed on mat below photograph "Col. W. F. Cody thanking the citizens of Clinton, Iowa, after the presentation of the loving cup - Aug 4 - 1911."  On verso "Irving R. Bacon, Redford, Mich."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -98,10 +100,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.69.114"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.114"/>
          </relationSet>
          <rightsSet>
             <rights>

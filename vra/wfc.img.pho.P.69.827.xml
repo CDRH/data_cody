@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.69.827">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.827">
       <agentSet>
          <display>Elliott &amp; Fry</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Cast photograph of Buffalo Bill's Wild West cowboys, cowgirls, Native American men, women and children, an African American man, and Buffalo Bill's Cowboy Band standing and sitting in seven rows in an arena with the backdrop in the background in London, England for the American Exhibition in 1887. William F. Cody and Nathan Salsbury stand in the front center. Sitting in the first row are Johnny Baker, Major John M. Burke, William Levi (Buck) Taylor, Jule Keen, possibly Ella Irving and Jenny Nelson (Yellow Elk Woman). George Sword sits behind Johnny Baker. Buck Taylor sits with crutches near the front center. William Sweeney stands in third row near center holding a cornet. Lillian Smith stands just behind Sweeney. Annie Oakley holding a rifle stands in the fourth row center. The Ferrell sisters, Bessie and Della, sit and stand in a tree near the top row to the left of the center. Sergeant Gilbert Henderson Bates and John Y. Nelson stand in the top row center and hold a flag. John Link stands below John Nelson. Bennie Irving is below John Link. Andrew Link sits behind William F. Cody. Eugene Overton stands in the fourth row, left and wears a long fringed buckskin coat. Typed caption on mat, "Elliott &amp; Fry. (Copyright.) 55 &amp; 56, Baker Street, London, W. Souvenir Buffalo Bill's Wild West."</tei:p></description>
+         <description source="BBCW">
+            <tei:p>Cast photograph of Buffalo Bill's Wild West cowboys, cowgirls, Native American men, women and children, an African American man, and Buffalo Bill's Cowboy Band standing and sitting in seven rows in an arena with the backdrop in the background in London, England for the American Exhibition in 1887. William F. Cody and Nathan Salsbury stand in the front center. Sitting in the first row are Johnny Baker, Major John M. Burke, William Levi (Buck) Taylor, Jule Keen, possibly Ella Irving and Jenny Nelson (Yellow Elk Woman). George Sword sits behind Johnny Baker. Buck Taylor sits with crutches near the front center. William Sweeney stands in third row near center holding a cornet. Lillian Smith stands just behind Sweeney. Annie Oakley holding a rifle stands in the fourth row center. The Ferrell sisters, Bessie and Della, sit and stand in a tree near the top row to the left of the center. Sergeant Gilbert Henderson Bates and John Y. Nelson stand in the top row center and hold a flag. John Link stands below John Nelson. Bennie Irving is below John Link. Andrew Link sits behind William F. Cody. Eugene Overton stands in the fourth row, left and wears a long fringed buckskin coat. Typed caption on mat, "Elliott &amp; Fry. (Copyright.) 55 &amp; 56, Baker Street, London, W. Souvenir Buffalo Bill's Wild West."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -122,10 +124,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.69.827"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.827"/>
          </relationSet>
          <rightsSet>
             <rights>

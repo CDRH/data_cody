@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.69.854">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.854">
       <agentSet>
          <display>unknown</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>William F. Cody with several cowgirls from the 101 Ranch Wild West. Tipi in background. Included in photo are: Fannie Sperry Steele, Bea Kirnan(?), Lucille Mulhall, Edith Tantlinger (with rope), Georgia Mulhall (?)(horseback), Bessie Herberg, Buffalo Bill Cody, and Lulu Bell Parr.</tei:p></description>
+         <description source="BBCW">
+            <tei:p>William F. Cody with several cowgirls from the 101 Ranch Wild West. Tipi in background. Included in photo are: Fannie Sperry Steele, Bea Kirnan(?), Lucille Mulhall, Edith Tantlinger (with rope), Georgia Mulhall (?)(horseback), Bessie Herberg, Buffalo Bill Cody, and Lulu Bell Parr.</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -107,10 +109,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.69.854"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.854"/>
          </relationSet>
          <rightsSet>
             <rights>

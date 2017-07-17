@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.6.361">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.6.361">
       <agentSet>
          <display>unknown</display>
          <agent>
@@ -18,9 +18,11 @@
           </date>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Five Native Americans and one non-Indian walking along roadway with stone hedge in
+         <description source="BBCW">
+            <tei:p>Five Native Americans and one non-Indian walking along roadway with stone hedge in
    Penzance, England.  Hand written note on verso of print
-   reads, "Penzance, Cornwall, England."</tei:p></description>
+   reads, "Penzance, Cornwall, England."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -96,10 +98,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.6.361"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.6.361"/>
          </relationSet>
          <rightsSet>
             <rights>

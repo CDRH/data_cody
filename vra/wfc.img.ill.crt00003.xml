@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.ill.crt00003">
       <agentSet>
          <display>Corbould, Alfred Chantrey (1852-1920)</display>
@@ -16,10 +16,12 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>The main caption reads: Buffalo Bill's Wild West show at the American Exhibition, Earl's Court.
+         <description source="BBCW">
+            <tei:p>The main caption reads: Buffalo Bill's Wild West show at the American Exhibition, Earl's Court.
 The secondary captions are, from top:
   View of The Camp — taken from alongside of the Tent of Buck Taylor, 'The Kind of the Cowboys'Scaffolding of grand stand in distance to the rightThe Tent on left is "Redshirt's" (The Senior Chief).The Tent on right of Drawing is Buffalo Bill's. 
-  The Hon. W. F. Cody"Buffalo Bill"Art CriticsThe Deadwood Mail Coach -One of Nature's NoblesBuck Taylor (King of the Cowboys) and his horse "Chieftan""Nigger" — "The horse with a mane in the middle of his back."John Nelson Guard of the Deadwood Coach —"This is his scalplock."Buffalo Bill's Old Charlie 20 years oldWe sketch each other.The Pop=gun Puzzle —</tei:p></description>
+  The Hon. W. F. Cody"Buffalo Bill"Art CriticsThe Deadwood Mail Coach -One of Nature's NoblesBuck Taylor (King of the Cowboys) and his horse "Chieftan""Nigger" — "The horse with a mane in the middle of his back."John Nelson Guard of the Deadwood Coach —"This is his scalplock."Buffalo Bill's Old Charlie 20 years oldWe sketch each other.The Pop=gun Puzzle —</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -103,10 +105,12 @@ The secondary captions are, from top:
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00003"/>
+           <relation type="imageOf" relids="wfc.img.ill.crt00003"/>
          </relationSet>
          <rightsSet>
             <rights>

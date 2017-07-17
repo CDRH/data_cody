@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.69.762">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.762">
       <agentSet>
          <display>J. C. Hemment</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>William F. Cody in hat, dark shirt with embroidered flowers, wide beaded leather belt with large metal buckle, and light-colored pants, stands with left arm behind back and right arm propped on rope in front of show tent. Embossed lower right on photograph "Copyright 1907 by J. C. Hemment." Photographer stamp on mat verso "Photo by Hemment, 108 Fulton St., N. Y."</tei:p></description>
+         <description source="BBCW">
+            <tei:p>William F. Cody in hat, dark shirt with embroidered flowers, wide beaded leather belt with large metal buckle, and light-colored pants, stands with left arm behind back and right arm propped on rope in front of show tent. Embossed lower right on photograph "Copyright 1907 by J. C. Hemment." Photographer stamp on mat verso "Photo by Hemment, 108 Fulton St., N. Y."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -101,10 +103,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.69.762"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.762"/>
          </relationSet>
          <rightsSet>
             <rights>

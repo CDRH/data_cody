@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.PN.312.1">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.pn.312.1">
       <agentSet>
          <display>unknown</display>
          <agent>
@@ -16,10 +16,12 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Ghost Dog, holding ceremonial feathers, standing with woman and female child
+         <description source="BBCW">
+            <tei:p>Ghost Dog, holding ceremonial feathers, standing with woman and female child
    (probably wife and daughter) in front of tipis at Wild West show; show tent and grandstand
    visible in background.  Hand printed at top of image,
-   "Ghost Dog 1911." http://centerofthewest.org/research/rights-reproductions/</tei:p></description>
+   "Ghost Dog 1911." http://centerofthewest.org/research/rights-reproductions/</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -121,10 +123,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.PN.312.1"/>
+            <relation type="imageOf" relids="wfc.img.pho.pn.312.1"/>
          </relationSet>
          <rightsSet>
             <rights>

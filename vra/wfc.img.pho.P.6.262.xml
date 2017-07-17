@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.6.262">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.6.262">
       <agentSet>
          <display>Seiling, J.</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>King Ludwig III of Bavaria stands between his daughters, Adelgunde and Maria, with William F. Cody on the left in front a large group of men, two women, possibly daughters of Ludwig III, and a Native American man wearing a war bonnet and beaded breast plate, possibly Black Heart. Cody holds a cane and wears a hat, vest and suit. William F. Cody's tent with a mounted buffalo head mounted over entrance in background. Typed caption, "J. Sieling, München. Prielmayerstr. 18, u. Schützenstr. 1." Handwritten caption on verso, "King Ludwig III of Bavaria, between his Daughters Adelgunde and Maria in the Buffalo Bill Show, Munik (München) April 24. 1890. Left: Black Hearth Arrapahoe Chief". Buffalo Bill's Wild West was in Munich, Germany 4/19/1890 — 5/5/1890.</tei:p></description>
+         <description source="BBCW">
+            <tei:p>King Ludwig III of Bavaria stands between his daughters, Adelgunde and Maria, with William F. Cody on the left in front a large group of men, two women, possibly daughters of Ludwig III, and a Native American man wearing a war bonnet and beaded breast plate, possibly Black Heart. Cody holds a cane and wears a hat, vest and suit. William F. Cody's tent with a mounted buffalo head mounted over entrance in background. Typed caption, "J. Sieling, München. Prielmayerstr. 18, u. Schützenstr. 1." Handwritten caption on verso, "King Ludwig III of Bavaria, between his Daughters Adelgunde and Maria in the Buffalo Bill Show, Munik (München) April 24. 1890. Left: Black Hearth Arrapahoe Chief". Buffalo Bill's Wild West was in Munich, Germany 4/19/1890 — 5/5/1890.</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -98,10 +100,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.6.262"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.6.262"/>
          </relationSet>
          <rightsSet>
             <rights>

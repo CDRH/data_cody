@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.cc.P.6.21">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.cc.p.6.21">
       <agentSet>
          <display/>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>A portrait of Lillian Smith standing in front of a painted landscape backdrop and aiming a Winchester model 1886 rifle. Smith wears a hat, light-colored kerchief, a button down polonaise with decorative criss-cross lacing and tall boots. Printed caption: "Copyright. Woodburytype. Miss Lillian Smith. The Celebrated Californian Rifle Shot. Buffalo Bill's Wild West."</tei:p></description>
+         <description source="BBCW">
+            <tei:p>A portrait of Lillian Smith standing in front of a painted landscape backdrop and aiming a Winchester model 1886 rifle. Smith wears a hat, light-colored kerchief, a button down polonaise with decorative criss-cross lacing and tall boots. Printed caption: "Copyright. Woodburytype. Miss Lillian Smith. The Celebrated Californian Rifle Shot. Buffalo Bill's Wild West."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -98,10 +100,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.cc.P.6.21"/>
+            <relation type="imageOf" relids="wfc.img.cc.p.6.21"/>
          </relationSet>
          <rightsSet>
             <rights>

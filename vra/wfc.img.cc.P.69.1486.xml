@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.cc.P.69.1486">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.cc.p.69.1486">
       <agentSet>
          <display>Dumble, A.E.</display>
          <agent>
@@ -16,9 +16,11 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Three Native American men in traditional regalia posed with and two men in suits
+         <description source="BBCW">
+            <tei:p>Three Native American men in traditional regalia posed with and two men in suits
    and one man in western attire.  Men are members of the
-   Buffalo Bill combination.</tei:p></description>
+   Buffalo Bill combination.</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -94,10 +96,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.cc.P.69.1486"/>
+            <relation type="imageOf" relids="wfc.img.cc.p.69.1486"/>
          </relationSet>
          <rightsSet>
             <rights>

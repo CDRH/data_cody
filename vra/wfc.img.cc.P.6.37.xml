@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.cc.P.6.37">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.cc.p.6.37">
       <agentSet>
          <display>unknown</display>
          <agent>
@@ -16,10 +16,12 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Little Bull with feather in hair, breast plate over cloth shirt, and medallion
+         <description source="BBCW">
+            <tei:p>Little Bull with feather in hair, breast plate over cloth shirt, and medallion
    around neck.  Type written note below photograph reads,
    "Little Bull, Chief of the Arrapahoes. Buffalo Bill's Wild
-   West."</tei:p></description>
+   West."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -101,10 +103,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.cc.P.6.37"/>
+            <relation type="imageOf" relids="wfc.img.cc.p.6.37"/>
          </relationSet>
          <rightsSet>
             <rights>

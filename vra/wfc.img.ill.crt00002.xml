@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.ill.crt00002">
       <agentSet>
          <display>Opper, Frederick Burr (1857-1937)</display>
@@ -16,14 +16,16 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>The main image caption reads: BUFFALO BILL'S "WILD WEST" SHOW IN ENGLAND.
+         <description source="BBCW">
+            <tei:p>The main image caption reads: BUFFALO BILL'S "WILD WEST" SHOW IN ENGLAND.
 Secondary captions are, from top left:
   Presented to the Queen—They will probably enter the presence in the real old dime novel style.
   Buffalo Bill—Great Moccasins! Custer's last charge was nothing to this!
   The American Bill calls on the English Bill.
   Empty is the box, the Prince has gone.
   The Show will undoubtedly be lionized by London Society. (We are sorry to get ahead of Mr. Du Maurier, of Punch, in this way, but business is business.)
-</tei:p></description>
+</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -101,10 +103,12 @@ Secondary captions are, from top left:
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00002"/>
+           <relation type="imageOf" relids="wfc.img.ill.crt00002"/>
          </relationSet>
          <rightsSet>
             <rights>

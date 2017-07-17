@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.ill.crt00025">
       <agentSet>
          <display>Corbould, A. C.</display>
@@ -16,12 +16,14 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Caption reads: The Queen's Visit to the Wild West Show at West Brompton.
+         <description source="BBCW">
+            <tei:p>Caption reads: The Queen's Visit to the Wild West Show at West Brompton.
 Buffalo Bill before the Queen—Horse and Rider make Obeisance.
 The American Flag: carried by Sergeant Bates.
 The smallest Cowboy kisses his Hand to the Queen.
 The Queen and the little Indian Baby Girl.
-The Queen and Red Shirt.</tei:p></description>
+The Queen and Red Shirt.</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -108,10 +110,12 @@ The Queen and Red Shirt.</tei:p></description>
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00025"/>
+           <relation type="imageOf" relids="wfc.img.ill.crt00025"/>
          </relationSet>
          <rightsSet>
             <rights>

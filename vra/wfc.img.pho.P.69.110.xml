@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.69.110">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.110">
       <agentSet>
          <display>Anderson</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Portrait of Broncho Bill (William Irving) with his wife, Ella, and son, Bennie. Bill wears a hat, kerchief, beaded vest, button shirt, pistol on a gun belt, and beaded moccasins. Ella wears a fringed and beaded buckskin dress. Bennie wears an embroidered shirt, chaps with a pistol tuck in at waist and moccasins. Backdrop of painted trees in background. Typed caption on mat, "Broncho Bill (and Family.) Cow Boy Interpreter of the Sioux. — Buffalo Bill's Wild West." Typed caption on verso, "Anderson Photographer, 785 Broadway, Cor. of 10th, New York."</tei:p></description>
+         <description source="BBCW">
+            <tei:p>Portrait of Broncho Bill (William Irving) with his wife, Ella, and son, Bennie. Bill wears a hat, kerchief, beaded vest, button shirt, pistol on a gun belt, and beaded moccasins. Ella wears a fringed and beaded buckskin dress. Bennie wears an embroidered shirt, chaps with a pistol tuck in at waist and moccasins. Backdrop of painted trees in background. Typed caption on mat, "Broncho Bill (and Family.) Cow Boy Interpreter of the Sioux. — Buffalo Bill's Wild West." Typed caption on verso, "Anderson Photographer, 785 Broadway, Cor. of 10th, New York."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -113,10 +115,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.69.110"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.110"/>
          </relationSet>
          <rightsSet>
             <rights>

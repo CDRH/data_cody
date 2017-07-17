@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.pho.P.69.1190">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.1190">
       <agentSet>
          <display>Macdonald, H. W.</display>
          <agent>
@@ -16,7 +16,9 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Portrait of Annie Oakley standing behind a chair, looking down and holding a small ball towards a small dog, Sir Ralph, sitting on the chair. Annie Oakley wears a dress and a medal. A backdrop in background. Typed caption on mat, "H. W. Macdonald London &amp; Eton." Typed caption on verso, "Art Photographer Under Royal Patronage H. W. Macdonald 57 High Street Eton on Thames &amp;9, Claro Terrace Earls Court S. W.  Near Earls Court &amp; West Brompton Station "Favorite" &amp; West Kensington buses pass the door No. Extra Copies May Always Be Had Rd. No. 161785 Marian Imp. Ports_"</tei:p></description>
+         <description source="BBCW">
+            <tei:p>Portrait of Annie Oakley standing behind a chair, looking down and holding a small ball towards a small dog, Sir Ralph, sitting on the chair. Annie Oakley wears a dress and a medal. A backdrop in background. Typed caption on mat, "H. W. Macdonald London &amp; Eton." Typed caption on verso, "Art Photographer Under Royal Patronage H. W. Macdonald 57 High Street Eton on Thames &amp;9, Claro Terrace Earls Court S. W.  Near Earls Court &amp; West Brompton Station "Favorite" &amp; West Kensington buses pass the door No. Extra Copies May Always Be Had Rd. No. 161785 Marian Imp. Ports_"</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -98,10 +100,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pho.P.69.1190"/>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.1190"/>
          </relationSet>
          <rightsSet>
             <rights>

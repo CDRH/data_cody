@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
-   <work id="wfc.img.cc.P.6.38">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.cc.p.6.38">
       <agentSet>
          <display>Wm. Notman &amp; Son</display>
          <agent>
@@ -16,9 +16,11 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Sitting Bull wearing scarf around neck and beaded strap across chest.
+         <description source="BBCW">
+            <tei:p>Sitting Bull wearing scarf around neck and beaded strap across chest.
     Type written note below photograph reads, "Sitting
-   Bull."</tei:p></description>
+   Bull."</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -94,10 +96,12 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.cc.P.6.38"/>
+            <relation type="imageOf" relids="wfc.img.cc.p.6.38"/>
          </relationSet>
          <rightsSet>
             <rights>

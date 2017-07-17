@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.pho.69.236.40">
       <agentSet>
          <display>Käsebier, Gertrude, 1852-1934</display>
@@ -16,9 +16,11 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Platinotype: 3/4 view of "Iron-Tail" looking at camera, hands in lap, wearing
+         <description source="BBCW">
+            <tei:p>Platinotype: 3/4 view of "Iron-Tail" looking at camera, hands in lap, wearing
    breastplate made of bone?, green mount with caption: "IRON+TAIL" and initials "GK" on mount,
-   (photo detached from mount)</tei:p></description>
+   (photo detached from mount)</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -99,7 +101,9 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
             <relation type="imageOf" relids="wfc.img.pho.69.236.40"/>

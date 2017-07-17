@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.pho.69.236.43">
       <agentSet>
          <display>Käsebier, Gertrude, 1852-1934</display>
@@ -16,10 +16,12 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Platinotype: "Red-Horn-Bull" in full feather headdress, seated and looking at
+         <description source="BBCW">
+            <tei:p>Platinotype: "Red-Horn-Bull" in full feather headdress, seated and looking at
    camera, wearing breastplate made of bone? and holding staff in left hand, embossed signature at
    lower right and "copyrighted 1898", mounted with caption: "RED HORN BULL" on lower margin of
-   mount; print from same negative as 69.236.044</tei:p></description>
+   mount; print from same negative as 69.236.044</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -98,7 +100,9 @@
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
             <relation type="imageOf" relids="wfc.img.pho.69.236.43"/>

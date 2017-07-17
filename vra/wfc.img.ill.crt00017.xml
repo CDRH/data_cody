@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
-
-<vra xmlns="http://www.vraweb.org/vracore4.htm"     xmlns:tei="http://www.tei-c.org/ns/1.0">
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.ill.crt00017">
       <agentSet>
          <display>Renaud, G.</display>
@@ -16,7 +16,8 @@
          <date/>
       </dateSet>
       <descriptionSet>
-         <description source="BBCW"><tei:p>Headline reads: Getting it Hot. 
+         <description source="BBCW">
+            <tei:p>Headline reads: Getting it Hot. 
 Six inset captions:
 There was once a Noble Savage - who was invited to a Swell Dinner.
 He went literally in his War Paint.
@@ -24,7 +25,8 @@ When he had eaten? quite as much as was good for him ...
 He thought he would try a little Custard.
 He had mistaken the sound of the Word. It was Mustard!!!!
 He has now returned to the simple habits of his Fathers.
-</tei:p></description>
+</tei:p>
+         </description>
       </descriptionSet>
       <inscriptionSet>
          <inscription>
@@ -96,10 +98,12 @@ He has now returned to the simple habits of his Fathers.
             <date/>
          </dateSet>
          <descriptionSet>
-            <description source="BBCW"><tei:p></tei:p></description>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.ill.00017"/>
+           <relation type="imageOf" relids="wfc.img.ill.crt00017"/>
          </relationSet>
          <rightsSet>
             <rights>
