@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pst.1.69.32">
+      <agentSet>
+         <display/>
+         <agent>
+            <name/>
+            <dates/>
+            <role/>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display/>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW">
+            <tei:p>Four color lithograph poster of Buffalo Bill on a white horse leading a cavalry troop. Printed at bottom: A MAN WITH A HISTORY-RECORD-A NAME!-Gen. Wm. T. Sherman/THE SCOUT BUFFALO BILL/COL. W.F. CODY, Printed lower left: A. Hoen and Co./Baltimore, Md.</tei:p>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>Posters</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display/>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West Gift of The Coe Foundation</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS6 William F. Cody Collection</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS6 William F. Cody Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Horse</term>
+         </subject>
+         <subject>
+            <term>William F. Cody</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="">The Scout Buffalo Bill Col. W. F. Cody</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>Posters</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
+         </descriptionSet>
+         <relationSet>
+           <relation type="imageOf" relids="wfc.img.pst.1.69.32"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West Gift of The Coe Foundation</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

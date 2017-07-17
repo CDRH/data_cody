@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.6.266">
+      <agentSet>
+         <display>Faye J. Hiscock, Cody, Wyoming</display>
+         <agent>
+            <name>Faye J. Hiscock, Cody, Wyoming</name>
+            <dates/>
+            <role>photographer</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>circa 1910</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW">
+            <tei:p>William F. Cody sits for studio portrait holding lariat on his knee with George T. Beck on his right and another man on his left.</tei:p>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>photograph</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>7.125 x 5 b&amp;w photograph</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS6 William F. Cody Collection</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS6 William F. Cody Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Men</term>
+         </subject>
+         <subject>
+            <term>Portrait photographs</term>
+         </subject>
+         <subject>
+            <term>Cody, William F. (William Frederick), 1846-1917</term>
+         </subject>
+         <subject>
+            <term>Portraits</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">William F. Cody, George T. Beck and man in studio setting</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>photograph</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.pho.p.6.266"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

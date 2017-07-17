@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.1506">
+      <agentSet>
+         <display>unknown</display>
+         <agent>
+            <name>unknown</name>
+            <dates/>
+            <role>photographer</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>circa 1905</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW">
+            <tei:p>Tom Isbell, wearing checkered bandanna, stands with two Native Americans (one
+   sitting) and four other men in hats (one holding dog) in front of tipi and show tent at Buffalo
+   Bill's Wild West. Handwritten in pencil on mat verso
+   "Isbell - 15." http://centerofthewest.org/research/rights-reproductions/</tei:p>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>photograph</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>6.29 x 4.46 in b&amp;w photograph</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS6 William F. Cody Collection</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS6 William F. Cody Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Wild west shows</term>
+         </subject>
+         <subject>
+            <term>Cowboys</term>
+         </subject>
+         <subject>
+            <term>Tents</term>
+         </subject>
+         <subject>
+            <term>Tipis</term>
+         </subject>
+         <subject>
+            <term>American Indians</term>
+         </subject>
+         <subject>
+            <term>Buffalo Bill's Wild West Show</term>
+         </subject>
+         <subject>
+            <term>Dogs</term>
+         </subject>
+         <subject>
+            <term>Isbell, Thomas Jefferson, 1875-1955</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">Tom Isbell with Buffalo Bill's Wild West personnel</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>photograph</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.1506"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.ill.crt00003">
+      <agentSet>
+         <display>Corbould, Alfred Chantrey (1852-1920)</display>
+         <agent>
+            <name>Corbould, Alfred Chantrey (1852-1920)</name>
+            <dates/>
+            <role/>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>1887-05-07</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW">
+            <tei:p>The main caption reads: Buffalo Bill's Wild West show at the American Exhibition, Earl's Court.
+The secondary captions are, from top:
+  View of The Camp — taken from alongside of the Tent of Buck Taylor, 'The Kind of the Cowboys'Scaffolding of grand stand in distance to the rightThe Tent on left is "Redshirt's" (The Senior Chief).The Tent on right of Drawing is Buffalo Bill's. 
+  The Hon. W. F. Cody"Buffalo Bill"Art CriticsThe Deadwood Mail Coach -One of Nature's NoblesBuck Taylor (King of the Cowboys) and his horse "Chieftan""Nigger" — "The horse with a mane in the middle of his back."John Nelson Guard of the Deadwood Coach —"This is his scalplock."Buffalo Bill's Old Charlie 20 years oldWe sketch each other.The Pop=gun Puzzle —</tei:p>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>Illustration</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display/>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3353</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display/>
+         <source>
+            <name type="electronic" href=""/>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>American Indians</term>
+         </subject>
+         <subject>
+            <term>Cowboys</term>
+         </subject>
+         <subject>
+            <term>Cowgirls</term>
+         </subject>
+         <subject>
+            <term>Firearms</term>
+         </subject>
+         <subject>
+            <term>Horses</term>
+         </subject>
+         <subject>
+            <term>Logistics</term>
+         </subject>
+         <subject>
+            <term>Rough Riders</term>
+         </subject>
+         <subject>
+            <term>Show Indians</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">Buffalo Bill's Wild West show at the American Exhibition, Earl's Court from The Graphic (British newspaper, 1869-1932) No 910. Vol. XXXV</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>Illustration</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
+         </descriptionSet>
+         <relationSet>
+           <relation type="imageOf" relids="wfc.img.ill.crt00003"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>Buffalo Bill Center of the West, William F. Cody Collection, MS6.3353</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

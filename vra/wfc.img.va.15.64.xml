@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.va.15.64">
+      <agentSet>
+         <display>Bacon, Irving R.</display>
+         <agent>
+            <name>Bacon, Irving R.</name>
+            <dates/>
+            <role/>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>1902</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW">
+            <tei:p>Irving R. Bacon panting, oil on canvas, The Life I Love, 1902</tei:p>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>Visual Art</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display/>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>Buffalo Bill Center of the West, Cody, Wyoming; Bequest in memory of the Houx and Newell families, 15.64</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display> </display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/"> </name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Hunting</term>
+         </subject>
+         <subject>
+            <term>Horses</term>
+         </subject>
+         <subject>
+            <term>Native Americans</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="">The Life I Love</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>Visual Art</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.va.15.64"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>Buffalo Bill Center of the West, Cody, Wyoming; Bequest in memory of the Houx and Newell families, 15.64</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

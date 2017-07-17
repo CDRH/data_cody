@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.va.23.71">
+      <agentSet>
+         <display>Remington, Frederic, 1861-1909</display>
+         <agent>
+            <name>Remington, Frederic, 1861-1909</name>
+            <dates/>
+            <role/>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>1899</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW">
+            <tei:p>Frederic Remington had a long association with his friend, William F. Cody. He visited Cody's Wild West exhibitions on a number of occasions, using the visits to sketch western subjects. Remington produced this painting along with several other illustrations for the biography of Cody, Last of the Great Scouts, written by his sister Helen Cody Wetmore in 1899.</tei:p>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>Visual Art</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display/>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>Buffalo Bill Center of the West, Cody, Wyoming; Gift of The Coe Foundation, H.P. Skoglund, Ernest Goppert, Sr. and John S. Bugas, 23.71</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display> </display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/"> </name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Native Americans</term>
+         </subject>
+         <subject>
+            <term>Profile</term>
+         </subject>
+         <subject>
+            <term>Arenas</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="">Buffalo Bill in the Limelight</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>Visual Art</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.va.23.71"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>Buffalo Bill Center of the West, Cody, Wyoming; Gift of The Coe Foundation, H.P. Skoglund, Ernest Goppert, Sr. and John S. Bugas, 23.71</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

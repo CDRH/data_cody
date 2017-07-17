@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.750">
+      <agentSet>
+         <display>Kent</display>
+         <agent>
+            <name>Kent</name>
+            <dates/>
+            <role>photographer</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>1915</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW">
+            <tei:p>William F. Cody standing next to railroad car wearing hat, beaded, fringed, buckskin jacket and knee high boots with cigar in mouth.</tei:p>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>photograph</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>6.6 x 4.7 in b&amp;w photographic print</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS6 William F. Cody Collection</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS6 William F. Cody Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Railroads</term>
+         </subject>
+         <subject>
+            <term>Railroad cars</term>
+         </subject>
+         <subject>
+            <term>Cigars</term>
+         </subject>
+         <subject>
+            <term>Boots</term>
+         </subject>
+         <subject>
+            <term>Hats</term>
+         </subject>
+         <subject>
+            <term>Cody, William F. (William Frederick), 1846-1917</term>
+         </subject>
+         <subject>
+            <term>Buffalo Bill, 1846-1917</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">William F. Cody next to railroad car</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>photograph</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.750"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.p.69.825">
+      <agentSet>
+         <display>unknown</display>
+         <agent>
+            <name>unknown</name>
+            <dates/>
+            <role>photographer</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>circa 1887</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW">
+            <tei:p>William F. Cody with group of men involved in Buffalo Bill's Wild West. Printed beneath photo, front row, left to right, Nate Salsbury, Supt. Fisher, Jule Keen, W.F. Cody, Supt. Foinett, J.M. Burke, Red Shirt, Inspector Cronin. Standing: Left to Right, G. Duck, E.M. Stuart, A.E. Sheible, W.E. Wood, D.A. Jones, L.H. Skinner, G. Grainger, C. Couturier, Lew Parker, Harry A. Lee, W.C. Gayler, W.O. Snyder, P. Frenzeny.</tei:p>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>photograph</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>11.4 x 9.0 in mounted b&amp;w photograph</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS6 William F. Cody Collection</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS6 William F. Cody Collection</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>Men</term>
+         </subject>
+         <subject>
+            <term>Wild west shows</term>
+         </subject>
+         <subject>
+            <term>Cody, William F. (William Frederick), 1846-1917</term>
+         </subject>
+         <subject>
+            <term>Salsbury, Nathan, 1846-1902</term>
+         </subject>
+         <subject>
+            <term>Keen, Jule</term>
+         </subject>
+         <subject>
+            <term>Burke, John M., 1842-1917</term>
+         </subject>
+         <subject>
+            <term>Red Shirt, 1845?-1925</term>
+         </subject>
+         <subject>
+            <term>Duck, George Francis</term>
+         </subject>
+         <subject>
+            <term>Stuart, E.M.</term>
+         </subject>
+         <subject>
+            <term>Sheible, A.E.</term>
+         </subject>
+         <subject>
+            <term>Wood, W.E.</term>
+         </subject>
+         <subject>
+            <term>Jones, D.A.</term>
+         </subject>
+         <subject>
+            <term>Skinner, L.A.</term>
+         </subject>
+         <subject>
+            <term>Grainger, G.</term>
+         </subject>
+         <subject>
+            <term>Couturier, C.</term>
+         </subject>
+         <subject>
+            <term>Parker, Lew</term>
+         </subject>
+         <subject>
+            <term>Lee, Harry A.</term>
+         </subject>
+         <subject>
+            <term>Gayler, W.C.</term>
+         </subject>
+         <subject>
+            <term>Snyder, W.O.</term>
+         </subject>
+         <subject>
+            <term>Frenzeny, Paul</term>
+         </subject>
+         <subject>
+            <term>Buffalo Bill's Wild West Show</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">William F. Cody with group of men involved in Buffalo Bill's Wild West</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>photograph</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.pho.p.69.825"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>

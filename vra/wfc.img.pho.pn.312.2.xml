@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://digitalhumanities.unl.edu/resources/schemas/vra/vra4.0.42-tei/vra-tei-strict.xsd"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+     xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <work id="wfc.img.pho.pn.312.2">
+      <agentSet>
+         <display>unknown</display>
+         <agent>
+            <name>unknown</name>
+            <dates/>
+            <role>photographer</role>
+         </agent>
+      </agentSet>
+      <dateSet>
+         <display>1911</display>
+         <date/>
+      </dateSet>
+      <descriptionSet>
+         <description source="BBCW">
+            <tei:p>Willie Picket Pin in war bonnet, hide vest, and jewelry, sitting in front of tipi
+   at Wild West show; in background a man naps on the ground. 
+   Hand printed at top of image, "Willie Picket Pin, 1911."</tei:p>
+         </description>
+      </descriptionSet>
+      <inscriptionSet>
+         <inscription>
+            <text/>
+         </inscription>
+      </inscriptionSet>
+      <locationSet>
+         <location>
+            <name/>
+         </location>
+      </locationSet>
+      <materialSet>
+         <display>negative</display>
+         <notes/>
+         <material/>
+      </materialSet>
+      <measurementsSet>
+         <display>4 x 5 glass plate negative</display>
+         <notes/>
+         <measurements type="width" unit="in"/>
+         <measurements type="height" unit="in"/>
+      </measurementsSet>
+      <relationSet>
+         <relation/>
+      </relationSet>
+      <rightsSet>
+         <rights>
+            <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+            <text/>
+         </rights>
+      </rightsSet>
+      <sourceSet>
+         <display>Buffalo Bill Online Archive MS312 Buffalo Bill - Pawnee Bill Wild West Show glass
+   plate negatives</display>
+         <source>
+            <name type="electronic"
+                  href="http://centerofthewest.org/research/rights-reproductions/">Buffalo Bill Online Archive MS312 Buffalo Bill - Pawnee Bill Wild West Show glass
+   plate negatives</name>
+         </source>
+      </sourceSet>
+      <subjectSet>
+         <subject>
+            <term>American Indians</term>
+         </subject>
+         <subject>
+            <term>Hides &amp; skins</term>
+         </subject>
+         <subject>
+            <term>Headgear</term>
+         </subject>
+         <subject>
+            <term>Buffalo Bill, 1846-1917</term>
+         </subject>
+         <subject>
+            <term>Pawnee Bill, 1860-1942</term>
+         </subject>
+         <subject>
+            <term>Buffalo Bill's Wild West and Pawnee Bill's Great Far East (Show)</term>
+         </subject>
+         <subject>
+            <term>Indian beadwork</term>
+         </subject>
+         <subject>
+            <term>Portraits</term>
+         </subject>
+         <subject>
+            <term>Tipis</term>
+         </subject>
+      </subjectSet>
+      <techniqueSet>
+         <technique/>
+      </techniqueSet>
+      <titleSet>
+         <title xml:lang="English">Willie Picket Pin</title>
+      </titleSet>
+      <worktypeSet>
+         <worktype>negative</worktype>
+      </worktypeSet>
+      <image>
+         <agentSet>
+            <agent>
+               <name type="personal"/>
+               <role>creator of master digital image</role>
+            </agent>
+         </agentSet>
+         <dateSet>
+            <date/>
+         </dateSet>
+         <descriptionSet>
+            <description source="BBCW">
+               <tei:p/>
+            </description>
+         </descriptionSet>
+         <relationSet>
+            <relation type="imageOf" relids="wfc.img.pho.pn.312.2"/>
+         </relationSet>
+         <rightsSet>
+            <rights>
+               <rightsHolder>McCracken Research Library, Buffalo Bill Center of the West</rightsHolder>
+               <text/>
+            </rights>
+         </rightsSet>
+         <worktypeSet>
+            <worktype>digital image</worktype>
+         </worktypeSet>
+      </image>
+   </work>
+</vra>
