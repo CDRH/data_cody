@@ -62,7 +62,7 @@
   <!-- taking filename/id for now -->
   <xsl:template name="image_id">
     <field name="image_id">
-      <xsl:value-of select="substring-after(substring-after(/vra/work[1]/@id, 'wfc.img.'),'.')"/>
+      <xsl:value-of select="/vra/work[1]/@id"/>
     </field>
   </xsl:template>
   
