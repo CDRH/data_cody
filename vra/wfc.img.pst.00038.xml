@@ -4,11 +4,11 @@
      xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.pst.00038">
       <agentSet>
-         <display/>
+         <display></display>
          <agent>
-            <name/>
+            <name type="corporate">A. Hoen &amp; Co., Baltimore, MD</name>
             <dates/>
-            <role/>
+            <role>publisher</role>
          </agent>
       </agentSet>
       <dateSet>

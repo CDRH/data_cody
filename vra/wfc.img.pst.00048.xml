@@ -4,11 +4,11 @@
      xmlns:tei="http://www.tei-c.org/ns/1.0">
    <work id="wfc.img.pst.00048">
       <agentSet>
-         <display/>
+         <display></display>
          <agent>
-            <name/>
+            <name type="corporate">Wheat &amp; Cornett, Printers, New York</name>
             <dates/>
-            <role/>
+            <role>publisher</role>
          </agent>
       </agentSet>
       <dateSet>
