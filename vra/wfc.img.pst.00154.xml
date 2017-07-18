@@ -6,9 +6,9 @@
       <agentSet>
          <display/>
          <agent>
-            <name/>
+            <name type="corporate">Weiners, Paris</name>
             <dates/>
-            <role/>
+            <role>publisher</role>
          </agent>
       </agentSet>
       <dateSet>

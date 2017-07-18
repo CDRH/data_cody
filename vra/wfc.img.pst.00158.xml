@@ -6,9 +6,9 @@
       <agentSet>
          <display/>
          <agent>
-            <name/>
+             <name type="corporate">Enquirer Job Printing Co., Cincinnati</name>
             <dates/>
-            <role/>
+            <role>publisher</role>
          </agent>
       </agentSet>
       <dateSet>
