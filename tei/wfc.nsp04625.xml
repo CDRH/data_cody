@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main"></title>
+<title type="main">Types of Horsemanship</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -107,6 +107,7 @@
 </profileDesc>
 
 <revisionDesc>
+  <change when="2017-07-19"><name>Weakly, Laura K.</name> Correction</change>
 <change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
 <change when="2017"><name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
 <change when="2017"><name xml:id="dg">Glass, Diane</name> <name xml:id="gb">Boyce, Gary</name> Transcription</change>

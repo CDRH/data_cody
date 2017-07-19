@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main"></title>
+<title type="main">Buffalo Bill's Wild West</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -46,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main"></title>
+<title level="a" type="main">Buffalo Bill's Wild West</title>
 <title level="j">Eastern Bells</title>
 <pubPlace>Glasgow, Scotland</pubPlace>
 <date when="1891-12">December 1891</date>
@@ -118,6 +118,7 @@ McCracken Research Library, Buffalo Bill Center of the West
 </profileDesc>
 
 <revisionDesc>
+  <change when="2017-07-19"><name>Weakly, Laura K.</name> Correction</change>
   <change when="2015-09-22"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
   <change when="2015"><name xml:id="da">Adams, Deb</name> and <name xml:id="lc">Clark, Linda</name> Proofreading</change>
   <change when="2015"><name xml:id="sh">Hanna, Sam</name> Transcription</change>

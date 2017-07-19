@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main"></title>
+<title type="main">"Buffalo Bill" At Home</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -111,6 +111,7 @@ McCracken Research Library, Buffalo Bill Center of the West
 </profileDesc>
 
 <revisionDesc>
+  <change when="2017-07-19"><name>Weakly, Laura K.</name> Correction</change>
   <change when="2015-09-22"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
   <change when="2015"><name xml:id="da">Adams, Deb</name> and <name xml:id="lc">Clark, Linda</name> Proofreading</change>
   <change when="2015"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
