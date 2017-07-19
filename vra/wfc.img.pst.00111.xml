@@ -15,6 +15,11 @@
             <dates/>
             <role>publisher</role>
          </agent>
+         <agent>
+            <name>Otto Becker</name>
+            <dates/>
+            <role>lithographer</role>
+         </agent>
       </agentSet>
 
       <dateSet>

@@ -6,9 +6,9 @@
       <agentSet>
          <display/>
          <agent>
-            <name/>
+            <name type="corporate">Strobridge Lithograph Co., Cincinnati, Ohio</name>
             <dates/>
-            <role/>
+            <role>publisher</role>
          </agent>
       </agentSet>
       <dateSet>
@@ -17,7 +17,7 @@
       </dateSet>
       <descriptionSet>
          <description source="BBCW">
-            <tei:p>Printed LRC: Arrow-head/The Belle of the Tribe, Printed UL: Buffalo/Bill's/Wild West, Printed UR: Combined/With/Pawnee Bill's/Great Far East, Printed LLC: Copyright 1908 by/The/Strobridge/Litho Co/Cincinnati and New York, Printed URC: 08.C.68</tei:p>
+            <tei:p>Printed LRC: Arrow-head The Belle of the Tribe, Printed UL: Buffalo Bill's Wild West, Printed UR: Combined With Pawnee Bill's Great Far East, Printed LLC: Copyright 1908 by The Strobridge Litho Co Cincinnati and New York, Printed URC: 08.C.68</tei:p>
          </description>
       </descriptionSet>
       <inscriptionSet>

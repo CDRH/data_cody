@@ -6,9 +6,9 @@
       <agentSet>
          <display/>
          <agent>
-            <name/>
+            <name type="corporate">Calhoun Printing Company, Hartford, Connecticut</name>
             <dates/>
-            <role/>
+            <role>publisher</role>
          </agent>
       </agentSet>
       <dateSet>

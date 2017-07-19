@@ -6,9 +6,9 @@
       <agentSet>
          <display/>
          <agent>
-            <name/>
+            <name type="corporate">Courier Lithographic Co., Buffalo, New York</name>
             <dates/>
-            <role/>
+            <role>publisher</role>
          </agent>
       </agentSet>
       <dateSet>

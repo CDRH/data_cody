@@ -6,9 +6,14 @@
       <agentSet>
          <display/>
          <agent>
-            <name/>
+            <name type="corporate">A. Hoen and Co., Baltimore, Md.</name>
             <dates/>
-            <role/>
+            <role>publisher</role>
+         </agent>
+         <agent>
+            <name type="personal">Thomas, Henry Atwell (1834-1904)</name>
+            <dates/>
+            <role>contributor</role>
          </agent>
       </agentSet>
       <dateSet>

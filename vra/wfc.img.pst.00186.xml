@@ -10,6 +10,11 @@
             <dates/>
             <role>publisher</role>
          </agent>
+         <agent>
+            <name type="corporate">Arthur Jule Goodman</name>
+            <dates/>
+            <role>contributor</role>
+         </agent>
       </agentSet>
       <dateSet>
          <display/>
