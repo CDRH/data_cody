@@ -49,6 +49,9 @@
       <xsl:when test="/vra/work/dateSet/date/earliestDate and /vra/work/dateSet/date/latestDate">
         <xsl:value-of select="/vra/work/dateSet/date[1]/earliestDate[1]"/>
       </xsl:when>
+      <xsl:when test="starts-with(/vra/work[1]/dateSet[1]/display[1],'1')">
+        <xsl:value-of select="/vra/work[1]/dateSet[1]/display[1]"/>
+      </xsl:when>
       <xsl:when test="/vra/work/dateSet/date[1]/earliestDate[1] = ''">
         <xsl:text>undated</xsl:text>
       </xsl:when>
@@ -73,16 +76,51 @@
   </xsl:template>
   
   <xsl:template name="creators">
-    <field name="creator">
-      <xsl:value-of select="/vra/work[1]/agentSet[1]/agent[1]/name[1]"/>
-    </field>
+    <!-- I don't love the way I am doing this but it works so leaving for now -->
+    <xsl:variable name="creator_check">
+      <xsl:for-each select="//work/agentSet/agent/role">
+        <xsl:choose>
+          <xsl:when test=".='publisher'"></xsl:when>
+          <xsl:when test=".='contributor'"></xsl:when>
+          <xsl:when test=".!=''">creator</xsl:when>
+        </xsl:choose>
+      </xsl:for-each>
+    </xsl:variable>
     
-    <field name="creators">
-      <xsl:value-of select="/vra/work[1]/agentSet[1]/agent[1]/name[1]"/>
-    </field>
+    <!-- Creator -->
+    <xsl:if test="contains($creator_check,'creator')">
+        <xsl:for-each select="/vra/work/agentSet/agent">
+          <xsl:if test="role != 'publisher' and role != 'contributor' and role != ''">
+           <field name="creator">
+              <xsl:value-of select="name"></xsl:value-of>
+           </field>
+          </xsl:if>
+        </xsl:for-each>
+    </xsl:if>
+
   </xsl:template>
   
-  <xsl:template name="publisher">zzz</xsl:template>
+  <xsl:template name="publisher">
+    
+    <xsl:for-each select="/vra/work/agentSet/agent">
+      <xsl:if test="role = 'publisher'">
+        <field name="publisher">
+          <xsl:value-of select="name"/>
+        </field>
+      </xsl:if>
+    </xsl:for-each>
+  </xsl:template>
+  
+  <xsl:template name="contributors">
+    
+    <xsl:for-each select="/vra/work/agentSet/agent">
+      <xsl:if test="role = 'contributor'">
+        <field name="contributor">
+          <xsl:value-of select="name"/>
+        </field>
+      </xsl:if>
+    </xsl:for-each>
+  </xsl:template>
   
   
   <!-- master tamplate does not handle keywords, when it does, overwrite here instead of in extras -->
