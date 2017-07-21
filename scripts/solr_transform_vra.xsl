@@ -82,6 +82,9 @@
     </field>
   </xsl:template>
   
+  <xsl:template name="publisher">zzz</xsl:template>
+  
+  
   <!-- master tamplate does not handle keywords, when it does, overwrite here instead of in extras -->
   <!--<xsl:template name="keywords"></xsl:template>-->
   
