@@ -41,9 +41,10 @@
          <measurements type="width" unit="in"/>
          <measurements type="height" unit="in"/>
       </measurementsSet>
-      <relationSet>
-         <relation/>
-      </relationSet>
+     <relationSet>
+       <display>Audio related to "Paul"</display>
+       <relation type="relatedTo" href="multimedia/wfc.aud.69.238.2"/>
+     </relationSet>
       <rightsSet>
          <rights>
             <rightsHolder>Photographic History Collection, National Museum of American History, Smithsonian Institution 69.238.2, 2004-57919</rightsHolder>
@@ -51,9 +52,10 @@
          </rights>
       </rightsSet>
       <sourceSet>
-         <display>multimedia/wfc.aud.69.238.2</display>
+        <display>Photographic History Collection, National Museum of American History, Smithsonian
+          Institution 69.238.4, 2004-57921</display>
          <source>
-            <name type="electronic" href="http://americanhistory.si.edu">multimedia/wfc.aud.69.238.2</name>
+            <name type="electronic" href="http://americanhistory.si.edu"></name>
          </source>
       </sourceSet>
       <subjectSet>

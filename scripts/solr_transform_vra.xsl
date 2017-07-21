@@ -78,11 +78,12 @@
   <xsl:template name="creators">
     <!-- I don't love the way I am doing this but it works so leaving for now -->
     <xsl:variable name="creator_check">
-      <xsl:for-each select="//work/agentSet/agent/role">
+      <xsl:for-each select="//work/agentSet/agent">
         <xsl:choose>
-          <xsl:when test=".='publisher'"></xsl:when>
-          <xsl:when test=".='contributor'"></xsl:when>
-          <xsl:when test=".!=''">creator</xsl:when>
+          <xsl:when test="role='publisher'"></xsl:when>
+          <xsl:when test="role='contributor'"></xsl:when>
+          <xsl:when test="role!=''">creator</xsl:when>
+          <xsl:when test="role='' and name != ''">creator</xsl:when>
         </xsl:choose>
       </xsl:for-each>
     </xsl:variable>
@@ -90,7 +91,7 @@
     <!-- Creator -->
     <xsl:if test="contains($creator_check,'creator')">
         <xsl:for-each select="/vra/work/agentSet/agent">
-          <xsl:if test="role != 'publisher' and role != 'contributor' and role != ''">
+          <xsl:if test="role != 'publisher' and role != 'contributor' and normalize-space(.) != ''">
            <field name="creator">
               <xsl:value-of select="name"></xsl:value-of>
            </field>
