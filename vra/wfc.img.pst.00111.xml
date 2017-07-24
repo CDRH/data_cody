@@ -57,12 +57,12 @@
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder>1.69.420B, Buffalo Bill Museum, Buffalo Bill Center of the West</rightsHolder>
+            <rightsHolder>Buffalo Bill Museum, Buffalo Bill Center of the West</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
       <sourceSet>
-         <display/>
+        <display>1.69.420B, Buffalo Bill Museum, Buffalo Bill Center of the West</display>
          <source>
             <name type="electronic"
                   href="http://centerofthewest.org/research/rights-reproductions/"/>

@@ -8,7 +8,7 @@
          <agent>
             <name/>
             <dates/>
-            <role>photographer</role>
+            <role></role>
          </agent>
       </agentSet>
       <dateSet>
@@ -47,12 +47,12 @@
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder>Buffalo Bill Museum and Grave, Lookout Mountain, Colorado 70.0256</rightsHolder>
+            <rightsHolder>Buffalo Bill Museum and Grave</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
       <sourceSet>
-         <display/>
+        <display>Buffalo Bill Museum and Grave, Lookout Mountain, Colorado 70.0256</display>
          <source>
             <name type="electronic" href="http://www.buffalobill.org/"/>
          </source>

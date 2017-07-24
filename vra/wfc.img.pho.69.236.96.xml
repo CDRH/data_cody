@@ -46,13 +46,12 @@
       </relationSet>
       <rightsSet>
          <rights>
-            <rightsHolder>Photographic History Collection, National Museum of American History, Smithsonian
-   Institution 69.236.96, 2004-57882</rightsHolder>
+           <rightsHolder>Smithsonian Institution</rightsHolder>
             <text/>
          </rights>
       </rightsSet>
       <sourceSet>
-         <display/>
+        <display>Photographic History Collection, National Museum of American History, Smithsonian Institution 69.236.96, 2004-57882</display>
          <source>
             <name type="electronic" href="http://americanhistory.si.edu"/>
          </source>
