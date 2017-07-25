@@ -3,8 +3,8 @@ default:
     solr_core: api_cody
 #   es_type: cody_archive
     shortname: cody_archive
-    vra_solr_xsl: collections/cody_archive/scripts/solr_transform_vra.xsl
-    tei_solr_xsl: collections/cody_archive/scripts/solr_transform_tei.xsl
+    vra_solr_xsl: collections/data_cody/scripts/solr_transform_vra.xsl
+    tei_solr_xsl: collections/data_cody/scripts/solr_transform_tei.xsl
     xsl_params:
       fig_location: http://codyarchive.org/figures/
       file_location: http://rosie.unl.edu/data/projects/
