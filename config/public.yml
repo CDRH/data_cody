@@ -5,16 +5,6 @@ default:
     shortname: cody_archive
     vra_solr_xsl: collections/data_cody/scripts/solr_transform_vra.xsl
     tei_solr_xsl: collections/data_cody/scripts/solr_transform_tei.xsl
-    xsl_params:
-      fig_location: http://codyarchive.org/figures/
-      file_location: http://rosie.unl.edu/data/projects/
-      figures: true
-      site_url: http://rosie.unl.edu/cody_archive
-      fw: true        # form works (page nums, etc)
-      pb: true        # page breaks
-      collection: The\ William\ F.\ Cody\ Archive
-      slug: cody_archive
-
 
 # development:
 #
