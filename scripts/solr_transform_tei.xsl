@@ -21,6 +21,7 @@
   <!-- ==================================================================== -->
 
   <!-- Defined in project config files -->
+  <xsl:param name="collection"/>
   <xsl:param name="fig_location"/>  <!-- url for figures -->
   <xsl:param name="file_location"/> <!-- url for tei files -->
   <xsl:param name="figures"/>       <!-- boolean for if figs should be displayed (not for this script, for html script) -->
