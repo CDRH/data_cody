@@ -2,7 +2,6 @@ default:
     project_desc: The William F. Cody Archive
     solr_core: api_cody
     es_type: cody_archive
-    shortname: cody_archive
     vra_solr_xsl: collections/cody_archive/scripts/solr_transform_vra.xsl
     tei_solr_xsl: collections/cody_archive/scripts/solr_transform_tei.xsl
     # variables_html:
