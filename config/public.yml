@@ -4,9 +4,7 @@ default:
     es_type: cody_archive
     vra_solr_xsl: collections/cody_archive/scripts/solr_transform_vra.xsl
     tei_solr_xsl: collections/cody_archive/scripts/solr_transform_tei.xsl
-    # variables_html:
-    #     site_url:
-    #     fig_location
+
 # development:
 #
 # production:

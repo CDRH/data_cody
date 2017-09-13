@@ -25,8 +25,13 @@
 <!--                           PARAMETERS                                 -->
 <!-- ==================================================================== -->
 
-<xsl:param name="site_url"/>                <!-- the site url (http://codyarchive.org) -->
-<xsl:param name="fig_location"></xsl:param> <!-- set figure location  -->
+<xsl:param name="collection"/>
+<xsl:param name="data_base"/>
+<xsl:param name="environment">production</xsl:param>
+<xsl:param name="image_large"/>
+<xsl:param name="image_thumb"/>
+<xsl:param name="media_base"/>
+<xsl:param name="site_url"/>
 
 <!-- ==================================================================== -->
 <!--                            OVERRIDES                                 -->
@@ -79,66 +84,6 @@
         </xsl:for-each>
       </div>
     </xsl:if>
-  </xsl:template>
-
-  <!-- cody temporarily has a different image path than the other projects, so overriding
-  large with 800 and thumbnails with searchresults -->
-  <xsl:template match="pb">
-    <!-- grab the figure id, first looking in @facs, then @xml:id, and if there is a .jpg, chop it off -->
-    <xsl:variable name="figure_id">
-      <xsl:variable name="figure_id_full">
-        <xsl:choose>
-          <xsl:when test="@facs"><xsl:value-of select="@facs"></xsl:value-of></xsl:when>
-          <xsl:when test="@xml:id"><xsl:value-of select="@xml:id"></xsl:value-of></xsl:when>
-        </xsl:choose>
-      </xsl:variable>
-      <xsl:choose>
-        <xsl:when test="contains($figure_id_full,'.jpg')">
-          <xsl:value-of select="substring-before($figure_id_full,'.jpg')"/>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:value-of select="$figure_id_full"/>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:variable>
-
-    <span class="hr">&#160;</span>
-    <span>
-      <xsl:attribute name="class">
-        <xsl:text>pageimage</xsl:text>
-      </xsl:attribute>
-      <a>
-        <xsl:attribute name="href">
-          <xsl:value-of select="$fig_location"/>
-          <xsl:text>800/</xsl:text>
-          <xsl:value-of select="$figure_id"/>
-          <xsl:text>.jpg</xsl:text>
-        </xsl:attribute>
-        <xsl:attribute name="rel">
-          <xsl:text>prettyPhoto[pp_gal]</xsl:text>
-        </xsl:attribute>
-        <xsl:attribute name="title">
-          <xsl:text>&lt;a href="</xsl:text>
-          <xsl:value-of select="$fig_location"/>
-          <xsl:text>800/</xsl:text>
-          <xsl:value-of select="$figure_id"/>
-          <xsl:text>.jpg</xsl:text>
-          <xsl:text>" target="_blank" &gt;open image in new window&lt;/a&gt;</xsl:text>
-        </xsl:attribute>
-
-        <img>
-          <xsl:attribute name="src">
-            <xsl:value-of select="$fig_location"/>
-            <xsl:text>250/</xsl:text>
-            <xsl:value-of select="$figure_id"/>
-            <xsl:text>.jpg</xsl:text>
-          </xsl:attribute>
-          <xsl:attribute name="class">
-            <xsl:text>display</xsl:text>&#160;
-          </xsl:attribute>
-        </img>
-      </a>
-    </span>
   </xsl:template>
 
 </xsl:stylesheet>
