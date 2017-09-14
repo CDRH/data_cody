@@ -22,15 +22,11 @@
 
   <!-- Defined in project config files -->
   <xsl:param name="collection"/>
-  <xsl:param name="fig_location"/>  <!-- url for figures -->
-  <xsl:param name="file_location"/> <!-- url for tei files -->
-  <xsl:param name="figures"/>       <!-- boolean for if figs should be displayed (not for this script, for html script) -->
-  <xsl:param name="fw"/>            <!-- boolean for html not for this script -->
-  <xsl:param name="pb"/>            <!-- boolean for page breaks in html, not this script -->
-  <xsl:param name="project"/>       <!-- longer name of project -->
-  <xsl:param name="slug"/>          <!-- slug of project -->
+  <xsl:param name="data_base"/>
+  <xsl:param name="environment">production</xsl:param>
+  <xsl:param name="media_base"/>
+  <xsl:param name="slug"/>
   <xsl:param name="site_url"/>
-        
 
   <!-- ==================================================================== -->
   <!--                            OVERRIDES                                 -->
@@ -53,10 +49,9 @@
         in one of the imported files
       </xsl:template> -->
 
-
   <!-- Uncomment these to prevent personography behavior -->
   <!-- <xsl:template name="personography"/> -->
-  
+
   <xsl:template name="extras">
     <field name="dateSort_s">
       <xsl:choose>
@@ -75,7 +70,7 @@
         <xsl:otherwise>undated</xsl:otherwise> <!-- When no @when or @notBefore exist -->
       </xsl:choose>
     </field>
-    
+
     <field name="itemCategory_s">
       <xsl:text>texts</xsl:text>
     </field>
@@ -102,8 +97,7 @@
       </xsl:choose>
     </field>
   </xsl:template>
-  
- 
+
   <xsl:template name="date">
     <xsl:variable name="doc_date">
       <xsl:choose>
@@ -115,7 +109,7 @@
         </xsl:when>
       </xsl:choose>
     </xsl:variable>
-      
+
       <field name="date">
         <xsl:call-template name="date_standardize">
           <xsl:with-param name="datebefore">
@@ -124,7 +118,7 @@
         </xsl:call-template>
         <xsl:text>T00:00:00Z</xsl:text>
       </field>
-    
+
       <!-- dateDisplay -->
       <field name="dateDisplay">
         <xsl:variable name="display_date">
@@ -132,7 +126,6 @@
         </xsl:variable>
         <xsl:value-of select="$display_date"/>
       </field>
-    
   </xsl:template>
 
 </xsl:stylesheet>

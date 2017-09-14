@@ -1,10 +1,13 @@
 default:
-    project_desc: The William F. Cody Archive
-    solr_core: api_cody
-    es_type: cody_archive
-    vra_solr_xsl: collections/cody_archive/scripts/solr_transform_vra.xsl
-    tei_solr_xsl: collections/cody_archive/scripts/solr_transform_tei.xsl
-
-# development:
+  project_desc: The William F. Cody Archive
+  solr_core: api_cody
+  es_type: cody_archive
+  vra_solr_xsl: collections/cody_archive/scripts/solr_transform_vra.xsl
+  tei_solr_xsl: collections/cody_archive/scripts/solr_transform_tei.xsl
+  variables_html:
+    image_thumb: 250
+    image_large: 800
+development:
+  data_base: https://cdrhmedia.unl.edu
 #
 # production:
