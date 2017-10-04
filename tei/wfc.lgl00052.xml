@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.lgl00052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">U.S. General Land Office Records, Issac Cody</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #150</idno>
+<idno type="project">wfc.lgl00052</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">U.S. General Land Office Records, Issac Cody</title>
+<pubPlace></pubPlace>
+<date when="1844"></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Record</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Deed</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Cody, Isaac, 1811-1857</term>
+<term>Tyler, John, 1790-1862</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Iowa</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="record">
+
+<pb facs="wfc.lgl00052"/>
+
+<p>THE UNITED STATES OF AMERICA,</p>
+
+<p>CERTIFICATE No. 1878</p>
+
+<p>To all to whom these Presents shall come, Greeting:</p>
+
+<p>WHEREAS <persName xml:id="cody.i">Isaac Cody</persName> of Scott County Iowa Territory has deposited in the GENERAL LAND OFFICE of the United States, a Certificate of the REGISTER OF THE LAND OFFICE at Du Buque whereby it appears that full payment has been made by the said Isaac Cody according to the provisions of the Act of Congress of the 24th of April, 1820, entitled “An Act making further provision for the sale of the Public Lands,” for</p>
+
+<p>the North East quarter of the South East quarter of Section twenty eight, in Township seventy-nine North, or Range five East, of the firth principal Meridian, in the District of Sands subject to sale at Du Buque, Iowa Territory, containing eighty forty Acres</p>
+
+<p>according to the official plat of the survey of the said Lands, returned to the General Land office by the SURVEYOR GENERAL, which said tract has been purchased by the said Isaac Cody.</p>
+
+<p>NOW KNOW YE, That the United States of America, in consideration of the Premises, and in conformity with the several acts of Congress, in such case made and provided, HAVE GIVEN AND GRANTED, and by these presents DO GIVE AND GRANT, unto the said Isaac Cody and his heirs, the said tract above described: TO HAVE AND TO HOLD the same, together with all the rights, privileges, immunities, and appurtenances of whatsoever nature, thereunto belonging, unto the said Isaac Cody and his heirs and assigns forever.</p>
+
+<p>IN TESTIMONY WHEREOF, John Tyler, PRESIDENT OF THE UNITED STATES OF AMERICA, have caused these Letters to be made PATENT, and the SEAL of the GENERAL LAND OFFICE to be hereunto affixed.</p>
+
+<p>GIVEN under my hand, at the CITY OF WASHINGTON, the First day of August in the Year of our Lord one thousand eight hundred and forty four and the INDEPENDENCE OF THE UNITED STATES the sixty ninth.</p>
+
+<p>BY THE PRESIDENT: John Tyler</p>
+<p>By John Tyler Jr. Sec’y.</p>
+<p>R. M Whitney, [deletion: J. Williamson] RECORDER of the General Land Office.</p>
+
+
+<p>Signed by Recorder, 15. Dec. 1844.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

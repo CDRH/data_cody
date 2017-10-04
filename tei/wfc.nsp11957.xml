@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11957">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Main Buffalo Herd of Kansas</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #55</idno>
+<idno type="project">wfc.nsp11957</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Main Buffalo Herd of Kansas</title>
+<title level="j">Freedom's Champion (Atchison City, Kan.)</title>
+<pubPlace></pubPlace>
+<date when="1863-07-11"></date>
+<biblScope type="pp">01</biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Buffalo</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Rocky Mountains</term>
+<term>Kansas</term>
+<term>Florida</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11957"/>
+
+<p>To dwellers in those portions of the West where the Buffalo disappeared more than a generation ago, the reports of the immense herds still giving life to the plains beyond, seem almost fabulous. Several Eastern Artists of note are now on an expedition to the Rocky mountains, and under the head of "Letters from Syndown," one of the party is contributing to the New York Post. He thus writes of the main Buffalo herd of </p>
+<p>Kansas:</p>
+<p>The sight I saw there no money could buy from my memory. I always thought the Buffalo stories which we hear at the East, and the pictures which we see, must be greatly exaggerated. In truth they are underdrawn. For two miles on the table land before me, and stretching sideways twice as far, the earth was overwhelmed with one deluge of stampeding buffaloes. It is literally accurate to assert that one could not see the ground between them. I could think of but a black sea, with humps for billows, and the thunder of a shaking prairie for the music of its surges.</p>
+<p>Out of every gully, from each side of me, poured in exhaustless streams the laggards of the herd. The Falstaff bulls, who carried years and abdomen; the yearlings, much like their contemporaries among our own cattle in look and size: the cows, now galloping, now coming with an ungainly trot, followed by their little new dropped calves-these rushed by, scarcely sheering as they saw me, mad to reach the main herd. I raised my field glass, and far beyond the stampede saw the broad plateaus towards White Rack Creek covered with quietly feeding bisons as thick as on the prairie right before me. Flies on the head of a leaking molasses barrel ants on a hill, ducks on a Florida lagoon, all familiar symbols of multitude, gave hopelessly out before the task of representing that herd of buffaloes. I should like to have been accompanied by a man at home in Gunther, that I might have gained some faint expression for the number of millions between me and the horizon.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11954">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Grand Duke Alexis</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #153</idno>
+<idno type="project">wfc.nsp11954</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Grand Duke Alexis</title>
+<title level="j">Harper's Weekly</title>
+<pubPlace></pubPlace>
+<date when="1000">1871-10-14</date>
+<biblScope type="vol">XV</biblScope>
+<biblScope type="issue">772</biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Fort Laramie (Wyo.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11954"/>
+
+<p>THE GRAND DUKE ALEXIS.</p>
+
+<p>The announcement that the Russian fleet, with the Grand Duke Alexis, sailed on the 26th of September from Falmouth for New York has created quite a lively stir in the fashionable circles of this country, and extensive preparations have been made to give him a reception suited to his rank, and expressive of the mutual good-will that prevails between the United States and Russia. The arrangements in this city are on a scale of splendor and magnificence never before witnessed here; and in every part of the country</p>
+
+<figure><p>THE GRAND DUKE ALEXIS, OF RUSSIA. [From a Photograph furnished by C. D. Fredricks &amp; Co., 587 Broadway, New York.]</p></figure>
+
+<p>through which the imperial party propose traveling similar preparations are in progress.</p>
+
+<p>Here the most imposing spectacle will be the reception of the Russian squadron in the Lower Bay, which will be participated in by the United States naval Squadron of Reception, the fleets of the combined yacht clubs in these waters, consisting of the New York, the Brooklyn, the Atlantic, and Bayonne clubs, and the steamers of the Committee of Reception. The combined yacht fleets will form in two divisions of escort on the starboard and port side of the Russian squadron as it steams up toward the city, convoyed by the United States men - of - war, the steamers of the Committee of Reception, and an immense fleet of excursion boats containing invited guests.</p>
+
+<p>Besides the naval display, there will probably be a review of the whole First Division of the National Guard and a parade of a division of the Steam Fire Department in honor of the distinguished guest. Immediately upon his arrival in this city he will proceed to Washington, where he will be presented to the President of the United States by the Russian minister. This point of etiquette fulfilled, and after having received the hospitalities of the government of the United States, the imperial party, consisting of the Grand Duke and a very large number of distinguished Russians, both young and old, will return to New York, and the brilliant programme arranged by the Committee of Reception will be carried out. An entire day will be devoted to an inspection of the fortifications in the harbor, and the navy-yard and public institutions will be included in the round of excursions which have been planned for the gratification of the imperial party. They will also visit West Point, where the cadets will be reviewed by the Grand Duke.</p>
+
+<p>The grand banquet and ball at the Academy of Music, it is expected, will be the crowning act of hospitality extended to the young sailor. No expense has been spared to make it the most gorgeous spectacle of the kind that has ever been held at the Academy.</p>
+
+<p>The entire southern wing of the Clarendon Hotel has been rented by the Russian minister as the residence of the Grand Duke and his party during their stay in this city. As this portion of the hotel, until recently an elegant private residence, can be made entirely separate from the rest of the building, the party will be as secluded as they could wish.</p>
+
+<p>Leaving New York after a sojourn of three or four days, the party will go West, visiting all the principal cities along the route between New York and San Francisco. It is proposed to organize a grand buffalo hunt on the Plains, near Fort Laramie, under the direction of Lieutenant-General Sheridan and the United States officers of cavalry stationed in the far West. It will be recollected that a similar entertainment was organized by General Magruder for the Prince of Wales, who was, however, unable to participate in the novel sport. The imperial visitor from Russia, it is confidently asserted, will accept the proffered invitation.</p>
+
+<p>An interesting incident of the Grand Duke's visit will be the presentation of the Farragut portrait, intended as a present to the Emperor of Russia. The plan is to make it a national and not a local testimonial, and the list of subscribers contains the names of prominent citizens from every section of the country.</p>
+
+<p>The Grand Duke is now in his twenty-second year, having been born in January, 1850. He is the third son of the Emperor, and is cultivated and intelligent. Like Prince Bismarck, he is said to be very proud of a decoration given him in recognition of his gallantry in saving a person from drowning, under circumstances of great personal danger. As the person thus rescued was a lady, he ought to be a favorite with the fair, whom only the brave deserve. That he is decidedly good-looking can be seen from his portrait on this page.</p>
+
+<p>At this season of the year the voyage across the Atlantic is apt to be long, owing to the prevalence of heavy westerly winds, and it is not likely that the Russian fleet will come in sight of Sandy Hook before the middle of October. Our people will give him a warm and friendly reception, and send him back, it is to be hoped, with new ideas of the strength and the beneficence of liberal republican institutions.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.lgl00068">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Isaac Cody to A. H. Miller</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.lgl00068</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Isaac Cody to A. H. Miller</title>
+<title level="j"></title>
+<pubPlace></pubPlace>
+<date when="1842">1842</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier><repository>Microfilm, Scott County Recorder, Deeds-Land-Record 1838-1885, State Historical Society of Iowa, Des Moines</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Records</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="record">
+
+<pb facs="wfc.lgl00068.001"/>
+
+<fw>396</fw>
+
+
+<ab>Isaac Cody To A. H. Miller in Trust - Filed for Record July 8th 1842 at 10 O'clock A. M.<lb/>
+<unclear/> D. Evans<lb/>
+Recorder</ab>
+
+
+<p>This Indenture made the 6th day of July in the year of our Lord One Thousand Eight hundred and Forty two Between Isaac Cody and Mary Cody his wife of the County of Scott and Territory of Iowa of the first part, Alexander H. Miller, of the same place party of the second part and Sophia Crofson of the same place party of the third part; Witnesseth That the said parties of the first part for and consideration of the sum of Five Hundred Dollars to them in hand paid by she Sophia Crofson the receipt whereof is hereby acknowledged and confessed have granted bargained and sold and by these presents do grant bargain and sell unto the said Alexander H. Miller party of the second part the following described Lot tract or parcel of Land situate in Said County of Scott and is known and designated as Lot No. (4) in Block No. Forty Four (44) in LeClaire's addition to the Town of Davenport as designated in the map a plat of said Town. To Have and To Hold <unclear/> the said Alexander H. Miller and his successors in case of his death or refusal to act as Trustee in
+
+<fw>397</fw>
+Trust for the uses and purposes following to wit for the sole use occupancy <unclear/> and benefit of said Sophia Crofson during her lifetime. The said Sophia to occupy the same if she chooses and if she shall otherwise wish the same to be let from year to year and the rents and profits are to be paid over by the said Trustee to said Sophia Crofson on her order and if she the said Sophia Crofson shall during her lifetime by writing desire the Trustee to sell the above described premises or any part thereof, he shall sell and convey the same by good and sufficient conveyance to such person or persons and for such price or prices as she by said writing may direct, and in case of the death or refusal of said Trustee to act a Court of Equity shall have power to appoint a successor and in case the said Sophia Crofson should die having made a will said Trustee shall convey the premises to such person or persons as she by said will may direct but should the said Sophia Crofson die without a will then the said Trustee shall convey the premises to the children of said Sophia Crofson by her marriage with William Crofson and the said Isaac Cody for himself his heirs executors and administrators doth warrant and will forever defend the title to the said above described and hereby granted premises unto the said Alexander H. Miller his successors and assigns from and against the claim or claims of all and every person or persons claiming or holding under them the said parties of the first part and also against the lawful title claim or demand of all and every person whomsoever claiming by from or under the Government of the United States or any one else &#8212; In Testimony whereof the said parties have hereunto set their hands &amp; seals the day &amp; year above written &#8212;</p>
+
+<ab><unclear/>
+Isaac Cody (seal)<lb/>
+Sterling Parkhurst<lb/>
+Mary Cody (seal)</ab>
+
+<ab>Territory of Iowa<lb/>
+Scott County</ab>
+
+<p>On the 7th day of July A. D. 1860 personally appeared before the undersigned one of the Justices of the peace in and for said County Isaac Cody and Mary Cody to me personally known to be the persons described in <unclear/> executed the foregoing conveyance and acknowledged the execution thereof &#8212; and the said Mary Cody having been by me made acquainted with the contents of said Deed and examined seperate and apart from her said husband acknowledged that she executed the same <unclear/> and without any compulsion or undue influence of her husband &#8212; Witness my hand</p>
+
+<ab>Sterling Parkhurst<lb/>
+Justice Peace</ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

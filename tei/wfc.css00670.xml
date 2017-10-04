@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.css00670">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from W. E. Webb to Samuel Crawford, October 19, 1867</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.wfc.css00670</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Letter from W. E. Webb to Samuel Crawford, October 19, 1867</title>
+<pubPlace></pubPlace>
+<date when="1867-10-19"></date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier><repository>Kansas Historical Society, Records of the Governor's Office, Correspondence Files, Administration of Governor Samuel Crawford, Subject File, County Affairs-Ellis County, 1867-1868, Box 3.1, Folder 18.</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="wfc.css00670.001"/>
+<div2>
+<fw type="letterhead">W.E. Webb, President.<lb/>
+G.W. Updike, Treasurer.<lb/>
+J.E. Knight, Secretary<lb/>
+
+Office Big Creek Land Co.</fw>
+
+
+<opener><dateline>Hays City, Kansas, Oct. 8th 1867</dateline>
+
+<salute>To his Excellency Gov Crawford<lb/>
+State of Kansas</salute></opener>
+
+<p>We would ask that you do us the favor of appointing proper persons to hold elections in this city for the purpose of organizing Ellis County. We have the required number of voters, and are prepared should you grant our request to immediately perfect the organization.</p>
+
+<p>Hays city, which you lately visited, is growing very rapidly. The R. R. has located a round House and machine shop here &amp; the town will soon be the largest apparently west of Junction City. I have applied to you in the matter on behalf of our people, being informed it was proper for me to do so immediately.</p>
+
+<p>Hoping to hear from you favorably at an early moment I remain</p>
+<closer><salute>Yours Respectfully</salute>
+<signed>W E Webb Presd't</signed></closer>
+
+</div2>
+
+<div2>
+
+<ab> 1 p.</ab>
+<ab>Webb, W. E.</ab>
+<ab> Hays City, Kan. Oct. 8, 1867.
+
+(Pres. Big Creek Land Co.)<lb/>
+See Andrews Hist - p. 1291</ab>
+
+<ab>With reference to the organizatiere of Ellis County.</ab>
+
+<ab>Ans.</ab>
+
+
+<ab> Kansas State Historical Society 4952 Archives Department</ab>
+
+<ab>Rec. Oct. 9, 1867.</ab>
+</div2>
+
+<div2>
+<opener><dateline>Hays City Kansas<lb/>
+October 19th 1868</dateline>
+
+<salute>His Excellency<lb/>
+Saml J. Crawford<lb/>
+
+Governor,</salute></opener>
+
+<p>In view of the fact that we have but three county officers now in our county we would most respectfully request your excellency to appoint the following citizens until we call an election</p>
+<ab>For County Commissioners Frank Veits</ab>
+<ab> "  "  "  Charles Morrell</ab>
+<ab>For Probate Judge Hill P. Wilson</ab>
+
+<p>We have no Justice of the Peace one having left the State the other has not been herd for several day We would therefore recommend M. E Joyce for Justice of the Peace</p>
+
+<ab>By complying with our request we <unclear /></ab>
+
+<ab>Caplice &amp; Ryan - Grocers<lb/>
+<unclear>U.G. Newman</unclear><lb/>
+<unclear/> Ward<lb/>
+J.L. Erwin<lb/>
+William <unclear>Rodger</unclear><lb/>
+M. <unclear>Seandan</unclear><lb/>
+Joseph Hill<lb/>
+Wm. Dalton<lb/>
+John Norton<lb/>
+P. Brady<lb/>
+James Reilly<lb/>
+</ab>
+
+<postscript><p>PS Mr Ryan being the only commissioner in town please send the appointments to him</p>
+
+<ab><address><addrLine>Address</addrLine>
+<addrLine>Dennis Ryan</addrLine>
+<addrLine>Hays City</addrLine>
+<addrLine>Kansas</addrLine></address></ab></postscript>
+</div2>
+
+<div2>
+<ab>2p.</ab>
+<ab>Ellis County,<lb/>
+Hays City<lb/>
+Oct. 19, 1868.
+</ab>
+<ab>Petition <add>11 men</add> for the appt of several county officers to fill vacancy.</ab>
+
+<ab>Naming Hill P. Wilson, Probate Judge M.E. Joyce, Justice of Peace
+Frank Veits Charles Morrell County Commissioners</ab>
+
+<ab>Kansas State Historical Society 555 Archives Department.</ab>
+
+<ab>Ans. Oct. 20, 1868</ab>
+
+</div2>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

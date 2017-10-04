@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.css00669">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from George W. Spencer to Samuel Crawford, October 19, 1867</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.css00669</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Spencer, George W.</author>
+<title level="m" type="main">Letter from George W. Spencer to Samuel Crawford, October 19, 1867</title>
+<pubPlace></pubPlace>
+<date when="1867-10-19">October 19, 1867</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier><repository>Kansas Historical Society, Records of the Governor's Office, Correspondence Files, Administration of Governor Samuel J. Crawford, Justices of the Peace, 1865-1867, Box 3.2, Folder 2</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Transcription and Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="wfc.css00669.001"/>
+<div2>
+<opener>
+<dateline>Rome Kan's, Aug 26th / 67</dateline>
+
+<salute>Hon. S. J. Crawford</salute></opener>
+
+<p>Sir Mr. Angel of Leavenworth will be the bearer of a petition from the citizens of this  <add>place to you</add>  for the appointment of Mr. Duncan a Justice of Peace. You will notice two names from the roll of your company on the petition, We privately ask you to give it a favorable consideration if you can consistently</p>
+
+<p>Geo. Campbell is here - was hit by a spent ball in the last Indian fight. Ramsy &amp; Lyon are on the present expedition. Capt Barker called in today
+</p>
+<p>Loss in the Indian fight three killed seventeen wounded</p>
+
+<pb facs="wfc.css00669.002"/>
+
+<p>Forty horses &amp; quite a number of arms</p>
+
+<p>We are making a start in the Grocery &amp; Provision line Please accept our kind regards</p>
+
+<p>Hoping that you will honor our petion</p>
+
+<closer><salute>I Remain
+Yours Truly</salute>
+<signed>Geo. W. Spencer</signed>
+
+<address>
+<addrLine>P.O. Address</addrLine>
+<addrLine>Ft Hays</addrLine>
+<addrLine>Kans</addrLine>
+<addrLine>In care Lull &amp; Brothers,</addrLine>
+</address>
+</closer>
+</div2>
+
+<pb facs="wfc.css00669.003"/>
+<div2>
+<ab>Ellis Co. 2 p.</ab>
+<ab>Spencer, Geo. W.,<lb/>
+Rome, Kansas.</ab>
+<ab>(Aug 26, 1867)</ab>
+<ab>Refers to Indian Fighting</ab>
+<ab>(Mail from Ft. Hays)</ab>
+<ab>Requests the appt of
+Mr. Duncan as a Justice of the Peace.</ab>
+<ab>Kansas State Historical Society 97-.56 495 Archives Department</ab>
+</div2>
+
+<pb facs="wfc.css00669.004"/>
+<div2>
+<opener><dateline>Rome Aug. 26th 1867</dateline>
+
+<salute>To his exelincy<lb/>
+Governor Crawford<lb/>
+Topeka Kansas<lb/>
+
+Sir</salute></opener>
+
+<p>We the many Sitizens of this place near Fort Hayes must respectfully request the appointment of Mr. J. G. Duncan A Justice of the Peace of this Town as it is very important and your many friends will duly prey</p>
+
+<closer>
+Names<lb/>
+<signed>Dr. J.K. Lull, Jr.<lb/>
+Wm. Rose<lb/>
+E. Polly<lb/>
+B.B. Miller Co. A 2nd<lb/>
+J. F. Walker<lb/>
+Wm. DeSeltor, <unclear>H. V. C</unclear><lb/>
+Ewd. Simson<lb/>
+J.B.C North<lb/>
+Mat Flynn<lb/>
+J.W. Uncapher<lb/>
+Jas. B. Adams<lb/>
+Geo. Garing<lb/>
+Asa E. Johnson<lb/>
+George Derrickson<lb/>
+Geo. W. Spencer formerly of Co. A 2nd H.V.C.<lb/>
+J. Humber<lb/>
+H. McHenry<lb/>
+Bartrell Ward<lb/>
+George Ward<lb/>
+
+<pb facs="wfc.css00669.005"/>
+
+W.F. Cody<lb/>
+W.E. Spinner<lb/>
+J. M. Gray</signed></closer>
+
+</div2>
+
+<div2>
+<opener>
+<salute>Gov. S. J. Crawford<lb/>
+
+Dear Sir</salute>
+</opener>
+<p>In an organization of a town at this point We see the great nessacity of having propper officers to conduct the affairs of Justice My past experiences in Salina &amp; Ellsworth teaches me that we cant be to hasty in having the above appointment made. This petition was to of been handed to you in person by Mr Angel of Leavenworth but his leaving from Ft. Hays to go <unclear/> instead of the town he could not take it. Hoping that the above will meet with your <unclear>contg.</unclear> favor</p>
+
+<closer><salute>I remain yours respectfully</salute>
+<signed>Dr. J.K. Lull Jr.</signed></closer>
+
+</div2>
+<pb facs="wfc.css00669.006"/>
+<div2>
+<ab>Ellis Co. 2 p.</ab>
+<ab>Duncan, J. G. Aug. 26, 1867</ab>
+<ab>Rome Russell Co. Kansas</ab>
+<ab>(Abandoned when Hays City was platted. Rome was located 1/2 m. west of Hays City. See Andrews p. 1291)</ab>
+<ab>Petition 22 men for his appointment as Justice of the Peace. (Including W. F. Cody).</ab>
+<ab>(Not granted, the county being unattached for judicial purposes.)</ab>
+<ab>(Appt - Spec. Co. Com. Oct-28, 1867)</ab>
+<ab>Kansas State Historical Society. 495. Archives Department.</ab>
+<ab>Rec. <unclear>and ans.</unclear> Sept. 6, 1867.</ab>
+</div2>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

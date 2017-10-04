@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.lgl00070">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Richard Hulet to Isaac Cody</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.lgl00070</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Richard Hulet to Isaac Cody</title>
+<title level="j"></title>
+<pubPlace></pubPlace>
+<date when="1844">1844</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier><repository>Microfilm, Scott County Recorder, Deeds-Land-Record 1838-1885, State Historical Society of Iowa, Des Moines</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Records</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="record">
+
+<pb facs="wfc.lgl00070.001"/>
+
+<fw>94</fw>
+
+
+<ab>R. Hulet to Isaac Cody</ab>
+
+<ab>Filed for Record June 15th 1844 at 10 O'clock A. M. <unclear/>, Recorder</ab>
+
+
+<p>This indenture made this fourteenth of September One Thousand Eight hundred and forty four between Richard Hulet of the first part in the County of <unclear/> in the Territory of Iowa and Isaac Cody of the same place of the other part Witnesseth That the said party of the first part for and in consideration of the sum of Sixty dollars to him in hand paid, receipt thereof is hereby acknowledged - have this day <unclear/> sold <unclear/> <unclear/> <unclear/> and conveyed and by these presents doth bargain, sell, alien, enfeoff, and convey unto the said party of the second part his heirs &amp; assigns forever All that certain price a <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> or being a portion of the southwest <unclear/> <unclear/> of southeast quarter of section No. Twenty Eight in Township No. Seventy Nine of Range No. 5 East of 5th P. M. containing Forty acres <unclear/> To Have and To Hold the above described premises with the tenements and appurtenances thereunto belonging or in any wise appertaining unto the said party of the second part his heirs and assigns forever and the said party of the first part for <unclear/>, his heirs executors and administrators <unclear/> warrant and will forever defend the title to the above described and hereby granted premises unto the said party of the second part his heirs and assigns from and against the claim or claims of all and every person or persons claiming or holding <unclear/> <unclear/> <unclear/> the said party of the first part and also against the lawful title claim or demand of all and every person or persons whomsoever claiming or holding by <unclear/> a <unclear/> the Government of the United States. In Testimony Whereof the said party of the first part have hereunto set his hand and seal the day and year above written.</p>
+
+<ab>Richard Hulet (seal)<lb/>
+Signed Sealed &amp; Delivered in presence of</ab>
+
+<ab>John Campbell<lb/>
+Territory of Iowa<lb/>
+<unclear/> County</ab>
+
+<p>A Justice of the Peace in &amp; for said County do certify that Richard Hulet whose signature appears to the foregoing deed and who is personally known to me to be described in and who executed the same did acknowledge that he had executed the said conveyance for the use and purposes therein mentioned.</p>
+
+<p>Given under my hand this 14th day of September One thousand eight hundred and forty four -</p>
+
+<p>John Campbell Justice of the Peace</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

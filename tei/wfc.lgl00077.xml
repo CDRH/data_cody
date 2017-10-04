@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.lgl00077">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Eleazer Parkhurst Deed to Isaac Cody</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.lgl00077</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Eleazer Parkhurst Deed to Isaac Cody</title>
+<title level="j"></title>
+<pubPlace></pubPlace>
+<date when="1852">1852</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+    <msIdentifier><repository>Microfilm, Scott County Recorder, Deeds-Land-Record 1838-1885, State Historical Society of Iowa, Des Moines</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Records</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="record">
+
+<pb facs="wfc.lgl00077.001"/>
+
+<ab>Eleazer Parkhurst Deed to Isaac Cody<lb/>
+Filed for record Jany. 16, 1853 at 1 O'clock P. M. H. Price Recorder</ab>
+
+<p>This indenture made the 20th day of March in the year of our Lord one thousand Eight hundred and fifty between Eleazer Parkhurst &amp; Esther Parkhurst his wife of the county of Scott &amp; the state of Iowa. Of the first part &amp; Isaac Cody of the county &amp; state of <unclear/> of the second part. Witnesseth, That the said party of the first part for &amp; in consideration of the sum of Forty four Dollars &amp; fifty cents to them in hand paid by the said party of <unclear/>. Second part the receipt whereof is hereby confessed &amp; acknowledged have given, granted, bargained, sold, <unclear/>, released, aliened, &amp; confirmed &amp; by these presents do give, grant, <unclear/>, sell, <unclear/>, release, alien &amp; confirm unto the said party of the second part to his heirs and assigns forever, all that tracts or parcels of land situate &amp; being in this county of Scott &amp; state of Iowa as follows "to wit" Commencing at the post in the Creek at the northwest corner &amp; to South East corner of Section 18. twenty Seven (27) &amp; thence south seventeen chains (17) and eighty-one (81) links, thence East twenty (20) chains thence north (17) chains &amp; eighty-one (81) links, thence west twenty (20) chains to the place of Beginning containing thirty four (34) acres &amp; sixty two hundredths of an acre in township Seventy nine (79) Range five (5) east of <unclear/> principal meridian (It is hereby further understood by the parties that inasmuch a certain deed given by the said Parkhurst &amp; to said Cody bearing date about the 23rd day of March 1841 per the above described tracts of land has been lost this present deed <unclear/> to supply the land loss.) Together with all and singular the hereditaments belonging or in any wise appertaining &amp; the <unclear/> <unclear/> remainder issues profits thereof &amp; all the Estate, right, title, interests claim or demand whatsoever of <unclear/> said parties of the first part. Either in law or integrity, in possession or expression &amp; to the above bargained premises &amp; their hereditaments &amp; appertenances. To have &amp; hold said premises above described with the appertenances unto the said party of the <unclear/> to his heirs &amp; assigns forever.</p>
+
+<p>And the said Eleazer Parkhurst &amp; Esther his wife for their heirs, executors, and assigns do covenant, grant, bargain, &amp; agree to <unclear/> the said party of the second part <unclear/> assigns that at the time of the consenting amp; delivering of these presents they <unclear/> and <unclear/> seized of the premises above conveyed of as a good sine perfect <unclear/> indefeasible estate of inheritance in fee simple and that the above premises in the quiet peaceable possession of the said party of the second part heirs and assigns against the lawful claim of all &amp; every person <unclear/> or to claims the whole or any part thereof will forever Warrant &amp; Defend</p>
+
+<p>In Testimony whereof the said parties of the first part have hereunto set their hands &amp; seals the day and year first above written.</p>
+
+<ab>Sealed &amp; delivered in presence of Eleazer Parkhurst<lb/>
+Dennis Barnes<lb/>
+Esther B. Parkhurst
+</ab>
+
+
+<ab>State of Iowa
+Scott County SS. Be it remembered that on the 11th day of <unclear/><lb/>
+before <unclear/></ab>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

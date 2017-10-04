@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.css00658">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Hercules Price to Ferdinand Erhardt, December 29, 1907</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #137</idno>
+<idno type="project">wfc.css00658</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Hercules Price to Ferdinand Erhardt, December 29, 1907</title>
+<pubPlace></pubPlace>
+<date when="1907-12-29"></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Letter</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Battle of Summit Springs</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carr, E. A. (Eugene Asa), 1830-1910</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Napa County (Calif.)</term>
+<term>Lincoln (Kan.)</term>
+<term>Sedgwick County (Kan.)</term>
+<term>Fort Sedgwick (Colo.)</term>
+<term>Fort McPherson (Neb.)</term>
+<term>Washington (D.C.)</term>
+<term>Omaha (Neb.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="wfc.css00658"/>
+
+<p>42770.</p>
+
+<p>Veteran's Home,</p>
+<p>Napa Co., California. Dec. 29, 1907.</p>
+
+<p>Mr. Ferdinand Erhardt,</p>
+<p>Lincoln, Kansas. (c/o Mr. A. Roenigk).</p>
+
+<p>Dear Comrade:,</p>
+
+<p>Your letter of 23rd instant, and Map of Nebraska received I have carefully looked over the map, but could find no trace of the springs where the Battle with the Indians took place, it was south of Julesburg and south of Fort Sedgwick, and I think that it must be in Sedgwick County or near thereto. I have marked in pencil where I think the place is likely to be found. I have also looked over the Atlas of states in our Library here, and found some little topography, which does not exist in the map you sent. Probably a map marked in Land sections, or as it is called on the back cover of the map you sent, may give some indication where the place is situate. It is marked "Nebraska Sectional 58+33" without index. cost of $1.50.</p>
+
+<p>In the Home library Atlas, I found marked 3 Buttes by themselves and one Butte in another direction. The place where our scouts met to inform General Eugene A. Carr, who commanded the expedition (consisting of the whole of the 5th US. [sic] Cavalry &amp; Band, and the Pawnee scouts &amp; was at a Butte or palisade, or rock with a perpendicular face and formed part of the high lands [sic] or summit and close to it was a defile of rocks and earth low on our left and near the valley of the south Platte. I think it took us 12 miles or more in this partly covered defile to reach the head of the Bluff overlooking the encampment of Indians, and on the right was the rising land, and a narrow passage to the right was found which the Pawnees took and cut off the retreat of the Indians. also the main body of our Cavalry charged the centre, while 4 Companies came up on the right from the valley and cut off the retreat from that direction.</p>
+
+<p>After the war dance by the Pawnees was ended and prisoners secured and the burning of the lodges with about 9000 lbs of jerked meat we marched to Fort Sedgwick, opposite Julesburg and after that went to our post Fort McPherson, Neb. &#8212; A first sergt. of one of the Companies is orderly here at Headquarters of the Commandant, but he says he has forgotten much that might be of service to you. He recommends you to write to General Eugene A. Carr, care Adjutant General, US.A [sic], Washington, D. C. or Major Worth who was commanding Pawnee scouts, perhaps a letter adrressed to the Pawnee Agency near Omaha would find him, or the Indian Agent, would give you a full account. Some years ago I read in a Union Pacific publication of a Guide of travel along the line and giving the incidents of the Battle. General Carr informed the [unclear] Dept. above mentioned that the name of the place was "Sand Springs", where the battle took place.</p>
+
+<p>If you should get the desired information, I should feel greatly obliged to hear the particulars and your success. Wishing you the compliments of the season &amp; a Happy New Year. I am very truly your's [sic],</p>
+
+<p>Hercules H. Price</p>
+
+<p>I return in another cover the Map -</p>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

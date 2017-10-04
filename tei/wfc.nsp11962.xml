@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11962">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Hunting</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #50</idno>
+<idno type="project">wfc.nsp11962</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Hunting</title>
+<title level="j">The Herald of Freedom</title>
+<pubPlace></pubPlace>
+<date when="1867-10-10"></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Ranching</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11962"/>
+
+<p>These noble animals of the ox species, and which have been so well described in our books on natural history, are a subject of curious interest and great importance in this vast wilderness; rendered peculiarly so at this time, like the history of the poor savage; and from the same consideration, that they are rapidly wasting away at the approach of civilized man, and, like him and his character, in a very few years to live only in books or on canvas.</p>
+<p>The word buffalo is undoubtedly most incorrectly applied to these animals, and we can scarcely tell why they have been so called; for they bear just about as much resemblance to the eastern buffalo, as they do to a zebra or to a common ox. How nearly they may approach to the bison of Europe, which we never have had an opportunity to see, and which we are inclined to think is now nearly extinct, we are unable to say; yet, if we were to judge from the numerous engravings we have seen of those animals, and descriptions we have read of them, we should be inclined to think that there was yet a wide difference between the bison of the American prairies and those in the north of Europe and Asia. The American bison, or (as we shall hereafter call it) buffalo, is the largest of all the ruminating animals that are now living in America, and seems to have been spread over the plains of this vast country by the Great Spirit for the use and subsistence of the red men, who live almost exclusively on their flesh, and clothe themselves with their skins. Their color is a dark brown, but changing very much as the season varies from warm to cold; their hair, or fur, from its great length in the winter and spring, and exposure to the weather, turning quite light, and almost to a jet black when the winter coat is shed off and a new growth is shooting out.</p>
+<p>The buffalo bull often grows to the enormous weight of 2,000 pounds, and shakes a long and shaggy black mane, which falls in great profusion and confusion off his head and shoulders,and often-times falling down quite to the ground. The horns are short, but very large, and have but one turn, i. e., they are a simple arch, without the least approach to a spiral form, like those of the common ox, or of the goat species.</p>
+<p>The female is much smaller than the male, and always distinguishable by the peculiar shape of the horns, which are made smaller and more crooked, turning their points more in towards the center of the forehead.</p>
+<p>One of the most remarkable characteristics of the buffalo is the peculiar formation and expression of the eye, the ball of which is very large and white, and the iris jet black. The lids of the eye seem always to be strained quite open, and the ball rolling forward and down, so that a considerable part of the iris is hidden below the lower lid, while the pure white of the eyeball glares out over it in an arch, in the shape of a moon at the end of its first quarter.</p>
+<p>The almost countless herds of these animals that are sometimes met with on these prairies have been often spoken of by other writers, and may yet be seen by any traveler who will take the pains to visit these regions. The "running season," which is in August and September, in the time when they congregate into such masses in some places as literally to blacken the prairies for miles together.</p>
+<p>The chief hunting amusement of the Indians in these parts consists in the chase of the buffalo, which is almost invariably done on horseback, with bow and lance. In this exercise, which is highly prized by them as one of their most valued amusements, as well as for being the principal mode for procuring meat for their subsistence, they become exceedingly expert, and are able to slay these huge animals with apparent ease.</p>
+<p>The Indians in these parts are all mounted on small but serviceable horses, which are caught by them in the prairies, when they are often found running wild in numerous bands. The Indian, mounted on his little wild horse, which has been through some years of training, dashes off at full speed among the herds of buffaloes, elks, or even antelopes, and deals his deadly arrows to their hearts from his horse's back. The horse is the fleetest animal of the prairie and easily brings his rider alongside of his game, which falls a certain prey to his deadly shafts at the distance of a few paces.</p>
+<p>In the chase of the buffalo, or other animal, the Indian generally "trips" himself and his horse by throwing off his shield and quiver, and every part of his dress which might be an incumbrance to him in running; grasping his bow in his left hand, with five or six arrows drawn from his quiver, and ready for instant use. In his right hand (or attached to the wrist) is a heavy whip, which he uses without mercy, and forces his horse alongside of his game at the swiftest speed.</p>
+<p>These horses are so trained that the Indian has little use for the rein, which hangs on the neck, whilst the horse approaches the animal on the right side, giving his rider the chance to throw his arrow to the left, which he does at the instant when the horse is passing, bringing him opposite to the heart, which receives the deadly weapon "to the feather." When pursuing a large herd, the Indian generally rides close in the rear until he selects the animal he wishes to kill, which he separates from the throng as soon as he can, by dashing his horse between it and the herd and forcing it off by itself, where he can approach it without the danger of being trampled to death, to which he is often liable by too closely escorting the multitude.</p>
+<p>No bridle whatever is used in this country by the Indians, as they have no knowledge of a bit. A short halter, however, which answers in the place of a bridle, is in general use; of which they usually form a noose around the under jaw of the horse, by which they get great power over the animal, and which they use generally to stop rather than guide the horse. This has great power in arresting the speed of a horse, though it is extremely dangerous to use too freely as a guide, interfering too much with the freedom of his limbs for the certainty of his feet and security of his rider.</p>
+<p>When the Indian, then, has directed the course of his steed to the animal which he has selected, the training of the horse is such that it knows the object of its rider's selection, and exerts every muscle to give it close company, while the halter lies loose and untouched upon its, and the rider leans quite forward and off from the side of his horse, with his bow drawn, and ready for the deadly sport, which is given the instant he is opposite to the animal's body.</p>
+<p>The horse, being instinctively afraid of the animal, (though he generally brings his rider within the reach of the end of his bow,) keeps his eye strained upon the furious enemy he is so closely encountering; and the moment he has approached to the nearest distance required, and has passed the animal, whether the shot is given or not, he gradually sheers off to prevent coming on to the horns of the infuriated beast, which often are instantly turned and presented for the fatal reception of its too familiar attendant. Those frightful collisions often take place, notwithstanding the sagacity of the horse, and the caution of its rider for in these extraordinary,and inexpressible, exhilerations of chase which seem to drown the prudence alike of instinct and reasoning, both horse and rider often seem rushing on to destruction, as if it were a mere pastime and amusement.</p>
+<p>In our plate we have presented a party of Indians in chase of a herd, some of whom are pursuing with bows and arrows. The group in the foreground shows the attitude at the instant after the arrow has been thrown and driven to the heart; the Indian at full speed, and the lasso dragging behind his horse's heels. The lasso is a long thong of raw hide, of ten or fifteen yards in length made of several braids or twists, and used chiefly to catch the wild horse, which is done by throwing over their necks a noose which is made at the end of the lasso, with which they are "chocked down." In running the buffaloes, or in time of war, the lasso drags on the ground at the horse's feet, and sometimes several rods behind, so that if a man is dismounted, which is often the base, by the tripping or stumbling of the horse, he has the power of grasping to the lasso, and, by stubbornly holding on to it, of stopping and securing is horse, on whose back his is instantly replaced and continuing on it the chase.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

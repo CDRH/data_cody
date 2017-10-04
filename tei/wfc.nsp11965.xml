@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11965">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [A telegram from Fort Hays]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #47</idno>
+<idno type="project">wfc.nsp11965</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [A telegram from Fort Hays]</title>
+<title level="j">Daily Register (Central City, Neb.)</title>
+<pubPlace></pubPlace>
+<date when="1867-11-07"></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Native Americans</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carr, E. A. (Eugene Asa), 1830-1910</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Fort Hays (Kan.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11965"/>
+
+<p>A telegram from Fort Hays, dated the twenty-eighth, which says that General Eugene A. Carr, Commanding a detachment of the Fifth Cavalry, struck an Indian lodge pole-trail on Sunday, the twenty-fifth instant, and followed ten miles, when, coming upon the rear guard, the Indians disputed his advance. Lieuts. Schonetski and Forbush, with Company M, and Captain Kane, with Company H, Fifth Cavalry and Forsyth's scouts, commanded by Lieutenant Peppon, charged the Indians handsomely, and pushed them for several miles; killing ten of their number, and killing and capturing several horses and ponies. The next day they resumed their pursuit for forty-two miles. The Indians, being closely pursued, opposed their advance with about 300 warriors, burning the prairie to windward, but the Fifth Cavalry followed the trail steadily. The Indians have abandoned their lodges and buffalo robes, many of them fresh, and in large quantity, and upwards of seventy ponies were killed and wounded. Evidences of great demonalization were visible in the retreat of this large body of Indians, ponies and stock having been found scattered over a large extent of country by the scouts who brought the dispatch of Gen. Carr. They had over 3,000 head of stock with them, and their trail was about three miles wide. Gen. Carr is still in hot pursuit, and it is hoped will succeed in capturing the entire village and the immense herd they have with them.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

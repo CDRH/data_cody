@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.lfw00006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Early Days of North Platte</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.wfc.lfw00006</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Early Days of North Platte</title>
+<pubPlace>Peale, Franklin</pubPlace>
+<date when="1909-08-17">August 17, 1909</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier><repository>RG3630AM</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Life Writing</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="manuscript">
+
+<pb facs="wfc.lfw00006.001"/>
+<fw>Copy (1)</fw>
+<head>Early Days of North Platte</head>
+<byline>By Franklin Peale</byline>
+
+<p>At the close of the civil war, ex-soldiers of both sides of the late great national struggle, who were full of strength and endurance, and at most times in the past, three or four years of their lives, had slept on mother earth and snow banks. By contrast with our far west comrades had their rivited on the far west. The men of the north, and east, and a fair sprinkling from the south, Fearlessly headed for the great Missouri river to the land which now comprises the great states of Kansas, North and South Dakota, Nebraska, and some going as far as the Rocky Mountains, which now are the great states of Colorado and Wyoming.</p>
+
+<p>At the close of war immigration commenced again from Europe and a good class of citizens, mostly from Great Britain, Germany, and the Norsemen of Sweden and Denmark also took their way – “Westward Ho” – with the advice of Horace Greely and the glowing epistles of the indefatigable George Francis Train.</p>
+
+<p>The construction of the great U.P.R.R. up the Platte valley through Nebraska opened up the country and the nucleus of what are now cities sprung up here and there – and now we arrive at North Platte.</p>
+
+<p>The shops being completed, we find a few families. A few we remember. There were the families of Albert Marsh, Babbit, Frazier, Struthers, Patterson, M.C. Keith, Wash Hinman, Lou Baker, Lamplaugh, Dougherty, Peniston, Miller and Van Doran. We also call to mind a few more names from a hurry up memory – to wit, D.W. Baker, A.P. Carlson, Judge Ray, F.E. Bullard, Dr. F.N. Dick, and R.J. Wyman. These were all comers to the city from the beginning of 1867 to July 1868.</p>
+
+<p>On Front Street from Walnut to Ash Street was mostly occupied by saloons and low one storied shanties. The Barracks was occupied, at times, with infantry, but mostly with cavalry under Egan, Major Brown and others. Syl Friend, Major Walker, Charles McDonald, Morin, and W.F. Cody were at Fort McPherson – Cody as Scout, North as interpreter. Mr. Moran was the father of Mrs. Syl Friend and Mrs. Joseph Fillion. David Day, Jo and Andy Picard and F. Peale built one storied houses at the corner of 6th and Chestnut Streets.</p>
+
+<p>Then the Shops and Car department were full of mechanics and helpers. Albert Marsh was Foreman of the blacksmith shop, James Vauclain of the machine shop and Mr. Granger of the tin and copper shop. James Bolton had his place in the S.W. end of the round house. He was the soundest sleeper I ever knew. Up a steep stairway was a bungalow occupied by David Day, Frank Reardon and the two Cummings brothers, all of whom had their bunks and slept there.</p>
+
+<p>James Belton with copper-boiler-jacket and tin emporium occupied the N.W. nook of this busy end division and had with his helper their bunks, where they slept. Between the oil and copper shops was Franklin Peale’s art gallery, which was also a closed in affair, containing a full supply of paints, oils, varnishes, gold leaf and bronzes; in fact, everything kept in a first class wholesale house of the kind. Then our general master mechanic could not embellish the engines enough, and tanks and trucks were scrolled, striped and shined up “to beat the band”. The balance of the busy division was ornamented with bunks by Claus Mylander, Pat O’Hare, Franklin Peale, Rubin Peale, Edmund Peale, and a few others.</p>
+
+<p>The pit was covered with plank and the final finish up of the tasks was done here. James Frazer and his man, Alec Adams, had charge of the ash-pan department in the N.E. end of the round house, where new ones were made and repairs to others done. The carpenter’s
+
+<pb facs="wfc.lfw00006.002"/>
+<fw>Early Days of North Platte Copy (2)</fw>
+
+shop was on the S.W. side of the Machine shop. The carpenters were the Leighton brothers, Joseph and Andrew Picard. At nights they made their beds on their work benches, as also did other employees of the back Shop. Bill Harris and John Worthly were gang bosses and their stentorian voices were often in evidence as they shouted “Pinch her ahead – throw her ahead a little more – two foot more – whoap”.</p>
+
+<p>The “gallery of the gods” was up stairs at the west end of the shop over the headquarters of uncle Jimmie Vauclain. The following had their bunks up there – John P. Marston, master mechanic, Charles Wood, timekeeper. James Reynolds, Day, Costler, round house Boss and two or three others.</p>
+
+<p>As quick as possible small houses went up, while others put up what in the future would be their kitchens. Many of the men got their families out and put up additions to their homes. This helped to disgorge the bunk brigade. At that time the shops were run from 7 AM to 10 PM and occasionally to 12 and 2 AM the next morning.</p>
+
+<p>When the different bands of the great Dakota Nation, commonly called the Sioux, came to North Platte to have what is known as “Harney’s Treaty” – they began coming in July. It was a sight never to be forgotten to the various bands as they passed the west end of the round house in their original clothing made of the tanned hides of deer, elk, antelope and buffalo. They who had ponies, had poles attached to them. These poles were crossed by others, upon which was all their belongings. The bundles these pole wagons could not carry were packed on the backs of ponies and squaws. Almost all the squaws packed heavy bundles on one old wrinkled faced squaw, I judged to be about 85 or 90 years of age, was in a kneeling position – her back against a pile of cinders, with a large heavy pack or bundle on top of which she was trying to adjust to her back. Two younger women also with packs on their backs, assisted her to her feet and all went their way and took a N.W. course to the ford and crossed to the north side of the North Platte river where they went into camp.</p>
+
+<p>The head men and interpreters, squaw-men (individuals adopted by the tribe after their families had been killed) and half breeds, with their families, stopped and located on the North Side, or what is now the Third Ward. Tom Reynolds, who had married Bright Eyes, Spotted Tail’s daughter, with all their families, were the first citizens of the ward.</p>
+
+<p>The treaty, which was soon to take place, brought most all their Chiefs together. A few of the names I remember are Spotted Tail, Man Afraid of His Horse, Standing Elk, Whistler, Sitting Bull, with his entire band and Red Cloud, with part of his tribe. The Bruels and a few of the disaffected of the Oggallalas, or the Oggalla tribe went off. They were responsible, under Sitting Bull, for the Massacre at Fort Fetterman a few years afterwards, of the course of preparation or formulating.</p>
+
+<p>The busy hove on the S.W. end of that 10 stall Round House, was kept in sight and visited by groups of Sioux, who greatly harassed the sheet iron department for scraps to be made into arrow points. The art gallery was equally pestered with calls for “verss, marcota-sappa, mussezo and yelley” – which stood for vermillion. Red, green, blue and yellow.</p>
+
+<p>The great outfitting store of Pennitson &amp; Miller did a great business with those nomads. Their store rooms being packed with robes, skins and pelts. It should be said here that in those days, hides were a “drug on the market” in North Platte. The only two stores, Pennitson &amp; Miller and Otto Uhlings, east Front Street. The shop men had all they needed and the speculaters of the Bee Hive colony of the Round House had exhausted their exchequer, the company being behind with their employees – some three to six months. Those Yankees at the hub depended mainly on Uncle Sam for the financial lubrication of the rush to and over the Rockies. If men wanted money, they had to go to the office and draw their time – quit – go to the Master Mechanic’s office and have I.H. Congdon endorse the pay check to the treasurer – but with this got admonished. Pop Congdon would say
+
+<pb facs="wfc.lfw00006.003"/>
+<fw>Early Days of North Platte Copy (3)</fw>
+
+“Boys, try to hurry up your business and get back soon as possible, your pass to the Platte will be ready – boys, try it on and see how it will work.”</p>
+
+<p>Those tanned buffalo robes – for no plasterer had yet – it was well. The first families of North Platte had had these robes and hides, and with a hot cook stove going night day while these blizzards lasted – the cold was intense and the breath from chins and noses to the hair of robes.</p>
+
+<p>At these times the great seat of learning was a the S.E. corner of 5th and Spruce, now Dewey Street, in a small one storied log structure, in which the fine blizzardly snow which came in through the chinks was made into balls by the little boys – as always enough snow would get on their desks for that purpose. A few names come to mind of some of the early day students. There was Charley and Arthur Wyman, Fred Baker and three sisters, Willie and Charlie Woodhurst, Earnest Rowl, Willie Park and sister, Robert, David and Willie Clinton, Cocoran Patterson, Clara Hoyt, Mollie Keith, Ella, Frank, Walter and Annie Peale, Lucy and Effie Doughtry, and others.</p>
+
+<p>The various bands of tribes that were represented at the “Harney’s Treaty” with the Dakota Nation at North Platte, August or September 1868, were Oggallas, the Minnecongas, Arapahoes, Whistler’s band, Cheyennes, and others. The whites from the east were Generals Sherman and Sheridan – Harney and Emmory, Peace Commissioners. (Owing to the want of certain data, which we want correct, we will let the treaty rest and be better equipped for it later on.)</p>
+
+<p>About this time the Society of Friends, better known as Quakers, sent to North Platte from Philadelphia, boxes filled with all manner of men’s and women’s clothing. Much of the men’s clothing was all new and all had been bought in large wholesale lots. The bucks had no use for coats or vests but the pants or trousers they transformed into the most approved Indian style, which consisted in cutting the legs off at the knees and ripping the seam in back from the waist band to bottom of flies. Employees could buy of them a coat and vest for five cents worth of sugar, which they had a great weakness for.</p>
+
+<p>Trading was very difficult then as most of our money was paper bills and if you wanted to buy a good buffalo robe and if you offered them five cents worth of sugar or a ten or twenty dollar bill for the robe – they would push away the paper money and take the sugar every time – but if you had a U.S. or a Mexican silver dollar, you could buy the finest robe they had.</p>
+
+<p>The Plains Indians are the finest Physical specimens of men and women in the world. A visit to the Brule reservation or to the Ogalalas at Pine Ridge agency will verify this statement. Indians have good memories. In September 1882, my sons Frank, Walter and myself took the contract to paint the first large Indian boarding school at Pine Ridge, Mr. McGillicuddy was agent. Any of them knew me and told me where I came from.</p>
+
+<p>A story is told of a band who were moved after the Tipacanoe affair from Indians to the then far west &#8212; Mississippi and eastern Iowa was then the Great American Desert &#8212; a settler had sold out all except five kegs of powder &#8212; He went to one of the Chiefs and confidentially told him how the white man grew his powder and if the Indian would swap him five ponies and a number of robes and skins for the five kegs of powder he would tell him the secret. The chief swapped and the settler went east to live upon his ill gotten gains. The Indian, upon his arrival at his new hunting grounds soon had a patch in a secret place and drilled holes and soon had his powder planted. He laid back in patience waiting for it to grow. He some four months &#8212; then went to the Wockominy and was told he had been deceived &#8212; and was told the way it was made. The Chief gave the usual grunt, and went to his lodge. Years passed on and another movement of the band was made to what is now Nebraska and Kansas.</p>
+
+<closer><signed>Franklin Peale</signed>
+<dateline>North Platte, Nebraska<lb/>
+August 17th, 1909</dateline></closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

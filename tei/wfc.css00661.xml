@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.css00661">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Hercules H. Price to Ferdinand Erhardt, June 26, 1910</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #134</idno>
+<idno type="project">wfc.css00661</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Hercules H. Price to Ferdinand Erhardt, June 26, 1910</title>
+<pubPlace></pubPlace>
+<date when="1910-06-26"></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Letter</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>The Battle of Summit Springs</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carr, E. A. (Eugene Asa), 1830-1910</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Denver (Colo.)</term>
+<term>Summit Springs (Colo.)</term>
+<term>Platte River (Neb.)</term>
+<term>Cheyenne (Wyo.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="wfc.css00661"/>
+
+<p>Veterans' Home,</p>
+<p>Napa County, California, June 26, 1910.</p>
+
+<p>Mr. Ferdinand Erhardt,</p>
+<p>Lincoln, Lincoln Co. Kansas.</p>
+
+<p>Dear Sir:</p>
+
+<p>I lately wrote to General Eugene A. Carr, retired army officer U.S. Army, for information as to whether he had a spare map of the battle-field of Summit Springs in North-east Colorado, and in reply to my letter he writes me quite a lengthy letter dated June 21st stating that "no map was made of the battle-field, and that the US Topographical map used by him on the occasion of that battle - the place of the Springs was not located on the map. but he has given a general description of the trailing up of the hostile Indians and located the place - He says we were camped on the South fork of the Republican, inside of Fremont's Peak. The Indians had got out of the Valley of the Republican into Frenchman's Fork which points to the West, nearly to the South fork of the Platte."</p>
+
+<p>"We got over there with the whole command and took up the trail again. I crossed the ridge, south east of the south fork of the Platte into the Platte valley hiding as much as I could while crossing the ridge and then turned up the valley. The Indian village was below the ridge - The springs is back in the hills from the valley of the Platte 6 or 7 miles from the river - it is about South of American Ranch, a stage station in the valley of the Platte on the road to Denver - It was less than 2 days journey West of Sedgwick Barracks on South side of Platte, opposite Julesburg -</p>
+
+<p>The Railroad only came up to Julesburg then, and then headed West, for Cheyenne - Summit Springs may be now located on some of the Railroad maps of the country if you could find one -</p>
+
+<p>"Give my kind regards to Mr. Erhardt -</p>
+
+<p>"I would like to hear something of Mrs Michell - she married an Infantry soldier, a Hospital attendant at Fort Sedgwick-"</p>
+
+<p>I recently had a visit from Mr. Roenigk - he is in poor health and has gone into the state of Oregon - he informed me that he was going to live with his sister, there - He had a friend who resided in Eugene, Oregon - but I have not heard from him since he left here - and do not know of his present address - I recently received a postal card from Mr. John C. Baird of Vesper, Kansas, addressed to Mr. Roenigk, in my care, which I have at the present time awaiting news where to forward same from Mr. Roenigk.</p>
+
+<p>With kindest regards, very sincerely yours,</p>
+<p>Hercules H. Price</p>
+
+<p>I am endeavoring to make a map of the battle-filed and its vicinity, from memory, for Mr. Roenigk, who will place the same in the archives of the Historical Society of Kansas. As a memento of that Battle, of which I was a participant -</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

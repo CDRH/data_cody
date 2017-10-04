@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.css00668">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Alonzo Ballard to Charles M. Murdock, September 24, 1867</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.css00668</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Ballard, Alonzo</author>
+<title level="m" type="main">Letter from Alonzo Ballard to Charles M. Murdock, September 24, 1867</title>
+<pubPlace></pubPlace>
+<date when="1867-09-24"></date>
+</bibl>
+<msDesc>
+<msIdentifier><repository>Kansas Historical Society, Miscellaneous Ballard Collection</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Correspondence</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="wfc.css00668.001"/>
+<opener><dateline>Fort Hays Kans<lb/>
+
+Miss or Mr C. M. Murdock<lb/>
+Washington Kansas</dateline>
+
+Dear Friend</opener>
+
+<p>Squire told me to write him a letter and so I started but backed out on beginning the tittle so he said put it through to Charley. He says he has had a long spell of sickness and has been compelled to remain at a hospital but is ready for the War Path now. We start tomorrow for Fort Larned but dont know whether we will find Indians or not Charley horse was killed in an Indian fight last month so Squire is dismounted but if we run outa Indians we
+
+<pb facs="wfc.css00668.002"/>
+try to Capture him an Indian pony. There is nothing of any importance going on and but little to write about. We are camped in a large Prairie Dog town and some of the tents stand over the Dog holes but we havent seen a rattlesnake in camping though I believe I killed a Santipede yesterday. the boys sit here in the tent playing seven up but none of them gambel except some of them bet on Horse Races. The boys are heavy on trading horses one of the boys that I enlisted has traded sixteen times another nine and Nat David has traded four or five time. I still ride little Charley
+
+<pb facs="wfc.css00668.003"/>
+he has been on every trip and is in about as good fix as any in the Battallion now. had a bulley time at Manhattan and by the way the Governor told me while I was down that he expected to raise two thousand troops as soon as the Peac Commissioners made their report and If I want it - I can have a commission he dident say what rank but I don't know as I want to soldier longer than the four months out. now you must tell us how everything is running and if there is any show in that portion of the Country for a steady fellow of moral habits and no funds. to marry into a wealthy family where the Bride would 
+
+<pb facs="wfc.css00668.004"/>
+would be the only heirs to the whole estate and there a prospect of the old folk dieing soon or in other words if there are any young ladies in that part that would marry under any circumstances. Squire and the other boys send their devotions done up in a rag to their several Bats and I poor cuss hain't any Bat or Devotions either to send to her. but. wish to. distribut my compliments to any who may enquire after me. The Misses in particular and We are Yours Ever</p>
+
+<closer><signed>Alonzo Ballard for<lb/>
+S.S. Lavening &amp; the rest of the boys </signed></closer>
+
+<postscript><p>P.S. Lee Cowell is the toughest cuss in the Washington County squad except - he dont sware as much as some of the boys</p></postscript>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

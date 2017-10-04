@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.lfw00004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Pioneer Stories</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.lfw00004</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Gorden, D. R.</author>
+<title level="m" type="main">Pioneer Stories</title>
+<pubPlace></pubPlace>
+<date></date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier><repository>University of Kansas Libraries, RH MS P45</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Life Writing</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="manuscript">
+
+<pb facs="wfc.lfw00004.001"/>
+<head>PIONEER STORIES</head>
+<byline>by<lb/>
+D. R. Gorden</byline>
+
+<p>At the close of the Civil War I decided to come west and arrived at Wyandotte, Kansas in 1866. I found many other young men there, and work was rather hard to find. The Kansas Pacific Railroad was being built, and I got a job with the contractors.</p>
+
+<p>I was in Wyandotte County until 1867, when I was sent to Rock Springs to operate the telegraph station. I arrived there in the middle of the afternoon, and the only place for shelter and work was an old box car sitting on a temporary side track - - no place for either drinking or eating, and no provisions for sleeping.</p>
+
+<p>When the train pulled out and left me, I confess to feeling rather lonely. Night came on, and as I had a newspaper in my pocket I spread it down on the floor of the car, not with the expectation of sleeping, but I thought I could rest better on the floor than sitting in a chair.</p>
+
+<p>Along about what I thought to be about 3 A.M. I heard the most unearthly sounds I’d ever heard in my life, and on raising up and peering through a crack in the end of the car I saw about 400 Indians crossing the track about 150 yards from where I was. This band of Indians was on the warpath and were making an effort to surprise our soldiers
+
+<pb facs="wfc.lfw00004.002"/>
+<fw>2</fw>
+then at Fort Harker six miles west of me. There I was all alone without any protection. All these Indians had to do was to come to the car I was in and secure a fine scalp, as I had a head covered with brown hair and that is what they were always after. My hair began to turn grey from that experience!</p>
+
+<p>When the train came down from Harker the next morning, I crawled on the train and came back to Wyandotte and reported to the superintendent that I did not want the job. He told me it was all he had for me, and I went back on the building work.</p>
+
+<p>A day or two after this he came to me and said they wanted a telegraph operator to go to Fort Harker and be with General Sheridan, who was then engaged in trying to clean up the various Indian bands in the West and Southwest.</p>
+
+<p>All the supplies were ordered from Fort Leavenworth, shipped from there to Harker, then transported by ox teams to their various destinations.</p>
+
+<p>A section gang of six men had their headquarters at the Fort. The six men started out on their hand car to work. They had gone but a short distance when they were attacked by the Indians. Five of the men were instantly killed. The sixth man was not hit; but he saw the Indians running up to scalp them, so he feigned to be dead and allowed himself to be scalped alive. I saw and talked with him. They cut a piece from the top of his head about the
+
+<pb facs="wfc.lfw00004.003"/>
+<fw>3</fw>
+
+size of half dollar. I asked him if it hurt. He said, “Yes, it hurted me, and the beggar’s knife was so dull.” This man fully recovered.
+Fort Harker was a miserable place to be. The ground all about the Fort was literally covered with prairie rattlesnakes. In walking about one had to be careful to keep from stepping on them. Buffalo were plentiful, and I have known the Rail Road train to be stopped for an hour while a herd of buffalo were crossing the track. Buffalo, like sheep, will follow the leader, and nothing could stop them.</p>
+
+<p>I was at Harker until 1869, when I was ordered here to Abilene. I knew what Abilene was before coming. The McCoy brothers had established the Texas cattle trade here, and this business was the life of the country, a very few farmers trying to live principally from their cows and poultry.</p>
+
+<p>The prairie was covered with quail and prairie chickens. The quail were about as thick as sparrows are now. In order that you may realize how plentiful they were I will relate a circumstance. Henry Floyd and Samuel Jolly suggested to me one day that we go out hunting. Well, I’d never been out on a hunt, but I did not tell them that. On the way out they kept bragging about what good shots they were. Well, I could not stand that, so I told them of how well I could shoot.</p>
+
+<p>We finally got outside the town limits when a large
+
+<pb facs="wfc.lfw00004.004"/>
+<fw>4</fw>
+
+covey of quail rose up. I raised my gun and shot at a quail but missed it and killed one way beyond that I did not see until it fell, when you should have seen the surprised look on their faces. They asked me why I did not kill the one near me. I told them I was a sportsman and wished to give the game a chance for its life, and if I had had a double barrel gun I would have got both of them. I had them thinking I was a marksman. It is needless to say I did no more shooting on the trip.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

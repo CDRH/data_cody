@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.lgl00066">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Isaac Cody's Property Tax Records</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.lgl00066</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Isaac Cody's Property Tax Records</title>
+<pubPlace></pubPlace>
+<date when="1849">1849</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<note>Isaac Cody's property tax records for the years 1849, 1850, 1851, and 1853 from Scott County, Iowa.</note>
+</bibl>
+<msDesc>
+<msIdentifier><repository>Property Tax Records, 1849-1906,
+State Historical Society of Iowa, Iowa City</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Records</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Transcription and Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="record">
+
+<pb facs="wfc.lgl00066.001"/>
+
+<gap reason="sampling"/>
+
+<ab>Name</ab>
+<ab>Description of Lands Lots 2 SW 1/4</ab>
+<ab>Section 14</ab>
+<ab>Township 78</ab>
+<ab>Range 5</ab>
+<ab>No of acres 10</ab>
+<ab>Value 50</ab>
+<ab>Name of town </ab>
+<ab>Lot</ab>
+<ab>Block</ab>
+<ab>Value</ab>
+<ab>Merchandise</ab>
+<ab>Mills &amp; Machinery</ab>
+<ab>Pleasure Carriages</ab>
+<ab>No. of Horses</ab>
+<ab>Value</ab>
+<ab>No. of Cattle</ab>
+<ab>Value</ab>
+<ab>No. of Hogs</ab>
+<ab>Value</ab>
+<ab>No. of Sheep</ab>
+<ab>Value</ab>
+<ab>No. of Watches</ab>
+<ab>Value</ab>
+<ab>Total Paid 50</ab>
+<ab>Poll </ab>
+<ab>Schools 5</ab>
+<ab>State 13</ab>
+<ab>County .20</ab>
+
+<ab>Name Cody Isaac</ab>
+<ab>Description of Lands N 1/2 SE 1/4</ab>
+<ab>Section 28</ab>
+<ab>Township 79</ab>
+<ab>Range 5</ab>
+<ab>No of acres 80</ab>
+<ab>Value 400</ab>
+<ab>Name of town </ab>
+<ab>Lot</ab>
+<ab>Block</ab>
+<ab>Value</ab>
+<ab>Merchandise</ab>
+<ab>Mills &amp; Machinery</ab>
+<ab>Pleasure Carriages 70</ab>
+<ab>No. of Horses</ab>
+<ab>Value</ab>
+<ab>No. of Cattle 6</ab>
+<ab>Value 108</ab>
+<ab>No. of Hogs</ab>
+<ab>Value</ab>
+<ab>No. of Sheep</ab>
+<ab>Value</ab>
+<ab>No. of Watches</ab>
+<ab>Value</ab>
+<ab>Total Paid 578</ab>
+<ab>Poll 1</ab>
+<ab>Schools 58</ab>
+<ab>State1,45</ab>
+<ab>County 2,32</ab>
+</div1>
+
+<div1 type="record">
+
+<pb facs="wfc.lgl00066.002"/>
+
+<gap reason="sampling"/>
+
+<ab>Name Cody Isaac</ab>
+<ab>Description of Lands N 1/2 SE 1/4</ab>
+<ab>Section 28</ab>
+<ab>Township 79</ab>
+<ab>Range 5</ab>
+<ab>No of acres 80</ab>
+<ab>Value 400</ab>
+<ab>Name of town</ab>
+<ab>Lot</ab>
+<ab>Block</ab>
+<ab>Value</ab>
+<ab>Merchandize</ab>
+<ab>Mills &amp; Machinery</ab>
+<ab>Pleasure Carriages</ab>
+<ab>No. of Horses</ab>
+<ab>Value</ab>
+<ab>No. of Cattle </ab>
+<ab>Value</ab>
+<ab>No. of Hogs</ab>
+<ab>Value</ab>
+<ab>No. of Sheep</ab>
+<ab>Value</ab>
+<ab>No. of Watches</ab>
+<ab>Value</ab>
+<ab>Total</ab>
+<ab>Poll</ab>
+<ab>Schools</ab>
+<ab>State</ab>
+<ab>County</ab>
+
+<ab>Description of Lands <unclear/> W 1/2 SE 1/4</ab>
+<ab>Section 27</ab>
+<ab>Township 79</ab>
+<ab>Range 5</ab>
+<ab>No of acres 34</ab>
+<ab>Value 136</ab>
+<ab>Name of town Park &amp; E Lots</ab>
+<ab>Lot 6</ab>
+<ab>Block 6</ab>
+<ab>Value 150 30</ab>
+<ab>Merchandize</ab>
+<ab>Mills &amp; Machinery</ab>
+<ab>Pleasure Carriages </ab>
+<ab>No. of Horses 5</ab>
+<ab>Value 150</ab>
+<ab>No. of Cattle 1</ab>
+<ab>Value 9</ab>
+<ab>No. of Hogs 4</ab>
+<ab>Value 4</ab>
+<ab>No. of Sheep</ab>
+<ab>Value</ab>
+<ab>No. of Watches</ab>
+<ab>Value</ab>
+<ab>Total Paid 8 79</ab>
+<ab>Poll 1</ab>
+<ab>Schools 88</ab>
+<ab>State 2,19</ab>
+<ab>County 3,52</ab>
+</div1>
+
+<div1 type="record">
+
+<pb facs="wfc.lgl00066.003"/>
+
+<gap reason="sampling"/>
+
+<ab>Names Cody Isaac</ab>
+<ab>Description of Lands W 1/2 SE</ab>
+<ab>Section 28</ab>
+<ab>Township 79</ab>
+<ab>Range 5</ab>
+<ab>No of acres 80</ab>
+<ab>Value 480</ab>
+<ab>Name of town </ab>
+<ab>Lot</ab>
+<ab>Block</ab>
+<ab>Value</ab>
+<ab>Merchandize</ab>
+<ab>Mills &amp; Machinery</ab>
+<ab>Pleasure Carriages </ab>
+<ab>No. of Horses</ab>
+<ab>Value</ab>
+<ab>No. of Cattle </ab>
+<ab>Value</ab>
+<ab>No. of Hogs</ab>
+<ab>Value</ab>
+<ab>No. of Sheep</ab>
+<ab>Value</ab>
+<ab>No. of Watches</ab>
+<ab>Value</ab>
+<ab>Other property</ab>
+<ab>Value</ab>
+<ab>Claims for money</ab>
+<ab>No. of Mules</ab>
+<ab>Value</ab>
+<ab>Total Valuation </ab>
+<ab>Poll</ab>
+
+<ab>Names</ab>
+<ab>Description of Lands<unclear></unclear> W 1/2 SE</ab>
+<ab>Section 27</ab>
+<ab>Township 79</ab>
+<ab>Range 5</ab>
+<ab>No of acres <unclear>1/4</unclear></ab>
+<ab>Value 200</ab>
+<ab>Name of town </ab>
+<ab>Lot</ab>
+<ab>Block</ab>
+<ab>Value</ab>
+<ab>Merchandize</ab>
+<ab>Mills &amp; Machinery</ab>
+<ab>Pleasure Carriages </ab>
+<ab>No. of Horses</ab>
+<ab>Value</ab>
+<ab>No. of Cattle </ab>
+<ab>Value</ab>
+<ab>No. of Hogs</ab>
+<ab>Value</ab>
+<ab>No. of Sheep</ab>
+<ab>Value</ab>
+<ab>No. of Watches</ab>
+<ab>Value</ab>
+<ab>Other property</ab>
+<ab>Value</ab>
+<ab>Claims for money</ab>
+<ab>No. of Mules</ab>
+<ab>Value</ab>
+<ab>Total Valuation </ab>
+<ab>Poll</ab>
+
+<ab>Names</ab>
+<ab>Description of Lands 1/2 Store Lot 10</ab>
+<ab>Section 26</ab>
+<ab>Township 79</ab>
+<ab>Range 5</ab>
+<ab>No of acres 1/4</ab>
+<ab>Value 10</ab>
+<ab>Name of town Park <unclear></unclear> lots</ab>
+<ab>Lot</ab>
+<ab>Block</ab>
+<ab>Value 48</ab>
+<ab>Merchandize</ab>
+<ab>Mills &amp; Machinery</ab>
+<ab>Pleasure Carriages </ab>
+<ab>No. of Horses 2</ab>
+<ab>Value 80</ab>
+<ab>No. of Cattle 2</ab>
+<ab>Value 20</ab>
+<ab>No. of Hogs</ab>
+<ab>Value</ab>
+<ab>No. of Sheep</ab>
+<ab>Value</ab>
+<ab>No. of Watches</ab>
+<ab>Value</ab>
+<ab>Other property</ab>
+<ab>Value</ab>
+<ab>Claims for money</ab>
+<ab>No. of Mules</ab>
+<ab>Value</ab>
+<ab>Total Valuation Paid 838</ab>
+<ab>Poll 1</ab>
+
+</div1>
+
+<div1 type="record">
+
+<pb facs="wfc.lgl00066.004"/>
+
+<gap reason="sampling"/>
+
+<ab>No. 41</ab>
+<ab>Owners' Names Cody Isaac</ab>
+<ab>Part of the Section  SW 1/4</ab>
+<ab>Section. 4</ab>
+<ab>Township 80</ab>
+<ab>Range 40</ab>
+<ab>No. of Acres 160</ab>
+<ab>Name of the Town <del/></ab>
+<ab>Lot Land 2,50</ab>
+<ab>Block</ab>
+<ab>Value  320</ab>
+<ab>No. of Horses 6</ab>
+<ab>Total Value of Horses 18.0</ab>
+<ab>No. of Mules &amp; Asses</ab>
+ <ab>Total Value of Mules and Asses</ab>
+<ab>No. of Neat Cattle. 15</ab>
+<ab>Total Value of Neat Cattle. 67</ab>
+<ab>No. of Sheep. </ab>
+ <ab>Total Value of Sheep.</ab>
+<ab>No of Swine. 230</ab>
+<ab>Total Val. of Swine. 300</ab>
+<ab>The Gross amount of  all other personal property, with moneys and credits. <add>370</add><del/>1137 </ab>
+<ab>County Tax. 3.69</ab>
+<ab>State Tax. 1,42</ab>
+<ab>School Tax. 1,14</ab>
+<ab>Road Tax. 2,28</ab>
+<ab>Delinquent Tax. Paid</ab>
+
+
+</div1>
+
+
+</body>
+
+<back></back>
+</text>
+</TEI>

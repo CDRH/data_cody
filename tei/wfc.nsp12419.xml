@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12419">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Indian War</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12419</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Indian War</title>
+<title level="a" type="sub">Capture of a Cheyenne Camp by the Fift Cavalry - A Village Destroyed - White Woman Reclaimed - Fifty-two Indians Killed</title>
+<title level="j">New York Times</title>
+<pubPlace>New York (N.Y.)</pubPlace>
+<date when="1869-07-26">July 26, 1869</date>1869-07-26
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12419.001"/>
+
+<head type="main">The Indian War</head>
+<head type="sub">Capture of a Cheyenne Camp by the Fift Cavalry - A Village Destroyed - White Woman Reclaimed - Fifty-two Indians Killed</head>
+
+<p>A few days ago we had by telegraph a brief account of the capture of a Cheyenne camp by the Fifth Cavalry, under General Carr. An officer of the regiment furnishes a friend in St. Louis some interesting details of the affair:</p>
+
+<floatingText>
+<body>
+<opener><dateline>NEAR FORT SEDGWICK, Neb., July 14, 1869.</dateline></opener>
+<p>We left Fort McPherson on the 9th of June, traveling south and east until we struck the Republican River, which we followed until we reached a point opposite the mouth of Beaver Creek, arriving on the 15th. Up to this time our passage through the country resembled a picnic excursion more than a military expedition. The weather was pleasant, the foliage luxuriant, and the grass thick and soft; and the day's march over, we lolled at our ease on the banks of some shady little stream, free from care or trouble. But here our work began, for on this afternoon, as our herds were in the river, they were attacked by a small band of Indians, who endeavored to stampede them. In this, however, they were foiled, and so they hurried off. In a very few minutes three companies were after them, but, it soon becoming dark, and there being no moon, they were obliged to give up the chase. Early the next morning, however, the whole command, having been duly rationed, left the wagon train and started on the trail. This we followed until we arrived at the Solomon River, where we were overtaken by a very severe thunder-storm, which, all our shelter having been left behind, drenched every one of us through and through, but what was far worse was the loss of the trail. We followed down the Solomon for some distance, but finding nothing to encourage us, turned our faces to the north again, meeting in the evening our wagon train, which was on the road to join us. Arrived at Prairie Dog Creek, we traveled westwardly, scouting first the country between the Beaver and the Republican, until we arrived at a point on the latter stream nearly south of McPherson, and where we expected to meet a train with provisions and forage. The train arrived the next day, and with the loss of only twenty-four hours we continued our westward march.</p>
+
+<p>The day before we reached this place a trail was discovered running northwest. The party making it was evidently a large one, and Colonel ROYALL, with three companies, was sent to follow it up. The Colonel was unsuccessful in catching them, but came across a band of thirteen, whom we have since learned were sent out to decoy the troops from the pursuit, and in this they succeeded, but at the cost of three men killed and eight ponies captured. After this the Colonel retraced his steps, and joined the main command.</p>
+
+<p>Attached to our regiment are about 150 Pawnee Indians, some thirty of whom accompanied Colonel Royall. It is the custom of the Indians, after making a successful raid, to enter their own camp, singing and shouting at the top of their voices. They also fire off their guns and pistols at quite a rapid rate, and so when on their return they came into our camp in their wonderful manner our sentries did not know what to make of it; and the whole command, alarmed at the cry of Indians, sprang to arms, and no little excitement ensued. The Pawnees luckily, were recognized in time to prevent any mischief, and our little scare ended in rejoicings. These thirty Indians, after parading themselves through our camp, proceeded to their own, where they soon inaugurated a scalp dance, much to the disgust of the remaining 120, who not having been engaged in the action could not participate in the dance.</p>
+
+<p>While Colonel ROYALL was thus employed General CARR, with the rest of his command, continued the westward march, and by the time that Colonel ROYALL rejoined us had scouted all that portion of country in which the north fork of the Republican River takes its rise. The country, to us, did not seem enticing enough even for an Indian; at any rate neither Indian nor Indian sign was found, and the command took up the line of march for the big trail. For the first day and night nothing occurred, but about 11:30 the second night out the Pawnee camp was fired into by about fifteen or twenty hostile Indians, who, having fired their volley, (illegible) without awaiting a return. They inflicted no damage, however, and the next day we pursued our march as though nothing had occurred. The next evening brought us to the scene of Colonel ROYALL's encounter with the thirteen. The next day's march showed us several camps, each of which seemed fresher than the last, and raised our hopes considerably.</p>
+
+<p>Finally, on the evening of the 10th of July we reached the camp which they had left only that morning, and here we, too, rested. We now realized the size of the party we had to deal with, and anticipated a grand capture, for the evident leisure with which they traveled plainly indicated their ignorance of our whereabouts. The morning of the 11th saw the wagon train again left behind, and the whole command, excepting such men whose horses were not fit for very hard marching, on the road a little after daylight. Out of the 150 Pawnees only 50 accompanied us, the rest having used up their ponies.</p>
+
+<p>Our march this day for the first twenty-seven or twenty-eight miles was westward, and this brought us nearly to the South Platte. At this point, all indications being very fresh, we took up the march at a gallop, up hill and down hill, through sand which covered our horses' fetlocks, and we kept it up for about ten miles. At this point the Pawnees, who were in the lead, suddenly halted. The command halted, and the majority of the officers advancing to the top of the hill which we had been ascending could plainly see the Indian camp between three and four miles off. A few minutes' rest here for the horses, and off we went again, this time at a full gallop. It wanted here 20 miutes to 2 p.m., and 2 p.m. saw us in the possession of the Indian camp, and the Indians, with nothing but a portion of their herds, fleeing for their lives away over the hills.</p>
+
+<p>Never before was a surprise so complete. A brisk wind blowing from the south prevented the noise we made from reaching them, and the first indication they had of our presence was when they saw us a few hundred yards off. Our men behaved nobly, and on they went right into the midst of them, nor stopped while one remained to meet their charge:
+Fifty-two Indians killed, 450 head of stock captured, 7,000 or 8,000 pounds of dried beef destroyed, 650 buffalo robes destroyed, 86 wigwam destroyed.</p>
+
+<p>To this add all their cooking utensils, all their jewelry and finery of all kinds, many guns, pistols, bows and arrows; fourteen captive women and children, and you have some idea of their loss. Not one of our men was wounded. They had with them two white women, captured at Selina last May. One of these was killed, and the other, although wounded, will in all likelihood recover. At any rate we have her, and the surgeon is doing what he can to save her for her friends. About $700 or $800 in greenbacks, and about $100 in gold form an interesting item in the list of captured property, for it is all being collected, and is to be donated to the rescued woman. Yours, &amp;c., L. </p>
+</body>
+</floatingText>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

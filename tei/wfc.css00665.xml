@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.css00665">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Charles Meinhold to J.B. Johnson, April 27, 1872</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #41</idno>
+<idno type="project">wfc.css00665</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Charles Meinhold to J.B. Johnson, April 27, 1872</title>
+<pubPlace></pubPlace>
+<date when="1872-04-27"></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Letter</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Native Americans</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Spotted Tail, 1823-1881</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Fort McPherson (Neb.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="wfc.css00665"/>
+
+<p>Letter to 1st Lieutenant J.B. Johnson, Post Adjutant from Capt. Charles Meinhold 3rd Cav. commanding Troop B Fort McPherson, Nebraska April 27, 1872.</p>
+
+<p>"In obedience to verbal orders of Brevet Major General J.J.Reynolds commanding Post I started 7 o'clock a.m. on the 25th instant with 1st lieutenant Lawson 3rd Cav. and 45 enlisted men of my comapny, 47 in the aggregate, to overtake and punish a marauding party of Indians who had stolen seven horses from parties at McPherson 1 station on the 24th instant. Dr. G.W. Towers accompanied my command as medical officer. Mr. William F. Cody was the guide aided by Mr. Omehendev who volunteered his services. I arrived at about 11 o'clock at Pawnee Springs and from the trail of the Indians to point towards the Loupe in a northwesterly direction entering the rough and sandy (land) bordering the valley of the Platte. Having already been delayed four hours in bringing the wagon furnished to me to transport provisions and equipage across the swampy bottom of the Platte I concluded to send it back to the Post. I issued 5 days rations to every one of the command with estimation that they had to last seven days if necessary and unencumbered by anything else I started on the trail at 3pm and followed it until dark when I encamped without grass, wood, or water. Next morning I started at 4 o'clock a.m. following the trail until it brought me within 5-6 miles of the Loup. Being satisfied that the Indians must strike the Loup I left the trail and marched to the river turning into a more easterly direction thinking that it would be easier to approach unperceived the Indian camp by moving up the river than to follow the trail descending the bluffs where the Indians could have seen. Finding a little grass in an arroya near the Loup, I unsaddled, I let the horse graze for 2 hours as they had had hardly any food since I left the Post, in fact we all stood in need of rest. I argued in this way: The Indians were wither still encamped on the Loup 8 miles above me, in which case the locality which I had chosen for a stopping place would secure me from observation or they had crossed the Loupe contriving their flight in which case the 2 hours delayed would be of no moment, at least compared to the benefit I would derive from resting and feeding the men and horses about half past 2pm I started. I detached a party of 10 men under Sergeant John H. Foley with Mr. Cody for a guide to move up on the south side of the river while I moved on the opposite side. I had marched about 10 miles when I heard firing about a mile off. I moved up at a gallop and arrived in time to intercept 2 Indians who, on seeing us, fired. They were immediately shot down. Mr. Cody had guided Sergeant Foley's party with such skill that he appraoched the Indian camp within 50 yards before he was noticed. The Indians fired immediately upon Cody and Foley. Mr. Cody killed 1 Indian, two others ran toward the main command and were killed as stated above. While this was going on, Mr. Cody discovered a party of 6 mounted Indians and 2 lead horses running at full speed at a distance of about 2 miles down the river. I at once sent Lieut. Lawson with Mr. Cody and 15 men in pursuit. We, in the beginning of the chase, gained a little upon them so that they were compelled to abandon the 2 lead horses which were captured, but after running more than 12 miles at full speed our jaded horses gave out and the Indians made good their escape. Afterwards I ascertained that this party were out hunting, had killed an elk and were cutting it up when they heard the firing; and comprehending the situation at once, fled. Had it not been for this unfortunate accident I would have gotten the whole party and all the stolen stock plus their own. To overtake these 6 Indians mounted on fresh horses would have required a steady pursuit of 8 to 10 days duration for which I was not prepared. I therefore returned today to the post. The men of my command have all done their duty, but I beg leave to mention especially Sergeant John W. Foley who in command of the detached party charged into the Indian camp without knowing how many enemies he might encounter, 1st Sergeant Leroy W. Volks who bravely closed in upon an Indian while he was fired at several times and wounded him. Mr. Cody's reputation for bravery and skill as a guide is so well established that I need not say anything else than but he acted in his usual manner. Mr. Omohendev is a very good trailer and a brave man, who knows the country well, and I respectfully recommend his employment as a guide should the service of one in addition to Mr. Cody be needed. The 2 captured horses were identified by Mr. McCullogh and the other by WIlson and I restored them to their owners. From the shape of the moccasins, nows, and arrows found in the Indian camp Mr. Cody is of the opinion that the party were Miame (Minneconjous?) concho Sioux, a band which yields no obedience to Spotted Tail. I am not acquainted with the peculiarities of the different branches and tribes of Indians in the Dept. I can therefore have no opinion. The country I have marched over is so well known that I omit to furnish a map at all; events I am not able to trace the trail correctly, it took so many turns and windings amongst the sand hills that it completely bewildered me." Total distance marched during the 3 days scout 140 miles."</p>
+
+<p>Signed Capt. Charles Meinhold</p>
+<p>Endorsed by J.J. Reynolds</p>
+
+<p>(Letter Record Office, Indian Affairs, Roll 127 Cheyenne River Agency, 1871-72, National Archives Microfilm Pub. Doc 1 1428)</p>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11953">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Gen. Custer's Command</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #154</idno>
+<idno type="project">wfc.nsp11953</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Gen. Custer's Command</title>
+<title level="j">Harper's Weekly</title>
+<pubPlace></pubPlace>
+<date when="1000">1867-8-3</date>
+<biblScope type="vol">XI</biblScope>
+<biblScope type="issue">553</biblScope>
+<biblScope type="pp">479-480</biblScope>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Native Americans</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Colorado</term>
+<term>Kansas</term>
+<term>Fort Sedgwick (Colo.)</term>
+<term>Illinios</term>
+<term>Minnesota</term>
+<term>Denver (Colo.)</term>
+<term>Arkansas</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<pb facs="wfc.nsp11953"/>
+
+<div1 type="article">
+
+<p>GEN. CUSTER'S COMMAND</p>
+
+<p>General George A. Custer, in command of the Seventh U. S. Cavalry, has been moving for some time past through Kansas, from the Arkansas to the North Platte River, in pursuit of the Indians. Our artist who accompanies him sends us several sketches of interest, which we give on page 484.</p>
+
+<p>One of his pictures is calculated to explode the very generally accepted idea that the Colorado and Kansas plains resemble the prairies of Illinois and Minnesota. Vast canons have been worn by some means in the hill-sides, and these are the natural roads of the country. If the canon, or "divide," which the command is pursuing is abandoned, the troops are led into innumerable difficulties in the hills, and the divide must again be resumed. It is not to be understood that the whole distance traveled by General Custer since he left the Arkansas has been through a divide, but many a long mile of the route has led through a country quite as broken as that represented in the sketch.</p>
+
+<p>While on this march a band of Sioux Indians, under "Pawnee Killer," attempted to stampede the horses of the command. Before daybreak Indians to the number of nearly two hundred disposed themselves about the camp, taking care to keep just out of range of the carbines of the guards, and so far as possible concealing themselves and ponies. As day broke a corporal left the picket line with a private soldier, who was to be posted as a vidette. They had nearly reached the point--a hill of some prominence--when eight Indians charged down upon them. The vidette was wounded, but the corporal, who was only armed with a sabre, escaped unharmed to the line. The cry of Indians and rapid discharge of carbines caused an amount of early rising among the lazy ones that was as sudden as it was unwelcome. The eight Indians came dashing toward the camp; Indians made their appearance on all sides, but were met with such a rapid fire that they withdrew without getting what they came for.</p>
+
+<p>After the failure of this attempt Pawnee Killer had the impudence to ask General Custer to meet him in conference. It was granted, and a sketch of the scene is given. The Indians then asked for sugar, coffee, etc., and ammunition--and this, too, while scalp-locks of fair Anglo-Saxon hair were hanging to their clothing by way of ornament. To shoot them on the spot was not possible. They had as many men within reach and more than General Custer had; they were as plentifully supplied with revolvers, and quite as willing to use them. Besides this, they had shot a white man that morning and taken his breech-loading carbine and cartridges. They felt "big-brave," and thought that they were "heap good to fight."</p>
+
+<p>Our other engraving on the same page gives a view of the Platte River at North Platte, the point at which General Custer crossed. The river is a trifle more than half a mile wide at this point and has a swift current. A "ranch man" named Morrow has the monopoly of the ferry right, charging five dollars per head as ferriage, biped or quadruped. When a boat crosses it lands from a mile to two miles below the point from which it starts; it must then be taken out of the water and hauled up to a point from which it may start on a return trip.</p>
+
+<p>For some weeks past active operations on the Plains on our part have been suspended; but the Indians have been unusually aggressive. We gave last week a full account of the battle near Fort Wallace on June 26, in which our troops were badly defeated and cut up. Other fights have since occurred in the same region; and it is clearly apparent that a very large force of Indians are on the warpath along the "Smoky Hill Route" to Denver. In the mean time General Hancock is encamped on the "Arkansas Route," and General Custer has gone to the "Platte Route," both of which are comparatively quiet; and the settlers along the "Central Route" are thus left to the mercy of the savages, or under the inadequate protection of the small and scattered garrisons in the small and weak forts along the route. On July 15 a train on this route was captured near Fort Larned, and a bishop, ten priests, and six Sisters of Charity of the Catholic Church were captured. The men were killed and scalped, and the women were carried off as captives. Similar depredations were committed on July 12 near Fort Sedgewick.</p>
+
+<p>The results which are being attained by the troops on the Plains are not at all adequate to the means employed and the money expended. Mr. Henderson of Missouri stated in the Senate on July 16 that the war was now costing daily at least $150,000; and added that, if it lasted through the summer (and at the present rate it will certainly do that), it will have cost us $100,000,000 without having accomplished any thing.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

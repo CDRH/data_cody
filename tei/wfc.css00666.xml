@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.css00666">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from E.B. Fowler to Mrs. Barnes</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #40</idno>
+<idno type="project">wfc.css00666</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from E.B. Fowler to Mrs. Barnes</title>
+<pubPlace></pubPlace>
+<date when="1873-07-26"></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Letter</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Saint Louis (Mo.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="wfc.css00666"/>
+
+<p>MS 1007 E.B. Fowler to Mrs. Barnes</p>
+
+<p>Cottonwood Springs: July 26 1873</p>
+
+<p>Mrs. Barnes,</p>
+
+<p>You may be somewhat surprised, to hear from me at this late date! It is not because of have forgotten you, I can assure you: but the fact is; I have not written to anyone of late.</p>
+
+<p>I presume that your Son, is still in the Army; is he not? Does he like it as well as at first? I don’t think that he does, it is a great deal more pleasant; to be in that country than this, for there are plenty of people, and entertainment there; where there are none at all here. Nothing but sand hills, and prairie grass to graze upon! I haven’t beheld a lady, since I left Saint Louis!</p>
+
+<p>We have a little excitement here, now and then a band of Indians; make a dash at the herd, and drive them away. The last time we chased them 18 miles, as fast as we could go; and killed part of our horses; but we caught them before they got away with any of them.</p>
+
+<p>Another of a more serious nature: occurred the other day: the company were out upon a Scout, and during the night when in camp, a water spout burst above and came sweeping down with terrible force. It first came about two feet and a continual rise, until it came to the depth of five feet upon a level. The force was so great, that you could not stand, when it was only six inches in depth. It swept everything that came within its sway. There happened to be at the time several trees the only chance for life that we had, and those that reached them, sat upon the limbs with nothing but a shirt to protect them from the rain and cold for seven long and dreary hours. I happened to get upon a hill with some mules, but came near shaking from existence with fright. I think that we made a great escape although six men, and twenty eight horses were lost. We found five of the men, but could not find the other.</p>
+
+<p>I presume that everything seems the same as ever, does it not? I hope that your health is good at present, and family also. Is Sadie Butler there now: How is she?</p>
+
+<p>I remain as ever,</p>
+<p>E.B. Fowler</p>
+<p>Cottonwood Springs, NE</p>
+
+<p>Direct</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

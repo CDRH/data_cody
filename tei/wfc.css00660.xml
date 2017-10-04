@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.css00660">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Letter from Eugene Carr to Hercules Price, June 21, 1910</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities, the Geraldine W. &amp; Robert J. Dellenback Foundation, and the Center for Great Plains Studies.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #135</idno>
+<idno type="project">wfc.css00660</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Letter from Eugene Carr to Hercules Price, June 21, 1910</title>
+<pubPlace></pubPlace>
+<date when="1910-06-21"></date>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Letter</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>The Battle of Summit Springs</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carr, E. A. (Eugene Asa), 1830-1910</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Summit Springs (Colo.)</term>
+<term>Platte River (Neb.)</term>
+<term>Cheyenne (Wyo.)</term>
+<term>Fort Sedgwick (Colo.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
+<change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="letter">
+
+<pb facs="wfc.css00660"/>
+
+<p>The following is a reply to a letter from Hercules H. Price, asking for a copy of Map, if the General had one to spare, of the Battle-field of Summit Springs in N. E. Colorado - the battle fought in the summer of 1869.</p>
+
+<p>Since the date of following letter, the Gen met with an accident in New York City by being run down by an Automobile - He was badly bruised and shook up, but is supposed not seriously hurt - This from the National Tribune of Washington. D.C </p>
+
+<p>Copy -</p>
+<p>44 West 25th Street</p>
+<p>New York, N. Y. June 21st 1910</p>
+
+<p>My dear Price: -</p>
+
+<p>I am on my vacation now &amp; have no Maps with me - in fact there was never any map made of the Summit Spring battle-ground.</p>
+
+<p>We have the topographical maps which covered that country, but Summit. Springs was not down - You may remember that I found the trail where it crossed the Republican, after hunting the Indians on south side, the first part of the summer: they were on their way West, getting toward their reservations. After crossing the Republican, they went back a few miles and followed its general direction, Westward, camping on waterholes and springs which they know of. I had the Pawnees follow them and went along up the valley with the main command, about doubling their marches.</p>
+
+<p>When we got within a few days of them, I detached Royal with about half of the command, which was enough to handle these Indians, as the Pawnees had counted their beds every night.</p>
+
+<p>He rand upon a small party and killed two or three, and the Pawnees told him that there was no use to follow the trail any farther, as they would be alarmed, and he came back to Camp which was on the South Fort of the Republican, inside of Fremonts Peak - they had got out of the valley of the</p>
+
+<p>2</p>
+
+<p>Republican into Frenchmen's Fort, which points to the West, nearly to the South fork of the Platte.</p>
+
+<p>I got over there with the whole command, and took up the trail again.</p>
+
+<p>I crossed the ridge South-east of the South fork of the Platte, into the Platte valley, hiding as much as I could while crossing the ridge, and then turned up the valley, presuming the trail would go that way.</p>
+
+<p>Some Pawnees reported that they saw tepees across the river, but Buffalo Bill came back and reported that he was on the trail, up the valley.</p>
+
+<p>I sent Royall across with part of the command, and told him I would stick to the trail, which would take me up to him, if the Indians were there. Finally some Pawnees called me over to the left, and showed me some ponies, grazing on a slope in the hills.</p>
+
+<p>Royall had sent me word that what the Pawnees had seen, was some bushes - I sent him word back to come on, and arranged the command to attack the village, which I knew was below the ridge I was on - and you know the rest -</p>
+
+<p>Summit Springs was not on any map I had, and I was about to re-name it, when I discovered it had a name. It is back in the hills from the valley of the Platte, six or seven miles from the river. It is about South of American Ranch, a stage station in the valley of the Platte on the road to Denver - It was less than two days journey West of Sedgwick Barracks, on the South side of the Platte, opposite Julesburg.</p>
+
+<p>The Railroad only came up to Julesburg then, and then headed West, for Cheyenne.</p>
+
+<p>The Indians were laying over that Sunday afternoon, for a push across</p>
+
+<p>3.</p>
+
+<p>the Railroad - to the North.</p>
+
+<p>They had some mares and colts, and knew they would be discovered, when they crossed the Railroad.</p>
+
+<p>Summit Springs may be on some Railroad map of that country, if you can find one, and the whole country is shown by the United States Topographical Map.</p>
+
+<p>Give my regards to Mr. Erhardt.</p>
+
+<p>I would like to hear something of Mrs. Mitchell. She married an Infantry soldier, a Hospital attendant at Fort Sedgwick.</p>
+
+<p>I am, your's</p>
+<p>(sg'd) Eugene A. Carr.</p>
+<p>Care of War Department.</p>
+<p>Washington, D.C.</p>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

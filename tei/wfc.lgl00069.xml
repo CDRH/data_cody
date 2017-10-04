@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.lgl00069">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Joseph Martin to Isaac Cody</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.wfc.lgl00069</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Joseph Martin to Isaac Cody</title>
+<title level="j"></title>
+<pubPlace></pubPlace>
+<date when="1842">1842</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier><repository>Microfilm, Scott County Recorder, Deeds-Land-Record 1838-1885, State Historical Society of Iowa, Des Moines</repository></msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Records</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="record">
+
+<pb facs="wfc.lgl00069.001"/>
+
+<fw>395</fw>
+
+<ab>Joseph Martin To Isaac Cody<lb/>
+Filed for Record July 8th 1842 at 9 O'clock A. M.</ab>
+
+<ab><unclear/> Evans<lb/>
+Recorder</ab>
+
+<p>This indenture made this Eighth (8th) day of June One thousand Eight hundred and forty Two Between Joseph Martin and Cliora his wife of the County of Scott of the Territory or Iowa of the one part and Isaac Cody of the County and Territory of <unclear/> of the other part Witnesseth. That the said Joseph P. Martin and Cliora his wife for and in consideration of the sum of Twelve Hundred dollars to them in hand paid the receipt whereof is hereby acknowledged, <unclear/> this day bargained sold aliened enfeoffed and conveyed and by these presents do bargain sell alien enfeoff and convey unto the said Isaac Cody his heirs and assigns all that certain Tract or parcel of Land lying and being in the county of Scott and Territory of Iowa, known designated and numbered on the plat of LeClaires addition to the original Town of Davenport and Lot No. four (4) in Block No. forty four (44) situate in said Town of Davenport - To Have and To Hold the above described Lot Tract or parcel of Land with the Tenements and Appurtenances hereunto belonging or in any wise appertaining, unto the said Isaac Cody and to his heirs and assigns forever. And the said Joseph Martin and his wife for themselves their heirs executors and administrators doth warrant and will <del/> defend the title to the above described and hereby granted premises unto the said Isaac Cody his heirs and assigns from and against <unclear/> claim or claims of all and every person or persons claiming or holding under them the said Joseph Martin and wife and also agains the lawful title claim soever claiming a holding by from or under <unclear/> Government of the United States.</p>
+
+<p>In Testimony whereof the said Joseph Martin and Cleora his wife hath hereunto set their hands and seals the day and year above written -</p>
+
+<ab>Signed Sealed &amp; Delivered<lb/>
+in presence of<lb/>
+
+John Forrest Joseph Martin (seal)<lb/>
+L. E. Johnson Cleora Martin (seal)</ab>
+
+
+<p>I Lyman E. Johnson a Justice of the peace in and for said County do certify that Joseph Martin &amp; Cleora his wife whose signatures appear to the foregoing Deed, and who are personally known to me to be the persons described in who
+<fw>396</fw>
+executed the same, did acknowledge that they executed the same conveyance for the uses and purposes therein mentioned.</p>
+
+<p>And the said Cleora Martin his wife having been by me made acquainted with the contents of said Deed and examined seperate and apart from her said husband acknowledged that she had executed the same, and relinquished her dower to the premises therein mentioned, voluntarily, freely, and without compulsion of her said husband.</p>
+
+<p>Given under my hand this (8th) Eighth day of June One thousand Eight hundred and forty Two</p>
+
+
+<ab>L. E. Johnson<lb/>
+
+Justice of the peace &#8212;</ab>
+
+<p>And the said Cleora Martin wife of the said Joseph Martin whose signature appears to the foregoing instrument of writing and who signed the same in my presence who having been by me made acquainted with the contents of said Deed and examined seperate and apart from her said husband, acknowledged that she had executed the same and relinquished her dower to the premises therein conveyed voluntarily freely and without compulsion of her said husband &#8212;</p>
+
+<p>Given under my hand this 28th day of June 1842</p>
+
+
+<ab>James Thorington<lb/>
+Justice of the Peace </ab>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
