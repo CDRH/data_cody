@@ -87,15 +87,17 @@
     
     <!-- Creator -->
     <xsl:if test="contains($creator_check,'creator')">
+      <field name="creator">
         <xsl:for-each select="/vra/work/agentSet/agent">
           <xsl:if test="role != 'publisher' and role != 'contributor' and normalize-space(.) != ''">
-           <field name="creator">
-              <xsl:value-of select="name"></xsl:value-of>
-           </field>
+            <xsl:value-of select="normalize-space(name)"/>
+            <xsl:if test="position() != last()">
+              <xsl:text>; </xsl:text>
+            </xsl:if>
           </xsl:if>
         </xsl:for-each>
+      </field>
     </xsl:if>
-
   </xsl:template>
   
   <xsl:template name="publisher">
