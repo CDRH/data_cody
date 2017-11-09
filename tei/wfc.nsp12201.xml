@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12201">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Cossacks at Earl's Court</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12201</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Cossacks at Earl's Court</title>
+<title level="j">Morning Leader</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-31">May 31, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.041.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Caucasus</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Equestrian accidents</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Georgians (South Caucasians)</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Indians of North America</term>
+<term>Mustang</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Byron, George Gordon Byron, Baron, 1788-1824</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Manchester (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12201.001"/>
+<head>COSSACKS AT EARL'S-COURT.</head>
+
+<head type="sub">BUFFALO BILL" PROVIDES A TROOP OF RIDERS FROM THE CAUCASUS.</head>
+
+<p>"Buffalo Bill" has an interesting scheme in hand just now. With a view of taking them over to the World's Fair, he is collecting parties of the horsemen of as many nationalities as possible. Before long some ten gaucheros will arrive at Earl's-court from the Argentine interior; then will come Magyars, Persians, and so on. He has already secured, in pursuance of this scheme, a party of Cossacks, who will give their first show to-morrow. They are a troop of Cossacks of<lb/>
+
+THE CAUCASIAN LINE,<lb/>
+
+hailing from the little Georgian village of Ozourgett. They are men of splendid physique, tall, broad shouldered, black bearded, and with faces full of manliness and intelligence. They are under the command of Prince Ivan Makharadze, and all of them are of noble family. They vary in age from 18 to 35, and have never been out of their own country before starting for England. None of them talk English, and few of them talk even Russian. Their Georgian dialect has to be rendered by a translator, who is a Manchester native who has spent his life, since the age of five, in the Caucasian territory. Their garb is very picturesque. It consists of a long loose-fitting robe of sheepskins of various colors, fastened at the waist with belts, from which depend their long curved swords, their daggers, and various silver ornaments, while their caps are of sheepskin trimmed with astrachan. Even the cowboys have expressed<lb/>
+
+UNFEIGNED ADMIRATION<lb/>
+
+for the horsemanship of these Cossacks, who are indeed the world's premier riders. They are a branch of the great Cossack family, the Zaporogians, immortalised by Byron's "Mazeppa," and visitors who have marvelled at the skill of the Indians and the cowboys with the bucking mustangs will marvel afresh at the striking performance of these descendants of the famous horseman. The program embraces the singing of national songs, on horseback, the dancing of the <hi rend="italic">lizginka</hi>, the exhibition of a series of riding feats, and several clever sword exercises. It is short, but it is of the best.</p>
+
+<p>Considerable excitement was caused at the Wild West Exhibition yesterday; a buck-jumping pony reared on its hind legs and fell backwards. The man escaped unhurt, but the horse fractured its spine and died immediately.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12177">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12177</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Horticultural Exhibition</title>
+<title level="j">Horticultural Times</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-23">May 23, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.038.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Emigrants</term>
+<term>Ethnic costume</term>
+<term>Europe</term>
+<term>Exhibitions</term>
+<term>Firearms</term>
+<term>Frontier and pioneer life</term>
+<term>Grottoes (Garden structures)</term>
+<term>Historical reenactments</term>
+<term>Horses</term>
+<term>Hunting</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Railroad travel</term>
+<term>Scrapbooks</term>
+<term>Sharpshooters</term>
+<term>Sioux Nation</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Sitting Bull, 1831-1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>North Platte (Neb.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12177.001"/>
+
+<head>THE HORTICULTURAL EXHIBITION.</head>
+
+<head>THE DISTRICT RAILWAY GUIDE.</head>
+
+<div2>
+<p>WE have to hand a copy of the above, which is one of a popular series of guides published by Messrs. A. Boot and Son, of 24, Old Bailey, London, and is a complete and comprehensive record of every department of London's great International Exhibition. No visitor to the exhibition can afford to be without it. It is profusely illustrated, ably edited, well printed, and contains thirty-four pages of exhibition matter, including a plan of the District Railway, miniature map of London, useful details on how to reach the exhibition and Buffalo Bill's Wild West from all parts, and an admirable outline plan of the exhibition and grounds, with a numbered list of references. The illustrations were specially taken on the spot by an eminent artist. The price of the guide is two-pence, and is the cheapest and best guide to the exhibition published. For the information of readers we reproduce a few paragraphs which will at once show the racy style in which the guide is written.</p>
+</div2>
+<div2>
+<head>THE HERO OF THE WILD WEST.</head>
+
+<p>The stamp of vigour and daring is impressed unmistakably upon the personality of Buffalo Bill; and it is not easy to conceive of a finer picture than that of this dashing athlete, with his broad hat, long flowing hair, and a courtly grace of manner with which only Nature can endow one to perfection; this manly Knight of the Plains, straight as an arrow, firm of muscle, and keen of vision, who, indeed, is a typically excellent representative of the true American frontiersman, and under whose practised eye these pictures of Life in the Wild West are produced with as close an approach to reality as the seven-acre triangle to which they are limited will allow.</p>
+
+<p>What would Buffalo Bill, however, be without his steed? History records the names of several quadrupeds whose services to him are held in affectionate remembrance; "Old Buckskin Joe," "Brigham," "Tall Bull," "Powder Face," and "Stranger." When the first-named animal became blind, his generous master allowed him to enjoy his well-earned repose at his own comfortable home in North Platte; and, when he died of old age in 1882, a decent funeral was accorded to him, and a tombstone erected over his remains with the inscription: "Old Buckskin Joe, the horse that on several occasions saved the life of Buffalo Bill, by carrying him safely out of the range of Indian bullets." "Old Charlie," who had attained the age of twenty years, died at sea in 1888. He was represented as one of the surest-footed animals ever ridden by man; and his endurance was attested by the fact that on one occasion he carried his master, over a prairie road, one hundred miles in nine hours and forty-five minutes, rider and trappings weighing two hundred and forty-three pounds. This faithful companion and friend, whose intelligence had been developed by the closeness of the relations necessarily subsisting between master and horse, was never known to object to the imposition of any load upon his back; one of his feats was the carrying of five hundred pounds of buffalo-meat. But he stood upon his dignity; he would not submit to unworthy treatment. If a collar was put round his neck and harness on his back, he simply declined to pull an ounce; and, if not speedily relieved of these unwelcome incumbrances, the Kentucky veteran had a way of viciously resenting the attempted degradation.</p>
+
+<p>Between the Cowboy and the Vaquero the distinction is but slender; the former usually being an American, and the latter representing the stock of the Mexican or, it may be, of the half-breed. As to work, the methods of the two are similar. The Vaquero, however, when off duty, is consumed with a passion for gaudy habiliments&#8212;richly embroidered jackets, sashes of blue or red silk around his waist, from which protrude a pair of revolvers, and buckskin trousers slit from the knee to the foot and ornamented with rows of brass or silver buttons; enormous spurs with jingling pendants completing the dandy costume. His saddle is of the pure Mexican type, with high pummel, whence depends the inevitable lariat, which in his hand is almost as certain as a rifle-shot.</p>
+</div2>
+<pb facs="wfc.nsp12177.002"/>
+
+<div2>
+<head>THE HEROINE OF THE SHOW.</head>
+
+<p><persName xml:id="oakley.a">Miss Annie Oakley</persName> was born at Woodland, Ohio, in 1866. This young lady, we learn, has had an inherent love for firearms and hunting ever since she was a toddling child. At the age of fourteen she paid off a mortgage on her mother's homestead with money earned from the game shot and the skins trapped by herself alone. Such was the accuracy of her aim with the rifle that she was not allowed to enter for the turkey matches which were the popular holiday amusement in that part of the country. <persName xml:id="sitting.bull">Sitting Bull</persName>, the great Indian chief, after once seeing her shoot at St. Paul, Minnesota, adopted her into the Sioux tribe, and bestowed upon her the title of Watanya Cicilla, which, being interpreted, means "Little Sure Shot." Among her numerous notable exploits was (in 1885) the feat of shooting 5,000 balls in one day, using three 16-gauge hammer guns, and loading them herself, the balls being thrown from three traps at 15 yards' rise. Out of the total number she succeeded in breaking no fewer than 4,772; in the second thousand missing only sixteen; thus making, it is said, the best 1,000 ball record. A splendid collection of prizes and medals signalises the eminence of Little Sure Shot; who, by the way, achieves surprising results in shooting backwards, a small mirror, of course, aiding her vision.</p>
+</div2>
+<div2>
+<head>THE MYSTIC MAZE.</head>
+
+<p>The Floral Maze, to which is affixed the curious title of Crysdae-Gon, demands a special paragraph all to itself. The suggestion of the brilliant idea is ascribed to Z&#230;o, who made discovery of the fact that the triple toilet-glass was capable of multiplying figures to an infinite extent. Both the exterior and the internal decorations are of the Egyptian order. The maze itself covers an area of forty feet by thirty feet; but by truly remarkable contrivances it seems to extend itself over several acres. A passage lined on each side with mirrors conducts to a room which is hexagonal, octagonal, or triangular, according to the exact spot on which the visitor stands; and by a singularly artful disposition of the mirrors the passage is multiplied a hundred-fold when one is in the inner chamber, while a couple of friends are presented in overwhelming numbers. As the proprietor of this perplexingly attractive institution well says, "you bring your own company with you." [Sydney Smith once upon a time, observing the reflection of his portly figure in a room furnished with numerous mirrors, protested that he at first thought it represented a meeting of the clergy.] This multiplication takes place also at the grottoes called the Owl's Cave and the Palm Grove; the pillars of scarlet velvet in the central hall, together with the floral decorations; being mirrored <hi rend="italic">ad infinitum</hi> with striking effect. Immediately upon entering the passage, Puck is observed, in his capacity as the Mysterious Guide, beckoning the visitor to follow him; but the pursuit is fruitless. You find yourself again and again confronted with mirror after mirror defying progress. The Floral Maze is a delightful novelty, and is well entitled to the credit of being " a mystical illusion unparalleled in the history of optics."</p>
+
+<p>In conclusion, our advice to the fruit grower is, buy a copy of this guide and go to the show&#8212;see Buffalo Bill's Wild West, see the sensational episodes of the great arena, see the sharpshooters, the emigrants, the bucking horses and their daring riders, see the cowboys, the Indians, and last, but not least, go if but to hearken to the weird plaintive chant of the squaws of Buffalo Bill's Wild West.</p>
+
+</div2>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

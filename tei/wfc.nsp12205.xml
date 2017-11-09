@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12205">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">International Horticultural Exhibition at Earl's Court</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12205</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">International Horticultural Exhibition at Earl's Court</title>
+<title level="j">Daily Chronicle</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-02">June 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.041.06 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Caucasus</term>
+<term>Cossacks--Ukraine</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Dance</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>France. Arm&#233;e. Garde r&#233;publicaine de Paris</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Pony express</term>
+<term>Scrapbooks</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Byron, George Gordon Byron, Baron, 1788-1824</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12205.001"/>
+
+<head>INTERNATIONAL HORTICULTURAL EXHIBITION AT EARL'S COURT.</head>
+
+<p>The party of Cossacks from the Caucasus, invited to join Buffalo Bill's Wild West entertainment in the arena of the Earl's Court Exhibition, yesterday afternoon made their first appearance, and served to divide the American show into two parts without occasioning any break in the proceedings. It is stated to be the intention of Colonel Cody and <persName xml:id="salsbury.n">Mr. Salsbury</persName> to draw contingents of races famous for horsemanship from all parts of the world, so as to make a grand gathering at the Chicago Fair. The Cossacks number nine, independently of their commander, Prince Ivan Makharadze, and the whole are officially announced to have descended from the community of the Cossacks of the Ukraine, described by Byron in "Mazeppa." Frontier disturbances through many generations have made these Cossacks remarkable riders. Some of their feats are similar to those of Buffalo Bill's cowboys, though executed after a different fashion. Perhaps their movements on horseback are more noteworthy than those of the Americans, inasmuch as they never seem to discard thick yellow-brown coats that descend to within an inch or two of their heels, and almost completely cover their blue baggy trousers. Whilst urging their horses at full speed they sometimes swing themselves parallel with their horses' sides, holding on, as it were, by the heels, and with apparently the greatest ease pick small articles from the ground even when the steeds are at the fastest gallop. Two or three of them also have a fancy for riding backwards. They form a picturesque display when entering at a trot, and when, with sabres cleaving the air, their evolutions terminate with a wild charge. Except that the Prince wears a cloak of reddish, instead of yellow-brown, there is not much difference in the costume of chief and followers. This Prince leads off a series of native dances, gone through with much agility, and recalling the "breakdowns" in vogue in burlesque at the English theatres a few years back. Those who for the moment are mere lookers on contribute a monotonous chant, and mark the time by clapping of hands. The Cossacks are decidedly an interesting addition to Buffalo Bill's show, and are brought in without curtailment of any other feature. The Indian attack on the emigrant train, the attempt to stop the <rs xml:id="coach.deadwood">Deadwood mail coach</rs>, the raid on a settler's cabin, the pony express, the Indian encampment, the buck-jumping, the races, and the sharpshooting are maintained in their integrity, and duly prefaced by remarks from the "orator." This gentleman, perhaps entertaining the belief that, as <persName xml:id="burke.j">Mr. Burke</persName> had taken a few of the cowboys and Indians in a brake to Epsom, all his listeners were anxious to know the result of the great race, at a quarter past four suspended his observations on the peculiarities of the Wild West in former days to make the announcement that Sir Hugo had won the Derby of 1892. Each branch of the exhibition, of course including the performance of the Garde R&#233;publicaine, is proving a great success. Last week the visitors totalled over 106,000, of which number 32,000 attended on Saturday.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

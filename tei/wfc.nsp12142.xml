@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12142">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [One day we journeyed to the Wild West]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12142</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Dragon</author>
+<title level="a" type="main">Untitled [One day we journeyed to the Wild West]</title>
+<title level="j">Horse &amp; Hound</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-21">May 21, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.033.06 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Horse racing</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Ponies</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Peterborough (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12142.001"/>
+
+
+<p>One day of the days we journeyed to the Wild West to see Buffalo Bill's wonderful show in Flowery Land, for we wandered through those lovely gardens till we surveyed Windsor Castle, the most marvellous bit of scenery ever painted. It looks as if we could gallop right up the long ride, that we know so well, through the great park to the Castle. In the gardens is a magic maze designed by Yeo, where wanderers are puzzled by multiplication mirrors, so that no one knows exactly where he or she is after one turn round. This system should be adopted by tailors, so that their clients might see themselves all ways at once. If Walding had it at Rugby, a huntsman trying on a coat would fancy himself the whole Peterborough Show, and we <hi rend="italic">should</hi> like to see the effect on anyone who has "got 'em." How frightened he would be, and ever more stick to cold tea.</p>
+
+<p>We had comfortable luncheon at Messrs. Bertram and Roberts' and a cigar in the grounds; then to Buffalo Bill's, and his cowboy band kept us entranced till the show began. The Grand Processional Review was interesting, and the Hon. Colonel W. F. Cody, on his grand old white horse, received an enthusiastic welcome. It does not seem like five years since he was here before, and <persName xml:id="oakley.a">Miss Annie Oakley</persName> looks no older, and still shoots as well as then. The attack on an emigrant train by Indians and rescue by cowboys is vigorous as ever, so is the cowboy fun with bucking ponies, and there is no humbug about this, as anyone might find out by trying on the same game. We should like very much to see this same performance on our common, and just see if those little brutes would go when once settled down. The race over fences by international riders was curious, as all were mounted on hunter-like animals. The old <rs xml:id="coach.deadwood">Deadwood Coach</rs> still hangs together as a very interesting relic, and the scene of attack is realistic, with much hard galloping and sharp shooting, that arouses much enthusiasm, and when we see Buffalo Bill, on a fine horse, shooting at balls and never missing one, standing or galloping, we know that we are watching a man whose life has often been saved by the same, and he rides down the buffaloes just to show how it is done. The attack of the settlers combined and repulse of the Indians by cowboys brings the show to a close with great excitement, and at five o'clock everyone feels that he or she has had a real good show for the money, and, moreover, an educational show that no mock company could ever produce, for these men have all been through such scenes in reality, and a very stern reality too.</p>
+
+<p>We finished up that evening at the Ship and Turtle, where Painter still cooks the aldermanic food, and, after dinner, with punch and Piper Hiedsick, we went down to the smoking room, where the living turtles swim about in their tanks, awaiting their turn into soup and callipash and callipee for upstairs. Next week we shall be able to tell of an eastern pack if all is well, so you shall from ...  DRAGON.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

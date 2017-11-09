@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12163">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">What It Costs to Work the "Wild West"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12163</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">What It Costs to Work the "Wild West"</title>
+<title level="j">Tit-Bits</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-28">May 28, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.036.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Advertising--Costs</term>
+<term>American bison</term>
+<term>American Indians</term>
+<term>Business enterprises</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Food service</term>
+<term>Groceries</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Operating costs</term>
+<term>Scrapbooks</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>Wages</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12163.001"/>
+
+<head>WHAT IT COSTS TO WORK THE "WILD WEST."</head>
+
+<p>A REPRESENTATIVE of <hi rend="italic">Tit-Bits</hi> has recently been spending a day amongst the cowboys and the Indians at the "Wild West," wandering about the tents, peeping into the open-air kitchens, and watching our copper-coloured friends enjoying their meals. Our representative was anxious to find out exactly what it would cost, supposing he wanted to start a "Wild West" of his own; and a chat over a genuine green cigar with <persName xml:id="salsbury.n">Mr. Natt Salisbury</persName>, who is "Buffalo Bill's partner," soon revealed the whole secret.</p>
+
+<p>"You would want &#163;30,000 as a start," said Mr. Salisbury, "and, as you are probably inexperienced in the business, it would take you a year to get all your people and animals together. We could do it in three weeks by cable. Here are a few statistics. You would need 300 people&#8212;Indians, cowboys, Mexicans, etc., and be prepared to pay &#163;1,500 a week in wages. As a matter of fact we pay all our wages monthly. The Indian chief gets &#163;20 a month and all keep, the cowboys &#163;16 to &#163;24 a month and food, and so on. You would have to bring them across the herring pond. A whole vessel would be wanted, and your passage ticket would cost you &#163;6,230.</p>
+
+<p>"In addition to your men there are the animals&#8212;198 horses, including 34 bucking horses, 22 buffaloes, etc. The horses average out in price at 18 guineas a piece;  the best buffalo is worth &#163;350. What is a bucking horse? I am glad you asked me that, because the popular idea of what a bucking horse really is, is radically wrong. People think they are wild horses&#8212;nothing of the sort. They are badly broken-in horses, and now nothing can possibly remedy the injury done in the first process of 'breaking in.' You can't break them now."</p>
+
+<pb facs="wfc.nsp12163.002"/>
+
+<p>Just at that moment the resident doctor of the camp came in. He told us that he once tired to break in a load&#8212;sixteen&#8212;of bucking horses. He succeeded in breaking two of them. They broke their necks! A thorough out-and-out, fiery, untamable bucking horse is worth &#163;500 to any show.</p>
+
+<p>"You must advertise," continued Mr. Salisbury; "we keep forty men out posting. In six months we shall have spent &#163;150,000 to &#163;175,000 in advertising. The bills on the London hoardings just now cost for printing alone &#163;8,000, and we have 80 tons of placards in the stores ready for immediate use. Powder and shot? Yes; we make all the glass balls which are shot at on the premises. From 42,000 to 45,000 are wanted every month. The shot and powder bill amounts to over &#163;100 a week. A first-class exhibition 'shot'&#8212;either man or woman&#8212;is worth &#163;75 a week.'</p>
+
+<p>"Any other expenses?" we asked quietly, now somewhat damped in our intentions of starting our own little "Wild West."</p>
+
+<p>"Oh! yes," was the reply. "There's the cost of a thousand loads of cinders to put down on the ground. You would have to buy 300lb. of paint to put on your big canvas scene at the back, and by-the-bye, there is the canvas for over 40 tents in which your company sleep. Of course you would not want to stay in the same place for good, so if you cared to make a railway journey to another spot with your show, just book 95 carriages and waggons. Take your own portable grand stand&#8212;that costs &#163;5,000."</p>
+
+<p>The <rs xml:id="coach.deadwood">Deadwood coach</rs>, which used to carry the treasure and the mails across country in America&#8212;before railways and telegraph wires were brought about&#8212;is a conspicuous item at the "Wild West." Sixteen men have been killed in its defence, but it still rambles along. It was originally bought by Buffalo Bill for fifty shillings; &#163;2,000 would be refused for it to-day.</p>
+
+<p>"But come along," said Mr. Salisbury, "you will just be in time for supper," and as we walked towards the great dining tents, we learnt that the camp is conducted on military lines. The show itself only takes two days to rehearse, and the Indians are the best supers in the world at rehearsal, because they never need telling more than once when they have to do anything.</p>
+
+<p>Look in at the kitchen. The great meat pies are made in tins exactly a yard square. Four hundred pounds of meat, 400lb. bread, 25lb. butter, 350 squares of tart as big as your hand are daily wanted. The Indians are very fond of golden syrup&#8212;100 pots are asked for every week, with 75 pots of jam. When cooking chops for supper a start has to be made two hours before. Just at the moment there are 200 steaks and 150 pork chops fizzling away in the great pans. Mention must be made of a daily consumption of 110 quarts of coffee, 125 quarts of tea&#8212;Indians like tea&#8212;and 150 quarts of milk. At breakfast 150lb. of bacon will be fried with 120 dozen eggs. There is a big run on fried eggs and bacon, as these figures will show.</p>
+
+<p>There are two dining tents; one seats 130 and the other 160 people. The Indians partake of their meals just the same as a civilized being; they use their spoons, knives, and forks admirably. It is a wonderful sight to see them at their steaks and chops, and those of our readers who are in the camp any evening as the clock is chiming six should endeavour to get a peep at them.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

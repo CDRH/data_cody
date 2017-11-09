@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12164">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Fairyland at Earl's Court</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12164</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Fairyland at Earl's Court</title>
+<title level="a" type="sub">Flowers, Music and the Wild West Show&#8212;The Garde Republicaine</title>
+<title level="j">The Morning</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-28">May 28, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.036.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>France. Arm&#233;e. Garde r&#233;publicaine de Paris</term>
+<term>Historical reenactments</term>
+<term>Indians of North America</term>
+<term>Music</term>
+<term>Musicians</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12164.001"/>
+
+<head type="main">FAIRYLAND AT EARL'S COURT.</head>
+
+<head type="sub">Flowers, Music and the Wild West Show&#8212;The Garde Republicaine.</head>
+
+<p>Many fairlylands have been constructed in prose and poesy, but none of them are to be compared to the fairyland at Earl's Court. There are two fairylands there, one by day, the other by night. Which of them is the more wonderful and delightful is a matter of taste, but certain it is that none who visit Earl's Court while the sun is on duty at this side of the world fail to spend as many hours as possible there when the stars twinkle. A great part of the huge building that has been the home of so many exhibitions is now a garden that nature in her most generous mood has never produced without assistance. The world has been rifled to make a floral paradise. Under the same roof are, to use an enthusiast's description, all the flowers that grow. Palms and ferns that tell of tropic climes bend gracefully over flowers and shrubs that thrive where frost and snow are annual visitors. Gardens of all periods and nearly all countries, some of them marvellous for accuracy of detail, and all of them charming, are but features of the great flower show that will attract an immense addition to the many thousands who now visit Earl's Court daily.</p>
+
+<p>In the open the prospect is quiet as beautiful. All Londoners know the spacious grounds. This year they are lovelier than ever. They are sufficient of themselves to attract, but when in addition to so much that is pleasing to the eyes provision has also been made for the ear, and with equal taste there is nothing left to desire, at least nothing that cannot be obtained at the Horticultural Exhibition, and the Wild West Show. The musical feature at present is the band of the Garde Republicaine, which made its bow before an English audience on Wednesday evening. It numbers 80 musicians and has a <hi rend="italic">repertoire</hi> almost too large to exhaust during its stay here. Its playing was enthusiastically applauded last night. The band of the Grenadier Guards has also been secured, so that nothing more in the way of music is to be desired. By day the grounds are lovely; by night&#8212;and last night they were crowded&#8212;they are wondrously [be]autiful.</p>
+
+<p>But there is even more to be seen at Earls Court. There is the Wild West Show, for the latter and the Horticultural Exhibition are one, so far as the public and the shilling are concerned. Everybody goes to the Wild West show, and is amazed and amused. The scenes of Wild Western prairie life as there depicted are true to life, and many of the actors in them have participated in the real article, when a blank cartridge would have been an aggravation. In fact, it is hardly possible that either an Indian or a cowboy in the show ever saw or handled a blank cartridge until Europe was visited. The bucking bronchos are still one of the prime features in the show. Strong men have been known to shed tears in the boxes and reserved seats as they gazed upon the bucking broncho in his tussle with the gentle but determined cowboy. Every detail of the Wild West is now perfect. The new Indians have grown accustomed to the fog, although it has turned some of the tenors into basses. The recently imported bronchos have also settled down to their work with the nonchalance so characteristic of the breed, and, 'tis said, some of them are able to buck as well as the professionals. The Indian's encampment is still a source of curiosity for the average visitor, and if the Indian weren't made of wood, from his upper lip to his eyebrows, he would often be stared out of countenance. </p>
+
+<p>It is possible that there would have been some more people at the show last night had there been any more seats, but Colonel Cody had only ten thousand of these.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

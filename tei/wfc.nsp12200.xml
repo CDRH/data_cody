@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12200">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Cossacks and Wild Westers</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12200</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Cossacks and Wild Westers</title>
+<title level="j"></title>
+<pubPlace>London, England</pubPlace>
+<date when="1892">May-June 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.041.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>American Indians</term> 
+<term>Caucasus</term>
+<term>Circassians</term>
+<term>Cossacks--Ukraine</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Don Cossacks</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Georgians (South Caucasians)</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Lancers</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Byron, George Gordon Byron, Baron, 1788-1824</term>
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Kuban River (Georgia and Russia)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12200.001"/>
+
+<head>COSSACKS AND WILD WESTERS.</head>
+
+<p>IN pursuance of their intention to assemble together at the Chicago Fair, a congress of the horsemen of the world, Messrs. Cody and <persName xml:id="salsbury.n">Salsbury</persName> have commenced to form the nucleus of the same, as will be seen by the arrival and appearance in conjunction with the Cowboy, Mexican, Indian, Vaquero, etc., at Earls Court, of a band of genuine Cossacks from the Caucauses. </p>
+
+<p>As the season advances apace, the plot of interest thickens progressively, for the crowds who assemble daily to enjoy the attractions of the Earl's Court International Horticultural Exhibition, and Buffalo Bill's Wild West.</p>
+
+<p>Cossacks in the picturesque garb of the Caucasus is the latest acquisition of the Wild West. They are a troop of "Cossacks of the Caucasian Line," under the command of Prince Ivan Makharadze.</p>
+
+<p>The Prince and his comrades, it is interesting to the British public to know, belong to the same branch of the great Cossack family, the Zaporogians, immortalized by Bryon's "Mazeppa," Mazeppa was the hetman, or chief, of the Zaporogian community of the Cossacks of the Ukraine.</p>
+
+<p>When Byron's famous hero came to grief at the Battle of Poltava, the Cossacks fled to the Crimea, then Turkish territory, to avoid the vengeance of Peter the Great.</p>
+
+<p>Subsequently they were deported to the Kuban, and settled along the river as military colonists, to defend the Russian frontier against the marauding tribes of the Caucasus.</p>
+
+<p>On this dangerous frontier the qualities of horsemanship that made the name of Mazeppa and his warlike followers household words throughout the whole of Europe, became still further developed in the following generations, so that the Kuban Cossacks quickly became in many respects the most remarkable riders in the world.</p>
+
+<p>On their lithe, steppe horses, as fierce and active as themselves, they proved themselves more than worthy of their sires. During the heroic struggle of the Circassian mountaineers to maintain their independence against Russia, the sons of Mazeppa's Zaparogians were found to be the only Cossacks sufficiently skilful to cope with Schamyl's wild mountain-horseman on equal terms. The Don Cossacks were lancers, and the Circassians quickly learned to dodge within their guard, and cut them down, they being among the most expert swordsmen in the world.</p>
+
+<p>But the descendants of Mazeppa's Cossacks were equally expert with the sword, and so in the matter of arms, as of horsemanship, met the enemy on equal terms. For many years the Cossacks of the Caucasian line were engaged in perpetual border warfare with the Circassian tribes. Their fighting was a series of little cavalry combats, surprises, and raids, similar to the American Indian frontier wars, the finest school for the development of military horsemanship the world has seen since the days of Saladin and Coeur-de-Leon. Graduates from this fierce, wild school of saddle and sabre, the Cossacks of the Caucasian line have long enjoyed the reputation of being the flower of that vast horde of irregular cavalry, the Cossack military colonies, that have been planted along the southern frontier of the Russian Empire from the Crimea to the Chinese border of the Pacific.</p>
+
+<p>Circassian blood plainly crops out in the Cossacks of the Buffalo Bill Wild West arena. Indeed, some of them look the Circassian, even more than the Cossack. The infusion of Circassian, Georgian and Mingrelian blood, began with stirring drama of strife and romance in the days of Schamyl. Part of the policy of Russia was the suppression of the trade in Circassian beauties for the harems of Turkey, then carried on in small Turkish vessels in the Black Sea. A Cossack coastguard service was organized for the service, consisting of fleets of row-boats concealed in the creeks and inlets of the Caucasian coast, whence they could pounce out on the slave ships.</p>
+
+<p>The vessels usually contained from forty to fifty Circassian, Georgian, and Mingrelian slave-girls, lovely creatures selected for the harems of the Sultan and the wealthy Pashas of Constantinople. The slaves thus captured were given to the Cossacks of the Kuban for wives; hence the sons and daughters of Schamyl's fierce opponents are as much Circassian as Cossack. The combination is a "strain" of horsemanship that has produced startling and unique results in the form of riders capable of really marvellous feats of a kind never before seen outside of Russia. Visitors to the Wild West who have marveled at the skill of the Indians and the Cowboys, with the bucking mustangs will marvel anew at the striking performances of these descendants of the famous "Mazeppa."</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

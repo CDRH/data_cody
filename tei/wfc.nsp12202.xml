@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12202">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Cossacks at Earls-Court</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12202</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Cossacks at Earls-Court</title>
+<title level="j">London Evening Standard</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-02">June 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.041.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cossacks</term>
+<term>Dance</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Georgians (South Caucasians)</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Russia</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Weapons</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Byron, George Gordon Byron, Baron, 1788-1824</term>
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12202.001"/>
+
+<head><hi rend="italic">COSSACKS AT EARL'S-COURT.</hi></head>
+
+<p>To the many attractions at Earl's-court has been added a band of Cossacks. The name has so many thrilling and romantic associations that its representatives cannot fail to be valuable auxiliaries. They are described as a troop of the Caucasian line, a branch of the Zaporogians, of whom Byron's hero Mazeppa was hetman or chief. In personal appearance they bear a close resemblance to Russians, though they are of more slender make, and their features are more handsome and expressive. As types of the light-armed cavalry that guard the southern frontier of Russia, and have made the name of a race of people synonymous with that of a desperate foe and a dashing soldier, they may be accepted without reserve. Their skill is of the kind that can be attained only by men who are accustomed to fight in small bodies, and always with a rush. Their horses are small, and, although tough and well broken, are but little adapted for regular movements. In this respect they are in contrast even with the Mexican and Indian riders, who do not number precision of movement in large bodies among their many marvellous qualities as horsemen. The Cossacks are, therefore, not to be viewed with the same eyes as a troop of Household Cavalry upon parade. Perhaps it is this want of civilising uniformity that makes them so picturesque. When they entered the arena at a hand-gallop, and drew rein behind a group of Indian and Mexican horsemen, a shout of applause went up from the crowded galleries. Their appearance is striking rather by reason of its unfamiliarity than because of any intrinsic qualities. They do not wear the short Polish vest, wide blue trousers, and black sheepskin cap that one usually attributes to a Cossack. Their coats are of several shades of ruddy brown, close fitting as far as the waist, and ending in flowing skirts, lined with material of a different hue. Their trousers are black, and are encased in long leather boots, while their caps consist of a narrow circle of light astracan round a piece of cloth of the same colour as their coats. Nor do they wield the ten-foot lance which we are accustomed to see fastened to the foot, the arm, or the pommel of the saddle. In lieu of that formidable weapon they carry a short sabre and the "natraika," or whip of twisted leather, which they sometimes apply to the enemy's back as well as to that of their chargers. Thus armed, and in this guise, they executed a series of movements and performed several feats calculated to display their wonderful daring and skill. The spirit, speed, and activity of their horses were put to severe tests by their commander, Prince Ivan Makharadze, while their own keenness of eye and rapid certainty of movement were proved by several exploits. Astonishing as were these performances, they were perhaps less interesting to the spectators than the dance with which they were opened. The men, having dismounted, stood in line, singing what to Western ears sounded like a doleful wail, which even the London County Council might sanction on Sundays. But perhaps the rhythm was not in the voice so much as in the clapping of the hands that kept time, for one after another did the Cossacks dance a solemn dance upon heels and toes. It was a stately dance, though the movements were too much confined to the lower extremities to excite anything more than wonder and amusement. With this novel addition to an entertainment already rich in the sensational and picturesque, The Wild West must continue to draw large bodies of spectators.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

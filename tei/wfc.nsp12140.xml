@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12140">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12140</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [A show of international horsemanship]</title>
+<title level="j">London Evening Standard</title>
+<pubPlace>Kensington, London, England</pubPlace>
+<date when="1892-05-21">May 21, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.033.04 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Cossacks--Ukraine</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Don Cossacks</term>
+<term>Exhibitions</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Kuban River (Georgia and Russia)</term>
+<term>London (England)</term>
+<term>Paris (France)</term>
+<term>Terek River (Georgia and Russia)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12140.001"/>
+
+<p>A show of international horsemanship means "good business." This is the latest idea of BUFFALO BILL, and nobody is so well fitted to carry it out. Horsey men the world over are "kittle cattle," hard to lead and harder to drive, full of tricks and tempers. Where a dozen "representative riders" are gathered to compete, Turks, heathen, heretics, and black people, there the spirit of mischief will have its home for the time being. But if any mortal can manage a few scores of them BUFFALO BILL is he. Already the Cossack contingent has reached Paris, personally conducted by a real Prince. We may confidently hope that these will prove to be picked specimens of the race, each big enough&#8212;and ugly enough&#8212;to cut up three of the most stalwart cowboys. But Cossacks of the old stock, from the Don and Ukraine, are too good-tempered to eat anybody&#8212;unless the exigencies of war demand it, of course. Those of the Terek and Kuban are not so trustworthy, perhaps. But beyond the look of the thing it is not easy to understand what these international horsemen are going to do. None of them, we venture to say, except Australian stock-riders, can compete with BILL'S cowboys in the ring. Their merits are different. If it were possible to collect a few Sulu pirates, we should have something original. From all accounts, these ruffians are not less gallant and wonderful on a horse's bare back than on a stormy sea. Rajah BROOKE was a fine rider. But he, with saddle and bridle, found himself nowhere beside the Sulu centaurs.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

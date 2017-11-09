@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12203">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Cossack Invasion</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12203</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">A Cossack Invasion</title>
+<title level="j">Daily News</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-02">June 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.041.04 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Caucasus</term>
+<term>Circassians</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Dance</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Games on horseback</term>
+<term>Georgians (South Caucasians)</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Russia</term>
+<term>Scrapbooks</term>
+<term>Translators</term>
+<term>Traveling exhibitions</term>
+<term>Weapons</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12203.001"/>
+<head>A COSSACK INVASION.</head>
+
+<p>A new attraction is now added to the International Horticultural Exhibition at Earl's Court. Though Buffalo Bill's Cowboys and Mexicans are such expert horsemen, they will have to look very closely to their laurels now that the little band of Cossacks (ten in number), under Prince Ivan Makhavadye, have joined the troupe. These Russian horsemen are descended from the same family as the famous Mazeppa, and through being employed for several generations by the Russian Government to protect the frontier against the Circassian tribes, they have become the most remarkable riders in the world. When they made their appearance before an English audience yesterday afternoon, they were handicapped by having to ride the horses belonging to the cowboys, their own being on the sick list at present. The men are of middle height, bearded, and clothed in a long brown overcoat and leggings. They carry long curved swords and have a brass-mounted pistol stuck in their belts behind. Their saddles are of the Arab pattern, with pads above and below the seat. They came sweeping round the arena, headed by their leader, with drawn swords, and singing a wild chant. Then dismounting, some treated the spectators to one or two of their native dances, the rest standing by, singing and clapping their hands as an accompaniment. Mounting again, and riding as hard as the horses could go, they, while in full career, picked up various articles from the ground&#8212;such as whips, handkerchiefs, &amp;c.; while another varied the entertainment by riding on his head. Next came a Cossack game. A man put a white handkerchief on his back and galloped off, followed by the others, each trying to snatch it away and wear it. It seems to be a matter of indifference to these hardy horsemen whether they ride with their face towards the horse's head and tail; one of them going as fast round the tan in this decidedly novel mode as the others. The entertainment concluded with a dashing charge, and when the Cossacks get their own cattle under them again they will probably exhibit feats more wonderful still. As it is, the killing pace tells somewhat on the Wild West horses. The Cossacks do not ride with a curb, but have their steeds well under control nevertheless, pulling up, and turning about with almost mechanical precision. Not being able to speak English, the visitors have brought an interpreter with them, who speaks English, French, Russian, and Tartar. A romantic, though pathetic, interest attaches to this man. He is a native of Manchester, and is named Thomas Oliver. His parents came to London when he was five years old, and joined Manley's circus, then starting for the Caucasus. By some accident he got left behind at Tiflis, and has since earned his living amongst the various circuses travelling in that part of the world, Russians being extremely fond of that kind of amusement. He now returns to his native land after an absence of eighteen years. He is trying to find his parents, but knows nothing about them beyond the fact that his mother's name was Mary Lizzie and that he had a sister. That the Wild West are adopting our manners and customs may be gleaned from the fact that <persName xml:id="burke.j">Major Burke</persName> and a party of cowboys and Indians drove a four-in-hand to the Derby, while the success of the exhibition may be inferred from the fact also that during the whole of last week 106,000 people visited it, Saturday, the last day of the great flower show, claiming 32,500.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

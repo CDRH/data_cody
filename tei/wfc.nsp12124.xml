@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12124">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The International Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12124</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The International Horticultural Exhibition</title>
+<title level="j">City Leader</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-14">May 14, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.031.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>American bison</term>
+<term>American Indians</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Cowboys</term>
+<term>Electric lighting</term>
+<term>Exhibitions</term>
+<term>Firearms</term>
+<term>Flags--Great Britain</term>
+<term>Flags--United States</term>
+<term>Flora</term>
+<term>Gauchos</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Monarchy--Great Britain</term>
+<term>Nobility--Great Britain</term>
+<term>Pony express</term>
+<term>Rifles</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Scrapbooks</term>
+<term>Sioux Nation</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Baker, Johnny, 1869-1931</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brompton (London, England)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12124.001"/>
+
+<head>THE INTERNATIONAL HORTICULTURAL EXHIBITION.</head>
+
+<p>GIVEN fine weather the latest Exhibition bids fair to be as great a success as have been some of its predecessors. The "floral paradise," as it has already been designated, was formally inaugurated on Saturday last under the most favourable circumstances. The weather was charming, and the presence of Royalty at the opening ceremony drew together a large gathering of notables and a crowd of representatives of the rank and fashion of the country. It says much for the activity and earnestness of the promoters of the Exhibition that when His Royal Highness the Duke of Connaught arrived on the scene at about half-past twelve on Saturday he found that the Exhibition was practically complete. There were no waste spaces as in former years, but the whole of the fine building and spacious grounds presented a mass of beauty and bloom which was most agreeable to the eye and fragrant to the smell, beneath the glow of bright sunshine that prevailed:</p>
+
+<p>Having gone through the formality of declaring the exhibition open, H.R.H. and the Royal party were conducted through the building, and had an opportunity of inspecting the beautiful landscape garden under cover, which had been laid out at the upper end. The beds had been filled with charming examples of the horticultural art from the nurseries of Messrs. Williams, Turner, Cutbush, Lane, Koster, Waterer, Laing, Lee, and Phippen. These beds were laid out in charming undulations, with winding gravel walks and long borderings, and the exquisite display of azaleas, lilies, roses, pelargoniums, palms, ferns, foliage plants, and brilliant flowers commanded enthusiastic admiration. Passing on to the grounds the party found displayed for their gratification a series of Egyptian, Roman, Tudor, Jacobean, Japanese, Indian, and Italian gardens, all aglow with their distinctive floral characteristics and their special accessorial ornamentations. In the large space near the theatre a scenic reproduction of the Long Walk at Windsor was greatly admired, the work having been executed with so much skill as to give all the appearance of reality; indeed, it seemed as if it would be the most natural thing in the world to walk straight along the leafy avenues so skilfully depicted by Mr. Halley. The band of the Grenadier Guards and the Exhibition Band, forty strong, conducted by Mr. J. R. Wellington, discoursed sweet music while the people were promenading, and altogether the experience was a most animating one.</p>
+
+<p>At three o'clock most of the people assembled, crossed the bridge to the arena devoted to Buffalo Bill's Wild West Exhibition, which is on a scale much more extensive than on the occasion of Colonel Cody's former visit to London in the Jubilee year, five years ago. To begin with, there was a grand processional review in which the Indians, cowboys, Mexican vacqueros, scouts, and frontier amazons were introduced, the procession winding up with the entrance of the military representatives of the land of the stars and stripes and the country of the Union Jack. Buffalo Bill himself was enthusiastically received when he entered in the capacity of commander of this great body of equestrians. The programme gone through was of a most entertaining description, including horse races, the attack of the redskins on an emigrant train, the incident of the stopping of the <rs xml:id="coach.deadwood">Deadwood Coach</rs>, the burning of the settlers' cabin, the buffalo hunt, and the clever exposition of the pony express. <persName xml:id="oakley.a">Miss Annie Oakley</persName> won immense applause for her clever shooting, and the displays of <persName xml:id="baker.j">Mr. Johnny Baker</persName> and Colonel Cody, with their rifles, were also of a very marvellous description. The cowboys were, as formerly, well in evidence, and did some capital tricks, both on and off their horses, the buck-jumping items being received with much laughter and applause. The whole "show" is splendidly managed, and will in itself attract thousands to Earl's Court during the present summer season. The Indians include a large number of Redskins who were engaged in the last Sioux War, and the camping ground in the space near the West Brompton entrance will form an interesting gathering ground for visitors. At night the gardens are beautifully illuminated with variegated lamps, and brilliantly lighted up with an extensive electric installation, under the direction of Mr. A. H. Wood, the electrical engineer to the exhibition.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12181">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Sketches at the Wild West Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12181</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Sketches at the Wild West Show</title>
+<title level="j">The Queen</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-28">May 28, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.038.05 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Emigrant</term>
+<term>Exhibitions</term>
+<term>Ghost dance</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Indian children</term>
+<term>Indian dance--North America</term>
+<term>Indian women</term>
+<term>Indians of North America--Clothing</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Mexicans</term>
+<term>Mustang</term>
+<term>Pony express</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Scrapbooks</term>
+<term>Sharpshooters</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army</term>
+<term>Wild horses</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12181.001"/>
+
+<head>SKETCHES AT THE WILD WEST SHOW.</head>
+
+<ab><hi rend="italic">(See page 883.)</hi></ab>
+
+<p>BUFFALO BILL has returned to Earl's-court, the scene of his former triumphs in London, after a long European tour and the prestige of hazardous service successfully rendered by him on the field of battle. Colonel Cody won his spurs, all the civilised world knows, as a trustworthy scout attached to the United States army; and his presence on active duty during the Indian outbreak at Pine Ridge, Dakota, is of such recent occurrence as to need no further comment here. An added interest to the present Wild West Show lies in the fact that Colonel Cody is accompanied by twenty military hostages, Indians engaged in the late rising (by permission of his Government). There are between sixty and seventy Indians altogether, braves, squaws, and children, who take part in the present exhibition.</p>
+
+<p>The merits of the show rests solely upon its natural features, and not upon any artificial aids. The Indians are Indians in their warpaint and feathers, and the horses are the Mexican mustangs and "bronchos" of the plains, while the horsemanship is so undeniably good that a succession of visits does not pall upon the spectator. </p>
+
+<p>Our sketches severally illustrate some of the more remarkable incidents; for example, the mounting in hot haste of the Pony Express, showing the method by which letters and despatches of the republic were formerly carried across the vast American continent previous to the introduction of railways and telegraphs. Hunting the buffalo in the Far West, a scene of sufficient realism, considering these same buffaloes are hunted twice a day; it is even possible they may enjoy it as a rough and tumble game, seeing that they do not get killed. Lassoing horses is another interesting feature. The war dance of the Red Skins; Lone Wolf, a Sioux chief; a cowboy on a "bucking" horse; and Colonel Cody himself on his famous white horse, carrying his trusty rifle "Lucretia" across the pommel of his saddle, a characteristic habit of his when on duty in the field.</p>
+
+<p>In addition to these, there is the remarkable shooting of <persName xml:id="oakley.a">Miss Annie Oakley</persName>, whose expertness with the rifle is phenomenal; an attack on an emigrant train by Indians, which is decidedly picturesque; the capture of the Deadwood mail coach and subsequent rescue by Buffalo Bill and his Cowboys, and some clever sharp-shooting by the redoubtable Colonel himself. It is an exciting programme, admirably carried out, and well managed by all concerned. The whole party are encamped in the grounds adjoining the arena, and the Indians and their painted tents prove a never-failing source of interest to the visitors, who crowd the side walks of an afternoon after the exhibition is over.</p>
+
+<p>It can scarcely be said that the Indian braves have a good seat in the saddle, since they have no saddles at all, but ride bare-backed steeds with the greatest skill and certainty. The Cowboys, on the other hand, with their high-peaked Mexican saddles, show how nimbly they can swerve from their seats, when going at a gallop, to pick up an object from the ground.</p>
+
+<p>The Sioux chief "<persName xml:id="noneck">No Neck</persName>," a sedate-looking and yellow-skinned individual, appears in all the glory of the traditional eagle-feather headdress, what may possibly be accounted full dress <hi rend="italic">&#224; la barbare,</hi> and makes an imposing figure on horseback. Some of the younger men are painted from top to toe in brilliant yellows, flaming pinks, blue stripes, and pale greens, while their bodies are decorated with beads, feathers, bones, and flying draperies; all these, combined with their long, black streaming hair, makes an effective and picturesque tableau, as they come tearing across the vast arena at full gallop, or, when leaping from their horses, they group themselves in an immense semi-circle, and indulge in one of their remarkable dances. It will be remembered that it was the Messiah craze, and subsequent Ghost dance, that led up to, and fomented, the disatrous rebellion at Pine Ridge. It is not men alone who paint themselves, for the women are rouged, as well as the little children.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
