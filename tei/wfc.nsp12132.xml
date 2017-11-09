@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12132">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [The opening of the Horticultural Exhibition]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12132</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [The opening of the Horticultural Exhibition]</title>
+<title level="j">London and Provincial Entr'acte</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-14">May 14, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.032.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Exhibitions</term>
+<term>Nobility--Great Britain</term>
+<term>Orators</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Temple, Frederick, 1821-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12132.001"/>
+
+
+<p>The opening of the Horticultural Exhibition took place last Saturday, the 7th inst., in weather that seemed to give to the function a halo of effervescence. If the celebration had been measured for, it could not have been better fitted. And let me here say that the ceremony was conducted under happier auspices than have ever been enjoyed by its forerunners. The signs of unpreparedness which have marred every other opening-day at which I have been present, were not visible on Saturday. On previous occasions the building has more resembled a dock warehouse than an Exhibition; but at the ceremony under notice the public were not insulted by aggressive unreadiness; the flower-beds wore a luxuriant appearance, and if the crude colours of the scenic surroundings were not set off to advantage by the contrast of natural tints of their floral neighbours, victory went to the most deserving side; the flowers proved the winners.</p>
+
+<p>There was not much in the inaugural ceremony, and the Duke of Connaught had to turn his back to his audience temporarily so as to fall in with the conditions demanded by the photographer. But the public didn't mind; they would rather have a Royal back than the front of an untitled Exhibition opener. Messrs. Bertram and Roberts provided a capital luncheon. The Bishop of London was laid on to give a respectable, even churchy, tone to the scheme. Speaking with a strong West of England burr, he proposed the toast of the day&#8212;viz., "Success to the Horticultural Exhibition." Mr. H. E. Milner spoke a few happy phrases in reply, and the luncheon was then practically over. The "Wild West Show" was subsequently adjourned to, and here Brigadier-General Cody put his forces through their various facings as of yore. The gentleman who officiates as Orator here is none other than Mr. <persName xml:id="clifford.h">H. M. Clifford</persName>, who is well known in dramatic and variety circles. Mr. Clifford is in possession of a fine voice, which well qualifies him for the chorus r&#244;le. Multitudes of visitors assembled during the day, and the opening celebration was an entire success. As I looked at the big crowd, I couldn't help expressing a hope, all to myself, that the engineers of the "Venice" show had by this time got back their outlay. If they have not done this, the task will be all the more difficult now that "Buffalo Bill" and his "Wild West" scheme of adventure is settled down close by.</p>
+
+<p>Very much better is it to do our best to healthily direct the inevitable than to make frantic and futile efforts to destroy it. Tilting at windmills may have its consolations, but it cannot be said to be fruitful of benefit either to the operators themselves or to the public.</p>
+
+<p>Those gentlemen who are seeking just now to make the dramatic sketch a contraband article at the music-hall are tilting at windmills. In their calculations they have ignored the public as a factor in the matter. They may parade their views and convictions with picturesque ostentation, but what will it amount to at the finish? Unless I make a great mistake, it will be found that the million declare in favour of the "sketch," and as the "sketch" does not sin against propriety, the "sketch" will not be interfered with.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
