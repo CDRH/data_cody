@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main"></title>
+<title type="main">Isaac Cody Good's Receipt</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -35,7 +35,7 @@
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
 <idno type="module"></idno>
-<idno type="project">wfc.</idno>
+<idno type="project">wfc.bsn00180</idno>
 <availability>
 <p></p>
 </availability>
@@ -46,15 +46,17 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main"></title>
+<title level="m" type="main">Isaac Cody Good's Receipt</title>
 <title level="j"></title>
 <pubPlace></pubPlace>
-<date when="1000"></date>
+<date when="1845">1845</date>
 <biblScope type="vol"></biblScope>
 <biblScope type="issue"></biblScope>
 <biblScope type="pp"></biblScope>
 </bibl>
-
+<msDesc>
+    <msIdentifier><repository>Buffalo Bill Museum, LeClaire, Iowa</repository></msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -75,7 +77,7 @@
 <term>Texts</term>
 </keywords>
 <keywords scheme="original" n="subcategory">
-<term>Newspapers</term>
+<term>Business</term>
 </keywords>
 <keywords scheme="original" n="topic">
 <term></term>
@@ -107,23 +109,25 @@
 <div2>
 <table>
 <head>1845 Isaac Cody <unclear/></head>
-<row>Dec 18 By 1 doz <unclear/> wood $1.25</row>
-<row>1846</row>
-<row>March 12th By <unclear/> 15 cords wood 2.50 3.75</row>
-<row>3.75</row>
+<row><cell>Dec 18 By 1 day <unclear>haulin</unclear> wood $1.25</cell></row>
+<row><cell>1846</cell></row>
+<row><cell>March 12th By <unclear>haulin</unclear> 15 cords wood 2.50 3.75</cell></row>
+<row><cell>3.75</cell></row>
 </table>
 
 </div2>
-1845 Isaac Cody <unclear/>
-Sept 18th <unclear/> 2 yds check shirting (for Lady) 17 ¢ 34
-"  "  " 3 1/2 " Domestic Gingham 17 ¢ 60
-1846
-Jany 8th " 116 lbs salt 1 1/2 1.74 2.68
-March 12th " Cash 1.07
-$3.75
-
-Isaac Cody was father to Wm F. Cody - "Buffalo Bill"
+<pb facs="wfc.bsn00180.002"/>
 <div2>
+<table><row><cell>1845 Isaac Cody <unclear/></cell></row>
+<row><cell>Sept 18th <unclear/> 2 yds check shirting (for Lady) 17 ¢ 34</cell></row>
+<row><cell>"  "  " 3 1/2 " Domestic Gingham 17 ¢ 60</cell></row>
+<row><cell>1846</cell></row>
+<row><cell>Jany 8th " 116 lbs salt 1 1/2 1.74 2.68</cell></row>
+<row><cell>March 12th " Cash 1.07</cell></row>
+<row><cell>$3.75</cell></row></table>
+
+<ab>Isaac Cody was father to Wm F. Cody - "Buffalo Bill"</ab>
+
 
 
 </div2>
