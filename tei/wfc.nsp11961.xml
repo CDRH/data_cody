@@ -49,7 +49,7 @@
 <title level="a" type="main">Untitled [Our town has been enlivened]</title>
 <title level="j">The Kansas Herald of Freedom (Lawrence, Kan.)</title>
 <pubPlace></pubPlace>
-<date when="1858-09-04"></date>
+<date when="1858-09-04">September 4, 1858</date>
 <biblScope type="pp">1</biblScope>
 </bibl>
 
@@ -92,7 +92,6 @@
 
 <revisionDesc>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
-<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
 </revisionDesc>
 </teiHeader>
@@ -102,7 +101,7 @@
 
 <div1 type="article">
 
-<pb facs="wfc.nsp11961"/>
+<pb facs="wfc.nsp11961.001"/>
 
 <p>Our town has been enlivened during the past fortnight, by the passage through of numbers of Indians of various tribes, returning from their annual Buffalo hunt. They represent the game as being unusually abundant, and from the quantities of hides and dried meat with which their ponies were packed, we take it that they have had more than ordinary success in the pursuit. The first large band that crossed the Smoky Hill fork at this place, were of the Sac Nation, then came Pottawottomies, Kickapoos, Delawares, &amp;c. Exclaim as you may, "Lo, the poor Indian," and bathe them with philanthropic sympathy while at a distance, but come to a closer inspection and view their happy and contented faces, free and easy, devil-may-care actions, and hear their joyous laughter, and the pale-face, weary and fagged, almost envies them their care-free condition. We are inclined to believe the Indian the happier individual.</p>
 <p>"Lo! the poor Indian. who untutored, feeds</p>

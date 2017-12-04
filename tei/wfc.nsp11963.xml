@@ -49,8 +49,8 @@
 <title level="a" type="main">Kansas Pacific Railroad</title>
 <title level="j">Freedom's Champion (Atchison City, Kansas)</title>
 <pubPlace></pubPlace>
-<date when="1862-08-09"></date>
-<biblScope type="pp">01</biblScope>
+<date when="1862-08-09">August 9, 1862</date>
+<biblScope type="pp">1</biblScope>
 </bibl>
 
 </sourceDesc>
@@ -95,7 +95,6 @@
 
 <revisionDesc>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
-<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
 </revisionDesc>
 </teiHeader>
@@ -105,7 +104,7 @@
 
 <div1 type="article">
 
-<pb facs="wfc.nsp11963"/>
+<pb facs="wfc.nsp11963.001"/>
 
 <p>The Pacific Railroad bill lately passed by Congress, presents to our Kansas friends the most encouraging prospects for the future of their State, if they but use their advantage well. To the Leavenworth and Pawnee Railroad is given the connection with the great national highway and the Pacific Railroad of this State, and it is the evident duty and interest of the Legislature and people of Kansas, to give this road and connections their utmost aid and assistance. Our reason for thus saying, we will briefly give: No discerning man can deny that the true interest of the Legislature and people of Kansas, to give this road and connections their utmost aid and assistance. Our reason for thus saying, we will briefly give: No Discerning man can deny that the true interest of Kansas lies in encouraging the building of that road that will add most to her own strength and resources and that road must be the most central possible, so as to make all branches tributary to her interest. Congress made a grant of land to the Leavenworth and Pawnee road, requiring it to connect at Kansas City with the Pacific Railroad, of Missouri. It also grants land to the Hannibal and St. Joseph Railroad, for an extension via Atchison to the great Pacific at its point of departure on the one hundredth parallel, between the Republican fork of Kansas on the south and the Nebraska or Platte on the north. This road would unite with the Leavenworth and Pawnee Railroad, and thus become tributary to it in part, because using part of its track. </p>
 

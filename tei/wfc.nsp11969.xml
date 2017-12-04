@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Untitled [W.A. Boland writes from North Platte, Neb….]</title>
+<title type="main">Untitled [W. A. Boland writes from North Platte, Neb.]</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -46,10 +46,10 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main">Untitled [W.A. Boland writes from North Platte, Neb….]</title>
+<title level="a" type="main">Untitled [W.A. Boland writes from North Platte, Neb.]</title>
 <title level="j">The Chicago Daily Inter-Ocean</title>
 <pubPlace></pubPlace>
-<date when="1878-08-26"></date>
+<date when="1878-08-26">August 26, 1878</date>
 </bibl>
 
 </sourceDesc>
@@ -100,7 +100,6 @@
 
 <revisionDesc>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
-<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
 </revisionDesc>
 </teiHeader>
@@ -110,7 +109,7 @@
 
 <div1 type="article">
 
-<pb facs="wfc.nsp11969"/>
+<pb facs="wfc.nsp11969.001"/>
 
 <p>W.A. Boland writes from North Platte, Neb. to the Jackson (Mich.) Citizen a description of how the stock business of the plains is conducted. We make the following extract:</p>
 

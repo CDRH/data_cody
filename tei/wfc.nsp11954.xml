@@ -49,7 +49,7 @@
 <title level="a" type="main">The Grand Duke Alexis</title>
 <title level="j">Harper's Weekly</title>
 <pubPlace></pubPlace>
-<date when="1000">1871-10-14</date>
+<date when="1871-10-14">October 14, 1871</date>
 <biblScope type="vol">XV</biblScope>
 <biblScope type="issue">772</biblScope>
 <biblScope type="pp"></biblScope>
@@ -94,7 +94,6 @@
 
 <revisionDesc>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
-<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
 </revisionDesc>
 </teiHeader>
@@ -104,7 +103,7 @@
 
 <div1 type="article">
 
-<pb facs="wfc.nsp11954"/>
+<pb facs="wfc.nsp11954.001"/>
 
 <p>THE GRAND DUKE ALEXIS.</p>
 

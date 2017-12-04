@@ -49,7 +49,7 @@
 <title level="a" type="main">Untitled [A party of young men from Junction City]</title>
 <title level="j">Freedom's Champion (Atchison City, Kansas)</title>
 <pubPlace></pubPlace>
-<date when="1000"></date>
+<date when="1867-10-10">October 10, 1867</date>
 <biblScope type="pp">01</biblScope>
 </bibl>
 
@@ -92,7 +92,6 @@
 
 <revisionDesc>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
-<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
 </revisionDesc>
 </teiHeader>
@@ -102,7 +101,7 @@
 
 <div1 type="article">
 
-<pb facs="wfc.nsp11966"/>
+<pb facs="wfc.nsp11966.001"/>
 
 <p>A party of young men from Junction City, numbering four, have recently started out north of Ellsworth, in the Saline valley, and have established a camp there for the slaughter of buffalo and curing the meat for market. They designed remaining until late in the season, or until the buffalo leave. They had a fight about a week since with five Indians, and worsted the red skins, driving them from the field without the loss of a single man. The Indians are herding the buffalo in the bottoms of the Saline by burning the prairie, and no doubt if they remain the daring hunters will have warm times in defending their hunting grounds.</p>
 

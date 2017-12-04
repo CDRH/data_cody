@@ -49,7 +49,7 @@
 <title level="a" type="main">Untitled [A Polite Notice]</title>
 <title level="j">Davenport Daily Gazette</title>
 <pubPlace></pubPlace>
-<date when="1856-06-12"></date>
+<date when="1856-06-12">June 12, 1856</date>
 </bibl>
 
 </sourceDesc>
@@ -91,7 +91,6 @@
 
 <revisionDesc>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
-<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
 </revisionDesc>
 </teiHeader>
@@ -101,7 +100,7 @@
 
 <div1 type="article">
 
-<pb facs="wfc.nsp11956"/>
+<pb facs="wfc.nsp11956.001"/>
 
 <p>A POLITE NOTICE – “The chief speaker was a fugitive from justice, <persName xml:id="cody.i">Isaac Cody</persName>, from Kansas, one of the traitors who composed the bogus State Legislature, and judging from the specimen, we came to the conclusion, that if such men composed the legislature, there would be an awful slaughter of Murray and Webster; for his ignorance even of common language made it painful and ludicrous to listen to him.”</p>
 

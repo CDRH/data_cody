@@ -49,7 +49,7 @@
 <title level="a" type="main">Gen. Custer's Command</title>
 <title level="j">Harper's Weekly</title>
 <pubPlace></pubPlace>
-<date when="1000">1867-8-3</date>
+<date when="1867-08-03"></date>
 <biblScope type="vol">XI</biblScope>
 <biblScope type="issue">553</biblScope>
 <biblScope type="pp">479-480</biblScope>
@@ -100,7 +100,6 @@
 
 <revisionDesc>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
-<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
 </revisionDesc>
 </teiHeader>
@@ -108,7 +107,7 @@
 <text>
 <body>
 
-<pb facs="wfc.nsp11953"/>
+<pb facs="wfc.nsp11953.001"/>
 
 <div1 type="article">
 
