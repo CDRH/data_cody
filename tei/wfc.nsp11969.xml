@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11968">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11969">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Untitled [W. A. Boland writes from North Platte, Neb.]</title>
+<title type="main">From North Platte</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -34,8 +34,8 @@
 <addrLine>University of Nebraska-Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
-<idno type="BBGP">Buffalo Bill's Great Plains Item #5</idno>
-<idno type="project">wfc.nsp11968</idno>
+<idno type="BBGP">Buffalo Bill's Great Plains Item #4</idno>
+<idno type="project">wfc.nsp11969</idno>
 <availability>
 <p></p>
 </availability>
@@ -46,10 +46,10 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main">Untitled [W.A. Boland writes from North Platte, Neb.]</title>
-<title level="j">The Chicago Daily Inter-Ocean</title>
+<title level="a" type="main">From North Platte</title>
+<title level="j">The Cheyenne (Dakota Territory) Leader</title>
 <pubPlace></pubPlace>
-<date when="1878-08-26">August 26, 1878</date>
+<date when="1868-06-12">June 12, 1868</date>
 </bibl>
 
 </sourceDesc>
@@ -78,22 +78,14 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term>Ranching</term>
+<term>Railroads</term>
+<term>Transportation</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>North Platte (Neb.)</term>
-<term>Kearney (Neb.)</term>
-<term>Rocky Mountains</term>
-<term>Wyoming</term>
-<term>Nebraska</term>
-<term>Colorado</term>
-<term>Kansas</term>
-<term>Ogallala (Neb.)</term>
-<term>Chicago (Ill.)</term>
-<term>Texas</term>
 </keywords>
 </textClass>
 </profileDesc>
@@ -111,9 +103,11 @@
 
 <pb facs="wfc.nsp11969.001"/>
 
-<p>W.A. Boland writes from North Platte, Neb. to the Jackson (Mich.) Citizen a description of how the stock business of the plains is conducted. We make the following extract:</p>
+<head>From North Platte.</head>
 
-<p>The grazing regions of the plains extend from Kearney, near the ninety-ninth meridian, to the Rocky Mountains, and embraces Southwestern Dakota, Southeastern Wyoming, Western Nebraska, and part of Colorado and Kansas. Through this vast region cattle and sheep range winter and summer, feeding on grass, and requiring no attention except branding and driving to market when fat. The whole country is occupied by ranches, from three to forty miles apart. Ranches are the houses - mostly made of sod - where the herders eat and sleep. Government owns the land, except the stock owners generally own 40 or 160 acres on the water-course where his ranche is situated, and this ownership of the ranche settles his title to the range, as the State law forbids any other party to allow cattle to remain on a range already occupied more than three days. A ranche is generally occupied by from two to five men; one ranche can care for from 500 to 2,000 cattle or sheep. Men having over 2,000 head of cattle, and there are many who have 12,000, and some 40,000, generally have contiguous ranches about twelve miles apart. The whole cost of keeping cattle a year and maketing them ranges from $2.75 per head for small herds (small herds are less than 1,000) to $1 per head for large herds. Three hundred two-year-old heifers will keep a family in moderate comfort after the second year and make the owner rich in ten years. The supply of cattle is kept up by natural increase and by the importation of Texas cattle, which latter are driven in herds of many thousands to Ogalalla, a small station on the Union Pacific Railroad, some forty miles west of North Platte, and sold to stock growers all over the grazing region. From June 10, till the latter part of July, these Texas cattle arrive at Ogalalla in such vast numbers that it is beyond doubt the greatest cattle market in the world. No choice is allowed the buyer except as to age and sex - a thousand is a thousand - and the buyer takes his number, drives them to his range, brands them, and turns them lose. The present prices at which cattle are held at Ogalalla are - for yearling: heifers, $8; for steers, $9; for two-year-old heifers, $12; steers, $13; for three-year-old heifers, $13; steers, $16. These bring at four years old, grazed one year, about $25, sometimes a dollar more or less. Chicago buyers are always in North Platte in the shipping season, though many parties prefer to make their own shipments.</p>
+<p>Through the kindness of Mr. W.A. Hodgman, who has just returned from North Platte, we are placed in possession of some items that may interest many of our readers. North Platte has now about one hundred and twenty-five buildings, of various kinds, shapes and sizes. People there now draw their main solace and comfort from the hope of something better in the future. Money is extremely scarce there at present, although it was expected that an agreeable relief in that particular would be afforded by the disbursements of the 20th instant, that being the pay day of the contractors. The piles are being driven for the railroad bridge over the Platte. Timber and ties in large quantities will be floated down that stream to the crossing. The body of one of the two men drowned at that point, some days since, has been recovered. A man named Smith was shot, a day or two ago. Men gambled over his body, betting various sums upon the question as to whether he was dead or not.</p>
+
+<p>The track of the U.P.R.R. is now about seven miles beyond Rock creek, and the building of a bridge over a small gulch has delayed the laying of the track several days. The probabilities are that the track laying will be detained not longer than over night at North Platte, so that there will be little reason to expect much of a town there, nor indeed anywhere this side of Salt Lake. With all the means of information that we are in possession of, we can see no likelihood of a more important place than Cheyenne will be, anywhere between Omaha and Salt Lake City. This is our belief now, and it ever has been; and we have proved our sincerity in this avowal by our actions. Let non despond, but wait a brief time with patience.</p>
 
 </div1>
 </body>

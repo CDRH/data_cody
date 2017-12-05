@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Untitled [W.A. Boland writes from North Platte, Neb….]</title>
+<title type="main">Untitled [W.A. Boland writes from North Platte, Neb.]</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -46,10 +46,10 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main">Untitled [W.A. Boland writes from North Platte, Neb….]</title>
+<title level="a" type="main">Untitled [W.A. Boland writes from North Platte, Neb.]</title>
 <title level="j">The Chicago Daily Inter-Ocean</title>
 <pubPlace></pubPlace>
-<date when="1878-08-26"></date>
+<date when="1878-08-26">August 26, 1878</date>
 </bibl>
 
 </sourceDesc>
@@ -91,7 +91,6 @@
 
 <revisionDesc>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
-<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
 </revisionDesc>
 </teiHeader>
@@ -101,11 +100,12 @@
 
 <div1 type="article">
 
-<pb facs="wfc.nsp11968"/>
+<pb facs="wfc.nsp11968.001"/>
 
 <p>W.A. Boland writes from North Platte, Neb. to the Jackson (Mich.) Citizen a description of how the stock business of the plains is conducted. We make the following extract:</p>
 
-<p></p>
+<p>The grazing regions of the plains extend from Kearney, near the ninety-ninth meridian, to the Rocky Mountains, and embraces Southwestern Dakota, Southeastern Wyoming, Western Nebraska, and part of Colorado and Kansas. Through this vast region cattle and sheep range winter and summer, feeding on grass, and requiring no attention except branding and driving to market when fat. The whole country is occupied by ranches, from three to forty miles apart. Ranches are the houses - mostly made of sod - where the herders eat and sleep. Government owns the land, except the stock owners generally own 40 or 160 acres on the water-course where his ranche is situated, and this ownership of the ranche settles his title to the range, as the State law forbids any other party to allow cattle to remain on a range already occupied more than three days. A ranche is generally occupied by from two to five men; one ranche can care for from 500 to 2,000 cattle or sheep. Men having over 2,000 head of cattle, and there are many who have 12,000, and some 40,000, generally have contiguous ranches about twelve miles apart. The whole cost of keeping cattle a year and maketing them ranges from $2.75 per head for small herds (small herds are less than 1,000) to $1 per head for large herds. Three hundred two-year-old heifers will keep a family in moderate comfort after the second year and make the owner rich in ten years. The supply of cattle is kept up by natural increase and by the importation of Texas cattle, which latter are driven in herds of many thousands to Ogalalla, a small station on the Union Pacific Railroad, some forty miles west of North Platte, and sold to stock growers all over the grazing region. From June 10, till the latter part of July, these Texas cattle arrive at Ogalalla in such vast numbers that it is beyond doubt the greatest cattle market in the world. No choice is allowed the buyer except as to age and sex - a thousand is a thousand - and the buyer takes his number, drives them to his range, brands them, and turns them lose. The present prices at which cattle are held at Ogalalla are - for yearling: heifers, $8; for steers, $9; for two-year-old heifers, $12; steers, $13; for three-year-old heifers, $13; steers, $16. These bring at four years old, grazed one year, about $25, sometimes a dollar more or less. Chicago buyers are always in North Platte in the shipping season, though many parties prefer to make their own shipments.</p>
+
 
 </div1>
 </body>
