@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12281">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Some of the spectators who applaud Buffalo Bill's Cossack horsemen]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12281</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Some of the spectators who applaud Buffalo Bill's Cossack horsemen]</title>
+<title level="j">Evening News</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-17">June 17, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.050.06 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Amusements</term>
+<term>Barnum and Bailey</term>
+<term>Caucasus</term>
+<term>Cossacks</term>
+<term>Exhibitions</term>
+<term>Exposition universelle de 1889 (Paris, France)</term>
+<term>Hagenbeck-Wallace Circus</term>
+<term>Historical reenactments</term>
+<term>Horsemen</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Hamburg (Germany)</term>
+<term>London (England)</term>
+<term>Russia</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12281.001"/>
+
+
+<p>Some of the spectators who applaud Buffalo Bill's Cossack horsemen in the Wild West arena may chance to inquire how these wanderers from the Caucasus have been brought to London, and who found them in their native wilds and lured them to become part of a show for the entertainment of Londoners. No one fancies that they were manufactured in the Wild West "property-room," and only a very few believe that Major <persName xml:id="burke.j">Burke</persName> has magic enough in his composition to fetch a dozen Cossacks across sea and Continent by merely rubbing his biggest diamond ring. The fact is that the Cossacks were discovered and imported by Mr. C. M. Ercole, one of the biggest and most enterprising entertainment-agents in the world. Mr. Ercole, who has offices in London, Paris, and New York, and is European agent for Barnum's show and for Carl Hagenbeck, the great Hamburg dealer in wild beasts, apparently supplies anything and everything in the way of natural curiosity or artistic spectacle at the shortest notice. He was the organiser and manager of the "Wild East" show given in the West Kensington arena during the French Exhibition, and himself took a principal part in its most dramatic episode. When he undertook to bring Colonel Cody a troop of Cossacks from the Caucasus he entered upon a task that would open the eyes of our armchair entertainment agents very wide indeed. Starting from Batoum, he went right across the Caucasus to Astrakan, and with infinite difficulty secured his recruits and got them out of the country&#8212;after a delicate negotiation with the Russian Government, which looks with keen suspicion on any tendency to foreign travel amongst Caucassian chiefs. Such an achievement deserves more notice than it has yet received.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

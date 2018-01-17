@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12219">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Distinguished People Interviewed by A. Sloper</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12219</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<respStmt><resp>Artist/Illustrator</resp><name>William Fletcher Thomas</name></respStmt>
+<title level="a" type="main">Distinguished People Interviewed by A. Sloper</title>
+<title level="j">Ally Sloper's Half Holiday</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-04">June 4, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cartoons &amp; Comics</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Indians of North America</term>
+<term>Scalping</term>
+<term>Scrapbooks</term>
+<term>Social satire</term>
+<term>Wild horses</term>
+<term>Wit and humor, Pictorial</term>
+<term>Wit and humor</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12219.001"/>
+
+<head>DISTINGUISHED PEOPLE INTERVIEWED BY A. SLOPER.&#8212;COLONEL W. F. CODY.</head>
+
+<figure n="drawing"><p>1</p> 
+<p>2</p>
+<p>3</p>
+<p>4</p>
+<p>5</p></figure>
+
+<p>"Say, come any morning before the show begins," Buffalo Bill had said, "and you shall try any of my buck-jumpers you like." A. SLOPER said he would with pleasure, and chooses an early date. (1). Before starting he had looked long and earnestly at Jubilee's copy-book. "Shall I?" he murmured. "The like in childhood's hours stood me in good stead to ward off the straight strokes of the master hand. No!" cried he, throwing it from him, "it shall never be said that the Friend of Man resorted to artifice."&#8212;(2). A. SLOPER'S visit to the Wild West began pleasantly enough with converse with Miss <persName xml:id="oakley.a">Annie Oakley</persName>. "Say, guess you're anxious to begin with the buck-jumpers?" said Colonel Cody. A. SLOPER declared he was burning to commence. "Then come along," cried the gallant colonel. "Certainly," said A. SLOPER, "but, one moment&#8212;can I offer you a drink? Try this!" Bear in mind A. SLOPER had no desire to put off the invigorating exercise, but was only actuated by pure <hi rend="italic">bonhomie.</hi>&#8212;(3). "Guess," said Colonel Cody, placing the bottle on A. SLOPER'S head, "Miss Oakley will smash this at five hundred yards, right away. Stand firm, or it may be fatal." The Mouldy One was very sorry, but he couldn't spare that bottle, which was an heirloom. "What ho, there!" cried Colonel Cody, "bring out No. 1 buck-jumper!" It was then that the Wreck thought of an amusing anecdote that Colonel Cody might like to hear; it was rather a long-winded anecdote&#8212;took about an hour and three-quarters to relate; still, no doubt Buffalo Bill would be pleased to hear it. Before he had got as far as "Once upon a time," however, he was hoisted on to the animal's back. The next moment&#8212;&#8212;(4). But, no! the pen is much too feeble an implement to describe the next moment&#8212;let it pass&#8212;&#8212;(5). Before leaving, a friendly Indian (Squatting Cow, A. SLOPER believes the gentleman's name was) wanted to scalp him, with a desire, no doubt, to possess a lock of hair as a memento; and it was only when the brave found it was a moral impossibility to perform the operation (counting as beneath notice the three hairs) that he reluctantly put up his scalping knife, and retired into the sanctity of his wigwam, quite convinced that A. SLOPER'S scalp, and he himself, was a fraud.</p>
+
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

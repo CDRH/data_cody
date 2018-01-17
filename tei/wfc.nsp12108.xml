@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12108">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill Redivivus</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12108</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill Redivivus</title>
+<title level="j">Brighton Gazette</title>
+<pubPlace>Brighton, England</pubPlace>
+<date when="1892-05-11">May 11, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+<relatedItem type="similar">
+<bibl>
+<title level="a" type="main">Buffalo Bill Redivivus</title>
+<title level="j">Norwich Argus</title>
+<pubPlace>Norwich, England</pubPlace>
+<date when="1892-05-14">May 14, 1892</date>
+<idno>nsp12206</idno>
+</bibl>
+</relatedItem>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.027.05 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Botanical gardens</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Flowers</term>
+<term>Historical reenactments</term>
+<term>Indians of North America</term>
+<term>Nobility--Great Britain</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Albert Victor, Prince, Duke of Clarence and Avondale, 1864-1892</term>
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Westminster, Hugh Lupus Grosvenor, Duke of, 1825-1899</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12108.001"/>
+
+
+<head>BUFFALO BILL REDIVIVUS. </head>
+
+<p>Buffalo Bill has returned to the arena of his former triumphs, his upright and handsome figure as picturesque as of yore, though his erstwhile dark locks have silvered somewhat since his first visit. The show is pretty much the same as usual. Age 
+
+<figure n="drawing"><p>BUFFALO BILL.</p></figure>
+
+has not withered his cowboys and Indians, nor has time added any variety to the entertainment, but Londoners and their country cousins will flock to Earls Court as of old, while, if we may judge from the distinguished company who welcomed him last Saturday, Col. Cody will again be the idol of society. </p>
+
+<p>For the first time since the death of the Duke of Clarence, Royalty has attended a public ceremony. The occasion was the opening of the International Horticultural Exhibition, to which is attached Buffalo Bill's Wild West Show, the inauguration of which was performed by the Duke of Connaught, who was accompanied by the Duchess, the Duke of Abercorn, the Duke of Westminster, and other noblemen. Quoting from a contemporary: "The trees and hedges of the old English enclosures are set with characteristic style, while the geometrical flower beds of others, make a fair appearance, considering the unfavourable circumstances of these bleak May days. The scenic effect produced upon the large canvas devoted to the Long Walk at Windsor is a marvellously beautiful allusion, and whatever the weather may be there will be always flecks of sunshine upon the avenue of elms."</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

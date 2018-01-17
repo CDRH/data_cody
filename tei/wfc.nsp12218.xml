@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12218">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Last week we told of a visit to Buffalo Bill's Wild West Show]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12218</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Last week we told of a visit to Buffalo Bill's Wild West Show]</title>
+<title level="j">Horse &amp; Hound</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-28">May 28, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.042.09 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Fox hunting</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Hounds</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Mules</term>
+<term>Scrapbooks</term>
+<term>Stables</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12218.001"/>
+
+
+<p>Last week we told of a visit to Buffalo Bill's Wild West Show, and another visit in company with Mossoo, who is now once more restored to robust, not to say rude, health, for he can eat, drink, smoke, and, if occasion requires, swear quite in his old form, so we had quite a high old time, hobnobbing with cowboys and honest "Injuns." While in other company we were introduced to the Colonel himself, and had a look through his stables, where 250 horses and ponies and some really splendid mules are kept fit to go through their two performances every day. There is a pack of hounds too, so of course we had a look at them, and their season will soon commence. The stud groom was once at Milton kennels, so he knows how to keep the hunters fit; but galloping on hard ground has played havoc with their legs, and it would be well to lay down tan over the ashes during this dry weather. The Colonel's historical flea-bitten grey, now twenty-three years old, has legs like bars of steel, and the brown that now comes as second horse was bred in England, and is up to a lot of weight. Many young men might envy the elegant ease with which Buffalo Bill gets on and off his horses with the same graceful freedom of action, noticeable in all the young cowboys. These lads are full of fun and very comical in their sayings, but proud of their ponies, and fond of showing them off to the best advantage as any English sportsman mounted on a three-figure hunter. Mr. <persName xml:id="salsbury.n">Nate Salsbury</persName> looks well after their interests, and, when time can be spared, he also looks well after visitors with introductions; but no one should presume too much on good nature, so we made friends with the Indians, and smoked a pipe of peace without other introduction. The scene is lively when the Colonel calls out the Indians for performance, and they mount their ponies leisurely and in order. Mossoo was enraptured with all he saw, so was a model landlord; but it was hard lines on him and also on his Christian tenant, who has devoted many anxious years to his proper education, when the ignorant British public were heard eagerly discussing whether that tame English landlord was a wild Sioux or a cowboy. Mossoo proposed a visit to the Flowery Land to quiet our nerves, so we sought the Swiss <hi rend="italic">chalet</hi> to see Daphne, and this is what we saw:&#8212;</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

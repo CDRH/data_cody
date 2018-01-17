@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12093">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The "Wild West"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12093</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The "Wild West"</title>
+<title level="j">The Field</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-14">May 14, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.025.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bands (Music)</term>
+<term>Cigarettes</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Flags--Great Britain</term>
+<term>Flags--United States</term>
+<term>Fox hunting</term>
+<term>Great Britain. Army. Royal Lancers, 12th</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horses--Training</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Mules</term>
+<term>Pony express</term>
+<term>Scalping</term>
+<term>Scotch whiskey</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Smoking</term>
+<term>Stagecoaches</term>
+<term>Star-spangled banner (Song)</term>
+<term>Tobacco</term>
+<term>Traveling exhibitions</term>
+<term>Western saddles</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Inverness (Scotland)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12093.001"/>
+
+
+<head>THE "WILD WEST."</head>
+
+<p>AFTER AN INTERVAL of five years, "Buffalo Bill" and his show are again at Earl's Court. We have in that time seen a variety of entertainments in this arena, of which, perhaps, the Wild East was the most amusing; but old friends are always welcome, and no doubt Col. Cody's admirers will rally round him as well as those to whom the thing is a novelty. The scene is as of yore&#8212;perhaps a little more masonry is visible over the American scenery than was formerly the case; the accommodation is the same, and so are the charges. One improvement, we think, might be made. In the 3s. seats isolated smokers are scattered with charming impartiality all over the place. Now, the ladies of the day are remarkably tolerant of tobacco, as a rule; still, rules are proved by exceptions, and here and there ladies may be found who do not like to be smoked over, while few, if any, of either sex are fond of ashes in their eyes; and to sit just behind a smoker on a breezy day exposes anyone to more than a chance of the latter discomfort. Moving is no use, for, ph&#339;nix-like, another cigar, cigarette, or pipe springs up in the new place as if from the ashes of the other one. It would surely be possible to have a part&#8212;even a small part&#8212;sacred from smoke. The smell of it no one minds in the open air, and this is an <hi rend="italic">al fresco</hi> sort of entertainment; and such an arrangement would, we are sure, be hailed with pleasure by quite enough people to make the doing of it worth while.</p>
+
+<p>In the show itself there are no startling novelties. Indeed, it would be hard to import these into what purports to be a faithful likeness of a reality. However, the programme is as attractive as ever. It begins with a "grand processional review," a troop of Indians mounted on grey and white horses being the first to appear, and dashing with loud whoops into the arena. Their cries, however, are nearly drowned by the band. But, as far as it is possible to criticise them, they resemble more than anything else the noise to be heard while a reel is being danced at (say) the Inverness gathering, in connection with "Tullochgorum." Such whoops are suggestive chiefly of the whisky, and so are inspiriting; though we are free to confess that the same noise, when heralding the probable loss of one's scalp, might have a less cheering effect on the hearer. However, the whole army eventually forms up, international courtesies being suggested by the appearance of the Star-spangled Banner, borne by a mounted man, and the Union Jack in the care of an English lancer (13th, we fancy, but the banner concealed his plume), who, again, would have looked more complete with a regimental saddle and bridle.</p>
+
+<p>Miss Annie Oakley<!--LINK--> trips into the circle with her usual grace, and shoots with her usual skill. The horse race between a cowboy, Mexican, and Indian (once round on the flat) looked like a dead heat for the first two, but the inside turn was shockingly neglected. The "pony express" is really good, the rider changing horses wonderfully quickly, though perhaps no quicker that an English huntsman or whip can change horses without dismounting in a run. Next comes the Indian attack on an emigrant team and repulse by cowboys; and here the training of the horses, who fall dead, is excellent. Captain Jack Burtz's "fighting drill" is neat. This is a talented performance, something between club drill and the old manual and platoon, with and without fixed bayonet. It is to be hoped, for the sake of our military friends, that none of "the authorities" will see this, or they might be tempted to order its general adoption in our army (we are fond of imitating our neighbours), and a new horror would be added to barrack life. To see Mr T. Atkins learning to balance his rifle, stock uppermost, and bayonet fixed on the palm of his hand, would be a sight indeed!</p>
+
+<p>"Cowboy fun" is the bucking pony business. We should call this plunging rather than bucking, as all the ponies progressed in more or less straight lines. The Australian bucker, who is conceded to be the champion performer in this line, hardly moves from the spot he begins at, though his rider is ofttimes moved further than he either desires or deserves. Still, these ponies would be most unpleasant mounts; and the long horn on the pommel of the saddle would be, to a Briton, an additional difficulty and danger. The ponies rear before they are mounted, but apparently not afterwards; they are let keep their heads down, too&#8212;which, we presume, would not be the case in real life.</p>
+
+<p>"Across country by riders of all nations" follows the buckers. Two riders were bareback-riding Indians, one a Mexican, one a cowboy, one a gentleman in a tall hat and trousers on a really desirable chesnut (all these were English hunters), who, we fancy, represented a British foxhunter in his summer plumage; and last, but not least, a man in pink. From what country he was a delegate we cannot hazard an opinion; but this we will say, that from the Tivyside to the Tickham, from the Braes of Derwent to the Belvoir, at whatever covertside he appears he will command attention. The performance of these braves was scuttling over and through some circus hurdles. Mr <persName xml:id="baker.l">Johnny Baker</persName>'s shooting was capital, especially when he stood on his head to fire. What jester had placed a horseshoe under Johnny's head when he first assumed this position did not transpire; but no great harm was done&#8212;which is more than can be said always when skulls are in conjunction with horseshoes. A race between ladies of the backwoods had nothing very striking about it. The capture of the <rs xml:id="coach.deadwood">Deadwood Coach</rs>, and its rescue by the ubiquitous and ever-successful cowboys, has often been described. The old coach certainly shows age; but the team of mules is an excellent one, though their appearance is not improved by their tails having been, to all appearance, shaved. In this respect they take the shine out of any of the no-tailed hunters now so fashionable and numerous at the Rostrum. These mules are, we should say, quite 16 hands high, "with power and quality," as the dealers say. Racing between Indian boys is like racing between any other boys, not being racing-stable boys. The "life customs" of the Indians are peculiar&#8212;their manners are not alluded to. The chief performance here was a <hi rend="italic">pas seul</hi> by a noble savage, whose costume consisted of little else than a pair of bagpipes (or what looked like it) worn, if you please, as a dress improver. He clearly relies on his get-up for effect, as he doesn't seem an adept at footing it. However, they all exhibited great sprinting powers as they left the arena&#8212;a white papoose, tinted "to taste," scuttling on its short legs "like him berry deffil," saving your presence, gentle reader.</p>
+
+<p>Next Colonel Cody himself. He had got on his second horse, a brown successor to old Charlie, deceased; and this, an English horse, did his part to perfection. We need hardly say, so did his rider. In the buffalo hunt we missed the wapiti, of which there used to be a few in the show unless we are much mistaken. The attack on the settlers' camp is as heretofore; the settler returning with his game, and potting, later on, the redskin who is annexing his horse, the cowboys arriving, like fairy godmothers, just in time to prevent serious mischief. A general salute concludes the performance, the bearer of the Stars and Stripes being kicked off; but this may not have been part of the authorised programme.</p>
+
+<p>We must thank the manager for his courtesy in letting us go through the stables to inspect the horses closely. These are nearly all of the regular American pony type&#8212;rum ones to look at, with ewe necks, coarse heads, often unamiable eyes, goose rumps, and sickle hocks; but, from all accounts, good ones to go for all that, though few of them move well in their gallop when extended. However, they are supposed to go on for ever, which must be an advantage when the rider has behind him a Maine firm, or a tribe of hostile Indians. Colonel Cody's old white horse looks well, though he seems to go a bit short. He is shod with calkins on the heels of his fore shoes, leather under the shoe, and a triangular piece of leather covering the frog. Most of the horses are shod, and all are American, excepting the hunters (six) and Colonel Cody's second charger. An exception to the plain heads is Miss Oakley's pony Billy; he is really a pretty pony. Although their shoulders look bad in the stable, the cowboy saddle seems carried in a capital place. This may be from the length of the seat and the backward position of the girth or surcingle; but, whatever the cause, the effect is visible. Nine couple of hounds and a stag complete the live stock; but we do not think that this part of the entertainment (not yet given) is likely to catch on. It is possible to give an interesting and fairly accurate representation of Love and War, but not of the chase. The goddess Diana, "like other old maids," as "Nimrod" once said, is easily affronted, and is apt to serve out those who travestie her by hurling at them public ridicule, if nothing more. But apart from stag-hunting&#8212;which is not an American sport, any more than golf&#8212;there is plenty that is amusing to be seen at Earl's Court, and we hope that Colonel Cody will score another success.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12063">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Weekly London Letter</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12063</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Weekly London Letter</title>
+<title level="j">Eastern Weekly Mail</title>
+<pubPlace>Norwich, England</pubPlace>
+<date when="1892-04-30">April 30, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.021.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Botanical gardens</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Firearms</term>
+<term>Flora</term>
+<term>Flowers</term>
+<term>Gardens</term>
+<term>Ghost dance</term>
+<term>Historical reenactments</term>
+<term>Indians of North America</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Traveling exhibitions</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Kicking Bear, 1853-1904</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Glasgow (Scotland)</term>
+<term>London (England)</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12063.001"/>
+
+<head>WEEKLY LONDON LETTER.</head>
+
+<p>The International Horticultural Exhibition, which opens at Earl's Court on May 7th, bids fair to be successful. The preparations are well advanced, as I found when taking a private view of the grounds and buildings the other day. It is expected that the gardens will display a profusion of flowers and plants from all parts of the world, effectively grouped, and a sup-tropical garden will certainly attract attention, as will also the examples of the gardens of all ages. Flower and fruit shows, flower f&#234;tes, and lectures and demonstrations in gardening will form part of the arrangements, and the buildings will contain exhibits of everything connected with the previous exhibitions at Earl's Court, is, I hear, one of the prime movers (and no doubt financiers), and the entire profits are to be devoted to such gardening institutions as the executive committee may select.</p>
+
+<figure n="drawing"><p><persName xml:id="kicking.bear">KICKING BEAR</persName></p>
+<p><persName xml:id="oakley.a">ANNIE OAKLEY</persName></p>
+<p><persName xml:id="noneck.j">JOHNNY-BURKE-NO NECK</persName></p>
+
+<p>SKETCHES AT THE "WILD WEST."</p></figure>
+
+<p>The arena adjoining the exhibition grounds, which last year formed the scene of German military evolutions, will once more re-echo the whoop of Buffalo Bill's "Wild West" Indians and cowboys, and the redoubtable Colonel Cody and Annie Oakley, the crack woman rifle-shot, will, after five years' absence from London, again display their prowess with rifle and revolver. The scenery surrounding the arena has been painted by Mr. Glover, of Glasgow, and is an admirable piece of work, quite in keeping with the western scenes to be enacted. Jovial Major <persName xml:id="burke.j">John Burke</persName>, Buffalo Bill's right hand man, is once more installed in his log cabin ("our ranch"), and he tells me that their Indians are as representatives a collection as may be found anywhere. There will, of course, be much curiosity to look upon the faces of chiefs who took part in the Indian uprising at Pine Ridge and the battle of Wounded Knee Creek, among whom is "Kicking Bear," the fighting chief of the Sioux ghost-dancers.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

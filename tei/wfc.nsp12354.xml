@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12354">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Cossacks at the Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12354</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<respStmt><resp>Artist/Illustrator</resp><name>Stanley Berkeley</name></respStmt>
+<title level="a" type="main">The Cossacks at the Wild West</title>
+<title level="j">The Illustrated Sporting and Dramatic News</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-25">June 25, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.059.02 (1892 London Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Caucasus</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Folk dancing</term>
+<term>Hetmans</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+<term>Wild horses</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Berkeley, Stanley</term>
+<term>Byron, George Gordon Byron, Baron, 1788-1824</term>
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12354.001"/>
+
+
+<fw>(London) Illustrated Sporting &amp; Dramatic News  June 25/92  59</fw>
+
+
+
+<figure><ab>THE DIRGE AND DANCE.</ab>
+<ab>PURSUING THE HANDKERCHIEF</ab>
+<ab>PICKING UP THE HANDKERCHIEF</ab>
+<ab>FACE BACKWARDS</ab>
+<ab>STANDING ON THE HANDS</ab>
+
+<ab type="credit">STANLEY BERKELEY</ab>
+
+<ab type="credir">Swainfc</ab>
+
+<p>THE COSSACKS AT THE WILD WEST.</p></figure>
+
+
+<head>THE COSSACKS AT THE WILD WEST.</head>
+
+<p>MESSRS. CODY AND <persName xml:id="salsbury.n">SALSBURY</persName> contemplate, we understand, an international congress of horsemen at the Chicago Exhibition. It is towards building up this great gathering that the body of Cossacks has been brought from the Caucasus to join the Cowboys, Indian Mexicans, and others, who do duty at the Wild West. The Cossacks, who are under the command of Prince Ivan Makharadze, are stated to be of the same branch as that of which Mazeppa was hetman. At all events, they look picturesque and handsome enough to be descendants of Byron's hero, and their equestrian feats, of which many are of a military character, have a dash and courage which are considerably above the level of show performances. They have among them some good dancers; one of them gives a really remarkable performance barefooted. The Cossacks ride bright little ponies as fiery and active as themselves, which can go at a great pace and appear to have as much endurance as speed.</p>
+
+<p>THE attractions of the "Wild West" are evidently far from exhausted. For the Cossacks of the Caucasus, the latest novelty&#8212;at the time of writing: some South American riders are announced&#8212;I did not care. They are wonderfully agile and so forth, but their performance consists of circus business, standing on their heads, jumping on to their horses as they canter, and so forth. This is not horsemanship proper, and is far less interesting than the achievements of the cowboys on their bucking ponies. The riders strike me as better than they were when Buffalo Bill was last here; at least when I saw them the other day there were some exciting tussles between man and horse before the rider was able to get up, but when once there he was not to be removed. The advertisements are rather quaint. "First time since the Deluge" seems to suggest that before the days of Noah&#8212;I hope this is not irreverent&#8212;Wild West shows were popular, and congresses of horsemen showed what they could do to admiring spectators who paid from a shilling upwards for a reserved seat. There is a dash and vigour about the present show, however, that could not fail to render it popular to a nation of horse-lovers.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

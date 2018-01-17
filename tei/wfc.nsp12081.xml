@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12081">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Buffalo Bill"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12081</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"Buffalo Bill"</title>
+<title level="j">Penny Illustrated Paper</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-07">May 7, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.023.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Frontier and pioneer life</term>
+<term>Historical reenactments</term>
+<term>Indian dance--North America</term>
+<term>Indians of North America--Wars</term>
+<term>Indians of North America</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
+<term>Burke, John M., -1917</term>
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12081.001"/>
+
+
+<figure n="drawing"><p>THE HON. W. CODY, "BUFFALO BILL."</p></figure>
+
+<head>"Buffalo Bill"</head>
+
+<p>is welcome back to London. I beheld him adroitly lasso an Indian and a buffalo in the Earl's Court arena on Monday last, and was glad to see the Hon. William Cody looked as well and had quite as good a seat on horseback as of yore, when he delighted the <persName xml:id="victoria.q">Queen</persName> and the <persName xml:id="albert.edward">Prince</persName> and <persName xml:id="alexandra.denmark">Princess of Wales</persName> and the great London public with his signally fresh and novel "Wild West Show" of American frontier life. The thousands who will flock to the International Horticultural Exhibition at Earl's Court to witness this incomparably interesting Indian show will rejoice to learn that since his recent participation in active warfare against the North American Indians the right hand of "Buffalo Bill" has not forgotten its cunning; neither has the rapid succession of war-dance and racing, fighting and buffalo-hunting, lost one whit of interest under the experienced management of Major <persName xml:id="burke.j">Burke</persName> and Mr. <persName xml:id="salsbury.n">Nate Salisbury</persName>, Colonel Cody's steadfast-eyed partner, who tells me he contemplates taking the "Wild West" to the Chicago Exhibition after the present season in London.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12372">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A New Feature at the "Wild West"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12372</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">A New Feature at the "Wild West"</title>
+<title level="j">Daily News</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-24">June 24, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.060.12 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bolas</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Pampas (Argentina)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12372.001"/>
+
+
+<head>A NEW FEATURE AT THE "WILD WEST."</head>
+
+<p>Not content with having gathered a small army of representative rough riders from amongst Cowboys, Red Indians, Mexicans, and Cossacks, Colonel Cody has now added to his popular show at Earl's-court a number of Gauchos from the South American Pampas, a race famous for their hard riding and adventurous, semi-savage existence. These men differ considerably in their appearance and methods from the other horsemen whose performances have now become familiar to Londoners. Clad in loose, workmanlike costumes, and heavily armed, their dark, eager faces betraying their Spanish-Indian origin, these wild horsemen make an exceedingly picturesque addition to the show; while their daring riding, both of their own and of untrained horses, specially sent over for their use, prove that they are by no means behind Cossack or cowboy in their equestrian art. An interesting feature in their display is the skill they exhibit in throwing the "bolas," or raw-hide rope with an iron ball at each of the ends. Dexterously hurled, this formidable contrivance on striking its object winds round the latter with overpowering force, and, in consequence of its practically deadly effect, is, unlike the lasso, only used in the chase or in war. Posts, firmly fixed in the ground, were made the aim of the Gauchos yesterday, and it was astonishing to see the accuracy and strength with which the "bolas" was thrown by them whilst riding at full speed. The saddling and riding of the untrained horses also created admiration and amusement, for the Gaucho, though not so elaborate in his methods of preparing for the fray, is, if anything, a spice more reckless when once engaged in it; and this led to various startling spills in the cases of men who ventured to ride one behind the other on the most unmanageable steeds. Altogether the advent of the Gauchos gives a new interest to Colonel Cody's show.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

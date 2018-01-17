@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12350">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">An Earl's Court Idyl</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12350</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">An Earl's Court Idyl</title>
+<title level="j">Punch, or the London Charivari</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-25">June 25, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.058.06 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cross cultural relations</term>
+<term>Exhibitions</term>
+<term>Indian men</term>
+<term>Indians of North America</term>
+<term>Satire</term>
+<term>Scrapbooks</term>
+<term>Social satire</term>
+<term>Wit and humor</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term><term></term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12350.001"/>
+
+
+<head>AN EARL'S COURT IDYL.</head>
+
+<p>SCENE&#8212;<hi rend="italic">A knick-knack stall outside the Wild West Arena. Behind the counter is a pretty and pert maiden of seventeen or so. A tall and stately Indian Warrior, wrapped in a blue blanket, lounges up, and leans against the corner, silent and inscrutable.</hi></p>
+
+<p><hi rend="italic">The Maiden (with easy familiarity).</hi> 'Ullo, CHOC'LIT, what do <hi rend="italic">you</hi> want? (<hi rend="italic">The Chieftain smiles at her with infinite subtlety, and fingers a small fancy article shaped like a bottle, in seeming confusion.</hi>) Like to see what's inside of it? Look 'ere then. (<hi rend="italic">She removes the cork, touches a spring, and a paper fan expands out of the neck of the bottle;</hi> CHOCOLATE <hi rend="italic">is grimly pleased, and possibly impressed, by this phenomenon, which he repeats several times for his own satisfaction."</hi>) Ah, <hi rend="italic">that</hi> fetches you, don't it, CHOC'LIT? (<hi rend="italic">The Warrior nods, and says something unintelligible in his own tongue.</hi>) Why don't yer talk sense, 'stead o' that rubbish?</p>
+
+<p>[CHOCOLATE <hi rend="italic">watches her slyly out of the corners of his eyes; presently he puts the bottled-fan inside his blanket, and slouches off in a fit of pretended abstraction.</hi></p>
+
+<p><hi rend="italic">The Maiden (imperiously).</hi> 'Ere, come back, will yer? Walkin' off with my things like that! Fetch it 'ere&#8212;d'jear what I <hi rend="italic">tell</hi> yer! (CHOCOLATE <hi rend="italic">lounges over the counter of an adjoining Bovril stall, and affects a bland unconsciousness of being addressed. After awhile he peeps round and pats his blanket knowingly, and, finding she takes no further notice of him, lounges back to his corner again.</hi>) Oh, <hi rend="italic">'ere</hi> you are again! Now jest you put that bottle back. (<hi rend="italic">The Warrior giggles, with much appreciation of his own playfulness.</hi>) Look sharp now. I know you've got it!</p>
+
+<p><hi rend="italic">Chocolate (with another giggle</hi>). Me no got.</p>
+
+<p>[<hi rend="italic">He intimates that the person at the Bovril stall has it.</hi></p>
+
+<p><hi rend="italic">The Maiden.</hi> You needn't think to get over Me that way! It's inside o' that old blanket o' yours. Out with it now, or I'll make yer! (CHOCOLATE <hi rend="italic">produces it chuckling, after which he loses all further interest in it, his notice having been attracted by a small painted metal monkey holding a miniature cup and saucer.</hi>) Want to buy one o' them monkeys? (<hi rend="italic">She sets its head nodding at the Indian, who is gravely interested in this product of European civilisation.</hi>) All right, <hi rend="italic">pay</hi> for it then&#8212;they're ninepence each.</p>
+
+<p>[<hi rend="italic">The Warrior plays with it thoughtfully, apparently in the faint hope that she may be induced to make him a present of it, but, finding that her heart shows no sign of softening to such an extent, the desire of acquiring the monkey becomes so irresistible that, after much diving into his robes, he fishes up three coppers, which he tenders as a reasonable ransom.</hi></p>
+
+<p><hi rend="italic">The Maiden (encouragingly</hi>). That's all right, so far as it <hi rend="italic">goes</hi>; you've on'y got to give me another sixpence&#8212;twice as much as that, you know. Come on! (CHOCOLATE <hi rend="italic">meditates whether as an economical Indian Chieftain, he can afford this outlay, and finally shakes his head sadly, and withdraws the coppers.</hi>) Oh, very <hi rend="italic">well,</hi> then; please yourself, I'm sure! (CHOCOLATE'S <hi rend="italic">small black eyes regard her admiringly, as he tries one last persuasive smile, probably to express the degree to which the possession of a nodding monkey would brighten his existence.</hi>) It ain't a bit o' good, CHOC'LIT, I can't lower my price for you; and what's more, I'm not going to!</p>
+
+<p>[CHOCOLATE <hi rend="italic">examines the monkey once more undecidedly, then puts it gently down with a wistful reluctance, and drfts off.</hi></p>
+
+<p><hi rend="italic">The Maiden (calling after him</hi>). You like to do <hi rend="italic">your</hi> shoppin' cheap, don't you, CHOC'LIT? Everythink for nothen' is what <hi rend="italic">you</hi> want, ain't it? <hi rend="italic">I</hi> know yer!</p>
+
+<p>[<hi rend="italic">The Warrior stalks on impassively, ignoring these gibes; whether he is reflecting on the beauty and heartlessness of the Pale-face</hi> Maiden, <hi rend="italic">or resolving to save up for the monkey if it takes him a lifetime, or thinking of something else totally different, or of nothing whatever, is a dark secret which he keeps to himself.</hi></p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The International Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12058</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<respStmt><resp>Artist/Illustrator</resp><name>Le Fanu, Brinsley, 1854-1929</name></respStmt>
+<title level="a" type="main">The International Horticultural Exhibition</title>
+<title level="j">The Lady</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-19">May 19, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.019.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Amusements</term>
+<term>Bands (Music)</term>
+<term>Botanical gardens</term>
+<term>Cowboys</term> 
+<term>Cowgirls</term>
+<term>Drawings and graphics</term>
+<term>Egypt</term>
+<term>Electric lighting</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Gardens</term>
+<term>Historical reenactments</term>
+<term>Horse racing</term>
+<term>Horsemen and horsewomen</term>
+<term>Indian dance--North America</term>
+<term>Indian dance</term>
+<term>Indians of North America</term>
+<term>Japanese</term>
+<term>Mustang</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Stagecoaches</term> 
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Le Fanu, Brinsley, 1854-1929</term>
+<term>Oakley, Annie, 1860-1926</term> 
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12058.001"/>
+
+<figure n="drawing"><head>Some Gardens at The International Horticultural Exhibition</head>
+
+<p>The Temple of the Pharaohs. </p>
+<p>A Roman Garden</p>
+<p>A Corner in The Tudor Garden.</p>
+<p>A Japanese Garden</p>
+
+<ab type="credit">B. Le Fanu.</ab></figure>
+
+<head>THE INTERNATIONAL HORTICULTURAL EXHIBITION. </head>
+
+<p>LONDON is like a spoilt child that gets everything it cries for. This time, if it has not secured the moon, it has obtained something infinitely better in the earthly paradise now planted and already in full bloom at Earl's Court. Here the jaded citizen, surrounded for the time being with delicious cool green foliage and blossoming flowers and plants, can forget the glare and dust inseparable from the early summer season in the streets of this gigantic Metropolis. The attractions of a fashionable London Season are not for all of us, and what an incalculable boon will not these gardens present to the ordinary overstrained and wearied London workers, who could not, if they would, taste the country delights of Nature in all their opening loveliness of bud and leaf. But now, when Nature's charms have been brought to their very doors, many an hour will be snatched from desk and counter to be well spent at Earl's Court. If the horticultural side of the Exhibition appeals mainly to the masses, Buffalo Bill's Wild West (which we warmly welcome back again) appeals to all alike, both to the masses and the classes. To the effete and blas&#233; inhabitants of the most civilised city in the world it presents the most exhilarating and novel enchantments, as in all the intensely realistic scenes from prairie or backwoods one is brought face to face, as it were, with reality. This is especially noticeable in the hand-to-hand encounters between the early American settlers and bands of prowling hostile Indians, or as one watches, with fascinated gaze, the perilous journey made by the <rs xml:id="coach.deadwood">Deadwood Coach</rs> and its doomed passengers. The old coach itself looks as if it, too, had gone over to the majority in one of these deadly raids, and that it is only its ghost that now wildly circles the arena at Earl's Court. In the big ring the sporting proclivities of the many have been well catered for, beginning with the incomparable shooting feats of little <persName xml:id="oakley.a">Annie Oakley</persName>, <persName xml:id="baker.j">Johnny Baker</persName>, and Colonel W. F Cody, and numerous races, including a very picturesque one between American backwoods women. The mounting and retaining the seat on the buck-jumping horses are robbed of much of the sense of danger by the agility and expertness displayed by the cowboys and the small and light-looking mustangs, who seem almost like playthings in the hands of their riders. The North American Indians are naturally a most interesting feature, and nothing could possibly be more picturesque than the scenes of foray in which they dash hither and thither on their half-wild horses, their lithe bodies painted in all the colours of the rainbow, or their stealthy, half-creeping dances to the monotonous banging of primitive drums. The oftener we see this superb show, the more its realism grows upon us, and this is the highest compliment we can pay to its inceptor, Mr. <persName xml:id="salsbury.n">Nate Salisbury</persName>, and its practical organiser, Colonel W. F. Cody.</p>
+
+<p>At the conclusion of the afternoon show of the "Wild West," the visitors return to the great hall, where expressions of admiration are heard on all sides at the beauty of the indoor gardens, and the lavish decoration of the walls with exquisitely-painted landscapes, and the roof hung with long garlands of flowers and foliage. Here, to quote a line from the "Wild West" programme, "rain or shine," the visitor can find plenty of entertainment in listening to the excellent musical programme of the Military Exhibition bands, whilst admiring the indoor gardens full of beautiful flowering plants, some even hailing all the way from Holland. But our own well-known growers hold their own, especially Messrs. Laing and Turner; Messrs. Ramsey, with a lovely show of roses; Messrs. Williams's interesting collection of insectivorous plants; Messrs. Cutbush, and many others. As the afternoon deepens into evening, with the first shadows of twilight come twinkling out, on every point of vantage lent by tree or roof, innumerable little fairy lights, many being suspended in long lines overhead from invisible supports. To our artist we have left the task of delineating the beauties of some of the gardens of the past. Of these he shows on page 647 "The Temple of the Pharaohs" and the Tudor Garden. The latter is partly hidden by the quadrangle of a mansion of the period, and so quaint and old-world does it all look, that one would not be surprised to see behind its diamond-paned windows, or treading between its formal flowerbeds, some well-known figure in the history of the past.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12227">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Cossacks at the "Wild West"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12227</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Cossacks at the "Wild West"</title>
+<title level="j">Morning Advertiser</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-02">June 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.044.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Caucasus</term>
+<term>Cavalry</term>
+<term>Cossacks--Ukraine</term>
+<term>Cossacks</term>
+<term>Don Cossacks</term>
+<term>Exhibitions</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Scrapbooks</term>
+<term>Weapons</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Byron, George Gordon Byron, Baron, 1788-1824</term>
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12227.001"/>
+
+<head>COSSACKS AT THE "WILD WEST."</head>
+
+<p>The idea that Cossacks, whether from the Don or the Caucasus, cannot be met with, except in a case of military excursion outside the Russian frontier, has been dispelled by the enterprising Colonel Cody. He has added to the attractions of the "Wild West" Show at Earl's-court by bringing over a body of the famous Russian irregular cavalry, whose exploits, real or legendary, are certainly of the romantic order. It is the intention, we believe, to assemble together at the coming Chicago World's Fair what is rather comically called a "Congress of the horsemen of the world." These Cossacks are to form part of the congress, and <hi rend="italic">en route</hi> to Chicago they will stay awhile at Earl's-court. There they meet fellow horsemen, not in enmity but in friendly rivalry, and this, no doubt, will be a very pleasant change for the Cossacks, and the Cowboy, Mexican, Indian, Vaquero, and the other interesting riders that Buffalo Bill has now rendered us somewhat familiar with will see that their brothers from the north also know a thing or two in the way of performance in the pigskin. The troop that appeared yesterday for the first time at the "Wild West" we are informed are "Cossacks of the Caucasian Line," and they are under the command of Prince Ivan Makharadze. The official information kindly furnished with regard to the interesting strangers is that they belong to the branch of the great Cossack family known as the Zapoorgians, immortalised in Byron's "Mazeppa," They are said to be the most remarkable riders in the world. The troop that is now appearing at Earl's-court certainly appear to be famous horsemen. In their long mantles, fur caps, and with sabre and revolver, they look as if they might be useful in a fight, but there is nothing so terrible-looking about them as the imagination might conceive; in fact, regarded as warriors, they are rather mild-looking than otherwise. About their ability on horseback, however, there can be no question. The way in which, under the direction of their princely leader, they formed up, spread about, chased imaginary foes, dived under their horses' sides, rode back and front, as if keeping an enemy at bay, was perfect. As to the introductory chant they indulge in, there is room for a little doubt, for it is not particularly warlike, and neither has it much resemblance to "Ta-ra-ra-boom-de-ay," but still it is new, and that is something. The step dance&#8212;that is the only term we can give it in the absence of the Cossack term&#8212;is peculiar to say the least of it. However, the Cossacks certainly hold their own in the way of what may be termed fanciful horsemanship, and with the sabre they appeared to be tolerably expert men. The "Wild West" is one of the most interesting shows ever seen, and the latest addition certainly adds to attractions that were already numerous enough. It is satisfactory to know that the International Horticultural Exhibition and the Wild West combined have proved a great success. Last week no less than 106,000 persons passed the turnstiles, and on Saturday last the total of visitors reached 32,500.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11990">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Opening of the Horticultural Exhibition and the Wild West Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11990</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Opening of the Horticultural Exhibition and the Wild West Show</title>
+<title level="j">London Evening News and Post</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-09">May 9, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.04.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Electric lighting</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Gardens</term>
+<term>Indians of North America</term>
+<term>Manufactures</term>
+<term>Music</term>
+<term>Scrapbooks</term>
+<term>Shakespeare plays</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Kensington (London, England)</term>
+<term>London (England)</term>
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kb">Bowman, Katie</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11990.001"/>
+
+
+<head>Opening of the Horticultural Exhibition and the Wild West Show.</head>
+
+<p>In successive years the great building at Earl's Court has been devoted to illustrating the arts and manufactures of America, France, Italy, Germany, and all the shows have been of much the same pattern, differing in detail, but almost identical in conception and arrangement. At each the collection of exhibits which purported to be the <hi rend="italic">raison d'&#234;tre</hi> of the show was the smallest part of its attractions for the public, and year by year we heard the same comment, "People go for the gardens and the music." No one ventured to act on the obvious suggestion of this popular criticism, however, because we have not yet quite outlived our national prejudice against the unconventionality of sitting out of doors and being coolly and lazily happy on summer evenings. It would have been considered almost immoral to travel to Earl's Court and pay for admission to a place of entertainment with no more definite object than that of sitting on moonlit banks with Nerissa and letting "the sounds of music creep in our ears." The sturdy enterprise of the British nature makes us reluctant to eat our lotus until we have established a claim to it by tilling the ground and growing the plant. So for seven years we enjoyed those fairy gardens by stealth, working our way to the Arcadian bowers through avenues of commerce, and sedulously fostering the delusion that we went to exhibitions rather for the improvement of the mind than the relaxation of the body. </p>
+	
+<p>This year the opportunity came of shaking off the thraldom of the industrial exhibitor, and it was stoutly grasped by the benevolent committee whose representative and chairman is Mr. H. G. Milner. Their solution of the mighty problem of giving us all the pleasures of an Earl's Court exhibition without any of its tediousness is as simple as it ingenious. They have an exhibition; they have a highly-moral programme; they have a most useful purpose; they give us an excuse for enjoying ourselves which is even more plausible and practical than that afforded by the previous international foregatherings, and yet they have not a depressing corner in the whole of their show, and not a single department designed to bore us. The brilliant idea they have struck upon is that of making an exhibition of the gardens themselves. It is as if we had been testing pills in jam for years, and an original genius had at last arisen to invite us to sample jams without any pill. </p>
+	
+<p>The pleasantest of battles has been fought at West Kensignton. For years the building has oppressed the garden, intercepting its visitors, ignoring its delights, monopolising the titular honours of every show, and gobbling up the giant's share of the praise and the advertisement. This time the garden has shaken off its servitude, and invaded the building. The saucy stalls have been driven back, and the conquered territory of floor-space is gay with the spoils of the invader. Slopes of close-shaven grass, glossy-leaved palms, clusters of shrubs, masses of flowers in brilliant bloom, fill the ground that was heretofore given over to displays of Brummagem trinkets and <hi rend="italic">bijouterie</hi> of the Lowther Arcade. A third of the great hall has become a landscape garden, laid out with its gravel walks and velvet turf and beds of flowers, lying cool and sweet under a lofty roof shaded with draped muslin and festooned with ropes of foliage. Painted scenery at either side extends the view, and opens out beyond the narrow limits of the real garden enchanted vistas of park and wood and distant hills. It is Nature disciplined and brought under cover, lighted with electricity and made independent of sun and rain. </p>
+	
+<p>Nor is the conquest of Flora bounded by the landscape gardens. Flowers abound everywhere. In the space by the main entrance that has in former times been given over to pictures there are as many plants and blooms massed together as would furnish a brace of ordinary flower shows. Opposite we have a range of pictures, appropriately headed by Mr. Sargent's large canvas representing the Royal garden party of Jubilee year; most of them have for subjects flowers or landscapes, or fair women, all appropriate enough to the place and time. At intervals through the building there are oases of green foliage flecked with spots of glowing colour, and sometimes through a cluster of feathery palms spring up silver shafts of water, to fall again with musical plash into coolest dark depths of green.</p> 
+	
+<p>The industrial exhibitor, though deposed from his ancient pride of place, is not altogether ousted. Sufficient space has been reserved for him to show his wares, without forcing them blatantly upon the attention of the careless visitor. All the exhibits, needless to say, smack of the garden. There are the harmless necessary materials with which the horticultural magician conjures rare blooms from the grudging earth&#8212;garden tools, greenhouses, insect-destroyers, and a score of other things. There are the supplementary furnishings that go to make a garden of perfect delight&#8212;neat tents, quaint rockwork, grottoes, ferneries, artistic pottery, bamboo seats and tables. There are the fittings with which the unambitious amateur pursues his hobby, flower-pots, window-boxes, baskets and stands for grouping plants, vases for drawing-room decoration. None of these things, however, are designed for immediate sale, and we can heartily congratulate the management on proving their claim that "the bazaar element has been completely excluded, there being no shops, or stalls, or obtrusively solicitous attendants to worry or withdraw the attention of visitors, as has been too often the case at previous exhibitions." Yet is there one pitfall for the penurious lover who may come to Earl's Court hugging himself in the delusion that at last he has found an exhibition where his pockets will not be drained by the purchase of mementoes, and souvenirs, and such-like. There are flowers to be purchased&#8212;beautiful flowers, sold by charming damsels habited in suitable rustic vesture&#8212;and it will be a poor heart that grudges to beauty its due tribute of roses and lilies. </p>
+
+<p>Out of doors the Triumph of Gardening is as complete and as glorious. The grounds are gay with beautiful shrubs and flowers, and at every point where the multiplication of natural effects is cramped by a limitation of space, art steps in to supply glowing landscapes that carry the eye down fresh avenues of delight. Most notable amongst these painted vistas is a huge picture forming the boundary of the grounds near the theatre, on which the Long Walk in Windsor Park lives for ever in the beauty of sunshine and summer. Close by is a reproduction of a Japanese Garden, complete with temples and tea-houses and all details except one&#8212;the dainty little <hi rend="italic">musm&#233;e</hi> who seems to win the hearts of all journalistic visitors to Japan. Here, too, are an Indian tea garden (adjoining a structure in which the tea is grown, plucked, made ready for the market, brewed, drawn, and served to visitors) and an Insectivorous House, for the display of those greedy plants which prey upon flies and such small deer. In the western section of the ground we have all the old delights and [missing text] which has come back to us bigger and better than ever, with "Buffalo Bill" at its head&#8212;covered with fresh laurels from the latest Indian "difficulty." The "Wild West," however, deserves something better than incidental notice in a general survey of the Exhibition, and will be separately dealt with later on. For the present it will suffice to say that is has all the best items of interest from the programme of 1887, supplemented by many novelties. In conclusion, it is safe betting that the "Floweries"&#8212;granted a decently fine summer&#8212;will beat the Earl's Court record for popularity. It is the most charming and the most picturesque of all the Exhibitions.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

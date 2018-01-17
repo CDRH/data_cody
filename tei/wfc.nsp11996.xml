@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11996">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11996</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Horticultural Exhibition</title>
+<title level="j">St James's Gazette</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-09">May 9, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.05.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Bands (Music)</term>
+<term>Botanical gardens</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Flowers</term>
+<term>Gardens</term>
+<term>Indians of North America</term>
+<term>Prairies</term>
+<term>Scrapbooks</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Kensington (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kb">Bowman, Katie</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11996.001"/>
+
+<head>THE HORTICULTURAL EXHIBITION.</head>
+
+<p>We no longer hold exhibitions for the sake of the exhibits. The pianos, the more or less artistic furniture, the exciting stacks of tinned foods, which crowd the buildings, have become a pretence, a mere pretext for an agreeable-lounging place for after lunch or after dinner. The exhibits are there only to give colour to the notion that one is visiting an Exposition, and in some mysterious sort of way improving one's mind, or drawing closer the bonds of international amity, or "advancing" some charitable object or other. We go to such places because we can spend a pleasant hour or two listening to fine bands or smoking and flirting under the trees. The promoters of the International Horticultural Exhibition which was opened on Saturday by the Duke of Connaught have had the courage to drop most of these pretences. There is nothing on sale in the buildings save pictures, and the only exhibits, beyond a selection of gardening appliances, are flowers and plants, shrubs and parterres. The Central Hall, once full of stalls of "notions," is now in part a conservatory and in part a winter garden. In the hot days of summer&#8212;should we get any summer and any hot days in it&#8212;the vista will be deliciously green and cool. Here are fountains and statues and bays hung with pictures, all more or less intimately connected with flowers and gardens. It was in the centre of this great building that Saturday's opening ceremony took place. The Duke of Connaught, accompanied by the Bishop of London, Lord Rowton, and the members of the committee, walked on to a naked da&#239;s; and an instant after his Royal Highness enjoyed a very good imitation of Tel-el-Kebir. The organizers of the ceremony no doubt imagined that they would have to do with an assemblage of ladies and gentlemen who would receive a member of the royal family with respectful deference, and they therefore made no repressive arrangements. But they were seriously mistaken; and no sooner had Mr. Milner, the chairman of the committee, commenced to read an address than the da&#239;s was stormed by a disorderly mob in silks and frock-coats, and the Duke of Connaught was hustled like a pickpocket caught "at work" in a crowd. It was a disgraceful exhibition of snobbery; but the Duke smiled imperturbably (he has, no doubt, been in rushes of that kind before) and made a graceful little reply.</p> 
+	
+<p>The grounds have been made much more varied and attractive than they were before: typical gardens&#8212;Tudor, Jacobean, Roman, French, Dutch, Chinese, and Japanese&#8212;have been laid out and, if a trifle small, are all in excellent condition; while every corner is utilized for a strip of lawn, a clump of rhododendrons, or a belt of shrubs. It is a pleasure to walk among these trim parterres along excellent paths well studded with seats. The band-stands are more numerous and more equally distributed, and an air of spaciousness has been given to the West Kensington end of the grounds by a strikingly painted perspective of the Long Walk at Windsor. The familiar old switchback railway still offers its giddy delights, and there is a floral maze for the confusion of the adventurous. But the great attraction of the exhibition will, no doubt, be Buffalo Bill, fresh from a new campaign. This time he has brought over a much larger number of Indians than before, a herd of buffaloes greater than is ever met with on the prairies, and the famous <rs xml:id="coach.deadwood">Deadwood Coach</rs>, which boasts of having one day carried four Kings at once, with an heir-apparent on the box. With such attractions as these, added to the band of the Grenadier Guards under Lieutenant Dan Godfrey and three or four other excellent bands, there can be no doubt whatever of the success of the Horticultural Exhibition.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12107">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The "Wild West" Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12107</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The "Wild West" Show</title>
+<title level="j">South London Press</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-07">May 7, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.027.04 (1892 London) </idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Arabs</term>
+<term>Cossacks</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horse racing</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12107.001"/>
+
+
+<head>The "Wild West" Show.</head>
+
+<p>Colonel Cody has been interviewed in New York with reference to the "Wild West" Show at Earl's Court. He said he had brought about 90 people with him from the West, 60 of them being Indians. The show opens this day (Saturday), and will have 300 people in the saddle, the largest number which it has ever had before being 225. Buffalo Bill himself will be the star, as of old. He has missed only five performances at which he was advertised to appear in 20 years. An addition to the exhibition this year will be called "Rough Riders of the World," and will consist of bands numbering from 10 to 25 each, of Cossacks, Algerians, Chilians, &amp;c., who will show their characteristic styles of riding, and compete with the Americans in races. Since the "Wild West" was first exhibited in London it has been seen in nearly every country of Europe, including France, Spain, Germany, Italy, and Austria. The company will return to the United States after the summer in London, and will have no winter engagement. Colonel Cody says that he has no plans beyond those for the World's Fair, and that he thinks he is getting a little too old to exhibit himself at the head of his company year after year. If this is the case (the reporter adds) he does not show it.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

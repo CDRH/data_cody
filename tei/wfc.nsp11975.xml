@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11975">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">International Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11975</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">International Horticultural Exhibition</title>
+<title level="a" type="sub">Opening by Royalty</title>
+<title level="j">The Times</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-08">May 8, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.001.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bands (Music)</term>
+<term>Electric lighting</term>
+<term>England. Parliament</term>
+<term>Exhibitions</term>
+<term>Indians of North America</term>
+<term>Nobility--Great Britain</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron, 1857-1941</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kb">Bowman, Katie</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11975.001"/>
+
+<head type="main">INTERNATIONAL HORTICULTURAL EXIBITION.</head>
+
+<head type="sub">OPENING BY ROYALTY.</head>
+
+<div2>
+<p>Yesterday afternoon the Duke of Connaught opened, in the presence of a large and fashionable assembly, the International Horticultural Exhibition at Earl's Court. The Duke, who was met at the entrance by the executive, was escorted down a long avenue of spectators to a da&#1111;s, behind which curtains were drawn across from wall to wall. His Royal Highness was accompanied by the Bishop of London and Mrs, Temple, Lord Ashbourne, Lord Rowton, and Sir G. Baden-Powell, M.P., and among a distinguished company who took up positions down the line of procession were Baron Henry de Worms, M.P., Sir Charles Tupper, Lord Baring, Lord Balfour of Burleigh, Mr. Cowley Lambert, M.P., the Lord Advocate, Mr. Malcolm Low, M.P., Colonel North, Mr. J. Maclean, M.P., and Colonel Cody. The Duke having mounted the platform, Mr. H.E. Milner, Chairman of the Executive Committee, read an address of welcome, but he had hardly completed the first few sentences when a well-dressed crowd rushed pell-mell to the platform. The Duke having replied in tones which were inaudible amid the din, the curtains were drawn back, revealing a perfect fairyland of flowers and evergreens in the central transept, and the proceedings of the formal opening terminated.</p>
+</div2>
+
+<div2>
+<head>THE SHOW DESCRIBED.</head>
+
+<p>The exhibition is one which, unlike its immediate predecessor, ean appeal for public support on the score of attractions other than those afforded by military bands and <hi rend="italic">al fresco</hi> promenading. It is thirty years since an International Horticultural Exhibition was held in this country, and in the interval immense changes have been witnessed. The grounds and buildings have undergone a complete transformation. Flowers and foliage meet the visitor on every hand, while the bazaar element, with the importunate attendant, has been completely excluded. An immense fountain occupies the central position in the entrance hall, which is ornamented with figures and groups of statuary, and the side halls take the form of picture galleries. A central avenue, 20ft. wide, extends down the whole length of the main building, interrupted only (at the foot of the Earl's Court entrance steps) by an open space, where there is another large fountain, which, grouped round with masses of tropical greenery, is lighted by electricity, and by night presents a constant succession of changing colour. The side halls form a continuation of the picture galleries: and a very pretty decorative idea is given effect to in the large central space, the four corners being occupied with groups of statuary and flowers illustrating respectively Spring, Summer, Autumn, and Winter. From the wall of the main building to a point near the theatre, a scenic background, representing an elegant terrace garden, has been erected; and the top portion of the ground beyond the theatre is walled in, as it were, by a gigantic painting, the perspective of which is cleverly managed. This picture depicts the Long Walk in Windsor Park, which blends most effectively with the general scene, the illusion being perfect. The space between the theatre and this vista of Windsor is devoted to the purposes of an enclosed flower market. At the other end of the picture there is a reproduction of a Japanese garden, with its temples and teahouses; and close by an Indian tea garden offers a very special attraction. In another part of the grounds is a Tudor mansion, with a floral maze; an ancient Roman garden; an Egyptian Temple, with a glimpse of the Nile and lotuses and date palms; a modern Italian garden; a Jacobean garden, with shrubs pruned into artificial shapes; and, lastly, a Georgian garden. From time to time special shows and floral f&#234;tes will be held while the exhibition remains open. In addition to all these things there are the military bands, and "Buffalo Bill" has brought from America many more Indians than before, including some who took part in the last war with the redskins. It should be added that the entire net profits of the exhibition, which, it is anticipated, will meet with phenomenal success, will be devoted to different gardening institutions.</p>
+</div2>
+
+
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

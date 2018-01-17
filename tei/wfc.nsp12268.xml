@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12268">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Cossack in London</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12268</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Cossack in London</title>
+<title level="j">Daily Telegraph &amp; Courier</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-02">June 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.049.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Arabs</term>
+<term>Caucasus</term>
+<term>Chants</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Don Cossacks</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Folk music</term>
+<term>Georgians (South Caucasians)</term>
+<term>Hetmans</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Trick riding</term>
+<term>Weapons</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Salsbury, Nathan, 1846-1902</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>St. Paul's Cathedral (London, England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12268.001"/>
+
+
+<head>THE COSSACK IN LONDON.</head>
+
+<p>London is becoming more than ever the common meeting-ground of the races. Last Sunday worshippers in the great basilica of St. Paul's must have been struck at the strange spectacle of the Old East, clad in traditional garb, sitting cheek-by-jowl with the savage West. It was a detachment of Caucasian Cossacks, who, in company with a small band of Sioux and other Indians, had jointly entered the sacred edifice to witness the impressive services of the English Church. In passing it may be stated, that what seemed most to impress these&#8212;so to speak&#8212;aborigines of the Old and New Worlds, was the bold immensity of Wren's building and the grand mysterious strains of the organ. Yesterday both the Indians and Cossacks appeared in the "Buffalo Billeries" at the International Horticultural Exhibition, Earl's-court. Colonel Cody, in his Wild West Entertainment, in conjunction with Mr. <persName xml:id="salsbury.n">N. Salsbury</persName>, has determined to gather together representative horsemen from all parts of the world. Hence it is that to Cowboys from Texas, Indians from the plains, and Mexicans from the Rio Grande and the Pacific, he has now added a troop of ten Cossacks from the country between the Black and Caspian Seas. The Cossacks, under the command of their Hetman, Prince Ivan Makharadze, gave their first performance during the course of the afternoon, in which they proved themselves daring and marvellous riders, well deserving of their widespread fame as horsemen. They entered the arena mounted on Indian ponies, which within a few days they have broken in very successfully to their mode of riding. The Cossack, like the Arab, treats his horse as a friend when off his back, but once in the saddle he drives him like an enemy. Apparently, the Cossacks imitate the Arabs in other respects in the management of their steeds, for they ride in saddles of much the same narrow antique pattern, more like a pack-saddle than an ordinary English one, and they depend chiefly upon the bit in controlling the animal's movements. Yesterday the Cossack part of the exhibition consisted in a representation of the mode of life of a troop upon the march. The troop ambled past, the men dressed in their astrachan caps, flowing gowns of brown, yellow, and green, and long cavalry boots, each soldier girt with an arsenal of small-arms, sword, poignards, and pistols. As they moved along they sang a sort of chant in which the treble predominated over the bass. Then they formed up like ordinary cavalry, dismounted, and, to the clapping of hands and the quickening of the chant, two of the troop veritably tripped the light fantastic toe with the agility of ballet-masters and the multiplicity of steps of a Scotch Highlander. The dance had but one fault, it was all to brief. Next followed feats of horsemanship. Whips were dropped on the ground and picked up at full gallop by the Cossacks, with hands and with their mouth. They stood in the saddle, on their feet and on their hands, kicking their legs in the air as the horse flew madly around; they rode with their faces to the horses' tails, chased each other to capture a handkerchief carried in the mouth, a sort of hunt; and, finally, they showed how, as swordsmen, they charged and fought with that weapon. A better exhibition of horsemanship has never been seen in London, nor one more full of startling surprises. Quite a romantic history is that of their interpreter, a young man of twenty-four years of age, named Thomas Oliver. Nineteen years ago he was apprenticed in Manchester to Manley's Circus, and went with that troupe to Russia and the Caucasus, were, owing to the death of his patron, he has resided until recently. He has come back to England in the hope of being able to obtain some traces of his parents and his kindred.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

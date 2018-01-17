@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12030">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Chat with Buffalo Bill</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12030</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">A Chat with Buffalo Bill</title>
+<title level="j">The Pelican</title>
+<pubPlace></pubPlace>
+<date when="1892-05-14">May 14, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.014.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Firearms</term>
+<term>Historical reenactments</term>
+<term>Horses</term>
+<term>Indians of North America--Wars</term>
+<term>Indians of North America</term>
+<term>Interviews</term>
+<term>Mexicans</term>
+<term>Nebraska. National Guard</term>
+<term>Pawnee Indians</term>
+<term>Scalping</term>
+<term>Scouting (Reconnaissance)</term>
+<term>Scrapbooks</term>
+<term>Sioux Nation</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Dodge, Richard Irving, 1827-1895</term>
+<term>Sherman, William T. (William Tecumseh), 1820-1891</term>
+<term>Thayer, John M. (John Milton), 1820-1906</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brompton (London, England)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Margate (England)</term>
+<term>Vesuvius (Italy)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12030.001"/>
+
+<head>A CHAT WITH BUFFALO BILL.</head>
+
+<p>I OUGHT truthfully to call this article "How I chased Colonel Cody," for it was only after a long chase and a stern chase that I ran the gallant Colonel to earth. Across the wild Sierras of Earl's Court I roamed in search of him; through the pathless pampas of West Brompton I sought his trail, and ultimately I came upon him in the Arena, rehearsing for the Wild West show.</p>
+
+<p>It was a ticklish job. Great Flat Foot, the blood-thirsty Sioux warrior, glared at me, and Fat Head, the great Pawnee Chief, muttered in unintelligible gutterals the Wild Western version of "Ta-ra-ra-boom-de-ay." Cowboys dashed around me on fiery mustangs, Mexican vaqueros flourished lassoes in my face, and even the <rs xml:id="coach.deadwood">Deadwood Coach</rs> gave vent to sundry creaks which seemed to ask how the poor pale-face Philistine from Fleet Street had dared to intrude amidst the romantic surroundings of the great show. Even the gallant Colonel himself was busily shooting at glass balls, and if you have never tried it I can assure you that attempting to interview a man whilst in the act of shooting at glass balls is an uncommonly difficult business. Buffalo Bill was tearing round the arena at the rate of so many miles a minute, what time he pulled trigger of his rifle. I did not attempt to interrupt him by asking one or two questions. I just lay low, trifled with my wampum, smoked the pipe of peace, buried the hatchet, and smiled at a sturdy papoose, until Buffalo Bill had ceased his gunning. As he dismounted I fell upon him. He admitted that he was caught, and cheerfully accepted the situation.</p>
+
+<p>"I want you to tell me how old you are, where you were born, where you went to school, what cigars you smoke, how many Indians you have scalped, what size collars you wear, how you like London, what sort of a reception you had on the Continent, why you ride a white horse, and&#8212;and," here my breath began to fail me, "and&#8212;and&#8212;anything else of general interest."</p>
+
+<p>I thought that was pretty good for a start, so did Colonel Cody. He looked at me firmly, took me gently by the arm, and escorted me to his tent. When we got there he sat down. So did I. For a moment there was a painful silence, but it didn't last long.</p>
+
+<p>"I think the public know me pretty well by this time," he said, "and they might be bored if we went over the old ground again. Suppose I tell you something new?"</p>
+
+<p>I jumped at the notion. To use a Wild West term, I "bucked" at it.</p>
+
+<p>"Certainly," said I.</p>
+
+<p>"But you must ask me what you want to know."</p>
+
+<p>That was a poser. But I was equal to the occasion.</p>
+
+<p>"Well, first and foremost, Colonel Cody, there are certain ill-natured and jealous persons going about and declaring that you are not a real Colonel, that you have never been engaged in real warfare. Tell me if that is true."</p>
+
+<p>The Colonel laughed. It was a breezy laugh, savouring of the wild plains of Texas, and bringing back to my memory the airy freedom of the Nebraska mountains. (I have never been further from London than Margate, but no matter.)</p>
+
+<p>At that moment Major Burke entered, and in a few words he threw some light on the subject. He also threw his burly form into a convenient chair.</p>
+
+<p>"General Cody," he said, "holds his commission in National Guard of the United States (State of Nebraska), an honourable position, and as high as he can possibly attain. His connection with the Regular United States Army has covered a continuous period of fifteen years, and desultory connection of 30 years, in the most troublous era of that superb corp's Western history, as Guide, Scout, and Chief of Scouts&#8212;a position unknown in any other service, and for the confidential nature of which General Dodge has said everything that is to be said. The privileged position and the nature of his services in the past may be perhaps better understood when I say that he commanded, besides horses, rations, and quarters, a salary of 3,650 dollars per annum, as well as all expenses, and for special service, or "life and death" volunteer missions, special rewards of from one hundred to five hundred dollars. The important despatches he has been entrusted with, and has successfully conveyed, in the face of dangers and difficulties too numerous to mention, are legion. You have heard, no doubt, of the despatch he carried from General Sherman to General Dodge, riding a distance of 350 miles in less than sixty hours, and that in the middle of winter."</p>
+
+<p>"A grand performance," I interposed.</p>
+
+<p>"With his achievements as an entire PELICAN might be filled and then not exhaust them."</p>
+
+<p>"Didn't the Colonel take a prominent part in the Indian campaign of '91?"</p>
+
+<p>"He did. Read this."</p>
+
+<p>I read it. <hi rend="italic">It</hi> was an official document from the Governor of Nebraska, addressed "General Cody," and ordering him to the front. To the front he went, and by his actions and knowledge of the hostile tribes was successful in bringing about a state of peace in a very brief time. Several of the Indians who took part in this recent struggle were induced to join the Wild West Show, and may now be studied under pacific conditions at Earl's Court.</p>
+
+<p>Of course everyone knows why Colonel Cody bears the sobriquet, "Buffalo Bill." I say "of course," for I don't suppose nine persons out of ten do know. I confess I was a little hazy on the point, but while the object of our talk was examining a new shot gun, <persName xml:id="burke.j">Major Burke</persName> enlightened my gross ignorance. </p>
+
+<p>"In his earlier days he was a great buffalo hunter, and in this sport succeeded in wresting the laurels from all competitors. On one occasion he succeeded in killing sixty-nine buffalo in competition with Comstock, another renowned Nimrod, who only potted forty-six. That wasn't bad, was it?"</p>
+
+<p>And how about the 'Honourable,' for the Colonel is constantly described with that prefix?"</p>
+
+<p>"Colonel Cody was in 1872 elected a member of the Nebraska Legislature, and has therefore a perfect right to bear the title."</p>
+
+<p>Then the Colonel himself joined us again and alluded to his adventurous tour through the Continent.</p>
+
+<p>"What seemed to surprise and awe the Indians most was Vesuvius, which, fortunately for us, was in a mild state of eruption. The deep glow of the terrestial fire powerfully affected the wild children of the North, and they were never weary of lying on their backs with eyes fixed on the smouldering crater."</p>
+
+<p>"Do you ever have any trouble with your Indians?"</p>
+
+<p>"No, they are very quiet and docile, and seem to like travelling about, saving and excepting when the travelling is on the sea. The magic floating houses, as they term the steamers, are allright when there's a calm, but when there isn't then the poor Indian suffers terribly from <hi rend="italic">mal de mer</hi>, and doubtless wishes himself at home."</p>
+
+<p>"And how about the dumb but equally useful members of your caravan?"</p>
+
+<p>"They, too, give us little trouble. Of course we have accidents occasionally. Our buck-jumpers occasionally buck too vigorously or jump top high, and the result is broken backs and other unavoidable calamities."</p>
+
+<p>"And yourself, Colonel, how did you get on in the Continental cities."</p>
+
+<p>"Oh, I was royally entertained, everyone was very kind to me, and I had a good time. But I am not sorry to be back again in Old England. It is pleasant to hear the English tongue spoken again, and to see English faces."</p>
+
+<p>This I took as a delicate compliment to myself. It probably wasn't.</p>
+
+<p>"I am told, Colonel, that you are an adapt at scalping. Tell me how you scalp. I should like to practise the art. It might come in useful during the course of my journalistic career. And as an after-dinner amusement for the drawing-room something might be made out of it. We stand badly in need of a novelty of some sort."</p>
+
+<p>"You take your knife in one hand so, and with the other hand you seize your prisoner by the hair so&#8212;"</p>
+
+<p>It was a graphic illustration, and so far as it went convincing, too. But after learning the first principles I had no desire for more information. I suggested that Major Burke would make a good subject, but the Mayor said he couldn't spare his scalp at the moment, and so I am still in the dark as to the exact method of acquiring an enemy's back hair with the least possible delay. One day I intend asking Old Bull Face, or Little Frog Eye, both of whom I understand, know a thing or two about the business, and ought therefore to be in a position to give me some pleasing and life-like details.</p>
+
+<p>Then I left, carrying with me a permanent mental photograph of the moving spirit in this strange and interesting collection of red-men, cowboys, Mexicans, mustangs, and comely ladies. That photograph took the form of a tall, broad, well-made man, with the sun-tanned complexion of a traveller and hunter, a keen eye, and a slow, deliberate manner of speech&#8212;a man, in fact, born to lead other men, an interesting personality and a modest one withal.</p>
+
+<p>And behold this is the portrait of the great chief Cody, I have said it!</p>
+
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

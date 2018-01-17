@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12362">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12362</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Horticultural Exhibition</title>
+<title level="j">Society</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-28">June 28, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl> 
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.060.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Amusements</term>
+<term>Caucasus</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Don Cossacks</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Folk music</term>
+<term>Georgian language</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Nobility--Europe</term>
+<term>Nobility--Great Britain</term>
+<term>Nobility--Russia</term>
+<term>Russia</term>
+<term>Russian language</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+<term>Weapons</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Alexander III, Emperor of Russia, 1845-1894</term>
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12362.001"/>
+
+
+<head>HORTICULTURAL EXHIBITION.</head>
+
+<p>That the public have only to be offered a good thing to appreciate it is amply proved by the patronage extended to the Horticultural Exhibition. All last week the attendance was enormous&#8212;in the afternoon as well as in the evening&#8212;and this despite the tropical heat which prevailed. That the principal attraction is "Buffalo Bill" and his show is obvious, for both performances draw to the gigantic amphitheatre the great bulk of the visitors to the exhibition proper. It is not that the floral part of the show is deficient in beauty, but that the scenes in the ring have so strong a fascination for everybody.</p>
+
+<p>Gazing round the tiers upon tiers of seats and seeing them densely thronged, not only by the populace, but by the people you are accustomed to associate with the stalls and boxes of a fashionable theatre, one is bound to recognise the fact that there is a vitality in Colonel Cody's entertainment which seldom attaches to outdoor hippic performances. As if, however, the "Wild West" was not sufficiently exciting in itself, it is now supplemented by a number of Cossacks from the Southern Caucasus, whose feats of horsemanship surpass anything of the kind ever seen outside the Russian Empire. </p>
+
+<p>I derived my earliest impressions of what the Cossacks of the Don are capable of doing in St. Petersburg itself, when a regiment of them galloped madly past the late Emperor Alexander, his son (the present Czar), the Prince of Wales, and an army of Princes gathered in the Russian capital from every country in Europe. Unlike those now at the Horticultural Exhibition, the Cossacks whom I saw dart past the Winter Palace with the velocity of the wind were, as I need hardly point out, soldiers, but, although they were drilled to the utmost point of perfection, they were not superior in horsemanship to the ten non-military men now drawing all London to West Brompton.</p>
+
+<p>Those Caucasian Cossacks wear the long brown caftan so familiar to all who know Russia, high boots of a very soft leather, innocent of the remotest contact with any kind of polish; and small cloth caps, of the same hue as the caftans, with a narrow rim of whitey-brown astrachan. Pistols and scimitars, or course, they carry, and they enter the arena at a walking pace, chanting one of those shrill, crooning melodies which sound so strange to our ears.</p>
+
+<p>The horses ridden by the Cossacks, whose home is in the Southern Caucasus, are not, as the reader will doubtless be surprised to hear, their own, but animals which have been trained by Colonel Cody and his men; and this circumstance certainly makes the feats of our Russian friends all the more amazing. Some stand up in the saddle as the fiery steed dashes madly round the circus; others support themselves on their hands and head while the horse is going full tilt; while one sits in the saddle with his face to the animal's tail, and is apparently as much at home in that position as in any other!</p>
+
+<p>The Cossacks do not speak Russ very fluently; their language is the Georgian dialect, or <hi rend="italic">patois</hi>, and this renders them somewhat difficult to interview. Being subjected to the "pumping" process, however, it was elicited from them that they were greatly struck by London, especially by the "railway under the earth"; also that, being unaccustomed to "the ocean wave," they were all very unwell during their passage across the Black Sea. They are only to be away from their homes for six months; and already some of them give one the impression that they would like to be back in the Steppes again. It has been said that the Cossacks are "all princes," but on what authority I know not.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

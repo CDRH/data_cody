@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12399">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Stories of Stirrup &amp; Saddle</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12399</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>Thormanby, or William Wilmott Dixon, was an author of British horse racing, shooting, and sporting books.</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Thormanby. [William Wilmott Dixon, 1843-]</author>
+<title level="a" type="main">Stories of Stirrup &amp; Saddle</title>
+<title level="j">Licensed Victuallers' Mirror</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-24">June 24, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.063.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Aristocracy (Social class)</term>
+<term>Cavalry</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Hetmans</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Nobility--Russia</term>
+<term>Scrapbooks</term>
+<term>Thormanby</term>
+<term>Weapons</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Byron, George Gordon Byron, Baron, 1788-1824</term>
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Moscow (Russia)</term>
+<term>Ukraine</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12399.001"/>
+
+
+<head>STORIES OF STIRRUP &#38; SADDLE.</head>
+
+<byline>By THORMANBY.<lb/>
+
+<hi rend="italic">Author of "The Horse and His Rider," "Famous Racing Men," "Tales of the Turf," &#38;c.</hi></byline>
+
+<p>At the close of my last chapter, I made some reference to the Cossacks. Since then, I have been to Buffalo Bill's Wild West Show, to look at the Cossacks who have come over to show Londoners a specimen of their horsemanship, this summer. I cannot say that I was struck either by their physique or their equestrian skill. I am inclined to think that the Cossack was always an over-rated horseman, though time was when his fame was great over Europe. As an instance of this, I may state that the great sensation of the early party of the year 1813, was the arrival in London of a personage known as <hi rend="italic">The Cossack,</hi> an importation for which metropolitan society was indebted to Lord Walpole. The papers daily recorded the minutest doings of this wonderful stranger from Russia. Crowds followed him wherever he went. He had enthusiastic receptions from the Lord Mayor, at the Mansion House, and from the members of Lloyd's and the Stock Exchange. He was introduced to Royalty itself, and in fact was the lion of the season.</p>
+
+<p>"His stature," says the <hi rend="italic">Morning Chronicle,</hi> "is about six feet: his make robust and manly: his countenance, though rough and soldier-like, more expressive and gentle than the ideas we usually associate with his nation." His hair, we are further told, was iron-grey, cut close over his forehead, and combed long behind his ears. his hand was remarkable for its tremendous span. He wore a blue jacket and loose trousers, and his arms were pistol, sabre, musket and long pike. The last-named weapon was ten feet in length, and it was said that this Muscovite hero had slain with it no less than seven-and-thirty Frenchmen during Napoleon's recent campaign against Russia. Doubtless this was the main secret of <hi rend="italic">The Cossack's</hi> popularity. The memory of the awful retreat from Moscow was still fresh and vivid, and everyone was curious to gaze at one of that famous race of horsemen who had helped so materially to harass and harry the flying Frenchmen. Then, it must be remembered that every Englishman hated Napoleon with an intensity and bitterness of hatred which it is difficult for us now to realise, consequently, even the humblest instrument in procuring his downfall was regarded with admiration and enthusiasm.</p>
+
+<p>At that time there was a half-romantic mystery hanging around the Cossacks respecting whose wonderful horsemanship, courage, and powers of endurance the most extraordinary tales were current. It was not until the Crimean War that we learned to rate these much-belauded cavalry at their proper value, and discovered that their vaunted prowess was a myth. But in 1813, there was an enthusiastic admiration of the Cossacks, who were regarded as the main factors in the collapse of Napoleon's stupendous scheme of invasion. And now that Londoners had a representative of this famous force in their midst their enthusiasm knew no bounds.</p>
+
+<p>The <hi rend="italic">furore</hi> over this particular Cossack reached its climax on Sunday, the 18th April, 1813, when he made a public exhibition of himself in Hyde Park, before 100,000 spectators. Mounted on a magnificent charger, lent to him by Colonel Herries, the Cossack, fully armed and equipped went through the evolutions peculiar to the unique body of cavalry to which he belonged. He took imaginary pot-shots with his musket, engaged in terrific hand to hand combats (also imaginary) with sword and pistol; and then came the "pursuing practice," when riding at full gallop, with his long lance levelled, he speared the phantoms of flying foemen with that redoubtable weapon which had taken the lives of near two score Frenchmen.</p>
+
+<p>The people were delighted, they cheered the gallant horseman to the echo, though probably had they seen him mounted on the little shaggy pony which he generally bestrode, they would have thought him a far less imposing figure than he appeared on Colonel Herries' large and stately charger. </p>
+
+<pb facs="wfc.nsp12399.002"/>
+
+<p>Of course, the poor Cossack could not possibly know that he was outraging public opinion by giving his performances on a <hi rend="italic">Sunday</hi>, and if anyone took the trouble to translate to him the comments of the daily journals on this "shocking profanation of the Sabbath," he must have stared in bewilderment, with the memory of those enthusiastic cheers of the crowd in Hyde Park still ringing in his ears. How the papers yelled and howled over that Sunday exhibition, and those who were responsible for it! Mrs. Grundy, hurt in her most sensitive part, would have no more to do with the Cossack, and even went so far as to hint that the defeat of Lutzen, on the 2nd of May, 1813, was a judgment on the Allies for employing soldiers who were capable of making a public exhibition of themselves on the <hi rend="italic">Lord's Day.</hi> From which it will be gathered that London had its M'Dougals, and Charringtons, and Parkinsons then as now.</p>
+
+<p>There is one famous Cossack, at any rate, whose name will be familiar in our mouths as a household word to the end of time, and that is Mazeppa. To those who have read Byron, the story of Mazeppa needs no re-telling, but to most persons now-a-days I suppose Mazeppa is principally known from recollections of Astley, and the opportunity which the story, in its dramatised form, gave for the display in as near an approach to absolute nudity as the Lord Chamberlain will permit of the voluptuous figures of Adah Isaacs Menken, Amy Sheridan, and sundry other "daughters of the god, divinely tall, and most divinely fair." The true story of Mazeppa is perhaps not <hi rend="italic">quite</hi> so romantic as Byron has made it out to be. Still, its main outlines are romantic enough in all conscience. Mazeppa was the son of a Polish gentleman, and became a page at the Court of John Casimir, King of Poland. After his return to his native province of Podolia, the handsome and accomplished young page attracted the attention of the wife of a neighbouring lord, the Count Palatine. The lady was young, beautiful, and amorous. Her husband was thirty years her senior. and it was not surprising, therefore, that she should seek elsewhere than in the marital couch for the pleasures of love. Mazeppa became as attached to her as she to him. In the reckless passion of their intrigue, they grew more and more imprudent. The Count Palatine's suspicious were roused, and one evening he surprised the guilty pair in one another's arms. The husband bethought him of a grim and novel mode of revenge. Mazeppa was known as a splendid horseman&#8212;the Count resolved that his vengeance should be entrusted to the animal that his rival loved best. So the young page was stripped naked&#8212;but let Byron tell what followed:</p>
+<lg>
+<l>"Bring forth the horse!"&#8212;the horse was brought,</l>
+<l>In truth he was a noble steed,</l>
+<l>A Tartar of the Ukraine breed,</l>
+<l>Who looked as though the speed of thought</l>
+<l>Were in his limbs; but he was wild,</l>
+<l>Wild as the sea, and as untaught;</l>
+<l>With spur and bridle undefiled&#8212;</l>
+<l>'Twas but a day he had been caught;</l>
+<l>And snorting, with erected mane,</l>
+<l>And struggling fiercely, but in vain, </l>
+<l>In the full foam of wrath and dread</l>
+<l>To me the desert-born was led:</l>
+<l>They bound me on, that menial throng,</l>
+<l>Upon his back with many a thong;</l>
+<l>Then loosed him with a sudden lash&#8212;</l>
+<l>Away&#8212;away&#8212;and on we dash!&#8212;</l>
+<l>Torrents less rapid and less rash."</l></lg>
+
+<p>Night and day the affrighted steed galloped on with the naked man writhing on his back, until at last he made his way back to the plains of the Ukraine, at the south-eastern extremity of Russian <gap reason="missing"/>
+
+<pb facs="wfc.nsp12399.003"/>
+
+he was born and reared. Mazeppa was found half dead, lashed to the dying horse, by some Cossacks, who cut his bonds, tended him and nursed him till he had recovered health and strength, and then persuaded him to live with them. He rose eventually to be the Hetman, or commander-in-chief, of these famous Cossacks of the Ukraine, and to this day they preserve traditions of the marvellous horsemanship and splendid daring of their beloved Mazeppa. The Czar, Peter the Great, recognising his great talents, both as a soldier and as an administrator, made him Prince of Ukraine. But Mazeppa's restless spirit, impatient of control, could not brook the Czar's rule. Nothing but complete independence would satisfy him. So he joined that Quixotic hero, Charles the Twelfth, of Sweden, against Russia, and distinguished himself greatly in the disastrous campaign of 1709, which ended with the complete defeat of Charles under the walls of Pultowa. The splendid and dashing charges which Mazeppa led that day excited the admiration even of the Russians, who detested him as a renegade; but all his brilliant valour and daring horsemanship were in vain, and he had to fly with the beaten and sorely wounded Charles, first to Wallachia, then to Bender, and finally into Turkey, where he died of fever not many months afterwards. So ignominiously, like that of Charles of Sweden himself, ended the strange, brilliant, romantic, chequered career of Mazeppa, the great Hetman of the Cossacks of the Ukraine.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

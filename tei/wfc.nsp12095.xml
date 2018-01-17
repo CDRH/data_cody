@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12095">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Culture and Wildness</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12095</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Culture and Wildness</title>
+<title level="a" type="sub">A Duke, a Bishop, and Buffalo Bill Open the Joint Show on Saturday</title>
+<title level="j">Star</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-09">May 9, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.025.04 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Botanical gardens</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Flowers</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Temple, Frederick, 1821-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12095.001"/>
+
+<head>CULTURE AND WILDNESS.</head>
+
+<head type="sub">A Duke, a Bishop, and Buffalo Bill Open the Joint Show on Saturday.</head>
+
+<p>In delightfully fine weather, forming an auspicious omen for the season of the show, the International Horticultural Exhibition was opened by the Duke and Duchess of Connaught. The Duke was accompanied by the Bishop of London, Buffalo Bill, Col. North, and the attendance of the general public was a very large one. A ceremony, which was pretty and out of the beaten track, had been arranged; a platform had been erected, having for its background two huge sheets of bunting. At the proper moment during the oratory, these two great flags were to fall apart, and<lb/>
+
+REVEAL THE BEAUTIFUL GARDENS BEYOND.<lb/>
+
+But no precautions for railing off the platform had been taken, and the public not only surrounded it, but mounted upon it, and came near mixing the Duke and Duchess up in an unseemly crush. Probably this was the reason why the oratory was cut very short, but whatever might have been said the Press could have heard nothing. They got left on the outside of the crowd. The show, which has already been described in these columns, certainly elicited boundless admiration, and is to be as big a success as any of its predecessors on this ground, and much greater than several of them. The tastefulness of the horticulture and the wildness of the Wild West is sure to draw big crowds. The entire net profits, it is stated, will be devoted to such gardening institutions as the executive committee may select.</p>
+
+<p>At the luncheon the Bishop of London eloquently described the flowers as one of God's most beautiful creations. He expressed a hope that the sight of the flower exhibition would lead people to the love of one of the greatest of civiiising influences&#8212;the culture of flowers. Our report does not say what moral the bishop drew from the Wild West Show.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12345">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12345</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>Hill, Leonard Raven; illustrator and cartoonist; born in Bath, Somerset, on 10 March 1867; died at Ryde, Isle of Wight, on 31 March 1942.</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Jingle</author>
+<respStmt><resp>Artist/Illustrator</resp><name>Raven-Hill, L. (Leonard), 1867-1942</name></respStmt>
+<title level="a" type="main">The Wild West</title>
+<title level="j">Pick Me Up</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-25">June 25, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.058.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Amusements</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Humorous poetry</term>
+<term>Indian children</term>
+<term>Indian women</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Mormons</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Nelson, John Young, 1826-</term>
+<term>Raven-Hill, L. (Leonard), 1867-1942</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12345.001"/>
+
+<head>THE WILD WEST.</head>
+
+<figure n="drawing"><p>A SQUAW</p></figure>
+
+<p>One of the most fascinating entertainments ever brought before the public is the "Wild West," which has pitched its tent for the season at Earl's Court. The dexterity of the Cowboys is as remarkable as it is diverting; but, after all, the greatest objects of curiosity are the stalwart Redskins, who sit around with enough bright paint on their faces to excite the mortal envy of a fashionable barmaid. Now that the "noble red man" is pretty well played out, an exceptional interest attaches to a few of the surviving members of a dying race, and, his own interests apart, Col. Cody is performing a useful service in handing the samples around.</p>
+
+<lg><l>Upon the Red Man's feathered head</l>
+<l>&#160;The small boy fixed his gaze,</l>
+<l>And thought of all the books he'd read</l>
+<l>&#160;Of "Injuns" and their ways.</l>
+<l>His mother called him off, but he</l>
+<l>&#160;Hung on there just like glue:</l>
+<l>"Here, wait a bit, I want to see</l>
+<l>&#160;Him scalp a chap or two!"</l></lg>
+
+<p>One evening last week, just as it was growing dark, I managed to slip into the grounds of the Wild West without paying, and just by the camp I had the good fortune to run against Mr. Lew. Parker, the general contracting agent. I explained to Mr. Parker that my maiden aunt and her two unmarried sisters were anxious to hear a little about the show from one they loved so well, and, thereupon, he very kindly took me by the hand and showed me round the camp. The tents look as much as anything like a number of old sheets tied on to a bunch of clothes props, and in these we found Indians and Scouts, and all the novelties of the season dated and catalogued.</p>
+
+<p>We stopped before the door of one of the principal tents, said door being an arrangement somewhat resembling a window blind. In the absence of a brass plate the name of "Lone Wolf" had been roughly painted on the canvas; and as there wasn't any bell or knocker or any frivolity of that sort, Mr. Parker put his head inside, presumably to make sure we were not interrupting any toilet arrangements, and then asked me to follow. In the centre of the tent there was a cheerful log fire, the red man's silent but impressive satire on our glorious English summer. To my mind, the fire was rather too close to the door to be handy; because it seems to me that if a fellow came home from the club at a late hour one night and wasn't quite sure of his feet&#8212;well, even his mother-in-law couldn't make it much warmer for him. Over the fire sat the great chief, and after a brief introduction we shook hands, and I asked kindly after his relations. He smiled and said&#8212;but, no; I really can't tell you what he said in a family paper like this. The remarks simply heaved out of him; and I'm only thankful I didn't understand a word.</p>
+
+<p>In another tent I had the pleasure of meeting the veteran John Nelson,<!--LINK--> one of the most interesting of the central figures of the show. Among his varied experiences, Mr. Nelson acted as guide to the late Brigham Young when the great Mormon had to start for the West to find a new home, as he had more wives and sweethearts than eastern cities felt they could comfortably hold. Mr. Nelson, who has done so much, extended a most courteous consideration to a young man who has done so little; and I am only sorry I couldn't accept his kind invitation to come round after the performance and hear some of his adventures. Leaving the camp, we went round to inspect the stables, and Mr. Parker "talked horse" to me. By that time I felt as if I owned the whole show. I talked patronisingly to my esteemed escort, generously offered points on "buckers," and spoke of Col. Cody disrespectfully as "Bill." Just now, I suppose Mr. Parker is puzzling to think how one man's head could possibly contain all the ignorance of horseflesh I succeded in displaying on the occasion.</p>
+
+<figure n="drawing"><p>A COWBOY</p>
+<ab type="credit">L R H</ab></figure>
+
+<p>The last things pointed out to me were the buffaloes, the remnant of the only known native herd. Mr. Parker said they wouldn't take &#163;20,000 for the lot as they stood. I didn't happen to have the amount with me at the time, or I would have put him to the test. The
+
+<pb facs="wfc.nsp12345.002"/>
+
+
+fact remains, however, that the herd is fast becoming extinct, so that if any of you should happen to find a buffalo knocking around at any time, Col. Cody will be very much obliged if you'll kindly address it to him, postage prepaid.</p>
+
+<p>The entertainment is in many respects the same as it was in the year of Jubilee, but it is too good a thing to be disposed of in one visit. The historical relics and interesting reproduction of old-fashioned customs are quite a circus in themselves. The feats with the "buck-jumping" horses are more exciting than ever; and one can never fail to admire the splendid horsemanship of the cowboys. It may be good fun to hang on to a high-class kicker while it is bumping itself all over with your body and limbs; but personally I should prefer a twopenny tram-ride. It might be a trifle less exciting, but I feel that under the circumstances I could be more certain of retaining the services of my breakfast.</p>
+
+<p>Miss <persName xml:id="oakley.a">Annie Oakley</persName> does some wonderful shooting, though the performances of Master <persName xml:id="baker.l">Johnny Baker</persName> in the same direction run the little lady pretty close. The races and sports, too, are things to see; there is something wildly exhilarating about them all that makes one enviously speculate on the possibility of running a "Wild West" in the back garden at home. The figure-head of the whole show is, of course, Col. W. F. Cody, "Buffalo Bill." Mr. Cody's long experience of savage warfare and his romantic adventures are matters of history; and one can only wonder that a man who has spent most of his life in the pleasing society of bloodthirsty scalpers should be able to adapt himself so perfectly and gracefully to the hum-drum conditions of life in London. Accustomed as he is to circumvent the tactics of whooping savages, we might fairly look to him for an opinion on the best means of squaring matters with our own Salvation Army. Mr. Cody has had just the kind of experience necessary for tackling such a delicate question. Meanwhile, here's wishing him luck with the "Wild West." It's a good, healthy, and instructive show, and deserves well of every one.</p>
+
+<byline>JINGLE.</byline>
+
+<pb facs="wfc.nsp12345.003"/>
+
+
+<fw>JUNE 25, 1892.]</fw>
+<fw>PICK-ME-UP.</fw>
+<fw>205</fw>
+
+<figure><p>THE WILD WEST</p>
+<ab type="credit">L. Raven-Hill</ab>
+<p>BUFFALO BILL'S INDIANS AT PLAY.</p></figure>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

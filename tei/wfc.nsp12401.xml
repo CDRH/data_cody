@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12401">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West at Windsor Castle</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12401</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Wild West at Windsor Castle</title>
+<title level="a" type="sub">Special Performance Before The Queen</title>
+<title level="j">Reynolds's Newspaper</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-26">June 26, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.063.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bolas</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Folk dancing</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horse racing</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12401.001"/>
+
+
+<head type="main">THE WILD WEST AT WINDSOR CASTLE.</head>
+
+<head type="sub">SPECIAL PERFORMANCE BEFORE THE QUEEN.</head>
+
+<p>At four o'clock yesterday afternoon, Buffalo Bill, with his Cossacks and troupe, arrived at Windsor and gave a performance before the <persName xml:id="victoria.q">Queen</persName> and other members of the royal family, on the spacious lawn fronting the east terrace of Windsor Castle. After the performance the troupe left for London by special train. The programme gone through was of the most attractive description, leading off with a race between the representatives of each of the different nationalities&#8212;the American cowboys, the Red Indians, the Mexicans, the Cossacks, and the Gauchos&#8212;all of whom exerted their powers to the utmost. Then followed a series of scenes of Indian camp life; which the red men went through with much spirit; after which the Gauchos, whose picturesque costume and intrepid feats greatly interested the royal party, gave their performance; their hurling of the "bolas," consisting of a number of raw-hide thongs, which they use as a sort of lasso, being a much-appreciated display. Next came the race for life, showing Colonel Cody and a band of cowboys being pursued by hostile Indians, whom they ultimately defeated. The Cossacks, under Prince Ivan Makharadze, also gave their splendid entertainment of horsemanship and dancing; the everlastingly amusing buckjumpers and cowboys went through their diverting performances; Colonel Cody displayed his wonderful dexterity as a marksman by shooting glass balls, both the Colonel and the object-thrower galloping at full speed; and the entertainment was brought to a close by a general salute by all sections of horsemen, which was acknowledged by the Queen. The greatest success attended every detail of the representation, and the Queen personally congratulated Colonel Cody.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

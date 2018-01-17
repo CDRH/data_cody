@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12077">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Miss Annie Oakley, The Champion Rifle Shot, Now with Buffalo Bill</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12077</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Miss Annie Oakley, The Champion Rifle Shot, Now with Buffalo Bill</title>
+<title level="j">Illustrated Police News</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-14">May 14, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.022.07 (1892 London) </idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Clothing and dress</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Firearms</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Hunting</term>
+<term>Indians of North America</term>
+<term>Rifles</term>
+<term>Scrapbooks</term>
+<term>Shooting contests</term>
+<term>Shooting</term>
+<term>Shotguns</term>
+<term>Sioux Nation</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Sitting Bull, 1831-1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Darke County (Ohio)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12077.001"/>
+
+<head>MISS ANNIE OAKLEY, THE CHAMPION RIFLE SHOT, NOW WITH BUFFALO BILL.</head>
+
+<p><persName xml:id="oakley.a">MISS ANNIE OAKLEY</persName> the <hi rend="italic">Police Gazette</hi> female champion rifle, wing and trick shot, has created a sensation in England, America, France, and in other countries by her wonderful feats of shooting, and has received handsome presents from many sources. Miss Oakley was born in Darks County, Ohio. Ever since a toddling child she has had an inherent love for firearms and hunting. At the age of ten she, as often as ammunition was attainable, would smuggle her brother's musket and steal into the woods, where game at that time was plentiful. Naturally, she was a good shot, and came home well supplied with game. From the old musket she passed to shooting a muzzle-loading shot gun, and rapidly became such a fine shot that she rarely missed a quail. Then came a local reputation, and with improved fire-arms she attracted wider notice, and for the past four years she has been shooting before the public with great success. Though like the modest little girl she is, she never laid claim to being a champion, yet Richard K. Fox had so much confidence in her ability that in 1883-84 he offered to back her against any so-called champion then travelling, and he presented her with a <hi rend="italic">Police Gazette</hi> medal, representing the female shooting championship of America, and when in full regalia she always wears the elegant gold trophy, for she believes it is a mascot.</p>
+
+<p>The great Indian chief, <persName xml:id="sitting.bull">Sitting Bull</persName>, after seeing her shoot at St. Paul, Minn., adopted her in the Sioux tribe, giving her the name Muzza Caw Ah Pazzo, or Little Sure shot. Besides the thousands of exhibitions she has given, she has shot in twenty-three matches and tournaments, winning nineteen prizes. In April, 1884, she attempted to beat the best
+
+<figure n="drawing"><p>ANNIE OAKLEY.</p></figure>
+
+1,000-ball record make at balls thrown in the air, using a 22-calibre rifle. The best record way 979, made by Dr. Ruth. Miss Oakley broke 943. February, 1885, she attempted the feat of shooting 5,000 balls in one day, using three 16-gauge Parker shotguns and loading them herself. The balls were thrown from three traps at fifteen yards rise. Out of 5,000 shot at she broke 4,772. On the second thousand she only missed sixteen, making the highest 1,000 ball record&#8212;984. This feat was accomplished near Cincinnati in less than nine hours. Miss Oakley is 
+
+<figure n="drawing"><p>IN SHOOTING COSTUME.</p></figure>
+
+also a fine rider and understands how to manage a horse, as the following will show:&#8212;</p>
+
+<p>In the fall of '84 a gentleman near Greenville, Ohio, who owned a valuable but vicious and unbroken horse, told her he would give her the horse if she could ride him in less than three days without any assistance. She broke him to saddle and has used him since when not engaged in her exhibitions, sometimes riding fifty miles in one day. What makes Miss Oakley's feats more surprising is that [f]act that she is small in statue and weighs only [o]ne hundred and ten pounds. She is now one of the oincipal attractions of Buffalo Bill's Wild West.</p>
+
+<figure n="drawing"><p>RAPID FIRING.</p></figure>
+
+<p>Miss Oakley is the greatest female trick shooter in the world. One half the feats that the various female shootists in Europe and America daily perform are farcical compared with the feats she accomplishes. She shoots glass balls thrown up in the air in rapid succession. She shoots a nail fastened into a stick three feet in height at twenty five paces. Miss Annie Oakley accomplishes nearly every feat that any other female shooter performs.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

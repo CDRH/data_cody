@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12419">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">More "Wild West" Wonders</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12419</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">More "Wild West" Wonders</title>
+<title level="j">Rialto</title>
+<pubPlace>Great Britain</pubPlace>
+<date when="1892-06-25">June 25, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.065.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Manners and customs</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Salsbury, Nathan, 1846-1902</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Buenos Aires (Argentina)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Pampas (Argentina)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12419.001"/>
+
+
+<head type="sub">After Hours.</head>
+
+<head type="sub"><hi rend='italic'>"Pray thee, let it serve for table talk."</hi></head>
+
+<head type="main">MORE "WILD WEST" WONDERS.</head>
+
+<p>The exhibition at the "Wild West" on Thursday afternoon proved more than usually exciting to the valiant few thousands of the public present who braved the blasts and blizzards of that soaking day. The occasion was the first appearance in the arena of the band of Gauchos from Buenos Ayres, who have been procured by Messrs. Cody and <persName xml:id="salsbury.n">Salsbury</persName> in their search through the world&#8212;"ransacking," as they themselves put it&#8212;in order to present to the London public, and afterwards at the Chicago Exhibition, the different schools of horsemanship. The collection already comprises&#8212;as is well known&#8212;Indians, Cowboys, Vacqueros, and Cossacks, and on Thursday the newly-arrived Gauchos were to compete in their own style by riding the wildest and most vicious horses which could be procured from the Pampas expressly for them. They got an opportunity which they took advantage of, and the persistent rain having soaked the ground gave the horses a tremendous advantage. Nine of the Gauchos turned out, looking very smart and clean in their free and easy costumes, consisting of blue shirts and a garment which is half skirt and half sash of a black material over their swathed legs, and wearing Toreador hats which might a few months ago have come from a Regent-street milliner's shop, for English girls were wearing identically shaped head-gear at that time. Regarding the men themselves they are that peculiar mixture of civilised savagery which the descendants of the early Spanish colonisers of the South American wilds have become. The fiery Hispanolian temperament, the infusion of the native Indian blood, together with the wild lonely life on the ocean-like Pampas, are the conditions responsible for the production of the Gauchos. </p>
+
+<p>Although it would be an exaggeration to say that the Gaucho is the nearest approach to the mythical centaur, it is a fact that he spends the greater portion of his life on horseback, and is associated with the horse in even a more intense degree than any of the equestrian races. The horses which have been brought to the "Wild West" are not only actually wild, but ferocious brutes in addition, although a period of forty days on the voyage over has taken a good deal of the stamina out of them. The subjugation of half a dozen of them was accomplished by the Gauchos with considerable dexterity by placing a thong round one front leg, after the saddling and bridling&#8212;naturally as difficult an operation as can be imagined, with the horse plunging like a lost spirit in purgatory&#8212;with the result that the horse throws itself and whilst down the rider strides over its body. When the horse rises it finds the man on its back, and then the fun begins. On Thursday, however, the Gauchos were a trifle too eager, and two of them who had in this way mounted a splendid animal were thrown, owing, it was intimated afterwards, to some of the head gear giving way. But the Cowboys, who had been spoiling for the chance, drew lots overnight as to who should ride some of the new horses reserved for them, gave a splendid display in which their old-time recklessness was almost sublime. Shakespeare speaks of eating rocks and taming tigers as impossible feats, but one is almost induced to think that a cowboy could even do these things after Thursday's fight with the wild Pampas horses. They showed to better advantage than the South Americans in their treatment of the brutes. It was thought by Mr. Kingsland, who procured the horses, that they could never be ridden by anything mortal, but the cowboys astonished even the "bosses" of the show by riding each of the horses given over to their tender mercies, and scored off their rivals, the Gauchos, by keeping their seats when mounted. But their prowess in this direction is a well-known quantity, and it remains to be seen as the Gauchos get used to their new sphere whether they will rival the wild westerners in popularity. The Argentine has absorbed more than its fair share of public attention recently in connection with finance, but, though the speculative portion of the public would perhaps rather receive consignments of gold from that distant land, the arrival of the Gauchos, it is much to be hoped, will attract sufficient attention to lead to a better acquaintance with their country, which has so bright a future, but which has lately proved so disastrous to the British investor. If this result is attained, Showman "Buffalo Bill" and smart Nat Salsbury, his partner, will have given good value for the shillings which the public should certainly spend in patronising their famous show.</p> 
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

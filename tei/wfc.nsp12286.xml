@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12286">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Buffalo Bill's already strong programme]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12286</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Buffalo Bill's already strong programme]</title>
+<title level="j">Country Gentleman</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-11">June 11, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.051.04 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Bands (Music)</term>
+<term>Botanical gardens</term>
+<term>Caucasus</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Folk music</term>
+<term>France. Arm&#233;e. Garde r&#233;publicaine de Paris</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+<term>Weapons</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12286.001"/>
+
+<p>Buffalo Bill's already strong programme has been decidedly strengthened by the introduction of the Cossack horsemen. "This beats the cowboys," said a voice behind me, as these children of the Caucasus were performing some of their marvellous evolutions. And though this was high praise indeed, I felt myself in accord with the speaker. They seem to be able to do anything and everything they like with their little Indian ponies, which I understand they have broken to their own method since their arrival in this country. At first they go past in an ambling trot, chanting a weird measure which bears a faint resemblance to the <hi rend="italic">jodel</hi> of the Swiss mountaineers. Their appearance is certainly picturesque, with their astrachan caps, flowing robes, long cavalry boots, and ample outfit of deadly weapons. But it is when they are in full gallop that they give proof of their phenomenal skill in the saddle. They drop whips and handkerchiefs and pick them up with unerring aim with hands and teeth. They stand up&#8212;or rather upside down, hands on saddle and feet in air; they ride "with their back to the engine," holding on to nothing and flourishing their arms in the air, and finally they charge each other at lightning pace and fight with flashing swords. Like the other spectators, I was much amused at the dance given by two of the troop. One was tempted to overlook the real agility displayed in the grotesque effect of the gabardine-like garments flapping about in all directions, and revealing curious varieties of underwear.</p>
+
+<p>I must add one word in praise of the Horticultural Exhibition proper. The covered portion of the show looks lovelier than ever. The azaleas are over and done, but they can be well spared for the roses, which are coming into splendid bloom. The exhibits in the main building, consisting of model greenhouses and garden implements and apparatus of every conceivable kind, are now in a state of completion, and will deserve a more careful scrutiny than that which they receive from the majority of visitors. But the rival attractions of the grounds are, I admit, too tempting to be lightly withstood. The Garde Republicaine band is immensely and deservedly popular. Its peculiar excellence appears to me to be in the stringed instruments, which are far superior to those of any al-fresco orchestra I have heard in London for many years.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

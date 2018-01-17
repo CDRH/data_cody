@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Return</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12004</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>Alexander Stuart Boyd (1854-1930); born in Glasgow; a painter specializing in landscapes; began magazine work in his native city, contributing under the name "Twym" to the journals <hi rend="italic">Quiz</hi> and <hi rend="italic">The Bailie</hi>; joined <hi rend="italic">Punch</hi> in 1894; illustrated Israel Zangwill's Ghetto tragedies (1894), as well as books by Bret Harte, Jerome K. Jerome and various Scottish authors.</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<respStmt><resp>Illustrator</resp><name>Boyd, A. S. (Alexander Stuart), 1854-1930</name></respStmt>
+<title level="a" type="main">Buffalo Bill's Return</title>
+<title level="a" type="sub">The Wild West at the Opening</title>
+<title level="j">The Daily Graphic</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-09">June 9, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.007.02-03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Flowers</term>
+<term>Historical reenactments</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Rifles</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Wagon trains</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Baker, Johnny, 1869-1931</term>
+<term>Boyd, A. S. (Alexander Stuart), 1854-1930</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Temple, Frederick, 1821-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name>Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="lc">Clark, L.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12004.001"/>
+
+<div2>
+<figure n="drawings">
+<ab>A PERAMBULATOR</ab>
+<ab>ON THE WAR PATH</ab>
+
+<ab>FIERY AND UNTAMED</ab>
+
+<ab>POPCORN PERFORMANCE BY THE PUBLIC</ab>
+
+<ab>ENTER BUFFALO BILL</ab>
+
+<ab>ANNIE OAKLEY</ab>
+<ab>JACK BURTS'S LIGHTNING</ab>
+<ab>JOHNNY BAKER RIFLE ECCENTRICITIES</ab>
+<ab>BB</ab> 
+
+<ab type="credit">A. S. Boyd</ab>
+
+<p>BUFFALO BILL'S RETURN: THE WILD WEST AT THE OPENING OF THE INTERNATIONAL HORTICULTURAL EXHIBITION AT EARL'S COURT ON SATURDAY. <hi rend="italic">(See page 9.)</hi></p></figure>
+</div2>
+
+<div2>
+<head>SPEECH BY THE BISHOP OF LONDON.</head>
+
+<p>After the Duke of Connaught had made the customary inspection of the exhibition, a lunch was given in the building to memory dear as the Caf&#233; Br&#233;bant, and the Bishop of London proposed the toast of "Prosperity to the Exhibition." He said, with a good deal of truth, that it would have been difficult to arrange an exhibition of the sort which would give a larger amount of pleasure to a larger number of people. He added that they trusted that as time went on there would be hundreds upon hundreds who would partake of the pure and delightful pleasure given by the sight of one of the most beautiful things that God had created&#8212;the beauty of the world of flowers. God had appointed that man should subdue the earth, and in the resources of that sovereignty he did not know anything which might more worthily claim the attention of mankind, and which brought a greater reward to those who devoted themselves to it, than the cultivation of flowers.</p></div2>
+
+<div2>
+<head>THE "WILD WEST."</head>
+
+<p>Lunch over, the guests who had been present at it, as well as most of the other visitors to the Exhibition, spent some part of the rest of a happy day in welcoming Colonel Cody and his cowboys to the arena of their former triumphs. Age has not withered them, nor time added any great variety to their entertainment. Like the vine leaves in the Exhibition subway, the Indians are at present blooming under a fresh coat of paint; but the thrilling attack by the terrors of the prairie on an emigrant train is unchanged, and the <rs xml:id="coach.d">Deadwood Coach</rs> will continue to be rescued (afternoon and evening) by Buffalo Bill and his attendant cowboys until the close of the Exhibition. Miss <persName xml:id="oakley.a">Annie Oakley</persName> and <persName xml:id="baker.j">Johnny Baker</persName>, those celebrated shots, continue to show how poor a chance a glass ball, under the most favourable circumstances, has against their skill. Captain Jack Burtz illustrates the decorative possibilities of rifle drill; and cowboys and bucking bronchos perform feats which we have seen before. Nevertheless it is a revival which, with its dash and skill, is as welcome and amusing as ever, and on Saturday a prairie breeze which curled round the benches added to it a touch of realism. Everybody seemed to enjoy it; and the "Wild West" pleasantly completes a show which is prettier and gayer than any of its predecessors.</p>
+
+</div2>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

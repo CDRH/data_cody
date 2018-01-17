@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12001</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Horticultural Exhibition</title>
+<title level="j">The Standard / London Evening Standard</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-09">May 9, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.06.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Botanical gardens</term>
+<term>Electric lighting</term>
+<term>Exhibitions</term>
+<term>Indians of North America</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Midlands (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kb">Bowman, Katie</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12001.001"/>
+
+<head>THE HORTICULTURAL EXHIBITION.</head>
+
+<p>The Horticultural Exhibition at Earl's Court is likely to be at least as successful as any of its forerunners on the same spot. It has all the attractions which made their fortune, and more besides. How could a perpetual Flower Show fail to draw, when backed by fountains and fireworks, crowds, a theatre, a real French restaurant and several English ones, a switchback railway, the electric light, and Buffalo Bill? All these delights are offered, with excellent displays of horticulture thrown in. When the Exhibition was opened on Saturday all things were not quite as they should be, and, doubtless, will be. But those who have begun so well may be trusted to complete their programme. We mark signs of energy at the first step. That very dull approach from Earl's Court Station is being tricked out with new vine leaves&#8212;of paper or bombazine or something with which grapes are quite unfamiliar, but more cheering than dirty rafters. Reaching the end we behold a fountain, encompassed by the band of Grenadier Guards. At each corner of the space are pleasing groups of lilies and foliage plants. At the principal entrance also, from Lillie-road, there is a fountain, playing among palms and ferns, before a preliminary show of cut flowers. The galleries are devoted to floral paintings, but few paused to examine them on the opening day. The central avenue is festooned with green muslin, prettily enough, and stands of flowers are set among the exhibits of horticultural appliances on either side. The purpose here is serious. We have, or we shall have, model plant houses of every sort, from "frames" to orchid stoves; systems of glazing and ventilation illustrated, and rival systems of heating. Some of these model houses already display a sample of their contents&#8212;enough to show how much they will contribute to the general effect when full of bloom and greenery. Thence we come to implements&#8212;such as lawn mowers, pumps, thermometers, and syringes; tents, garden seats, icehouses, ornamental work for conservatories, fences, gates, apiaries, and arches. Materials succeed: shading, labels&#8212;always an interesting matter to horticulturists of taste&#8212;manures, Russia mats; then fumigating substances, insecticides and weed killers, orchid and other peats, fuel, fertilisers, and artificial manures; rockwork and garden pottery, new and patent inventions useful to the gardener; collections of seeds, flowers, vegetable, agricultural, and grass; machinery for seed cleaning, and for extracting essential oils, perfumes, fruit evaporators, pumps and methods of irrigation. Last in this section, we have "Designs for the laying out of a typical estate of one hundred acres, bounded by roads, five miles from town in the Midlands, with grounds sloping gradually towards the water, and designs for improvement of grounds to private residences, photographs of trees and shrubs." These designs promise to be valuable to many. This is but an abbreviated summary of the many useful and improving objects which we shall see in due time. There are sixty classes in all of such exhibits, competing for medals in gold, silver, and bronze. Certificates also will be granted, and money prizes to a considerable amount. Such a comprehensive exhibition of gardening materials and requisites has long been wanted. It is a great pity that so few of the French and German experts, from whom we have much to learn, have been persuaded to contribute. </p>
+	
+<p>A great curtain, red-striped, shuts off the "Subtropical Garden," which now occupies the north end of the building. Upon a low platform in front the Duke of Connaught was to declare the exhibition open at twelve o'clock on Saturday. A large crowd [h]ad assembled long before that hour, content to wait while enjoying the music of Mr. Dan Godfrey's band. But the ceremony was long delayed. The hour was nearer one than twelve when a murmur of welcome and a lifting of hats announced his Royal Highness, who proceeded forthwith to mount the platform, attended by the committee. At the same instant a steady but determined rush from every quarter drove the foremost spectators, who had been sitting in rows three or four deep, into the reserved space, chairs and all mostly. In a moment more they surrounded the dais, and climbed upon it to escape the crowd. What followed, few could say. The Duke might be seen speaking, but not heard. Presently the great curtain drew aside, and a very agreeable scene was disclosed. Garlands of green leaves wreathe every column and piece of ironwork overhead&#8212;they are artificial, indeed, but bright and gay in effect. All the space as far as the exit of the building on this side has been laid out as a flower garden, and will be so maintained, by constant changing of the borders, until the season ends; Messrs. Laing, Williams, Cutbush, Lee, Lane, Koster of Holland, Waterer, Turner, and Phipping are responsible for its condition. Especially pretty are the beds of Azalea mollis and Clivia which Messrs. Williams have furnished for the centre, and those of varigated maple, lilies, and palms which Mr. Laing has arranged on each side the entrance. In dull weather this will be the promenade, and it could scarcely be bettered. The grounds are delightful. A gigantic canvas, representing the "Long Walk" at Windsor, may not be admirable as painting; but if the purpose of such work be illusion, this example is as nearly perfect&#8212;in bright sunshine, at least&#8212;as a master could turn out. Anyone glancing at it as he passes might think he could stroll up that long avenue when he had explored the grounds. Mr. Halley, who painted the canvas, deserves to have his name recorded. The same artist has a view of Gibraltar, in another part of the grounds, not less commendable as an illusion. It is best to say as little as may be, perhaps, about the various gardens of old time which are announced&#8212;Egyptian, Roman, Tudor, Jacobean, and Italian. The idea was well meant, but insuperable difficulties dwarfed it. Space failed, to begin with. We do not know so much as we should like about the garden of Pliny's villa, though he has left an elaborate description of it; but assuredly it could not have been compressed well into an area of less than fifty feet square. Of the Egyptian garden our information amounts to nothing at all, but too much is asked of the human faculty for "making believe" when a small concrete tank, scarcely large enough to tub in, is represented as "a glimpse of the Nile." Yet the exhibition is avowedly designed for amusement as well as instruction, and these nooks are undeniably amusing. Perhaps also they will divert a class of visitors who see comparatively small fun in the switchback railway. A Japanese garden will be opened presently, an Indian tea-garden, a flower market, a house for the display of insectivorous plants&#8212;which Messrs. Williams undertake to furnish&#8212;and "special shows." As for restaurants and caf&#233;s, they abound; and, finally, Buffalo Bill has brought an "augmented horde of Red Indians."</p>
+	
+<p>A bright little collection of plants is on view, not for prizes, but as a sample of greater things to come, in a hall by the main entrance. Mr. Leopold de Rothschild sends a noble mass of the giant Carnation Souvenir de Malmaison, both the white and pink varieties. Mr. Dean contributes some of his famous Auriculas&#8212;among them the new Duke of Connaught, large maroon, duskily outlined, and Duchess of Connaught, green and white, very quaintly mottled. Messrs. Williams supply a quantity of orchids, specially the delightful Oncidium superbiens, so rarely seen in flower; they send also a small case of insectivorous plants, Sarracenias, Droser&#230;, Dion&#339;a muscipula, forerunners of the display they will offer in the grounds shortly. Messrs. Laing fill three tables with orchids, begonias, flowering and foliage plants&#8212;among them the rare Nepenthe Mastersiana rubra. Messrs. Cannel show succulent plants; Messrs. Low ericas; Messrs. Turner azaleas and auriculas; Messrs. Rumsey a grand bank of roses; Messrs. Phipping, of Reading, some pretty baskets of cut flowers, arranged with special taste among palms and adiantums; Messrs. Peed, of Norwood, a group of plants, Cymbidium Lowianum conspicuous in their midst; Messrs. Lane, of Berkhampstead, rhododendrons and lilies; Messrs. Hayes, of Edmonton, pelar[unreadable]iums; Messrs. James, of Slough, cinnerarias. </p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

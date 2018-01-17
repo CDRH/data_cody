@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12230">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Cossacks</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12230</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Cossacks</title>
+<title level="j">Era</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-04">June 4, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.044.05 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Cavalry</term>
+<term>Circassians</term>
+<term>Cossacks--Ukraine</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Georgians (South Caucasians)</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Russia</term>
+<term>Scrapbooks</term>
+<term>Wild horses</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+<term>Zaporozhians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Byron, George Gordon Byron, Baron, 1788-1824</term>
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12230.001"/>
+
+<head>BUFFALO BILL'S COSSACKS.</head>
+
+<p>Colonel Cody, otherwise Buffalo Bill, and his trusty companion, Mr <persName xml:id="salsbury.n">Salsbury</persName>, propose presently to assemble a congress of "the horsemen of the world" at the Chicago Fair, that will be connected with the Chicago Exhibition, that is to make all the world wonder once more, and as they have secured a nucleus for the same in the persons of a number of Caucasian Cossacks, they have thought fit to introduce them to sight-seeing London first, and to put them through their paces at the big show that is once more to be found at Earl's-court, this time in companionship with the great International Horticultural Exhibition. The Cossacks made their first appearance on Wednesday afternoon, and seemed to be quite at their ease among cowboys, Mexicans, Indians, bucking horses, and buffaloes. The management, for the edification of their patrons, have issued a statement to the effect that Prince Ivan Makharadze, who is in command, and his companions belong to the branch of the great Cossack family, the Zaporogians, immortalised by Byron's "Mazeppa," and that Mazeppa was the hetman, or chief, of the Zaparogian community of the Cossacks of the Ukraine. We are further informed that the Cossacks of the Caucasian line have long enjoyed the reputation of being the flower of that vast horde of irregular cavalry, the Cossack military colonies, that have been planted along the southern frontier of the Russian Empire from the Crimea to the Chinese border on the Pacific, and that Circassian blood plainly crops out in the Cossacks of the Buffalo Bill Wild West arena. On Wednesday we saw ten sturdy horsemen advancing to the front, and we heard them indulging in a curious chant. Tethering their horses&#8212;or the horses that have been lent them&#8212;they clapped their hands while two or three of their number went through some novel dancing that was quick and expert, and that called forth a deal of cheering. They then remounted and gave a remarkable exhibition of equestrian skill, some of them sitting with their faces to their animals' tails while they were swiftly borne around the arena. Others turned themselves upside down while going at full gallop, and a scene of wild excitement came when, at the end, drawing their sabres, they charged an imaginary foe. The Cossacks will certainly add to the attractiveness of the "Wild West."</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

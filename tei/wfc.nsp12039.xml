@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"The Wild West"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12039</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"The Wild West"</title>
+<title level="a" type="sub">With Special Reference to the Fiery Untamed Wildness of Its Indian Chiefs</title>
+<title level="j">London Evening News and Post</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-14">May 14, 1892 </date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.016.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Atlantic crossings</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Exposition universelle de 1889 (Paris, France)</term>
+<term>Firearms</term>
+<term>Historical reenactments</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indian children</term>
+<term>Indian reservations</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Oglala Indians</term>
+<term>Popcorn</term>
+<term>Scalping</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>United States. War Department</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Kicking Bear, 1853-1904</term>
+<term>Nye, Bill, 1850-1896</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Plenty Horses, d. 1933</term>
+<term>Short Bull, -1915</term>
+<term>Sitting Bull, 1831-1890</term>
+<term>Thayer, John M. (John Milton), 1820-1906</term>
+<term>Wilde, Oscar, 1854-1900</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brompton (London, England)</term>
+<term>Earl's Court (London, England)</term>
+<term>Kensington (London, England)</term>
+<term>London (England)</term>
+<term>Naples (Italy)</term>
+<term>Royal Alhambra Theatre (London, England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12039.001"/>
+
+
+<head>"THE WILD WEST."</head>
+
+<head type="sub">With Special Reference to the Fiery Untamed Wildness of Its Indian Chiefs.</head>
+
+<p>Nine people out of ten go to the Floweries and watch the achievements of Buffalo Bill's troop with blank cartridge and blanked buck-jumping mustangs, walk through the wigwams of the Ogallallas, eat popcorn, laugh at the antics of the Sioux papooses, and go back to civilisation and supper by the Underground Railway, without in the least appreciating the "true inwardness" of the show. To them it is an excellent circus performance; Buffalo Bill is a fine figure of a man and sits a beautiful white horse like a Centaur; Miss <persName xml:id="oakley.a">Annie Oakley</persName> is a charming little lady who shoots glass balls with the precision of a machine; the cowboys and Indians are capital riders; the whole spectacle is picturesque and animated, there is plenty of colour and noise and gunpowder, and the general effect is as good as "The Sioux" ballet at the Alhambra! This view of the "Wild West" is that of the typical unimaginative Briton, who takes the superficial view of things, and agrees with Mr. <persName xml:id="wilde.o">Oscar Wilde</persName>'s paradox, that puppets make the best actors. Not many of us realise that in this unique show we get grim realities hidden under a circus dress. The sharpshooters are not music-hall "champions" who have gained their laurels in bloodless conflict with glass balls, but men and women who have sustained life by the gun in peace and avoided death by it in war; the Indians are not shilling-a-night supers in brown tights, but warriors who in their unregenerate days have drilled holes in the pale-face and taken his scalp as a keepsake; the buck-jumpers are not circus machines, but natural specimens of equine devilry that would defy even the exorcisms of the Bishop of Augsburg; the capture of the <rs xml:id="coach.deadwood">Deadwood Coach</rs> and the defense of the settler's cabin are not incidents of imaginative melodrama, but reproductions of historical transactions in which the cartridges were not blank and the Indian was loaded up to the muzzle with mischief. We hear a deal about realism on the stage, where a working model of a Westend drawing-room is hailed as a triumph of art, but the Buffalo Bill Show is something more than realism&#8212;it is reality. "Thar ain't any Augustus Harris about this show," observes <persName xml:id="burke.j">Major Burke</persName>, with pardonable pride; "God Almighty is our property master."</p>
+
+<p>This is putting the case in a nutshell. Never since a discreet Roman Emperor bowdlerised the Colosseum and circumscribed  gladiatorial combat within the Queensberry rules of the period has civilised man, in the heart of a great city, been permitted to see any representation of wild adventure and fighting and bloodshed that got down so close to the bed-rock of absolute fact. Some people do not believe that the Indians are real savages; many people think that they had their teeth drawn and were put through a preparatory course of Sunday school before being allowed into the show business. Well, there is this much Sunday-school training about the redskins, that near a score of them, placid as they are in the back garden of the wigwam and quietly as they stroll through unapprehensive Cockneys in the West Brompton reservation, were 18 months ago thirsting for Caucasian blood and yearning to supplement their hair-lifting exertions of the Yankee barber with scalping knives. Witness a little letter, docketed No. 1,645 C, and addressed from the United States War Department to Colonel W. F. Cody in April of last year. Therein Mr. L. A. Grant, Acting Secretary for War (to whom we apologise for the word Mr. if he is a General, or a Colonel, or a Brigadier-General, or any other single or double-barrelled military chieftain), informs Colonel Cody that "Interpreter <persName xml:id="shangreaux.j">John Shaugran</persName> and 23 Indian prisoners were, on the 30th ultimo, turned over to your representative, John M. Burke, with a view to their accompanying the Wild West." Are they, therefore, harmless ratepayers bound over to keep the peace? Not a bit of it. The Acting War Secretary goes on to tell Colonel Cody: "In accordance with the recommendation of the Major-General Commanding the Army, I beg to advise you that when these prisoners are relieved from your service they will not be permitted to return to their reservations without authority from the War Department."</p>
+
+<p>This evidence will probably be enough to convince any law-abiding Briton that the Wild West Indian, as, imported, is the genuine fighting article. These "hostiles" are practically prisoners out on bail. No proceedings by way of punishment upon them for their part in the disturbances of 1890-91 are contemplated by the United States Government, but they are held as hostages for the good behaviour of their tribes. Of the three-and-twenty chiefs and braves who were handed over to Colonel Cody last year fourteen or fifteen still remain in the Wild West combination. "<persName xml:id="short.bull">Short Bull</persName>" and "<persName xml:id="kicking.bear">Kicking Bear</persName>," two of the most prominent hostile chiefs, have gone back to America, but "Plenty Horses," another leading chief, remains to adorn West Brompton and to learn by travel the salutary lesson that the Caucasian is by no means played out. This is the moral which the American Government has all along been endeavouring to bring home to the redskin, and which is the most powerful force for the maintenance of peace in the Indian territory. The untravelled Indian is liable to the delusion that his tribe can keep its end up against the 65,000,000 civilised inhabitants of the States, and a few weeks in New York or London cure him of it quite as effectually as a rifle bullet, without wasting the bullet and the Indian. From this point of view the Wild West show answers the purpose of a life-saving apparatus as well as a circus, and Buffalo Bill is as much a social regenerator as an entertainment provider. There are hard facts behind this theory as well as ornamental arguments, for the history of the late Indian trouble shows that his friendly redskins were not alone cured of their primitive mistake as to the relative might of the Sioux and the American people, but did yeoman service in persuading the disaffected tribes to peace. They disappointed a good many worth people by doing so, because folks with a gift for prophecy had said that the Wild West Indians would be wilder than ever when they got back to their native prairies, and folks with a turn for lying said (later on) that they were actually prime factors in bringing about the trouble, and folks with a highly-cultured moral sense said, in a general way, that constant practice in the mimic warfare of the Wild West must inevitably foster the natural cussedness of the Indian, and arouse a desire to shoot with ball cartridge just by way of a change. But Buffalo Bill's Indians, our old friends of 1887, falsified all these predictions and reports, and qualified as honorary members of the Peace Society in a way that decisively contradicted the verdict of the late Mr. William Nye upon Indian nature.</p>
+
+<p>We have said enough to show that the copper-coloured stoics who bask in London sun and the smiles of West Kensington beauty with such placid immobility have the germ of mischief in them, and that those who manage them know how to keep it from sprouting. The briefest recital of the Wild West history from 1887 may indicate how the show has been kept together. Passing from London to Manchester in 1887, and from Manchester to New York in the spring of 1888, the combination wound up a tour of two-and-a-half years at Richmond, and the members of it returned to their respective homes. They met again in the spring of 1889, and the Wild West came to the Paris Exhibition for seven months, passing thence to the south, crossing to Barcelona, and returning to Naples for the beginning of an Italian tour. From Italy it went on to Austria and Germany, performing at all the large cities and many of the smaller ones in each country, and only pulled up towards the close of 1890, when news of attacks made on the reputation of the show, its Indians, and its managers, reached Buffalo Bill from home. He promptly took his Indians over the Atlantic where the whole band took service on the side of the Government forces, with the results before described. Buffalo Bill himself, who in America is Brigadier-General Cody, and a highly practical fighter, was detailed for special service by the Governor of the State of Nebraska, and speedily accepted the job of making an afternoon call on Sitting Bull<!--LINK--> and bringing that hostile chief into a Christian frame of mind. How he did this and how his work was spoilt at the last moment by official foolishness or jealousy, are matters of American history. We do not mean to convey, and we have not been led to believe, that Buffalo Bill and the Wild West Indians just dropped casually into Dakota and wiped out the Sioux insurrection as an item in their regular afternoon performance. It would appear that both leader and men exercised more influence on the issue of that Indian difficulty by conversation than by cutting throats, fulfilling their legitimate functions as civilisers and educators of the unregenerate Red-skin. That fact, however, in no way affects the value of the sterling services which Colonel Cody rendered to his country, and which have been effectual in securing for him permission to personally conduct a troupe of fiery untamed savages into the heart of London. For which piece of international courtesy the American Government deserves our warmest thanks.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

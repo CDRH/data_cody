@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12363">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Death of a "Wild West" Indian Chief</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12363</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Death of a "Wild West" Indian Chief</title>
+<title level="j">Illustrated Police News</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-25">June 25, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.060.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Atlantic crossings</term>
+<term>Burial</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Horses</term>
+<term>Indian women</term>
+<term>Indians of North America--Wars</term>
+<term>Indians of North America</term>
+<term>Oglala Indians</term>
+<term>Prisoners</term>
+<term>Scrapbooks</term>
+<term>Sioux Nation</term>
+<term>Traveling exhibitions</term>
+<term>Wounds and injuries</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Long Wolf, 1833?-1892</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brompton Cemetery (London, England)</term>
+<term>Buenos Aires (Argentina)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12363.001"/>
+
+<figure n="drawing"><p>FUNERAL OF AN INDIAN CHIEF AT WEST BROMPTON</p></figure>
+
+<head type="main">DEATH OF A "WILD WEST" INDIAN CHIEF.</head>
+<head type="sub">[SUBJECT OF ILLUSTRATION.]</head>
+
+<p>THERE has just been buried at Brompton Cemetery a veteran Oyallala Sioux Indain, named Long Wolf, who died at St. George's Hospital of old age. He was the oldest Indian in the camp of Buffalo Bill's "Wild West," and had seen much active service in the real Wild West of America. Dr. Coffin, the medical attendant to the camp and Horticultural Exhibition, says he was covered with gunshot wounds and sabre cuts. His last military experience was in the late Sioux war. it is not generally known that among the Indians who take part in the performances of the "Wild West" are eleven prisoners of war, who were released upon the understanding that they were to leave the country under custody of Col. Cody, and his partner, Mr. <persName xml:id="salsbury.n">Nate Salsbury</persName>. One of the prisoners is a woman. The horses for the use of the South American Gauchos, who will shortly take part in the equestrian performances of the arena, have just arrived from Buenos Ayres, under care of Mr. Daniel Kingsland, a well-known horse agent. They were brought from the interior of the country, about two hundred leagues from Buenos Ayres, and the voyage to London lasted forty days.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12241">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Cossacks at Earl's Court</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12241</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Cossacks at Earl's Court</title>
+<title level="j">Morning Leader</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-02">June 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.045.07 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Clothing and dress</term>
+<term>Cossacks--Ukraine</term>
+<term>Cowboys</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Folk dancing</term>
+<term>Folk music</term>
+<term>Georgians (South Caucasians)</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Nobility</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+<term>Weapons</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12241.001"/>
+
+
+<head>COSSACKS AT EARL'S-COURT.</head>
+
+<head type="sub">THEIR PERFORMANCES RIVAL THAT OF THE COWBOYS&#8212;THEIR MUSIC SUGGESTS NEW MOTIFS.</head>
+
+<p>The cowboy has at last found a peer in the matter of horsemanship. The Cossack from the East has come to contest the palm of horsemanship with the cowboy of the West. Yesterday a contingent of some ten Georgian Cossacks made their bow to the public at Earl's-court, and gave a marvellous exhibition. They are even<lb/>
+
+MORE PICTURESQUE THAN THE COWBOY,<lb/>
+
+and are capable of greater things in the saddle. The performance began with what perhaps had best be termed a musical ride, the horsemen cantering slowly round the ring the while they sang a strange, weird refrain, which was at once harmonious and barbaric. The strain they lifted was touched with a Chopinesque melancholy, and to the imaginative ear clearly suggested the sadness of the illimitable snow-covered steppe. Some of our musicians in search of fresh <hi rend="italic">motifs</hi> might do worse than "convey" these Georgian tunes. Desisting from their music, the horsemen then entered upon those feats of noble horsemanship which have made the Cossack's name wonderful. The Cossack seems to be <lb/>
+
+PART AND PARCEL OF THE HORSE<lb/>
+
+he rides. He can do anything and everything upon the animal. He stands on his head, rides backwards, and generally proves that horseback is to him a mere extension of <hi rend="italic">terra firma</hi>. The performers&#8212;if we may so term this company of soliders&#8212;labored under the disadvantage of riding English of American horses, permit having been refused them to bring their own ponies with them, but the enforced change of horses seemed to matter very little to them. A curious face concerning our Eastern visitors is that they are all of noble blood, and are commanded by a prince. Their bearing is simple and dignified, and in appearance they are <lb/>
+
+STRIKINGLY PICTURESQUE.<lb/>
+
+They wear a low turban hat of astrachan, a long yellow coat reaching down to the knees, and top-boots. Add to this an armory of weapons and cartridges very much in evidence, and you have a singularly fearsome individual. Men of war as they are, they are past masters of the pacific art of dancing. Three of them tripped the light fantastic toe to an accompaniment of hand clapping and singing furnished by their remaining companions. Can the <hi rend="italic">premi&#232;re danseuse</hi> of ballet fame have drawn her "steps" from a Cossack and Georgian source? These Georgian gentlemen dance much as do Mesdames De Palladino and De Sortis. They endeavor to balance themselves on their big toes, and in many other eccentric but to us familiar steps suggest</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

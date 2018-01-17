@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12362">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Gauchos at the "Wild West"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12362</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Gauchos at the "Wild West"</title>
+<title level="j">London Evening Standard</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-24">June 24, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.060.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bolas</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Lasso</term>
+<term>Scrapbooks</term>
+<term>Sioux Nation</term>
+<term>Spaniards</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Salsbury, Nathan, 1846-1902</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Pampas (Argentina)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12362.001"/>
+
+<head>THE GAUCHOS AT THE "WILD WEST."</head>
+
+<p>Another attractive addition have been made to Messrs. Cody and <persName xml:id="salsbury.n">Salsbury</persName>'s "Wild West" Show. Yesterday a number of Gauchos, descendants of the early Spanish colonisers of the South American Wilds, almost as ferocious as the aborigines, the Indians, were produced, along with the hordes of cowboys, Vacqueros, Cossacks, and the Sioux tribes, for the amusement of the thousands who are now patronising the entertainment at Earl's-court. The Gauchos are horsemen from the boundless Llanos of the Argentine Republic, and in their peculiarities and their national characteristics they are a subject of investigation as remarkable as anything modern history can show. They are reputed to be the most expert lassoers in the world, and the public will now have an opportunity of seeing the use of the "bolas" as an instrument of the chase, for the capturing of wild horses, ostriches, guanacos, and other big game. The troupe rushed at breathless speed on their little wiry steeds round the arena. Then, forming into a group in the centre, they gave an exhibition of their prowess in throwing the "bolas," and in capturing a number of unsaddled horses that had been let loose amongst them. The "bolas" consists of rawhide thongs, fastened to a central thong, and having a small iron ball, or piece of metal, at each of the ends. With these strong bands a Gaucho can lasso a flying horse from a distance of sixty feet, and as the lasso gets inextricably entangled about the legs the victim is brought helplessly to the ground. These tribes, indeed, spend the greater part of their lives on horseback; even from their infancy untamed horses have been inseparably associated with their daily doings, so that they become, as they grow up, veritable rough-riders of the Pampas. One item in their performance yesterday illustrated the manner in which they can readily bring a horse to the ground, making it throw a backward somersault, as it were, as it finally rolls over. Then, as it lies prostrate, two of the tribe throw themselves upon it, and, with a peculiar cry, the animal rights itself again, and, with the two riders on its back, shows its wild propensity by sudden fits of "buck-jumping;" in one instance the two Gauchos were made to slide off helplessly into the mud, to the merriment of the audience. The Gauchos are phenomenal trailers as well as experienced lassoers. In their primitive mode of existence they make everything connected with their outfit. Their boots consist of the skin of a freshly-killed colt, and being shaped to the leg and foot while warm, and sewn at the toe, they become practically leather stockings, without sole or heel. Altogether, they are a very interesting race, and must prove a welcome acquisition to Buffalo Bill's company of rough-riders.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12243">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Cossacks at West Kensington</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12243</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Cossacks at West Kensington</title>
+<title level="j">London Evening News and Post</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-02">June 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.045.09 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Caucasus</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Folk dancing</term>
+<term>Horse arenas</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Mexicans</term>
+<term>Russians</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Zaporozhians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Kensington (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12243.001"/>
+
+
+<head type="main">COSSACKS AT WEST KENSINGTON.</head>
+
+<head type="sub">The Latest Novelty of the Wild West Show&#8212;Rough-riders from the Caucasus.</head>
+
+<p>As indicated in a preliminary notice in these columns, the programme at the Wild West was yesterday strengthened by a reinforcement of Cossack horsemen just imported from the East. Everyone has heard of Mazeppa and his involuntary feat of horsemanship: these Cossacks are of the same blood as Mazeppa, and might be lineal descendants of his for aught we can tell. They belong to the Zaporogian branch of the great Cossack family, long noted for a combination of good fighting qualities with rare equestrian skill. Once soldiers of the Czar, they are every one liable to serve again with the colours in war time, and the British soldier who watches their quaint performance from a comfortable seat in the West Kensington building may find an additional flavour of pleasure in the knowledge that some day he may be standing in square to receive the wild charge that now terminates peaceably at the railings of the arena. For the present, the Cossacks are "very gentle <hi rend="italic">Russians</hi>, and of a good conscience," though in their bearing and manner when off duty and wandering through the Wild West camp they suggest a certain impatience of performing duties and of the prim civilisation of West Kensington. In the arena they are more at home, dashing at breakneck speed from one corner of the field of action to another, picking objects from the ground whilst going at full gallop, riding backwards, sideways, upside down, and in every quaint position, with as much apparent ease and comfort as the average London citizen rides a tramcar. The horsemanship gives place for a while to a gentler art, as a wooden slab is brought out on which our Cossacks go through some of their national dances with wonderful nimbleness. They give only a short performance, but it is sufficient to show that cowboy and vaquero of the Wild West have found worthy rivals and dangerous competitors in popular favour. The troupe, ten in number, is officered by Prince Ivan Makharadze, himself perhaps the most accomplished horseman of the company.
+</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
