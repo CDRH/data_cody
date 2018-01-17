@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Nebraska</title>
+<title type="main">Gauchos at the Wild West</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -46,16 +46,23 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main">Nebraska</title>
-<title level="a" type="sub">Military Life on the Frontier.</title>
-<title level="a" type="sub">Interesting Description of Indian Warfare - A Great Game Region - An Indian Raid on Brady Station</title>
-<title level="j">New York Times</title>
-<pubPlace>New York (N.Y.)</pubPlace>
-<date when="1874-09-13">September 13, 1874</date>
+<title level="a" type="main">Gauchos at the Wild West</title>
+<title level="j">Weekly Budget</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-02">July 2, 1892</date>
 <biblScope type="vol"></biblScope>
 <biblScope type="issue"></biblScope>
 <biblScope type="pp"></biblScope>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.065.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
 
 </sourceDesc>
 </fileDesc>
@@ -80,23 +87,51 @@
 <term>Newspapers</term>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term>European Tours</term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+<term>American Indians</term>
+<term>Bolas</term>
+<term>Clothing and dress</term>
+<term>Command performances</term>
+<term>Cowboys</term>
+<term>Don Cossacks</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Folk dancing</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Monarchy--Great Britain</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+<term>Windsor Castle</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Burke, John M., -1917</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
 </keywords>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
 <change when="2017"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
-
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
 
 </revisionDesc>
 </teiHeader>
@@ -108,26 +143,14 @@
 
 <pb facs="wfc.nsp12418.001"/>
 
-<head type="main">Nebraska</head>
-<head type="sub">Military Life on the Frontier.</head>
-<head type="sub">Interesting Description of Indian Warfare - A Great Game Region - An Indian Raid on Brady Station</head>
 
-<byline>From Our Own Correspondent</byline>
-<opener><dateline>Fort McPherson, Neb., Sunday, Sept. 13, 1874.</dateline></opener>
+<head>Gauchos at the Wild West.</head>
+<div2>
+<p>At the Wild West Show, held in conjunction with the "Floweries" at Earl's Court, Messrs. Cody and <persName xml:id="salsbury.n">Salsbury</persName> have supplemented their unparalleled combination in the arena&#8212;which already included all manner of Red Indians, Mexicans, Don Cossacks, and Cowboys&#8212;by the introduction of a band of Gauchos from the Llanos of the Argentine Republic, making the sixth delegation to the "Congress of the Rough Riders of the World" which is being specially organized for the Chicago World's Fair. The heavy rains of the night and morning on Thursday did not contribute to the display or the comfort of the half-breed cavaliers from the Pampas, who, nevertheless, made a brave display in their round Spanish hats and violet jackets over the sodden and unequal ground. On Friday they were seen to much greater advantage in the finest of weather by a multitude of spectators, including the Duchess of Edinburgh, Prince Ferdinand of Roumania, and Princesses Marie and Victoria of Edinburgh. Like the Vacqueros of Mexico, they ride with a long stirrup, and in this respect are quite dissimilar from the Cossacks, who have their knees almost up to their saddle-bows. Specially skilled are the Gauchos in the wielding of the "bolas"&#8212;a string of raw-hide thongs 60 feet long, with an iron ball at either end, which is thrown with unerring aim about the legs of wild ostriches, guanacos, and other big game (here represented by stationary posts). Nearly everything belonging to the Gauchos is home-made, for as that excellent authority Major <persName xml:id="burke.j">John M. Burke</persName> remarks, "Even to the rude saddle and his boots, which are made from the skin (taken from the knee down and shaped to the leg and foot while warm) of a freshly killed colt, and sewed at the toe, thus forming, practically a leather stocking without toe or heel." Mr. Kingsland, the well-known Argentine dealer, has imported 15 wild horses, on which the Gauchos show wonderful dexterity; but their style differs little from that employed by the Cowboys. They have great pluck and determination, and unanimous applause followed one example of their prowess, in which two of them, after having been rolled in the dirt, mounted the same horse, and, despite his frantic endeavours to unseat them, rode him triumphantly round the ring. The Gauchos should undoubtedly prove attractive auxiliaries to "Buffalo Bill's" display. Perhaps the arrival of the South Americans stimulated the other members of the show, but certain it is that the buck-jumpers never caused more hearty enthusiasm, that the Cossacks on heads and heels never performed more daring feats, and that even the stolid Redskins seemed determined to outdo themselves. Another feature of the exhibition was the formal opening of Major Burke's Logwood Cabin, so well known in the Jubilee year, and it may be mentioned that all the goodly array of viands, to which the guests were hospitably bidden, were "cooked in camp," under the superintendence of the chief sutler, an American, Mr. Langan. The backwoods, even in this instance, have been brought within measurable distance of Bow Bells. Outside the Wild West, the gardens are improving in beauty every day, and whether bathed in the afternoon sunshine or lighted up at night with myriads of coloured lamps, are truly a scene of enchantment, while the numerous bands that play almost incessantly during the afternoon and evening add greatly to the delights of this charming place of resort. Nor should the "side shows" be forgotten. The display of living ants at work is as instructive as it is interesting, while the wonderful maze of mirrors, in which the spectator sees himself duplicated in the most bewildering fashion, is a marvel of ingenuity and skill. </p>
+</div2>
+<div2><head>Special Performance Before the Queen at Windsor.</head>
 
-<p>Having heard that some operations against the Indians were being organized here, I visited the place a few days ago, only to learn that nothing unusual was occurring. Scouting parties are sent out at intervals to reconnoitre the northern country, for fear that any marauding bands of Sioux might be raiding upon it. These reconnaissances are made at intervals from all the posts, both Summer and Winter, in order to provide against any surprise. As there were no operations against the Indians, I devoted myself to studying the routine of military life on the frontier, the character of Indian warfare, and the class of persons deemed best in that series of grand skirmishing. To Eastern readers few places are more romantic than a military post on the frontier, for in their imaginations it is the scene of great deeds, of stoical fortitude, and undaunted courage - a spot in which great caution, unceasing vigilance, and prompt action must be constantly exercised to guard against the attacks of the dusky warriors of the plains and mountains. The arid novelists who write for the sensational papers, find it a convenient locality in which to found a tale, of which love, vengeance, surprises, and improbable and impossible actions are the basis. Different from these conceptions and descriptions it is however, and, perhaps, in no portion of the country do our soldiers lead such a quiet and tedious life as at one of these posts, except on such occasions as they may be called upon to pursue a marauding band of savages. The fort is generally nothing but a barracks, with a parade ground in front, where military exercises are held in Summer. No fortifications are thrown up, and in many cases not even a fence surrounds the buildings. The usual daily routine at a cavalry post is the cleaning and feeding of horses. After the reveille, then breakfast and guard mounting, after which comes drill on foot or horseback for a couple of hours. Dinner over, there may be another drill for a couple of hours: then the stable call in the evening again, and after that comes supper, the roll-call, and the tatoo at 9 o'clock, when all lights must be extinguished.</p>
-
-<p>This routine, day after day, becomes monotonous after a while, so that a scout is often a matter of necessity to allay the restlessness of the men. Very few of the men object to recreation of a brush with the dusky horse-thieves, provided they are not in overpowering numbers. When these scouts are made in the Winter, however, they are anything but pleasant, as the men have to sleep on the ground in the open air, and, perhaps, without fire, as wood is exceedingly scarce on the plains. This is the hardest duty the soldiers have to perform, so that their life, as a whole, is perhaps as quiet as that of any class of persons in the country. When the savages are on the war-path, however, their mode of life changes completely, and becomes one of the most stirring activity. They must be in the saddle at all hours of the day and night, and as the best portion of their work is done under cover of darkness, when they can steal upon the foe unawares, it is evident that they must undergo severe hardship. When a war-party of Indians is discovered encamped the troops surround it during the night, and at early dawn, ere the savages have aroused from their slumber, they pour in volley after volley with their repeating rifles until the tepees are fairly riddled with the leaden missiles. The Indians, on such occasions, know not what do, so they hasten in every direction to escape their impending fate, but as all means of escape are generally closed, the greater portion pay for their treachery with death or captivity. The squaws and children are never fired upon if they attempt to escape, but no bucks, as they are called, are ever permitted to pass outside the circle if bullets will stop them. After a raid of this sort, if successful, the troops return to their quarters until they are again called into the field by some new deeds of arson and murder.</p>
-
-<p>In pitched battles with the Indians, the troopers always fight on foot, if possible, and deployed as skirmishers; but they do not seek cover, like their foes. Hence, when small in numbers, they are often defeated, notwithstanding their discipline and superiority in arms. When forced backward, they generally retreat on the line they advanced - a peculiarity of all white men - and the Indians, being aware of this characteristic, generally station strong parties in their rear, so that they receive two fires. This fact of retreating in a body, and deploying in the face of a foe who is often concealed, are the main causes for the defeat of our troops, occasionally, and it is for these very reasons that Indians do not fear soldiers as much as they do the volunteers. These facts I glean from my cicerone at this post, so, thinking them novel and interesting, present them for the information of such as are interested in the warfare now occurring in several portions of the West. The best Indian fighters on the frontiers are not the soldiers, but the most plebian and unromantic of all civilized creatures, the ox-drivers, farmers, and hunters. These men know that it is death, and a horrid one, if they surrender when attacked, hence they seek shelter and fight until their ammunition is exhausted or the foe is repulsed. They are, generally, cool, brave men and splendid shots, so that they make every bullet count. They think nothing of their work when done, and you scarcely ever hear them recount their mighty deeds; nor do they ever appear in sensational journals as the slayers of millions of foes and the terror of the combined Indian tribes. They are as unromantic in their every-day life as the cotton-spinners, so that these men of brawn and muscle and courage are the very reverse of the Tartuffes who tread the mimic stage in tinsel and buckskin as representatives of the daring pioneers of the border. I am led to these remarks by noting the contrast between them and the men now in the East who parade themselves on theatrical boards as Western heroes and the slayers of myriads of savages. The latter are no more representatives of the brave and unpretending men of the frontier than are the buskined, mouthing kings of the stage representatives of the true monarchs they attempt to portray. Since one or two parties dwelling in this vicinity were raised into notoriety by some sensation-monger, who lauded them into the position of a Hercules, Daniel Boone, Admirable Crichton, and Bayard combined. I have encountered some idiotic fellows who dress constantly in buck-skin and wear the hair long, and display a glittering knife and revolver at their sides. They generally manage to frequent all trains moving west, to pass themselves off on the unsophisticated, romance-loving ladies from the East as great hunters and Indian slayers, and call themselves also Government scouts. They are of course the centre of attraction among the fair sex, who are said to admire bravery; but among those who know their weakness they are the centre of contempt, and a target for the vilest epithets that they can use to express cowardice and idiocy. If Eastern people meet these they should treat them with the contempt they deserve, as all they desire is cheap notoriety.</p>
-
-<p>At this fort, as well as at all others in the West, a scout is employed to conduct troops over such country as they may not be acquainted with. It is popularly supposed that scouts are selected for their courage, but that is also a fallacy, for I know some of them who would rival Jack Gilpin's rider if they suddenly encountered a red warrior. Their knowledge of the country is their first requisite, and if they are brave besides, why it is so much an advantage to the Government. These men are often acquainted with all the Indian wiles and stratagems, and well versed in woodcraft and "tracking," and in such cases they are almost invaluable on a hostile expedition. They are the pets of the garrison, for they not only receive the best quarters, but they are also furnished with the best horses in the battalion when the troops take the field. I have heard here tales of their life on the plains which were full of dramatic power, and, though literally true, the equal of the wildest romance that ever was penned. They proved, indeed, that truth in this land of uniqueness and wonders is stranger than fiction, and that a true type of the frontiersman is an embodiment of the highest order of courage. The knights of old sought death or glory amid the braying of trumpets, the clashing of arms, and under the eyes of beauty, but never did they accomplish greater deeds than did many an unknown and unhonored American in these Western wilds. The former had only to display brute courage, but the latter had to face hunger, cold, and thirst, to traverse unknown and desolate regions, and, finally, to either circumvent or defeat the numerous foes which, like shadows, ever hover on their track. Were deeds of frequent occurrence in this country accomplished in any other, their authors would receive the approbation their daring deserved, but here it is the Tartuffes who are recognized, owing to their impudence.</p>
-
-<p>One great advantage that the soldiers and the men of the West enjoy over those of the East is the unbounded extent of the hunting at their command. Here, in Western Nebraska, one can saddle his steed in the morning and by evening return with a liberal supply of buffalo, elk, deer, or antelope meat, and in the proper season he can take his dog and gun and bring home a bag of prairie chickens or quail in a couple of hours, provided he is an ordinary shot. Your London correspondent, in his letter of Aug. 28, refers to the absence of grouse in Scotland, and the wearied tramping of hunters after birds that do not exist. What would he think of a country where a man kills his forty and fifty brace a day without even wetting his feet, and not walking as much in ten hours as a Scottish fowler would in one? I was out shooting in this vicinity a few days ago, and I rode in a pony phaeton all over the prairies, so that I followed my startled coveys without incurring any fatigue. The ladies of Nebraska generally drive the carriage while their lords slay the birds, and, when a flock is killed off, move to another spot. In this way both men and dogs are saved much needless tramping, and the ladies can enjoy the delicious drive over the prairies and be participators in the excitement of the hunt. This, to me, seems the acme of fowling, and one to whose elegance and comfort our British cousins must always remain strangers in their own land.</p>
-
-<p>Another species of hunting, now much in vogue here, is antelope coursing, with dogs, an amusement highly exciting and infinitely superior to the hare coursing of the British Isles. To hunt antelope one must use a cross between a greyhound and some kindred species, in order to secure both speed and combativeness. The pure greyhound will not seize an antelope, though it may pursue it, so this defect has to be overcome by securing a "dropper." The best dog for this purpose is a cross between a bloodhound and the preceding, or else a stag-hound. The latter blood gives both bottom and perseverance, and is therefore the most desirable. To see three or four tall, long-limbed, broad-headed dogs after an antelope is most exciting, and one is not displeased if the antlered creature sometimes escapes the dripping fangs that pursue it. This species of sport has several merits, in the fact that if you are mounted on a good horse you can join in the chase, else sit quietly in the saddle and see the run from beginning to end, as the rolling plains enable you to see the quarry until it is lost in the distance or captured. I had two days of this amusement, and consider it in every way superior to fox hunting or hare coursing. The elk is also hunted here on horseback, and most delicious sport it is, for the moment one sees the branching, towering antlers in front, he can no more restrain his enthusiasm than he could make water flow up a hill. This is even superior to buffalo hunting, in some respects, as you can enjoy the musical chorus of a pack of hounds, as well as the bounding sensation of a good run, and, finally, the death of your magnificent quarry by your own hand. When I recall the extent of these free and boundless plains, their many species of game, their luxuriant vegetation, and deep, rich soil, I do not wonder that the inhabitants boast so much of their State, and fondly assume that it is superior to any other portion of the world. The Earl of Dunraven, who has hunted all over this country, is credited with the remark: "That the people of the West ought to be the happiest in the world, as Nature had given them all the mind could ask for;" and in this he was correct, for no other region on earth will compare with it in fertility and abundance of game. If one would enjoy a free, bold life for a season, I know of no better place to recommend than the prairies of Nebraska.</p>
-
-<p>Since writing the above, news has been received here that a party of Sioux have made a raid on Brady Station, a few miles east of this place, on the line of the railroad, and captured several valuable horses. They appeared last night at Hendry's hay camp, five miles west of us, cut out the horses from a number wagons under which the drivers were sleeping, and, in the attempt to save their stock, five of the latter were killed. A party of citizens, who were out gathering plums, were also driven in. Capt. Russell, with a small detachment of cavalry, is now in pursuit of the rascals, and will probably capture the stolen property. The absence of the usual garrison in Wyoming is probably the cause for the daring displayed by the savages. They are undoubtedly Dakota Sioux, as the Wyoming tribes are now seeking the mountains to evade the pursuit of the large force of cavalry in that region. </p>
+<p>At 4 o'clock on Saturday afternoon, Buffalo Bill, with his Cossacks and troupe, arrived at Windsor and gave a performance before the <persName xml:id="victoria.q">Queen</persName> and other members of the Royal Family, on the spacious lawn fronting the east terrace of Windsor Castle. After the performance the troupe left for London by special train. The programme gone through was of the most attractive description, leading off with a race between the representatives of each of the different nationalities &#8212; the American cowboys, the Red Indians, the Mexicans, the Cossacks, and the Gauchos &#8212;all of whom exerted their powers to the utmost. Then followed a series of scenes of Indian camp life, which the red men went through with much spirit; after which the Gauchos, whose picturesque costume and intrepid feats greatly interested the Royal party, gave their performance, their hurling of the "bolas," consisting of a number of raw-hide thongs, which they use as a sort of lasso, being a much-appreciated display. Next came the race for life, showing Colonel Cody and a band of Cowboys being pursued by hostile Indians, whom they ultimately defeated. The Cossacks, under Prince Ivan Makharadze, also gave their splendid entertainment of horsemanship and dancing; the everlastingly amusing buckjumpers and Cowboys went through their diverting performances; Colonel Cody displayed his wonderful dexterity as a marksman by shooting glass balls, both the colonel and the object-thrower galloping at full speed; and the entertainment was brought to a close by a general salute by all sections of horsemen, which was acknowledged by the Queen. The greatest success attended every detail of the representation, and the Queen personally congratulated Colonel Cody.</p></div2>
 
 </div1>
 </body>
