@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.mem00290">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Page from Souvenir Guidebook to the 1935 Exposition Universelle et Internationale</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.mem00290</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>Friesen, Steve. Lakota Performers in Europe: Their Culture and the Artifacts They Left Behind. University of Oklahoma Press, 2017. http://www.codystudies.orgFriesen, Steve. Lakota Performers in Europe: Their Culture and the Artifacts They Left Behind. University of Oklahoma Press, 2017. http://www.codystudies.org/friesen//friesen/</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Souvenir Guidebook to the 1935 Exposition Universelle et Internationale</title>
+<title level="j"></title>
+<pubPlace></pubPlace>
+<date when="1935">1935</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp">602</biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Francois Chladiuk Collection</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Memorabilia</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Programs</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Little Moon, Francis</term>
+<term>Little Moon, Wilson</term>
+<term>Little Moon, Joe</term>
+<term>Little Moon, Pauline</term>
+<term>Little Moon, Rose</term>
+<term>Little Moon, Gilbert</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="program">
+
+<pb facs="wfc.mem00290.001"/>
+
+<head>LE VILLAGE INDIEN.</head>
+<p>Cet ensemble de constructions, d'une authenticité rigoureuse et colorée, avait été réalisé par
+l' « Associated American Indian Group », avec
+la participation de plusieurs organismes, tels
+que les Musées d'Histoire Naturelle, de Folklore, etc.</p>
+
+<p>Dans un décor de roches rouges, s'élevaient
+des bâtiments représentatifs des diverses régions américaines : il y avait des maisons basses, comme il s'en trouve dans tous les villages
+du Nord. Encore, un blockhaus, semblable à
+ceux où les premiers colons se défendaient des
+incursions des Peaux-Rouges; une taverne, pa-
+
+
+<figure n="photograph"><p>La Village Indien.</p><ab type="credit">Photo L'Ept.</ab></figure>
+
+
+reille à celles où les chercheurs d'or jouaient
+leurs gains, à celles que tant de films, dont «  la
+Ruée vers l'Or », nous ont montrées avec leurs
+clients étranges et pourtant attachants. Un peu
+plus loin, un restaurant évoquait les bâtiments
+du Nouveau-Mexique; et des tentes de cuir
+brun, rehaussée de motifs aux vives couleurs,
+abritaient des Peaux Rouges authentiques, venus à Bruxelles au prix d'un long et pénible
+voyage.</p>
+
+<p>Il y avait là toute une tribu, du grand chet qui,
+au cours de son séjour aux Etats Unis, avait décoré le général Balbo, commandant en chef de
+l'Aviation italienne; des vénérables « Squaws »,
+préposées à la préparation des mets familiaux;
+des vaillants guerriers; des gosses ravissants,
+hauts comme trois pommes et qui déjà portaient
+avec crânerie le costume national, les mocassins,
+les pantalons de cuir, la veste brodée, la coiffure
+de plumes..</p>
+
+<p>Dans un cirque voisin, les Peaux Rouges donnaient des échantillons de leurs talents divers.
+L'un lançait le lasso avec une étourdissante virtuosité; l'autre, tireur émérite, faisait mouche à
+tous les coups. Le « médecin » de la tribu montrait comment, en Amérique, on guérit les malades en les berçant de chansons nostalgiques, en
+exécutant autour d'eux des danses magiques
+Des cavaliers initiaient le public aux mystères
+du dressage des chevaux sauvages; et l'on vit,
+un beau jour, Son Excellence l'Ambassadeur
+des Etats-Unis recevoir, des mains
+du Grand Chef,
+une investiture solennelle, symbolisée par un tomahawk enrubanné
+aux couleurs de la
+République étoiles.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.loc.gov/standards/vracore/vra-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm">
+
+<work id="wfc.img.pht00097">
+<agentSet>
+<display></display>
+<agent>
+<name></name>
+<dates></dates>
+<role></role>
+</agent>
+</agentSet> 
+<dateSet>
+<display></display>
+<date></date>
+</dateSet>
+<descriptionSet>
+<description>Sam Lone Bear poses in front of an Indian village tepee with Pauline and Gilbert Little Moon for a visitor's photo. </description>
+</descriptionSet>
+<inscriptionSet>
+<inscription>
+<text></text>
+</inscription>
+</inscriptionSet>
+<locationSet>
+<location>
+<name></name>
+</location>
+</locationSet>
+<relationSet>
+<relation>Friesen, Steve. Lakota Performers in Europe: Their Culture and the Artifacts They Left Behind. University of Oklahoma Press, 2017.</relation>
+<relation>http://www.codystudies.org/friesen/</relation>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>Francois Chladiuk Collection</rightsHolder>
+<text></text>
+</rights>
+</rightsSet>
+<sourceSet>
+<display></display>
+<source>
+<name type="electronic"></name>
+</source>
+</sourceSet>
+<subjectSet>
+<subject>
+<term>American Indians</term>
+<term>Lone Bear, Sam</term>
+<term>Little Moon, Pauline</term>
+<term>Little Moon, Gilbert</term>
+<term></term>
+<term></term>
+<term></term>
+</subject>
+</subjectSet>
+<techniqueSet>
+<technique></technique>
+</techniqueSet>   
+<titleSet>
+<title>Sam Lone Bear, Pauline Little Moon, and Gilbert Little Moon</title>
+</titleSet>
+<worktypeSet>
+<worktype>photograph</worktype>
+</worktypeSet>
+<image>
+<agentSet>
+<agent>
+<name type="personal"></name>
+<role></role>
+</agent>
+</agentSet>
+<dateSet>
+<date></date>
+</dateSet>
+<relationSet>
+<relation/>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>Francois Chladiuk Collection</rightsHolder>
+<text></text>
+</rights> 
+</rightsSet>
+<worktypeSet>
+<worktype>digital image</worktype>
+</worktypeSet>
+</image>
+</work> 
+
+</vra>

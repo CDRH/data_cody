@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.loc.gov/standards/vracore/vra-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm">
+
+<work id="wfc.img.pht00089">
+<agentSet>
+<display></display>
+<agent>
+<name></name>
+<dates></dates>
+<role></role>
+</agent>
+</agentSet> 
+<dateSet>
+<display></display>
+<date></date>
+</dateSet>
+<descriptionSet>
+<description>Vest worn by John Little Elk. This vest had no tags from Hermans but can be seen on Little Elk in several different photographs and postcards. Hermans later wore the vest during reenactments.</description>
+</descriptionSet>
+<inscriptionSet>
+<inscription>
+<text></text>
+</inscription>
+</inscriptionSet>
+<locationSet>
+<location>
+<name></name>
+</location>
+</locationSet>
+<relationSet>
+<relation>Friesen, Steve. Lakota Performers in Europe: Their Culture and the Artifacts They Left Behind. University of Oklahoma Press, 2017.</relation>
+<relation>http://www.codystudies.org/friesen/</relation>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>Francois Chladiuk Collection</rightsHolder>
+<text></text>
+</rights>
+</rightsSet>
+<sourceSet>
+<display></display>
+<source>
+<name type="electronic"></name>
+</source>
+</sourceSet>
+<subjectSet>
+<subject>
+<term>American Indians</term>
+<term>Little Elk, John</term>
+<term></term>
+<term></term>
+<term></term>
+<term></term>
+<term></term>
+</subject>
+</subjectSet>
+<techniqueSet>
+<technique></technique>
+</techniqueSet>   
+<titleSet>
+<title>John Little Elk</title>
+</titleSet>
+<worktypeSet>
+<worktype>photograph</worktype>
+</worktypeSet>
+<image>
+<agentSet>
+<agent>
+<name type="personal"></name>
+<role></role>
+</agent>
+</agentSet>
+<dateSet>
+<date></date>
+</dateSet>
+<relationSet>
+<relation/>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>Francois Chladiuk Collection</rightsHolder>
+<text></text>
+</rights> 
+</rightsSet>
+<worktypeSet>
+<worktype>digital image</worktype>
+</worktypeSet>
+</image>
+</work> 
+
+</vra>

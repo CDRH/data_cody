@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.loc.gov/standards/vracore/vra-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm">
+
+<work id="wfc.img.pht00107">
+<agentSet>
+<display></display>
+<agent>
+<name></name>
+<dates></dates>
+<role></role>
+</agent>
+</agentSet> 
+<dateSet>
+<display>1928</display>
+<date><earliestDate>1928</earliestDate><latestDate>1928</latestDate></date>
+</dateSet>
+<descriptionSet>
+<description>Sam Lone Bear and Mark Spider, the only single men among the group of Lakotas who performed for Sarrasani Circus during the 1928 tour of Europe, are pictured on this souvenir postcard.</description>
+</descriptionSet>
+<inscriptionSet>
+<inscription>
+<text></text>
+</inscription>
+</inscriptionSet>
+<locationSet>
+<location>
+<name></name>
+</location>
+</locationSet>
+<relationSet>
+<relation>Friesen, Steve. Lakota Performers in Europe: Their Culture and the Artifacts They Left Behind. University of Oklahoma Press, 2017.</relation>
+<relation>http://www.codystudies.org/friesen/</relation>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>PR2802, Record Group 75, National Archives and Records Administration, Kansas City, Missouri</rightsHolder>
+<text></text>
+</rights>
+</rightsSet>
+<sourceSet>
+<display></display>
+<source>
+<name type="electronic"></name>
+</source>
+</sourceSet>
+<subjectSet>
+<subject>
+<term>American Indians</term>
+<term>Lone Bear, Sam</term>
+<term>Spider, Mark</term>
+<term></term>
+<term></term>
+<term></term>
+<term></term>
+</subject>
+</subjectSet>
+<techniqueSet>
+<technique></technique>
+</techniqueSet>   
+<titleSet>
+<title>Sam Lone Bear and Mark Spider</title>
+</titleSet>
+<worktypeSet>
+<worktype>postcard</worktype>
+</worktypeSet>
+<image>
+<agentSet>
+<agent>
+<name type="personal"></name>
+<role></role>
+</agent>
+</agentSet>
+<dateSet>
+<date></date>
+</dateSet>
+<relationSet>
+<relation/>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>PR2802, Record Group 75, National Archives and Records Administration, Kansas City, Missouri</rightsHolder>
+<text></text>
+</rights> 
+</rightsSet>
+<worktypeSet>
+<worktype>digital image</worktype>
+</worktypeSet>
+</image>
+</work> 
+
+</vra>

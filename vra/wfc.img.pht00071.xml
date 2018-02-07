@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.loc.gov/standards/vracore/vra-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm">
+
+<work id="wfc.img.pht00071">
+<agentSet>
+<display></display>
+<agent>
+<name></name>
+<dates></dates>
+<role></role>
+</agent>
+</agentSet> 
+<dateSet>
+<display></display>
+<date></date>
+</dateSet>
+<descriptionSet>
+<description>By 1935 Lakotas involved in shows dressed specifically for performance. When the Little Elks posed for this souvenir postcard, they wore clothing influenced by tradition but much more extravagant. John and Lucy's granddaughter, Virginia, is even wearing an eagle feather headdress and carrying a small medicine stick.</description>
+</descriptionSet>
+<inscriptionSet>
+<inscription>
+<text></text>
+</inscription>
+</inscriptionSet>
+<locationSet>
+<location>
+<name></name>
+</location>
+</locationSet>
+<relationSet>
+<relation/>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>Francois Chladiuk Collection</rightsHolder>
+<text></text>
+</rights>
+</rightsSet>
+<sourceSet>
+<display></display>
+<source>
+<name type="electronic"></name>
+</source>
+</sourceSet>
+<subjectSet>
+<subject>
+<term>American Indians</term>
+<term>Little Elks, John</term>
+<term>Little Elks, Virginia</term>
+<term>Little Elks, Lucy</term>
+<term></term>
+<term></term>
+<term></term>
+</subject>
+</subjectSet>
+<techniqueSet>
+<technique></technique>
+</techniqueSet>   
+<titleSet>
+<title>John Little Elks, Virginia Little Elks, and Lucy Little Elks</title>
+</titleSet>
+<worktypeSet>
+<worktype>postcard</worktype>
+</worktypeSet>
+<image>
+<agentSet>
+<agent>
+<name type="personal"></name>
+<role></role>
+</agent>
+</agentSet>
+<dateSet>
+<date></date>
+</dateSet>
+<relationSet>
+<relation>Friesen, Steve. Lakota Performers in Europe: Their Culture and the Artifacts They Left Behind. University of Oklahoma Press, 2017.</relation>
+<relation>http://www.codystudies.org/friesen/</relation>
+<relation>wfc.img.pht00090</relation>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>Francois Chladiuk Collection</rightsHolder>
+<text></text>
+</rights> 
+</rightsSet>
+<worktypeSet>
+<worktype>digital image</worktype>
+</worktypeSet>
+</image>
+</work> 
+
+</vra>

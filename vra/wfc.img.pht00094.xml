@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.loc.gov/standards/vracore/vra-strict.xsd"?>
+
+<vra xmlns="http://www.vraweb.org/vracore4.htm">
+
+<work id="wfc.img.pht00094">
+<agentSet>
+<display></display>
+<agent>
+<name></name>
+<dates></dates>
+<role></role>
+</agent>
+</agentSet> 
+<dateSet>
+<display>1935</display>
+<date><earliestDate>1935</earliestDate><latestDate>1935</latestDate></date>
+</dateSet>
+<descriptionSet>
+<description>The Little Moon family poses with a visitor to the Indian village in Brussels, 1935. More children, including Joe and Rosa's youngest, Walter, would be born to the couple after they returned to Pine Ridge. Joe was killed by lightning eight years after their return, and Rosa had to raise their seven children on her own.</description>
+</descriptionSet>
+<inscriptionSet>
+<inscription>
+<text></text>
+</inscription>
+</inscriptionSet>
+<locationSet>
+<location>
+<name></name>
+</location>
+</locationSet>
+<relationSet>
+<relation>Friesen, Steve. Lakota Performers in Europe: Their Culture and the Artifacts They Left Behind. University of Oklahoma Press, 2017.</relation>
+<relation>http://www.codystudies.org/friesen/</relation>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>Francois Chladiuk Collection</rightsHolder>
+<text></text>
+</rights>
+</rightsSet>
+<sourceSet>
+<display></display>
+<source>
+<name type="electronic"></name>
+</source>
+</sourceSet>
+<subjectSet>
+<subject>
+<term>American Indians</term>
+<term>Little Moon, Francis</term>
+<term>Little Moon, Wilson</term>
+<term>Little Moon, Joe</term>
+<term>Little Moon, Pauline</term>
+<term>Little Moon, Rose</term>
+<term>Little Moon, Gilbert</term>
+</subject>
+</subjectSet>
+<techniqueSet>
+<technique></technique>
+</techniqueSet>   
+<titleSet>
+<title>Francis Little Moon, Wilson Little Moon, Joe Little Moon, Pauline Little Moon, Rose Little Moon, and Gilbert Little Moon with Visitor</title>
+</titleSet>
+<worktypeSet>
+<worktype>photograph</worktype>
+</worktypeSet>
+<image>
+<agentSet>
+<agent>
+<name type="personal"></name>
+<role></role>
+</agent>
+</agentSet>
+<dateSet>
+<date></date>
+</dateSet>
+<relationSet>
+<relation/>
+</relationSet>
+<rightsSet>
+<rights>
+<rightsHolder>Francois Chladiuk Collection</rightsHolder>
+<text></text>
+</rights> 
+</rightsSet>
+<worktypeSet>
+<worktype>digital image</worktype>
+</worktypeSet>
+</image>
+</work> 
+
+</vra>
