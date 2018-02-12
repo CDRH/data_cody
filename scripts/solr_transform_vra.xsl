@@ -137,22 +137,25 @@
     <field name="subCategory">
       <xsl:variable name="filename" select="tokenize(document-uri(/), '/')[last()]" />
       <xsl:choose>
-        <xsl:when test="contains($filename, '.pho.')">
+        <xsl:when test="contains($filename, '.pho')">
           <xsl:text>photographs</xsl:text>
         </xsl:when>
-        <xsl:when test="contains($filename, '.pc.')">
+        <xsl:when test="contains($filename, '.pht')">
+          <xsl:text>photographs</xsl:text>
+        </xsl:when>
+        <xsl:when test="contains($filename, '.pc')">
           <xsl:text>postcards</xsl:text>
         </xsl:when>
-        <xsl:when test="contains($filename, '.pst.')">
+        <xsl:when test="contains($filename, '.pst')">
           <xsl:text>posters</xsl:text>
         </xsl:when>
-        <xsl:when test="contains($filename, '.ill.')">
+        <xsl:when test="contains($filename, '.ill')">
           <xsl:text>illustrations</xsl:text>
         </xsl:when>
-        <xsl:when test="contains($filename, '.va.')">
+        <xsl:when test="contains($filename, '.va')">
           <xsl:text>visual_art</xsl:text>
         </xsl:when>
-        <xsl:when test="contains($filename, '.cc.')">
+        <xsl:when test="contains($filename, '.cc')">
           <xsl:text>cabinet_cards</xsl:text>
         </xsl:when>
       </xsl:choose>
