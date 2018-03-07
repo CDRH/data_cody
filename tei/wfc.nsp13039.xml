@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13039">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Exhibition of Saddlery and Harness</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13039</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Exhibition of Saddlery and Harness</title>
+<title level="j">The Englishman</title>
+<pubPlace>Calcutta, India</pubPlace>
+<date when="1892-07-21">July 21, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.141.03abc (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bits (Bridles)</term>
+<term>Bridles</term>
+<term>Cavalry</term>
+<term>Chariots</term>
+<term>Cowboys</term>
+<term>English saddles</term>
+<term>Exhibitions</term>
+<term>Harnesses</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Leatherwork</term>
+<term>Saddlers' Company</term>
+<term>Saddlery</term>
+<term>Scrapbooks</term>
+<term>Sidesaddle riding</term>
+<term>Spurs</term>
+<term>Traveling exhibitions</term>
+<term>Western saddles</term>
+<term>Xenophon</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Cheapside (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13039.001"/>
+
+
+<head>EXHIBITION OF SADDLERY AND HARNESS.</head>
+
+<byline>[FROM OUR OWN CORRESPONDENT.]</byline>
+<dateline>LONDON, JUNE 17.</dateline>
+
+<p>The Worshipful Company of Saddlers have organized a very interesting and complete exhibition of saddlery and harness from the earliest times at the Saddlers' Hall, Cheapside.</p>
+
+<p>The catalogue of the Exhibition contains valuable historical introduction on the art of horsemanship and things germane thereto It is written by Mr John William Sherwell, Clerk to the Company, who is to be congratulated on the research it discovers.</p>
+
+<p>From it we learn that Egypt is where we meet with the earliest mention of cavalry, chariots, &amp;c., large number of which were employed some fifteen centuries before the Christian era. The Bible had many references to horses, &amp;c. The older sculpturist paintings of horses go to shew that for many centuries they were ridden bare-backed. In this connection one of the interesting sights at Buffalo Bill's Wild West Show is the bare-backed riding of the American Indians on their own ponies. We have grown so accustomed to saddles that we are apt to think that riding is hardly possible without them. Some authorities are of opinion that horses were first used for draught purposes and later for the saddle.</p>
+
+<p>The Assyrians (Xenophon) decorated their harness and trappings with profuse richness. Pliny informs us that Bellerophon was the firs[t] to mount a horse, and that bridles and saddle, were the invention of the King of the Lapith&#230; while the double-yoked chariot was introduced by the Phyrgians. </p>
+
+<p>The Elgin (Parthenon) friezes represent mounted men without saddle, cloth, or reins, but the position of the hands gives colour to the probability that reins were used. </p>
+
+<p>The Greek historian Xenophon ascribes to the growing luxury of the Persians the degenerate us of saddles.</p>
+
+<p>The Roman Legion included a body of "Equites" of Cavalry, C&#230;sar and Livy mention that tribes on the north shore of Africa rode without bit or saddle, guiding by touch only.</p>
+
+<p>We gather that the earliest form of saddle was a pad and girth and without stirrups. A coin of Labicnus <hi rend="italic">circa</hi> B. C. 40 bears evidence that a light framed saddle was first introduced by the Romans.</p>
+
+<p>From an antique lamp at Herculaneum it would appear that horses were occasionally trained to kneel for riders to mount. </p>
+
+<p>Du Chailla in his "Viking Age" alludes to bronze saddle frames, horse collars, stirrups, bit, and spurs having been used by the Scandinavians in the "Iron age."</p>
+
+<p>The Bayeux tapestry shews that the Normans used saddle with high pummels and cantles.</p>
+
+<p>The tilting push of the 13th century gave rise to "tilting saddles," most formidable affairs they are, with shields to guard the loins and thighs. How the gallant Knight could have found his way in is a mystery.</p>
+
+<p>The side saddle for ladies is said to have been introduced by Anne, Queen of Richard II., towards the close of the 14th century.</p>
+
+<p>In the middle ages the Saddler's art was brought to a degree of perfection which the present age has never seen and scarcely realizes, not withstanding even the sumptuousness of Oriental saddlers. Knights and ladies had their saddles richly embroidered, gilded, carved, painted, and even studded with gems, and their saddle cloths were blazoned with armorial quarterings galore.</p>
+
+<p>The records of the Saddlers' Company of the year 1309 state that three guilds were interested in the manufacture of saddles, namely, the joiners (or tree-makers), the painters and the saddlers (or leather workers.)</p>
+
+<p>Probably the oldest English saddle extant is the Henry V., of Agincourt renown, which is now in Westminster Abbey; all that remains of it is the saddle-tree of oak with its padding of hay and canvas.</p>
+
+<p>The decay of feudal custom led to a disuse of armour and to the discard of prominent pommels and cantles.</p>
+
+<p>Tournaments were abandoned shortly after the fatal accident to Henry II. of France in 1559, and in England the civil wars of the 17th century saw the last use of armour by regular troops, although now and then we hear of attempts to revive shields, &amp;c.</p>
+
+<p>A vestige of the practice may be said to survive in the helmets and cuirasses of the Household Calvary.</p>
+
+<p>A great deal of Old World and Oriental finery still prevails in many countries, and the Mexican or Cowboy's saddle still shows that high pommels have a use. We appear, however, for two centuries to have settled down to the present forms of saddles. This form&#8212;influenced to some extent by special exigencies and requirements&#8212;seems in no likelihood of being superseded in the main lines of construction.</p>
+
+<p>The exhibition contains over 300 interesting exhibit, including a collection of drawings of equestrian subjects from ancient sculpture, &amp;c., of Algerian, Egyptian, Turkish, Persian, Indians, Burman, Mexican, and other national horse trappings, both ancient, modern and of interesting objects such as impressions of the Great Seals lection of the Indian bits lent by H. R. H. the Prince of Wales; Canadian sleigh harness, old horse shoes from excavation, with bits, spurs, and other furniture. Early ladies' side-saddles, with specimens of the plain useful workmanlike productions of our present day London saddle.</p>
+
+<p>The collection of modern military saddlery of all nations must not be omitted. Although our own among other Governments from time to time offer prizes for improvements in military saddles, nothing  very dicided in this direction has come forward so far: though it is rash to prophesy, finality seems to have been practically reached.</p>
+
+<p>The collection is so interesting that, as usual, it is to be wondered why such a thing was not before thought of, and although the Exhibition is very comprehensive one, there is no doubt the experience gained and the interest developed in the subject will lead to a more complete one being brought together on some other occasion.</p>
+
+<p>Leather work being peculiarly an industry in which we hold a preminence, an exhibition of the trade is one that should specially appeal to Englishmen.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

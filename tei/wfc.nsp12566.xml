@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12566">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">At the Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12566</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>J. B. P.</author>
+<title level="a" type="main">At the Wild West</title>
+<title level="j">Punch, or The London Charivari</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-09">July 9, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.085.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Arapaho Indians</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Gunpowder</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Knives</term>
+<term>Military exhibition drill</term>
+<term>Oglala Indians</term>
+<term>Orators</term>
+<term>Pistols</term>
+<term>Popcorn</term>
+<term>Rifles</term>
+<term>Scalping</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term> 
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Paris (France)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="kz">Zierlein, Kim</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12566.001"/>
+
+<head>AT THE WILD WEST. </head>
+
+<note><hi rend="italic">(A Sketch at Earl's Court.)</hi></note>
+
+<p><hi rend="italic">The Orator's Opening Discourse (as heard in the back rows).</hi> Ladies and Gentlemen, I desire to draw your attention to an important fact. It will be my pleasure to introduce to you...<hi rend="italic">("The real American popcorn, equally famous in Paris and London, tuppence each packet!" from Vendor in gangway)</hi>... history and life of the... <hi rend="italic">("'Buffalo Bill Puzzle,' one penny!" from another vendor behind)</hi>... impress one fact upon your minds; this is not... <hi rend="italic">(roar and rattle of passing train)</hi>... in the ordinary or common acceptation of... <hi rend="italic">("Puff-puff-puff!" from engine shunting trucks)</hi>... Many unthinking persons have said... <hi rend="italic">(Piercing and prolonged scream from the same engine.)</hi> This is not so. On the contrary... <hi rend="italic">(Metallic bangs from trucks.)</hi> Men and animals are... <hi rend="italic">("Programmes! Opera-glasses on hire!")</hi>... purely creatures of... </p>
+
+<p><hi rend="italic">[Remainder of remarks hopelessly lost amidst the clank of coupling chains, whistles, snorts and puffs from a shunting engine</hi></p>
+
+<p><hi rend="italic">An Old Lady in Audience.</hi> He has such a beautiful clear voice, we <hi rend="italic">ought</hi> to hear every word. If <hi rend="italic">I</hi> were BUFFALO BILL, I should positively insist on the trains keeping quiet while the Orator was speaking! </p>
+
+<p><hi rend="italic">Orator (during the Grand</hi> </p>
+
+<figure><p>"I am perfectly aware of <hi rend="italic">that</hi>, Euphemia!"</p>
+<ab type="credit">J. B. P.</ab></figure>
+
+<p><hi rend="italic">Processional Review).</hi> A Troop of Arapahoe Indians! </p>
+
+<p><hi rend="italic">[Band strikes up; a party of painted Indians gallop into Arena, uttering little puppy-like barks.</hi></p>
+
+<p><hi rend="italic">An Artistic Lady (shuddering).</hi> Look at that creature with a raw pink body, and a pea-green face&#8212;it's too <hi rend="italic">frightful</hi>, and such <hi rend="italic">crude</hi> yellows! I <hi rend="italic">wish</hi> they could be taught to paint themselves some <hi rend="italic">decent</hi> colour! </p>
+
+<p><hi rend="italic">Her Sister.</hi> Really, dear, as far as <hi rend="italic">decency</hi> is concerned, I don't exactly see what difference the mere <hi rend="italic">colour</hi> would make. </p>
+
+<p><hi rend="italic">Her Husband.</hi> That isn't quite what EMILY meant. She'd like to enamel 'em all in Art shades and drape Liberty scarves round 'em, like terra-cotta drainpipes or wicker-chairs&#8212;eh, EMILY? </p>
+
+<p><hi rend="italic">Emily (loftily).</hi> Oh, my dear HENRY, I wasn't speaking to <hi rend="italic">you.</hi> I know what a contempt you have for all that makes a home beautiful! </p>
+
+<p><hi rend="italic">Henry.</hi> Meaning Indians? My love, I respect them and admire them&#8212;at a distance; but, plain <hi rend="italic">or</hi> coloured, I cannot admit that they would be decorative as furniture&#8212;even in <hi rend="italic">your</hi> drawing-room! </p>
+
+<p>[EMILY <hi rend="italic">endures him is silence</hi></p>
+
+<p><hi rend="italic">Orator.</hi> A party of Women of the Ogallalla Tribe! </p>
+
+<p><hi rend="italic">[Three mounted Indian ladies in blankets&#8212;walk their horses slowly round the Arena, crooning "Aye-eia-ha-ya-hee-hi-ya!" with every sign of enjoying their own performance.</hi></p>
+
+<p><hi rend="italic">A Poetical Lady.</hi> What strange wild singing it is, JOHN! There's something so creepy about it, somehow. </p>
+
+<p><hi rend="italic">John (a prosaic but frivolous person).</hi> There is, indeed. It explains <hi rend="italic">one</hi> thing I never quite understood before, though. </p>
+
+<p><hi rend="italic">The Poetical Lady.</hi> I thought it would impress you&#8212;but what does it explain? </p>
+
+<p><hi rend="italic">John.</hi> The reason why the buffalo in those parts has so entirely died out. </p>
+
+<p><hi rend="italic">A Rigid Matron (during the Emigrant Train Scene).</hi> I don't care to see a girl ride in that bold way myself. I'm sure it <hi rend="italic">must</hi> be so unsexing for them. And what <hi rend="italic">is</hi>she about now, with that man? They're actually having a duel with knives&#8212;on <hi rend="italic">horseback</hi> too! not at <hi rend="italic">all</hi> a nice thing for any young girl to do. There! she's pulled out a pistol and shot him&#8212;and galloped off as if nothing had happened! I have always heard that American girls were allowed a good <hi rend="italic">deal</hi> of liberty&#8212;but I'd really no idea they went as far as this! I should be sorry indeed to see any girl of <hi rend="italic">mine (here she glances instructively at three dumpy and dough-faced Daughters)</hi> acting in that forward and <hi rend="italic">most</hi> unfeminine manner. <hi rend="italic">(Reassuringly.)</hi> But I'm very sure there's no fear of <hi rend="italic">that,</hi> is there, dears?</p> 
+
+<p><hi rend="italic">[The Daughters repudiate with gratifying unanimity any desire to shoot gentlemen on horseback.</hi></p>
+
+<p><hi rend="italic">A bloodthirsty Boy (as the hostile Indians attack the train).</hi> Will the Indians <hi rend="italic">scalp</hi> anybody, Uncle?</p> 
+
+<p><hi rend="italic">His Uncle.</hi> No, my boy, they don't let 'em get near enough for that, you see <hi rend="italic">[The Indians are ignominiously chased off by Cowboys.</hi></p>
+
+<p><hi rend="italic">The Boy (disappointed).</hi> They'd a splendid chance of scalping the Orator that time&#8212;and not one of them even saw it! </p>
+
+<p><hi rend="italic">Orator.</hi> Captain JACK BURTZ, of the United States Army, will now give you an example of his phenomenal Lightning Drill. </p>
+
+<p><hi rend="italic">[The Captain takes up his position with an air of fierce resolution, and proceeds to do wonderful things with a rifle and fixed bayonet, which he treats with a familiarity bordering on contempt.</hi></p> 
+
+<p><hi rend="italic">A Lady (to a</hi> Military Friend&#8212;<hi rend="italic">as the Captain twirls the rifle rapidly round his neck).</hi> Have you ever seen anyone drill like that before? </p>
+
+<p><hi rend="italic">The Mil. F.</hi> Saw CINQUEVALLI do something very like it at the Empire. But <hi rend="italic">he</hi> had a cannon-ball as well. </p>
+
+<p><hi rend="italic">The Lady.</hi> Look at him now&#8212;he's making the gun revolve upside down with the bayonet on the palm of his hand! Could <hi rend="italic">you</hi> do that? </p>
+
+<p><hi rend="italic">The M. F.</hi> Not without drilling a hole in myself. </p>
+
+<p><hi rend="italic">The Lady.</hi> It really is wonderful that he shouldn't feel the point, isn't it now?</p> 
+
+<p><hi rend="italic">The M. F.</hi> Well, I don't see much point <hi rend="italic">in</hi> it myself&#8212;but so long as it amuses him, I daresay it's all right. </p>
+
+<p><hi rend="italic">[The Captain discharges the gun in the air and retires at the double, feeling that his country's safety is secure for the present.</hi> <persName xml:id="baker.l">JOHNNY BAKER</persName>, <hi rend="italic">the young American Marksman, appears and exhibits his skill in shooting upside down.</hi></p>
+
+<p><hi rend="italic">The Rigid Matron.</hi> He missed one that time&#8212;he's not quite such a good shot as the girl was. </p>
+
+<p><hi rend="italic">One of the Daughters.</hi> Oh, but, Mother, you forget! Miss <persName xml:id="oakley.a">ANNIE OAKLEY</persName> didn't stand on <hi rend="italic">her&#8212;</hi></p>
+
+<p><hi rend="italic">The R. M. (in an awful voice).</hi> I am perfectly aware of <hi rend="italic">that,</hi> EUPHEMIA; so pray don't make such unnecessary remarks! </p>
+
+<p>[EUPHEMIA <hi rend="italic">subsides in confusion.</hi></p> 
+
+<p><hi rend="italic">An Unsophisticated Spectator (as Master BAKER, after rubbing his forehead, discovers a brickbat under the mat where his head had been).</hi> Now, how <hi rend="italic">very</hi> odd! He found a brick in exactly the same place when I was here before! Someone must have a grudge against him, poor boy! But he ought to look <hi rend="italic">before</hi> he stands on his head, next time! </p>
+
+<p><hi rend="italic">Mr. Timmerman (carelessly, to his wife, as the Deadwood Coach is introduced).</hi> It would be rather fun to have a ride in the Coach&#8212;new experience and all that.</p> 
+
+<p><hi rend="italic">Mrs. T. (who doesn't intend him to go).</hi> Oh, do be <hi rend="italic">careful</hi> then.</p> 
+
+<p><hi rend="italic">Mr. T. (feeling quite the Daredevil).</hi> Pooh, my dear, what is there to be careful about? </p>
+
+<p><hi rend="italic">Mrs. T.</hi> It does look such a ramshackle old thing&#8212;it might break down. Accidents do happen so quickly. </p>
+
+<p><hi rend="italic">Mr. T. (reflecting that they certainly do).</hi> Oh, if it wasn't perfectly safe, they wouldn't&#8212; </p>
+
+<p><hi rend="italic">Mrs. T.</hi> Well, promise me if you go on the box to hold on tight round the corners, then! </p>
+
+<p><hi rend="italic">Mr. T. (who doesn't see much to hold on by).</hi> I shan't <hi rend="italic">go</hi> on the box&#8212;I shall go inside.</p>
+
+<p><hi rend="italic">Mrs. T.</hi> There mayn't be room. There are several people waiting to go already. You'll have to make haste to get a seat at all. I shall be <hi rend="italic">miserable</hi> till I see you back safe again! </p>
+
+<p><hi rend="italic">Mr. T. (who is not sure he doesn't share her feelings).</hi> Oh well, if you feel like <hi rend="italic">that</hi> about it, I won't&#8212; </p>
+
+<p><hi rend="italic">Mrs. T.</hi> Oh, yes, do, I <hi rend="italic">want</hi> you to go&#8212;it will be so exciting for you to see real Indians yelling and shooting all round. </p>
+
+<p><hi rend="italic">Mr. T. (thinking that it may be more exciting than pleasant).</hi> Might bring on one of my headaches, and there'll be such a smell of gunpowder too. I hardly think, after all, it's worth while.</p> 
+
+<p><hi rend="italic">Mrs. T.</hi> If you feel in the least <hi rend="italic">nervous</hi> about it. (Mr. T. <hi rend="italic">denies this indignantly.</hi>) Then go at once&#8212;you may never have the chance again; only don't stay talking about it&#8212;go! </p>
+
+<p><hi rend="italic">Mr. T. (pulling himself together).</hi> Very well, if you really wish it....Confound it! <hi rend="italic">Most</hi> annoying, really! <hi rend="italic">(Sits down relieved.)</hi> They've started! It's all <hi rend="italic">your</hi> fault, if you hadn't kept me here talking! </p>
+
+<p><hi rend="italic">Mrs. T. (humbly).</hi> I <hi rend="italic">am</hi> so sorry&#8212;but there's another performance in the evening; we might dine here, and then you could easily go on the Coach afterwards if you're so anxious to! </p>
+
+<p><hi rend="italic">Mr. T.</hi> And sit through the show twice in one day? No, good as it is, I really&#8212;and I've some letters I must write after dinner, too.</p> 
+
+<p>[Mrs. T. <hi rend="italic">smiles to herself discreetly, satisfied with having gained her point.</hi> </p>
+
+
+
+
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

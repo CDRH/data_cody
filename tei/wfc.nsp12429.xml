@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12429">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12429</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Horticultural Exhibition</title>
+<title level="j"></title>
+<pubPlace></pubPlace>
+<date when="1892-06">[June] 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.066.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Botanical gardens</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Indians of North America</term>
+<term>Scrapbooks</term>
+<term>Sharpshooters</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Long Wolf, 1833?-1892</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Shakespeare, William, 1564-1616</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12429.001"/>
+
+
+<head>The Horticultural Exhibition.</head>
+
+<p>THE Horticultural Exhibition at Earl's Court has undoubtedly caught on, and within a month after the opening the number of visitors has exceeded half a million. It is not only the beauty of the grounds and the strains of the various excellent bands, but also the interesting series of exhibits in the main building, that attracts visitors in crowds&#8212;to say nothing of the "Wild West," or "Buffalo Bill" with his Indians, his Cowboys, his Cossacks, his Gauchos, and his marksmen, prominent among whom is <persName xml:id="oakley.a">Annie Oakley</persName>, "Little Sure-shot." There appears to exist among all classes an innate love of and taste for the higher order of gardening and horticulture, which is specially ministered to in this show by numerous industrial exhibitors. As an example of aids to picturesque effect in
+
+<figure n="drawing"><p>ANNIE OAKLEY: "LITTLE SURESHOT."</p></figure>
+
+landscape gardening may be noted (in Group H) in the exhibit of Messrs. F. Rosher and Co., an Italian garden terrace, with three pieces of sculpture at the back, a full-length figure of Shakespeare in the centre, one of the goddess Flora on the left, and one of Hebe on the poet's right. In the centre of the terrace is a large fountain, the basin of which is supported by admirably sculptured storks, and on each side of the steps is a smaller fountain, the whole exhibit being of the celebrated Rosher stone, with the exception, of course, of the smaller articles which tastefully surround and adorn the miniature garden terrace.</p>
+
+<figure n="drawing"><p>COLONEL CODY: "BUFFALO BILL."</p></figure>
+
+<figure n="drawing"><p>LONG WOLF, HEAD CHIEF OF THE WILD WEST <hi rend="italic">(recently deceased).</hi></p></figure>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

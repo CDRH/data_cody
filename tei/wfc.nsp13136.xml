@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13136">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Mr. Natt Salsbury, the well-known American actor]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13136</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Mr. Natt Salsbury, the well-known American actor]</title>
+<title level="j">Music Hall</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-10-07">October 7, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl><msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.149.12 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Actors--United States</term>
+<term>Band directors</term>
+<term>Bands (Music)</term>
+<term>Exhibitions</term>
+<term>Orators</term>
+<term>Scrapbooks</term>
+<term>Speeches, addresses, etc</term>
+<term>Traveling exhibitions</term>
+<term>Windsor Castle</term>
+<term>Working Men's Association</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13136.001"/>
+
+
+<p>Mr. <persName xml:id="salsbury.n">Natt Salsbury</persName>, the well-known American actor, now for some years partner of Colonel Cody, and director of the "Wild West," has been shining twice last week in after-dinner oratory. At a dinner given on Thursday week at the "Horties" to Mr. H. E. Milner, in an eloquent and feeling speech he expressed his and Colonel Cody's gratitude for the hearty reception given them in this country by press and public, and how thoroughly they reciprocated the friendship shown them. And alluding to Mr. Dan Godfrey (who was present at this dinner), he recalled with pride the hearty welcome given to him and his band at the Boston Peace Jubilee twenty years ago. At the tea given on Saturday last to the members of the London Working Men's Association, who, under the leadership of Mr. Geo. Polker, had presented Colonel Cody with an illuminated address, he delighted his audience with his genial and clever speech as a "hard working" man himself. He spoke of his admiration for the <persName xml:id="victoria.q">Queen</persName>, who had been so gracious to him on the visit to Windsor of the "Wild West"&#8212;and for the G.O.M.&#8212;and bantered Major <persName xml:id="burke.j">Burke</persName>, who also made an amusing speech.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

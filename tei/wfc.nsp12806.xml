@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12806">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Kicking Bear as a Model</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12806</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Kicking Bear as a Model</title>
+<title level="j">Evening News and Post</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-09-06">September 6, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.118.10 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Artists' models</term>
+<term>Exhibitions</term>
+<term>Fort Dearborn Massacre, Chicago, Ill., 1812</term>
+<term>Ghost dance</term>
+<term>Indians of North America--Clothing</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Masculinity</term>
+<term>Scrapbooks</term>
+<term>Sculptors</term>
+<term>Traveling exhibitions</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Kicking Bear, 1853-1904</term>
+<term>Rohl-Smith, Carl, 1848-1900</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Fort Sheridan (Ill.)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12806.001"/>
+
+<head>KICKING BEAR AS A MODEL.</head>
+
+<p><persName xml:id="kicking.bear">Kicking Bear</persName>, the bad Indian who danced in all the ghost dances two years ago, and fought the soldiers at Wounded Knee Creek, has been brought down from Fort Sheridan, in the far West of the States, to pose as one of the figures in the group which will commemorate the Fort Dearborn massacre of 1812. Mr. Carl Rhol-Smith, the sculptor of the group, picked out Kicking Bear as a model for Black Partridge, the friendly Pottowattomie chief. Kicking Bear is a lither, wide-chested Indian, and his face is full of the craft of the Sioux. The chief was pleased by the compliment, and when Sergeant Cahill and Interpreter Jules Lorin went to his quarters to take him to town they found that he had dressed in his best clothes. He had painted his cheekbones and eyebrows with vermilion and had put his handsomest eagle feathers in his hair, which he had slicked down and carefully braided. He wore beaded moccasins, buckskin breeches, a white linen shirt, a baseball players' belt, and a black broadcloth vest. The studio was a revelation to Kicking Bear. He stripped when instructed and showed up a fine figure of a man in buff. He is nearly six feet tall, straight as a sapling, in spite of his 42 years; his legs are lithe and sinewy and his shoulders broad and full of muscle. A better face for an Indian type, Mr. Rohl-Smith said, he had never seen. the chief was a patient model.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

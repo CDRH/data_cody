@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13113">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Bank Holiday at the "Buffalo Bill Billeries"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13113</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>St Jack</author>
+<title level="a" type="main">Bank Holiday at the "Buffalo Bill Billeries"</title>
+<title level="j">Aberdeen Evening Gazette</title>
+<pubPlace>Aberdeen, Scotland</pubPlace>
+<date when="1892-09-10">September 30, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.147.05 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bands (Music)</term>
+<term>Botanical gardens</term>
+<term>Circassians</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>France. Arm&#233;e. Garde r&#233;publicaine de Paris</term>
+<term>Georgians (South Caucasians)</term>
+<term>Horse sports</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13113.001"/>
+
+
+<head type="sub">AFTER WORK.</head>
+
+<head type="main">Bank Holiday at the "Buffalo Billeries."</head>
+
+<p>It had long been preying in my mind what I was to do with myself on Bank Holiday, for a variety of circumstances had rendered it impossible for me to venture far afield, and to spend the day in London was not a prospect which I could contemplate with equanimity. However, the managers of the Horticultural Exhibition, commonly known as the "Gardenstufferies," came to the rescue, and, with a generosity which I regret I could not avail myself to the full extent, invited my wife and I to be present at their show. The wife not being forthcoming, I did the best I could in the circumstances and went myself.</p>
+
+<p>To emerge from the broiling sun and stifling atmosphere of a London summer day to the cool retreats and sequestered spots cunningly contrived by the executive at Earl's Court; to recline in one of their comfortable chairs and lazily whiff a cigarette, while the band of the <hi rend="italic">Garde Republicaine</hi> discourses "Le Domino Noir," can only be compared to the joy one might feel on emerging from some dismal Hades to the glorious freshness of the Garden of Eden. What though Sin and Sorrow, Satan and the Serpent, are depicted on many a passing face? 'Tis but the world after all and not Utopia! What thought the refreshment bar sweats you to the uttermost farthing? What though you recklessly purchase a catalogue and find it full of the praises of somebody's soap? What though 'Arriet flaunts her appalling feathers before your offended eye, and young 'Arry whistles "Ta-ra-ra-boom-de-ay?" It is holiday time, and one must take things as one finds them. </p>
+
+<p>Having said this, however, there is nothing but praise for the admirable way the Exhibition is managed. True, the flowers are hardly so numerous as to warrant the title of a Horticultural Exhibition; but perhaps the authorities, knowing the little peculiarities of a Bank Holiday crowd, had on this occasion put the more valuable of them out of the way. But that didn't trouble me. I once had an aunt (peace to her ashes, for she is now elsewhere) who used to lecture me by the hour on the relative merits of Cocker's and somebody else's roses, and to this do I attribute the early demise of any fancy I may have had for the beauties of horticulture.</p>
+
+<pb facs="wfc.nsp13113.002"/>
+
+<p>To return to the Exhibition. The grounds are delightful, and filled, as they were on the occasion of my visit, with a merry throng, they looked their gayest. Little change has been made in the general arrangements since days of the French Exhibition, when the Sheik Ben Tin Can, or some such name, led his untamed Arab warriors around the arena. The switchback and the shooting galleries, the Swiss chalet, the panorama where you can see Daphne, the Daughter of the River Gods, every half-hour for sixpence, the Crys-dae-gon Labyrinth, where "myriads of colonnades, interspersed with foliage, produce a mystical illusion unparalleled in the history of optics" (I feel better with that off my mind!), and Hercat, the American Prestidigitateur and Ventriloquist (another relief!), are all there, each receiving no stinted share of the patronage (and pence) of the merry crowd.</p>
+
+<p>As I sit in the huge semi-circle around the arena waiting for the Buffalo Billery business to commence, I look around, and lo! on every side stretches an unending sea of upturned faces. Everybody seems to be here. Turks in turbans, sun-tanned country lassies&#8212;"a' ferntickled," as Johnny Gibb might say&#8212;dark-eyed maids of Jewry, and even representatives of the land of poor Parley-voo, crowd, and squeeze, and good-naturedly hustle each other for the possession of one of the coveted 2500 free seats. A yell greets the entrance of the cowboy band, clad in picturesque costumes of crimson and blue, and a minute later we are listening to a s series of diabolical noises emanating from a number of fearfully and wonderfully-constructed instruments, There is no doubt that Buffalo Bill and his cowboys are the great attraction of the show, and deservedly so. The exhibition given b the Indians, cowboys, Mexicans and vaqueros is no mere circus one, but has an air of reality and a spice of danger about it that distinguishes it from the ordinary run of equestrian entertainments. The riding of bucking horses by cowboys is some- </p>
+
+<gap reason="missing"/>
+
+<p>warriors of the Steppes present a very impressing appearance. Their subsequent performances on horseback are no less wonderful than those of the cowboys with their bucking mustangs; and visitors to the Wild West who have marvelled at the latter will find fresh cause for astonishment at the splendid horsemanship of these descendants of the Georgian and Circassion races, whose sons were in after times renowned as Schamyl's wild horsemen, and whose daughters were destined to be the unhappy inmates of many a wealthy Pasha's harem.    </p>                                                                                            
+
+<closer><signed>ST JACK.</signed>
+<dateline>London</dateline></closer>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

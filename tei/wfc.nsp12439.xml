@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12439">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">With the Gauchos at the "Wild West"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12439</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">With the Gauchos at the "Wild West"</title>
+<title level="a" type="sub">A Chat with Them in their Native Tongue</title>
+<title level="j">Pall Mall Budget</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-30">June 30, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.067.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Bolas</term>
+<term>Clothing and dress</term>
+<term>Cowboys</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Horsemanship</term>
+<term>Horsemen</term>
+<term>Horses</term>
+<term>Mexicans</term>
+<term>Music</term>
+<term>Scrapbooks</term>
+<term>South America</term>
+<term>Spanish language</term>
+<term>Tobacco</term>
+<term>Traveling exhibitions</term>
+<term>Zoos</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Corbould, A. Chantrey (Alfred Chantrey), 1852-1920</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Buenos Aires (Argentina)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12439.001"/>
+
+
+<head type="main">WITH THE GAUCHOS AT THE "WILD WEST."</head>
+
+<head type="sub">A CHAT WITH THEM IN THEIR NATIVE TONGUE.</head>
+
+<figure n="drawing"><ab type="credit">AC CORBOULD INV. DEL. 1892.</ab>
+<p>GAUCHOS.</p></figure>
+
+<p>"BUENAS TARDES," I remarked by way of introduction, as I peeped into the tent pointed out by a passing cowboy. But, though my "Buenas tardes" was good Spanish for "Good afternoon," I was not at all sure that it would be understood by the natives of Buenos Ayres, as in all probability they employed a patois, or dialect. I was, however, mistaken, for one of them at once responded by politely inviting me to enter, saying in choice Castilian, "P&#225;se usted adelante, amigo." So in I went, and at their further invitation to "tomar un asiento," or be seated, I took possession of a convenient campstool, and proceeded to business.</p>
+
+<p>"You are fond of music," I remarked, turning to a Gaucho (pronounced Gow-cho), who was engaged just then in twanging a light guitar; "do you sing and dance as well as ride?"&#8212;"No, Se&#241;or. At least, not in public; we only do that among ourselves for amusement&#8212;<hi rend="italic">por gusto.</hi>"</p>
+
+<p>"Do you also perform on horseback for 'gusto,' or the pleasure of the thing?"&#8212;"Yes, at home in our country. That is to say, we don't give public performances at circuses or such places."</p>
+
+<p>"Then this is the first time you have given a complete entertainment of the kind before a paying audience?"&#8212;"Si, Se&#241;or, the very first."</p>
+
+<p>"What part of South America do you come from?"&#8212;"The neighbourhood of Buenos Ayres. My brother and I live about twelve leagues distant from that town, and those four there live something like forty leagues off&#8212;<hi rend="italic">poco mas o menos</hi>&#8212;and so on."</p>
+
+<p>"Which of you is Martinez, the captain, or leader of the band?"&#8212;"Martinez soy yo," answered a remarkably short, youthful-looking, close-shaven Gaucho. "I am Martinez."</p>
+
+<p>"You are not very old. In fact, you all appear to be quite young men?"&#8212;"Yes, some of us are twenty or thereabouts, and the oldest is not more than thirty."</p>
+
+<p>"You must have begun to ride when very young boys to have attained now such excellence in horsemanship?"&#8212;"Yes, most of us were almost born in the saddle, and as mere children we could ride the wildest of colts quite easily."</p>
+
+<p>"What kind of horses are you using for your performances? Are they your own?"&#8212;"Well, they are not exactly our own. But they were brought over from our country not many days ago, and fifteen of them are quite wild. They come from the interior, about 200 leagues from Buenos Ayres. But we shall have to break them in a bit, or rather accustom them a little to our ways. For our purposes we much prefer an untamed steed to a trained one. We could do nothing&#8212;or next to nothing&#8212;with a horse such as is used in a circus."</p>
+
+<p>"What does your performance chiefly consist of?"&#8212;"Well, it is difficult to say. We do so many things: in fact, sometimes we scarcely know what we shall do till we are in the saddle. This is one of the things we do (taking up a sort of cat-o'-nine tails with heavy iron balls attached to the thongs). We call these 'bolas,' and we throw them at wild and runaway animals of all kinds, catching them by the feet or legs, after the fashion of the lasso, only it requires far more dexterity. We throw these from a great distance at any swiftly-running creature, bringing our object helplessly to the ground. It is also a favourite weapon which we employ in hunting and in warfare."</p>
+
+<p>"Is it true that you make your own dresses?"&#8212;"Yes, we make all our costumes, saddles, and even our boots, which you see are a sort of leather stocking without heel or sole. They are made from the skin of a fresh-killed colt, shaped to the leg and foot while warm."</p>
+
+<p>"I suppose you are quite at home with the Mexican Vaqueros in this camp, as I believe they speak much the same language as your own?"&#8212;"Si, Se&#241;or; only they employ, as we do, certain local expressions peculiar to their country. Quiere V. fumar?" (offering me a cigarette).</p>
+
+<p>"Gracias; what tobacco do you smoke?"&#8212;"Picadura. Something like they smoke in Cuba."</p>
+
+<p>"I suppose you have not seen much of London as yet?"&#8212;"Not much. We have been to some gardens where a lot (<hi rend="italic">una porcion</hi>) of animals are kept; I don't know what you call the place."</p>
+
+<p>"You mean the Jardin Zoologico?"&#8212;"Si, Se&#241;or; and we also saw the house where your <persName xml:id="victoria.q">Queen</persName> lives."</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12981">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Colonel Cody, or Buffalo Bill as he chooses to be called]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12981</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Colonel Cody, or Buffalo Bill as he chooses to be called]</title>
+<title level="j">European Mail</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-01">July 1, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.136.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Children's games</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Frontier and pioneer life</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Indians of North America</term>
+<term>Scrapbooks</term>
+<term>Sharpshooters</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12981.001"/>
+
+<p>Colonel Cody, or Buffalo Bill as he chooses to be called, was good enough to invite us to visit his encampment at Earl's Court, and to see his exciting entertainment, one fine afternoon last week. I dreaded the long walk from the entrance to the amphitheatre where the exhibition takes place; but hearing of a friendly bath-chair man hailing from Earl's Court I wrote to him to meet me as I alighted from a carriage at the Warwick Road gateway, and there he was! So I easily and quickly got over the distance and was soon landed on Colonel Cody's ground in a comfortable box, from which to watch a very wonderful display of feats of pluck, courage, and skill on the part of himself and his vigorous cowboys. They trotted in just as we arrived, and soon began their evolutions on bucking horses, trained, possibly to the game as well as their riders, whilst Buffalo Bill himself ambled by on a grey charger looking very magnificent, and did not attempt to show any of his own achievements in rifle shooting until everyone else had taken his turn. Then he showed us what training such as his in the far West could do to make a man a perfect and unerring marksman. Miss <persName xml:id="oakley.a">Annie Oakley</persName>, the "little sure shot," as she is called, is a good-looking girl, dressed most becomingly and suitably in a very short full skirt&#8212;with a well-fitting tight little jacket, and her legs clothed in closely buttoned gaiters of a colour to match her dress. She wore a slouch hat, placed bewitchingly on her head, and all her movements indicated great muscular power, combined with perfect grace and agility. It seems as if it were impossible for her to miss shattering any number of glass balls as they were thrown into the air before her, and certainly any bird on the wing would have no chance with her. A troop of Guachos, and a band of Cossacks, displaying numberless fears whilst riding wild horses at full galop, were astonishing to behold and almost alarming to hear as they uttered their curious cries and smacked their powerful whips above their horses' heads. A band of mounted Russian peasants galloped in and one by one performed a weird dance before us. A herd of dejected looking buffaloes trotted across the ground and disappeared, but the most thrilling incidents of the afternoon were, I think, the attacks made by a band of wild Indians, bedizened with feathers and beads, on a native village, and their entire discomfiture and destruction by Buffalo Bill and his brave boys.</p>
+
+<p>The Indians attack also on the <rs xml:id="coach.deadwood">Deadwood coach</rs>, which is an historical fact, and its rescue by the scouts and plainsmen is very exciting, and the old coach itself, which has weathered many a volley from cruel and savage foes, still exists and is the property of Colonel Cody, who now shows it daily and permits certain visitors to occupy the places of passengers, and to go through the farce of an attack and repulse just as it might appear on any stage. But then Colonel Cody's stage is in the free open air, and consequently is not subject to the objections of gaslight and an impure atmosphere, as drawbacks to the spectacle. I saw many youthful spectators of both sexes viewing all these thrilling adventures with great interest, and I thought that many hours of a wet day would certainly be beguiled in playrooms and nurseries, as the season goes on by imitations or repetitions of the equestrian and dramatic events so cleverly represented by Colonel Cody and his accomplished band of cowboys. Were it for nothing else, he certainly deserves the thanks of the mothers of the time, whose lives will be set free from the necessity of inventing new games for their younger boys and girls for some time during their holidays. What can be better suited for an impromptu dramatic performance, with chairs, tables, toy guns, and slouch hats, than the attack by Indians bedizened with feathers and beads and with darkened skins, on the Deadwood coach! I am quite prepared to assist any schoolroom or nursery full of enthusiastic boys and girls in preparations for such a domestic performance. As the Cossacks galloped out of the arena I resumed my bath chair and we all went to pay a visit to Buffalo Bill in his own tent, and to thank him for the pleasure he had given us. He certainly not only a fine well made man, but also a handsome one, and most courteous in his reception of ladies who visit him by introduction or acquaintance, in his comfortably arranged tent.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

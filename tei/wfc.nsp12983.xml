@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12983">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Cossacks at Kensington</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12983</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Cossacks at Kensington</title>
+<title level="j">Pen and Pencil: An Illustrated Weekly Newspaper</title>
+<pubPlace>Glasgow, Scotland</pubPlace>
+<date when="1892-07-16">July 16, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.136.04 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cigarettes</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Folk dancing</term>
+<term>Folk music</term>
+<term>Georgian language</term>
+<term>Georgians (South Caucasians)</term>
+<term>Horsemanship</term>
+<term>Indians of North America</term>
+<term>Russian language</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Weapons</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12983.001"/>
+
+
+<head>The Cossacks at Kensington.</head>
+
+<p>TWO P.M.  The long, lazy morning is over; the fun begins. There is some movement in the background of the white tents opposite to the camp of the Redskins, where the ten Cossacks are quartered at the Horticultural Exhibition, and one by one the giants arise from their beds, where they have been smoking the inevitable cigarette. So much of Russian civilisation has trickled even into the Caucasian district behind Batoum, where, until a few weeks ago, they have lived among the vineyards and maize fields, that they all have taken to the papyros&#8212;the tiny cigarette without which between his lips the true Russian gentleman does not consider himself fully dressed. The ends of the papyros are thrown away, and the ten prepare for action. They are all dressed long kafl&#227;ns of coarse terra-cotta cloth and round caps of the same material trimmed with grey astrakhan. Across the chest they carry their cartridges in an arrangement that reminds one more of the pipe of Pan and a peaceful pastoral then of the noise of arms and of the wild warfare of the steppes. Their boots, curiously pointed, are made of soft leather, and nearly hidden under long leggings of the same material. Silver cord adorns the chaussure; the leather belt has a long pistol stuck loosely through the belt at the back, where the Russian peasants carries his axe; the sword hilt is inlaid with silver, and in the case of the wealthier ones the cartridge heads peeping out from the pipe of Pan.</p>
+
+<p>It is all so real, so genuine, and if but those rough terra-cotta kafl&#227;ns were of black fine cloth, the belts of silver, and the ornaments more elaborate and costly, you might imagine yourself at the Italian Opera at St. Petersburg, with the dusky, handsome Cossack officers, the <hi rend="italic">cr&#232;me de la cr&#232;me</hi> of Russian nobility, leaning against the stalls, and knowing full well that of all the brilliant broidered uniforms in the house, none are as elegant, as becoming as theirs. They are just the same, those ten men at Earl's Court, that were taken almost without a moment's notice form their village in the Southern Caucasus and brought to England to exhibit their feats of horsemanship in Buffalo Bill's Wild West. They have not the trappings of princes, but they have the lordly manners, and the unconscious dignity which is said to be the surest sign of what is known as high breeding. </p>
+
+<p>Nor is this a surprising; for, if you are to believe them, they are "all born princes". That they themselves are very sincerely convinced of this fact is evident in all their words and actions. Yet, as you sit and chat with them under their white tent, they are as simple and as genial, in their way, as if you were the equal of these descendants of great Mazeppa, and not merely a "stranger". They all talk Russian, not fluently, and not with the proper accent, and even the chief among these princes shakes his head and shows his glittering white teeth as, with a slightly contemptuous smile, he says, "No, I don't know it well. We talk our own language, the Georgian dialect". And forthwith he turns round and says to one of his followers something that sounds like a string of gutturals, varying in nothing except the tone in which they are pitched. The Georgian tongue, even in the mouths of princes, does not seem to be musical; and you wonder as you listen how it may sound when the Cossack mother sings to her infant that loveliest of cradle songs which the poet Jermontoff learned during his exile among the Cossacks of the Caucasus.</p>
+
+<p>Our princes are not men of many words&#8212;the art of making conversation is not practised in the steppes&#8212;but they are polite in their own way, and the bearded chief makes a gracious, intelligent spokesman. The rest, inarticulate as to actual talk, but with keen, mobile faces on which the expression varies with every turn of the conversation, stand silently round.</p>
+
+<p>"How we like London?" the chief repeats. "We like it. The railway running under the earth is strange, and the town is large. Ordinary railways we know. There is none at home, at Batoum, which we have seen when we came from our village. But to like this country as well as our own, that would be impossible. How could we? We came because we got more money here than we can earn at home, but we have only come for six months. Then we go back to our wives and children." </p>
+
+<p>"Why have you not brought them? The Cossack women are good-looking and their dress is beautiful, and your little ones would be as happy in these gardens during the summer as they are at home."  "No, our women would not come. Not for anything. They have remained behind to look after the grapes, the maize, the horses, the old people, and the children, while we are away."</p>
+
+<p>"Then you have not brought your own horses?" "Our horses? Oh, no; they could not stand the journey of thirteen days. We ourselves were very ill on the Black Sea; how would our horses have fared? But we brought our saddles, our whips, and everything else."</p>
+
+<p>Half an hour afterwards they appeared in the arena; danced their curious dances and sang their monotonous songs, which seem so unmusical and become so attractive when you have heard them under the blue Russian summer sky with the lads and lasses dancing the national <hi rend="italic">khorovod</hi> to them. They performed their wonderful feats of horsemanship, which seem to have come down to them from their forefather, the Mazeppa, and afterwards they were seen again, papyros and all, making love to an English policeman.&#8212;<hi rend="italic">Pall Mall Budget.</hi></p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

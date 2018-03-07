@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13073">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Buffalo Bill's Wild West Review"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13073</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<respStmt><resp>Artist</resp><name>Henckel, Charles, 1862-</name></respStmt>
+<title level="a" type="main">"Buffalo Bill's Wild West Review"</title>
+<title level="j">Newsagent</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-10-01">October 1, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.143.04 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Artists</term>
+<term>Books</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Farewells</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Scrapbooks</term>
+<term>Souvenir</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Henckel, Charles, 1862-</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13073.001"/>
+
+
+<head>"Buffalo Bill's Wild West Review."</head>
+
+<figure n="drawing"><ab type="credit">Carl Henckel</ab></figure>
+
+
+<p>Buffalo Bill is making an "absolute last farewell," and so highly popular has his entertainment become in England that souvenirs will be readily bought. The <hi rend="italic">Wild West Review,</hi> therefore, was put on the market at a particularly opportune moment, and is accordingly a success. </p>
+
+<p>Mr. Henckel by the highly meritorious sketches he made for the book has made for himself a place in our midst as a capable artist, a fact evidenced by his receiving a commission from <hi rend="italic">Black and White</hi> for a full page illustration of Indian life.</p>
+
+<p>The <hi rend="italic">Review,</hi> although not a paragon of excellence so far as style of production is concerned, is still an eminently saleable line; it it catchy, and has succeeded in exactly hitting the public taste.  The first edition is pretty well, if not quite, run out by this time, large numbers of copies having been soaked by the provinces.</p>
+
+<p>The accompanying illustration is a representation of the picture of Buffalo Bill which adorns the cover of the work.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

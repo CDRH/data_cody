@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12576">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">High Jinks at the Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12576</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">High Jinks at the Wild West</title>
+<title level="j">Sunday Sun</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-17">July 17, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.086.05 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Actors--Great Britain</term>
+<term>Baseball</term>
+<term>Breakfasts</term>
+<term>Cooking, American</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Ochiltree, Thomas P. (Thomas Peck), 1837-1902</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12576.001"/>
+
+
+<head>HIGH JINKS AT THE WILD WEST. </head>
+
+<p>On Tuesday there was a large contingent of Americans who gathered in the early morning hours at the Wild West Show to witness a baseball match between the cowboys and a number of English actors. The game was won by the cowboys, to the delight of the patriotic Americans present. Afterwards a breakfast was cooked by General Williams, and served in the dining tent of Colonel Cody ("Buffalo Bill"). General Williams, besides being an able politician, a brave soldier, and a fine sportsman, is a really scientific cook. The breakfast was a genuine American feast. Spring chickens, fried in cream, American corn, hot corn bread, hash and onions that were a revelation to the uninitiated. Hash and onions sound simple enough, but when hash can be mistaken for nectar, and onions for ambrosia, then to the English cook these become the altogether impossible dishes. Colonel Cody, who is the handsomest man in Europe to-day, sat at the head of the table, <persName xml:id="salsbury.n">Nate Salsbury</persName>, who is an inimitable story-teller, at the foot, while Colonel J. P. Ochiltree proposed the toasts. So with these three unique entertainers all went merry as a marriage bell, and the English guests at any rate came away with respect and a dash of envy for American cookery. </p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

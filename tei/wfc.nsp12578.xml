@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12578">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Our Captious Critic at Earl's Court</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12578</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<respStmt><resp>Artist</resp><name>AB</name></respStmt>
+<author></author>
+<title level="a" type="main">Our Captious Critic at Earl's Court</title>
+<title level="j">The Illustrated Sporting and Dramatic News</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-16">July 16, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.087.01 (1892 London Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Amusements</term>
+<term>Bolas</term>
+<term>Caricatures and cartoons</term>
+<term>Circus</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Electric lighting</term>
+<term>Exhibitions</term>
+<term>Folk music</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horse racing</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Indians of North America</term>
+<term>Lasso</term>
+<term>Military exhibition drill</term>
+<term>Orators</term>
+<term>Scrapbooks</term>
+<term>Targets (Shooting)</term>
+<term>Theater</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Crystal Palace (Sydenham, London, England)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name>Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12578.001"/>
+
+
+<head>OUR CAPTIOUS CRITIC AT EARL'S COURT. </head>
+
+<p>THE crowds which patronise Venice and the Earl's Court shows prove that there are hosts of Londoners who are ready to be amused, even though the drama as we get it may not attract them. The freshness, the movement, the expansiveness, and the cheapness too, of these other entertainments, give them all the advantages in contrast with the sameness, the restraint, and 
+
+<figure n="drawing"><p>FANCY PORTRAIT OF COLONEL W. F. CODY (BUFFALO BILL)</p>
+<ab type="credit">AB</ab></figure>
+
+the big prices of the theatres. The theatrical managers are not all to blame, they have a great deal to contend with. They are absolutely not able to offer us the worth of our money. They are obliged to pay their actors and their authors three times as 
+
+<figure n="drawing"><p>THE HALL OF MIRRORS</p>
+<ab type="credit">AB</ab></figure>
+
+much as they did a few years ago, without getting anything like an equivalent for their outlay. Our acting is not better than it was when it was less costly, and our playwrights have not advanced with their prices. The best that they can do for us at 
+
+<figure n="drawing"><p>TYPE OF INDIAN CHIEF<lb/>FINE FEATHERS MAKE FINE BIRDS</p>
+<ab type="credit">AB</ab></figure>
+
+present is to repeat themselves in a familiar groove, when what is particularly wanted is that they should get away from it. There must be fresh ideas at the theatres, and entertainments with more grip if the public, wearied as it is of the stagnation of the stage, is to be drawn to the play at all, especially in the dog days. There are enthusiasts enough among our five millions to go to the theatres, as there are enough to go to the opera, in every weather, but there must be something more that we get 
+
+<figure n="drawing"><p>COSSACK LONG SKIRT / DANCING</p>
+<ab type="credit">AB</ab></figure>
+
+now to take them there. I do not wonder at the success of the Earl's Court combination. It is far the best of the series&#8212;more like a <hi rend="italic">bona fide</hi> exhibition, and less like a colossal kickshaw shop. Mr. Milner, who is responsible for the entire plan of the Horticultural section, has had&#8212;rare gift for a specialist&#8212;the tact to do all that was necessary for science without making it terrible. The student, or expert, is fully provided for in the grand collection of plants, flowers, and foliage which the visitor, who cares only to see pretty things, finds so picturesque as a whole and so graceful in detail. The two hemispheres have been ransacked for the quaint and beautiful specimens which in 
+
+<figure n="drawing"><p>SALVATION ARMY MUSIC OF THE WILD WEST.</p>
+<ab type="credit">AB</ab></figure>
+
+grottoes, bowers, parterres, avenues, and gardens, represent the world of horticulture at Earl's Court. The outside and the inside of the building are in complete harmony in this sense, and the exceedingly good scenery of the grounds completes the effect of the composition&#8212;as it quite deserves to be called. The gardens at night have never looked so well. The electric light 
+
+<figure n="drawing"><p>THE COSSACKS</p>
+</figure>
+hanging, like berries, among the great trees, the Japanese lanterns and the thousands of miniature lamps, are most effective. They have always managed this cleverly at Earl's Court, but Mr. Milner, like Mr. Brock at the Crystal Palace, has shown how valuable in such matters is the judicious help of foliage. We heard the Belgian band on the night when we went. I liked it better than the French and German ones which we had heard before. It seemed to me to play more like musicians and less like soldiers than they did; the use of the double bass, too, was a gain and seemed to soften the brass admirably. Among the minor shows in the grounds I found the Hall of Mirrors curious and bewildering. It multiplies the visitor like a kaleidoscope on it side until he does not know which is his proper self, or where he will be next, or how many there will be of him. I should not care to enter the Hall of Mirrors with a man whose vote I wished to keep&#8212;were I a distinguished politician. The "Buffalo Bill" camp is also to be seen. Here the Cossacks, Indians, Gauchos, &amp;c., are to be found at home. Having looked at these gentlemen and ladies closely I cease to wonder at Cooper's missionary who would have it that the Redskins were descended from the Lost Tribes. The Indian resembles nothing so much as a Jew whose nose has been in a prize fight, and some of the Cossacks and Gauchos are even more like Jews than the Indians. The interest 
+
+<figure n="drawing"><p>A ROSE SHOW.</p>
+<ab type="credit">AB</ab></figure>
+
+in "The Wild West" remains unabated. There was an immense gathering on the evening when we were present. The novel features were the Cossacks and the Gauchos. The former are wonderful riders&#8212;on their head, their feet, back&#8212;forwards, or any way, and at tremendous speed. One ought never to go to a circus again after seeing the Cossacks. Their leader, a prince, is said to be descended from Mazeppa, who was tied to his horse so unnecessarily, for if he was at all like his successors he could not have fallen off had he tried. I do not think a great deal of the dancing of the Cossacks, of which we have heard so much. There is not any difficulty about the steps, and it got very monotonous. Perhaps this was partly owing to the dreadful vocalism which accompanied it. The comrades of the performers chant time to the dance; it is simply cruel, this music. That of the Indians, too, is equally hard upon the nerves; there is nothing like it except Wagner. The Gauchos are brilliant horsemen also, they do some apparently desperate things with bucking mustangs, and quite hold their own with the cowboys. Their feats with the lasso and the bolas are down with dash and skill. For the rest, the attacks and repulses by Cowboys and Indians, the scenes of backwood life, the races and steeplechases by men, women, and boys, go off with spirit&#8212;almost with too 
+
+<figure n="drawing"><p>MISS ANNIE OAKLEY</p>
+<ab type="credit">AB</ab></figure>
+
+much spirit. If some of the incidents were less rapid&#8212;if the stage-manager exercised a check here and there&#8212;they would stand out with considerably more force. There is a great lot to get through, I know, but why not get rid of the <hi rend="italic">embarras de richesse</hi> by alternating the programme? The glass ball shooting of Miss <persName xml:id="oakley.a">Annie Oakley</persName>, Master <persName xml:id="baker.j">Johnny Baker</persName>, and "Buffalo Bill" himself, is clever and sure; but there is just a little too much of it. The rifle drill&#8212;lightning gymnastics with musket and bayonet by Mr. Jack Burtz&#8212;is very well done. My colleague has sketched Mr. <persName xml:id="clifford.h">H. M. Clifford</persName>, "the orator"&#8212;the orator is a gentleman who from a rostrum in the centre of the arena explains what is going on. Mr. Clifford has a famous voice, and he needs one for the work. It comes upon the ear like music amid the shouts of the cowboys, the yelps of the 
+
+<figure n="drawing"><p>ORATOR CLIFFORD<lb/>MONARCH OF ALL HE SURVEYS.</p>
+<ab type="credit">AB</ab></figure>
+
+Indians, the cries of the Gauchos, Cossacks, and other wild riders, who seem to have built up a sort of equestrian Volapuk with an alphabet of shrieks. </p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

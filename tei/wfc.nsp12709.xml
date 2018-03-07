@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12709">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Ad Leones</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12709</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Ad Leones</title>
+<title level="j">St. James's Gazette</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-08-11">August 11, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.103.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term> 
+<term>Botanical gardens</term>
+<term>Exhibitions</term>
+<term>Grizzly bear</term>
+<term>Horsemeat</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Lion</term>
+<term>Scrapbooks</term>
+<term>Tiger</term>
+<term>Traveling exhibitions</term>
+<term>Zoo animals</term>
+<term>Zoo keepers</term>
+<term>Zoos</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Gladstone, W. E. (William Ewart), 1809-1898</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="kz">Zierlein, Kim</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12709.001"/>
+
+
+<head>AD LEONES.</head>
+
+<byline>BY A LOUNGER AT THE ZOO.</byline>
+
+<p>IF Nicholas Beets could visit the Zoological Gardens, he would probably withdraw the wholesale indictment which he has preferred against menageries in his "Camera Obscura." These gardens improve every year in the accommodation which is given to the animals, no less than in the general care and skill with which they are laid out and kept. In fine warm weather, when the animals leave their cages for the enclosures, they are seen to the greatest advantage; and none of them is more impressive and attractive than the king of the beasts&#8212;uncrowned, perhaps, Nicolas, but for all that every inch a king. As he lies at his ease or strolls about his enclosure, with the close supple skin working over the vast muscles, the lion is indeed a magnificent object. He is so sleek that he looks as if he had been well groomed; but it is hardly necessary to say that his keepers do not take upon themselves the task of maintaining his personal cleanliness, although one of them assured us that one of the younger lions from Sakoto was as tame and amiable as a dog. Another young lion, on the other hand, was full of dash or temper, and when the keeper put his hand near the cage he leaped at it with a lightning-like impetuosity that clearly showed the necessity for caution in dealing with him. While we were feasting our eyes on the splendid old lion in the outer enclosure he crouched suddenly as for a spring, curled up his muzzle, and lashed his tail, showing every sign of unusual excitement. As we did not flatter ourselves that we were the cause of this demonstration, we turned about and found that some of the Wild West Indians had arrived upon the scene. Their coloured blankets, or more probably their foreign scent, had evidently roused the hunting instinct of the beast before us: and, indeed, of all the others; for when we returned a little later we found all the lions and a tiger gazing in one direction, and we eventually discovered that they were looking at some of the Indians, who were not clearly visible at a distance through the trees, but seated (in emulation perhaps of Mr. <persName xml:id="gladstone.w">Gladstone</persName> in the <hi rend="italic">Daily Graphic</hi>) on the top of the ladders used for mounting the elephants. The other tiger licked his chaps and contemplated the buffaloes, who were not altogether happy in full view of the enemy.</p>
+
+<p>The Indian gentlemen, however, met with a more friendly reception from their countryman the grizzly bear, who greeted them with smiles, and seemed to expect some return in the way of a biscuit from his old neighbours: they, on the other hand, were more tickled at seeing Grizzly safely barred up than inclined to renew an acquaintance that had been dropped for so long. The tigers, like Cassius, had a lean and hungry look; and certainly their appearance cannot be compared with that of the lions. We were taken to see a baby tiger only six months old, which had been brought up by the bottle. We found him chained to a kennel with a pan of milk by his side and a large ball to play with. He greeted us with a great deal of snarling, and showed us some tusks fully an inch long, while his claws would have made shreds of any trousers that came within their reach. He was about two feet long and had a very large head and big paws, and he will probably grow up to be a magnificent beast. We played a game at ball with him; but we were quite unable to secure his confidence, and he never ceased snarling and showing his teeth. There are some magnificent leopards in the gardens; but unfortunately they suffer very much from rheumatism when in this country, which makes them lame and sluggish.</p>
+
+<p>One would think that when animals were shut up all the time with nothing to do they would make rather a business of their meals. This, however, is a course which does not recommend itself to the dogs and foxes. When their food is thrown to them it is swallowed at once, and the whole thing is over in about half a minute. This is, no doubt, partly due to the fact that there are several animals in each cage, and each is afraid of robbery. We saw our little friend Arago's fox, whom we used to know in Chili, where he would actually seize and make off with partridges that had been shot, under our very noses. The consequence was that he sometimes got a charge of shot himself; sometimes we used to ride after him and the Chile&#241;os would endeavour to lasso him, but owing to his small size and comparatively great speed it is not a very easy task.</p>
+
+<p>Feeding the animals is a large and expensive business. All the large carnivora have ten pounds of horseflesh every day, which involves a daily kill. Sometimes valuable horses are sent to the Gardens to be killed, their owners preferring a swift and merciful death for them to a sale with the possible horrors that may subsequently await an equine old age. We saw some steak that looked extremely juicy and good, and was no doubt duly appreciated. It is a great pity that there are no giraffes to delight and astonish the country cousin; but at present they are not procurable, and their enclosure is occupied by a couple of zebus and a couple of yaks. The contrasted colours of these beasts, both remarkable in their appearance, cannot fail to attract attention. A solitary zebra, vainly seeking for grass in the red soil of the next enclosure, looked far from happy; he is said to possess a turn of speed on his native "vlak;" but he certainly does not look like a racer here.</p>
+
+<p>If the lion is still king though caged, the imperial eagle does not resemble an emperor. His majesty had just taken a bath, and his feathers were very much on end, and his perch in a narrow cage had very little of the throne about it; he is, however, a very different bird in his native haunts. Our favourite bird is that mortal foe of the snake tribes, Mr. Secretary Bird. His keeper jerks a piece of meat rapidly past him at the end of a string, and he strikes it with his foot with unerring dexterity and considerable force. If that is the way in which he treats the hereditary enemy of mankind, we can well understand their objections to this scribe among birds.</p>
+
+<p>Among the novelties and rarities we may mention a coal-black gibbon monkey, a veritable imp of Satan, who lives alongside of the extremely hideous ourang-outang; and a venemous-looking cat called a Fossa, which is the only member of his race that has ever been induced to desert his home in Madagascar to pay a visit to Europe. After a farewell look at our favourites the lions&#8212;who, as an admiring damsel said, were "quite like Briton Riviere's"&#8212;a very pleasant afternoon's amusement came to an end.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

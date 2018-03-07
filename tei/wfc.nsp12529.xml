@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12529">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Buffalo Bill" at Windsor</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12529</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"Buffalo Bill" at Windsor</title>
+<title level="j">Ashbourne News</title>
+<pubPlace>Ashbourne, England</pubPlace>
+<date when="1892-07-01">July 1, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.079.03-T (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Command performances</term>
+<term>Cossacks</term>
+<term>Courts and courtiers</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Mexicans</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Beatrice, Princess Henry of Battenberg, 1857-1944</term>
+<term>Burke, John M., -1917</term>
+<term>Henry Maurice, Prince of Battenberg, 1858-1896</term>
+<term>Ponsonby, Henry Frederick, Sir, 1825-1895</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12529.001"/>
+
+
+
+<head type="main">"BUFFALO BILL" AT WINDSOR.</head>
+
+<head type="sub">A PERFORMANCE BEFORE THE QUEEN.</head>
+
+<p>The <persName xml:id="victoria.q">Queen</persName> and Court were present on Saturday afternoon at a special performance given by Colonel Cody's "Wild West Show" at Windsor Castle. The entertainment took place upon the greensward in the Home Park, opposite the East Terrace, a picturesque spot once known as the Princes' Recreation Ground, whereon her Majesty's children formerly played cricket, and which is now occasionally used for the Palace garden parties. An oval hippodrome, surrounded by hurdles, was formed upon the lawn.</p>
+
+<p>The Royal Pavilion, a tastefully-arranged tent, was erected at the middle of the gravelled promenade. It stood near the steps leading down into the sunk garden, and faced the arena, of which it commanded an excellent view. Several stately palms and choice flowering plants were disposed about its sides, and within the crimson-draped interior chairs had been provided for the Queen and Royal family. The Queen, who left the Victoria Tower about five o'clock, drove in her pony carriage along the terrace to the pavilion, Princess Christian, Prince and Princess Henry of Battenberg and their children, Princess Victoria of Schleswig-Holstein and the Princess of Leiningen assembling upon the promenade at the same time. General Sir Henry Ponsonby and the Hon. Lady Ponsonby, the Countess of Antrim, Major-General Sir John Cowell and Lady Cowell, Major-General Sir John McNeill, Dr. Reid, the Hon. Miss Drummond, the Hon. Miss McNeill, the Hon. Miss Loftus, Colonel the Hon. W. Carington, Admiral Sir J. Commerell, Major Bigge, Colonel Clarke, the Dean of Windsor and Mrs. Eliot, and other gentlemen and ladies connected with the Court were present. The Queen had also very kindly allowed the palace and park servants and their families to see the performance, these lining the parapet to the south of the Royal Pavilion.</p>
+
+<p>The show arrangements were supervised by Col. Cody, and Major <persName xml:id="burke.j">Burke</persName> (the manager), and Mr. <persName xml:id="salsbury.n">Salisbury</persName>. The troupe, which comprised about 40 Cossacks, Mexicans, cowboys, scouts, Gauchos, and Sioux Indians and their horses, were conveyed by special Great Western train to Windsor, which was reached shortly before five. The entertainment was of the usual character, though curtailed, and concluded shortly before six o'clock, when the troupe rode up in front of the Royal Pavilion, and finally saluted the Queen, who immediately afterwards quitted the terrace. Simultaneously with her Majesty's departure the procession of Cossacks, Gauchos, Mexicans, scouts, and cowboys left the lawn, the horse-bells jingling merrily as it passed through the park into the town, whence the performers returned by special train to London. Colonel Cody, before leaving the Castle, was introduced by Sir Henry Ponsonby to the Queen, who told him she had been extremely gratified with the marvellous horsemanship exhibited by his troupe, and that the performance was excellent in every way. Her majesty made handsome presents to the principals of the great show.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

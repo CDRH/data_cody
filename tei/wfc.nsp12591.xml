@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12591">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Horticultural Exhibition and The Wild Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12591</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Horticultural Exhibition and The Wild Wild West</title>
+<title level="j">Funny Folks</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-23">July 23, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.089.04 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bolas</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horse racing</term>
+<term>Horsemanship</term>
+<term>Indian children</term>
+<term>Indian women</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Targets (Shooting)</term>
+<term>Tomahawks</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Iowa</term>
+<term>Kansas Territory</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12591.001"/>
+
+
+<head>THE HORTICULTURAL EXHIBITION AND THE WILD WILD WEST.</head> 
+
+<p>Now that this erst budding show has blossomed out, and settled down, it can be seen to contain all the grounds of success. A veritable Flowery Land, its feast of ten (or is it twenty?) thousand extra lamps helps to provide a light entertainment of a thoroughly Celestial kind. The trees come out with a very electricky arrangement of glimmers, string (and other) bands discourse tiedy music, and balmy breezes from the ever-blowing flowers keep the temperature down to refreshing coolness even on the sultriest days, and make it a delightful retreat where the jaded cit many find re-leaf and rest from toil. </p>
+
+<figure n="drawing"><p>Pas de cellar-flap by the Cossack Chief.</p></figure>
+
+<p>A centre of haughty-culture, naturally London Pride may be expected to flourish here in all its glory; and equally, or course, it is no place for modest violets or lowly buttercups and daisies&#8212;passion flowers and tiger lilies being the only wild varieties to be seen in the grounds. </p>
+
+<p>Nor do we find, among the exhibits here, examples of the railway and distillers' plants, nor of boot or saddle trees, nor of the rum shrub, nor flowers of sulphur, etc. But there are plant-houses&#8212;which by the way, mustn't be confounded with builders' plants. And despite the advanced season, Spring flowers are still represented by the blooming indiarubber plants, and also stinging nettles&#8212;when they're sat down upon. That the shooting season of plants is not yet over is sufficiently demonstrated by the potting which still goes on among them.</p> 
+
+<p>The building is laid out with winding paths (an explanation of the process of winding and unwinding them need not be given here). The grass plots are not nearly so complicated as many other kinds of plots. Every description of fern is to be found among the ferniture, and the flower beds are as neat and comfortable-looking as the best-trained and most conscientious bed-maker can make them. </p>
+
+<p>Within the grounds, too, may be seen (and bought) mowers with reap-eat action; spades&#8212;which here are always trumps; hoes which do not wear into holes, and, therefore, never need darning; rakes that can stay out all night without being any the worse or less 
+
+<figure n="drawing"><p>Utter indifference of the staff to the oratory of the chaplain in the pulpit.</p></figure>
+
+reputable for it; and cut flowers, fresh and bright-looking, and not cast down or drooping, although quite recently cut by those who professed to be their best friends. </p>
+
+<p>Of course, with so many plants, and such wealth of foliage and blossoming inside, it will go without saying that the grounds are surrounded by routes ramifying in every direction outside. </p>
+
+<p>And as interesting and amusing are Bill Cody's&#8212;beg his pardon, Buffalo William's&#8212;buck-jumpers, which, of course, have no doe-cility about them, and are the buck-bears of ordinary equestrians; and also his shying horses, which try to shy their riders&#8212;if not exactly right into the middle of next week, at any rate as far as they possibly can; and his meeting of primitive schools of horsemanship&#8212;a study of horserace-ial peculiarities and geegeeographical extremes (<hi rend="italic">vide</hi> advertisements); his congress of rough-riders of the world&#8212;showing that he knows how to take the rough with the smooth; his Gauchos, hurling their bolas around upright Buffalo Bill-ets; his Cossacks, than whom there are no cracker or more explosive, or more ready to go off, riders anywhere; his Cowboys, looking some of 'em, more or less calf-like; and, lastly, those tomahawk-ward people to meet in the dark after an orgie of fire-water, the Sioux, with their Sioux-thing yells, and their loving squaws and their little squawlers.</p> 
+
+<p>The shooting, of course, shooten't be missed. That Colonel Cody himself is a crack shot is clearly shown by the way he cracks glass balls with rifle shots. Unquestionably he's long since not only made a (n)aim for himself, but he's made his mark as well. Miss <persName xml:id="oakley.a">Annie Oakley</persName>, too, is an accomplished shot, and a great hit as well as a little miss in the glass-ball shattering line. May her shatter never grow less! </p>
+
+<p>The way these shootists shiver their glass balls must make their rifles&#8212;beg pardon, rivals&#8212; shiver for their reputation. But this is not by any means all the shooting that's done in the Wild Wild West. </p>
+
+<figure n="drawing"><p>One of the Exhibition Indian Chiefs surrounded by admiring palefaces.</p></figure>
+
+<p>There's the shooting of the Deadwood Coach<!--LINK--> around the arena, and the shooting of its passengers and the attackers, and the shooting at the buffaloes, and the nags shooting off their riders when they get the chance (and such a nag-cident <hi rend="italic">does</hi> occur occasionally), showing that they like to have their fling as well as the rest of 'em. </p>
+
+<p>Colonel William Cody was born in Iowa at the usual early age, and though at that time without weapons, he immediately began to shoot up. A little later he removed, with the rest of his family, to Kansas, where he became possessed of a pea-shooter, and&#8212; (<hi rend="italic">For continuation of this exciting autobiography, see the Wild Wild West History of Buffalo Bill.</hi>) </p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

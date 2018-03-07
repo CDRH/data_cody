@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12620">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">What to See in London</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12620</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">What to See in London</title>
+<title level="a" type="sub">"Buffalo Bill," and "The Floweries."</title>
+<title level="j">Lincolnshire Chronicle</title>
+<pubPlace>Lincoln, England</pubPlace>
+<date when="1892">1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.092.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bands (Music)</term>
+<term>Botanical gardens</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mustang</term>
+<term>Pony express</term>
+<term>Railroads</term>
+<term>Revolvers</term>
+<term>Scalping</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Scrapbooks</term>
+<term>Sioux Nation</term>
+<term>South America</term>
+<term>Stagecoaches</term>
+<term>Swords</term>
+<term>Telegraph</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+<term>Wounded Knee Massacre, S.D., 1890</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Boone, Daniel, 1734-1820</term>
+<term>Kicking Bear, 1853-1904</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Short Bull, -1915</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Cheyenne (Wyo.)</term>
+<term>Deadwood (S.D.)</term>
+<term>Earl's Court (London, England)</term>
+<term>Highlands (Scotland)</term>
+<term>London (England)</term>
+<term>South Kensington (London, England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12620.001"/>
+
+
+<head type="main">WHAT TO SEE IN LONDON.</head>
+
+<head type="sub">"BUFFALO BILL," AND "THE FLOWERIES."</head>
+
+<p>THERE is one show going on at the present time in London which will never be seen again, an exhibition varied in its composition, and thrilling in its incidents. We refer, of course, to Buffalo Bill's "Wild West,' which comes to us again and for the last time, bringing with it an additional interest in the fact that in General Cody's care are twenty-three prisoners of war, taken in the Sioux campaign of 1891. These men were given into the General's charge by the United States Government immediately on the conclusion of the Indian outbreak, and their guardianship is regarded by him as a great honour, and an official tribute to the skill, judgment and humanity with which he treats his Indian "employ&#233;s. "Buffalo Bill" has a deep set love of equity and justice, and a keenly symyathetic and benevolent nature; these qualities tell in dealing with men of all races, and his success in taming savages is only equalled by his power over wild horses. The North American Indians are quick to read character, and they know General Cody to be a chivalrous foe and a trusty friend, and therefore the fierce Sioux chiefs, "Revenge," "Scatter," "<persName xml:id="short.bull">Short Bull</persName>," and "<persName xml:id="kicking.bear">Kicking Bear</persName>," were glad to be handed over to his care. These men, whose hands are red with the blood of the pale-faces, are now to be seen in South Kensington every day, and few who note their impassive expression and dignified demeanour would guess that under that quiet exterior smoulder such demoniacal savagery and ferocious cruelty as were shown at Wounded Knee Creek and among the bloodstained valleys of "The Bad Lands." Their presence adds greater interest to a unique exhibition, and is a government stamp to the reality of the Wild West Show. Since Buffalo Bill first dawned on London in the Jubilee year, he has made a tour of the principal cities of Europe, besides transporting his whole company to Dakota in the winter of 1891, when he assisted in bringing the Indian outbreak to a speedy end, and now he comes to bid us a final farewell. All his old friends are thronging round him, twice every day the vast stand is crowded, and still the cry is "Still they come!" Everyone who wants to see a show unequalled for variety, interest and picturesqueness, should visit the Wild West. Its greatest attraction lies in the fact that it is <hi rend="italic">real,</hi> and presents a truthful reflection of life as it was on the plains thirty years ago. As we watch the attack by the redskins on an emigrant train, the buffalo hunt, the fight around the settler's cabin, the capture of the <rs xml:id="coach.deadwood">Deadwood coach</rs>, we are looking at scenes that were of daily occurrence on the prairie, and which have been caught up, as it were, and deposited for a brief space in the arena at Earl's court, and we realize what were the perils and dangers that beset the life of the pioneers of American Western civilization.</p>
+
+<p>The great Amphitheatre, holding 25,000 persons, surrounds three parts of the arena; the remaining quarter is filled by a panorama of snow-capped mountains and red rock-walled ca&#241;ons, with a light screen of fir trees towards the front. It is from behind these trees that the picturesque "processional review" approaches, and as the sun shines on the long cavalcade with its glitter of arms and glow of colour, the scene is full of life and beauty. The orator performs the office of introduction, and in response to their names, band by band, Indians, cowboys, vaqueros, scouts, frontier women, detach themselves from the main body and sweep like a whirlwind round the arena. The Indians are gorgeous in war paint and feathers, in brass armlets and wonderful bead embroidery. Each plume that adorns a redskin's head denotes a scalp taken in war; the more feathers the greater honour and glory. Each Indian chief enjoys the dignity of a solitary entry into the ring, and as he falls into position is greeted by his band with a shrill "How!" of respectful salute. The last to enter, riding his grey horse (the successor of the famous "Charlie") with matchless grace, is Gen. Cody, "Buffalo Bill," and an ovation from the assembled thousands greets the hero of a hundred fights. There is everything in this typical son of the West to inspire enthusiasm. He has an unbeaten record for acts of bravery and endurance, he has served his country nobly in time of war, and for these services has been rewarded by the military authorities with the rank of Brigadier-General, and in his own State by a unanimous election as United States Senator, an honour which he, however, declined. One of his brother officers says that "Buffalo Bill is the idol of the army and the frontiersmen, the dread and terror of the war-bonneted Indian, but their generous friend in time of peace." Gen. Cody is taller than most men, straight as an arrow, with muscles of steel, the courtly grace of a grandee of Spain, frank kindly eyes, the face of a hero of romance, truthful, generous, keenly sensitive, and of indomitable idependence of spirit&#8212;a true Westerner, fearless and free, who from the age of ten has fought all adverse circumstances with a pluck that never faltered; Buffalo Bill represents a phase of life that is rapidly passing away, never more to return. He is the last of the six greatest scouts that America has known; a man who can stand side by side with Daniel Boone, and overtop him. General Cody is not a circus proprietor, his company is not a performing troupe. He is a man who has helped to make American history, his employees simply show to the world scenes from their daily life on the prairie. It is this reality that gives to the Wild West Exhibition its enduring attraction. One of the most interesting items on the programme is the "Pony Express" business, showing how letters and despatches were distributed across the immense continent previous to the railway and the telegraph. The life of these expressmen was arduous, dangerous, and solitary at all times, but during an Indian outbreak the perils were magnified a thousandfold. Then the man's life depended from hour to hour on the speed of his mustang and the accuracy of his aim with a revolver. On one occasion, when none of the regular men would volunteer to carry a war despatch, William F. Cody undertook the duty, and rode 350 miles in less than 60 hours, in bad weather, and through a territory swarming with hostile Indians. Considerable interest attaches also to the Deadwood coach, a scarred and weather-beaten relic of the times when it was worth a man's life to sit on the box-seat from Cheyenne to Deadwood. A strange record of adventure could the old vehicle relate had it a tongue to speak&#8212;of attacks and ambushes of Indians and road agents, of massacred passengers and murdered drivers. The cowboy riding is a fine exhibition of skill and pluck, and the curious Indian life customs are most interesting and instructive. Indeed, the whole show may be regarded from an educational, as well as from an entertaining point of view, and from both aspects it is abundantly satisfactory. The life therein represented has almost passed away, this presentment of it will soon be over; all therefore who wish to see and understand a thrilling page of modern history should visit Earl's Court without delay. The brilliant sharp shooting of Buffalo Bill, <persName xml:id="oakley.a">Annie Oakley</persName>'s marvellous hits, <persName xml:id="baker.l">Johnnie Taylor</persName>'s clever marksmanship, call forth enthusiastic plaudits. The South American Gauchos, and the Russian Cossacks are fresh features of the exhibition, and lovers of the Wild West will be glad to see that the cowboys of the prairie are still the champion riders of the world. The Gauchos are half-<gap/> amazing. The troop of Cossacks is even more interesting than the band of Gauchos. Under their hetman, Prince Ivan Makharadze, they show how they charge a foe with swords and fight to the death, singing their wild barbaric chants of battle. They also exhibit feats of skill in riding, and, most interesting of all, some of their native dances, which have a curious resemblance to those of the Scotch Highlanders. The programme contains altogether eighteen separate exhibitions, each of which is so rich in incident and excitement that the audience is kept in a ferment of enthusiastic applause. There is so much to see and wonder at, that one pair of eyes apiece is all too little wherewith to do full justice to the lavish entertainment provided by the Wild West Show. </p>
+
+<p>The "Floweries," in the midst of which this epitome of prairie life is set, are perhaps more attractive to Londoners than to country folks, to whom grassy lawns, shady trees, the sweet breath and soft glow of blossoms are things familiar. But to all lovers of flowers there is a great delight in making acquaintance with fresh blooms or finding old favourites under new conditions, and this is what one does at the Horticultural Exhibition. On every side are plants, known and unknown, and every day of sunshine brings out new beauties in this garden of enchantment. At nightfall myriads of coloured lamps turn the scene into a glimpse of fairyland, while the military band in the gardens, and the string band in the flower-decked crystal hall, add the finishing pleasures to a day of delights.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

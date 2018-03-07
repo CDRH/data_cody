@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12677">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12677</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Horticultural Exhibition</title>
+<title level="j">London Evening Standard</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-08-02">August 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.100.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term> 
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Bands (Music)</term>
+<term>Botanical gardens</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Emigrants</term>
+<term>Exhibitions</term>
+<term>Frontier and pioneer life</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horse racing</term>
+<term>Horse stealing</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Lynching</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Singers</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>Wagon trains</term>
+<term>Wild horses</term>
+<term>Zulu (African people)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="kz">Zierlein, Kim</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12677.001"/>
+
+
+<head>THE HORTICULTURAL EXHIBITION.</head>
+
+<p>A picotee and carnation show and some additions to the "Wild West" were among the special attractions offered to holiday-makers at this popular exhibition. The weather also added to the enjoyment of the Gardens, and the enterprise of the management was rewarded by the enormous attendance that the turnstiles recorded. The flower show proved a most attractive feature. Not only was it a display of picotees and carnations, but of cottagers' produce, and the building in which the exhibits were set out was crowded throughout the day. Some exquisite specimens of the carnations were to be seen, the leading prizetakers being Mr. Charles Turner, of Slough; Mr. W. Hooper, of Chippenham; Mr. Goble, of Ryde; and Mr. Samuel Fear, of Enfield. A feature of more than ordinary interest consisted of the children's classes, competed for by children under 16 years of age. For a hand bouquet Bessie Gilbert, of Guildford, took the first prize, for a bouquet of natural grasses and hardy ferns Amy Coleman, of Feltham, was the prize winner, and the first prize for a bouquet of wild flowers also went to her. The cottagers' produce comprised flowers, fruit, and vegetables, and a very fine show it made&#8212;so fine, indeed, that a little scepticism would have been pardonable, though none was expressed, as to whether these were all the produce of cottage gardens. Among the general attractions the programme comprised the performances of four bands. Of these the Grenadier Guards, under Lieutenant Dan Godfrey, performed in the Western Gardens, from seven till a quarter to eleven in the evening, the Second Life Guards, under Mr. Leonard Barker, occupied the Western Stand in the afternoon and that in the Central Gardens in the evening, while the Exhibition Band, under Mr. Wellington, performed meanwhile, and in the main building the visitors were entertained by the Exhibition orchestra and an organ recital by Mr. Tonking. Another feature was the Zulu choir of fifteen performers, selected from Zulu Mission Stations&#8212;a characteristic of all being that they had relatives fighting on the British side during the Zulu war. The Skating Rink in the Central Gardens proved an attractive item in the day's programme, and a good many visitors went specially to witness the performances of Professor Aginton, the champion roller skater, whose evolutions fully justified the high hopes entertained by those who crowded the turnstiles to get an early place. Of course, the chief attraction was Buffalo Bill's Wild West. Colonel Cody may well be congratulated on the increasing popularity of this remarkable show.  Never in its history have so many visitors come to see it as on this Bank Holiday. There were but few vacant seats in the vast expanse which is devoted to this leading feature of the Earl's-court Exhibition. In some of the cheaper parts there was not even standing room, while, of course, for the 2500 free seats which are daily advertised there were at each performance pretty well five times that number of applicants. The wild war whoop of Colonel Cody's Indians and the doings of the cowboys, though now somewhat familiar to some of us, proved to be as interesting as ever, and the Deadwood Coach started on its journey amid as wild expressions of delight from the crowd as were observable when Colonel Cody first brought that interesting trophy to this country. The bucking horses and the herd of buffaloes likewise proved a draw, but the new features in the Wild West were noticeable in this Bank Holiday programme. The Cossacks of the Don and the Gauchos are brought into friendly rivalry, and one of the things that only very recent visitors to the vast arena have seen is the race between a Cossack, a Cowboy, a Gaucho, an Indian, and a Mexican (five of the world's rough riders), on the ponies that they would use on their native heather. Another novelty is a decidedly realistic representation of "Western Justice," in which the horse-stealer of the prairies is made to submit to the decrees of Judge Lynch in a manner which brings vividly home to the mind of the spectator the methods there adopted. One or two little dramatic items are also introduced into the arena, and the pioneer train of emigrants making a pilgrimage to the land of the setting sun, who, while preparing their evening meal, are surprised and set upon by a band of savages, is at once picturesque and extremely interesting. Colonel Cody was received many times yesterday, both at the afternoon and the evening performance, with rounds of rapturous applause, which was more than once extended to members of his Company, especially to "the <persName xml:id="oakley.a">little sure shot</persName>." The attendance for the day was 29,258, which has to be added to a total already achieved, during the 73 days that the Exhibition has been open, up to Saturday night, of 1,050,374, a number never reached by any of the predecessors of the Horticultural at Earl's Court.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

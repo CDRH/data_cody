@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12651">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12651</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Wild West</title>
+<title level="j">Era</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-30">July 30, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.096.05 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Botanical gardens</term>
+<term>Cowboys</term>
+<term>Electric lighting</term>
+<term>Emigrants</term>
+<term>Exhibitions</term>
+<term>Historical reenactments</term>
+<term>Horse stealing</term>
+<term>Indian captivities</term>
+<term>Indians of North America</term>
+<term>Lighting</term>
+<term>Lynching</term>
+<term>Scrapbooks</term>
+<term>Singers</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army</term>
+<term>Wagon trains</term>
+<term>Zulu (African people)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12651.001"/>
+
+ 
+<head>"THE WILD WEST."</head>
+ 
+<p>Buffalo Bill and his very mixed but clever and daring and picturesque crowd seem to be more popular than ever at Earl's-court, and the thunderous applause that is daily and nightly heard affords abundant evidence of the fact that the excellence and the liberality of the entertainment are fully and heartily appreciated. Several additional and sensational features have recently been imported, more than one being quite startling, though by no means offensive, in its realism. A prairie emigrant train figures prominently in one place, and its appearance at once excites a good deal of interest. The train consists of two waggons, the same as were used thirty-five years ago, drawn by four horses, and accompanied by three or four men and a woman. The camp is pitched, and the evening meal is about to be prepared, when a band of some twenty or thirty Indians, who might previously have been observed creeping towards and surrounding the camp, rushes upon the unsuspecting emigrants. A struggle ensues. Two men and a girl are taken prisoners by the Indians. The fiendish delight with which savages torture their victims is then illustrated. They younger of the two men is compelled to run the gauntlet between two rows of Indian braves, while the old man is tied to a stake surrounded with straw; which is ignited. Here is introduced the scalp dance, the triumphant Indians dancing and yelling hideously around their victim at the stake. Their savage amusement is, however, cut short by the appearance of Buffalo Bill and his band of cowboys, who, after a sharp struggle, put the Indians to rout and rescue both men. The girl, who makes her appearance at the close of the rescue, causes some amusement by mounting behind Buffalo Bill, and accompanying him out of the arena. The second feature is illustrative of the administration of justice by Judge Lynch. A deserter from the United States Army is making his way on foot across the plain when he sees a cowboy sleeping, with his horse tethered beside him. Slowly the deserter approaches the sleeping man, and having untied the horse, mounts quickly and gallops away. The cowboy, on awakening, misses his horse, and, with the idea of making the best of a bad job, having noted the way the horse has gone, proceeds on foot to find his companions. These he meets, and they at once start in pursuit of the thief. An interesting race ensues, but the thief is ultimately brought to the ground by means of the lasso. He is immediately bound hand and foot and hauled to the nearest tree, on which he is hanged. Having administered the law, the cowboys each have a shot at the dead body of the thief and gallop off. Two soldiers and a guide, evidently in search of the deserter, then enter the arena and carry the body away with them. There is nothing of the horrible about the whole business. The spectators are quite aware that it is all make-believe, and there is not a little laughter even over the hanging of the horse-stealer. In anticipation of the influx of holiday vis[i]tors, the management of the adjacent International Horticultural Exhibition have made special arrangements for the bank holiday and following days. In addition to the show of carnations, picotees, and cottage garden produce of all kinds, for which the entries are of great extent and importance, all the ordinary attractions of the exhibition will be expanded to the proportions of the extraordinary. Six splendid bands, including the unequalled bands of the Grenadier Guards and the 2nd Life Guards, will provide the holiday music. There will also be performances by the famous Zulu choir, and organ recitals, and at night over 20,000 coloured lamps will illuminate the beautiful grounds.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

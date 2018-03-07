@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12670">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main"></title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12670</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Silent Language</title>
+<title level="j">Science Siftings</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-30">July 30, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.098.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Black Beaver</term>
+<term>Catholics</term> 
+<term>Chinese</term>
+<term>Delaware Indians</term>
+<term>Dialects</term>
+<term>Ethnology</term>
+<term>Exhibitions</term>
+<term>Indian sign language</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Jewish way of life</term>
+<term>Kiowa Apache Indians</term>
+<term>Language and languages</term>
+<term>Mandan Indians</term>
+<term>Missionaries</term> 
+<term>Railroads</term>
+<term>Religion</term> 
+<term>Romans</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Wichita Indians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Salsbury, Nathan, 1846-1902</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12670.001"/>
+
+ 
+<head>The Silent Language</head>
+ 
+<p>of the North American Indians referred to in our last issue, anent our ethnological studies at Colonel Cody's wonderful exhibition at Earl's Court, has induced a correspondent to write to us on the subject of Indian dialects generally. He informs us that the Indian language is not permitted now in the Government Indian schools&#8212;only English is spoken. So far as religious teaching is concerned, lessons are given in the Bible just as in geography. The Indians have no heads for religious matters. Most of the children are Catholic, so far as they are anything. The Indians, we are informed, are badly in need of missionaries of some kind to teach them better morals. There are certain things, our correspondent continues, which tend to show that Indians are of Jewish origin. The Wichita Indians, it is said, operate on their children in a manner supposed to be exclusively Jewish. Then again, Indians wrap their blanket about them in exactly the same manner as the ancient Hebrews, and the blankets bear some resemblance to the Roman toga. At other times our correspondent thinks that they are of Chinese origin.</p>
+ 
+<p>The Indian Face<lb/>
+ 
+if you look at it just right, very much resembles the Chinese profile, and recently, in Wyoming, the petrified remains on an ancient Chinese war vessel were discovered. It is strange, but an actual fact, that the Manadad (Dakota) Indians use a Welsh dialect. At the present day a Welshman can understand them. It is presumed, and is backed up by tradition, that some Welsh pioneer got stranded among these Indians and taught them their language. In the Indian territory an old Kiowa chief told our informant his theory of the origin of the Indian race. The first man was a Kiowa Indian, of course. How he came to appear on earth does not transpire, but the way he multiplied and replenished the earth with Kiowas was by beating on a hollow log with a stick; males ran out one end and females out the other. Black Beaver, chief of the Delaware tribe, once told a tradition which no doubt is the Indian account of the arrival of Columbus. A great flood had destroyed all the Indians except the Delawares, and one day there came over the waters a huge bird with great wings, and it carried on its back men with white skins and faces.</p>
+ 
+<p>In an early number of SCIENCE SIFTINGS we described a multiple railway system, which is to be a leading feature of the Chicago Exhibition. We now learn that a powerful syndicate has been formed by Col. Cody and Col. Nate Salsbury<!--LINK--> and some leading English capitalists to promote the enterprise in Great Britain. A combination of Paris bankers has also approved the invention, and proposes to introduce the same in France. This novel American invention promises to revolutionise modern methods of locomotion.</p>
+ 
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

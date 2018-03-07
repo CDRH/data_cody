@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12567">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West Doctor Is Getting Out of Practice Because he has Nothing to Do</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12567</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Wild West Doctor Is Getting Out of Practice Because he has Nothing to Do</title>
+<title level="j">The Star</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-12">July 12, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.085.02 (1892 London Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Crow Indians</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Guitar</term>
+<term>Health</term>
+<term>Horses</term>
+<term>Indian children</term>
+<term>Indians of North America</term>
+<term>Oglala Indians</term>
+<term>Physicians</term>
+<term>Scrapbooks</term>
+<term>Sioux Nation</term>
+<term>Spanish language</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Long Wolf, 1833?-1892</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Argentina</term>
+<term>Buenos Aires (Argentina)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12567.001"/>
+
+
+<head type="main">THE WILD WEST DOCTOR </head>
+
+<head type="sub">Is Getting Out of Practice Because he has Nothing to Do.</head> 
+<p>
+When you see the daring performances in Buffalo Bill's Wild West arena and are told that there is a Wild West doctor somewhere close at hand you imagine that all sorts of t&#601;rrible accidents happen frequently. But when you count up the number of people who make up the camp population and its follewers, you see that in the ordinary course of nature there ought to be enough work to keep a doctor busy. To learn precisely what the doctor does a <hi rend="italic">Star</hi> man has interviewed him. </p>
+
+<p>"You are Dr. Maitland Coffin?" said the <hi rend="italic">Star</hi> man to the gentleman pointed out to him, without waiting for the formalities of introduction. </p>
+
+<p>"Yes, that is my name," he responded, with a look half of surprise, half of inquiry, "What's the matter?" </p>
+
+<p>"Nothing's the matter doctor. I wanted to have just a few words with you." </p>
+
+<p>"Oh, I thought from your manner that somebody was ill, and wanted my attendance. That would be rather a new sensation, as my professional services at this place have not been in much requisition lately." </p>
+
+<p>"That seems to speak well for the general health of the camp. I should have thought that you had a long list of accidents and sicknesses of various kinds."</p> 
+
+<p>"I have no such list at present," he remarked, as he patted a little Indian child affectionately on the head in passing, "my so-called patients are <lb/>
+
+FAR TOO HEALTHY FOR THAT. <lb/>
+
+As for accidents, we have really had none to speak of, unless a bruise or a slight abrasure of the skin may be regarded as such. Just look at those fellows," he continued, pointing to a group of Cossacks, as they sat playing some national game inside their tent, "did you ever see finer and healthier looking men? Here are some of our South American Gauchos. No one would say there was much the matter with them. Ask them if you like. One of them speaks a little English, though their language is, of course, Spanish. That little chap there was at one time a jockey in his own country, and this fellow with the guitar is Ismael Palacios, brother to Gaspar, one of the most celebrated jockies in the Argentine Republic, who once rode Gay Hermit, with which, I am told, he won many a race at Buenos Ayres. Ah, here is their captain, Valentin Paz." </p>
+
+<p>"You have had at least one death?" </p>
+
+<p>"Yes, but only one. He was an Indian chief called Shug-a-man-[unreadable]-Has-ka or Long Wolf,<!--LINK--> nicknamed by the tribe of Ogalallas 'Lame Warrior.' General break-up and old age was the cause of his death. He was covered with wounds, having been in every fight since the Crows in 1859." </p>
+
+<p>"Do you find that the rough riding injures the health. </p>
+
+<p>"No doubt those who ride buck-jumping horses get knocked out at a much earlier age than would otherwise be the case. For instance, many who were with the previous outfit of the Jubilee Year have been entirely knocked out through riding bucking horses. The Indians, too, are entirely new, and are taken from the ranks of those who took part in the late Sioux war. Some of them are <lb/>
+
+POLITICAL PRISONERS, <lb/>
+
+and not a few are covered with wounds, but taken as a whole I should say they are, if anything, a healthier race than those who previously appeared." </p>
+
+<p>"Do you find the Indian contingent contented with their life in and out of the camp?" </p>
+
+<p>"They out to be, and I have every reason for saying that they are. They are well looked after, well fed, and I should say far better treated than they are in their own country." </p>
+
+<p>"Is it true that some of the Indians have their own remedies in case of sickness?" </p>
+
+<p>"Yes, but I rather think a good many of their remedies take the form of charms against evil." </p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12626">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">New Scenes at the "Wild West"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12626</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">New Scenes at the "Wild West"</title>
+<title level="j">Daily Graphic</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-27">July 27, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.093.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Emigrants</term>
+<term>Exhibitions</term>
+<term>Frontier and pioneer life</term>
+<term>Historical reenactments</term>
+<term>Horse stealing</term>
+<term>Horses</term>
+<term>Indian dance--North America</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Lynching</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Wagon trains</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Cleaver, Reginald</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12626.001"/>
+
+
+
+<figure n="drawings">
+
+<ab>THE ATTACK ON THE EMIGRANT TRAIN (BURNING AT THE STAKE)</ab>
+
+<ab>CAPTURE OF A HORSE-THIEF.</ab>
+
+<ab>GIVING THE COUP-DE-GRACE.</ab>
+
+<ab>JUDGE LYNCH.</ab>
+
+<ab type="credit">Reginal Cleaver.</ab>
+
+<p>NEW FEATURES AT THE "WILD WEST": SKETCHES IN THE ARENA AT THE HORTICULTURAL EXHIBITION, EARL'S COURT. <hi rend="italic">(See page 4)</hi></p></figure>
+
+<pb facs="wfc.nsp12626.002"/>
+
+<head>NEW SCENES AT THE "WILD WEST."</head>
+
+<p>Two additions to Colonel Cody's programme at the "Wild West" have been made this week. The first of the new features occurs in the popular scene of the emigrant waggons attacked by the Indians. The train is drawn up for encampment for the night, and a bustling picture of supper preparations is shown. A very much larger band than formerly of Indians swoop down upon the trail, seizing the old scout, whom they surround, and are supposed to torture ferociously, though in the struggling and crowding it is difficult to see what particular forms of cruelty are being practised upon him. Eventually exhausted, and already half-dead, the victim is lashed to a post, and is surrounded with straw and wood. Meantime other emigrants are being pursued, and an animated chase takes place, the Indians firing at the legs and ankles of their intended prisoners. Just as the fuel round the stake is kindled and the Indians are beginning a war dance, Buffalo Bill and his brave cowboys ride up to the rescue. The tribes are defeated, and one of their most beautiful prairie girls is borne away upon a horse.</p>
+
+<p>The second novelty is one of the most dramatic that Buffalo Bill has shown. Across the arena comes a deserter in the uniform of the States. After a careful look all around, he rolls himself under a hillock for sleep, when presently comes a cowboy on his horse. The animal (which, by the way, seemed to understand the part it was playing to perfection) is tired; so is the man, who presently dismounts, unsaddles the horse, which he ties to a tree, and proceeds to wrap himself in his blanket until dawn. The deserter wakes, sees the horse, which he stealthily approaches and steals, riding off as hard as he can. The cowboy wakes, discovers his loss, searches for the trail, and in vigorous pantomime vows vengeance. With his saddle on his shoulder, he starts to walk to the nearest ranche station, but is met by a party of friends to whom he details his loss, and who undertake to help him to find the thief. They are successful, and the despicable culprit, now hiding his dishonoured uniform under an obviously new shirt and leather leggings, is sentenced by "Judge Lynch" to death by hanging. A lasso from one of the saddles serves as a rope, and he is promptly strung up to a tree, every cowboy discharging his six-shooter into the body as he rides off. Presently a military search party enter, and find the body, which is contemptuously flung across one of the horses and borne away.</p>
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

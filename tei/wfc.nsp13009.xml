@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">A Novel Railway</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13009</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">A Novel Railway</title>
+<title level="j">City Leader</title>
+<pubPlace>Walbrook, England</pubPlace>
+<date when="1892-08-20">August 20, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.139.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Exhibitions</term>
+<term>Illinois Central Railroad Company</term>
+<term>Inventions</term>
+<term>Passenger conveyors</term>
+<term>Railroads--Design and construction</term>
+<term>Railroads</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13009.001"/>
+
+
+<head>A NOVEL RAILWAY. </head>  
+
+<p>A YEAR or two ago we had something to say about the "moving sidewalk" idea, which was at that time being boomed in America. Sorrowfully, we admit that we dealt with the subject in a satirical spirit. The spectacle of Cheapside transformed into a series of running platforms was too much for us, and we looked with pain on the prospect before us when the busmen and the cabmen should find their occupation gone, when walking should be out of fashion, and when the busy city man would step out of his office, take a seat on the nearest campstool, and in a few minutes find himself at the door of his bank to draw out the small balance that remained. As things are now in the City, he certainly would not have occasion to go with any other object. But let that pass. We have, as we said just now, to sorrowfully admit that in treating the "moving sidewalk" with contempt, we were a little ahead of the times, for the Multiple Speed Railway will shortly show what can be done in that direction. </p>
+
+<p>Col. Cody, or as he is better known, Buffalo Bill, of Wild West fame, is one of the moving spirts in this new undertaking, which has already passed the experimental stage, and will ere long be earning dividends for happy shareholders, not only in America, but in this country and in France. Some very influential people have taken up the subject. The railway, which will be first seen on a large scale at the World's Fair, consists of a series of two or more platforms, which move in parallel lines at uniformly progressive speeds. Suppose we take only the form of railway using two of these platforms. The outer, narrower, and slower moving platform serves as a step or intermediate standing place for reaching the inner, wider and faster moving platform, on which the seats are placed, thus enabling passengers to pass, with perfect safety and ease, from the ground to the seated platform, or from the seated platform to the ground, while the platforms are in motion. The mechanical principles used to attain this result are not pretended to be wholly new, but they are all employed in an effective and simple fashion. If one takes a beam or straight edge and place it on the top of a roller or wheel of any desired radius, and propel it forward and backward on a board table, the beam will move over twice the ground covered by the axle or centre of the wheel. </p>
+
+<p>This is the principle which is utilised in the Multiple Speed Railway, and adopted for the convenience of passengers. Following this principle, the slowest moving platform, or the one on which passenger steps first, is attached to the axle and proceeds at the speed of the axle. The next platform is placed on top of the wheels, which rotate on the track, and has therefore double the speed of the first platform. These platforms travel continuously on an endless or belt railway, and the certainty with which the differential or multiple speeds are maintained for each belt of moving platforms, though motive power at a low rate of speed is applied to the axle only, is one of the advantages of this system, because by increasing or decreasing the axle speed all platform speeds are, each in this proper ratio, simultaneously and automatically increased or decreased, and the practical operation, of the system is there by made extremely simple and safe.</p>
+
+<p>There are no stations or waiting-rooms. A narrow stationary platform runs with the entire length of the road (whether underground or elevated), and frequent staircases are provided, having gates at their upper or lower ends, through which passengers pass and deposit their fare before being admitted to the stationary platform. The train is always there, always running and empty seats constantly passing for the accommodation of passengers. The three mile platform is 30 in. wide, and is framed upon the side of a truck, upon four wheels. The cars or trucks are each 12 ft. long, and the framework is of the simplest character, designed simply to space the wheels properly, to carry the side platform and its possible load, and to take the tension of the draw bars, which, however, is very light. The gauge of the track is 45 in. The motive power is stationary and conveyed to the axles by electricity. The motors are frequent and of small power and applied direct to the axles of the motor cars, which are placed at equi-distant intervals in the circuit. Each motor pulls. In setting up the continuous train the platforms are placed end to end, the drawheads abutting against each other. They are then all coupled up with closed links, except the motor car.</p>
+
+<p>On paper the idea certainly adopts a more feasible shape than was apparent at the first glance, and the powerful influences at work behind it promise to push the Multiple Speed Railway into a prominent place among railways. The promoters have issued a little pamphlet which shows in a remarkable manner what this system is capable of when compared with existing systems. From it we learn that the entire present capacity of the Illinois Central double-track suburban railway is 6,000 passengers per hour, and of the cable car lines 12,000 per hour. On reading further we find that by giving the Illinois Central additional terminal facilities, by elevating its tracks, by introducing a block signal system to lessen the danger of collisions, by providing more engines and cars, and by making a continuous loop-system at each end of the line, all to cost 3,174,600 dols., in addition to the sums already laid out on the present road, the Illinois Central could handle 21,600 passengers per hour. (This estimate is said to be based on ten car trains running as close as two and a half minutes apart.) The Multiple Speed Railway, at one-fifth of the outlay, and one-fifth of the cost per passenger, quietly cares for almost exactly half as many again&#8212;31,680, as compared to 21,600. This is the minimum difference, the maximum would be in favour of the Multiple Speed Railway in the ratio of four to one. Added to its other manifest advantages, the new railway never deposits a passenger at his destination an hour late. The passenger can choose his own rate of speed. He has simply to step easily on the platform at the rate of an ordinary walk of three miles an hour, and from that with equal ease to the second, which runs in the same ratio faster than the first, or six miles an hour, where he takes his seat and travels almost unconsciously at a speed which is estimated at quite equal to the cable car. It is stated that 9 persons out of 10 step on and off with perfect readiness at the first trial; 99 out of 100 at the second, and not 1 in 1,000 continues to find it difficult. From an investing point of view, we should be disposed to regard this new venture with favour, if and when the promoters decide to let the public share in the undertaking. True, there are one or two little drawbacks to be counted with, but they do not appear to be insurmountable, whilst in many ways the advantages it offers are too apparent to need indicating. We hope to deal with the subject more fully at a later date, when more facts and figures are available.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

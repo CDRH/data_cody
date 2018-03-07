@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13053">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Presentation to Buffalo Bill</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13053</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Presentation to Buffalo Bill</title>
+<title level="j">Weekly Dispatch</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-10-02">October 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.142.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Exhibitions</term>
+<term>Meetings</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Working Men's Association</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Gladstone, W. E. (William Ewart), 1809-1898</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13053.001"/>
+
+
+<head>PRESENTATION TO BUFFALO BILL.</head>
+
+<p>Last evening a conference of delegates from the various branches of the London Working Men's Association was held at the Wild West Show, when an illuminated address was presented to Colonel W. F. Cody. The chair was occupied by Mr. George Potter, president of the association, who was supported by Mr. Fred Whetstone (vice-president), Mr. F. Wigington (treasure), and Mr. Robert Wilson (secretary), and there was a large attendance. In presenting the address, which congratulated Buffalo Bill on the splendour of his show, its value from an educational standpoint, and the success which had attended his visit, now fast drawing to a close, Mr. George Potter said that those whom he represented admired the colonel's pluck and appreciated his indomitable courage. He had taught us a lesson which would not be forgotten, and "Buffalo Bill" would ever be a household word with us. (Cheers.) Mr. Whetstone having expressed a hope that Mr. Gladstone's Government&#8212;which seemed to encourage demonstrations (cheers)&#8212;would allow Buffalo Bill on leaving Earl's Court to take his procession through London, said he wished from the bottom of his heart that the colonel would have a safe and glorious passage and a successful career in Chicago. (Loud cheers.) Colonel Cody, who looked very ill, said he deeply felt the honour they had bestowed upon him in the kindly expressions contained in the address they had presented him with that evening. To deserve their goodwill was a source of satisfaction greater than mere words could express. (Cheers.) He hoped that time and opportunity would enable him to extend to them one and all an American hospitality in his own land, where sunshine and prosperity met men in every walk of life. (Cheers.) He hoped they would excuse him, for he was very ill, but presently he would try to come up smiling, whether he felt it or not. (Laughter, sheers, and cries of "Bravo!") The proceedings then terminated. The delegates were afterwards entertained at a substantial tea, and after each member had been presented with a portrait of Buffalo Bill, bearing his autograph, they witnessed a performance of the Wild West Show.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

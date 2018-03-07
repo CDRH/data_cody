@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12692">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Another Letter of Thanks</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12692</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Sutherland, Andrew J.</author>
+<title level="a" type="main">Another Letter of Thanks</title>
+<title level="j">Lock to Lock Times</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-30">July 30, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.101.04 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Boating accidents</term>
+<term>Exhibitions</term>
+<term>Letters to the editor</term>
+<term>Rescues</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Wounds and injuries</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12692.001"/>
+
+
+<head>ANOTHER LETTER OF THANKS.</head>
+
+<opener><salute><hi rend="italic">To the Editor of</hi> LOCK TO LOCK TIMES.</salute></opener>
+
+<p>SIR,&#8212;I wish, through the medium of your paper, to thank the many unknown gentlemen who so very kindly assisted to rescue my mother and myself, last Sunday, from certain death at Penton Hook Lock. The circumstances of the disaster were as follows:&#8212;The lock was being closed when we were close to it on our upward journey, our party comprising my mother steering, my partner (Mr. J. H. Bohun) at bow, and myself at stroke. The lock-keeper beckoned us into the lock when he saw us, and he called us to come on, ours being the last boat in. We were half-way through the gates when, by an extraordinary mishap, the top sluices were opened and the bottom gate was suddenly and quickly closed, striking my skiff nearly amidship. The boat was completely smashed and quickly filled, leaving my mother half-way between the fast closing gates, her body being outside the lock and her limbs inside. We neither could swim, and, were it not for the most courageous conduct and great presence of mind of Colonel Cody ("Buffalo Bill") and his friends, who were on board a launch, my mother must have been crushed to death by the closing gates; as it was, there was only about 18 inches between the two gates. Eventually, after a terrible struggle, my mother was most gallantly rescued by an unknown gentleman (who, at a great risk, succeeded in entwining a rope around her) and Mr. Charles R. Neville, of Kingston-on-Thames, who dived in to the assistance of both, and Mr. C. O'Malley, who, at the most critical moment, brought a boat to the help of all. We were both eventually safely landed on the launch of Colonel Cody's friend, where the greatest kindness was shown to us.</p>
+
+<p>We cannot adequately express our thanks to all those gentlemen for their timely help when we were both in great peril, and for their excessive kindness. We also cannot too much thank Mr. R. H. Griffith and his father, Dr. Griffith, as also Mrs. Griffith and the Misses Griffiths, all of Staines, Mr. John W. Young, of Wigmore Street, London, and other ladies and gentlemen unknown to us, for their sympathy and attention.</p>
+
+<p>I am sorry to have to say that my mother has entirely broken down, and still suffers excessively from her crushed foot, contusions, and shock to the system. </p>
+
+<p>I trust that you will kindly make the contents of this letter known through the medium of your valuable journal. Thanking you in anticipation, believe me, yours faithfully,</p>
+
+<closer><signed>ANDREW J. SUTHERLAND.</signed>
+
+<dateline>7, Queen Street, Cheapside, London, E. C., July 26th, 1892.</dateline></closer>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

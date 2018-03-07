@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12801">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Wild West Smoking Concert</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12801</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Wild West Smoking Concert</title>
+<title level="j">Fulham Chronicle</title>
+<pubPlace>Fulham, England</pubPlace>
+<date when="1892-09-02">September 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.118.05 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Concerts</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Singers</term>
+<term>Smoking</term>
+<term>Songs</term>
+<term>Traveling exhibitions</term>
+<term>Zulu (African people)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Henckel, Charles, 1862-</term>
+<term>Nelson, John Young, 1826-</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12801.001"/>
+
+
+<p>WILD WEST SMOKING CONCERT.&#8212;On Friday night last a smoking concert was held at the "Coleherne Arms." Richmond-road, West Brompton, the room filled with members of Colonel Cody's Wild West combination, and a number of friends, it certainly was a cosmopolitan gathering including as it did, cowboys, Indians, Guachos, Vacqueros, Zulus, &#38;c., &#38;c. It was interesting to watch the effect upon the usually stoical Indians as they followed the movements and voice of each performer. During the evening Major <persName xml:id="burke.j">Burke</persName>, Colonel Cody's assistant arrived, as well as Major Brown and <persName xml:id="nelson.j">John Nelson</persName>. Mr. Stimpson presided, ably supported by Mr. R. Waters in the vice-chair. The proceedings were opened by the chairman who gave a capital rendering of "The Village Blacksmith" He was followed by Mr. Freeman who was loudly applauded for "The lads in red,"  the same reception following the efforts of Mr. Groom in "The boys! the boys!" Mr. Wiley was very amusing as "Old King Cole," and Mr. Thurley Beale roused great enthusiasm with "The Yeoman's Wedding," and for encore sang "The Bugler." Mr. Brook's laughing song caused the laughing to be infectious. The chairman at this point sang for his encore "Tue till death." Mr. Frank Gore was in good form and did justice to "Mona," for which he was encored, when he sang "The Star of Bethlehem." Mr. Jules Keens, treasurer to the Wild West, gave an amusing "Medley," for which an encore was demanded, and amusingly rendered a quaint song entitled "There's a woman at the bottom of it all." In reply to a request of the chairman, Major Burke who was received with great applause, gave a short and amusing address. The company then drank his health with musical honours. Messrs Thurley Beale and Adolph Ziegler sang the duet "Excelsior" in splendid form. Mr. Black sang a quaint song entitled "This little bird whispered to me," and for encore, by request of Major Burke, he sang "Twelve months ago." Great amusement was caused by the elocutionary efforts of 'chef John,' the Shakespearian cook of the Wild West show, who declaimed a piece from "Romeo and Juliet." Votes of thanks to the chair, and vice-chair, brought a very pleasant evening to a close. These concerts will be held every Friday evening whist the Wild West Show is here.</p>
+
+<p>Mr. William Langan has compiled a very interesting work, which he calls "Buffalo Bill's Wild West Review," and in which he gives a brief sketch of the history of Col. W. F. Cody, Mr. <persName xml:id="salsbury.n">Nate Salsbury</persName>, Major J. M. Burke, and the principal officers and performers connected with the wonderful "Wild West" at West Brompton. Combined with them are a well written <hi rend="italic">resum&#233;</hi> of the leading features of the entertainment, including thrilling narratives respecting the wild Indians, the Cossacks, the South American Gauchos, and the daring performances of the celebrated cowboys. The book is beautifully and truthfully illustrated by Mr. Charles Henckel, and is commanding a ready sale. Those who wish to gain an insight into the ways and customs of Buffalo Bill's followers, cannot do better than obtain a copy of Mr. Langan's clever and instructive review.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

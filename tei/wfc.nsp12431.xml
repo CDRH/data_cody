@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12431">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">"Buffalo Bill" for President</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12431</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">"Buffalo Bill" for President</title>
+<title level="j">People's Press</title>
+<pubPlace>Duluth, Minnesota</pubPlace>
+<date when="1892-06-11">June 11, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.066.05 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Exhibitions</term>
+<term>Nobility--England</term>
+<term>Politics, history, and social change</term>
+<term>Presidential candidates</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>United States--Politics and government</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Nebraska</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12431.001"/>
+
+
+<figure n="drawing"/>
+
+<head>"BUFFALO BILL" FOR PRESIDENT.</head>
+
+<p>The newspapers and illustated periodicals of London, England, come to us filled with notices and pictures of the most distingurshed of all Americans abroad, Hon. W. F. Cody, ("Buffalo Bill"). We are reminded that "republics are ungrateful," when we are infarmed that he is honored by both people and press of the metropolis of the earth, London, recollecting the opposition raised in Chicago against the addmision of his educational Wild West exhibit to the groun <gap/> the Columbian Exposition.</p>
+
+<p>"Buffalo Bill" advertised Chicago and its forthcoming Fair, all over the old world as no other man or combination of men could, and his own countrymen among the World's Fair managers, paid him with ingratitude.</p>
+
+<p>The Wild West would simply be the greatest atrtaction of the World's Fair, as it is appreciated as the most fascinating feature of the International Horticultural Exhibition at Earl's Court, London, just now. At the grand opening of that magnificent exhibition the three most striking figures on the platform mentioned by the London press were the Duke of Connaught (who delivered the opening address), the Bishop of London, and "Buffalo Bill." We reproduce from a large picture in the Pictorial Weekly, these three faces as they appeared in juxtaposition.</p>
+
+<p>"Buffalo Bill" is being honored by both the people and the nobility of England, which is an indication that England is, in sentiment, after all a better republic than America, under the sway of our upstart millionaires.</p>
+
+<p>"Buffalo Bill" is one of the most remarkable men of his time. He has not been spoiled by mili tary success at home, or by being lionized abroa.  He is still a young man, and a thoronghly representative American. Outside a number of plotocrats who never like to see a m n of the people rise, "Buffalo Bill" is one of the best known and most highly esteemed of America's citizens. His home is in Nebraska, the state whehin the People's Party will gather to nominate a candidate for President of the United States. They cannot take a man from either of the two old parties, and they will be hard pushed for a man at once possessing the essentials, nerve, intelligence, integrity and popularity. What better could be done than to nominate the gentleman from Nebraska, who is honored by the nations, Hon. W. F. Cody?</p>
+
+<p>THE PEOPLE'S PRESS nominates "Buffalo Bill" for the Presidency on the People's ticket.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

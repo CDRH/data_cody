@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12514">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Truly a blazing afternoon!]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12514</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Truly a blazing afternoon!]</title>
+<title level="j">Sunday Chronicle</title>
+<pubPlace>Manchester, England</pubPlace>
+<date when="1892-07-03">July 3, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.077.06-T (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Electric lighting</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Hair--Removal</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Lakota dialect</term>
+<term>Lakota Indians</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12514.001"/>
+
+<p>Truly a blazing afternoon! And that evening I saw the storm which succeeded, in all its awful splendour. I had been lured by the loveliest of her sex&#8212;upon no other consideration would I have left the companionship of the huge iceberg at Romano's, with the attendant cooling drink of commerce&#8212;to the Buffalo Billeries. You can I daresay, picture the scene for yourselves. The "dreadful thunder" succeeded in driving those horses in the show who are not already mad into complete and absolute insanity. "Dynamite" bucked as he had never bucked before, "Greased Strychnine" contorted his lithe frame into fantastic shapes hitherto undreamt of, and "Torpedo" did all he knew to destroy life. The almost continuous lightning, whilst it succeeded in "dousing" the artificial electricity, lit up the strange, weird scene, at which strong man shuddered and gentle woman shrieked. About the only impassive mortal present was Buffalo Bill himself, as, with a mackintosh covering his scout's dress, and his long, lank hair streaming with rain water, he broke his glass balls, cracked his stock whip, and "wiped out" Sioux Indians by the score.</p>
+
+<p>Each one of the performers at the Wild West has a special yell of his own. The Indian warwhoop is sufficiently blood-curdling when taken neat, but when to those sounds are added the shriek of the cowboy, the special anthem of the Cossack, and the altogether unearthly screech of the Gaucho, the effect is more easily imagined than described. It is startling enough to witness the performances of these wild men from the East and West when the elements are favourable for outdoor exercise. But in a thunderstorm the effect is&#8212;well, I never experienced anything half like it, and probably never shall. I saw a four-legged animal, described in the programme as a "Broncho," leap up from the ground in the direction of the clouds, and land upon his forelegs. I saw the same fearful and wonderful monster shoot one of the two men bestriding him about twenty yards in a straight direction with all the force of a catapult; and I could see by the lightning's aid the fallen rider pick himself up, still puffing away at his cigarette. I saw a Cossack standing on his head on the saddle, shrieking all the time, and being borne round the arena at a gallop, suddenly reverse his position, then bend down till his head almost touched mother earth, and pick up what appeared to be half-a-crown from the ground. And I muttered to myself:&#8212;</p>
+
+<p>There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy.</p>
+
+<p>I have always taken a special interest in Red Indians. Albeit the customs of the simple savage are beastly, he is a fellow of refined manners. He has been robbed, coerced, and well nigh exterminated by the white man, together with his pet prey, the lordly buffalo. He is brave to a degree. I know no other race who would submit to such torture in order to become smooth of face. It is a fact that when the male Indian arrives at years of discretion, his mother plucks out every individual hair in his whiskers, beard, and moustache with a pair of twezers. This operation, naturally, lasts several weeks, and the hair cannot grow again. But the Indian never even winces during this process of depilation. And I bethought me of all these things on Tuesday night, as I saw these poor savages, with the paint washed from off their faces and their clothes (what clothes they have), soaked through and through, careering around the arena and engaged in a mimic warfare against the devastating Amurrican&#8212;a warfare the reality of which both they and their forefathers have frequently experienced&#8212;and I pitied these poor Indians. A little later on I encountered one of their number apparently gloating over the charms of a fair stallkeeper within the building. Here was clearly my opportunity to improve my scanty knowledge of the Sioux tongue. I approached, and softly murmured into his ear:&#8212;</p>
+
+<p>"Plenty nice squaw."</p>
+
+<p>The noble savage turned and replied, in the plaintive language of his native prairie:&#8212;</p>
+
+<p>"What do <hi rend="italic">you</hi> think?"</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

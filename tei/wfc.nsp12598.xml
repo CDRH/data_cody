@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12598">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Base Ball and Mummers</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12598</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Base Ball and Mummers</title>
+<title level="j">The Music Hall</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-22">July 22, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl> 
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.090.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Actors and actresses</term>
+<term>Actors--United States</term>
+<term>American Indians</term>
+<term>Baseball</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Indians of North America</term>
+<term>Leading ladies (Actresses)</term>
+<term>Mexicans</term>
+<term>Nobility--Great Britain</term>
+<term>Scrapbooks</term>
+<term>Theater</term>
+<term>Translators</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Coutts, W. S. (William Strachan), 1873-</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Prince of Wales Theatre (London, England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12598.001"/>
+
+
+<fw>JULY 22, 1892.  THE MUSIC HALL.  13</fw>
+<figure n="photograph"/>
+
+<head>BASE BALL AND MUMMERS.</head>
+<ab><hi rend="italic">(Too late for insertion last week.)</hi></ab>
+
+<p>Entering the Wild West arena (Earl's Court) on Thursday last before ten, which was the hour fixed for the return match between the nine American variety artists (now appearing at different London halls) members of the "London Thespian Base Ball Club," and nine members of the "Wild West B.B. Club," I found a goodly company already assembled. Society, fashion, literature, and the stage were well represented, Colonel Cody's handsome head towered above a group of friends and a bevy of fair ladies, including General B. Williams (U.S. Army), with wife and daughter, Colonel Tom P. Ochiltree, the richissime Mrs. Macka, the wives of two M.P. editors, viz., Mrs. Henry Labouchere and Mrs. T. P. O'Conner; Mr. <persName xml:id="salsbury.n">Nate Salsbury</persName> (Buffalo Bill's partner), with his charming wife, Mrs. Alice Shaw ("la Belle Siffluese"). All the foregoing lunched after the match with Colonel Cody in his dining tent. To conclude my list of the audience, Mr. F. Dodson (Reuter's) and daughter, Dr. Maitland Coffin and daughter, Major <persName xml:id="burke.j">J. M. Burke</persName> (the genial general manager of the "Wild West" show).</p>
+
+<p>Miss Blanche Rosevelt (Countess Macatte), Mr. and Mrs. Tyars (of the Lyceum), accompanied by Miss Hallett (daughter of Miss Ellen Terry), Miss Ellen D'Auvray (the charming American actress who delighted, a few months since, a crowded Prince of Wales's Theatre audience by her acting at her <hi rend="italic">matin&#233;e</hi> in <hi rend="italic">A Scrap of Paper</hi>), Mrs. Conover (of Lady Macbeth and Olympic Theatre fame) with her pretty daughter Miss Grace Conover (who goes now on a tour with Mr. Beerbohm Tree, taking a part&#8212;Sister of Mercy&#8212;in <hi rend="italic">The Dancing Girl</hi>), Miss Rose Hamilton, Miss Rae Hamilton, Mrs. Warren Lewis, the Sisters Preston, Messrs. Thomas Braatford, W. Chapman ("Ithuriel," of Olympia), Charles Fletcher (champion roller skater), W. Strong, Ed. Romaine, P. Fay (American manager), E. Plummer (<hi rend="italic">American Police Gazette</hi>), Albert E. Scheible, The two McNaughtons, the Waterbergs, three members of the "Water Rats" Club&#8212;viz. T. Pinard, J. Victor, and Andrew Wetherley, Messrs. Jules Keen (the clever American comedian), and Joseph H. Hart (formerly lessor of the Allontown Theatre, U.S.A.).</p>
+
+<p>I here transcribe some of the chatter of my neighbours which occasionally diverted any attention from the game.</p>
+
+<p>Elderly Reporter to Young One: "Do you understand the game, Mr. Brown? Why is it called Base Ball?"</p>
+
+<p>Y. R.: "I do not. Last time I only saw the last man make the last run in the last innings. I hope now to learn some of the mysteries of the game. What a curious audience, Jones, eh? Society folk, we known actors and actresses, mummers and Mexicans, cowboys and Cossacks, Gauchos and Indians."</p>
+
+<p>Spinster Lady Reporter (age uncertain) to pretty and poetical Artist: "What a handsome man Buffalo Bill is, with his 'eagle eye.'"</p>
+
+<p>P. and Pretty A.: "Yes! eyes where the decision and eagerness of the eagle seem to be mated with the tenderness of the dove's. Who is that intelligent dark-looking man in the corner?"</p>
+
+<p>Spinster does not know, but one of the W. W. staff intervenes: "That, Miss, is Mr. Nate Salsbury. As the old chestnut says, he 'don't talk much' (in business hours) 'but is a beggar to think' about details of management, and how he can continually improve the Wild West performances. Out of business the chattiest and best of company, and happy with the smartest wife that ever crowned a man's life."</p>
+
+<p>Here a bawl of Wild West derision which greeted a "Thespian" error drew all attention to the game.</p>
+
+<p>Young and would-be witty Reporter: "Ah, Jones! The mystery is solved! It is 'such base bawls' as these that gave the name to the game." (Spinster, L.R., would like to faint.)</p>
+
+<p>Elderly R.: "Well, I am disappointed, Brown. I expected Marco would stand on his hands and 'bat' with his feet, or that Athol at least would 'catch' in that convenient sitting attitude (with feet crossed above his head) which he assumes at the Music Halls.</p>
+
+<p>P. and P. A. to Jones, "Can you tell me, sir, who is that fine, jolly looking man who gave you just now the names of some of the audience?"</p>
+
+<p>Jones: "That is Major Burke, general manager, the best of fellows, a universal favourite, always ready to <hi rend="italic">assist</hi> the Press and agreeable to everyone."</p>
+
+<p>Elderly S.: "I wonder, dear, who that graceful young man is, in waterproof, with the fine-cut features and sweet-tempered expression&#8212;he is scoring in the ring."</p>
+
+<p>W. W. Staffite: "That, marm, is George P. Crager&#8212;interpreter for the Indians&#8212;he speaks English and Sioux of which he is justly proud&#8212;quite a ladies' man withal&#8212;generally polite to ladies, strangers and Indians. The latter recently gave him some striking proofs of their affection. He has an interesting collection of Indian curios in the major's log cabin. He is married and a father."</p>
+
+<p>On hearing this latter, Elderly S. does <hi rend="italic">not</hi> find him so "sweet looking." To return to the match.</p>
+
+<p>Time was called at 10.10, and the match lasted two hours. Nine innings were played. The ground was not so wet as on June 30th, and in good condition, and both sides were in better form, especially the Thespians. But although the latter played their "level best," victory remained with the Wild Westers, who scored nine to their opponents' five. The players were the same as before expecting the Messrs. Arnold and Brogan replaced two other Wild Westers (White and Davis). Especially noticeable was the masterly "pitching" of Snyder (Wild West), striking out fourteen men, and his good batting (making two-base hit in second innings) also the good catching of Murphy (he and <gap/></p>
+
+
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

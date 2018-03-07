@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12918">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12918</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Wild West</title>
+<title level="j">Home News</title>
+<pubPlace></pubPlace>
+<date when="1892-06-10">June 10, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.132.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Caucasus</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Georgians (South Caucasians)</term>
+<term>Hetmans</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Scrapbooks</term>
+<term>Translators</term>
+<term>Traveling exhibitions</term>
+<term>Weapons</term>
+<term>Zaporozhians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Byron, George Gordon Byron, Baron, 1788-1824</term>
+<term>Mazepa, Ivan Stepanovych, 1639-1709</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12918.001"/>
+
+
+<p>THE COSSACKS AT THE HORTICULTURAL EXHIBITION.&#8212;To the attractions at Earl's-court has been added a band of Cossacks, who are described as a troop of the Caucasian line, a branch of the Zaporogians, of whom Byron's hero Mazeppa was hetman or chief. In personal appearance they bear a close resemblance to Russians, though they are of more slender make, and their features are more handsome and expressive. Their coats are of several shades of ruddy brown, close fitting as far as the waist, and ending in flowing skirts, lined with material of a different hue. Their trousers are black, and are encased in long leather boots, while their caps consist of a narrow circle of light astrachan round a piece of cloth of the same colour as their coats. They carry a short sabre and the "natraika," or whip of twisted leather, which they sometimes apply to the enemy's back as well as to that of their chargers. Thus armed, and in this guise, they executed a series of movements and performed several feats calculated to display their wonderful daring and skill. The spirit, speed, and activity of their horses were put to severe tests by their commander, Prince Ivan Makharadze, while their own keenness of eye and rapid certainty of movement were proved by several exploits. Not being able to speak English, the visitors have brought an interpreter with them, who speaks English, French, Russian, and Tartar. A romantic though pathetic interest is said to attach to this man. He is a native of Manchester, and is named Thomas Oliver. His parents came to London when he was five years old, and joined Manley's circus, then starting for the Caucasus. By some accident he got left behind at Tiflis, and has since earned his living amongst the various circuses travelling in that part of the world, Russians being extremely fond of that kind of amusement. He now returns to his native land after an absence of eighteen years. He is trying to find his parents, but knows nothing about them beyond the fact that his mother's name was Mary Lizzie, and that he had a sister.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

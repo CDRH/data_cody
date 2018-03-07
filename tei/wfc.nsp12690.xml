@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12690">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Ferment in Dakota</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12690</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Ferment in Dakota</title>
+<title level="j">The Daily Graphic</title>
+<pubPlace>London, England</pubPlace>
+<date when="1890-11-28">November 28, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.101.03 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term> 
+<term>Cheyenne Indians</term>
+<term>Dakota Indians</term>
+<term>Exhibitions</term>
+<term>Great Britain. Army--Cavalry</term>
+<term>Indian dance--North America</term>
+<term>Indians of North America--Wars</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Scalping</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Scrapbooks</term>
+<term>Sioux Nation</term>
+<term>Skirmishing</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Short Bull, -1915</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Fort Keogh (Mont.)</term>
+<term>Fort Missoula (Mont.)</term>
+<term>London (England)</term>
+<term>New York (N.Y.)</term>
+<term>North Dakota</term>
+<term>Pine Ridge Indian Reservation (S.D.). </term>
+<term>Rosebud Indian Reservation (S.D.)</term>
+<term>South Dakota</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="kz">Zierlein, Kim</name> Proofreading</change>
+<change when="2017"><name xml:id="sh">Hanna, S.</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12690.001"/>
+
+<fw>THE DAILY GRAPHIC, FRIDAY NOVEMBER 28, 1890</fw>
+
+<figure><p>MAP SHOWING THE SEAT OF THE INDIAN EXCITEMENT IN THE UNITED STATES.</p></figure>
+
+<head>THE FERMENT IN DAKOTA.</head>
+
+<p>Scalping will soon be the order of the day in Dakota. According to a despatch received yesterday in New York, hostilities have already broken out. The origin of the outbreak is said to be local; but, in the present excited state of the wigwams, an accidental whoop would suffice to send all the painted warriors in Dakota on the war-path. Meanwhile a very ugly suggestion is made by the correspondent of a New York journal, who apparently writes from the scene of the troubles. He says, in effeet, that the present critical state of affairs is the work of <hi rend="italic">agents provocateurs.</hi> For some reason or other the extermination of the Sioux has been resolved upon in the United States, and the unfortunate Indians are being driven to a fatal insurrection by the fear of being massacred in cold blood. The massing of troops is driving them into new frenzies, and their threats and warlike preparations are alleged to be mere counter-demonstrations to the menacing attitude of the United States soldiery. Certainly allowances should be made for a disaffected and warlike people, who have been wrought to a high pitch of racial and religious excitement. Besides, they have already suffered so much at the hands of the Pale Face, that it requires no abnormal credulity on their part to believe the whisper that they are to be extirpated root and branch.</p>
+</div1>
+
+<pb facs="wfc.nsp12690.002"/>
+<div1 type="article">
+<fw>THE DAILY GRAPHIC, FRIDAY NOVEMBER 28, 1890</fw>
+
+<head type="main">THE DAKOTA INDIANS.</head>
+
+<head type="sub">OPENING OF HOSTILITIES.</head>
+
+<byline>(THROUGH REUTER'S AGENCY.)</byline>
+
+<div2>
+<head type="sub">A BATTLE IN PROGRESS.</head>
+
+<p>CHICAGO, Thursday.&#8212;A despatch from Missoula, Montana, published in the <hi rend="italic">Inter-Ocean</hi>, announces that a fierce battle is in progress near Fort Keogh, Montana, between the Indians and troops. Three companies of troops at Fort Missoula have been ordered to proceed to Syenne. Advices from various points report sharp skirmishing all along the line.</p>
+</div2>
+<div2>
+<head type="sub">A HUNDRED THOUSAND TROOPS WANTED.</head>
+
+<p>NEW YORK, Thursday.&#8212;The sixth regiment of cavalry which is now at Fort Union has been ordered to join the troops leaving for Fort Wingate to-day, and to proceed with the utmost haste to Fort Meade, Dakota. General Mizner, commanding at Fort Russell, is stated to have expressed the opinion that if fighting once began a hundred thousand troops would be required to complete the conquest of the Indians, but the result would then be the total annihilation of the tribes concerned. The latest despatches from Pine Ridge are very favourable and indicate that the trouble there is probably over. The chief, Little Wound, and his lieutenants have arrived at the agency and have asked to confer with the commander.</p>
+</div2>
+<div2>
+<head type="sub">OPINION OF AN EXPERIENCED SCOUT.</head>
+
+<p>Mr. Mellette, Governor of South Dakota, has sent a telegram to General <persName xml:id="miles.n">Miles</persName>, informing him that he has despatched an experienced man to investigate the trouble among the Indians. This scout reports that he was never afraid of Indians before, and he thinks a general uprising will very soon take place. He talked to a number of Indians on the way from Rosebud to the large camp on the White River, and says that they maintained a surly and defiant attitude.</p>
+</div2>
+<div2>
+<head type="sub">BLOODTHIRSTY THREATS.</head>
+
+<p>One of them remarked that he used to beat out the brains of children and drink women's blood, and declared that he would soon do so again. The camp on the White River contains 1,500 armed warriors. The Indians say they will fight if the soldiers try to capture the chief <persName xml:id="short.bull">Short Bull</persName>, and declare that as soon as the fight begins a hailstorm will kill the soldiers. Mr. Millette has asked for a thousand rifles and ammunition. A despatch from Sueson, Arizona, states that reports have reached there that the Indians in the White Mountain reservation are growing restless. The officers of the agency are apprehensive that the medicine men are trying to arouse the Indians by starting religious dances, and several have consequently been arrested. From Pierre, South Dakota, it is reported that the citizens are alarmed at the attitude of the Indians on the White River, under Short Bull, who show a dangerous spirit, and go about heavily armed. They have killed scores of cattle.</p>
+
+<byline>(THROUGH DALZIEL'S AGENCY.)</byline>
+</div2>
+<div2>
+<head type="sub">PANIC AT PINE RIDGE.</head>
+
+<p>NEW YORK, Thursday.&#8212;The <hi rend="italic">Sun</hi> correspondent at Pine Ridge Agency says that the Indians are utterly dumfounded by the military display, and are nervously fearing an attack. A panic is raging along the border towns, and special east-bound trains crowded with men, women, and children are leaving the supposed scene of danger. Citizens are arming for a fight, and at some places the school-houses have been fenced about with heavy boards, so that they may be used as forts if necessary.</p>
+</div2>
+<div2>
+<head type="sub">WHO IS RESPONSIBLE?</head>
+
+<p>The correspondent continues:&#8212;"Whether ignorance and timidity or mercenary motives have prompted the scare which has now spread throughout the country, it is certain that South Dakota and Western Nebraska have received a blow from the effects of which they will be slow to recover. Grim soldiers, jingling their spurs, stalk past the demure, half-starved Indians, and from the hilltops comes the blare of bugles, and the smoke from the Indian tents mingle with that of the camp fires of the troopers. That there has been a series of blunders no one can doubt, and it is probable that there will be more. A sanguinary ending to the trouble, while not expected or desired, would be an endorsement of somebody's action in the matter, and it is safe to say at least that the Government is contemplating the disarming of the entire Sioux nation. At best the present situation demands a careful investigation, and it will be necessary to ask many questions with regard to the enormous expenditure of money involved in suppressing the so-called threatened rising of a lot of half-starved Indians."</p>
+</div2>
+<div2>
+<head type="sub">THE REPORTED BATTLE.</head>
+
+<p>CHICAGO, Thursday (Later).&#8212;Generaly Miles doubts the accuracy of the news from Fort Keogh as to a fight between the troops and the Cheyennes, no reports of the occurrence having been received by him.</p>
+</div2>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

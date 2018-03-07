@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12974">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Gauchos and Cossacks at the Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12974</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Gauchos and Cossacks at the Wild West</title>
+<title level="j">The Field</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-02">July 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.135.06 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bridles</term>
+<term>Clothing and dress</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>East Indian</term>
+<term>Ethnic costume</term>
+<term>Exhibitions</term>
+<term>Firearms</term>
+<term>Folk dancing</term>
+<term>Folk music</term>
+<term>Gauchos</term>
+<term>Horse arenas</term>
+<term>Horsemanship</term>
+<term>Horses--Breeding</term>
+<term>Horses--Training</term>
+<term>Horses</term>
+<term>Hussars</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Saddlery</term>
+<term>Scrapbooks</term>
+<term>South America</term>
+<term>Stables</term>
+<term>Traveling exhibitions</term>
+<term>Western saddles</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Head, Francis Bond, Sir, 1793-1875</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12974.001"/>
+
+
+<head>GAUCHOS AND COSSACKS AT THE WILD WEST.</head>
+
+<p>COLONEL CODY has made an addition to his original bill of fare, in the shape of a party of Cossack, Gauchos, and last, but by no means least, South American horses, the horses concerning which Sir Francis Head wrote many years ago. To some of our readers the horses may be the most interesting, so we will begin with them, especially as, through the kindness of Mr Hammett,<!--LINK Hammitt--> we had an opportunity of seeing them in the stable, or, rather, just outside of it, being bridled. The horses themselves, though a "three-cornered" lot enough, show more breeding than the bronchos, and apparently would be more easily broken in. Their shoulders, too, are better&#8212;a matter of some importance to the rider when he and his beast have a difference of opinion. But they do not seem vicious; at least, they do not appear to try to do personal mischief to the men of whose attentions they are so unappreciative. While being bridled they performed much as does a deer when being taken after a run with hounds; but with this difference, that "tame deer" try their best to strike, kick, and knock over their surroundings. Wild horses knock them over, but not intentionally. We saw no instance of anything bordering on "savaging" either with heels or teeth. What they are like to "go up to " in their stalls, we, not knowing, cannot say. The diversity of saddles stuck us forcibly. There is the MacClellan regimental saddle of the United States&#8212;a most excellent saddle it is too; and with very little modification we should prefer it to our own hussar saddle. It has no forks for the valise, but that might be managed, and, after all, how often are valises carried in these days? It is much lighter than ours; it affords a firm seat, and is not likely, with a thick numnah, to hurt the horse's back. In addition, it is so simple that it would save the saddler sergeant a lot of trouble. The Cowboy saddle is something of the same kind; but with a mainmast growing out of the pommel, which, with the rather high cantle, reminds one rather of a yawl or dandy-rigged boat. It, however, stays in a capital place on the horse's back, and gives an effect of length in front which astonishes the spectator when he sees the same animal stripped, and notes, with unqualified disapproval, the make and shape of that same. The Vaquero's saddle is pretty much like the Cowboy's: the Gaucho's is a mere pad with stirrups, which, by the way, are shorter than we had imagined them to be (these Gauchos ride as short as an English whipper-in); while the Cossacks, who have brought their own saddlery, have a saddle much like the English hussar saddle, but with a pad or something on the seat of it, so that the man sits some six inches, if not more, above his horse's back; an arrangement which we presume has its advantages, though we confess ignorance as to their nature. The bridles are of all sorts. The old Gaucho's bridle had a ring, which acted as a curb, fastened to the top of a very high port; but we did not notice one of these.</p>
+
+<p>The performances were, primarily the Cossacks, who look at first sight rather like Persian horsedealers, with their head-dresses cut down; and, indeed, they have a distinctly Oriental character about them all through. They ride in singing a song, the like of which may be heard on any evening in an East Indian bazaar. Then three of them dismount and dance, but their dance is more suggestive of Limerick than Lucknow, being the very image of an Irish jig. These men are called soldiers, but are neither enlisted nor drilled, being, however, liable to serve when called upon; and nasty customers they would be if they got a chance of charging guns in flank, or of cutting up infantry skirmishers. They ride their horses right well, with a mixture of the covert side and <i>man&#233;ge</i> styles quite charming to see, as they always have their horses in hand, even at their fastest gallop; the Cowboys' horses are "behind their bridles," while the Redskins simply hold on by their reins. The Cossacks' feats of horsemanship are of the circus order, only that they go quicker than would be possible in a ring. They ride with their faces to the tail, heels in the air, &amp;c., much in the way of that once popular impersonation, "The Drunken Hussar." Their performance over, they retire at a gallop, cutting a sort of pursuing practice with their tulwars&#8212;for the Oriental character extends to their swords; while a firearm discharged by one of them has silver enough on it, if coined into rupees, to afford a week's pay to the Governor-General himself&#8212;this being a very Eastern style of ornamentation.</p>
+
+<p>The riding of the wild horses by Cowboys was interesting. The animals threw themselves down repeatedly, reared, and fell back, and did everything that (apparent) terror could suggest; but all were eventually mounted, and certainly plunged to an extent seldom, if ever, seen in this tight little island. We cannot say whether the Cowboy saddle has any cobbler's wax in its composition, but most of us would require something of the sort on such horses. The Cowboys, however, sat on as tight as postage stamps on envelopes, seldom availing themselves of the main mast to hold by. When the horses had tired themselves with jumping, they stood still and sulked. Still, all their actions were those of a terrified beast, rather than of a vicious one, and, doubtless, were it desirable to tame them, it would be possible. Tricky no doubt they would always be, and unsuitable for what Mr Buckram called "one of these timid cockneyfied chaps." In the illustration of cross-country riding there was nothing to remark (the hunters are getting drawn fine, and the red-coated man's tops are as abnormal as ever) beyond the fact that the Mexican rider, having <hi rend="italic">bona fide</hi> dropped something, tried twice to pick it up and failed, the difference between a 14.2 horse and one of 15.3 accounting for this. The Gauchos rode the untamed steeds much as did the Cowboys, only throwing them with the lasso round a fore leg to saddle and mount them. Two of them mounted on horse, and were promptly kicked off, whether by accident or design we cannot say. The wild horses were blindfolded to be mounted, or perhaps they might not have been mounted at all. </p>
+
+<p>The arena rode very deep on the day we were there, and it was noticeable how much better all the horses went on the soft. Even Col. Cody's old white had got his legs partially at liberty, but he still gallops very short. We forgot to say that the Gauchos showed the use of the "bolas"&#8212;partially at least. To see them to advantage, the throwing of an animal, at full speed, on to its head should be part of the performance; but such an object lesson might be attended with sundry drawbacks.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

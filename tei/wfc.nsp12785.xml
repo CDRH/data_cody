@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12785">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Wild West Ladies</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12785</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Aurora</author>
+<title level="a" type="main">Wild West Ladies</title>
+<title level="a" type="sub">How They Entertain Visitors</title>
+<title level="j">News of the World</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-08-12">August 21, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.114.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bakers</term>
+<term>Caterers and catering</term>
+<term>Clothing and dress</term>
+<term>Coexistence</term>
+<term>Communal living</term>
+<term>Cooking, American</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Cowgirls</term>
+<term>Cultural relations</term>
+<term>Diversity in the workplace</term>
+<term>Exhibitions</term>
+<term>Food consumption</term>
+<term>Food service</term>
+<term>Gauchos</term>
+<term>Horsemen and horsewomen</term>
+<term>Indian children</term>
+<term>Indian women</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>International relations</term>
+<term>Medical care</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Sweatbaths</term>
+<term>Translators</term>
+<term>Traveling exhibitions</term>
+<term>Women--United States</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Burke, John M., -1917</term>
+<term>Butler, Frank E., 1852?-1926</term>
+<term>Nelson, John Young, 1826-</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Sweeney, William, 1856-1916</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12785.001"/>
+
+
+<head type="main">WILD WEST LADIES.</head>
+
+<head type="sub">HOW THEY ENTERTAIN VISITORS.</head>
+
+<div2><p>"Buffalo Bill's Wild West" as a "show," and the same "Wild West" as a home, are two very different things. The camp seen before the general public is admitted, as I was privileged to do, for I arrived before 11 o'clock, is as busy and merry a place as can well be imagined. The little city of tents, with its population of 275 souls, boasts many varieties of nationality and many grades of civilisation. Harmony, however, reigns supreme in every corner of the settlement, and swarthy-faced Cossacks salute with Oriental grace the dignified Indians and the black-eyed Mexicans, while the Cow-boys and Gauchos seem hale fellow well met with everybody. </p>
+
+<p>The number of men and women is, of course, entirely disproportionate, for there are only five white women and four Indian squaws in the whole settlement. These nine women are all married, their husbands being in some capacity or other connected with the show. Over all these varying types Colonel Cody reigns as a sort of absolute monarch, with a prime minister in the person of Major <persName xml:id="burke.j">Burke</persName>. There is no specially-appointed queen for the camp, but it has a "mother" in the person of Mrs. Comrie, who for twelve years has had more or less the responsibility of the health of the camp upon her shoulders. Of course there is a regular physician attached to the settlement, but Mrs. Comrie gives out all the medicine, and doctors the cut fingers and sprained wrists and ankles that are matters of frequent occurrence. </p></div2>
+
+<div2><head>"Mamma" Comrie.</head>
+
+<p>Mrs. Comrie is known throughout the camp&#8212;by men and women, Indians and Mexicans, Cossacks and South Americans, from Buffalo Bill himself to the darkie who sells pop-corn, as "Mamma"&#8212;pronounced "Momman." I wish I had time and space to give a whole column to "Mamma Comrie." With her shrewd, quizzical face, smooth dark hair, and print-aproned figure, she is a study and a delight to all with whom she converses. She has been 12 years with Colonel Cody, and without her, she thinks, the show would "bust."</p>
+
+<p>Her tent, which is the first one in the line from the main entrance to the camp looks like a cross between a dispensary and a dressmaking and tailoring establishment. She makes the Mexicans pretty velvet, tinsel-trimmed trousers, and the cow-boys bright-hued shirts, and she helps the Indian women to make their queer-shaped frocks, and the girls who ride to trim their habits and big felt hats. To all her "sons" and "daughters" she is a truly motherly guiding spirt, and with her bright, homely manner, and her quaintly characteristic sun-bonnet, she is the very soul of kindliness and hospitality. </p></div2>
+
+<div2><head>Annie Oakley's Many Honours.</head>
+
+<p>Miss <persName xml:id="oakley.a">Annie Oakley</persName>'s tent is next in importance among the ladies, and this clever little woman I found busily engaged in polishing a lovely pair of gold-mounted, pearl-handled pistols, that had just been presented to her by a firm of manufacturers. Miss Oakley and her husband, Mr. Butler, are very interesting people. They have seen a great deal of the world, which seems to have used them kindly. Of course Miss Oakley's prize medals, which are numberless, have been written about before, but she has had some interesting new medals and bits of jewellery given to her lately, notably those from the London Gun Club, the Prince Regent of Bavaria, and the Duke of Manchester. The Duchess of Teck gave her a pretty bracelet with a moonstone heart, and Baron de Rothschild a brooch set with lovely diamonds. When the young Duke of Orleans was here, Miss Oakley shot a match with him, and found her royal opponent a foeman worthy of her steel. He performed nearly all her feats, and, in fact, acknowledged himself to be beaten only twice. He presented her with a handsome token of his appreciation.</p></div2>
+
+<div2><head>The Cook and Camp Kitchen.</head>
+
+<p>By this time twelve o'clock had sounded, and "dinner" was announced. Accompanied by "Mamma" Comrie and Miss Oakley, I was taken to the commissariat department, where there are four tents, one small canvas edifice being for the accommodation of the ladies, a second for the cowboys, a third for the Cossacks and Gauchos, and Mexicans, and fourth for the Indians. Before repairing to the ladies' tent I made a flying visit to the kitchen and storehouse, which is a moderate sized frame building, beautifully kept, and presided over by John Keenan, head cook and Shakespearian scholar, who, with a droll Irish accent and a waggish eye, stirred a big pot of "clam-chowder," while he recited Hamlet's soliloquy with a nice appreciation of elocution that Mr. Tree himself would admire.</p>
+
+<p>Mr. Keenan said that the enormous number of 1,500 eggs was consumed daily in the camp, an Indian chief considering 11 eggs but a dainty morsel for breakfast! Three quarters of beef per diem is one of the items also, and as no one has "rations," but is allowed to eat what they like, it may be imagined that the caterer, Mr. Langham, has no sinecure of office!</p>
+
+<p>After this preliminary survey I went into the dining tent with Miss Oakley, Mrs. Comrie, Miss <persName xml:id="ferrel.d">Della Ferrel</persName>, who in real life is Mrs. <persName xml:id="baker.l">Johnny Baker</persName>, and her sister Miss Bessie Ferrel, who is the wife of the leader of the cow-boy band, Mr. Sweeny.</p>
+
+<p>Mrs. Shangran, the fifth "lady of the camp," is a Liverpool girl by birth, and has recently been married to the chief Indian interpreter, himself a half-breed and a good type of his special kind. It seemed strange to think of this fair-faced, blue-eyed English girl married to a man who, although educated and in every way "civilised," is yet so closely allied to the "Red-skins."</p></div2>
+
+<div2><head>Dinner in the Tents.</head>
+
+<p>But while I am talking about my companions at table, I am allowing my dinner, and a very excellent one it was, to get cold. First we had "clam-chowder," a typical American soup, made of vegetables and clams and all sorts of nice things. This was served with "soda crackers" (Anglic&#233;, biscuits). Then we had stewed chicken with dumplings, corn, and potatoes. After this came buckwheat cakes, another typical American dish, served with maple syrup, which is much nicer than our "golden" syrup, and these cakes were delicious. I scarcely felt equal to the pastry that followed, with cheese and coffee. Everything was daintily served by a waiter who would have been an ornament to any dining-room, and who responded to Mrs. Comrie's request for "the sauce, please, son," with an unmoved countenance.</p>
+
+<p>Dinner concluded, I was taken in hand by the two pretty Ferrel sisters, who displayed much modesty about their skill in horsemanship and firearms. Della Ferrel told me that Colonel Cody had given her an invitation to spend her holidays with his family on his beautiful ranch in Dakota, and to this pleasure she is looking forward with much delight. She is to wear divided skirts when she races with the squaw and the American girl this week. She says she finds it is as difficult to accustom herself to the astride position on her horse as if she had to learn to ride all over again!</p>
+
+<p>Next I was taken to call upon old <persName xml:id="nelson.j">John Nelson</persName>, the veteran mail-carrier and pioneer. He took me into his tent and introduced me to his two sons&#8212;handsome fellows&#8212;one married to a good-looking Indian woman called "Lizzie," and the other quite a young boy. "Lizzie" is embroidering a beautiful pair of chamois trousers for Colonel Cody, and she recently received &#163;3 for a pair of exquisite mocassins.</p></div2>
+
+<div2><head>Redskin Candidates for Dunmow's Flitch.</head>
+
+<p>Mr. and Mrs. Blackheart's wigwam was our next stopping-place. This family of Indians are quite delightful. Blackheart is a fine-looking man, devoted to his squaw, and the two are the very essence of good nature and civility. The chief has some very handsome jewellery, bracelets, rings, and medals, while Mrs. Blackheart has a complete outfit of underclothes, which she purchased in Paris. Blackheart is her second husband, and she has a married daughter, whose poor, sweet little baby of 15 months' old is dreadfully ill. The mother seemed to feel the child's illness deeply, and sat crooning a soft lullaby, of which I was given a rough translation:&#8212;</p>
+
+<lg><l>"Swing, swing, little one, lullaby,</l>
+<l>Thou'rt not alone to weep;</l>
+<l>Mother cares for you&#8212;she is nigh,</l> 
+<l>Sleep my little one sleep.</l>
+<l>Gently, gently, wee one swing;</l>
+<l>Gently, gently, while I sing."</l></lg>
+
+<p>In all my life I never heard anything more heartrending. I stole softly away and left the poor mother rocking her baby on her lap.</p></div2>
+
+<div2><head>The Indians' Turkish Bath.</head>
+
+<p>I was much interested in the Indian's bathing tent, which is a huge circular cage or mound, made of hoops, bent into shape, and covered with layer after layer of canvas. Inside this mound is a heap of stones under which a fire is lighted, and then an Indian creeps into this queer cage, and has what practically amounts to a Turkish bath. Sunday, being a holiday, they devote nearly entirely to washing themselves, and in another part of the camp they have a second "stew tent," attached to which is a shower bath. They are a particularly cleanly people if they are allowed to have the facilities for being so, and this rather surprised me, for I think the usual idea is that an Indian is decidedly dirty.</p>
+
+<p>Finding that my time was becoming disagreeably short, I be took myself to the most important of the tents, that of Colonel Cody, who, in red and white striped shirt and a big white sombrero, presented his usual picturesque appearance. "Buffalo Bill" showed me some photographs of his beautiful home on the prairie land, and also of his remarkably pretty daughter, with her little girl, a lovely child of about four or five years of age.</p></div2>
+
+<div2><head>Civilisation and the Noble Savage.</head>
+
+<p>While I was talking with Colonel Cody, a splendid tall young Indian in barbaric trappings and bright-hued blanket came to the tent, and having saluted, presented a bundle of despatches to his chief. As he stood at attention, the whole scene seemed like the realisation of a chapter in one of Cooper's novels. The grand-looking savage standing erect before the soldierly white man, with his clear pale face and graceful dress, and the back-ground made by the tent hung with skins and warlike implements&#8212;a bright-hued garment on a chair, a pair of gauntlets on the floor&#8212;and then to be brought back to London by the shadow of my own town-made bonnet in a piece of polished brass!</p>
+
+<p>It was with regret that I bid farewell to the home-camp of Buffalo Bill, for its inmates are apparently the happiest and most contented of mortals, while the spirit of good comradeship seems to be in the air. Its women are happy, industrious, domestic, and entertaining, and its men appear all that men should be, which is saying a good deal.</p></div2>
+
+<byline>AURORA</byline>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

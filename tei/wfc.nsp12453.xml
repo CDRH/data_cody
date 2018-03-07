@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12453">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The "Wild West" at Play</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12453</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The "Wild West" at Play</title>
+<title level="a" type="sub">A Base-ball Match</title>
+<title level="j">Daily Graphic</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-30">June 30, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.070.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Actors</term>
+<term>American Indians</term>
+<term>Baseball</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Games</term>
+<term>Gauchos</term>
+<term>Indians of North America</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Cleaver, Reginald</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12453.001"/>
+
+
+<figure><ab>THE GALLERY.</ab>
+
+<ab>SAVED.! (BY THE HEEL OF HIS BOOT)</ab>
+
+<ab>THE CATCHER</ab>
+
+<ab>HAD A GOOD INNINGS (RATHER MUDDY)</ab>
+
+<ab>TOO MANY COOKS</ab>
+
+<ab>REPRESENTATIVE LOOKERS ON. </ab>
+
+<ab type="credit">Reginald Cleaver. </ab>
+
+<p>BASE BALL AT THE "WILD WEST":  SKETCHES AT THE MATCH BETWEEN PICKED TEAMS OF THE LONDON THESPIANS AND THE "BUFFALO BILL" BASE BALL CLUB AT EARL'S COURT YESTERDAY. (<hi rend="italic">See page 9.</hi>)</p></figure>
+
+<head type="main">THE "WILD WEST" AT PLAY.</head>
+
+<head type="sub">A BASE-BALL MATCH.</head>
+
+<p>Base-ball as played on "the other side" is known to the ordinary run of Englishmen as a form of recreation in which the umpire occupies a precisely analagous position to him who decides upon the disputed points in our own game of football. He is a being who is not only stormed at with wild interrogatories, bitter denunciations, and scornful aspersions, but who in this case even finds his body opposed to the "wide" balls sent from the server's hands. These shots are not child's play, as was shown in the match played in the "Wild West" arena at Earl's Court yesterday between nine American actors and music-hall artistes now appearing in London, and forming part of the London Thespian Base-ball Club and Buffalo Bill's Baseball Club of the United States. So fiercely was the missile delivered very often that the man who crouched behind the hitter to stop such balls as were not struck had to armour himself in wire mask and padded breastplate. The pools and mire left by the thunderstorm of the previous night added to the spectator's entertainment. In the attempt to secure foothold upon the bases there was much sliding, and when the players fell they rose with hands and clothes begrimed with black mud. It was this part of the match that the music-hall performers and denizens of the "Wild West," who formed the bulk of the lookers-on, enjoyed most. It was left to the gauchos, vacqueros, and cowboys to yell injunctions to the players and to join in the wrangles in which the game was prolific. The Indians were the only unmoved beings present; they sat or stood, enshrouded in their rugs, the embodiments of immobility. The Thespian players were R. Kelly, W. Pink, J. Ashby, J. Marco, F. Halter, R. G. Knowles, T. Ardell, H. Athol, and G. Dare. Their total was five runs. On the other hand, J. Bebb and J. White (cowboys), J. Nelson (vacquero), and E. Snyder, J. Bowery, C. F. Davis, and T. V. Murphy (Cowboy Band), C. Hammond, and C. Bell, of Buffalo Bill's Club, scored thirteen. The hits of the match were made by Bowery and Nelson, who sent the ball spinning beyond the boundary.</p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

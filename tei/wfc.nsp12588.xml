@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12588">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">About Well-Known People</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12588</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">About Well-Known People</title>
+<title level="a" type="sub">Colonel William F. Cody (Buffalo Bill)</title>
+<title level="j">Spare Moments</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-23">July 23, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.089.01 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>American frontier</term>
+<term>Buffalo meat</term>
+<term>Caucasus</term>
+<term>Celebrities</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Fame</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Kansas Pacific Railway Company</term>
+<term>Pony express</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Showman</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Cooper, James Fenimore, 1789-1851</term>
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+<term>Sheridan, Philip Henry, 1831-1888</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+<term>Yellow Hand, 1850?-1876</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Kansas Territory</term>
+<term>London (England)</term>
+<term>Scott County (Iowa)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12588.001"/>
+
+
+<head type="main">ABOUT WELL-KNOWN PEOPLE. </head>
+
+<head type="sub">COLONEL WILLIAM F. CODY<lb/>
+(BUFFALO BILL). </head>
+
+<p>The Honourable Col. W. F. Cody&#8212;better known as Buffalo Bill&#8212;is a showman, and he does not repudiate the title. But he is something more than this. The Wild West Show has very little of the circus element in it. It is a bon&#226;-fide attempt to reproduce in the heart of our desert of bricks and mortar the reckless, daredevil life of the plains. The performers are what they pretend to be, and the most genuine of the whole band is the man at its head. </p>
+
+<p>W. F. Cody was born in Scott County, Iowa, somewhere about fifty years ago. When quite a child, however, he went with his father to the frontier territory of Kansas&#8212;a very lively spot indeed in those days.</p> 
+
+<p>While he was yet a boy, his father was killed in the Border war, and young Cody had to shift for himself. The wild life suited his adventurous spirit. As a youngster he learned to shoot and ride with a skill which earned him much local fame, and which has never deserted him.</p> 
+
+<p>He became a pony-express rider, and in that capacity had many a narrow shave. He was afterwards guide, hunter and army-scout, and his pluck and endurance gained him praise in each capacity. When quite a young man he accomplished the unprecedented feat of killing sixty-nine buffaloes in one day. When the Kansas Pacific Railroad was being built he was employed to supply the labourers with meat, and in one season he killed nearly 5,000 buffaloes.</p> 
+
+<p>As a scout he became famous. The services he rendered to the American army in dealing with the Red Indians have been generously acknowledged by every officer who has had dealings with him.</p> 
+
+<p>Innumerable stories are told of his achievements in this direction&#8212;stories of desperate rides which suggest Rider Haggard&#8212;of marvellous trials which recall Fennimore Cooper, and of actual fighting which is reminiscent of both those accomplished romancers.</p> 
+
+<p>In the winter campaign against the Indians in 1868, conducted by General Phil Sheridan, Buffalo Bill rode with some despatches a distance of sixty-five miles through a district infested with Indians. It was then found that certain orders must be at once carried to a certain fort nearly a hundred miles away. No one could be found to undertake the dangerous journey until Buffalo Bill volunteered. The consequence was that with scarcely an hour's rest the dauntless scout was again in the saddle, and accomplished his journey with only one break of an hour's duration. After this Cody was in many engagements, and his name became a terror among the unfriendly redskins. In a hand-to-hand fight it is related of him he slew "<persName xml:id="yellow.hair">Yellow Hand</persName>," the famous redskin chief.</p> 
+
+<p>When quieter times came much of the reckless fascination of Wild West life seemed gone. Then the brilliant idea occurred to him to gather round him his comrades&#8212;red and white&#8212;and try to carry 
+
+<figure><p>COLONEL WILLIAM F. CODY.<lb/> 
+(BUFFALO BILL).</p></figure>
+
+a suggestion at least of Wild Western life into the fastness of civilisation. </p>
+
+<p>The visit of the show to England in 1887 will ever be memorable. The novelty took the town. Englishmen who travel so far in search of adventure and sport crowded to take advantage of this glimpse of a life so much to their taste. </p>
+
+<p>All society went to see the show; the <persName xml:id="victoria.q">Queen</persName> commanded a special performance; the <persName xml:id="albert.edward">Prince of Wales</persName> visited it several times, and the public at large went mad over it. Buffalo Bill was received in the "best society," and f&#234;ted to the skies. His fame and fortune were made. He afterwards travelled all over the world, and the news of his London triumph preceded him everywhere. </p>
+
+<p>His show, now to be seen at the Horticultural Exhibition, though more diversified than its predecessor, deserves to be equally successful. The Cossacks from the Caucasus, with their marvellous feats of horsemanship, are alone worth the visit. But, of course, Buffalo Bill, with his Indians, his cowboys, and his scouts, must ever be the main attraction.</p> 
+
+<p>Colonel Cody is personally generous, frank, courageous, plain-spoken, and a perfect specimen of the best type of American frontiersman. </p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

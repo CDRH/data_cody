@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12798">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">International Horticultural Exhibition and Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12798</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">International Horticultural Exhibition and Wild West</title>
+<title level="j">Hackney and Kingsland Gazette</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-09-02">September 2, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.118.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Botanical gardens</term>
+<term>Exhibitions</term>
+<term>Historical reenactments</term>
+<term>Lynching</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Weather</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12798.001"/>
+
+
+<head>INTERNATIONAL HORTICULTURAL EXHIBITION AND WILD WEST.</head>
+
+<p>Much has been written and published concerning the beauty of these gardens, with their floral displays and the various exhibitions which are constantly to be witnessed, and the universal verdict of the many thousands of patrons confirms the statement that they are will worthy of a visit. Among the special attractions arranged, came the great Flower and Fruit Show of last Friday and Saturday, which indeed was one of the great events of the season, for seldom is the opportunity presented of witnessing such a magnificent collection as was brought together on this occasion. The day was fine on Friday, and many visitors passed the turnstiles, yet doubtless the heavy downpour of rain on Saturday militated in a great measure against a very large attendance on that day; but if those who visited the Exhibition had their spirits as well as their clothing somewhat damped by the wet without, the vast assemblage quickly forgot all about it when once inside the spacious area set apart for the greatest of all attractions, 'Buffalo Bill's Wild West.' </p>
+
+<p>The 2,500 free seats were filled nearly two hours before the the time of commencing. The arena presented the appearance of a vast slough, and rendered some of the performances very difficult; but the whole of the programme was faithfully carried out, proving the assertion set forth in the various advertisements that the show would take place wet or fine; and, in fact, the mud and water contributed in no small degree to enhance some of the mirth-provoking incidents&#8212;as notable that of the horse thief, whose pursuers, after lassoing, dragged him through the mire to the place of mimic execution by Judge Lynch. We would recommend our readers not to let the opportunity pass of witnessing this marvellous entertainment ere the day of bidding farewell shall arrive.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

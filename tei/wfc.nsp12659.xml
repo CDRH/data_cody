@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12659">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Fresh Attractions at the "Horty"</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12659</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<respStmt><resp>Artist</resp><name>A. J. F.</name></respStmt>
+<title level="a" type="main">Fresh Attractions at the "Horty"</title>
+<title level="j">Penny Illustrated Paper</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-30">July 30, 1892</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West, William F. "Buffalo Bill" Cody Collection, MS6</repository>
+<idno>MS6.3778.097.02 (1892 London)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Band music</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Botanical gardens</term>
+<term>Drawings and graphics</term>
+<term>Exhibitions</term>
+<term>Frontier and pioneer life</term>
+<term>Historical reenactments</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Lynching</term>
+<term>Scalping</term>
+<term>Scrapbooks</term>
+<term>Singers</term>
+<term>Traveling exhibitions</term>
+<term>Zulu (African people)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Cooper, James Fenimore, 1789-1851</term>
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+<term>Reid, Mayne, 1818-1883</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2017"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12659.001"/>
+
+
+<head>FRESH ATTRACTIONS AT THE "HORTY."</head>
+
+<p>FOR the Bank Holiday period, plenty of additional attractions are forthcoming at the Horticultural Exhibition and Buffalo Billeries. Nothing of its kind is more soothing than the soft, sweet singing of the Zulu Choir of about a dozen Zulu vocalists, male and female. They sing, and sing remarkably well, in their habits as they live in Zululand, and charm you with their melodious glees and songs; capping their mellifluous ditties with a Zulu "Witch Doctor" comedy, which recalls Rider Haggard's latest romance. Then for housewives there is a valuable lecture on electric cooking, with practical demonstrations of the culinary art; and Messrs. Crumpton's lucid lecturer deserves a special vote of thanks for his remarkable clearness and distinctness.</p>
+
+<p>Colonel Cody and Major Burke,<!--LINK--> for their part, have enlivened the wonderfully engrossing "Wild West Show" with fresh features of prairie life, 
+
+<figure n="drawings">
+<ab>CAUGHT</ab>
+
+<ab>LYNCHED &amp; RIDDLED</ab>
+
+<ab>SCALP DANCE</ab>
+
+<ab>BUFFALO BILL RESCUING A PRAIRIE MAIDEN</ab>
+
+<ab>THE HORSE STEALER</ab>
+
+<p>BUFFALO BILL'S NOVELTIES.</p></figure>
+
+which will be a source of special delight to lads and lasses home for the holidays, and to holiday-makers generally who have not forgotten the thrilling episodes of Indian life described in Fenimore Cooper's and Mayne Reid's romances. A <i>P.I.P.</i> Artist was among the sightseers entranced by these vivid representations of lynch law and of scalping customs in the Far West. They certainly add to the interest ever aroused by Buffalo Bill's fascinating show.</p>
+
+<p>As for the musical attractions of an evening at the Horticultural Exhibition Gardens, Lieut. Dan Godfrey with the Grenadier Guards' Band, Mr. Leonard Barker with the 2nd Life Guards' Band, and Mr. J. R. Wellington with the Exhibition Band see that the thousands of strollers through the radiant lamplit grounds have an abundance of martial marches and toe-stirring waltzes wherewith to entertain them. In fine, the "Horty"&#8212;and "Venice in London," which must not be forgotten&#8212;should be visited now of all seasons, for each resort is truly delightful on a balmy evening.</p>
+
+<p>DYSPEPSIA MAKES YOU NERVOUS, and nervousness makes you dyspeptic; either one renders you miserable, and CARTER'S LITTLE LIVER PILLS cure both. Of all Chemists, 1s. 1&#189;d.&#8212;[ADVT.]</p>
+
+
+<figure n="drawing"><p>EVENING CONCERT AT THE HORTICULTURAL EXHIBITION.</p> 
+<ab type="credit">A. J. F.</ab></figure>
+
+
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
