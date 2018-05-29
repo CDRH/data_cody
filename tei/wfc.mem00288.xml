@@ -50,7 +50,7 @@
 <bibl>
 <title level="m" type="main" xml:lang="en">1889 Buffalo Bill's Wild West program in French (48-page)</title>
 <respStmt><resp>Artists/Illustrators</resp>
-<name>Frenzeny,Paul</name>
+<name>Frenzeny, Paul</name>
 <name>Taylor, J. E.</name>
 <name>Williams</name>
 </respStmt>
@@ -182,7 +182,7 @@
 
 <head>Buffalo Bill's Wild West</head>
 
-<figure><p>Your Truly<lb/>
+<figure n="drawing"><p>Your Truly<lb/>
 W.F. Cody<lb/>
 Buffalo Bill</p></figure>
 </div2>
@@ -802,7 +802,7 @@ qui lui donnèrent la chasse depuis la source du fleuve Républican jusqu'au For
 
 de pays accidenté, allant par monts et par mer à travers tous les obstacles sans jamais broncher ni tomber. C'est certainement un cheval merveilleux pour la sûreté de son pied, un second « Buckskin Joe » pour sa force et sa résistance à la fatigue. Nous avons vu que, dans une occasion critique, il avait porté son maître pendant neuf heures et quarante cinq minutes sur un parcours de cent-soixante kilomètres. Le cavalier, ses armes et son accoutrement ne pesaient pas moins de cent dix kilog. Ce qui caractérise le plus le « Vieux Charlie » c'est son intelligence extraordinaire qui le fait agir de façon à faire croire qu'il a le don du raisonnement.</p>
 
-<figure><p>Buffalo Bill et « Vieux Ciiarlie »</p>
+<figure n="drawing"><p>Buffalo Bill et « Vieux Ciiarlie »</p>
 <ab type="credit"><persName>P. Frenzeny</persName></ab></figure>
 
 <p>Dans les lieux les plus solitaires et les plus arides, comme dans les endroits les plus séduisants pour un cheval, quand son maître le débarrasse de la selle et de la bride, il peut en toute sûreté se fier à son cheval qui ne quitte jamais l'endroit où l'on s'arrête. Aussi s'enveloppant. de sa couverture et prenant la selle pour oreiller, il s'endort tranquillement sachant bien que son fidele compagnon est tout prés, et qu'après avoir suffisamment brouté, il viendra se coucher auprès de lui, et s'endormir l'oreille tendue, et qu à la moindre alerte, il réveillera son maître et le préviendra du danger qui le menace. Bien qu'il fût doué d'un sens très fin pour reconnaître la piste des Indiens et qu'instinctivement il redoutât ces sauvages, jamais ils ne parvenaient à l'etfrayer et à lui faire abandonner son maître avant qu'il n'eût sauté en selle. Sous ce rapport il avait les qualités d'un vrai chien de garde.</p>
@@ -1130,7 +1130,7 @@ corps principal et se porta en avant. Bill et ses hommes l'attaqua ; mais les In
 <p>Qu'on juge de leur surprise en voyont Cody charger le troupeau tout seul et sans le secours de personne, tuer quarante-huit bisons en trente minutes. Il s'attira ainsi leur admiration et gagna leur constante amitié qui lui fut si souvent utile dans la suite.</p>
 </div2>
 
-<pb facs="wfc.mem00288.028"/> <fw>-27-</fw>
+<pb facs="wfc.mem00288.028"/> <fw>—27—</fw>
 
 <div2 xml:id="wfc.mem00288.fr.royal" corresp="wfc.mem00288.en.royal">
 
@@ -1169,7 +1169,7 @@ corps principal et se porta en avant. Bill et ses hommes l'attaqua ; mais les In
 <p>C'est afin de permettre à ceux qui ne connaissent pas la rude vie de la frontière, où la carabine joue un rôle si important, d'être témoin de l'adresse des hommes de l'Ouest, que M. Cody et Cie ont résolu d'introduire dans leurs « peintures réalistes de la vie de l'Ouest» une série d'expériences de tir. On verra la façon de chasser le bison, les chevaux admirablement dressés qui participent à cette chasse si mouvementée, la chasse de l'élan, les ruses des Indiens pour capturer ces animaux si rapides, et tout cela représenté avec une exactitude et une mise en scène comme on n'en a jamais encore vu en Europe.</p>
 </div2>
 
- <pb facs="wfc.mem00288.030"/> <fw>-29-</fw>
+ <pb facs="wfc.mem00288.030"/> <fw>—29—</fw>
 
 <div2 xml:id="wfc.mem00288.fr.buffalo" corresp="wfc.mem00288.en.buffalo">
 <head>LE BUFFALO (BUFFLE)</head>
@@ -1232,7 +1232,7 @@ corps principal et se porta en avant. Bill et ses hommes l'attaqua ; mais les In
 
 <p>« Cody, je viens d'ordonner au cinquième cavalerie de marcher contre la tribu des « Dog Soldiers » (soldats chiens), qui actuellement terrorisent le district du fleuve le Républican, et comme celle campagne sera
 
-<pb facs="wfc.mem00288.032"/> <fw>-31-</fw> 
+<pb facs="wfc.mem00288.032"/> <fw>—31—</fw> 
 
 très importante et que j'ai besoin d'un homme de premier ordre pour accompagner l'expédition, je vous ai nommé le guide, et en même temps Chefs des éclaireaurs du commandement.</p>
 </div2>
@@ -1316,7 +1316,7 @@ colonel Travis; son grand'père et son oncle furent tués dans l'affaire de l'Al
 
 <div2 xml:id="wfc.mem00288.fr.london" corresp="wfc.mem00288.en.london">
 
-<figure><ab type="credit">P. FRENZENY</ab></figure>
+<figure n="drawing"><ab type="credit">P. FRENZENY</ab></figure>
 
 
 <head>LE WILD-WEST DE BUFFALO-BILL A LONDRES</head>
@@ -1656,7 +1656,9 @@ BALL ELECTRIC LIGHT Cie de New-York (U. S. A). On donne tous les renseignements 
 <p>ARIZONA JOHN (J. M. Burke), BRONCHO BILL (Interpréte), RED SHIRT (Chef Sioux), JULIA NELSON  (Femme Sioux).</p> </figure>
 
 </div2>
+<pb facs="wfc.mem00288.049"/>
 
+<note>[Back cover]</note>
 </div1>
 
 <div1 type="program" xml:lang="en">
@@ -1667,7 +1669,7 @@ BALL ELECTRIC LIGHT Cie de New-York (U. S. A). On donne tous les renseignements 
 <head>BUFFALO BILL'S WILD WEST</head>
 
 
-<figure><p>Yours truly<lb/>
+<figure n="drawing"><p>Yours truly<lb/>
 W. F. Cody<lb/>
 Buffalo Bill</p></figure>
 
@@ -1800,7 +1802,7 @@ North Platte, Neb.</signed></closer>
 <p>Colonel W. Cody was born in Scott County, Iowa, from whence his father, <persName xml:id="cody.i">Isaac Cody</persName>, emigrated a few years afterwards to the distant frontier territory of Kansas, settling near Fort Leavenworth. While still a boy his father was killed in what is now known as the "Border War," and his youth was passed amid all the excitements and turmoil incident to the strife and discord of that unsettled community, where the embers of political contentions smoldered until they burst into the burning flame of civil war. This state of affairs among the white occupants of the territory,  
 
 <pb facs="wfc.mem00288.004"/>
-<fw>- 3 -</fw>
+<fw>— 3 —</fw>
 
 
 and the ingrained ferocity and hostility to encroachment from the native savage, created an atmosphere of adventure well calculated to educate one of his natural temperament to a familiarity with danger and self-reliance in the protective means for its avoidance.</p>
@@ -1824,7 +1826,7 @@ and the ingrained ferocity and hostility to encroachment from the native savage,
 <p>Our best Indian-fighting officers are quick to recognize these traits in those claiming frontier lore, and to no-one in the military history of the West has such deference been shown by them than to W. F. Cody, as is witnessed by the continuous years of service he has passed, the different commands he has served, the expeditions and campaigns he has been identified with, his repeated holding, when he desired, the position of "Chief of Scouts of the United States Army," and the intimate associations and contact resulting from it with General W. T. Sherman (with whom he was at the making of the Comanche and Kiowa Treaty). General Phil. Sheridan (who has often given him special recognition and chosen him to organize expeditions, notable that of the Grand Duke <persName xml:id="aleksandrovich.a">Alexis</persName>), old General Harney, Generals W. S. Hancock, Crook, Pope, <persName xml:id="miles.n">Miles</persName>, Ord, Augur, Terry, MacKenzie, Carr, Forsythe, Merritt, Brisbin, Emory, Gibbon, Royall, Hazen, Duncan, Palmer, Pembroke, and the late lamented General Custer. His history, in fact, would be almost a history of the middle West, and, though younger, equaling in terms of service and in personal adventure 
 
  <pb facs="wfc.mem00288.005"/>
-<fw>- 4 -</fw>
+<fw>— 4 —</fw>
 
 
 Kit Carson, old Jim Bridger, California Joe, Wild Bill, and the rest of his dead and gone associates.</p>
@@ -1865,7 +1867,7 @@ Kit Carson, old Jim Bridger, California Joe, Wild Bill, and the rest of his dead
 <p>Captain George F. Price's history of this famous regiment recounts its experience from the time it was known as the Second Dragoons to the present, giving the historical record of its officers, among whom are numbered many of the most distinguished military leaders known in our national annals, such as General Albert Sidney Johnston, General George H. Thomas, General
 
 <pb facs="wfc.mem00288.006"/>
-<fw>- 5 -</fw>
+<fw>— 5 —</fw>
 
 
 Robert E. Lee, General John Sedgwick, Generals Hardee, Emory, Van Dorn, Merritt, Carr, Royall, Custer, and others of equal note.</p>
@@ -1897,7 +1899,7 @@ detachment of the regiment at Fort Hays, Kansas, and was engaged during the fall
 <p>"He was assigned to Fort McPherson when the expedition was disbanded, and served at that station 
  
 <pb facs="wfc.mem00288.007"/>
-<fw>- 6 -</fw>
+<fw>— 6 —</fw>
 
 
 (he was a justice of the peace in 1871) until the Fifth Cavalry was transferred to Arizona.</p>
@@ -1940,7 +1942,7 @@ detachment of the regiment at Fort Hays, Kansas, and was engaged during the fall
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.008"/>
-<fw>- 7 -</fw>
+<fw>— 7 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.pen" corresp="wfc.mem00288.fr.pen">
 <head>A PEN PICTURE</head>
@@ -1975,7 +1977,7 @@ detachment of the regiment at Fort Hays, Kansas, and was engaged during the fall
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.009"/>
-<fw>- 8 -</fw>
+<fw>— 8 —</fw>
 <div2 xml:id="wfc.mem00288.en.home" corresp="wfc.mem00288.fr.home">
 
 <figure n="drawing"/>
@@ -1998,7 +2000,7 @@ detachment of the regiment at Fort Hays, Kansas, and was engaged during the fall
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.010"/>
-<fw>- 9 -</fw>
+<fw>— 9 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.wildwest" corresp="wfc.mem00288.fr.wildwest">
 
@@ -2023,7 +2025,7 @@ detachment of the regiment at Fort Hays, Kansas, and was engaged during the fall
 <p>A man in the prime of life, who, from the age of ten years, has fought fate and all of adverse circumstances, and never to a loss. A man who is a man; as a scout; as a pioneer; as a Government officer; as an Indian fighter; as a mighty hunter; as a man of honor and of more than ordinary skill and courage; and as a great teacher of men, manners, and methods to the accomplishment of civilization, who has never been excelled, if equaled, in this country.</p>
  
 <pb facs="wfc.mem00288.011"/>
-<fw>- 10 -</fw>
+<fw>— 10 —</fw>
 
 
 <p>We see a man whose iron will, whose sociability, whose sense of right, whose ability to plan, whose power to execute, whose kindness to all, whose wonderful vitality, whose great animal magnetism, whose ability to profit by experience, whose wonderful command of men, and whose ability to draw the love and admiration of men, women, and children, make him as marvelous as he is deserving as a citizen, and a great character in American history.</p>
@@ -2082,7 +2084,7 @@ the cattle business in Montana, and is now part owner of one of the largest and 
 <p>When the Pony Express, the stage coach, and the wagon trains were supplanted by the steam-horse, Baker's station became useless, and "Old Lew" moved bag and baggage to North Platte, a little town of magical railroad growth. Here he built a fine house, which became the headquarters of
 
 <pb facs="wfc.mem00288.012"/>
-<fw>- 11 -</fw>
+<fw>— 11 —</fw>
 
 
 the "old-timers," and many a tender-foot can remember the thrilling incidents related of "life on the trail"&#8212;a life that now belongs alone to history and to romance&#8212;while Old Lew dispensed hospitality like a prince. But the ways of city life, a too big heart, of which the "shiftless, genial affinities" and wastrels took due advantage, caused his former prosperity to be a remembrance only, and Johnnie to work manfully, for one of his age, to lend a helping hand. Perfectly at home in the saddle, he was never content unless with some cowboy outfit, or at Cody's (whose homestead, extensive horse and cattle ranches, are near), where his active spirit found congenial associations, until he became recognized as "Buffalo Bill's boy."</p>
@@ -2108,7 +2110,7 @@ the "old-timers," and many a tender-foot can remember the thrilling incidents re
 <p>A few years ago, I was deputized United States Agent, under Major North, to accompany a party of Pawnee and Ponca Indians. Although 'blanket Indians' (living wild), they have for a long time been friends of the Government, and have done excellent service under command of the justly-celebrated Major Frank North, whose famed Pawnee scouts have always been a terror to the Sioux nation. Owing to their hatred 
 
  <pb facs="wfc.mem00288.013"/>
-<fw>- 12 -</fw>
+<fw>— 12 —</fw>
 
 
 of each other, it is necessary to send an agent with them to prevent 'misunderstandings,' and also to settle disputes with the white hunters. As Major North was in poor health at that time, this delicate task fell to me.</p>
@@ -2142,7 +2144,7 @@ of each other, it is necessary to send an agent with them to prevent 'misunderst
 <p>In about two hours every pony was loaded, their packing being quite a study that would need a deserved and lengthy description. It was wonderful.</p>
 
 <pb facs="wfc.mem00288.014"/> 
-<fw>- 13 -</fw>
+<fw>— 13 —</fw>
 
 
 <p>As I had walked a great deal, I proposed to return on horseback, and for that I chose the shorter way to reach the camp. Every pony was packed down only mine, seeing which "Peter's papoose" ('the sun chief') invited himself up behind. Talk of gall&#8212;an Indian has got more cheek than a Government mule. He laughed at my objections, but as he had loaned me the pony I had to submit. He even directed the gait, and kept up a continual jabbering of 'Wisgoots, ugh! De goinartsonse stak-ees, ugh!' which I afterward learned meant "Hurry up; I am tired, hungry, and dry&#8212;how!"</p>
@@ -2165,7 +2167,7 @@ of each other, it is necessary to send an agent with them to prevent 'misunderst
 <p>Among the most stirring episodes in the life of the Western pioneer are those connected with the opening of new lines of travel, for it is here, among the trails and canyons, where lurk the desperadoes of both races, that he is brought face to face with danger in its deadliest forms. No better illustration of this fact is furnished than in the history of the famous <hi rend="italic">Deadwood coach</hi>, the scarred and weather-beaten veteran of the original "star route" line of stages, established at a time when it was worth a man's life to sit on its box and journey from one end of its destination to the other. The accompanying picture affords an idea of the old relic, and it is because of its many associations with his own 
 
  <pb facs="wfc.mem00288.015"/>
-<fw>- 14 -</fw>
+<fw>— 14 —</fw>
 
 
 life that it has been purchased by Buffalo Bill and added to the attractions of his "GREAT REALISTIC EXHIBITION OF WESTERN NOVELTIES."</p>
@@ -2193,7 +2195,7 @@ life that it has been purchased by Buffalo Bill and added to the attractions of 
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.016"/>
-<fw>- 15 -</fw>
+<fw>— 15 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.cowboys" corresp="wfc.mem00288.fr.cowboys">
 <head>THE COW-BOYS</head>
@@ -2219,7 +2221,7 @@ life that it has been purchased by Buffalo Bill and added to the attractions of 
 <p>Now, "cow sense" in Texas implies a thorough knowledge of the business, and a natural instinct to divine every thought, trick, intention, want, habit, or desire of his drove, under any and all circumstances. A man might be 
 
  <pb facs="wfc.mem00288.017"/>
-<fw>- 16 -</fw>
+<fw>— 16 —</fw>
 
 
 brought up in the States swinging to a cow's tail, yet, taken to Texas, would be as useless as a last year's bird's nest with the bottom punched out. The boys grow old soon, and the old cattle-men seem to grow young; thus it is that the name is applied to all who follow the trade.</p>
@@ -2237,7 +2239,7 @@ and off, under and over, heads and tails, hand springs, triple somersaults, stan
 <p>As the general trade on the range has often been described, I'll simply refer to a few incidents of a trip over the plains to the cattle markets of the North, through the wild and unsettled portions of the Territories, varying in distance from six to eight hundred leagues &#8212; time, three to six months &#8212; extending through the Indian Territory and Kansas to Nebraska, Colorado, Dakota, Montana, Idaho, Nevada, and sometimes as far as California. Immense herds, as high as thirty thousand or more in number, are moved by single owners, but are driven in bands of one to three thousand, which, when under way, are designated "herds." Each of these have from ten to fifteen men, with a wagon driver and cook, and the "king pin of the outfit," the boss, with a supply of two or three ponies to a man, an ox team, and blankets; also jerked beef &#8212; <hi rend="italic">pemmican</hi> &#8212; and corn meal &amp; #8212; the staple food. They are also furnished with mavericks or "doubtless-owned" yearlings for the fresh meat supply. After getting fully under way, and the cattle broke in, from sixteen to twenty-four kilometers a day is the average, and everything is plain sailing, in fair weather. As night comes on, the cattle are rounded up in a small compass, and held until they lie down, when two 
 
 <pb facs="wfc.mem00288.018"/>
-<fw>- 17 -</fw>
+<fw>— 17 —</fw>
  
 
 men are left on watch, riding round and round them in opposite directions, singing or whistling all the time, for two hours, that being the length of each watch. This singing is absolutely necessary, as it seems to soothe the fears of the cattle, scares away the wolves or other varmints that may be prowling around, and prevents them from hearing any other accidental sound, or dreaming of their old homes, and if stopped, would in all probability, be the signal for a general stampede. Sometimes the cowboy may be something of a poet, passing his leisure hours in composing ditties of his own, the lines of which, though perhaps falling short of elegiac perfection, are never lacking in boldness and lyricism.</p>
@@ -2267,7 +2269,7 @@ Mixing with other herds and cutting them out, again avoiding too much water at t
 <p>"For fidelity to duty, for promptness and vigor of action, for resources in difficulty and unshaken courage in danger, the cowboy has no superior among men." <persName xml:id="taylor.w">Buck Taylor</persName>, Tom 
 
 <pb facs="wfc.mem00288.019"/>
-<fw>- 18 -</fw>
+<fw>— 18 —</fw>
 
 
 Jebb, Ohny Baker, Gim Mitchell, Green Holland, Claib Young, George Williams, Tom Moore, <persName xml:id="hammitt.f">Frank Hammet</persName>, Tol Hammet, Bob Chandler, Hec Quinn, Tony Gross, Comanche Gim, <persName xml:id="esquivel.a">Tony Esquival</persName>, are fit representatives of the tip-top men of their class.</p>
@@ -2312,7 +2314,7 @@ Jebb, Ohny Baker, Gim Mitchell, Green Holland, Claib Young, George Williams, Tom
 <p>"Old Buckskin Joe" was one of his early favorites, who, by long service in army scouting, 
  
 <pb facs="wfc.mem00288.020"/>
-<fw>- 19 -</fw>
+<fw>— 19 —</fw>
 
 
 became quite an adept, and seemed to have a perfect knowledge of the duties required of him. For this reason, when ordered to find and report the location of the savages in their strongholds, at times hundreds of kilometers away over a lonely country, infested by scouting parties of hostiles liable at any instant to pounce upon one, Old Buckskin was always selected by Cody to accompany him on the trail when the work was dangerous. Mounted on another horse, he would let Buckskin follow untrammeled, even by a halter, so as to reserve him fresh in case of discovery and the terrible necessity of "a ride for life."</p>
@@ -2339,13 +2341,13 @@ headwaters of the Republican River to Fort McPherson, a distance of 318 kilomete
 <p>Charlie is seventeen years old, was broken in by Mr. Cody, and has never been ridden by anyone else (except Miss Arta Cody, an accomplished horsewoman), and for many years has been the participant of all his master's skirmishes, expeditions, long rides, and hunts; has been ridden over all kinds 
 
 <pb facs="wfc.mem00288.021"/>
-<fw>- 20 -</fw>
+<fw>— 20 —</fw>
 
 
 of rough country, prairie-dog towns, mountain and plain, had never stumbled or fallen, being beyond a doubt one of the surest-footed animals man ever rode, and for endurance is a second "Buckskin Joe," if not better&#8212;on one occasion, in an emergency, having carried his master over a prairie road one hundred and sixty kilometers in nine hours and forty-five minutes, rider and trappings weighing one hundred and ten kilograms. "Old Charlie's" great point is his wonderful intelligence, which causes him to act in a manner as to almost lay claim in his conduct to judiciousness. </p>
 
 
-<figure><p>Buffalo Bill and "Old Charlie"</p>
+<figure n="drawing"><p>Buffalo Bill and "Old Charlie"</p>
 <ab type="credit"><persName>P. Frenzeny</persName></ab></figure>
 
 <p>In the most lonely or unattractive place or in one the most seductive to equine rambles, when his master removes saddle and bridle, he can trust Charlie to stay where he is left, wrap himself in a blanket, take the saddle for a pillow, go to sleep contented, knowing his faithful steed will be close to hand, or, after browsing fully, will come and lie close beside him, sink into slumber, with ear at tension, one eye open, and at the slightest disturbance arouse him to meet the threatened danger. All the Indians in the country, keen as he is to scent them, intuitively as he dreaded them, could not make him leave or stampede him until his owner is mounted, challenging in this respect the instincts of the highest class of watch-dog.</p>
@@ -2369,7 +2371,7 @@ WASHINGTON, August 10th, 1886.</dateline></opener>
 5th Avenue Hotel, New York, June 29th, 1887.</closer></div3>
 
 <pb facs="wfc.mem00288.022"/>
-<fw>- 21 - </fw>
+<fw>— 21 —</fw>
 
 
 <div3><note>[COPY.]</note>
@@ -2480,7 +2482,7 @@ Dear Sir,</salute></opener>
 Brigadier-General, U.S. Army.</signed></closer> </div3>
 
 <pb facs="wfc.mem00288.023"/>
-<fw>- 22 -</fw>
+<fw>— 22 —</fw>
 
 <div3>
 <opener>IT'S THE KING OF THE SCOUTS.
@@ -2584,7 +2586,7 @@ My Dear Sir,</salute></opener>
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.024"/>
-<fw>- 23 -</fw>
+<fw>— 23 —</fw>
 
 <div3>
 <opener>TALLAHASSEE, Florida, January 12, 1887.</opener>
@@ -2623,7 +2625,7 @@ game &#8212; chicken, jack-rabbit, antelope, deer, buffalo, bear, or elk; at the
 <p>"After a very long march, full of hardships and sufferings, General Primrose's camp was found on the Paludora in a most distracted condition. General Carr's arrival was none too soon, as the famished men were sustaining life on the last carcasses of their draught animals. In a few weeks Black Kettle's depredations necessitated a pursuit. The consolidated command discovered the Indians on the 
 
  <pb facs="wfc.mem00288.025"/>
-<fw>- 24 -</fw>
+<fw>— 24 —</fw>
 
 
 Cimarron River, and a terrific battle ensued. In this fight Buffalo Bill and Wild Bill did almost the work of a regiment; braver men never went into an action, both fighting as though they were invulnerable.</p>
@@ -2651,7 +2653,7 @@ Cimarron River, and a terrific battle ensued. In this fight Buffalo Bill and Wil
 <p>On July 17th the command reached the creek, and Buffalo Bill was sent out to discover if the Cheyennes had yet effected a crossing, but finding no trail he continued scouting for some distance, and was rewarded by seeing a large body of Indians approaching from the South.</p>
  
 <pb facs="wfc.mem00288.026"/>
-<fw>- 25 -</fw>
+<fw>— 25 —</fw>
 
 
 <p>Bill rode rapidly back to camp to acquaint General Merritt of his discovery, whereupon the cavalry was ordered to mount and hold themselves in readiness, while Bill and the General should ride out on a tour of observation.</p>
@@ -2671,7 +2673,7 @@ the advisability of waiting until the couriers should come near the command, whe
 <p>After stopping for a few moments the Indians renewed their march, thinking they were opposed by a small body that would offer no particular resistance. Another advance party of Indians was sent out from 
  
 <pb facs="wfc.mem00288.027"/>
-<fw>- 26 -</fw>
+<fw>— 26 —</fw>
 
 
 the main body, and as they approached near, Bill and his men charged them; but the Indians, seeing their numbers were superior, made a stand, and a lively fight ensued.</p>
@@ -2715,7 +2717,7 @@ the main body, and as they approached near, Bill and his men charged them; but t
 
 <pb facs="wfc.mem00288.028"/>
 
-<fw>- 27 -</fw>
+<fw>— 27 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.royal" corresp="wfc.mem00288.fr.royal">
 
@@ -2737,7 +2739,7 @@ the main body, and as they approached near, Bill and his men charged them; but t
 </div2>
 
 <pb facs="wfc.mem00288.029"/>
-<fw>- 28 -</fw>
+<fw>— 28 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.rifle" corresp="wfc.mem00288.fr.rifle">
 <head>THE RIFLE AS AN AID TO CIVILIZATION</head>
@@ -2759,7 +2761,7 @@ greatest use and become a part of the person and the household of the venturesom
 </div2> 
 
 <pb facs="wfc.mem00288.030"/>
-<fw>- 29 -</fw>
+<fw>— 29 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.buffalo" corresp="wfc.mem00288.fr.buffalo">
 <head>THE BUFFALO</head>
@@ -2788,7 +2790,7 @@ greatest use and become a part of the person and the household of the venturesom
 <p>The profound darkness of the night afforded him some security from surprise, but his fears of riding into an Indian camp were realized when he reached Walnut Creek. A barking dog was the first intimation of his position, but this was speedily followed by several Indians pursuing him, being directed by the sounds of his horse's feet. By hard riding and good dodging, however, he eluded these, and meeting with no further mishap than being thrown over his horse's head by reason of the animal suddenly stepping into a gopher hole, he reached Fort Hays shortly after daylight and delivered the dispatches he carried before General Sheridan had arisen from bed.</p>
  
 <pb facs="wfc.mem00288.031"/>
-<fw>- 30 -</fw>
+<fw>— 30 —</fw>
 
 
 <p>After delivering the message Bill went over to Hays City, where he was well acquainted, and after taking some refreshments lay down and slept for two hours. Thinking then that General Sheridan might want to ask him some questions regarding the condition of affairs at Larned, he returned to the fort and reported to him. He was somewhat astonished to find that General Sheridan was as anxious to send a messenger to Fort Dodge, one hundred and fifty kilometers distant, as Captain Parker had been to communicate with his superior officer at Fort Hays, and more surprised was he to find that of the numerous couriers and scouts at the fort not one could be induced to carry the General's dispatch, though the sum of five hundred dollars (2,500 francs) was offered for the service. Seeing the quandary in which General Sheridan was placed, Bill addressed that official and said:</p>
@@ -2824,7 +2826,7 @@ greatest use and become a part of the person and the household of the venturesom
 <p>"Cody, I have ordered the Fifth Cavalry to proceed against the 'Dog Soldiers' who are now terrorizing the Republican River district, and as the campaign will be 
 
 <pb facs="wfc.mem00288.032"/>
-<fw>- 31 -</fw>
+<fw>— 31 —</fw>
 
 
 a very important one I want a first-class man to guide the expedition. I have therefore decided to appoint you guide and also <hi rend="italic">Chief of scouts of the command."</hi></p>
@@ -2853,7 +2855,7 @@ only stopping to get breath for a fresh start. This kind is recommended for the 
 </div2>
 <milestone unit="section"/>
 <pb facs="wfc.mem00288.033"/>
-<fw>- 32 -</fw>
+<fw>— 32 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.frontiersman" corresp="wfc.mem00288.fr.frontiersman">
 <head type="main">EVERY INCH A FRONTIERSMAN</head>
@@ -2885,7 +2887,7 @@ only stopping to get breath for a fresh start. This kind is recommended for the 
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.034"/>
-<fw>- 33 -</fw>
+<fw>— 33 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.taylor" corresp="wfc.mem00288.fr.taylor">
 <head type="main">BUCK TAYLOR</head>
@@ -2913,11 +2915,11 @@ Colonel Travis at the Alamo, where a grandfather and uncle fell &#8212; under Sa
 <milestone unit="section"/>
 
  <pb facs="wfc.mem00288.035"/>
-<fw>- 34 -</fw>
+<fw>— 34 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.london" corresp="wfc.mem00288.fr.london">
 
-<figure><ab type="credit">P. FRENZENY</ab></figure>
+<figure n="drawing"><ab type="credit">P. FRENZENY</ab></figure>
 
 
 <head>BUFFALO BILL'S WILD WEST IN LONDON</head>
@@ -2936,7 +2938,7 @@ Colonel Travis at the Alamo, where a grandfather and uncle fell &#8212; under Sa
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.036"/>
-<fw>- 35 -</fw>
+<fw>— 35 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.indianshome" corresp="wfc.mem00288.fr.indianshome">
 <head>THE INDIANS AT HOME</head>
@@ -2964,7 +2966,7 @@ Colonel Travis at the Alamo, where a grandfather and uncle fell &#8212; under Sa
 <p>The insufficiency and uncertainty of human happiness has been the theme of eloquent writers throughout the ages. Every man's happiness is lodged in his own nature, and is, to a certain extent at least, independent of his external circumstances and surroundings. These primitive people demonstrate the general correctness of this theory, for they are habitually and universally happy people. They thoroughly enjoy the present, make no worry over the possibilities of the future, and "never cry over spilt milk." It may be argued that their apparent happiness is only insensibility, the happiness of the mere animal whose animal desires are satisfied. It may be so. I simply state facts, others may draw conclusions. The Indian is proud, sensitive, quick-tempered, easily wounded, easily excited, but though utterly unforgiving he never broods. This is the whole secret of his happiness.</p>
 
 <pb facs="wfc.mem00288.037"/>
-<fw>- 36 -</fw>
+<fw>— 36 —</fw>
 
 
 <p>In spite of the fact that the wives are mere property, the domestic life of the Indian may bear comparison with that of average civilized communities. The husband, as a rule, is kind, ruling firmly but with no harshness. The wives are generally faithful, obedient and industrious. The children are spoiled and a nuisance to all red visitors. Fortunately, the white man, the "bug-a-boo" of their baby days, is yet such an object of terror as to keep them at a respectful distance. Among themselves, the members of the family are perfectly easy and unrestrained. It is extremely rare that there is any quarrelling among the women.</p>
@@ -3002,7 +3004,7 @@ Colonel Travis at the Alamo, where a grandfather and uncle fell &#8212; under Sa
 <p>The skins are spread, flesh-side upward, on a level piece of ground, small slits are cut in the edges of each skin, and it is tightly stretched and fastened down by wooden pegs driven through 
 
  <pb facs="wfc.mem00288.038"/>
-<fw>- 37 -</fw>
+<fw>— 37 —</fw>
 
 
 the slits into the ground. The meat is cut into thin flakes and placed upon poles or scaffolds to dry in the sun.</p>
@@ -3040,7 +3042,7 @@ the slits into the ground. The meat is cut into thin flakes and placed upon pole
 <p>But the buffalo is gone, so also nearly all the other large game on which the Indians 
 
  <pb facs="wfc.mem00288.039"/>
-<fw>- 38 -</fw>
+<fw>— 38 —</fw>
 
 
 depended for food. They are confined to comparatively restricted reservations, and completely surrounded by whites. They are more perfectly aware of the stringency of their situation than any white man can possibly be, for they are sensible, every day, of its pressure.</p>
@@ -3074,7 +3076,7 @@ depended for food. They are confined to comparatively restricted reservations, a
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.040"/>
-<fw>- 39 -</fw>
+<fw>— 39 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.oakley" corresp="wfc.mem00288.fr.oakley">
 <head type="main">MISS ANNIE OAKLEY</head>
@@ -3100,7 +3102,7 @@ depended for food. They are confined to comparatively restricted reservations, a
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.041"/>
-<fw>- 40 -</fw>
+<fw>— 40 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.beaver" corresp="wfc.mem00288.fr.beaver">
 <head type="main">WHITE BEAVER</head>
@@ -3139,13 +3141,13 @@ depended for food. They are confined to comparatively restricted reservations, a
 <p>Ohio is the Shawnee name for "The beautiful river."</p>
 
 <pb facs="wfc.mem00288.042"/> 
-<fw>- 41 -</fw>
+<fw>— 41 —</fw>
 
 <figure n="drawing"><p>Horse racing by Indian boys.</p>
 <ab type="credit">P. Frenzeny</ab></figure>
 
 <pb facs="wfc.mem00288.043"/> 
-<fw>- 42 -</fw>
+<fw>— 42 —</fw>
 
 
 <p>Michigan's name was derived from the lake, the Indian name for fish-weir or trap, which the shape of the lake suggested.</p>
@@ -3198,7 +3200,7 @@ depended for food. They are confined to comparatively restricted reservations, a
 <p>This superstition is the occasion for the display of the most heroic traits of Indian 
 
 <pb facs="wfc.mem00288.044"/> 
-<fw>- 43 -</fw>
+<fw>— 43 —</fw>
 
 
 <figure n="drawing"/>
@@ -3210,7 +3212,7 @@ character. Reckless charges are made and desperate chances taken to carry off un
 <figure n="drawing"><ab type="credit">J. E. Taylor</ab></figure>
 
 <pb facs="wfc.mem00288.045"/> 
-<fw>- 44 -</fw>
+<fw>— 44 —</fw>
 
 
 as Achilles for his efforts to save the body of his friend, and no Christian missionary ever evinced a more noble indifference to danger, than the savage Indian displays in his efforts to save his friend's soul and ensure him a transit to the "Happy Hunting Grounds."</p>
@@ -3248,7 +3250,7 @@ All information concerning these systems is to be given to the central administr
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.046"/>
-<fw>- 45 -</fw>
+<fw>— 45 —</fw>
 <div2 xml:id="wfc.mem00288.en.nelson" corresp="wfc.mem00288.fr.nelson">
 
 <figure n="photograph"/>
@@ -3263,7 +3265,7 @@ All information concerning these systems is to be given to the central administr
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.047"/>
-<fw>- 46 -</fw>
+<fw>— 46 —</fw>
 <div2 xml:id="wfc.mem00288.en.texas" corresp="wfc.mem00288.fr.texas">
 
 <head>IMMENSE EXTENT OF ONLY ONE STATE &#8212; TEXAS</head>
@@ -3280,7 +3282,7 @@ All information concerning these systems is to be given to the central administr
 <milestone unit="section"/>
 
 <pb facs="wfc.mem00288.048"/>
-<fw>- 47 -</fw>
+<fw>— 47 —</fw>
 
 <div2 xml:id="wfc.mem00288.en.burkephoto" corresp="wfc.mem00288.fr.burkephoto">
 
@@ -3289,7 +3291,9 @@ All information concerning these systems is to be given to the central administr
 
 </div2>
 
+<pb facs="wfc.mem00288.049"/>
 
+<note>[Back cover]</note>
 
 </div1>
 </body>

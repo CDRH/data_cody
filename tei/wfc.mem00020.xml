@@ -50,7 +50,7 @@
 <bibl>
 <title level="m" type="main" xml:lang="en">1889 Buffalo Bill's Wild West program in French (48-page)</title>
 <respStmt><resp>Artists/Illustrators</resp>
-<name>Frenzeny,Paul</name>
+<name>Frenzeny, Paul</name>
 <name>Taylor, J. E.</name>
 <name>Williams</name>
 </respStmt>
@@ -182,7 +182,7 @@
 
 <head>Buffalo Bill's Wild West</head>
 
-<figure><p>Your Truly<lb/>
+<figure n="drawing"><p>Your Truly<lb/>
 W.F. Cody<lb/>
 Buffalo Bill</p></figure>
 </div2>
@@ -798,7 +798,7 @@ qui lui donnèrent la chasse depuis la source du fleuve Républican jusqu'au For
 
 de pays accidenté, allant par monts et par mer à travers tous les obstacles sans jamais broncher ni tomber. C'est certainement un cheval merveilleux pour la sûreté de son pied, un second « Buckskin Joe » pour sa force et sa résistance à la fatigue. Nous avons vu que, dans une occasion critique, il avait porté son maître pendant neuf heures et quarante cinq minutes sur un parcours de cent-soixante kilomètres. Le cavalier, ses armes et son accoutrement ne pesaient pas moins de cent dix kilog. Ce qui caractérise le plus le « Vieux Charlie » c'est son intelligence extraordinaire qui le fait agir de façon à faire croire qu'il a le don du raisonnement.</p>
 
-<figure><p>Buffalo Bill et « Vieux Ciiarlie »</p>
+<figure n="drawing"><p>Buffalo Bill et « Vieux Ciiarlie »</p>
 <ab type="credit"><persName>P. Frenzeny</persName></ab></figure>
 
 <p>Dans les lieux les plus solitaires et les plus arides, comme dans les endroits les plus séduisants pour un cheval, quand son maître le débarrasse de la selle et de la bride, il peut en toute sûreté se fier à son cheval qui ne quitte jamais l'endroit où l'on s'arrête. Aussi s'enveloppant. de sa couverture et prenant la selle pour oreiller, il s'endort tranquillement sachant bien que son fidele compagnon est tout prés, et qu'après avoir suffisamment brouté, il viendra se coucher auprès de lui, et s'endormir l'oreille tendue, et qu à la moindre alerte, il réveillera son maître et le préviendra du danger qui le menace. Bien qu'il fût doué d'un sens très fin pour reconnaître la piste des Indiens et qu'instinctivement il redoutât ces sauvages, jamais ils ne parvenaient à l'etfrayer et à lui faire abandonner son maître avant qu'il n'eût sauté en selle. Sous ce rapport il avait les qualités d'un vrai chien de garde.</p>
@@ -1312,7 +1312,7 @@ colonel Travis; son grand'père et son oncle furent tués dans l'affaire de l'Al
 
 <div2 xml:id="wfc.mem00020.fr.london" corresp="wfc.mem00020.en.london">
 
-<figure><ab type="credit">P. FRENZENY</ab></figure>
+<figure n="drawing"><ab type="credit">P. FRENZENY</ab></figure>
 
 
 <head>LE WILD-WEST DE BUFFALO-BILL A LONDRES</head>
@@ -1658,7 +1658,9 @@ BALL ELECTRIC LIGHT Cie de New-York (U. S. A). On donne tous les renseignements 
 <p>ARIZONA JOHN (J. M. Burke), BRONCHO BILL (Interpréte), RED SHIRT (Chef Sioux), JULIA NELSON  (Femme Sioux).</p> </figure>
 
 </div2>
+<pb facs="wfc.mem00020.049"/>
 
+<note>[Back cover]</note>
 
 </div1>
 
@@ -1670,7 +1672,7 @@ BALL ELECTRIC LIGHT Cie de New-York (U. S. A). On donne tous les renseignements 
 <head>BUFFALO BILL'S WILD WEST</head>
 
 
-<figure><p>Yours truly<lb/>
+<figure n="drawing"><p>Yours truly<lb/>
 W. F. Cody<lb/>
 Buffalo Bill</p></figure>
 
@@ -2348,7 +2350,7 @@ headwaters of the Republican River to Fort McPherson, a distance of 318 kilomete
 of rough country, prairie-dog towns, mountain and plain, had never stumbled or fallen, being beyond a doubt one of the surest-footed animals man ever rode, and for endurance is a second "Buckskin Joe," if not better&#8212;on one occasion, in an emergency, having carried his master over a prairie road one hundred and sixty kilometers in nine hours and forty-five minutes, rider and trappings weighing one hundred and ten kilograms. "Old Charlie's" great point is his wonderful intelligence, which causes him to act in a manner as to almost lay claim in his conduct to judiciousness. </p>
 
 
-<figure><p>Buffalo Bill and "Old Charlie"</p>
+<figure n="drawing"><p>Buffalo Bill and "Old Charlie"</p>
 <ab type="credit"><persName>P. Frenzeny</persName></ab></figure>
 
 <p>In the most lonely or unattractive place or in one the most seductive to equine rambles, when his master removes saddle and bridle, he can trust Charlie to stay where he is left, wrap himself in a blanket, take the saddle for a pillow, go to sleep contented, knowing his faithful steed will be close to hand, or, after browsing fully, will come and lie close beside him, sink into slumber, with ear at tension, one eye open, and at the slightest disturbance arouse him to meet the threatened danger. All the Indians in the country, keen as he is to scent them, intuitively as he dreaded them, could not make him leave or stampede him until his owner is mounted, challenging in this respect the instincts of the highest class of watch-dog.</p>
@@ -2918,7 +2920,7 @@ Colonel Travis at the Alamo, where a grandfather and uncle fell &#8212; under Sa
 
 <div2 xml:id="wfc.mem00020.en.london" corresp="wfc.mem00020.fr.london">
 
-<figure><ab type="credit">P. FRENZENY</ab></figure>
+<figure n="drawing"><ab type="credit">P. FRENZENY</ab></figure>
 
 
 <head>BUFFALO BILL'S WILD WEST IN LONDON</head>
@@ -3294,7 +3296,9 @@ All information concerning these systems is to be given to the central administr
 
 </div2>
 
+<pb facs="wfc.mem00020.049"/>
 
+<note>[Back cover]</note>
 
 </div1>
 </body>
