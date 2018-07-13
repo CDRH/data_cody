@@ -283,7 +283,7 @@ AMERICA'S NATIONAL ENTERTAINMENT.</head>
 <milestone unit="part" />
 
 <div3><head type="sub">SIXTH  EPISODE.</head>
-<p>The Military Post on the Frontier. Scene 1st: Stockade&#8212;A Scout arrives announcing the discovery of a village of hostile Indians&#8212;"Boots and Saddles"&#8212;Departure of the Troops. Scene 2nd: The Camp of Sitting Bull and his Warriors, on the Little Big Horn River&#8212;The Attack&#8212;The Charge&#8212;The Ambush&#8212; The Fall of brave General Custer and his entire command, not one living to tell the tale.  The reddest page of savage history was written in THE CUSTER MASSACRE</p> </div3>
+<p>The Military Post on the Frontier. Scene 1st: Stockade&#8212;A Scout arrives announcing the discovery of a village of hostile Indians&#8212;"Boots and Saddles"&#8212;Departure of the Troops. Scene 2nd: The Camp of Sitting Bull and his Warriors, on the Little Big Horn River&#8212;The Attack&#8212;The Charge&#8212;The Ambush&#8212; The Fall of brave General <persName xml:id="custer.g">Custer</persName> and his entire command, not one living to tell the tale.  The reddest page of savage history was written in THE CUSTER MASSACRE</p> </div3>
 
 <milestone unit="part" />
 
@@ -312,7 +312,7 @@ AMERICA'S NATIONAL ENTERTAINMENT.</head>
 ADJUTANT-GENERAL'S OFFICE.<lb/>
 WASHINGTON, August 10th, 1886.</dateline>
 <salute>To Whom it may concern&#8212;</salute></opener>
-<p>Mr. WILLIAM F. CODY was employed as chief of scouts under Generals Sheridan, Custer, Crook, Miles, Carr, and others, in their campaigns against hostile Indians on our frontier, and as such rendered very valuable and distinguished service.</p>
+<p>Mr. WILLIAM F. CODY was employed as chief of scouts under Generals Sheridan, Custer, <persName xml:id="crook.g">Crook</persName>, Miles, Carr, and others, in their campaigns against hostile Indians on our frontier, and as such rendered very valuable and distinguished service.</p>
 <closer><signed>S. W. DRUM,<lb/>
 Adjutant-General.</signed></closer></div3>
 

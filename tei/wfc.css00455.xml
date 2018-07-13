@@ -154,20 +154,20 @@ Oct 6<ref target="n01">1</ref></dateline>
 <item>Grant</item>
 <item>Sherman</item>
 <item>Sheridan</item>
-<item>Custer</item>
+<item><persName xml:id="custer.g">Custer</persName></item>
 <item><persName xml:id="miles.n">Miles</persName></item>
 <item>Carr</item>
 <item>Merritt</item>
-<item>Crook</item>
+<item><persName xml:id="crook.g">Crook</persName></item>
 <item>Guss <hi rend="underline">an uncle of mine</hi><ref target="n04">4</ref></item>
 <item>Terry</item>
 <item>Royal</item>
-<item>Emory</item>
-<item>Gibbon</item>
-<item>Augur</item>
+<item><persName xml:id="emory.w">Emory</persName></item>
+<item><persName xml:id="gibbon.j">Gibbon</persName></item>
+<item><persName xml:id="augur.c">Augur</persName></item>
 <item>Sumner</item>
-<item>Harney</item>
-<item>Forsyth</item>
+<item><persName xml:id="harney.w">Harney</persName></item>
+<item><persName xml:id="forsyth.g">Forsyth</persName></item>
 <item>Stanton. our old Paymaster must name one after him.</item>
 </list>
 

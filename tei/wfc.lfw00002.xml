@@ -35,7 +35,7 @@
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
 <idno type="module"></idno>
-<idno type="project">wfc.wfc.lfw.00002</idno>
+<idno type="project">wfc.lfw.00002</idno>
 <availability>
 <p></p>
 </availability>
@@ -112,7 +112,7 @@
 
 <byline>Written by Adolph Roenigk</byline>
 
-<p>In the year 1867 I was working for the Government at Fort Harker, here I knew personnally some of the prominent Military men and noted Scouts of those times, like General Custer, Wild Bill, Buffalo Bill and others.</p>
+<p>In the year 1867 I was working for the Government at Fort Harker, here I knew personnally some of the prominent Military men and noted Scouts of those times, like General <persName xml:id="custer.g">Custer</persName>, Wild Bill, Buffalo Bill and others.</p>
 
 <p>Here I made the acquaintaince of Lon Schermerhorn Chief clerk of the Sutler whose name was Osborne.</p>
 
