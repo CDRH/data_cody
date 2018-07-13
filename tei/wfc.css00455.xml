@@ -157,7 +157,7 @@ Oct 6<ref target="n01">1</ref></dateline>
 <item><persName xml:id="custer.g">Custer</persName></item>
 <item><persName xml:id="miles.n">Miles</persName></item>
 <item>Carr</item>
-<item>Merritt</item>
+<item><persName xml:id="merritt.w">Merritt</persName></item>
 <item><persName xml:id="crook.g">Crook</persName></item>
 <item>Guss <hi rend="underline">an uncle of mine</hi><ref target="n04">4</ref></item>
 <item>Terry</item>
