@@ -152,16 +152,16 @@ Oct 6<ref target="n01">1</ref></dateline>
 
 <list>
 <item>Grant</item>
-<item>Sherman</item>
-<item>Sheridan</item>
+<item><persName xml:id="sherman.w">Sherman</persName></item>
+<item><persName xml:id="sheridan.p">Sheridan</persName></item>
 <item><persName xml:id="custer.g">Custer</persName></item>
 <item><persName xml:id="miles.n">Miles</persName></item>
-<item>Carr</item>
+<item><persName xml:id="carr.e">Carr</persName></item>
 <item><persName xml:id="merritt.w">Merritt</persName></item>
 <item><persName xml:id="crook.g">Crook</persName></item>
 <item>Guss <hi rend="underline">an uncle of mine</hi><ref target="n04">4</ref></item>
-<item>Terry</item>
-<item>Royal</item>
+<item><persName xml:id="terry.a">Terry</persName></item>
+<item><persName xml:id="royall.w">Royal</persName></item>
 <item><persName xml:id="emory.w">Emory</persName></item>
 <item><persName xml:id="gibbon.j">Gibbon</persName></item>
 <item><persName xml:id="augur.c">Augur</persName></item>

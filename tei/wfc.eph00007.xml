@@ -152,7 +152,7 @@ Circulation, 500,000.
 <figure n="illustration">
 <ab type="credit">Copyright 1899 By The Courier Co. Buffalo, N.Y.</ab>
 <p>The Historic Rough Riders of the Sixties.<lb/>
-Lieutenant-General Philip H. Sheridan. Colonel W. F. Cody, (Buffalo Bill.) General George A. Custer.</p>
+Lieutenant-General <persName xml:id="sheridan.p">Philip H. Sheridan</persName>. Colonel W. F. Cody, (Buffalo Bill.) General George A. Custer.</p>
 </figure>
 
 <note>Buffalo Bill's Wild West will exhibit at New Bedford, Tuesday, June 20.</note>
@@ -838,7 +838,7 @@ radiance, stimulating and healthful. Fogs and gloomy spells of weather are unkno
 
 <p>When General Sherman first saw "Buffalo Bill's Wild West," as compared with its present scope and size, it was but an incomplete production, and yet even then the grim old warrior, turning to his trusted scout with tears in his eyes, said: "<hi rend="italic">Billy, for my children and grandchildren, who can never see these things as we saw them, I thank you</hi>."</p>
 
-<p>Now, frankly, does not General Sherman's remark apply equally as well to you, and to every child and grandchild in the land? Ought not you and they to see, study and enjoy this one, unique and only exhibition of National and International dignity and character? This may be your last chance to visit it and <unclear reason="fold" /> may bring you regret and disappointment, for nothing to replace it will ever come to you. The circus and theatre you will always have with you, but no other Real Wild West, and, in all probability, never that again.</p>
+<p>Now, frankly, does not General <persName xml:id="sherman.w">Sherman's</persName> remark apply equally as well to you, and to every child and grandchild in the land? Ought not you and they to see, study and enjoy this one, unique and only exhibition of National and International dignity and character? This may be your last chance to visit it and <unclear reason="fold" /> may bring you regret and disappointment, for nothing to replace it will ever come to you. The circus and theatre you will always have with you, but no other Real Wild West, and, in all probability, never that again.</p>
 
 
 <figure n="illustration">

@@ -852,8 +852,8 @@ guerrilla warfare of the Southwest, left him at
 its finish well known as an all-around frontiersman, competent to advise, to guide and to lead. 
 These qualities soon brought him to the attention 
 of such distinguished commanders as General W. 
-T. Sherman, Lieutenant-General Phil Sheridan, 
-Generals <persName xml:id="crook.g">Crook</persName>, Custer, <persName xml:id="merritt.w">Merritt</persName>, Carr, Royal, 
+T. Sherman, Lieutenant-General <persName xml:id="sheridan.p">Phil Sheridan</persName>, 
+Generals <persName xml:id="crook.g">Crook</persName>, Custer, <persName xml:id="merritt.w">Merritt</persName>, <persName xml:id="carr.e">Carr</persName>, <persName xml:id="royall.w">Royal</persName>, 
 Miles, Dodge and others, and achieved for him 
 the position of chief of scouts. His career in 
 this line identified him with the great fighting 
@@ -2305,7 +2305,7 @@ a house and cabin in the land where once you
 guided me honestly and faithfully, in 1865-6, 
 from Fort Riley to Kearny, in Kansas and Nebraska. Sincerely your friend,</p>
 
-<closer><signed>"W. T. Sherman."</signed></closer>
+<closer><signed>"<persName xml:id="sherman.w">W. T. Sherman</persName>."</signed></closer>
 </body>
 </floatingText>
 </div1>
@@ -5652,8 +5652,8 @@ many of their rifles outranged the army carbine.</p>
 
 <p>General Sheridan, in view of the situation and 
 the gathering of warriors in the northwest, commenced massing the United States troops in the 
-different departments adjacent. General Alfred 
-Terry, who was in command of the Department 
+different departments adjacent. General <persName xml:id="terry.a">Alfred 
+Terry</persName>, who was in command of the Department 
 of Dakota and the station at Fort Snelling, was 
 to send the troops in his department to Fort 
 Abraham Lincoln, to take the field from there 
@@ -6425,7 +6425,7 @@ through the head of his horse, coming on at speed.
 Thus we were both afoot and in close proximity. 
 The story is better told in the press despatches of 
 that day, and by Lieutenant (now General) 
-Charles King, in his book. Campaigning with 
+<persName xml:id="king.c">Charles King</persName>, in his book. Campaigning with 
 Crook. The dates and arrival of these despatches 
 will show how isolated was the country and the 
 length of time it took to communicate with the 

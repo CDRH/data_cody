@@ -226,7 +226,7 @@ Buffalo Bill.</p>
 <p>In 1868 Cody rejoined the army as scout 
 and guide, and quickly made a reputation as 
 a man of infinite endurance and daring. He 
-was attached to General Sheridan's headquarters at Hays City, Kansas; and soon 
+was attached to General <persName xml:id="sheridan.p">Sheridan's</persName> headquarters at Hays City, Kansas; and soon 
 after reporting for duty he learned that the 
 commander wanted a dispatch sent to Fort 
 Dodge, a distance of ninety-five miles. The 
@@ -1466,7 +1466,7 @@ out of the wagons you can start."</p>
  <p>The next day we marched thirty miles, 
   and late in the afternoon we came into camp 
   on the south fork of the Solomon. At this 
-  encampment Colonel Royal asked me to go 
+  encampment Colonel <persName xml:id="royall.w">Royal</persName> asked me to go 
   out and kill some buffaloes for the boys.</p> 
 
 <fw>30</fw> 
@@ -1589,7 +1589,7 @@ out of the wagons you can start."</p>
   camped on the Saline River, distant three 
   miles from Buffalo Tank. While waiting 
   for supplies we received a new commanding 
-  officer. Brevet Major General E. A. Carr, 
+  officer. Brevet Major General <persName xml:id="carr.e">E. A. Carr</persName>, 
   who was the senior major of the regiment, 
   and who ranked Colonel Royal. He brought 
   with him the celebrated Forsyth scouts, who 
@@ -2385,7 +2385,7 @@ out of the wagons you can start."</p>
   three companies of the celebrated Pawnee 
   Indian scouts, commanded by Major Frank 
   North. General Carr recommended at this 
-  time to General <persNamexml:id="augur.c">Augur</persName>, who was in command of the department, that I be made 
+  time to General <persName xml:id="augur.c">Augur</persName>, who was in command of the department, that I be made 
   chief of scouts in the Department of the 
   Platte, and informed me that in this position I would receive higher wages than I 
   had been getting in the Department of the 
