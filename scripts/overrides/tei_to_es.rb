@@ -13,7 +13,7 @@ class TeiToEs
     ]
     xpaths["language"] = "/TEI/text/body/div1/@lang"
     xpaths["subcategory"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
-    return xpaths
+    xpaths
   end
 
   #################

@@ -11,7 +11,7 @@ class VraToEs
     xpaths["date"] = "/vra/work/dateSet[1]/display"
     xpaths["format"] = "/vra/work[1]/materialSet[1]/display[1]"
     xpaths["title"] = "/vra/work[1]/titleSet[1]/title[1]"
-    return xpaths
+    xpaths
   end
 
   ################
@@ -31,7 +31,7 @@ class VraToEs
         cons << { "name" => cname }
       end
     end
-    return cons.empty? ? nil : cons
+    cons.empty? ? nil : cons
   end
 
   def creator
