@@ -4,7 +4,6 @@ class TeiToEs
   #    XPATHS    #
   ################
 
-  # in the below example, the xpath for "person" is altered
   def override_xpaths
     xpaths = {}
     xpaths["creators"] = [
@@ -44,7 +43,7 @@ class TeiToEs
 
   def image_id
     images = get_list(@xpaths["image_id"])
-    if images
+    if !images.empty?
       images[0]
     else
       sc = subcategory.downcase

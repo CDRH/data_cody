@@ -6,28 +6,20 @@ class VraToEs
 
   def override_xpaths
     xpaths = {}
-    xpaths["dates"] = {
-      "earliest" => "/vra/work/dateSet[1]/date[1]/earliestDate[1]",
-      # in the original XSL, latest doesn't do anything
-      # but I thought I would include it for thoroughness
-      # "latest" => "/vra/work/dateSet[1]/date[1]/latestDate[1]",
-      "display" => "/vra/work/dateSet[1]/display[1]",
-    }
+    xpaths["creator"] = "/vra/work/agentSet/display"
+    # cody vra doesn't appear to use anything more specific than the display date
+    xpaths["date"] = "/vra/work/dateSet[1]/display"
     xpaths["format"] = "/vra/work[1]/materialSet[1]/display[1]"
     xpaths["title"] = "/vra/work[1]/titleSet[1]/title[1]"
     return xpaths
   end
-
-  # NOTE:  Not adding "dateSort_s" equivalent from XSL because
-  # I am waiting to see if we will need a different method to sort
-  # the field besides the generic date field
 
   ################
   #    FIELDS    #
   ################
 
   def category
-    return "images"
+    "images"
   end
 
   def contributors
@@ -43,33 +35,25 @@ class VraToEs
   end
 
   def creator
-    obj = []
-    @xml.xpath(@xpaths["creators"]).each do |creator|
-      crole = creator.xpath("role").text
-      cname = creator.xpath("name").text
-      if !["publisher", "contributor", "creator"].include?(crole)
-        if !crole.empty? && !cname.empty?
-          obj << { "name" => cname }
-        end
-      end
+    get_list(@xpaths["creators"]).map do |creator|
+      { "name" => creator }
     end
-    return obj
   end
 
   def date(before=true)
-    early = get_text(@xpaths["dates"]["earliest"])
-    disp = get_text(@xpaths["dates"]["display"])
+    disp = get_text(@xpaths["date"])
+    # strip out anything that's not a "date" character like nums and hyphens
+    # (I'm looking at you, "circa")
+    no_strings = disp[/([\d-]+)/]
+    CommonXml.date_standardize(no_strings, before)
+  end
 
-    if !early.empty?
-      puts "finding early #{early}"
-      return early
-    elsif /^\d{4}$/ === disp
-      return disp
-    # NOTE date could be "unknown" etc in original XSL but
-    # that is not possible for the date field type in ES
-    else
-      return nil
-    end
+  def date_display
+    get_text(@xpaths["date"])
+  end
+
+  def image_id
+    @id
   end
 
   def publisher
@@ -81,20 +65,24 @@ class VraToEs
         pubs << pname
       end
     end
-    return pubs.empty? ? nil : pubs
+    pubs.empty? ? nil : pubs
+  end
+
+  def rights
+    # TODO
   end
 
   def subcategory
     type = @id[/wfc\.img\.([A-z]+)\./, 1]
     mapping = {
-      "cc" => "cabinet_cards",
-      "ill" => "illustrations",
-      "pc" => "postcards",
-      "pho" => "photographs",
-      "pst" => "posters",
-      "va" => "visual_art"
+      "cc" => "Cabinet Cards",
+      "ill" => "Illustration",
+      "pc" => "Postcard",
+      "pho" => "Photograph",
+      "pst" => "Poster",
+      "va" => "Visual Art"
     }
-    return mapping[type] || "none"
+    mapping[type] || "none"
   end
 
 end
