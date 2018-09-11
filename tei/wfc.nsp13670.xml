@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13670">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Einem flott und schneidig gerittenen Rennen</title>
+<title type="main" xml:lang="en">A lively and quickly ridden race</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13670</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Einem flott und schneidig gerittenen Rennen</title>
+<title level="a" type="main" xml:lang="en">A lively and quickly ridden race</title>
+<title level="j">M&#252;nchner Neueste Nachrichten</title>
+<pubPlace>Munich, Germany</pubPlace>
+<date when="1890-04-21">April 21, 1890</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.077.07 (Oakley Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American woman</term>
+<term>Firearms</term>
+<term>German language</term>
+<term>Sharpshooters</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Munich (Germany)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name>Benn, James</name> <name xml:id="lc">Clark, L.</name> Proofreading</change>
+<change when="2018"><name>Roberts, Briana</name> <name xml:id="jb">Benn, James</name> Translation</change>
+<change when="2018"><name xml:id="br">Roberts, Briana</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp13670.001"/>
+
+<fw>M&#252;nchner Neueste Nachrichten.<lb/>
+Nr. 181. 21. April 1890.<ref target="n01">1</ref></fw>
+
+<note>Opened in Munich April 20th </note>
+
+<p>Einem flott und schneidig gerittenen Rennen zwischen einem Cowboy, einem Mexikaner und einem Indianer folgte das Auftreten des Fr&#228;uleins <persName xml:id="oakley.a">Annie Oakley</persName>, einer Schie&#223;k&#252;nstlerin, die im Schie&#223;en nach Glaskugeln und mit Wurfmaschinen geschleuderten kleinen Thonscheiben Unglaubliches leistete. Aehnliche K&#252;nste zeigte der junge Cowboy&#8211;Sch&#252;tze <persName xml:id="baker.l">Johnnie Baker</persName>, der fast &#252;ber noch gr&#246;&#223;ere Treffsicherheit verf&#252;gt. Herr <persName xml:id="daly.c">C. L. Daly</persName> machte sich an die gleichen Aufgaben, aber mit dem Revolver, einer Waffe, die noch weit sch&#228;fere Augen und festere Hand verlangt. Auch er schie&#223;t Glaskugeln und zwar mehrere nacheinander aus der Luft herab, ja er traf die Schneide einer kleinen Pappscheibe, wie sie unsere Zimmerstutzensch&#252;tzen<ref target="n02">2</ref> gebrauchen, auf etwa zwanzig bis f&#252;nfundzwanzig Schritt. Die verbl&#252;ffendsten Schie&#223;kunstst&#252;cke f&#252;hrte Buffalo Bill selbst vor; er scho&#223;, in voller Carriere um die Arena sprengend, mit einem Mehrlader Glaskugeln herab, die ein neben ihm reitender Indianer in die H&#246;he warf. </p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<fw>Nr. 181. 21. April 1890.</fw>
+
+<note>Opened in Munich April 20th </note>
+
+<p>A lively and quickly ridden race between a cowboy, a Mexican and an Indian followed the appearance of Miss Annie Oakley, a sharp&#8211;shooter who achieved unbelievable things in her act of shooting at glass balls and little clay pigeons flung into the air with throwing&#8211;machines. The young cowboy&#8211;shooter Johnny Baker demonstrated similar skills, though he almost possesses an even greater accuracy. Mr. C. L. Daly performed the same exercises, but with a revolver, a weapon which demands a far sharper eye and firmer hand. He, too, shot glass balls out of the air, one after the other; indeed, he also hit the edge of a small cardboard disk, like the ones used by our gallery rifle shooters<ref target="n03">3</ref>, from a distance of about twenty to twenty-five paces. The most incredible shooting tricks were performed by Buffalo Bill himself: Using a repeating rifle, he shot down glass balls thrown into the air by an Indian riding next to him, while galloping at full tilt around the arena. </p>
+
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Munich, Germany, from April 19 - May 5, 1890.</note>
+
+<note xml:id="n02">Note 2: "Zimmerstutzensch&#252;tzen" is a difficult term to discern. "Gallery rifle shooters" is the most likely translation.</note>
+
+<note xml:id="n03">Note 3: Gallery rifle shooting is a shooting sport popular in Germany, Britain, and other European countries. Events are shot at short and medium distances and can therefore be held indoors.</note>
+</back>
+</text>
+</TEI>

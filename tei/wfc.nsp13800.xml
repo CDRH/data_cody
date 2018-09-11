@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13800">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bills Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13800</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bills Wild West</title>
+<title level="j">Niederrheinische Volkzeitung</title>
+<pubPlace>Crefeld [Krefeld], Germany</pubPlace>
+<date when="1891-05-21">May 21, 1891</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.108.03 and 109.01 (Oakley Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Brul&#232; Indians</term>
+<term>Cowboys</term>
+<term>Firearms</term>
+<term>German language</term>
+<term>Lakota Indians</term>
+<term>Oglala Indians</term>
+<term>Sharpshooters</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Henckel, Charles, 1862-</term>
+<term>Kicking Bear, 1853-1904</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Short Bull, -1915</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Krefeld (Germany)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name>Benn, James</name> <name xml:id="lc">Clark, L.</name> Proofreading</change>
+<change when="2018"><name>Roberts, Briana</name> <name xml:id="jb">Benn, James</name> Translation</change>
+<change when="2018"><name xml:id="br">Roberts, Briana</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp13800.001"/>
+
+<head>Buffalo Bills Wild West.</head>
+<dateline>Crefeld, 21. Mai.<ref target="n01">1</ref></dateline>
+
+<p>Wohl selten hat eine &#246;ffentliche Schaustellung so sehr das allgemeine Interesse von Jung und Alt erregt, wie die Vorstellungen der Truppe Buffalo Bills, die gestern im Thiergarten begonnen haben. Die beiden gestrigen Vorstellungen waren gut besucht, ein Jeder wollte aus eigener Anschauung das Leben und Treiben der Indianerhorden, von denen wir in unserer Jugendzeit so sch&#246;ne Geschichten gelesen, nun einmal in Wirklichkeit kennen lernen. Und in der That lohnt es sich, einer solchen Vorstellung beizuwohnen; man lernt die Sitten und Gebr&#228;uche der Bewohner des fernen Westens der Vereinigten Staaten kennen und sieht ein St&#252;ck amerikanischen Lebens sich vor den Augen abspielen. Gleich die erste Nummer des Programms, der Einzug der Ber&#252;hmtheiten und der Gruppen, bietet uns ein farbenpr&#228;chtiges Bild. Zun&#228;chst sprengt auf kleinen, feurigen Rossen ein Trupp Arraphoes&#8211;Indianer in voller Kriegsr&#252;stung, unter wildem Kriegsgeschrei heran und stellt sich am Ende der Arena auf. Einzelne sind mit weiten bunten Jacken und bunten Hosen bekleidet, die meisten aber sind halbnackt und mit grellen Farben bemalt. Ihr H&#228;uptling Plenty Wolves (viel W&#246;lfe) folgt in kurzem Abstande hinter ihnen, in stolzem Aufputz, den Kopf mit Adlerfedern geschm&#252;ckt. Kaum hat derselbe vor seinen Stammesgenossen Aufstellung genommen, da rast eine Gruppe Cow&#8211;Boys (amerikanische Kuhhirten) heran, in einfacher grauer Kleidung mit hohen Ledergamaschen, den breitkr&#228;mpigen Hut in das wettergebr&#228;unte Gesicht gedr&#252;ckt. Dieselbe stellt sich hinter die vorgehende Truppe auf und zugleich jagt eine neue Gruppe heran, Brul&#233;&#8211;Indianer, gefolgt von ihrem H&#228;uptlinge <persName xml:id="short.bull">Schort Bull (kurzer Ochs)</persName> , dann ein Trupp des Indianerstammes Cutt Off mit ihrem H&#228;uptling K<persName xml:id="kicking.bear">icking&#8211;Bear (Ausschlag&#8211;B&#228;r)</persName>; &#8212; immer bunter wird das Gem&#228;lde, immer lebendiger die einzelnen Gruppen. Mexikanische Vaqueros, sehnige Gestalten in malerischer Tracht sprengen heran; ihnen folgen Cheyenne&#8211;Indianer mit dem H&#228;uptling <persName xml:id="lone.bull">Lone&#8211;Bull (einsamer Ochs)</persName>. Drei junge Damen aus dem Westen Amerikas sausen auf feurigen Rossen durch die Arena; dann kommen eine Anzahl Sioux&#8211;Indianerinnen in langsamem Tempo herangeritten, indem sie einen eint&#246;nigen Gesang erschallen lassen. Wieder erdr&#246;hnt die Erde unter den Hufen der Rosse, drei Boy Chiefs, kleine H&#228;uptlinge der Sioux, sprengen heran und gesellen sich zu den &#252;brigen. Zwei Reiter, von denen der eine die deutsche, der andere die amerikanische Fahne schwingt, schlie&#223;en sich an, Immer neue Gruppen, Indianer und Bleichgesichter f&#252;llen den weiten Raum und zuletzt jagt Buffalo Bill, Oberst W. F. Cody heran, in graugelbem Lederwams mit pr&#228;chtiger Stickerei und hohen Reiterstiefeln; es ist eine sehnige Gestalt, das gebr&#228;unte Gesicht mit dem scharf blickenden Auge ist durchfurcht, das graue Haar wallt bis zum Nacken. Auf sein Commando l&#246;sen sich die Reihen auf und in wilder Hast st&#252;rzen alle in fliegender Hast aus der Arena heraus. Darauf beginnen die einzelnen Vorf&#252;hrungen, deren Leiter stets Buffalo Bill ist. Ein Pferderennen zwischen einem Cow&#8211;Boy, einem Indianer und einem Mexikaner macht den Anfang; pfeilgeschwind jagen die drei zweimal um die Arena herum, ohne da&#223; einer einen bemerkenswerthen Vorsprung vor den andern erreicht. Ohne Pause folgte eine Nummer des Programms unmittelbar auf die andere. Fr&#228;ulein <persName xml:id="oakley.a">Annie Oakley</persName> ist auf dem Programm als &#8222;ber&#252;hmte Sch&#252;tzin&#8220; bezeichnet, und f&#252;rwahr, sie ist eine Meisterin ihrer Kunst! Mit einer Sicherheit ohne Gleichen zerscho&#223; sie, fast ohne zu zielen, die in die H&#246;he geworfenen Pechkugeln, das Gewehr verkehrt haltend oder schnell vom Erdboden aufhebend. Ihr w&#252;rdig zur Seite stand, um das vorweg zu nehmen, der kleine <persName xml:id="baker.j">Johnny Baker</persName>, der im Pistolenschie&#223;en gro&#223;artige Leistungen der Schie&#223;kunst bot. Er scho&#223; eben so sicher auf dem R&#252;cken liegend oder auf dem Kopfe stehend, oder das Schie&#223;object durch einen Spiegel beobachtend. Wenn es auf diesem Gebiete ein Uebertreffen gibt, so vollbrachte dies Buffalo&#8211;Bill selbst, der in voller Carri&#232;re die in die Luft geschleuderten Kugeln mit Sicherheit traf und einen Sturm des Beifalls entfesselte. Wir lernen ferner einen Ponypost&#8211;Reiter kennen, der uns zeigt, wie man fr&#252;her die Briefe und Depeschen der Regierung &#252;ber die gro&#223;en Prairien bef&#246;rderte &#8212; in Carri&#232;re daherst&#252;rmend, sprang er an gewissen Punkten sammt dem losen Sattel vom Pferd auf ein bereitstehendes anderes und jagte ohne Aufenthalt weiter. Ein &#252;beraus lebendiges Bild gew&#228;hrte der Ueberfall eines Emigrantenzuges durch Indianer. Langsam durchzieht die Karawane die weite Steppe, an der Spitze derselben ein alter
+
+<pb facs="wfc.nsp13800.002"/>
+
+Trapper mit schneewei&#223;em Bart, aus den Wagen blicken &#228;ngstliche Bleichgesichter &#8212; da jagt &#252;ber die Prairie ein Trupp wildblickender Indianer und im Nu ist ein wilde Kampf entstanden zwischen den den Emigrantenzug begleitenden Kuhhirten und Grenzbewohnern und den raublustigen Indianern. Schu&#223; f&#228;llt auf Schu&#223;, die Indianer lassen sich am Bauch des Pferdes pfeilschnell herab, um sich vor dem t&#246;dtlichen Blei zu sch&#252;tzen, und schnellen gleich rasch wieder empor, zum Angriff &#252;bergehend. Doch das Uebergewicht der Macht ist bei den Emigranten, die Indianer werden in die Flucht geschlagen, und wie der Wind, wie sie gekommen, jagen sie wieder nach der entgegengesetzten Richtung. An diese Scene schlo&#223; sich der Tanz &#8222;Virginia Reel&#8220; von Cow&#8211;Boys und Grenzbewohnerinnen zu Pferde ausgef&#252;hrt, eine Art Quadrille, die unter Leitung Buffalo Bill's graci&#246;s durchgef&#252;hrt wurde. Vortreffliche Reiterkunstst&#252;cke bot das Aufheben von Gegenst&#228;nden durch Cow&#8211;Boys gro&#223;e, w&#228;hrend sie in vollem Galopp reiten. Gleich interessant war das Werfen von Lasso's, welches uns mit der Art und Weise bekannt machte, wie man die wilden Pferde einf&#228;ngt. Hier zeigten vor Allem Buffalo Bill und die Cow&#8211;Boys gro&#223;e Gewandtheit und Sicherheit. Ein ebenso interessantes wie lustiges Intermezzo bot das Besteigen und Reiten der Bucking&#8211;Pferde, die eine wahre Virtuosit&#228;t im Abwerfen besitzen, die aber doch ihre Meister <unclear reason="missing"/>. Kerzengerade steigen die Pferde in die H&#246;he schlagen <unclear reason="missing"/> allen Vieren aus und werfen sich auf die Erde, &#8212; immer wieder n&#228;hert sich der Cow&#8211;Boy, und es spielen sich hierbei die drolligsten Scenen ab. Endlich gelingt es dem Reiter, in den Sattel zu kommen, und nun sehen wir ein Bocken der Pferde wie es sich komischer, aber auch gef&#228;hrlicher kaum gedacht werden kann. Das Pferd rast in den gewaltigsten S&#228;tzen, in den tollsten Spr&#252;ngen durch die Arena, doch niemals gelingt es ihm, den sattelfesten Reiter, der mit dem Pferde verwachsen zu sein scheint, abzuwerfen.</p>
+
+<p>Eine nicht minder interessante Scene war der Angriff der Indianer auf den <rs xml:id="coach.deadwood">Deadwood&#8211;Postwagen</rs>, der von den unter der F&#252;hrung des Buffalo Bill stehenden Cowboys zur&#252;ckgeschlagen wird. Oben auf dem Verdeck des Wagens liegt im schl&#228;frigen Nichtsthun der Pfadfinder und h&#228;lt, die Flinte im Arm, Ausschau; da sprengt &#252;ber die weite Ebene ein Trupp Indianer und jetzt beginnt ein &#228;hnlich m&#246;rderischer Kampf, wie wir ihn beim Emigrantenzug mit erlebt haben. Nach einer flott inscenirten B&#252;ffeljagd, die ein buntes und k&#252;hnes Bild des indianischen Steppenlebens bot, bildete den Schlu&#223; der Vorstellung ein naturgetreu inscenirter Angriff auf ein Grenzdorf, das durch ein einzeln stehendes Blockhaus markirt war. Gem&#228;chlich kehrt der Trapper heim von der Jagd, begr&#252;&#223;t sein Weib und bindet sein Pferd unfern des Hauses an einem Pfahl auf der Weide fest. Da schaut das Auge unweit des Hauses zwei Indianer auf dasselbe zuschleichen; w&#228;hrend der Eine das Dach erklimmt, will sich der Andere auf das Pferd am Weideplatz schwingen, die Insassen bemerken den Feind und bald entspinnt sich ein heftiger Kampf, &#8212; die Flintensch&#252;sse haben die befreundeten Cowboys herbeigelockt, Indianerhorden jagen auf ihren flinken Rossen zu Hilfe und bald entspinnt sich ein regelrechter Kampf, der mit der Niederlage der Indianer endigt. </p>
+
+<p>Noch eine ganze Reihe von interessanten Einzelheiten k&#246;nnten wir erw&#228;hnen und doch w&#252;rden wir nur ein schwaches Bild von der Mannigfaltigkeit dessen geben, was in jeder Vorstellung geboten wird. Bemerken wollen wir noch, da&#223; die Programme, welche auf den Stra&#223;en feilgeboten werden, die Reihenfolge der einzelnen Nummern nicht richtig angeben; das richtige Programm ist nur im Lager selber zu haben. Daselbst sind auch bildliche Darstellungen der einzelnen Gruppen und Auff&#252;hrungen, sowie Photographien der bedeutendsten H&#228;uptlinge und der hervorragendsten Personen k&#228;uflich zu haben. Ein eigener Photograph, Herr Charles Henkel, begleitet die Truppe und die von ihm angefertigten Bilder, unter denen besonders die H&#228;uptlinge Short Bull und Plenty Wolfes vortrefflich dargestellt sind, werden allen Besuchern der Vorstellung ein angenehmes Andenken an die sch&#246;nen, lehrreichen und unterhaltenden Stunden bieten, welche Buffalo Bill's Wild West ihnen bereitet hat.</p>
+</div1>
+
+<div1 type="article" xml:lang="en">
+<p>Seldom has a public show aroused the general interest of both young and old as much as the performances of Buffalo Bill's troupe, which began yesterday at the Tiergarten park. Both of yesterday's performances were well&#8211;attended: Everyone wanted to learn about and experience at first hand the life and activities of the Indian hordes about which we read such beautiful stories during our youth. And indeed, it is worthwhile to attend such a performance: one becomes familiar with the customs and practices of the inhabitants of the far west of the United States and sees a piece of American life play out right before one's eyes. The first number of the program, the entrance of the celebrities and the groups, offers us a colorful picture right from the start. First, a party of Arapaho Indians in full armor bursts forth on small fiery steeds amidst wild war cries and station themselves at the end of the arena. Some are clothed in voluminous, brightly colored jackets and colorful trousers, but most are half&#8211;naked and painted in gaudy colors. Their chief, Plenty Wolves,<ref target="n02">2</ref> follows a short distance behind them in proud finery, his head adorned with eagle feathers. No sooner had he taken his place in front of his tribesmen than a group of cowboys (American cow herders) rushed out in simple, gray clothing with tall leather leggings, the wide&#8211;brimmed hats pressed against their weather&#8211;beaten faces. They stationed themselves behind the previous squad as a new group rushed forth: Brul&#232; Indians, followed by their chief, Short Bull, then a party of the Indian Cut Off tribe with their chief Kicking Bear &#8212;.<ref target="n03">3</ref> The scene became ever more colorful, and the individual groups ever livelier. Mexican vaqueros, brawny figures in picturesque costumes, spring forward; they are followed by Cheyenne Indians with the chief Lone Bull. Three young women from western America bolt through the arena on fiery steeds; then come a number of Sioux Indian women riding at a slow tempo, sounding forth a monotonous song. The earth rumbled beneath the hooves of horses once again, and three boy chiefs, little chieftains of the Sioux, sprang forward and joined the others. Two riders, one holding the German flag, the other holding the American, join in. Still more groups of Indians and pale&#8211;faces fill the vast space, and Buffalo Bill, Colonel W. F. Cody, rides in last in a gray&#8211;yellow leather jacket with magnificent embroidery and tall riding boots; he is a wiry figure with a tanned face and a sharply piercing eye and gray hair flowing down the nape of his neck. At his command, the ranks disperse and rush out of the arena in a wild haste. Afterwards, the individual performances began, all directed by Buffalo Bill. A horserace between a cowboy, an Indian and a Mexican starts it off; at the speed of lightning, they race around the track twice without any of the three achieving a notable advantage over the others. The next number of the program follows immediately after, without a break. In the program, Miss Annie Oakley is described as a "celebrated shooter," and in truth, she is a master of her art! With unequaled accuracy, she shot down the pitch balls that were thrown into the air, almost without aiming and holding the rifle backwards or quickly picking it up from the ground. Worthy of standing by her side, when it comes down to it, was the little Johnny Baker, who offered a brilliant performance in pistol&#8211;shooting. He shot just as accurately lying on his back or standing on his head, or even looking at the target in a mirror. If anyone could outperform them in this realm, it is Buffalo Bill himself, who, galloping at full tilt, hit the airborne balls accurately, unleashing a storm of applause. We also meet a Pony Express rider, who shows us how the government's letters and dispatches used to be transported across the vast prairies. Storming forth at a gallop, he jumped from the horse along with the loosened saddle at predetermined points, then immediately mounted another horse that was standing ready and dashed off again without pausing. The attack on an emigrant train by Indians imparted an extremely animated scene. The caravan pushes its way slowly across the vast steppe, an old trapper with a snow&#8211;white beard at its head; anxious pale&#8211;faces look out of the wagons; then, a group of wild&#8211;looking Indians dashes across the prairie, and in no time a fierce battle has broken out between the herdsmen and frontiersmen accompanying the emigrant train and the rapacious Indians. Shot after shot rings out, and the Indians drop down quick as a flash below their horses' bellies to protect themselves from the deadly lead; then, they quickly rise again to attack. But the emigrants have the upper hand; the Indians are forced to flee, and like the wind (just as they came), they ride off in the opposite direction. This scene is closed with the dance "Virginia Reel," a kind of quadrille performed gracefully by cowboys and frontierswomen on horseback under the direction of Buffalo Bill. Excellent equestrian performances were also offered by cowboys who, while riding at full gallop, picked objects off the ground. Equally as interesting was the lasso throwing, which introduced us to the way in which wild horses are captured. Above all, Buffalo Bill and the cowboys showed great dexterity and accuracy in all of this. An interesting, as well as amusing, interlude was offered by the mounting and riding of bucking horses, who show a real virtuosity in throwing off their riders, but who [missing text] their masters. The horses bolt upright [missing text] on all fours and throw themselves onto the ground; again and again, the cowboys come near and the scene plays out in a very amusing manner. Finally, the rider succeeds in getting into the saddle, and then we see the horses bucking in a manner more comical, but also more dangerous, than can be imagined. The horse races through the arena in the most magnificent leaps and the most fantastic jumps, but he never manages to throw off the rider, who is secure in the saddle and seems to be one with the horse.</p>
+
+<p>A no less interesting scene was that of the Indians' attack on the Deadwood Stage Coach, which was repelled by the cowboys led by Buffalo Bill. On top of the wagon lies the scout in sleepy idleness, his rifle in his arms, keeping a look&#8211;out; but a party of Indians gallops over the wide plain and now a fight as murderous as the scene we witnessed with the emigrant train begins. After a swiftly enacted buffalo hunt, offering a colorful and spirited depiction of Indian life in the steppe, the performance concluded with a lifelike attack on a frontier village, represented by a standalone log cabin. Unhurriedly, the trapper returns home from the hunt, greets his wife and ties his horse to a post in the pasture near the house. Then, the eye spots two Indians close by, sneaking up on the house; while one climbs on top of the roof, the other wants to leap onto the horse in the pasture. The occupants of the cabin notice the enemy and soon, a fierce fight unfolds. The gunfire beckons the friendly cowboys nearby to come to the aid of the settlers by repulsing the hordes of Indians on their agile steeds. Soon, a veritable struggle unfolds, ending with the defeat of the Indians.</p>
+
+<p>We could mention a whole series of interesting details, and yet we would only be able to give a faint picture of the variety which is offered in every performance. We would like to also note that the programs offered for sale on the streets do not give the correct order of the individual acts; the correct program is only available at the encampment itself. In said place, pictorial representations of the individual groups and performances, as well as photographs of the most important chiefs and the most distinguished persons are also on sale. A photographer, Mr. Charles Henkel, accompanies the troupe and the pictures he takes, of which those of the chiefs Short Bull and Plenty Wolves are excellently portrayed, will offer to all visitors of the show a delightful memento of the beautiful, informative and entertaining hours Buffalo Bill's Wild West has given them.</p> 
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Krefeld, Germany May 20-23, 1891.</note>
+
+<note xml:id="n02">Note 2: Also known as "Yankton Charley." He was not, in fact, Arapaho; rather, he was a member of the Oglala Lakota tribe.  Auch als "Yankton Charley" bekannt. Er geh&#246;rte tats&#228;chlich nicht zum Stamm der Arapaho; eher war er ein Mitglied des Oglala Lakotas.</note>  
+
+<note xml:id="n03">Note 3: Kicking Bear belonged to the Oglala Lakota tribe. The descriptor "Cut Off" may refer to a band or bands which had been 'cut off' from the larger tribe, possibly due to their involvement in the Ghost Dance movement.  Kicking Bear geh&#246;rte zum Stamm des Oglala Lakotas. Der Begriff "Cut Off" bezieht sich m&#246;glicherweise auf eine Gruppe oder Gruppen, die von gr&#246;&#223;eren Stamm abgeschnitten wurden, m&#246;glicherweise aufgrund ihrer Beteilung an der "Ghost Dance" Bewegung.</note> </back>
+</text>
+</TEI>
