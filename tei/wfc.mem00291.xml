@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.mem00291">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Program Buffalo Bill. (Col. W. F. Cody) Indian War Pictures</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.mem00291</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main">Program Buffalo Bill. (Col. W. F. Cody) Indian War Pictures</title>
+<pubPlace></pubPlace>
+<date when="1914">1914</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.0557.01-04</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Memorabilia</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Programs</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Cheyenne Indians</term>
+<term>Ghost dance</term>
+<term>Historical reenactments (Motion pictures)</term>
+<term>Indians in motion pictures</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Military campaigns</term>
+<term>Motion pictures</term>
+<term>Programs (Publications)</term>
+<term>Summit Springs, Battle of, Colo., 1869</term>
+<term>Tabor Opera House</term>
+<term>United States. Army. Cavalry, 12th</term>
+<term>United States. Army. Cavalry, 5th</term>
+<term>United States. Army. Cavalry, 7th</term>
+<term>United States. Army. Cavalry, 8th</term>
+<term>United States. Army. Cavalry, 9th</term>
+<term>Warbonnet Creek, Battle of, Neb., 1876</term>
+<term>West (U.S.) History</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>
+<term>Carr, E. A. (Eugene Asa), 1830-1910</term>
+<term>Craft, Francis M</term>
+<term>Crook, George, 1829-1890</term>
+<term>Custer, George A. (George Armstrong), 1839-1876</term>
+<term>Forsyth, James W. (James William), 1836-1906</term>
+<term>Henry, Guy Vernor, 1839-1899</term>
+<term>Kicking Bear, 1853-1904</term>
+<term>King, Charles, 1844-1933</term>
+<term>Merritt, Wesley, 1834-1910</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+<term>Short Bull, -1915</term>
+<term>Sitting Bull, 1831-1890</term>
+<term>Yellow Hand, 1850?-1876</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Fort Sheridan (Ill.)</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+<term>Wounded Knee (S.D.)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="ak">Kinnen, Anna</name> <name xml:id="br">Roberts, Briana</name> <name xml:id="sh">Hanna, Sam</name> <name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name>  Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.mem00291.001"/>
+
+<div2>
+
+<head><hi rend="italic">PROGRAM</hi></head>
+
+<head type="sub">BUFFALO BILL (Col. W. F. Cody) U. S.
+Government approved. Historically Correct. </head>
+
+<head type="sub">Indian War Pictures</head>
+
+<figure n="portrait"><ab>W F Cody "Buffalo Bill"</ab></figure>
+</div2>
+
+<pb facs="wfc.mem00291.002"/>
+
+<div2>
+<head>PROGRAM BUFFALO BILL'S HISTORIC PICTURE COMPANY</head>
+
+<p>PRESENTS GOVERNMENT APPROVED MOVING SCENES OF INDIAN WARS OF THE WEST&#8212;three campaigns with minute details of TRAILING, FINDING and FIGHTING in the Red and White CONTEST FOR A CONTINENT. </p>
+
+<p>BATTLES FROM THREE CAMPAIGNS will be presented by MANY LIVING PARTICIPANTS, with REAL INDIANS, REGULAR UNITED STATES MILITARY OFFICERS and SOLDIERS&#8212;cavalry and infantry&#8212;in the very country where they took place, with natural surroundings, truthfulness of vista, and on the actual battle grounds. </p>
+
+<p>These pictures were taken under the direction of the participants in the various scenes, and will commence with the introduction of the noted officers in action then, who kindly consented to assist in this realistic reproduction of history.</p> </div2>
+
+<div2>
+<head>FIRST SECTION&#8212;FIRST REEL.</head>
+
+<p>1&#8212;Lieutenant General <persName xml:id="miles.n">Nelson A. Miles</persName>, the distinguished Civil War, Indian Campaign, and Spanish-American War veteran soldier, who was commander in the field, and to whose military strategy and diplomatic skill can be attributed the marvelous effective results cementing perpetual PEACE BETWEEN RED AND WHITE.</p>
+
+<p>2&#8212;Brigadier General Frank Baldwin.</p>
+
+<p>3&#8212;Major General Jesse M. Lee.</p>
+
+<p>4&#8212;Brigadier General Marion P. Maus.</p>
+
+<p>5&#8212;General <persName xml:id="king.c">Charles King</persName>.</p>
+
+<p>6&#8212;COLONEL W. F. CODY ("Buffalo Bill.")</p>
+
+<p>7&#8212;Col. H. C. Sickles, of Seventh United States cavalry in 1890-91 campaign; commander Twelfth United States cavalry, active in present reproduction of scenes he participated in.</p>
+
+<p>8&#8212;Chief <persName xml:id="short.bull">Short Bull</persName>, Chief Medicine Man and Messiah Craze Apostle.</p>
+
+<p>9&#8212;Scout Philip Wells, who was in the battle, had his nose cut off in the melee and sewed on during the fight. He participated then and now as interpreter.</p>
+
+<p>10&#8212;Chief Jack Red Cloud ,prominent then, assisting now.</p></div2>
+
+<div2>
+<head>FIRST BATTLE PICTURE&#8212;SUMMIT SPRINGS, 1869</head>
+
+<p>FORTY-FIVE YEARS AGO this battle was fought by United States troops against the Renegade Dog Soldiers, a cosmopolitan band of savages recruited from all discontents, in different tribes, who for years devastated and rendered existence perilous in the territories of KANSAS, NEBRASKA and COLORADO, the United States troops being under command of Eugene A. Carr and Col. Wm. F. Cody ("Buffalo Bill"), Chief of Scouts, who created a national name by being victor in a personal contest with the renegade chief, whose name spread terror through the West&#8212;Tall Bull of the Cut-off Band of Ogallalas. </p>
+
+<p>Scenes of trailing, following finding, will give truthful depiction of conditions, requirements ,difficulties, dangers of those times, from attack on emigrant train to the glorious victory, for which the legislature of the TERRITORY OF COLORADO PASSED A VOTE OF THANKS TO CARR'S COMMAND.</p></div2>
+
+<div2>
+<head>SECOND BATTLE REEL.</head>
+
+<p>THIRTY-EIGHT YEARS AGO, in the Custer campaign of 1876, the Battle of War Bonnet Creek, with Generals <persName xml:id="merritt.w">Wesley Merritt</persName> and <persName xml:id="carr.e">Eugene A. Carr</persName>, commanders; "Buffalo Bill," Chief of Scouts. This was a great and important victory, as it prevented the Southern disaffected Indians from joining <persName xml:id="sitting.bull">Sitting Bull</persName> in the North, and relieved General <persName xml:id="crook.g">Crook</persName> from a perilous position at Goose Creek. This engagement follows the direction of General Charles King, who participated in the fight, and is noted from the fact that in a duel in front of both forces Buffalo Bill came out victorious in a hand-to-hand encounter with one of Red Cloud's favorite adjutant warriors&#8212;<persName xml:id="yellow.hair">YELLOW HAND</persName>.</p></div2>
+ 
+<div2>
+<head>BATTLE OF WAR BONNET CREEK. </head>
+
+<p>In the summer of 1876 General Wesley Merritt and the Fifth cavalry, under the guidance of Buffalo Bill, who was doing scout duty with the command, were seeking to prevent Yellow Hand's band of hostile Cheyennes from joining Sitting Bull. </p>
+
+
+<pb facs="wfc.mem00291.003"/>
+
+<p>On being informed that the condition of the trail indicated that the Indians had not yet crossed, General Merritt decides to go into hiding in the ravine and wait for them. </p>
+
+<p>He orders Lieutenant (now General) King and Buffalo Bill to watch for them.</p>
+
+<p>"Look, lieutenant! There are the Indians!"</p>
+
+<p>"The wagon train! But all that's wonderful; and we never thought they could make it."</p>
+
+<p>"Get ready, Cody."</p>
+
+<p>"Stay there, King! Watch till they're close under you. Then give the word."</p>
+
+<p>A small band of Indians endeavor to cut off a wagon train, little dreaming what awaits them.</p>
+
+<p>The Indians soon sight the soldiers and, seeing his old enemy, Buffalo Bill, Yellow Hand rides far in advance, waving a defiant challenge.</p>
+
+<p>The death of Yellow Hand.</p>
+
+<p>On seeing their leader fall, the Indians charge furiously. </p>
+
+<p>"The first scalp for <persName xml:id="custer.g">Custer</persName>. Come on, boys."</p>
+
+<p>The Indians are soon put to rout by General Merritt and his gallant troopers.</p>
+</div2>
+
+<div2>
+<head>SECOND SECTION.</head>
+<head>REEL NO. 1 OF REBELLION&#8212;1890&#8212;1891,</head>
+
+<p>In the spring of 1890 the failure of crops and subsequent reduction of rations by Congress had caused a feeling of dissatisfaction and unrest among the Indians. It was at this time that news arrived of the coming of the so-called Messiah. </p>
+
+<p>Emissaries of the various tribes were soon on their way toward the setting sun.</p>
+
+<p>Short Bull is sent as an emissary of the Rosebud reservation. </p>
+
+<p>The Messiah appears to the emissaries and tells them he has returned to convert the earth into a happy hunting ground for the Indians, and that he would restore the dead Indians to life and place vast herds of wild horses, elk, buffalo, and other game on the prairies for them.</p>
+
+<p>He bids the emissaries hasten to their tribes with the good news.</p>
+
+<p>Short Bull returns and is received with demonstrations of great joy by the Indians, whom he urges to prepare for the coming of the Messiah. He also bids them make and wear ghost shirts, which he promised would protect them from the bullets of the soldiers.</p>
+
+<p>A sample of the famous ghost shirt. They were made of old flour sacks or any pieces of cloth available, a few being made of buckskin.</p>
+
+<p>Sitting Bull, <persName xml:id="kicking.bear">Kicking Bear</persName>, and other hostile war chiefs seized advantage of this opportunity to cause a disturbance, and October 12th the agent at Pine Ridge, S.D., reported that most of the Indians on the reservation were engaged in war dances.</p>
+
+<p>Troops were dispatched and the Indians left their homes and fled to the Bad Lands.</p>
+
+<p>In the meantime General Miles had sent Buffalo Bill, who was well acquainted with Sitting Bull, and believed to have influence with him, to induce him to come in. But at the request of Indian philanthropists the order is countermanded by the president.</p>
+
+<p>On December 15, 1890, General Miles ordered Colonel Drum to secure the arrest of Sitting Bull. Colonel Drum directs Captain Fechet with two troops of cavalry, a Hotchkiss gun, and the Indian police to affect the capture of Sitting Bull.</p> 
+
+<p>He goes peacefully at first, but, taunted by his son, who calls him an old woman, he calls on his friends for aid.</p>
+
+<p>They responded quickly and a fight ensues, which results in the death of Sitting Bull and six of the police.</p>
+
+<p>The timely arrival of troops under the command of Captain Fechet saves the police from massacre and the Indians are driven off.</p>
+</div2>
+
+<div2>
+<head>REEL NO. 2 REBELLION.</head>
+
+<p>In the meantime a cordon of troops had completely surrounded the Bad Lands and were busily engaged in driving the Indians from it and preventing others from joining their hostile brothers.</p>
+
+<p>The latter part of December Colonel Sumner and the Eighth cavalry had prevented Big Foot and his band from entering the Bad Lands, but later they escaped, and on December 28th were again intercepted by a portion of the Seventh cavalry, under command of Major Whiteside at Porcupine Butte. </p>
+
+
+<pb facs="wfc.mem00291.004"/>
+
+<p>Big Foot surrenders his band, and on finding that he is ill, Major Whiteside has him transferred to the ambulance and begins the long march to Pine Ridge.</p>
+
+<p>They go into camp for the night on Wounded Knee Creek.</p>
+
+<p>Then comes the dawn of an eventful day, Dec. 29, 1890.</p>
+</div2>
+<div2>
+<head>REEL NO. 3&#8212;REBELLION</head>
+
+<p>Father <persName xml:id="craft.f">Kraft</persName>, who is well liked by the Indians, pays a visit to the camp, and is decorated with the eagle feather to show their good will.</p>
+
+<p>Colonel Forsythe had arrived during the night, and decides to disarm the Indians, calling them into council for that purpose.</p>
+
+<p>On the arrival of the interpreter, Philip Wells, the Indians are told that they must give up their guns. A few of them do so.</p>
+
+<p>But one unruly Indian starts trouble. The fight is on.</p>
+
+<p>The Indians are driven into the ravine.</p>
+
+<p>Lieutenant (now Colonel) Sickles requests that the Hotchkiss gun be placed in a position to sweep the ravine.</p>
+
+<p>The gun is placed in a position of vantage and Lieutenant Hawthorne sends a request that Lieutenant Sickles withdraw his troops from the line of fire.</p>
+
+<p>The now famous Hotchkiss gun plays havoc. The Indians speak of it as the gun that shoots today and kills tomorrow.</p>
+
+<p>Lieutenant Hawthorne is seriously wounded.</p>
+</div2>
+<div2>
+<head>REEL NO.4&#8212;REBELLION</head>
+
+<p>The following day the Ninth cavalry, under command of Colonel Guy Henry, had just arrived at Pine Ridge after 100 miles' march, when it was learned that the Indians were committing depredations near the mission. The tired troops were at once dispatched and soon sent the hostiles scattering through the hills.</p>
+
+<p>March in blizzard. It was in such terrific weather that most of the campaign was waged.</p>
+
+<p>On January 14th, disheartened by successive defeats, a delegation of chiefs, headed by Short Bull and Jack Red Cloud, come in for a council with General Miles. They agreed to surrender and deliver twenty of their most prominent chiefs as hostage. </p>
+
+<p>They do solemnly swear to abide by their agreement.</p>
+
+<p>And on January 15th they began to come in and lay down their arms.</p>
+
+<p>General Miles and his staff view the Indian camp at Pine Ridge.</p>
+</div2>
+<div2>
+<head>REEL NO.5&#8212;REBELLION</head>
+
+<p>The Brules are still restless and fearful of danger, but Captain (now General) Lee, in whom they have confidence, accompanied by Major <persName xml:id="burke.j">John M. Burke</persName>, come to reassure them.</p>
+
+<p>Captain Lee promises to personally escort them back to their homes.</p>
+
+<p>A departure of the hostages for Fort Sheridan, Ill.</p>
+
+<p>Captain Lee escorts the Brules back to their reservation. </p>
+
+<p>While Captain Evers performs a like service for the Cheyennes, traveling a distance of 300 miles without a mishap.</p>
+
+<p>General Miles reviews the victorious troops.</p>
+</div2>
+<div2>
+<head>REEL NO.6&#8212;SCHOOL DAYS AND NOW&#8212;1914</head>
+
+<p>MARKET HOLIDAY AT PINE RIDGE, showing the TRANSITION OF THE RED MAN, from the WARPATH TO PEACE PURSUITS, under the American Flag&#8212;"The Star Spangled Banner."</p>
+
+<p>Finis.</p>
+</div2>
+<div2>
+<head>TABOR GRAND OPERA HOUSE</head>
+<ab>Matinees 2:15 every day</ab>
+<ab>25c Reserved Seat  Night Admission 25 and 50 Cts.</ab>
+<ab>ALL THIS WEEK A 2 1/2 HOUR SHOW</ab>
+</div2>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

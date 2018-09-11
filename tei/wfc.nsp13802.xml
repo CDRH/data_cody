@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13802">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Buffalo Bill's Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13802</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Buffalo Bill's Wild West</title>
+<title level="j">Aachener Post</title>
+<pubPlace>Aachen, Germany</pubPlace>
+<date when="1891-05-24">May 24, 1891</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.109.03 and 110.01 (Oakley Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Firearms</term>
+<term>German language</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Pony express</term>
+<term>Sharpshooters</term>
+<term>Traveling exhibitions</term>
+<term>Warbonnet Creek, Battle of, Neb., 1876</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Kicking Bear, 1853-1904</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Short Bull, -1915</term>
+<term>Yellow Hand, 1850?-1876</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Aachen (Germany)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name>Benn, James</name> <name xml:id="lc">Clark, L.</name> Proofreading</change>
+<change when="2018"><name>Roberts, Briana</name> <name xml:id="jb">Benn, James</name> Translation</change>
+<change when="2018"><name xml:id="br">Roberts, Briana</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13802.001"/>
+
+
+<note>Aachener Post<lb/>
+May 24<ref target="n01">1</ref></note>
+
+<head>** Buffalo Bill's Wild West.</head>
+
+<p>In riesigen Reklamen hatte Buffalo Bill seine Ankunft in Aachen schon Tage vorher verk&#252;nden lassen und dadurch die Spannung auf die in Aussicht gestellten Darbietungen aus dem abenteuerlichen Leben der Pfadfinder, Cowboys und Indianer in den westlichen Prairien Amerikas aufs h&#246;chste gesteigert. Der heutige Sonntag Nachmittag bot das Schauspiel einer wahren V&#246;lkerwanderung zum Adalbertsteinweg hinaus, der ganze, lange Weg war schwarz von Menschen, die allerdings zum Theil auch der Kirmes in Forst zustrebten. Die Pferdebahn hatte ihren Erntetag, 5 und 6 Wagen, einer vollgepfropfter als der andere, fuhren hintereinander und zwar zum ersten Male auch auf dem neu gelegten Gelei[ ]e bis zur Kaserne. Dieser gegen&#252;ber befindet sich der gro&#223;e, von einem Bretterzaun umgebene Schauplatz von Buffalo's Wild West. Der ersten Vorstellung mochten etwa 3&#8212;4000 Personen, die zum Theil aus der n&#228;heren und ferneren Umgebung gekommen waren, beiwohnen. Eine Menge Leute hatte auch an den Fenstern und auf den zum Theil abgedeckten D&#228;chern der Hinterh&#228;user der Trierer Stra&#223;e, von wo aus man die Arena bequem &#252;bersehen kann, Posto gefa&#223;t, ja sogar auf die Kamine und in die Gest&#228;nge der Ferns rechleitnng waren Waghalsige geklettert, um von diesen gef&#228;hrlichen Sitzen herab das au&#223;erordentlich interessante, hier noch nie gesehene Schauspiel betrachten zu k&#246;nnen.</p>
+
+<p>Gleich der Beginn der Vorf&#252;hrungen bot ein eigenartig fesselndes Bild. Eine Fanfare ert&#246;nte und in die Arena st&#252;rmten auf feurigen Pferden im Carri&#232;re Gruppen verschiedener Indianerst&#228;mme, Cowboys &#40;amerikanische Kuhhirten&#41; und mexikanische Vaqueros. Die Indianer in vollem Kriegsschmuck, zum Theil halbnackt, aber alle mit grellen Farben bemalt, auf dem Kopf Federb&#252;schel, die bei den H&#228;uptlingen bis auf den Boden herabreichen, in den H&#228;nden Bogen, den gef&#252;rchteten Tomahawk oder Lanzen. Die Cowboys pr&#228;sentieren sich in einfachem aber malerischem Kost&#252;m, in buntfarbigen Blousen, hohen Ledergamaschen und breitrandigen, weichen Filzh&#252;ten, die Vaqueros in Lederhosen und buntfarbigen Hemden, auf dem Kopf die mexikanischen Sombreros; am Sattel hing der Lasso, das Seil, dessen Schlinge im Fluge sich um den Hals des Opfers schlingt und selbst das wildeste Pferd im Augenblick zum Stehen bringt. Immer neue Gruppen sausten &#252;ber den Plan: die Arrapahoes&#8211;Indianer mit ihrem Kriegsgeheul, das wie das Bellen hungriger W&#246;lfe klang, die Brul&#232;&#8211;Indianer, deren H&#228;uptling auf den poetischen Namen <persName xml:id="short.bull">Short Bull (kurzer Ochs)</persName> h&#246;rt und mit unbeweglichem Gesicht zu Pferde sa&#223;, Cutt Offs mit ihrem H&#228;uptling <persName xml:id="kicking.bear">Kicking Bear (Ausschlag&#8211;B&#228;r)</persName>, dann Cheyenne&#8211;Indianer und Sioux, deren in rasendem Lauf daherst&#252;rmende Pferde kaum den Boden zu ber&#252;hren scheinen und deren Medizinmann (Zauberer) im Gesicht eine wahre Musterkarte von Anstreicherfarben tr&#228;gt und von seinen Stammgenossen mit besonderem Hochachtungsgeheul begr&#252;&#223;t wurde. Auch einer der &#228;ltesten Pfadfinder Amerikas, <persName xml:id="nelson.j">John Nelson</persName>, sprengt daher, vorher hatten vier junge Damen aus dem Westen von Amerika die Bahn auf ihren feurigen Rennern umkreist. Zuletzt, als sich alle diese Gruppen vereinigt und in Linie vor den Trib&#252;nen Aufstellung genommen hatten, erschienen zwei Reiter, von denen der eine die deutsche Fahne, der andere das Sternenbanner trug und endlich Buffalo Bill. Man mu&#223; es ihm lassen, es ist ein schneidiger Reiter, dieser Oberst W. Cody, das Haupt der Kundschafter der Armee der Vereinigten Staaten. Das von langen, grauen Haaren umrahmte sympathische Gesicht wird von einem gro&#223;en Schlapphut beschattet, ein Wamms aus gelben Leder und mit Stickereien versehen, gibt Buffalo Bill ein charakteristisches Gepr&#228;ge. Er ritt vor die Front der Truppe, begr&#252;&#223;te die ihm znjubelnden Zuschauer und gab dann das Zeichen zum Abmarsch, worauf die Reitergruppen auseinanderstoben, wobei die Indianer wieder ihr Kriegsgeheul ausstie&#223;en und die Cowboys Ihre Rosse mit lautem Geschrei anfeuerten.</p>
+
+<p>Nunmehr begannen die fesselnden und aufregenden Einzelauff&#252;hrungen, die zum Theil hier nie Gesehenes boten. Zuerst ein Pferderennen zwischen einem Cowboy, einem Mexikaner und einem Indianer auf spanisch&#8211;mexikanischen Pferden, dann produzierte sich Frl. <persName xml:id="oakley.a">Annie Oakley</persName>, eine Meisterin im Schie&#223;en. Die junge Dame, in ihrem marineblauen, kurzen Kleide, lange Gamaschen an den F&#252;&#223;en und einem leichten Filzhut auf dem aufgel&#246;sten Haar scho&#223; aus 6 Hinterladerb&#252;chsen mit allen Chikanen: immer traf ihr G scho&#223; die durch eine Wurfmaschine in die H&#246;he geschleuderten oder von einem Cowboy an einer Schnur im Kreise umhergewirbelten Pechkugeln, gleichviel ob sie das Gewehr richtig oder umgekehrt hielt, ob sie direkt, oder &#252;ber die Schulter r&#252;ckw&#228;rts schie&#223;end mit einem kleinen Handspiegel visirte. Mi&#223; Annie schien Freikugeln zu gebrauchen, denn kaum eine verfehlte ihr Ziel; Doubletten oder gar 4 und 6 Kugeln hintereinander in Atome zu zerschmettern, war ihr Kleinigkeit. Neben dieser au&#223;erordentlichen Treffsicherheit war auch die Ruhe bewundernsweth, mit der die Dame ihre B&#252;chsen handhabte. Nachdem sie unter lebhaftem Beifall der Zuschauer aus der Arena geh&#252;pft, f&#252;llte sich dieselbe wiederum mit Reitergruppen, amerikanische Truppen und Indianer darstellend, die zun&#228;chst als Zuschauer einen Einzelkampf verfolgten, der als eine Nachahmung desjenigen gelten sollte, der am 17, Juli 1875 zwischen Buffalo Bill und <persName xml:id="yellow.hair">Yellow Hand (Gelbe Hand)</persName>, dem H&#228;uptling der Sioux zu War Bonnet Creell &#40;Dakota&#41; stattfand und mit dem Tode des H&#228;uptlings endigte. Die K&#228;mpfer erschienen zu Pferde, sprangen dann ab und gingen mit Messer und Tomahawk aufeinander los. Blitzschnell w[ ]hen Beide den St&#246;&#223;en und Hieben aus, jetzt gab sich Yellow Hand eine Bl&#246;&#223;e und im Nu fuhr ihm der Stahl ins Herz, er st&#252;rzte zu Boden und wurde nach der barbarischen, auch von den Hinterw&#228;ldern angenommenen indianischen Sitte skalpiert. Der Tod des F&#252;hrers war f&#252;r die feindlichen Haufen das Signal, sich mit wilder Kampfbegier aufeinander zu st&#252;rzen, ein heftiges Flintengeknatter hub an, bis schlie&#223;lich die Indianer von den Amerikanern verfolgt, die Flucht ergriffen.</p>
+
+<p>Eine ebenfalls interessante Nummer folgte. Sie zeigte, wie fr&#252;her die sogenannten Ponypost&#8211;Reiter die Briefe und Depeschen der Regierung &#252;ber die gro&#223;en Prairien bef&#246;rderten, ehe es dort Eisenbahnen und Telegraphen gab. Zu dem Zwecke waren in gewissen Abst&#228;nden in der Arena ungesattelte Pferde aufgestellt. In wildem Ritt st&#252;rmte nun der Ponypost&#8211;Reiter daher, sprang an den betreffenden Stellen mit dem losen Sattel im Nu vom Pferde auf das bereitstehende und jagte auf diesem davon. Nur durch diesen &#252;berraschend schnellen Pferdewechsel war es dem Ponypost&#8211;Reiter, der alle 10 &#40;engl.&#41; Meilen die Pferde wechselte, m&#246;glich, 50 Meilen ohne Anhalten zu machen.</p>
+
+<p>Eine aufregende Kampfscene wurde jetzt vorgef&#252;hrt. Sie stellt den Ueberfall eines Emigrantenzuges durch Indianer und die Vertheidigung desselben durch herbeigeeilte Grenzbewohner dar. Auf den primitiven Karren Weib und Kind, Hausrath und Saatgut zieht eine Schaar Auswanderer zu Pferde, an der Spitze John Nelson, der Pfadfinder, die bew  hrte B&#252;chse quer &#252;ber dem Sattel durch die Pr&#228;rie der neuen Heimath zu. Pl&#246;tzlich bricht mit wildem Geheul eine Bande Indianer zu Pferde hervor und jagt auf den Zug los. Doch dieser ist auf den Angriff ger&#252;stet, im Galopp fahren die Karren auf, gleichsam eine Wagenburg bildend, hinter der Weiber und Kinder Schutz finden, die M&#228;nner aber er&#246;ffnen, indem sie sich der am Boden liegenden Pferde als Deckung bedienen, ein gutgezieltes Feuer auf die heranst&#252;rmenden Feinde. Es entwickelt sich ein Kampfbild von eigenartig wilder Sch&#246;nheit: wie die k&#252;hnen Reiter an einer Seite des Sattels herabh&#228;ngend sich durch die Leiber ihrer Pferde deckten und dann pl&#246;tzlich zum Angriff emporschnellten, wie die klugen Pferde, als w&#228;ren sie verwundet sich am Boden w&#228;lzten und wie die Rothh&#228;ute unter Hinterlassung von Todten und Verwundeten davon jagten. Leider ging diese Scene nicht ohne Unfall vor&#252;ber. Ein Pferd &#252;berschlug sich und schien das Genick gebrochen zu haben, w&#228;hrend der Reiter unversehrt davon kam. Eine h&#252;bsche, von Cowboys und Grenzbewohnerinnen ausgef&#252;hrte Quadrille zu Pferde, an der sich auch Buffalo Bill betheiligte, beschlo&#223; diese Nummer.</p>
+
+<p>Von den weiteren Darbietungen erw&#228;hnen wir derdes jungen <persName xml:id="baker.l">Johnny Baker</persName>, der im Schie&#223;en der Mi&#223; Oakley nichts nachgab und und der sogar auf dem Kopfe stehend, die in die Luft  geworfenen Pechkugeln traf. Noch gl&#228;nzendere Proben von Schie&#223;fertigkeit legte Mr. <persName xml:id="daly.c">Daly</persName> ab, der u. A. mit einem Revolver auf 10 Meter Entfernung das A&#223; einer Karte mit seiner Kugel durchbohrte und eine mit der Kante ihm zugewandte Karte in zwei Theile scho&#223;. Die besten Leistungen im Schie&#223;en bot indessen Buffalo Bill selbst. Im Galopp durch die Arena reitend scho&#223; er mit seinem Repetirgewehr die von einem neben ihm reitenden Cowboy geworfenen Pechkugeln mit unfehlbarer Sicherheit herunter, was ihm den st&#252;rmischen Beifall des Publikums einbrachte.</p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<p>In huge advertisements, Buffalo Bill announced his arrival in Aachen several days early, thus heightening to the maximum level the excitement surrounding the forthcoming presentations of the adventurous lives of the scouts, cowboys and Indians in the western prairies of America. This afternoon (Sunday), the show produced a veritable migration of people towards the Adalbertseinweg; along its entirety, the long road was black with masses of people, some of whom were also heading to the fair in Forst. The horse&#8211;drawn trams had a field day; 5 or 6 tramcars, each as jam&#8211;packed as the last, drove one after another all the way to the barracks, travelling for the first time along the newly laid tramlines. Buffalo Bill's large showground is located opposite the barracks and is surrounded by a wooden fence. The first performance was attended by 3&#8211;4,000 people who had come from far and near. A number of people also secured posts in the windows and on the covered roofs of the rear buildings on Trierer Stra&#223;e, from which one can comfortably view the arena; some daredevils even climbed up to secure dangerous perches on the chimneys and telephone line poles to watch the extraordinarily interesting, and hitherto unseen, spectacle.</p> 
+
+<p>Straight away, the beginning of the show presented a uniquely captivating scene. A fanfare of trumpets rang out and into the arena there stormed, at full gallop, groups of different Indian tribes, cowboys (American cowherders) and Mexican vaqueros, mounted on fiery horses. The Indians were in full war costume; some of them were half&#8211;naked, but all were painted in dazzling colors, had plumes of feathers on their heads (the chiefs' feathers reached the ground), and carried bows, the much&#8211;feared tomahawk, or lances. The cowboys presented themselves in simple but picturesque costumes: blouses of various colors, tall leather leggings, and soft, wide&#8211;brimmed felt hats. The vaqueros were in leather pants and colorful shirts, with Mexican sombreros on their heads; on their saddles hung lassos, the ropes which are thrown around the necks of their victims and can bring even the wildest horses to a halt in the blink of an eye. New groups kept speeding across the arena: the Arapahoe Indians with their war cries, which sounded like the barking of hungry wolves; the Brul&#232; Indians, whose chief goes by the poetic name Short Bull and sat on his horse with a rigid expression on his face; Cut Offs with their chief Kicking Bear;<ref target="n02">2</ref> then, Cheyenne Indians and Sioux, whose wildly running horses seemed to barely touch the ground and whose medicine man (sorcerer) wears a veritable spectrum of paint colors on his face and is greeted by his fellow tribesmen with a special, high&#8211;pitched howl. One of the oldest scouts in America, John Nelson, galloped forth, preceded by four young women from Western America who circled the track on their spirited steeds. Lastly, we everyone from this group assembled together and lined up in front of the stands, two riders appeared, one holding the German flag, the other carrying the star&#8211;spangled banner, and finally, Buffalo Bill. You have to hand it to him: He is a dashing rider, this Colonel W. Cody, Chief of Scouts of the United States Army. The pleasant face, framed with long, grey hair and shaded by a wide&#8211;brimmed hat, and the embroidered yellow leather jacket give Buffalo Bill a characteristic appearance. He rode before the front of the troupe, greeted the cheering audience and then gave the signal to march off, whereupon the rider groups dispersed, the Indians once again uttering their war&#8211;cries and the cowboys spurring on their steeds with loud shouts and yells. </p>
+
+<p>There now began the captivating and exciting solo performances, some of which offered things that have not been seen here before. First came a horserace between a cowboy, a Mexican and an Indian on Spanish&#8211;American horses; then, Miss Annie Oakley, a master shooter, performed. In her short, navy blue dress, long leggings, and lightweight felt hat worn over loosely worn hair, the young lady shot with six breech&#8211;loading rifles featuring all the bells and whistles: her shots always hit the [pitch balls], which were flung into the air by a throwing machine or a cowboy [with a sling], regardless of whether she held the rifle the correct way or backwards and whether she shot directly or over the shoulder while looking into a small hand&#8211;mirror. It was as if Miss Annie were using magic bullets, for she rarely missed her target: smashing "doublettes" or even 4 or 6 balls into atoms, one after another, was mere child's play to her. Besides this extraordinary accuracy, the calm with which the lady handled her rifles was admirable. After she bounded out of the arena to lively cheers from the audience, it was filled once again with rider groups, representing American troops and Indians; they initially watched as spectators at a duel, which was supposed to be a reenactment of the fight between Buffalo Bill and Yellow Hand, the chief of the Sioux, which took place at War Bonnet Creek (Dakota) on 17 July 1875 and resulted in the death of the chief. The fighters appeared on horseback, then jumped off and went at each other with knife and tomahawk. Moving at the speed of lightning, each of them avoided the hits and blows of the other; then, Yellow Hand let down his guard and, in an instant, the blade was driven into his heart. He fell to the ground and was scalped in accordance with the barbaric Indian custom, which has also been adopted in the backwoods. The chief's death was the signal for the opposing cohorts to rush towards each other wildly with a ferocious lust for battle; an intense rattle of gunfire began, until finally the Indians fled, pursued by the Americans.</p> 
+
+<p>An equally interesting act followed. It showed how the so&#8211;called Pony Express riders delivered the government's letters and dispatches over the vast prairies before any trains or telegraphs existed there. Unsaddled horses were stationed at intervals throughout the arena for this purpose. Riding wildly, the Pony Express riders stormed forth, jumped from their horse with the saddle loosened when they reached one of the aforementioned stations, sprang onto another horse standing ready nearby, and sped off again in no time. It was only possible for the Pony Express riders, who stopped every 10 (English) miles to change horses, to ride 50 miles without stopping because of this rapid change of mounts. </p>
+
+<p>Next, an exciting fight scene was performed, depicting an attack on an emigrant train by Indians and the defense thereof by frontiersmen who rushed to the scene. A host of emigrants on horseback make their way across the prairie towards their new home, headed by John Nelson, a scout with a tried and tested rifle slung over his saddle, and with primitive wagons carrying women and children, household goods and seeds. Suddenly, a band of Indians on horseback bursts forth with wild cries and attacks the wagon train. But the wagon train is prepared for the attack, and the carts maneuver quickly to form a sort of wagon&#8211;fortress, behind which the women and children find shelter; but the men open fire on the fast&#8211;approaching enemies, using the horses lying on the ground as cover. A battle scene of strangely fierce beauty unfolded, showing how the brave riders hung onto the ride of their saddles, hiding behind their horses' bodies and using them as cover, and then suddenly jumped up to attack; how the clever horses rolled on the ground as if wounded; and how the redskins sped off, leaving their dead and wounded behind. Unfortunately, this scene did not pass without any mishaps. A horse went head over heels and appeared to have broken its neck, while the rider emerged unscathed. This act was closed by a beautiful quadrille on horseback conducted by cowboys and frontierswomen in which Buffalo Bill also participated. </p>
+
+<p>Of the other performances, we must also mention that of the young Johnny Baker, who concedes nothing to Miss Oakley in shooting, and even stood upside down on his head to shoot down the pitch balls that were thrown into the air. Mr. Daly presented even more brilliant examples of shooting skills: Among other things, he pierced the ace of a playing card with a bullet shot from his revolver at a distance of 10 meters; he also split a card, which had the edge facing towards him, in two. The best shooting performances, however, were presented by Buffalo Bill himself. Galloping through the arena and using his repeating rifle, he shot down pitch balls thrown up by a cowboy riding next to him with unfailing accuracy, evoking wild applause from the spectators. </p>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Aachen, Germany, from May 24-27, 1891.</note>
+
+<note xml:id="n02">Note 2: Kicking Bear belonged to the Oglala Lakota tribe. The descriptor "Cut Off" may refer to a band or bands which had been 'cut off' from the larger tribe, possibly due to their involvement in the Ghost Dance movement. Kicking Bear geh&#246;rte zum Stamm des Oglala Lakotas. Der Begriff "Cut Off" bezieht sich m&#246;glicherweise auf eine Gruppe oder Gruppen, die von gr&#246;&#223;eren Stamm abgeschnitten wurden, m&#246;glicherweise aufgrund ihrer Beteilung an der "Ghost Dance" Bewegung. </note>
+</back>
+</text>
+</TEI>

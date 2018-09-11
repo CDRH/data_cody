@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13680">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Buffalo Bill und seine Truppe in Wien</title>
+<title type="main" xml:lang="en">Buffalo Bill and his Troupe in Vienna</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13680</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Buffalo Bill und seine Truppe in Wien</title>
+<title level="a" type="main" xml:lang="en">Buffalo Bill and his Troupe in Vienna</title>
+<title level="j">Die Presse: Wiener Tages&#8211;Bericht</title>
+<pubPlace>Vienna, Austria</pubPlace>
+<date when="1890-05-07">May 7, 1890</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.080.04 (Oakley Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Firearms</term>
+<term>German language</term>
+<term>Historical reenactments</term>
+<term>Indians of North America</term>
+<term>Sharpshooters</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carver, William F. (William Frank), 1840-1927</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Rocky Bear</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Vienna (Austria)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name>Benn, James</name> <name xml:id="lc">Clark, L.</name> Proofreading</change>
+<change when="2018"><name>Roberts, Briana</name> <name xml:id="jb">Benn, James</name> Translation</change>
+<change when="2018"><name xml:id="br">Roberts, Briana</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp13680.001"/>
+
+
+<fw>Wien, Donnerstag den 8. Mai 1890.<ref target="n01">1</ref></fw>
+
+<dateline>Wien, 7. Mai.</dateline>
+
+<head>[Buffalo Bill und seine Truppe in Wien.]</head>
+
+<p>Eine kleine Gruppe von geladenen G&#228;sten besichtigte heute Nachmittags die riesenhafte Arena, die Stallungs&#8211; und zahllosen Wohnungszelte, welche f&#252;r die Truppe des Obersten Cody, genannt &#8222;Buffalo Bill&#8220;, auf einem Wiesencomplex n&#228;chst der Kronprinz Rudolfstra&#223;e im Prater errichtet worden sind. Die Arena umfa&#223;t nahezu 18.000 gedeckte Sitzpl&#228;tze und umrahmt eine colossale Wiesenfl&#228;che, auf welcher die mannichfaltigen Bilder aus dem Leben des &#8222;wilden Westens&#8220; Amerikas, von der aus Cowboys, Scharfsch&#252;tzen, Lassowerfern, Mustangreitern und Indianern gebildeten Truppe Buffalo Bill's zur Darstellung gebracht werden sollen. Heute wurden den G&#228;sten nur die hervorragendsten Mitglieder der Gesellschaft vorgef&#252;hrt. Es sind dies neben dem Chef der Truppe, Oberst Cody, einem h&#252;nenhaften Manne von gewinnendem Wesen, der in der liebensw&#252;rdigsten Weise die Honneurs machte, der aus den Indianerkriegen der nordamerikanischen Union bekannte Indianerh&#228;uptling &#8222;<persName xml:id="rocky.bear">Rockey Bear&#8220; (Felsenb&#228;r)</persName>, ein Krieger von sechs Fu&#223; L&#228;nge und einem an Cuivrepoli&#8211;K&#246;pfe gemahnenden Gesichte (Rockey Bear besitzt nicht weniger als dreihundert eigenh&#228;ndig gesammelte Scalps); ferner der Chef der Cowboys, ein Lassowerfer und Reiter von verbl&#252;ffender K&#252;hnheit; die Kunstsch&#252;tzin Mi&#223; <persName xml:id="oakley.a">Annie Oakley</persName>, deren Virtuosit&#228;t im Schie&#223;en jene des Mr. <persName xml:id="carver.w">Carver</persName> entschieden &#252;bertrifft; ein indianischer Pfeilschleuderer, eine ausgezeichnete Schulreiterin u. Von ganz besonderem sportlichen Interesse sind die unansehnlichen Pferdchen, deren unglaublichen Bockcapriolen wol kein continentaler Reiter Stand halten k&#246;nnte. Eine Heerde amerikanischer B&#252;ffel, 180 Pferde, sowie Angeh&#246;rige aller erdenklichen indianischen St&#228;mme vervollst&#228;ndigen die Truppe. Die Productionen der Buffalo&#8211;Bill&#8211;Truppe unterscheiden sich, wie man schon heute aus den vorgef&#252;hrten Stichproben deutlich sehen konnte, wesentlich von den vorj&#228;hrigen Vorstellungen Wild&#8211;Amerikas in der Rotunde durch die Gro&#223;artigkeit und Weitl&#228;ufigkeit der ganzen Anlage. Man kann thats&#228;chlich erwarten, interessante Bilder aus dem vom Zauber der &#8222;Lederstrumpf&#8220;  &#8211;Romantik umwobenen Leben und Treiben des Westens Amerikas zu Gesicht zu bekommen.</p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<fw>Vienna, Thursday the 8th of May</fw>
+<dateline>Vienna, 7 May</dateline>
+<head>[Buffalo Bill and his troupe in Vienna.]</head>
+
+<p>This afternoon, a small group of invited guests viewed the vast arena and the stabling tents and countless sleeping tents which have been erected on a field next to Crown Prince Rudolf Street by the Prater<ref target="n02">2</ref> for Colonel Cody (known as "Buffalo Bill") and his troupe. The arena includes nearly 18,000 covered seats and frames a huge field, on which the various scenes from the life of the "Wild West" of America, depicted by the cowboys, sharp&#8211;shooters, lasso&#8211;throwers, mustang&#8211;riders and Indians which form Buffalo Bill's troupe, will be performed. Today, only the most prominent members of the troupe were presented to the guests. Besides the head of the group, Colonel Cody, a giant of a man with a winning nature who did the honors in the most amiable matter, there was "Rocky Bear," the Indian chief known for his exploits in the Indian Wars of the North American Union. The 6&#8211;foot&#8211;tall warrior has a face resembling polished copper, and possesses no fewer than three hundred scalps, which he collected by his own hand. There was also the leader of the cowboys, a lasso&#8211;thrower and rider of amazing boldness; the sharp&#8211;shooter Miss Annie Oakley, whose virtuosity in shooting decidedly surpasses that of Mr. Carver; an Indian bowman, an excellent lady man&#232;ge rider, etc. Of particular interest to those who are sports&#8211;minded are the ungainly horses, whose unbelievable bucking would not allow any continental rider to stay put. A herd of American buffalo, 180 horses, and members of all imaginable Indian tribes complete the troupe. The productions of Buffalo Bill's troupe differ substantially from last year's performances of Wild America in the Rotunde,<ref target="n03">3</ref> as was clearly seen in the sample presented today through the magnificence and spaciousness of the entire complex. One can indeed expect to catch sight of interesting scenes from the life and activities of the American West, shrouded in the magic of the "Leatherstocking" romances.<ref target="n04">4</ref> </p>
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Vienna, Austria, May 8-29, 1890.</note>
+
+<note xml:id="n02">Note 2: The Prater is a large public park in Vienna, Austria, in which the "Rotunde" (see below) used for the 1873 World Exhibition was constructed. Buffalo Bill's Wild West performed at the Prater numerous times.</note>
+
+<note xml:id="n03">Note 3: The "Rotunde" was a large building in Vienna, constructed for the 1873 Vienna World Exhibition.</note>
+
+<note xml:id="n04">Note 4: This is a reference to James Fenimore Cooper's "Leatherstocking Tales." </note></back>
+</text>
+</TEI>

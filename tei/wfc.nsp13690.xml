@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13690">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Die ber&#252;hmte Kunstsch&#252;tzin Miss Annie Oakley</title>
+<title type="main" xml:lang="en">The celebrated sharp&#8211;shooter Miss Annie Oakley</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13690</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Die ber&#252;hmte Kunstsch&#252;tzin Miss Annie Oakley</title>
+<title level="a" type="main" xml:lang="en">The celebrated sharp&#8211;shooter Miss Annie Oakley</title>
+<title level="j">Der Weidmann</title>
+<pubPlace>Berlin-Sch&#246;neberg</pubPlace>
+<date/>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.084.00 (Oakley Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Firearms</term>
+<term>German language</term>
+<term>Lakota Indians</term>
+<term>Sharpshooters</term>
+<term>Shooting contests</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Sitting Bull, 1831-1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Berlin (Germany)</term>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name>Benn, James</name> <name xml:id="lc">Clark, L.</name> Proofreading</change>
+<change when="2018"><name>Roberts, Briana</name> <name xml:id="jb">Benn, James</name> Translation</change>
+<change when="2018"><name xml:id="br">Roberts, Briana</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp13690.001"/>
+
+<p>Die ber&#252;hmte Kunstsch&#252;tzin Miss <persName xml:id="oakley.a">Annie Oakley</persName> wurde am 13. August 1866 zu Woodland, Darke Co. im Staate Ohio, geboren und war von fr&#252;hester Jugend an eine leidenschaftliche Verehrerin der Schiesskunst. Schon im Alter von nicht ganz 10 Jahren schmuggelte sie aus ihres Bruders Zimmer eine B&#252;chse, um sich unbeobachtet damit in den Wald zu stehlen und hier nach ihrer Art dem Weidwerk obzuliegen. Da zu dieser Zeit ihre Heimat noch einen ziemlich grossen Wildstand besass, so brachte sie am Abend triumphirend mehrere selbsterlegte St&#252;cke 
+
+<figure><p>Miss Annie Oakley.</p></figure>
+
+nach Hause. An ihrem 12. Geburtstage wurde sie mit einem 14sch&#252;ssigen Repetirgewehr beschenkt, mit dem sie in k&#252;rzester Frist eine solche Sicherheit gewann, dass sie kaum je einen Fehlschuss machte. Im Alter von 14 Jahren war sie bereits imstande, eine Hypothek auf ihres Vaters Grundbesitz aus eigenen Mitteln abzuzahlen, die sie durch den Ertrag erlegten Nutzwildes und den Verkauf von Raubzeugb&#228;lgen erworben hatte.</p>
+
+<p>Durch die St&#228;ndige Uebung und den Gebrauch immer besserer und vollommenerer Waffen gelangte Miss Oakley rasch zu einer so ausserordentlichen Sicherheit, dass sie die allgemeine Aufmerksamkeit auf sich zog. W&#228;hrend der n&#228;chsten 6 Jahre begann sie nun, mit gl&#228;nzendem Resultat &#246;ffentlich als Kunstsch&#252;tzin aufzutreten; da sie aber von ungemein liebensw&#252;rdiger Bescheidenheit ist, erhob sie nie Anspruch darauf, als Champion&#8211;Sch&#252;tzin zu gelten, trotzdem ein Mr. Richard K. Fox aus New York so entz&#252;ckt von ihrer Fertigkeit war, dass er sich bereit erkl&#228;rte, f&#252;r sie jede Wette gegen irgend einen anderen namhaften Champion&#8211;Sch&#252;tzin halten zu wollen.</p>
+
+<p>&#8222;<persName xml:id="sitting.bull">Fitting Bull</persName>",<ref target="n01">1</ref> der grosse Indianische H&#228;uptling, nahm Miss Oakley, nachdem er ihren Vorstellungen in St. Paul in Minnesota beigewohnt, als Mitglied in seinen Stamm der Sioux auf und nannte sie &#8222;Watanga Sicila", gleichbedeutend mit &#8222;kleiner Sicher&#8211;Schuss".</p>
+
+<p>Die ersten beiden Jahre ihrer &#246;ffentlichen Laufbahn waren haupts&#228;chlich dem Gebrauch der B&#252;chse und Pistole gewidmet, und es giebt auf diesem Felde wohl nichts Erreichbares, das sie nicht damit geleistet h&#228;tte.</p>
+
+<p>Den ersten Versuch, nach Glaskugeln zu schiessen, unternahm Miss Oakley vor ungef&#228;hr 3 Jahren in Cincinati, und zwar gleich anfangs mit bestem Erfolge. Im Februar 1885 schoss sie an einem Tage auf 5000, von 3 verschiedenen, 15 <hi rend="italic">m</hi> erh&#246;hten Standpunkten aus geworfene Kugeln mit 3 16sch&#252;ssigen Repetirgewehren, die sie selbst lud, und traf davon 4772. Bei dem zweiten Tausend fehlte sie nur 16. Neben den vielen Schiessvorstellungen, welche Miss Oakley gab, betheiligte sie sich noch an 31 grossen Wettschiessen in Amerika, bei denen sie 25 Preise errang.</p>
+
+<p>Ihre Sammlung von Feuerwaffen, Medaillen, Ehrengaben u. s. w., die von ihr gewonnen oder ihr als Geschenke dargebracht wurden, soll die sch&#246;nste und grossartigste in ganz Amerika sein.</p>
+
+<p>Miss Oakley's Resultate im Schiessen nach Thontauben beliefen sich durchschnittlich auf 96 von 100, im Schiessen auf lebende Tauben aber auf 23 von 25.</p>
+
+<p>Sie brachte einige Zeit im &#8222;wilden Westen" zu und besuchte dann die <rs xml:id="exhibition.am">Amerikanische Ausstellung</rs> in London, bei der sie der Hauptanziehungspunkt gewesen sein soll, ihre Leistungen werden von den Englischen Sportsmen als etwas ganz Ausserordentliches angesehen, und man hat ihr von allen Seiten die gr&#246;sste Anerkennung gezollt, von <persName xml:id="albert.edward">Prinzen</persName> und der <persName xml:id="alexandra.denmark">Prinzessin von Wales</persName> bis zum kleinen Schuhputzer herab, der bei ihrem Erscheinen auf der Strasse enthusiastisch ausrief: &#8222;Seht, seht, dort geht die Meistersch&#252;tzin!" Ausser ihren Verpflichtungen der Ausstellung gegen&#252;ber veranstaltete sie in London unz&#228;hlige Privatvorstellungen. Alle Zeitungen waren ihres Lobes voll und betrachteten sie einstimmig als den Glanzpunkt der Ausstellung.</p>
+
+<p>Im Mai v. J. legte Miss Oakley eine Probe ihrer Kunst im Londoner Schiessclub ab, zu dessen Mitgliedern der Prinz von Wales geh&#246;rt. Sie benutzte bei dieser Vorstellung Kugelb&#252;chsen und Schrotgewehre und schoss auf lebende blue rocks.<ref target="n02">2</ref> F&#252;r ihre Leistungen erhielt sie die goldene Medaille, ein wahres Kunstwerk in der Ausf&#252;hrung, die bis dahin noch nie vom Club verliehen worden war. Dieselbe zeigt auf der einen Seite nebst dem Club&#8211;Hause verschiedene Schiesssport&#8211;Embleme, w&#228;hrend auf der anderen die Widmung steht: &#8222;Presented to Miss Annie Oakley, by the London Gun Club." (Dem Frl. Annie Oakley &#252;berreicht von dem Londoner Schiessclub.) Darunter befindet sich noch ein Ausspruch des Prinzen von Wales" &#8222; I know of no one more worthy of it." (Ich weiss von niemand, der dessen w&#252;rdiger w&#228;re.)</p>
+
+<p>Im vergangenen Jahre kam Miss Oakley nach Deutschland und versuchte, auf dem Rennplatz in Charlottenburg nach Thontauben zu schiessen, erzielte jedoch keine nennenswerthen Erfolge, da die Wurfmaschinen im Verh&#228;ltniss zu der Leistungsf&#228;higkeit der benutzten Gewehre zu entfernt standen. Eine Vorstellung in Berlin, die in den Reichshallen stattfinden sollte, wurde von der Polizei aus uns unbekannten Gr&#252;nden verboten.</p>
+
+<p>Den neuesten Nachrichten Englischer und Amerikanischer Bl&#228;tter zufolge ertheilt Miss Oakley gegenw&#228;rtig mehreren hochstehenden Damen Unterricht im Schiessen, wird sich aber demn&#228;chst v&#246;llig ins Privatleben zur&#252;ckziehen.</p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<p>The celebrated sharp&#8211;shooter Miss Annie Oakley was born on the 13th of August, 1866 in Woodland, Darke Co. in the state of Ohio, and was a passionate devotee of the art of shooting from the earliest years of her youth. Before she had even reached the age of 10, she smuggled a rifle out of her brother's room in order to steal away to the woods and apply herself unobserved to the art of hunting. Since game was still relatively plentiful in her homeland at that time, she was able to triumphantly bring home that evening several catches that she had killed herself. 
+
+<figure><p>Miss Annie Oakley.</p></figure>
+
+On her 12th birthday, she received as a gift a 14&#8211;shot repeater, in the use of which she quickly became so adept that she hardly ever missed a single shot. At the age of 14, she was already able to pay off a mortgage on her father's property with her own earnings, which she had acquired from the proceeds of hunted game and the selling of animal pelts. </p>
+
+<p>Through constant practice and the use of ever better and more complete firearms, Miss Oakley's shooting quickly became so extraordinarily accurate that she attracted public attention. During the next 6 years, she began to appear publicly as a sharp&#8211;shooter, producing brilliant results; but, being a person of most gracious modesty, she never claimed to be a champion shooter, even though a Mr. Richard K. Fox of New York was so enthralled with her skill that he declared himself ready to back her against any other renowned champion shooter. </p>
+
+<p>Sitting Bull, the great Indian chief, accepted Miss Oakley as a member of his tribe, the Sioux, after attending her performance in St. Paul, Minnesota, and named her "Watanga Sicila," which means "Little Sure&#8211;Shot." </p>
+
+<p>The first two years of her public career were primarily devoted to the use of the rifle and pistol, and there is nothing in this field that she could not have accomplished. </p>
+
+<p>Miss Oakley undertook her first attempt at shooting glass balls about 3 years ago in Cincinnati, and she had great success right from the start. One day in February 1885, she shot at 5,000 airborne balls fired from 3 different positions located 15 meters above the ground, using three 16&#8211;shot repeating rifles, which she loaded herself; of these, she hit 4,772. In the second thousand, she missed only 16. Besides the many shooting performances Miss Oakley gave, she also took part in 31 major shooting competitions in America, in which she won 25 prizes. </p>
+
+<p>Her collection of firearms, medals, awards, and so on, which she has won or which have been presented to her, is purported to be the most lovely and magnificent in the whole of America. </p>
+
+<p>Miss Oakley's results in shooting at clay pigeons average 96 out of 100, while her score in shooting at live pigeons is 23 out of 25.</p> 
+
+<p>She spent some time with the "Wild West" and then visited the American Exhibition in London, where she was the main attraction. Her performances were viewed as something truly extraordinary by the English sportsmen, and people from all walks of life paid her great tribute, from the Prince and Princess of Wales to the little shoe cleaner who, when she appeared in the streets, exclaimed enthusiastically: "Look, look, there goes the master shooter!" Besides fulfilling her obligations in relation to the exhibition, she also gave countless private performances in London. All the newspapers were full of praise for her and unanimously regarded her as the highlight of the exhibition. </p>
+
+<p>In May of last year, Miss Oakley presented a sample of her art at the London Gun Club, of which the Prince of Wales is a member. For this performance, she used ball&#8211;firing rifles and shotguns and fired at "blue rocks." For her achievements, she was awarded a gold medal, which was a true work of art in its craftmanship, and had never before been awarded by the club. One side of the medal portrays different shooting&#8211;sport emblems, in addition to the Club House; on the other side is the dedication: "Presented to Miss Annie Oakley, by the London Gun Club." Below, there is also a quotation from the Prince of Wales: "I know of no one more worthy of it."</p>
+
+<p>Last year, Miss Oakley came to Germany and attempted to shoot clay pigeons at the racing track in Charlottenburg, but didn't have any noteworthy success, as the throwing&#8211;machines were located too far away to match the capabilities of the rifles she used. There was to have been one performance in Berlin; this was due to take place in the Reichshallen, but it was forbidden by the police for reasons unknown to us.</p> 
+
+<p>According to the latest news from the English and American newspapers, Miss Oakley is currently giving instruction to several ladies of high social standing in the art of shooting, but will soon retire to private life.  </p>
+
+
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Misspelling of "Sitting Bull." Rechtschreibfehler von "Sitting Bull" (Sitzender Bulle).</note>
+
+<note xml:id="n02">Note 2: "Lebende blue rocks" translates to "living blue rocks." It is unclear what is meant by this, as blue rocks (a type of English clay pigeon) are by definition inanimate. Es ist unklar, was die Phrase "lebende blue rocks" hier bedeutet. "Blue rocks" sind eine Art Englische Thontaube und sind laut Definition leblos. </note>
+
+
+</back>
+</text>
+</TEI>

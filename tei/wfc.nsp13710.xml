@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13710">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Was sich Berlin erz&#228;hlt</title>
+<title type="main" xml:lang="en">What Berlin reports</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13710</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Was sich Berlin erz&#228;hlt</title>
+<title level="a" type="main" xml:lang="en">What Berlin reports</title>
+<title level="j">Berliner B&#246;rsen-Courier</title>
+<pubPlace>Berlin, Germany</pubPlace>
+<date when="1890-07-24">[July 24, 1890]</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.090.02 (Oakley Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Caf&#233; Bauer (Berlin, Germany)</term>
+<term>Cowboys</term>
+<term>Firearms</term>
+<term>German language</term>
+<term>Indians of North America</term>
+<term>Sharpshooters</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carver, William F. (William Frank), 1840-1927</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Berlin (Germany)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name>Benn, James</name> <name xml:id="lc">Clark, L.</name> Proofreading</change>
+<change when="2018"><name>Roberts, Briana</name> <name xml:id="jb">Benn, James</name> Translation</change>
+<change when="2018"><name xml:id="br">Roberts, Briana</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp13710.001"/>
+
+
+<head>Was sich Berlin erz&#228;hlt. </head>
+
+<p>Wirklich ein smarter Kerl, dieser Buffalo Bill! Das Gl&#252;ck, das ihn einst in seiner Kundschafterlaufbahn wohlbehalten mitten durch Hinterhalte und &#252;ber rauhe, von Indianern umlagerte Pfade f&#252;hrte, ist ihm auch in Berlin<ref target="n01">1</ref> treu geblieben und brachte ihm f&#252;r die Stunde der gestrigen Er&#246;ffnungsvorstellung pr&#228;chtiges Wetter. Der m&#228;chtige, regendurchtr&#228;nkte Wiesenplan hauchte den Trib&#252;nen so eine Art Prairieduft zu, die Tropfen auf den Halmen aber blitzen im Sonnenschein, und eine warmgoldige Welle &#252;berfluthete den menschenums&#228;umten Rink, dem das auf eine prachtvolle Weide, den einzigen Baum dieser Naturarena, gepflanzte Sterneubanner stolz &#252;berragte &#8212; all right! &#8212; Die ganze Schaustellung tr&#228;gt in hohem Ma&#223; den Charakter des Ungew&#246;hnlichen, Originellen. Schon die zw&#246;lf Kassen der Umz&#228;unung haben etwas apartes. Die Cassirer lugen aus kaj&#252;tenfensterartigen Oeffnungen hervor.</p>
+
+<p>&#8222;Progr&#228;mm&#8220;, &#8222;Progr&#228;mm&#8220; rufen drinnen mit echt amerikanischem Accent die deutsch radebrechenden Angestellten, welche, die Geldtasche um die Schulter geh&#228;ngt, mit B&#252;ndeln von &#8222;Wild West&#8211;Brochuren&#8220; in farbigem Umschlag einhergehen. Auf dem Terrain herrscht schon buntes Leben; das &#8222;Caf&#233; Bauer&#8220;, eine recht einladende, buntbewimpelte Halle, ist ge&#246;ffnet und dicht gef&#252;llt; an einem der Tische erfrischen sich Cowboys vor der Arbeit noch an brandy and soda, diesem Lieblings&#8211;Mischgetr&#228;nk des Yankees <gap reason="missing"/></p>
+
+<p>Da&#223; es an Leben, Farbe, Bewegung auf dem eigentlichen Schauplatze nicht fehlte, braucht wohl kaum besonders betont zu werden. Zun&#228;chst hielt das Publikum eine Art Revue &#252;ber s&#228;mmtliche Mitglieder der zahlreichen Buffalo Bill&#8211;Truppe ab, deren Lager und hervorragendste Erscheinungen wir bereits gestern unseren Lesern ausf&#252;hrlich geschildert haben. Das wilde Anst&#252;rmen der grellbemalten, federbespickten Indianer&#8211;Abtheilungen &#8212; einige der gedrungenen, sehnigen Gestalten sa&#223;en vom Lendenschurz abgesehen, v&#246;llig nackt im Sattel &#8212; machte einen pr&#228;chtigen Eindruck. Die Cowboys Buffalo Bill's mit den wild flatternden Locken in B&#252;ffelhaarhosen, die F&#252;&#223;e in den breiten, seltsam geformten Steigb&#252;geln auf den hochspringenden kleinen Teufelsrossen sind verwegene Gesellen, deren Reitkunst selbst unsern ber&#252;hmtesten Herrenreitern Ausdr&#252;cke der h&#246;chsten Bewunderung entlockt. Die Indianer&#8211;H&#228;uptlinge, in wehendem Kriegsschmuck jagen einzeln in die Bahn, und werden von ihren Stammesbr&#252;dern mit bet&#228;ubendem Geschrei empfangen. Die vier amerikanischen Amazonen der Gesellschaft, durchweg frische, m&#228;dchenhafte Gestalten, geben ihren Gef&#228;hrten an Tollk&#252;hnheit nichts nach. Die h&#252;bscheste von ihnen ist auch zugleich die beste Reiterin. Das jeder Gefahr spottende M&#228;dchen, welchem die langen schwarzen Locken die Schultern peitschen, saust im enganliegenden bordeauxfarbenen Reitkleid wie ein Sturmwind dahin und f&#252;hrt fast salto mortales mit dem Pferdchen aus. Als nacheinander ein Cowboy mit der deutschen Fahne und ein amerikanischer Cavallerist mit dem Sternenbanner die Bahn umkreisen, erscheint an allen Pl&#228;tzen st&#252;rmischer Beifall. Der kleinste Cowboy der Welt, Brennie Irving, ein Sattel&#8211;Knirps, f&#252;hrt im G&#252;rtel einen Revolver, der beinahe halb so gro&#223; ist, wie dieses Kn&#228;blein. Buffalo Bill, der ganz zuletzt auf schlankem wei&#223;en Rosse, in gelb&#8211;gr&#252;nlicher B&#252;ffelledertracht, dahersprengt &#8212; jeder Zoll ein Prairief&#252;rst &#8212; wird mit donnerndem Applaus und Getrampel begr&#252;&#223;t. Es w&#252;rde nur erm&#252;den, wenn wir hier die Vorstellung Schritt f&#252;r Schritt verfolgen wollten. So etwas mu&#223; man sehen, und selbst diejenigen, denen &#8222;Wild&#8211;Amerika&#8220; noch in Erinnerung ist, w&#252;rden bei Buffalo Bill erst den eigentlichen &#8222;far west&#8220; kennen lernen. Bot doch Dr. <persName xml:id="carver.w">Carver</persName> nur einen Abklatsch, und ist das Original, ist alles reicher und von gr&#246;&#223;erer Massenwirkung. Die Meistersch&#252;tzin Mi&#223; <persName xml:id="oakley.a">Annie Oakley</persName> haben wir den Lesern schon vorgestellt. Ihre Schie&#223;kunst ist &#252;ber jedes Lob erhaben &#8212; im Vertrauen gesagt, der Herr, welcher ihr beim Auftreten zur Hand ging, die B&#252;chsen reichte u., ist ihr Gatte. Ihr eben&#8211; <gap reason="missing"/></p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<p>Truly a smart fellow, this Buffalo Bill! The good fortune which once guided him in his scouting career, through ambushes and over rugged paths surrounded by Indians, remained faithful to him in Berlin and brought him splendid weather for yesterday's opening show. The sweeping, rain&#8211;soaked meadow breathed a kind of prairie&#8211;scent into the stands, the raindrops glittered in the sunshine, and a warm, golden wave flowed over the rink lined with people; the star&#8211;spangled banner, the only "tree" in this natural arena, is planted in the grand pasture and towers proudly over it &#8212; All right! The entire show presents the character of the unusual and the original exceedingly well. Even the twelve ticket offices situated around the enclosure fence have something special about them. The cashiers peek out of porthole&#8211;like openings. </p>
+
+<p>"Progr&#228;mm, Progr&#228;mm" ["programs, programs"], cry the employees within, speaking in broken German and with very American accents; with their money bags hanging on their shoulders, they also carry bundles of "Wild West brochures" sporting colored covers. There is already colorful activity prevailing on the showground: the "Caf&#232; Bauer,"<ref target="n02">2</ref> a very inviting and colorfully decorated hall, is open and densely filled; at one of the tables, cowboys refresh themselves before work with brandy and soda, this favorite mixed drink of the Yankees.</p>
+
+<p>That there was no lack of activity, color, or movement in the arena itself hardly needs to be emphasized. At first, the audience was gripped by a kind of fascination for the members of the multidudinous Buffalo Bill troupe, whose camp and brilliant appearances we described in detail to our readers yesterday. The wild onslaught of the garishly painted, feather&#8211;covered Indian divisions &#8212; one of the squat, sinewy figures sat in the saddle fully naked, apart from a loincloth &#8212; made a magnificent impression. Buffalo Bill's cowboys, with their wildly fluttering tresses and buffalo fur pants, their feet on wide, strangely formed stirrups, riding on their high&#8211;jumpting devil&#8211;steeds, are daring fellows whose horsemanship elicits expressions of the highest admiration, even from out most famous riders. The Indian chiefs, in billowing adornments, ride in one by one and are welcomed by their tribal brothers with deafening shrieks. The four American Amazons of the company are uniformly fresh, girlish figures and concede nothing to their reckless companions. The prettiest of them is also the best rider. The girl, who scoffs at danger and whose long black locks whip her shoulders, rushes around like a whirlwind in a fitted, Bordeaux&#8211;colored riding dress, almost performing <hi rend="italic">salti mortali</hi><ref target="n03">3</ref> on her horse. One after another, a cowboy with the German flag and an American cavalryman with the star&#8211;spangled banner circled the track, eliciting wild applause from around the arena. The smallest cowboy in the world, Bennie Irving, a saddle&#8211;tot, has a revolver in his belt that is almost half the size of the boy. Buffalo Bill, the very last one in the procession, wearing yellow&#8211;green buffalo leather attire and riding a slender white horse, springs forward &#8212; every inch a prince of the prairie &#8212; and is greeted with thunderous applause and stamping of feet. It would only tire our readers if we were to recount every step of the performance here. It is something that one must see, and even those who still recall "Wild America" would not really become familiar with the authentic "far west" until seeing it portrayed by Buffalo Bill. Indeed, Dr. Carver offered only a cheap imitation, and this is the true version: everything in it is richer and more likely to appeal to a mass audience. We have already introduced the master shooter Miss Annie Oakley to our readers. Her shooting skill is above all praise &#8212; strictly in confidence, the man who helped with the appearance by handling her the rifles and so on is her husband. Her even &#8212; <gap reason="missing"/></p>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Buffalo Bill's Wild West opened in Berlin, Germany, on July 23, 1890, and performed through August 23, 1890.</note>
+
+<note xml:id="n02">Note 2: Caf&#233; Bauer was a famous cafe/coffee house in Berlin, Germany, during the 19th and early 20th centuries.</note>
+
+<note xml:id="n03">Note 3: <hi rend="italic">Salti mortali</hi> (Latin; singular, as appears in original text: <hi rend="italic">Salto mortales</hi>) refers to a dangerous and potentially lethal jump.</note>
+</back>
+</text>
+</TEI>
