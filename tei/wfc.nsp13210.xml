@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13210">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The American Exhibition and the Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13210</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The American Exhibition and the Wild West</title>
+<title level="j">Sporting Life</title>
+<pubPlace>London, England</pubPlace>
+<date when="1887-05-10">May 10, 1887</date>
+<biblScope type="vol"></biblScope>
+<biblScope type="issue"></biblScope>
+<biblScope type="pp"></biblScope>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.005.03 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>American woman</term>
+<term>Aristocracy (Social class)</term>
+<term>Bands (Music)</term>
+<term>Cowboys</term>
+<term>Emigrants</term>
+<term>Exhibitions</term>
+<term>Firearms</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horses</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Orators</term>
+<term>Pony express</term>
+<term>Sharpshooters</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>Trick riding</term>
+<term>Trick roping</term>
+<term>Wagon trains</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Nelson, John Young, 1826-</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13210.001"/>
+
+<fw>The Sporting Life,</fw>
+
+<fw>TUESDAY, MAY 10.</fw>
+
+<head>THE AMERICAN EXHIBITION AND THE WILD WEST.</head>
+
+<byline>(BY OUR ROVING CORRESPONDENT.)</byline>
+
+<p>Our American Cousins are fortunate. Sunny skies and balmy breezes prevailed yesterday, and all the World and his wife, or, perhaps, it would be more correct to say, all London and his Spouse, flocked to West Brompton to assist at the opening of the great <rs xml:id="exhibition.am">Exhibition</rs>, which, in addition to exploiting the exhibits of Columbia, shows us a real presentment of life in the "Wild West," than which there is probably no field in American history more fascinating in the intensity of its interest, As may be expected from so vast an undertaking, the exhibition <hi rend="italic">per se</hi> is at present incomplete, which, however, is a family failing with exhibitions on their opening. Still, much advancement had been made since our last visit. The Picture Gallery is yet in rather a chaotic state. Several of the pictures which have been hung are of distinct interest. They are chiefly landscapes showing the bold and lofty configuration of the vast mountainous districts of the wide continent. A group of seven stuffed buffaloes at the entrance of the Exhibition, which, we were informed, had been loaned by the Wild West Company, gave what musicians would describe a preliminary tone colour to the Exposition. In the Exhibition proper the only things that caught our notice were the American Organ, which is very much in evidence; an elaborate stall for the vending of the "Imperial Hair Regenerator," and an inscription on a vacant "pitch," which relates that "This space will be occupied in a few days by a Household Ice Machine, and a steam Feather Roller." The dentist also has an elaborate show, though we looked in vain for the oculist. We must admit being disappointed in this regard, and to our mind at all events the "eye for eye and tooth for tooth" tradition will ever remain a fiction. The luncheon, however, we are glad to say, was a grand reality. The Perrier Jouet was invigorating, and the comestibles (thanks to Messrs. Bertram and Roberts) were all "very fine and large." Though, thanks to our customary procrastination, and some lazy omnibus cattle, we were somewhat late in arriving, and had some difficulty in finding a seat, yet when once fairly settled in our stride we gave the <hi rend="italic">Homard au Naturel</hi> jip, and the "Saumon a la Chambord" fits. The "Jambou de York" was a trifle off, but the Pate de Gibier and the Pate de Pigeon made ample amends, and, having leavened the whole with a few pounds of pressed beef, a Brobdignagian salad, and a few tumblers of the merry French wine, we felt fit and well, and adjourned to witness the opening ceremony. The arrangements for the opening ceremony might have been improved on, though perhaps we might accept this little arrangement as a specimen of American humour. Certainly the denizen of Fleet-street in search of information resembled the Dove from the Ark, inasmuch as he found no place to rest on. Inquiries were fruitless, and though a stand in the centre of the building was bravely stormed by these persevering and long-suffering individuals, it was merely an ephemeral success, as they were immediately dispossessed from their coign of 'vantage, and immediately dispersed with a laudable unanimity to the various abodes of bliss, beauty, and booze, which have been erected under the fostering care of Messrs. Bertram and Roberts. The exhibition was declared open at half-past three. "Hail, Columbia!" was played, then the National Anthem, and after vociferous cheering, Colonel <persName xml:id="russell.h">Henry S. Russell</persName> spoke as follows:&#8212;</p>
+
+<p>As President of the exhibition, and as an American who, with others, has worked hard to bring this day to a successful issue, I proclaim it now to be opened; and let us all hope that it may prove another strong link in that chain&#8212;sometimes strained, but never to be broken&#8212;which binds the United States to Old England, the child of its mother, to whom it owes the very traits of character which have made this day possible.</p>
+
+<p>A great rush was then made for the Wild West, and the vast covered amphitheatre was speedily occupied by a fashionable and distinguished throng, in which were easily recognisable persons of light and leading, and the world of Art, Science, and Society. The various incidents of the Wild West were heralded and described by an orator in a sort of judge's box, erected just inside the track, and facing the centre of the amphitheatre, sacred to hyper-gentility. The first feature was the Grand Processional Review, and the introduction of individual celebrities, groups, &amp;c. The Indians, Cowboys, and Vacqueros appeared from behind their panoramic rockeries in squads, and, galloping wildly around the course, wheeled up suddenly before the centre of the amphitheatre.
+</p>
+
+
+<lg><l>&#160;&#160;&#160;&#160;"The Pony Express</l>
+
+<l>&#160;&#160;&#160;&#160;Was not a success."</l></lg>
+
+
+
+<p><gap reason="missing"/>t all events, the gentleman conveying the mails <gap reason="missing"/>ped his bag in changing horses. This was merely the result of want of practice. The idea of the Frontier Mail Pony Express being well illustrated. The attack on an emigrant waggon, by a whooping party of Indians in full war-paint, was very exciting. Having surprised the primitive convoy, which could only offer a feeble resistance, they were in their turn attacked by a party of frontiersmen, who, after a prodigious cracking of rifles and pistols, and careering of steeds, eventually drove the ruddy warriors from the field. A very dexterous exposition of wing shooting was then given by Miss <persName xml:id="oakley.a">Annie Oakley</persName>&#8212;a very prepossessing young lady&#8212;followed by an exhibition of Cowboys' fun. The mounting and riding of the bucking horses tickled the vast gathering of spectators immensely. "Indigestion" and "Dynamite" particularly proved very obstinate, the latter lying down when an attempt was made to mount him. <persName xml:id="taylor.w">Buck Taylor</persName>, whom Providence has gifted with enormously long legs, and whose stature is 6ft. 4in., picked up a handkerchief and then his sombrero from the ground while riding at full speed. This equine feat inspired our privileged and particular poet, who had just arrived, and he immediately broke out badly with the appended unique effort;&#8212;</p>
+
+
+
+<lg><l>&#160;&#160;&#160;The Cowboy King, Buck Taylor,</l>
+
+<l>&#160;&#160;&#160;Is quite an equine Nailer;</l>
+
+<l>&#160;&#160;&#160;What man dare he will dare O,</l>
+
+<l>&#160;&#160;&#160;Picks up his wide Sombrero,</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;From off the ground</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;While at full bound</l>
+
+<l>&#160;&#160;&#160;His steed away does tear O!</l></lg>
+
+
+
+<p>The attack on the Deadwood Coach is, perhaps, the most stirring event of the programme. One does not need the assurances of Mr. Cody to believe that it is the old original coach. It is merely an ancient dilapidated framework, but as the orator, <persName xml:id="richmond.f">Frank Richmond</persName>, remarked, "it occupies an historical place in American history, having been baptized in fire and blood!" There was only one passenger who reclined on the crazy summit of the vehicle. The orator announced him as <persName xml:id="nelson.j">John Nelson</persName>, the husband of a Red Indian princess, and the proud progenitor of a numerous semi-royal family. He was also understood to say that John Nelson had guided Brigham Young on his first trip to Salt Lake City. Mr. Nelson rather took our fancy. He somewhat resembles Charles Peace (<hi rend="italic">Honi Soit!</hi>), and his Indian appelation is "Cha-Sha-Sha-na-po-ge-o." Captain Fred. Matthews, who manipulated the ribbons, is a man who all his life "has been thar" on the overland and other routes, passing through every stage, and gaining a reputation in the West second to none, and equalling his old friend and compatriot, "Hank Monk."</p>
+
+<p>Several distinguished passengers, including one or two Fleet-street Pressmen, having entered the coach, Mr. Richmond gave us to understand that the ancient vehicle would be attacked by a band of fierce and warlike Indians, who in their turn would be repulsed by scouts and cowboys. This proved true to the letter, the battle being almost a repetition of the attack on the emigrant train. Why the Cowboy Band (which, by the way, is a very good one) should play "Garry Owen" during the exciting <hi rend="italic">melee</hi> is a Jubilee conundrum. The phases of Indian life, including scalp, war, and other dances, were to a man of peace grotesque, not to say revolting; and as we never allow the sun to go down (or for that matter arise) on our wrath, we sought, with the Rhymist, the peaceful seclusion of Miss Annie Oakley's tent, where we imbibed various American juices of choice and agreeable flavour. The genuine buffalo hunt, which we returned in time to see, was not too exciting. In fact the noble bison seemed off colour. He was distinctly lethargic, and when opportunity offered made a bee-line for his Corral with a celerity which commanded our admiration and sympathy. The Buffalo is a noble quadruped, with a perennial hump, like ourselves, and we do not like to see him annoyed. The throwing of the lariat, and the roping and riding (!) (I quote the programme) of wild Texas steers were amongst the most expert and interesting features of the show, and certainly creates the greatest amusement. The final item on the programme was an attack on a settler's cabin by hostile Indians, and their repulse by Cowboys under Buffalo Bill. The latter's marvellous equine ability and skill with the rifle gave our Rhymist (who is a person of imperishable genius), the divine afflatus very badly. Here are the lines to</p>
+
+<lg><head>&#160;&#160;The Hon. W. F. Cody</head>
+
+<byline>&#160;&#160;(With our Rhymist's Compliments).</byline>
+
+<l>&#160;&#160;A wonderful man is Buffalo Bill,</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;He rides like Bil-</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;Ly, with great agil-</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;Ity, yet still</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;He has never a spill.</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;As a shootist, Bill</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;Has wonderful skill.</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;Each shot's a kill.</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;With marked viril-</l>
+
+<l>&#160;&#160;&#160;&#160;&#160;Ity and will.</l>
+
+<l>&#160;&#160;A wonderful man is Buffalo Bill.</l></lg>
+
+<p>In conclusion it may be said that the opening of the Wild West Show was one of the most signal successes of recent years. Such a vast concourse of the cream&#8212;or it may be as well to say the <hi rend="italic">creme de la creme</hi>&#8212;of society is seldom seen at any function. The number of chariots waiting at the gates outnumbered those of Pharaoh, and the phalanx of footmen constituted quite a small army. There is much in the Wild West show to please. There is novelty of incident, wonderful tone, colour, dexterous horsemanship, and a breezy independence of manner, which latter quality, by the way, is not entirely confined to the <hi rend="italic">dramatis person&#230;.</hi></p>
+
+<p>Of the exhibition, which is at present in an incomplete state, we must defer criticism. The switch-back railway, and the toboggan slide, were regarded with a degree of suspicion which is perhaps pardonable, by the curious, but wary Britisher. Familiarity will no doubt breed contempt of danger&#8212;at least, that is the rhymists' opinion. Upon enquiring whether he thought the British public would take kindly to the slide, he placed his taper finger to the side of his Bardolphian proboscis and answered, "Slidely!"</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

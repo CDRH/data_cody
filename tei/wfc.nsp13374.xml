@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13374">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Miss Oakley Defeats Graham</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13374</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Miss Oakley Defeats Graham</title>
+<title level="a" type="sub">The Clever Female Champion Slays Forty-seven Out of Fifty Pigeons</title>
+<title level="j">New York Star</title>
+<pubPlace>New York City, NY</pubPlace>
+<date when="1888-02-23">February 23, 1888</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.035.02 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Firearms</term>
+<term>Sharpshooters</term>
+<term>Shooting contests</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13374.001"/>
+
+
+<fw>The NEW YORK Star. </fw>
+
+<fw>THURSDAY, FEBRUARY 23, 1888.</fw>
+
+<head type="main">MISS OAKLEY DEFEATS GRAHAM.</head>
+
+<head type="sub">The Clever Female Champion Slays Forty-seven Out of Fifty Pigeons.</head>
+
+<p>The pigeon shooting match between Miss <persName xml:id="oakley.a">Annie Oakley</persName>, the female champion, and J. W. Graham, the English champion, at Camden, N.J., yesterday, attracted considerable interest. The contest was at fifty live birds, under the Hurlingham rules. The weather was beautiful and the large crowd present enjoyed the sport.</p>
+
+<p>In the betting Graham was a slight favorite, but the young lady had numerous supporters. The birds were fast flyers, and the contestants, who were in the best of condition, had to empty a second barrel very often to bring the pigeons down. Miss Oakley had splendid command of the gun, and some of her shots were applauded by the spectators. Graham did well in the early part of the match, but fell off toward the end, and was finally forced to submit to defeat. The score was:</p>
+
+<table><row><cell></cell><cell>Killed.</cell><cell>Missed.</cell><cell>Total.</cell></row>
+
+<row><cell>Oakley</cell><cell>47</cell><cell>3</cell><cell>50</cell></row>
+
+<row><cell>Graham</cell><cell>45</cell><cell>5</cell><cell>50</cell></row></table>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

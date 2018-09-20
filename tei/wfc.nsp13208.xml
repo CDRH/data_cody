@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13208">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [Amongst the skilled in arms of precision]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13208</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Amongst the skilled in arms of precision]</title>
+<title level="j">Daily Telegraph</title>
+<pubPlace>London, England</pubPlace>
+<date when="1887-05">[May 1887]</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.005.01 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American woman</term>
+<term>Firearms</term>
+<term>Orators</term>
+<term>Sharpshooters</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carver, William F. (William Frank), 1840-1927</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13208.001"/>
+
+<fw>THE DAILY TELEGRAPH.</fw>
+
+<p>Amongst the skilled in arms of precision, a very popular performance was given by Miss <persName xml:id="oakley.a">Annie Oakley</persName>, who at "wing shooting" would make a formidable antagonist to Colonel <persName xml:id="carver.w">Carver</persName>, a  well-known mechanical 
+<gap reason="truncated"/></p>
+
+<p>Great was the speculation as to who Mr. <persName xml:id="richmond.f">Frank Richmond</persName>, the orator, could be. He had long hair&#8212;so has Buffalo Bill; he was fantastic in attire and headdress&#8212;so, according to the hoardings, was Buffalo Bill! So bets were made and doubts were exchanged until the matter was settled by the orator ascending the rostrum and addressing a tremendous concourse of people that has been estimated as numbering at least 20,000. Marvellous to relate, though no one could have believed it for an instant, every word of Mr. Frank Richmond's comments was distinctly heard throughout the afternoon. Not one comic aside was lost, and he can be comic, as was found when one of the ladies had missed a difficult shot at the glass balls, the orator sententiously observed "She <hi rend="italic">can</hi> do it." And she did. The orator has a fine, resonant, and distinct voice. He articulates admirably, and certainly no one can deny that the very necessary part of the show <gap reason="truncated"/></p>
+
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

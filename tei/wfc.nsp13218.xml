@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13218">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [A correspondent writes]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13218</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [A correspondent writes]</title>
+<title level="j">The Dramatic Review</title>
+<pubPlace>London, England</pubPlace>
+<date when="1887">1887</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.007.03 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Horses</term>
+<term>Sharpshooters</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13218.001"/>
+
+<head>THE DRAMATIC REVIEW.</head>
+
+<p>A correspondent writes:&#8212;"So great has been the rush to see the Wild West Camp even before the show opens, so vast has been the noble army of deadheads seeking admission, the Executive of the <rs xml:id="exhibition.am">American Exhibition</rs> have had to print a polite form of refusal to grant admittance to the countless applicants whose only claim was a not unnatural curiosity. Buffalo Bill told me in his own tent, and in as nearly a plaintive voice as he is capable of, that he had been besieged by outsiders and could not get a moment to himself. Even as he was talking to the little party he had invited into his house, a strange woman and child sauntered in, but at a glance from Buffalo Bill&#8212;he <hi rend="italic">can</hi> glance&#8212;they made tracks. And as we left him a few minutes later, an enterprising young man pushed past us and hailed the Army scout with, "Colonel Cody, I believe, I represent" somebody's soap or all wool clothing, I fancy.</p>
+
+<p>Nevertheless, the camp is all ready and so are the campers. One or two rehearsals have been run and galloped through. Miss <persName xml:id="oakley.a">Annie Oakley</persName> has been getting her shooting-hand in and only the bucking horses' part of the programme has not been practised. "They need no rehearsing," said Sergeant <persName xml:id="bates.g">Bates</persName> to me grimly. This member of the big show is one of the most interesting personages there. He will be remembered as the man that carried the American flag through Great Britain in 1872. "A bit of a crank," as he calls himself, I am bound to say that I found him to be one of the most intelligent and interesting men I have met. He has all the charm of the <hi rend="italic">really</hi> nice American."</p>
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

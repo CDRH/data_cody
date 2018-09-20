@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13200">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [I elicited the following from Buck Taylor]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13200</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [I elicited the following from Buck Taylor]</title>
+<title level="j">Shooting Times and Illustrated Shooting Times</title>
+<pubPlace>London, England</pubPlace>
+<date when="1887-05">May 1887</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.003.12 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Cowboys</term>
+<term>Firearms</term>
+<term>Horses</term>
+<term>Sharpshooters</term>
+<term>Shooting</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13200.001"/>
+
+<head>SHOOTING TIMES</head>
+
+<p>I elicited the following from <persName xml:id="taylor.w">Buck Taylor</persName> respecting this peculiar quadruped:&#8212;"The Broncho is a horse. He has four legs like the sawhorse, but is decidedly more skittish. He is of gentle deportment and modest "mien," though there is nothing "mean" about him. All he asks is to be let alone. He is firm in this matter, and the most specious argument cannot shake his determination. The first Broncho I ever saw reached out with his right hand foot, and expostulated with his would-be rider so that he died. The Broncho is what the Cowboys call high strung: if you want to know how much climb on his apex. I once saw a clever down East equestrian get on a Broncho with much pomp and a derrick. After two or three spasmodic unheavals he gave one grand farewell "boost," and the rider clove the firmament, and split through the hushed ethereal until his toes ached from the lowness of the temperature, and he could hear the music of the spheres. Then he came down and fell in a little heap about a hundred yards from the starting-point, and a kind Samaritan gathered up the fragments in a cigar box. Like to try a 'Broncho,' Mr. Rover?" To this proposal I returned a firm but polite negative. After interviewing Miss <persName xml:id="oakley.a">Annie Oakley</persName>, the champion lady shot of America, who very kindly allowed me to inspect the many beautiful trophies she has received for feats at glass ball and wing-bird shooting, and after hearing the Cowboy Band give a taste of their quality, I bade farewell to the King of the Cowboys and "the Wild West," much pleased with the strange and interesting sights I had seen. The <rs xml:id="exhibition.am">America Exhibition</rs> and the Wild West will run from Monday next till October 31, and Buffalo Bill's "Wild West" will "show" twice a day&#8212;rain or shine!</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

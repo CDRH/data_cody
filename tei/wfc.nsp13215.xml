@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13215">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Pigeon Shooting</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13215</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Pigeon Shooting</title>
+<title level="a" type="sub">The Gun Club</title>
+<title level="j">Land and Water</title>
+<pubPlace>London, England</pubPlace>
+<date when="1887-05-07">May 7,1887</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.006.04 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Firearms</term>
+<term>Pistols</term>
+<term>Rifles</term>
+<term>Sharpshooters</term>
+<term>Shooting contests</term>
+<term>Shotguns</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13215.001"/>
+
+
+<fw>LAND AND WATER</fw>
+
+<fw><hi rend="italic">LONDON, 182, STRAND, W.C., MAY 7, 1[887]</hi></fw>
+
+<head type="main">Pigeon Shooting.</head>
+
+<head type="sub">THE GUN CLUB.</head>
+
+<p>On Saturday there was a large and [fash]ionable attendance, and the novelty of the day was the appearance of a lady gunner on the scene. This lady, Miss Annie Oakley,<!--LINK--> whose portrait we herewith present, is one of the numerous shooting wonders which have been produced in America. She is twenty years of age, and has practised shooting from almost babyhood, until she has now attained to great skill with shot-gun, rifle and pistol. With the rifle she once made a score of 943 glass balls (36 behind Ruth's "record") out of 1,000. This feat she has since surpassed, and now holds the record. She is a member of "Buffalo Bill's" Company. As this was her first lesson in English blue rock shooting, it was not surprising that several birds got away, but those she did kill were stopped in good time. The principal event was the 
+
+<figure n="drawing"/>
+
+Ludlow &#163;3 Handicap Sweepstakes, with &#163;25 added. This brought together a field of twenty-four shooters. Messrs. Shirley, Tudor, Wynill, Gambier and Kenrick kept together until the end of the sixth round; the last three lost their seventh rock, Mr. Wynill having particularly bad luck in this round, as his bird, hard hit, just managed to top the boundary wall. Messrs. Shirley and Tudor were more fortunate, and as they were now the only two left in, they decided to divide the prize, &#163;97. Nineteen members then came up for the &#163;2 Handicap Sweepstakes. Mr. Wynill was again to the front, with Mr. Merwyn Watts, these gentlemen killing bird for bird to the end of the eighth round, Mr. Merwyn Watts eventually winning the pool, &#163;38, with a score of eight out of nine. The winners of the &#163;1 sweeps were Messrs. Hastings, Cobb, Gambier, Wynill, Merwyn Watts and Earnfield.</p>
+
+
+
+<list><item>&#163;2 HANDICAP SWEEPSTAKES. 19 subs.</item>
+
+<item>Mr. Merwyn Watts, 31yds. rise (Purdey) (won &#163;38) 4 0 4</item>
+
+<item>Mr. Wynill, 30 (Baker) 4 0 3 0</item>
+
+
+
+<item>Mr. C. Seaton, 27 (Grant) 4 0</item>
+
+<item>Mr. Welbore Ellis, 30 (Purdey) 3 0</item>
+
+<item>Mr. W. F. Gambler, 24 1/2 (Grant) 3 0</item>
+
+<item>Mr. F. M. Cobb, 28 (Reilly) 3 0</item>
+
+<item>Lord de Clifford, 30 (Purdey) 3 0</item>
+
+<item>Mr. Featherstone, 25 (Purdey) 2 0</item>
+
+<item>Mr. A. D. Halford, 28 (Purdey) 2 0</item>
+
+<item>Col. Shelly, 25 (Purdey) 1 0</item>
+
+<item>Capt. Shelley, 28 1/2 (Reilly) 1 0</item>
+
+<item>Mr. Hastings, 30 1/2 (Grant) 1 0</item>
+
+<item>Mr. Earnfield, 27 1/2 (Purdey) 1 0</item>
+
+<item>Sir. T. Freke, 27 1/2 (Purdey) 0</item>
+
+<item>Mr. A. Gilbey, 28 (Reilly) 0</item>
+
+<item>Mr. Hankey, 26 1/2 (Reilly) 0</item>
+
+<item>Mr. Winfred, 30 1/2 (Purdey) 0</item>
+
+<item>Mr. Kenrick, 27 1/2 (Purdey) 0</item>
+
+<item>Mr. Retlaw, 25 (Bonehill) 0</item>
+</list>
+
+
+<list><item>LUDLOW &#163;3 HANDICAP SWEEPSTAKES <unclear reason="missing"/> cup or specie added.</item>
+
+<item>25 subs.</item>
+
+<item>Mr. T. Shirley, 24 yds. rise (Boss) 7</item>
+
+<item>Mr. Tudor, 24 (Grant) 7</item>
+
+<item>{divided &#163;97}</item>
+
+
+
+<item>Mr. Wynill, 30 (Baker) 6 0</item>
+
+<item>Mr. W. F. Gambier, 24 1/2 (Grant) 6 0</item>
+
+<item>Mr. Kenrick, 27 1/2 (Purdey) 6 0</item>
+
+<item>Sir T. Freke, 27 1/2 (Purdey) 6 r</item>
+
+<item>Mr. Welbore Ellis, 30 (Purdey) 5 0</item>
+
+<item>Mr. F. M. Cobb, 28 (Reilly) 4 0</item>
+
+<item>Mr. A. D. Halford, 28 (Purdey) 3 0</item>
+
+<item>Mr. A. Gilbey, 28 (Reilly) 2 0</item>
+
+<item>Mr. C. Seaton, 27 (Grant) 2 0</item>
+
+<item>Mr. Cornfield, 27 1/2 (Purdey) 2 0</item>
+
+<item>Mr. Merwyn Watts, 31 (Purdey) 1 0</item>
+
+<item>Mr. Hastings, 30 1/2 <unclear reason="missing"/> 1 0</item>
+
+<item>Mr. Featherstone, 25 (Purdey) 1 0</item>
+
+<item>Mr. Brentwood, 27 (Purdey) 1 0</item>
+
+<item>Captain Shelly, 28 1/2 (Reilly) 1 0</item>
+
+<item>Mr. Retlaw, 25 (Bonehill) 0</item>
+
+<item>Colonel Shelley, 25 ([Purdey?]) 0</item>
+
+<item>Mr. Winfred, 30 1/2 <unclear reason="missing"/> 0</item>
+
+<item>Mr. Hankey, 2<unclear reason="missing"/> <unclear reason="missing"/> 0</item>
+
+<item>Mr. Filmer V<unclear reason="missing"/> (Lancaster) 0</item>
+
+<item>Mr. W. <unclear reason="missing"/> Batt, 26 (Grant) 0</item>
+
+<item>Lord d<unclear reason="missing"/> Clifford, 30 (Purdey) 0</item></list>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
