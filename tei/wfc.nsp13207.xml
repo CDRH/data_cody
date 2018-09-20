@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13207">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Prince of Wales at the Wild West Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13207</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Prince of Wales at the Wild West Show</title>
+<title level="j">The Times</title>
+<pubPlace>London, England</pubPlace>
+<date when="1887-05">[May 1887]</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.004.06 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Ambushes and surprises</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Bands (Music)</term>
+<term>Command performances</term>
+<term>Cowboys</term>
+<term>Emigrants</term>
+<term>Firearms</term>
+<term>Historical reenactments</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Pony express</term>
+<term>Sharpshooters</term>
+<term>Shooting</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Wagon trains</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Red Shirt, 1845?-1925</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13207.001"/>
+
+
+<head>THE PRINCE OF WALES AT THE WILD WEST SHOW.</head>
+
+<p>Yesterday was a great day for the Wild West Show, inasmuch as it was marked by a visit from the <persName xml:id="albert.edward">Prince</persName> and <persName xml:id="alexandra.denmark">Princess of Wales</persName>, who, accompanied by their two daughters and a numerous suite, came to witness the first performance given on this side of the Atlantic by Buffalo Bill and his troupe. The performance was private, none of the public being admitted, and was carried out under some disadvantages, inasmuch as the large arena in which the exhibition takes [place is n]ot quite finished, and the ground in parts exceedingly rough. Great efforts had been made to push forward the preparations in view of the occasion and truly remarkable results were obtained. A tan track was laid down, a log hut erected about the centre of the arena, and the realistic rockwork and vegetation in the background artfully grouped, so as to conceal the entrances from the stables. A pavilion had been erected on the north side of the grand stand, where their Royal Highnesses took their places at half-past four. The performance immediately began with a march-past of the entire company, who, mounted on their mustangs, and dressed in full costume&#8212;which in the case of the majority of the Indians means none at all&#8212;passed by in detachments eight abreast, led by the chiefs, the procession ending with <persName xml:id="red.shirt">Red Shirt</persName>, the Sioux chief, and Mr. Cody. The make up of the Indians differed materially from their usual exterior, seeing that the Sioux had divested themselves of all costume excepting a waist cloth, the deficiency being supplied by a plentiful supply of paint, with which their limbs were besmeared. The favourite colour, or, at any rate, the most "worn," was green. The march past, accompanied by the music of the Cowboy Band, which was stationed behind the Royal party, concluded, a race between Cowboys and Indians followed, in which "Loamwolf" won, and was succeeded by a novel exhibition of speed in crossing country by "pony express." A mounted man rides hard some miles, and then stops, dismounts, remounts a fresh horse and starts again at a gallop in less than 20 seconds. The next item in the programme was of a far more dramatic character. From the lower end of the arena an emigrant train enters, and steadily pursues its way along the track. The train comprises two waggons, containing women and children, with plenty of baggage, and is accompanied by half-a-dozen mounted men. A brief interval elapses, while all goes well, when suddenly a mounted Indian enters, to be speedily followed by others, until some 50 have collected, and then with whoops, startling in their shrillness, the cavalcade makes for the train. They meet with a warm reception, several reskins falling off their horses, apparently shot dead, but numbers tell, and the raiders are about to take possession of the waggons, when cheering is heard from the other end of the arena, and a number of cowboys gallop in armed <hi rend="italic">cap &#224; pie.</hi> The scrimmage does not last long. Some hundred blank cartridges are expended and the Indians flee, leaving the dead and wounded on the field. The waggons, escorted by their preservers, pursue their way amid the applause of the Royal party, the bodies get up and walk out, and the ring is clear for the next performance, a very pretty one, consisting of the dancing of a quadrille by four ladies and four gentlemen, all mounted.</p>
+
+<p>The first sensation in yesterday's performance was caused by the marvellous shooting of Miss <persName xml:id="oaley.a">Annie Oakley</persName>, who, if we mistake not, claims to be the champion shot of America. The feats performed by this little lady are the more remarkable, since they are all performed with a pea rifle, rendering her unerring aim more wonderful still. Among the numerous feats performed by Miss Oakley was one which seemed especially remarkable. Placing her rifle on the ground, she throws two glass balls in the air, and, picking up the rifle, fires and breaks both before they reach the ground. This marvellous "shootist" also hits moving things, adding to the difficulty of her feats by pushing the muzzle of the rifle through a card, so as to render the sight useless; and also firing over her shoulder, and aiming by aid of a hand looking-glass. On the conclusion of these remarkable feats, the Princess of Wales sent for Miss Oakley, and shook hands with her.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

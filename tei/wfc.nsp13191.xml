@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13191">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Shooting at Flyers</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Shooting at Flyers</title>
+<title level="j"></title>
+<pubPlace></pubPlace>
+<date when="1000"></date>
+<note>1887-1892</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.003.03 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Firearms</term>
+<term>Sharpshooters</term>
+<term>Shooting contests</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name> Transcription</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13191.001"/>
+
+<fw>THE RECORD.</fw>
+
+<head type="main">SHOOTING AT FLYERS.</head>
+
+<head type="sub">Brewer and Miss Oakley Try Their Skill at Pastime Park.</head>
+
+<p>John L. Brewer, the crack wing shot, and Miss <persName xml:id="oakley.a">Annie Oakley</persName>, the [blackened text] who was a member of the Wild West show, shot a 50-bird live pigeon match for the gate receipts at Pastime Park yesterday afternoon. Brewer won by 15 birds. Miss Oakley's birds were unusually strong flyers, and most of them were left quarterers. She used only 2 1/2 drams of powder and 1 ounce of shot. Brewer loaded with 1 1/4 ounces of shot and 3 1/2 drams of powder. Miss Oakley's style of shooting is very graceful, but she took too many snap shots, evidently being afraid of letting the birds get any distance away. She shot at 24 yards rise, and Brewer shot at 30 yards. There were five ground traps, and the boundary was 50 yards. J. Frank Kleinz acted as referee. The attendance was about 800, at 25 cents a head. The score follows&#8212;1 indicating killed with 1 barrel, 2 killed using both barrels and 0 missed:</p>
+
+<p>Brewer&#8212;2 1 2 1 0 1 2 0 1 1 1 2 1 2 1 1 1 0 1 1 1 2 1
+2 1 1 1 1 1 0 1 1 1 2 1 0 1 2 1 1 2 1 2 1 1 1 1 2 1 1&#8212;
+Total, 45 killed; 5 missed.</p>
+
+<p>Miss Oakley&#8212;0 1 1 2 2 0 0 1 0 0 0 1 1 1 2 0 0 1 2 1 1
+2 0 0 1 0 1 2 2 2 0 0 0 1 2 0 2 0 1 1 2 0 0 0 0 1 1 1 1 1
+&#8212;Total, 30 killed; 20 missed.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

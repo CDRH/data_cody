@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13230">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Untitled [It was early on Thursday morning]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13230</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [It was early on Thursday morning]</title>
+<title level="j">Topical Times</title>
+<pubPlace>London, England</pubPlace>
+<date when="1887-05-21">May 21, 1887</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.009.05 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Indians of North America</term>
+<term>Sharpshooters</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Smith, Lillian Frances, 1871-1930</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13230.001"/>
+
+<fw>THE TOPICAL TIMES</fw>
+
+<fw><hi rend="italic">SATURDAY, MAY</hi> 21<hi rend="italic">st</hi>, 1887</fw>
+
+<fw>LONDON: 18, CATHERINE-STREET, STRAND, W.C.</fw>
+
+<p>It was early on Thursday morning when I ventured into the enclosure at Earl's Court, which has been annexed by the American people, and now forms one of the numerous States of the Union. Wherever the eye reaches, the Stars and Stripes are to be seen fluttering in the breeze, and the collection of Americans embraces samples from every one of the older States. "Lo, the poor Indian," is to be seen, in all his glory of paint, in addition to the citizens of America, of all shades and hues&#8212;for in the Western Republic it must be known that all males over the age of twenty-one are entitled to vote unless they be native and to the manner born. English, Germans, French, Italians, Spaniards, Portuguese, Africans, all may become bon&#226;-fide citizens of the country, but not the redman from whom it was wrested. A paternal government gives him a blanket, settles him on land beyond the confines of civilisation, which he may call his home, unless gold be found in it&#8212;in which case he must surrender it to the noble white man&#8212;makes it a penal offence to sell him firewater, and then considers it has treated him handsomely.</p>
+
+<p>As I enter the sacred precincts of West Kensington, I am subject to a rigid examination, but having proved my innocence of any evil intent, am allowed to proceed on my way unmolested. In the arena is a crowd of men busily engaged in smoothing the surface broken up by the hoofs of the horses which last night madly careered over it. On every hand are to be heard the busy notes of preparation for the coming "show." As I enter the camp, I find that there are already numerous visitors, who are wandering about, reading the names painted on the tents of the members of the company, and staring with open eyes into the tents, hoping for a sight of their owners. As I pass her tent I see Miss <persName xml:id="smith.l">Lilian</persName> <persName xml:id="oakley.a">Oakley</persName>, the "shootist," sitting composedly at the entrance of her canvas dwelling-house, thinking probably of her Western home and the folks she left behind her to cross the billowy Atlantic for the purpose of giving us exhibitions of her prowess with the rifle.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>

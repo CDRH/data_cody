@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13224">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Wild West Show</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13224</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Wild West Show</title>
+<title level="j">The Era</title>
+<pubPlace>London, England</pubPlace>
+<date when="1887-05-14">May 14, 1887</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Buffalo Bill Center of the West; MS6, William F. Cody collection</repository>
+<idno>MS6.3681.008.05 (Oakley scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Firearms</term>
+<term>Historical reenactments</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Orators</term>
+<term>Pony express</term>
+<term>Sharpshooters</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2018"><name xml:id="lc">Clark, L.</name> <name xml:id="sh"> Hanna, Sam</name> <name xml:id="ak">Kinnen, Anna </name> <name xml:id="br">Roberts, Briana</name> Proofreading</change>
+<change when="2018"><name>University of Nebraska-Lincoln Crowdsourcing (transcribe.unl.edu)</name></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13224.001"/>
+
+<fw>THE ERA</fw>
+
+<fw>SATURDAY, MAY 14, 1887.</fw>
+
+<head>THE WILD WEST SHOW.</head>
+
+<p>As we took our places in one of the little boxes which edge the arena in the grounds of the American Exhibition, where Buffalo Bill's Wild West Show is given, we could not help being struck with the effectiveness of the scene before us. The size of the enclosure was one element of the impressiveness of the <hi rend="italic">coup d'&#339;il,</hi> and this was cleverly increased by the picturesque scenery which inclosed half of the circle. For the illusion to have been as perfect for those in the lower tiers and seats as it was for those placed above them, the canvas should have been carried up high enough to conceal the neighbouring houses, and for the pictorial sky to have blended with the real one; but this is a mere detail, and to attain perfection would doubtless have entailed considerable extra expense. Certainly no one thought of criticising the background minutely when at the edge of the ash-covered circle in the centre were drawn up on parade the whole strength of the Wild West company. There were the various tribes of Indians in their war-paint and feathers, the Mexicans, the ladies, and the cow-boys, and a fine array they made, with the chiefs of each tribe, the renowned Sergeant <persName xml:id="bates.g">Bates</persName>, the equally celebrated Buffalo Bill, the stalwart <persName xml:id="taylor.w">Buck Taylor</persName>, and others who were introduced by Mr <persName xml:id="richmond.f">Frank Richmond</persName>, who, from the top of an elevated platform, described the show as it proceeded. The post of lecturer is no sinecure when such a vast area has to be filled by the voice of the speaker; but Mr Richmond made every sentence distinctly heard, and the interesting information conveyed by him in a mellow and decidedly audible voice was one of the most agreeable features of the performance. Few, perhaps, of the audience would have remembered, without the notification of the lecturer, the history of the pony Express, one of the most romantic in the annals of intercommunication, or have enjoyed fully the exposition by one of the leading cow-boys of the way in which the mails were carried. The emigrant train, which next wended its way across the arena with its teams of oxen and mules, its ancient waggons, and their burden of families and household goods, to be attacked by a tribe of redskins, who were soon repulsed by the ever-ready cow-boys, was an equally interesting resurrection of a method of peopling the soil practised even now in the remoter regions of the West, though the redskins, we believe, are pretty well confined nowadays to the Indian territory, and are reduced to, at least, an outward "friendliness." The next sensation was created by Miss <persName xml:id="oakley.a">Annie Oakley</persName>, who did some wonderful things with her rifle. Miss Oakley is of <hi rend="italic">petite</hi> figure, and only just twenty years old. One of her most remarkable feats was that of standing twenty feet from her gun, running and catching it up, and, with a double shot, hitting two clay pigeons, right and left. A more difficult trick even than this was throwing up two balls with one hand, and knocking them both to pieces, and performing the same feat casting the articles backwards over her head. Miss Oakley's performance was a decided hit, and she was loudly applauded.</p>
+
+</div1>
+</body>
+
+<back></back>
+</text>
+</TEI>
