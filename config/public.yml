@@ -2,5 +2,17 @@ default:
   project_desc: The William F. Cody Archive
   solr_core: api_cody
   collection: cody_archive
-  vra_solr_xsl: scripts/vra_to_solr.xsl
-  tei_solr_xsl: scripts/tei_to_solr.xsl
+  vra_solr_xsl: scripts/overrides/vra_to_solr.xsl
+  tei_solr_xsl: scripts/overrides/tei_to_solr.xsl
+development:
+  site_url: https://cdrhdev1.unl.edu/cocoon/codyarchive.org
+  # remove once Cody is powered by orchid site
+  variables_solr:
+    site_url: https://cdrhdev1.unl.edu/cocoon/codyarchive.org
+    slug: cody_archive
+production:
+  site_url: http://codyarchive.org
+  # remove once Cody is powered by orchid site
+  variables_solr:
+    site_url: http://codyarchive.org
+    slug: cody_archive

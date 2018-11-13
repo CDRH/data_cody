@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet 
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 	xmlns:tei="http://www.tei-c.org/ns/1.0"
@@ -10,8 +11,8 @@
 	<!--                               IMPORTS                                -->
 	<!-- ==================================================================== -->
 	
-	<xsl:import href="../../../scripts/xslt/cdrh_to_solr/lib/common.xsl"/>
-  <xsl:import href="../../../scripts/xslt/cdrh_to_solr/lib/cdrh_vra.xsl"/>
+  <xsl:import href="../.xslt/common.xsl"/>
+  <xsl:import href="../.xslt/vra_to_solr/lib/fields.xsl"/>
 	<!-- If this file is living in a collections directory, the paths will be
        ../../../scripts/xslt/cdrh_to_solr/lib/common.xsl -->
 

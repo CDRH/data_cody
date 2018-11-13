@@ -66,4 +66,8 @@ class TeiToEs
     "http://centerofthewest.org/research/rights-reproductions"
   end
 
+  def uri
+    # TODO once we understand how the url structure will work for Cody
+  end
+
 end

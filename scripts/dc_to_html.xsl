@@ -6,7 +6,7 @@
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   exclude-result-prefixes="xs" version="2.0">
 
-  <xsl:import href="../../../scripts/xslt/cdrh_to_html/lib/common.xsl"/>
+  <xsl:import href="../.xslt/cdrh_to_html/lib/common.xsl"/>
   <xsl:output indent="yes" omit-xml-declaration="yes"/>
 
 
