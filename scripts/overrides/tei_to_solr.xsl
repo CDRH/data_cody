@@ -9,9 +9,9 @@
   <!--                               IMPORTS                                -->
   <!-- ==================================================================== -->
 
-  <xsl:import href="../.xslt/common.xsl"/>
-  <xsl:import href="../.xslt/tei_to_solr/lib/personography.xsl"/>
-  <xsl:import href="../.xslt/tei_to_solr/lib/fields.xsl"/>
+  <xsl:import href="../.xslt-datura/common.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_solr/lib/personography.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_solr/lib/fields.xsl"/>
   <!-- If this file is living in a projects directory, the paths will be
        ../../../scripts/xslt/cdrh_to_solr/lib/common.xsl -->
 

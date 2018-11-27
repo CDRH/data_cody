@@ -11,8 +11,8 @@
   <!--                               IMPORTS                                -->
   <!-- ==================================================================== -->
 
-  <xsl:import href="../.xslt/common.xsl"/>
-  <xsl:import href="../.xslt/vra_to_solr/lib/fields.xsl"/>
+  <xsl:import href="../.xslt-datura/common.xsl"/>
+  <xsl:import href="../.xslt-datura/vra_to_solr/lib/fields.xsl"/>
   <!-- If this file is living in a collections directory, the paths will be
        ../../../scripts/xslt/cdrh_to_solr/lib/common.xsl -->
 
