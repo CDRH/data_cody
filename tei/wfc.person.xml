@@ -584,7 +584,7 @@
 
 <person xml:id="omohundro.j">
 <persName type="display" subtype="viaf" ref="http://viaf.org/viaf/48389891">Omohundro, John Burwell, 1846-1880</persName>
-<persName type="full"><surname>Omohundro</surname>, <forename type="first">John</forename> <forename>Burwell</forename> <addName type="stage">Texas Jack</addName></persName>
+<persName type="full"><surname>Omohundro</surname>, <forename type="first">John</forename> <forename type="middle">Burwell</forename> <addName type="stage">Texas Jack</addName></persName>
 <birth when="1846">1846</birth>
 <death when="1880">1880</death>
 <sex>male</sex>
@@ -669,7 +669,6 @@
 <birth when="1860">1860</birth>
 <death when="1926">1926</death>
 <sex>female</sex>
-
 <note>Annie Oakley, born Phoebe Ann Moses (or Mosey) (1860-1926), learned to shoot at the age of eight, then honed her shooting skills as a teenager hunting and supplying game for locals and businesses in and around Greenville, Ohio. At age 15, Annie met her future husband when she bested him in a shooting contest in Cincinnati, Ohio. Frank Butler (1850-1926) and Annie were married in 1876 and in 1882 began performing marksmanships shows together. Annie adopted the stage name Oakley, the name of the city neighborhood in Ohio where the couple lived for a time. In 1885 the couple joined Buffalo Bill's Wild West--Annie Oakley as a female sharpshooter and Frank Butler as her manager; they remained with Buffalo Bill's Wild West until 1901. With the combination of her ladylike demeanor and professional shooting talent, Annie Oakley enthralled audiences throughout the United States and Europe.</note>
 </person>
 
