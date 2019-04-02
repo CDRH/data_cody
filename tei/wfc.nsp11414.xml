@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11414">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Die Wirkungen der Vorstellungen Buffalo Bill's</title>
+<title type="main" xml:lang="en">The effects of Buffalo Bill's performances</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Roberts, Briana</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11414</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Die Wirkungen der Vorstellungen Buffalo Bill's</title>
+<title level="a" type="main" xml:lang="en">The effects of Buffalo Bill's performances</title>
+<title level="j">Nachrichten</title>
+<pubPlace>Leipzig, Germany</pubPlace>
+<date when="1890-06-22">June 22, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3776.18.04 (1890 German Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Children's games</term>
+<term>Firearms accidents</term>
+<term>German language</term>
+<term>German newspapers</term>
+<term>Indians of North America</term>
+<term>Lasso</term>
+<term>Traveling exhibitions</term>
+<term>Trick roping</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Dresden (Germany)</term>
+<term>Leipzig (Germany)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name>Benn, James H.</name>; <name>Clark, L</name>.; <name>Adams, Deb</name>; <name>Hanna, S.</name> Proofreading</change>
+<change when="2019">Roberts, Briana</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11414.001"/>
+
+
+<p>&#8212; Die Wirkungen der Vorstellungen Buffalo Bill's erstrecken sich weit und sind besonders bei der lieben Jugend stark zu merken. Das Lassowerfen ist seit Kurzem bei unsern Jungen sehr in Schwank gekommen. Wir wollen nur hoffen, da&#223; es dabei bleibt. In Dresden ist bereits ein kleines M&#228;dchen mittelst Lassowerfens in ernste Lebensgefahr gebracht worden. Zur Warnung sei eine Meldung des &#8222;N. W. T.&#8220; &#252;ber einen &#228;hnlichen weit schlimmeren Vorfall in Wien mitgetheilt: &#8222;Colonel Cody&#8220;, so schreibt das Blatt, &#8222;hat seine Zelte in den Pratergr&#252;nden abgebrochen und ist in neue Jagdgefilde gezogen &#8212; hier hat er aber in den leicht zug&#228;nglichen Gem&#252;thern unserer Jugend unverl&#246;schliche Eindr&#252;cke zur&#252;ckgelassen; wohin man kommt, auf den Kinderspielpl&#228;tzen wird Buffalo Bill&#8220; gespielt und es ist nicht wenig auffallend, da&#223; dieses so h&#228;ufige Spiel nicht gleich anderen und gleich dem Urbilde desselben bereits zum Steuerobjecte ausersehen worden ist. Das Lassowerfen hat schon verschiedene bedenkliche Folgen nach sich gezogen, was aber gestern arrivirt ist, das ist die neueste Variante in den Erlebnissen der Buffalo Bill&#8211;Imitatoren. Der Sohn einer der am Hofoperntheater engagirten K&#252;nstlerinnen war bei einem Altersgenossen, dem Sohne einer befreundeten Familie, zu Gast. Als er heimkam, war er bleich, wortkarg, hatte keinen Appetit und die Mutter begann schon eine unbestimmte Besorgni&#223; zu empfinden, als ein Herr kam, der dieser Besorgni&#223; eine festere Grundlage gab. Er kam von der erw&#228;hnten befreundeten Familie, um zu fragen, wie sich der Junge befinde. &#8222;Warum denn? Was ist denn vorgegangen?!&#8220; Nun kam's auf. Die jungen Herren hatten &#8222;Buffalo Bill&#8220; gespielt und, damit es desto h&#252;bscher sei, dabei lustig aus Pistolen geschossen. Noch steht es nicht fest, hat ein Pfropf den  Jungen verwundet, oder war ein Schu&#223; scharf geladen, item er hat einen ganz netten Streifschu&#223; in der Brustgegend und all' sein Indianerbewu&#223;tsein hat dazu geh&#246;rt, den Schmerz zu verbei&#223;en und daheim nichts davon merken zu lassen; sein bleichgesichtiger Freund hat zu viel Reue gef&#252;hlt, um auch seinerseits das Geheimni&#223; wahren zu k&#246;nnen. Jetzt liegt der junge Indianer zu Bette und ein Medizinmann &#252;bt an ihm seine K&#252;nste. </p>
+</div1>
+<div1 type="article" xml:lang="en">
+
+<p>&#8212; The effects of Buffalo Bill's performances extend widely and are particularly noticeable among our much-loved youngsters. Recently, lasso&#8211;throwing has become all the rage among our young. We can only hope that it will remain so. In Dresden, a little girl has already been seriously, life&#8211;threateningly injured by lasso&#8211;throwing. A warning message from "N. W. T." about a similar, but far worse, incident in Vienna reads: "Colonel Cody broke camp at the Prater grounds and has moved to new hunting grounds &#8212; but here, he had an enduring impact on the minds of our impressionable youth; wherever one goes, "Buffalo Bill" is played on the children's playgrounds, and it is remarkable that this popular game has not already been designated as a taxable item like other games, and like the production on which it is based. Lasso&#8211;throwing has already produced various notable consequences, but what occurred yesterday is a new variation in the experiences of Buffalo Bill imitators. The son of one of the artists engaged to appear in the Court Opera House was visiting the son of a family friend, who was the same age. When he came home, he was pale, taciturn, and had no appetite; his mother had begun to feel a vague sense of concern when a man came and provided a firmer basis for this unease. He was from the aforementioned family, and had come to ask how the boy was. "But why? What happened?!" Then it was revealed: the young gentlemen had played "Buffalo Bill," and in order to improve the game they had used pistols to playfully shoot at each other. It has not yet been determined whether the boy was injured by a cork or wad, or whether he was shot with a live round; moreover, he had a very nice graze wound across his chest and his "Indian consciousness" has compelled him to bite back the pain and not let anything be noticed at home. His pale&#8211;faced friend felt too much remorse to keep his secret. Now, the young "Indian" lies in bed while a medicine man practices his skills on him.</p>
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

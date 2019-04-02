@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11406">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Buffalo Bills Wilder Westen</title>
+<title type="main" xml:lang="en">Buffalo Bill's Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Roberts,  Briana</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11406</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Buffalo Bills Wilder Westen</title>
+<title level="a" type="main" xml:lang="en">Buffalo Bill's Wild West</title>
+<title level="j">Zeitung und Anzeige</title>
+<pubPlace>Deuben, Germany</pubPlace>
+<date when="1890-06-03">June 3, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3776.08.02 (German Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Ethnology</term>
+<term>Exposition universelle de 1889 (Paris, France)</term>
+<term>German language</term>
+<term>German newspapers</term>
+<term>Historical reenactments</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Hunters</term>
+<term>Indians of North America</term>
+<term>Mustang</term>
+<term>Stagecoaches</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Deuben (Saxony-Anhalt, Germany)</term>
+<term>Dresden (Germany)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name>Benn, James H.</name>; <name>Clark, L</name>.; <name>Adams, Deb</name>; <name>Hanna, S.</name> Proofreading</change>
+<change when="2019">Roberts,  Briana</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nspnsp11406.001"/>
+
+
+<head>Buffalo Bills Wilder Westen.</head>
+
+<p>Die V&#246;lker&#8211;Karawanen, welche die Welt durchziehen, um Menschen und Thiere, Sitten und Gebr&#228;uche, Natur&#8211; und Kunstprodukte ihrer Heimath in anderen L&#228;ndern zur Schau zu stellen, kommen immer mehr in Mode. Sie bilden die neueste Form des Ausstellungswesens &#8212; wandernde ethnographische Ausstellungen, denen das lebhafte Interesse, welches man gegenw&#228;rtig f&#252;r alles exotische Volksthum hat, einladend entgegenkommt. Wir haben in Dresden im Laufe der letzten Jahre schon viele solcher Schaustellungen gesehen &#8212; nun ist der ferne amerikanische Westen in Dresden als Gast eingetroffen, um sich uns in seiner wilden Urspr&#252;nglichkeit zu zeigen, bevor die Erscheinungen derselben vor dem Fortschritte der Kultur g&#228;nzlich verschwunden sein werden. </p>
+
+<p>Jene gro&#223;e Karawane von nordamerikanischen Pferde&#8211; und B&#252;ffeljagern und Indianern mit ihren Pferden und B&#252;ffeln, die unter der Bezeichnung Buffalo Bills Wild West seit dem vorigen Jahre Europa durchzieht und w&#228;hrend der Weltausstellung in Paris das gr&#246;&#223;te Aufsehen erregt und massenhaften Zuspruch gefunden, hat am Sonntag ihre Vorstellungen auf dem fr&#252;heren Turnfestplatze in Dresden begonnen. Die Amerikaner verstehen es auch hier wie fr&#252;her in London, Paris, Rom, Neapel, Mailand und M&#252;nchen, die &#246;ffentliche Aufmerksamkeit und Neugierde zu erregen. Seit einer Woche zeigen farbige Bilderplakate an allen Ecken und Enden das &#252;berlebensgro&#223;e Bild des F&#252;hrers der Karawane, der dadurch wie mit eine Schlage f&#252;r alle Dresdner eine popul&#228;re Pers&#246;nlichkeit wurde. Alles interessirt sich f&#252;r den Mann mit dem k&#252;hnen und scharfen Adlerblick und dem phantastisch langen Haar. Es ist der amerikanische Oberst W. F. Cody, in seiner Heimath ber&#252;hmt unter dem Namen Buffalo Bill d. h. B&#252;ffel&#8211;Wilhelm. Er steht zwar nicht mehr in jener Bl&#252;the der Jahre, wie ihn die Riesenportr&#228;ts an den Stra&#223;enecken zeigen, ist aber noch immer ein sehr interessanter Mann voll Eleganz und Grandezza. Bei seinen Landsleuten ist seine Pers&#246;nlichkeit geradezu mit einem sagenhaften Nimbus umgeben. Wenn man seinen Biographien, die er hier verbreiten l&#228;&#223;t, glauben kann, so ist Oberst Cody ein Held der Prairie, der im Kampfe gegen die Indianer mehr Abenteuer bestanden hat, als irgend einer der Cooper'schen Romanhelden &#8212; ein so ausgezeichneter Sch&#252;tze, J&#228;ger, B&#252;ffelf&#228;nger und Pferdeb&#228;ndiger, als es nur je einen gegeben hat, und dabei ein Soldat, der sich im nordamerikanischen B&#252;rgerkriege unter <persName xml:id="sherman.w">General Sherman</persName> um sein Vaterland verdient gemacht hat. </p>
+
+<p>Dem sei nun, wie ihm wolle, gewi&#223; ist, da&#223; die amerikanische Karawane, an deren Spitze Oberst Cody steht, dem Publikum ein Schauspiel bietet, das seinesgleichen nicht hat. Man bekommt da wirklich ein lebendiges Bild des J&#228;ger&#8211; und Indianerlebens in der nordamerikanischen Prairie, dessen Figuren vielleicht stellenweise etwas greller kolorirt und sch&#228;rfer charakerisirt sind, als in der Wirklichkeit, das aber doch mit packender Unmittelbarkeit und Realit&#228;t wirkt. Die Indianer haben ihre eigenen mit phantastischen Figuren bemalten Zelte mitgebracht. Man sieht da ein Lager wie f&#252;r ein Expeditionskorps, das in irgend ein unerforschtes Gebiet aufbrechen soll. In einem gro&#223;en Zelte ist der ungeheure K&#252;chenherd aufgestellt, und dasselbe dient zugleich als Speisesaal. Auch die Pferde sind unter Zelten untergebracht, und f&#252;r die B&#252;ffel, welche Buffalo Bill mit sich f&#252;hrt, ist ein eigener Pferch aus starken Balken errichtet worden. </p>
+
+<p>Schon das Aufreiten der einzelnen Gruppen bietet ein wechselvolles und farbenreiches Bild. Ob die Indianer wirklich den im Programme genannten St&#228;mmen angeh&#246;ren, kann uns wohl ziemlich gleichgiltig sein, wild genug sehen sie mit ihren gelb und roth bemalten Gesichtern und Leibern undmit ihrem Federschmucke aus. Auch die Cowboys sehen mit ihren breitkr&#228;mpigen Filzh&#252;ten und derben Lederhosen echt genug aus. An ihrer Spitze erscheint Oberst Cody als der Elegant der Prairie im seidengestickten Lederwamms und mit knapp anliegenden Stulpenstiefeln und sichtlich erf&#252;llt von dem Bewu&#223;tsein des Eindruckes, den er macht. Eine ungek&#252;nstelte Prachtgestalt ist aber der Stallmeister der Gesellschaft, <persName xml:id="taylor.w">Buck Taylor</persName>, der K&#246;nig der Cowboys, ein junger H&#252;ne mit lang herabwallendem, r&#252;ckw&#228;rts in einen Knoten gebundenem Haare, der noch in allen St&#228;dten, die der &#8222;wilde Westen&#8220; besuchte, die lebhafteste Aufmerksamkeit der Damenwelt auf sich gezogen hat. Zu den Indianern und Cowboys geh&#246;ren nat&#252;rlich auch ihre Pferde, mit denen sie beim Reiten wie die Centauren verwachsen zu sein scheinen. Diese Pferde, namentlich die kleinen buschigen Moustangs, sind in ihrer scheinbar z&#252;gellosen Ungeberdigkeit wahre Wunder der Dressur, indem sie auf Kommando mit einer Wildheit bocken, stampfen, sich niederwerfen und &#252;berschlagen, da&#223; man wirklich glauben sollte, sie seien eben erst mit dem Lasso eingefangen worden. Die Reiter geben geradezu erstaunliche Proben ihrer Sattelfestigkeit, den sch&#246;nsten Anblick aber gew&#228;hrt es unstreitig, wenn die ganze Schaar sich vor dem Publikum aufstellt, und wenn auf einen Wink Buffalo Bills alle zweihundert Reiter mit einem Ruck ihre Rosse nach r&#252;ckw&#228;rts werfen und in wildem Get&#252;mmel &#252;ber den weiten Platz dem Ausgange zust&#252;rmen. Auch mehrere Damen befinden sich in der Gesellschaft und zeigen sich gleichfalls als k&#252;hne Reiterinnen. </p>
+
+<p>Eine besondere Anziehung d&#252;rften auf das Publikum die Schie&#223;produktionen aus&#252;ben. Eine Sch&#252;tzin, Mi&#223; <persName xml:id="oakley.a">Annie Oakley</persName>, ferner Mr. <persName xml:id="daly.c">C. L. Daly</persName> und endlich Oberst Cody selbst zeigen ihre Meisterschaft im Schie&#223;en nach emporgeworfenen Glaskugeln. Zu der Mannigfaltigkeit der Produktionen tragen auch noch einige dramatische Szenen, so der Ueberfall eines Auswandererzuges durch Indianer, die Darstellung eines Zweikampfes, den Oberst Cody am 17. Juli 1875 mit einem Sioux&#8211;H&#228;uptling bestand, ein Angriff der Indianer auf die alte <rs xml:id="coach.deadwood">Deadwood&#8211;Postkutsche</rs>, der Ueberfall eines Grenzdorfes durch Indianer, ferner eine B&#252;ffeljagd und die Proben der Cowboys im Lassowerfen bei. Alle diese Produktionen machen den Eindruck, da&#223; sie der Wirklichkeit getreu entsprechen und deshalb folgt man ihnen auch mit Interesse. W&#228;hrend der n&#228;chsten 14 Tage ist unsern Lesern Gelegenheit geboten, sich selbst auf dem fr&#252;heren Turnfestplatze in Dresden von den Leistungen Buffalo Bills Wild West zu &#252;berzeugen. </p>
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<head>Buffalo Bill's Wild West.</head>
+
+<p>The caravans of folk which traverse the world in order to present the people and animals, the customs and habits, and the natural and artistic products of their homeland in other countries are becoming more and more fashionable. They represent the latest form of exhibition &#8212; wandering ethnographic exhibitions which invitingly play to the lively interest that is currently held for everything having to do with exotic folklore. In the course of the last few years, we have seen several such performances in Dresden<ref target="n01">1</ref> &#8212; Now, the distant American West has arrived in Dresden as a guest in order to show us its wild originality, before its phenomena are completely disappeared under the progress of civilization.</p>
+
+<p>That sizeable caravan of North American horse&#8211; and buffalo&#8211;hunters and Indians with their horses and buffalo which has travelled under the designation "Buffalo Bill's Wild West" through Europe in past years and excited the largest sensation at the Paris World Fair,<ref target="n02">2</ref> gaining mass popularity, had its performance on Sunday at the former Turnfestplatze in Dresden. Here too, as earlier in London, Paris, Rome, Naples, Milan and Munich, the Americans understand how to attract public attention and curiosity. For the last week, the colorful posters placed in every nook and cranny have displayed the larger&#8211;than&#8211;life image of the leader of the caravan, who thereby suddenly became a popular figure for all residents of Dresden. Everyone is interested in the man with the bold, sharp eagle eye and the fantastic long hair. He is the American Colonel W. F. Cody, famous in his homeland under the name Buffalo Bill. Although he is no longer in his "flowering" years, as is shown in the giant portraits on the street corners, he is still a very interesting man full of elegance and grandeur. Among his countrymen, his personality is regarded in such a way that it is virtually surrounded by a legendary "nimbus." If we are to believe his biographies (which he has distributed here), Colonel Cody is a hero of the prairie who has experienced more adventure in his fights against the Indians than any one of Cooper's heroes &#8212; He is an excellent shooter, hunter, buffalo hunter and horse tamer if there ever was one, and on top of that he is a soldier who rendered outstanding services to his fatherland in the North American Civil War under General Sherman.</p>
+
+<p>Be that as it may, it is now certain that the American caravan, with Colonel Cody at the head, offers the public a spectacle that has no equal. One is really able to get a vivid picture of the hunter&#8211; and Indian&#8211;life in the North American prairie, whose figures are perhaps a little brighter&#8211;colored and more sharply characterized than in reality, but nevertheless has a gripping immediacy and sense of reality. The Indians have brought their own tents painted with fantastic figures. One can also see a camp as if for an expedition&#8211;corps that is prepared to break into uncharted territory. The enormous kitchen stove is positioned in a large tent which also serves as a dining tent. The horses are also housed in tents, and a separate pen made of strong beams has been erected for the buffalo which Buffalo Bill keeps with him.</p>
+
+<p>The entrance of the individual groups on horseback offers a varied and colorful picture. Regardless of whether the Indians really belong to the tribes mentioned in the program, it is all the same to us; they appear wild enough with their yellow&#8211; and red&#8211;painted faces and bodies and their feathered adornments. The cowboys also look sufficiently authentic with their wide&#8211;brimmed felt hats and rough leather pants. Colonel Cody appears at their head as the [[['Elegant']]] of the prairie in an embroidered leather jacket and with tightly fitted, cuffed boots, and is clearly aware of the impression he makes. But Buck Taylor, the king of the cowboys, is also a genuinely grand figure, a young giant with long, draping hair tied back in a knot; he attracts the liveliest attention from the ladies in all the cities visited by the "Wild West." Naturally, the Indians and cowboys are also accompanied by their horses, with whom they appear to be grown together, almost like centaurs. These horses, namely the small, scrubby mustangs, are true marvels of dressage in their seemingly unrestrained skittishness; they buck, stamp, prostrate themselves, and roll over on command, so that one might really believe that they have only just been captured by the lasso. The riders give astounding demonstrations of their sureness in the saddle, but the most beautiful sight is indisputably when the entire company stations itself before the audience and with a wave, Buffalo Bill's two hundred riders direct their horses to turn around and storm across the vast space to the exit in a wild fury. Several ladies are also in the company and show themselves to be equally bold riders.</p>
+
+<p>The shooting productions are likely to carry a special appeal. A lady shooter, Miss Annie Oakley, as well as Mr. C. L. Daly and finally Colonel Cody himself demonstrate their mastery in shooting at glass balls which are thrown upwards. Some dramatic scenes, such as the attack on an emigrant train by Indians, the representation of a duel with a Sioux chief which Colonel Cody survived on 17 July, 1875, an ambush on the old Deadwood Stagecoach by Indians, the attack on a frontier village by Indians, in addition to a buffalo hunt and the cowboys' exercises with lasso&#8211;throwing, contribute to the variety of the productions. All of these productions make the impression that they truthfully represent reality, and therefore one follows them with interest. During the next 14 days, our reader will be offered the opportunity to convince themselves of Buffalo Bill's Wild West's accomplishments at the former Turnfestplatze in Dresden.</p>
+
+
+</div1>
+</body>
+
+<back>
+
+<note xml:id="n01">Note 1: Buffalo Bill Wild West performed in Dresden, Germany, June 1-16, 1890.</note>
+
+<note xml:id="n02">Note 2: In 1889 Buffalo Bill's Wild West appeared at the Exposition Universelle 1889 in Paris, France.</note>
+</back>
+</text>
+</TEI>

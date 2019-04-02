@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11407">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Dresden. Einen ungewohnten Anblick bot am Sonnabend</title>
+<title type="main" xml:lang="en">Dresden. An unfamiliar sight was offered on Saturday</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Roberts,  Briana</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11407</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Dresden. Einen ungewohnten Anblick bot am Sonnabend</title>
+<title level="a" type="main" xml:lang="en">Dresden. An unfamiliar sight was offered on Saturday</title>
+<title level="j">Anzeiger und Tageblatt</title>
+<pubPlace>Plauen, Germany</pubPlace>
+<date when="1890-06-03">June 3, 1890</date>
+<extent></extent>
+</bibl>
+
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3776.08.03 (German Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>Cowboys</term>
+<term>Cowgirls</term>
+<term>German language</term>
+<term>German newspapers</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Hunters</term>
+<term>Indians of North America--Clothing</term>
+<term>Lasso</term>
+<term>Logistics</term>
+<term>Masculinity</term>
+<term>Mexicans</term>
+<term>School children</term>
+<term>Sharpshooters</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Cooper, James Fenimore, 1789-1851</term>
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Dresden (Germany)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name>Benn, James H.</name>; <name>Clark, L</name>.; <name>Adams, Deb</name>; <name>Hanna, S.</name> Proofreading</change>
+<change when="2019">Roberts,  Briana</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11407.001"/>
+
+
+
+<p>Dresden. Einen ungewohnten Anblick bot am Sonnabend fr&#252;h von f&#252;nfter Stunde an der Platz vor dem hiesigen B&#246;hmischen Bahnhofe. Obgleich bekannt war, die Gesellschaft von Buffalo Bill's Wild West werde erst 6 Uhr 20 Minuten von Wien eintreffen, so lie&#223; sich die tausendk&#246;pfige Menge, voran die liebe Schuljugend, das lange Stehen und Dr&#228;ngen nicht verdrie&#223;en, um die fremden G&#228;ste als Erste zu begr&#252;&#223;en. Hinter der gewaltigen schaulustigen Menge war ein stattlicher Wagenark aufgefahren, zu dem Herr Hofspediteur Geucke 16 Zweisp&#228;nner, darunter mehrere M&#246;belwagen, und der Omnibusverein 4 gro&#223;e Omnibusse gestellt hatten, Alles bereit zur Aufnahme von Oberst Cody's interessanter Truppe. Ein 35 Wagen z&#228;hlender Sonderzug lief denn p&#252;nktlich zur angegebenen Stunde ein, und nach langer Fahrt entstiegen bunt durcheinander in nationalen Kost&#252;men Indianer, Cowboys, Hinterw&#228;lder J&#228;ger, mexikanische Vaqueros, Lassowerfer, Scharfsch&#252;tzen, Reiter und Reiterinnen, je nach ihrer Stellung und Rang Koupees 1., 2. und 3. Klasse. Die Entleerung des Zuges von Menschen vollzog sich rasch und glatt. L&#228;ngere Zeit beanspruchte schon das Entladen von etwa 150 Racepferden, 20 B&#252;ffeln mit 2 munteren K&#228;lbchen und 6 Maulthieren. Vieler Stunden aber bedurfte es, ehe das riesige Utensilien&#8211;, Bau&#8211; nnd Requisitenmaterial den langen G&#252;ter&#8211;Wagen entladen und in die bereit stehenden M&#246;belwagen wieder verladen war. Des gro&#223;en Andranges wegen war der Entladungsplatz nur Einzelnen in dienstlicher Stellung zug&#228;ngig gemacht worden. Doch f&#252;r Alle gab es etwas zu sehen, zumal als der Reiterzug, in welchem die B&#252;ffel frei wie eine Heerde Schafe liefen, durch die Wiener&#8211; und Lennestra&#223;e nach der St&#228;tte auf dem ehemaligen Turnfestplatze aufbrach. Die Leute waren durchweg durchfroren, so da&#223; Viele von ihnen mit gro&#223;em Behagen aus Blechgeschirren Kaffee oder Thee schl&#252;rften, der auf dem eigens mitgef&#252;hrten, auf einer Lowry lagernden K&#252;chenwagen zubereitet wurde. Das Publikum war f&#252;r das Fr&#252;haufstehen bei rauher Temperatur entsch&#228;digt worden, denn was sich seinen Blicken bot, war echt und originell, so da&#223; sich Niemand in seinen Erwartungen get&#228;uscht f&#252;hlte. &#8212; Buffalo Bill's Wild West hat am Sonntag vor ungemein zahlreichem, die Trib&#252;ne bis auf den letzten Platz f&#252;llenden Besuch seine erste Schaustellnng gegeben. Kopf an Kopf sah man gewaltige Schaaren, die alle die Helden der romantischen Indianerb&#252;cher, der &#8222;Lederstrumpf&#8220; und &#8222;Waldl&#228;ufer&#8220; nun in Wirklichkeit vor sich sehen wollten. Mehr als 10 000 Menschen f&#252;llten die Pl&#228;tze. Das grelle Durcheinander war so absonderlich, so verwirrend, da&#223; die Mu&#223;e fehlte, sich &#252;ber Alles Rechenschaft zu geben. Aber doch fiel immer wieder die einnehmende Gestalt Buffalo Bill's dem Beschauer in's Auge. Eine edle M&#228;nnlichkeit spricht aus Antlitz und Wuchs, aus Haltung und Gebahren. Er ist kein J&#252;ngling mehr, aber unter den grauen Haaren leuchtet noch ein jugendlich feuriger Blick. Ihm, wie eigentlich all' seinen Leuten ist eine fabelhafte F&#228;higkeit zu eigen, die kleinen, z&#228;hen Rosse, die sie reiten, zu beherrschen. Die Produktionen auf dem Rosse waren &#252;berhaupt die interessantesten des ganzen Programms. Die Geschicklichkeit der Sch&#252;tzen geht &#252;ber alle Erwartung hinaus. Frl. <persName xml:id="oakley.a">Annie Oakley</persName>, die beste Sch&#252;tzin der Gegenwart, der kleine <persName xml:id="baker.l">Johann Baker</persName>, Mr. <persName xml:id="daly.c">Daly</persName> und vor allem Buffalo Bill bewiesen eine Treffsicherheit, die unglaublich scheint. </p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<p>Dresden.<ref target="n01">1</ref> An unfamiliar sight was offered on Saturday morning starting at 5:00 on the square in front of the local Bohemian train station. Although it was known that Buffalo Bill's Wild West company would not be arriving from Vienna until 6:20, the thousand&#8211;person crowd was there already, with the dear schoolchildren in front so they would not be irritated by the prolonged standing and shoving among the crowd, in order to be the first to greet the foreign guests. Behind the huge crowd of onlookers a fleet of handsome vehicles had drawn up, in which the official court-appointed purveyor of transportation services had stationed 16 pairs of carriages, including several furniture wagons, together with 4 large omnibuses from the bus company, all ready to accommodate Colonel Cody's interesting troupe. A special train with 35 cars arrived punctually at the indicated hour, and after a long journey, Indians in national costume, cowboys, backwoodsmen, hunters, Mexican vaqueros, lasso-throwers, sharpshooters, riders and lady-riders emerged, according to their station and rank, from the 1st, 2nd, and 3rd class cars. The emptying of people from the train unfolded quickly and smoothly. The unloading of around 150 racehorses, 20 buffalo with 2 feisty calves, and 6 mules took much longer. But it took many more hours before the huge paraphernalia and construction&#8211; and prop&#8211;materials had been unloaded from the long furniture cars. Because of the large crowds, the unloading area was made accessible only to those with official positions. Indeed, there was something to see for everyone, particularly in the cavalcade, in which the buffalo run free like a flock of sheep along the Wiener&#8211; and Lennestra&#223;e to the site of the former Turnfestplatze. The people were all frozen to the bone, and many of them sipped coffee or tea out of tin cups, which were specially prepared in a kitchen trolley, with great pleasure. The audience was compensated for rising early in the morning to harsh temperatures because what they saw was so real and original, and no one felt cheated by their expectations. &#8212; On Sunday, Buffalo Bill's Wild West gave its first performance before a multitudinous crowd of visitors who filled every last seat in the grandstand. One could see a massive crowd of people, who wanted to see the heroes of the romantic Indian books, the "Leatherstocking Tales" and the "Ranger" stories with their own eyes, standing shoulder to shoulder. More than 10,000 people filled the seats. The glaring mayhem was so bizarre, so confusing, that it became impossible to take everything in with any sense of leisure. But again and again, the eye was drawn to Buffalo Bill's captivating figure. His countenance, stature, posture and demeanor convey a noble masculinity. He is no longer young, but beneath his gray hair, a fiery, youthful gaze still shines. To him, and to all his people, being able to control the small, tough horses they ride is a marvelous skill to possess. The performances on horseback were absolutely the most interesting part of the whole program. The shooters' skills also go beyond all expectation. Miss Annie Oakley, the best shooter of contemporary times, the little Johnny Baker, Mr. Daly, and especially Buffalo Bill demonstrated unbelievable marksmanship. </p>
+
+
+</div1>
+</body>
+
+<back><note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Dresden, Germany, June 1-16, 1890.</note>
+</back>
+</text>
+</TEI>

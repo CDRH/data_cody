@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11426">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Die Buffalo Bill's Wild&#8211;West&#8211;Truppe</title>
+<title type="main" xml:lang="en">The Buffalo Bill Wild West troupe</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Roberts, Briana</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11426</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Die Buffalo Bill's Wild&#8211;West&#8211;Truppe</title>
+<title level="a" type="main" xml:lang="en">The Buffalo Bill Wild West troupe</title>
+<title level="j">Weser Zeitung</title>
+<pubPlace>Bremen, Germany</pubPlace>
+<date when="1890-09-09">September 9, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3776.65.01 (German Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Arapaho Indians</term>
+<term>Biography</term>
+<term>Brul&#233; Indians</term>
+<term>Cheyenne Indians</term>
+<term>German language</term>
+<term>German newspapers</term>
+<term>Hidatsa Indians</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Kansas Pacific Railway Company</term>
+<term>Lakota Indians</term>
+<term>Mexicans</term>
+<term>Military campaigns</term>
+<term>Mustang</term>
+<term>Pony express</term>
+<term>Railroad construction workers</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Sharpshooters</term>
+<term>Shooting</term>
+<term>Sioux Nation</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army. Cavalry, 5th</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Cooper, James Fenimore, 1789-1851</term>
+<term>Hazen, William Babcock, 1830-1887</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Sheridan, Philip Henry, 1831-1888</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Bremen (Germany)</term>
+<term>Fort Dodge (Fort Dodge, Kan.)</term>
+<term>Fort Hays (Kan.)</term>
+<term>Fort Larned (Larned, Kan.)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name>Benn, James H.</name>; <name>Clark, L</name>.; <name>Adams, Deb</name>; <name>Hanna, S.</name> Proofreading</change>
+<change when="2019">Roberts, Briana</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nspnsp11426.001"/>
+
+
+<note>Weser Zeitung Bremen<lb/>
+9. September 1890</note>
+
+<p>Bremen, 9. Sept.<ref>1</ref> Die Buffalo Bill's Wild&#8211;West&#8211;Truppe, welche sich bereits in vielen gro&#223;en St&#228;dten, z. B. in Newyork, London, Paris, Rom, Wien, Dresden, M&#252;nchen, Berlin u. gezeigt hat, und bekanntlich in den letzten Wochen gro&#223;en Beifall in Hamburg erntete, begann heute Mittag auf dem Rennplatz an der Schleifm&#252;hle mit ihren Vorstellungen, in welchen Vorf&#252;hrungen aus dem Indianergrenzleben geboten werden. Die Gesellschaft z&#228;hlt etwa 200 Indianer, Cowboys, Pfadfinder Scharfsch&#252;tzen und Reiter und f&#252;hrt 175 Ponys, Maulthiere, wilde Pferde und B&#252;ffel mit. Der F&#252;hrer der Truppe ist der Oberst W. F. Cody (Buffalo Bill). Derselbe ist ein amerikanischer J&#228;ger und Trapper, dessen Erlebnisse als Hinterw&#228;lder und J&#228;ger und k&#252;hner K&#228;mpfer gegen die Indianer vielfach an die bekannten Schilderungen Coopers in seinen &#8222;Lederstrumpferz&#228;hlungen&#8220; erinnert. Herr Cody ist im Staate Iowa geboren, hat sich inde&#223; als junger Bursche nach Kansas begeben, wo er zun&#228;chst als Kuhhirte, Postkutscher und Ponyreiter Besch&#228;ftigung fand. Sp&#228;ter wurde er Trapper und im Herbst 1861 trat er als &#8222;scout&#8220;, Kundschafter, in die Armee der Ver. Staaten, kam in ein Reiterregiment und wurde schlie&#223;lich, nachdem er in mehreren Schlachten sich durch Kaltbl&#252;tigkeit, Unerschrockenheit und Tapferkeit ausgezeichnet hatte, Oberst. Seine &#252;bernommene Verpflichtung, die Arbeiter beim Bau der Pacificeisenbahn mit B&#252;ffelfleisch zu versorgen, die er mit au&#223;erordentlichem Geschick ausf&#252;hrte, trug ihm die Bezeichnung &#8222;Buffalo Bill&#8220; ein. Er wurde F&#252;hrer des 5. Regiments&#8211;Reiter im Feldzug gegen die Rothh&#228;ute und nahm auch Antheil am Kriege gegen die Sioux. Er war ein gef&#252;rchteter Feind der Indianer, deren Leben und Treiben jetzt hier durch die von ihm gef&#252;hrte Truppe gezeigt wird.</p>
+
+<p>Ueber den interessanten Mann berichtet General <persName xml:id="sheridan.p">Sheridan</persName>, der bekanntlich w&#228;hrend des Feldzuges von 1870/71 im deutschen Hauptquartier weilte, in seinem Buche: &#8222;Erinnerungen aus meinem Leben&#8220; und schildert eingehend sein erstes Zusammentreffen mit ihm. &#8222;Es war im Winter des Jahres 1867 w&#228;hrend des Indianerkrieges. Der Winter war au&#223;erordentlich strenge und es herrschte eine solche K&#228;lte, da&#223; die Mannschaften die gr&#246;&#223;ten Strapazen durchmachen mu&#223;ten. Furchtbare Schneest&#252;rme und Orkane stellten die Ausdauer von Mensch und Thier auf eine ungemein schwere Probe. Damals war ein wirklich guter Pfadfinder, der die Lebensweise der Indianer genau kannte, eine Seltenheit, und es war f&#252;r mich eine schwere Aufgabe, einen Mann zu finden, der das Terrain, auf welches ich meinen Kriegsschauplatz verlegen wollte, genau kannte. Wir konnten nur solche Leute brauchen, die viel Erfahrung, angeborene Schlauheit, Vorsicht und Muth besa&#223;en. Unter den Leuten, die uns damals zur Verf&#252;gung standen, befand sich einer, der seit der Zeit ein weltber&#252;hmter Mann geworden ist: Wm. F. Cody, genannt &#8222;Buffalo Bill&#8220;. Er hatte diesen Beinamen schon mehrere Jahre erhalten durch seine Leistungen als B&#252;ffelj&#228;ger. Meine Aufmerksamkeit wurde auf ihn gelenkt, als er mir eine Depesche von Fort Larned nach Fort Hays brachte. Die Entfernung dieser beiden Forts von einander ist 65 Meilen und der dazwischen liegende Landstrich wimmelte von feindlichen Indianern. Die Mittheilung, welche er mir brachte, machte es nothwendig, da&#223; ich sofort Befehle nach Fort Dodge schicken mu&#223;te. Dieses Fort lag 95 Meilen s&#252;dlich von Fort Hays, und der Weg dahin war ein &#228;u&#223;erst gef&#228;hrlicher. Mehrere Depeschenreiter hatten schon auf dieser Strecke ihr Leben eingeb&#252;&#223;t, und es schien f&#252;r mich unm&#246;glich, Jemanden zu bekommen, der meine Mittheilung nach Fort Dodge bringen w&#252;rde. Cody h&#246;rte von meiner Verlegenheit, meldete sich sofort und erkl&#228;rte mir, da&#223; er bereit sei, die Depeschen hin&#252;ber zu bef&#246;rdern. Obwohl Cody gerade seinen anstrengenden und gef&#228;hrlichen Ritt von Fort Larned beendet hatte, wollte er von einem Aufschub nichts wissen, er bestand vielmehr darauf, sich gleich wieder auf den Weg zu machen. Ich nahm sein Anerbieten dankbar an, gab ihm ein frisches Pferd, und nachdem er zwei Stunden ausgeruht hatte, machte er sich auf den Weg und erreichte wohlbehalten sein Ziel. W&#228;hrend dieses ganzen Rittes rastete er nur einmal eine Stunde. Nachdem er in Fort Dodge etwas ausgeruht hatte, machte er sich gleich wieder auf den Weg nach Fort Larned, wohin er wieder wichtige Depeschen mitnahm. Dort angekommen, fand General <persName xml:id="hazen.w">Hagen</persName> es dringend nothwendig, mir einige Mittheilungen nach Fort Hays zu senden, und auf einem frischen Pferde befand sich Buffalo Bill wiederum im Sattel. Der ganze Weg war ungef&#228;hr 350 englische Meilen lang, und Cody hatte ihn in weniger als 60 Stunden zur&#252;ckgelegt. Der ganze Ritt ging durch offenes, rauhes, feindliches Land, und eine furchtbare K&#228;lte herrschte. Cody legte durch diesen Ritt einen so gl&#228;nzenden Beweis von Ausdauer, List und Muth ab, da&#223; ich ihn bei mir behielt und ihn zum Chef der Pfadfinder ernannte. Seine Laufbahn seit jener Zeit ist mit der Geschichte des Westens eng verbunden.&#8220; </p>
+
+<p>Die heutige erste Vorstellung, &#252;ber welche wir hier der K&#252;rze der Zeit wegen nur wenige Worte bringen k&#246;nnen, begann mit einem Einzug der ganzen Truppe. Auf ein gegebenes Zeichen &#246;ffnete sich der Zelteingang des Lagers und in sausendem Galopp erschienen, nach St&#228;mmen abgetheilt, die phantastisch aufgeputzten Gestalten, die mit ihren Pferden vollst&#228;ndig eins zu sein scheinen. Auf die Gruppe der Arraphoes&#8211;Indianer unter ihrem H&#228;uptling &#8222;<persName xml:id="blackheart.w">Schwarzes Herz</persName>&#8220; folgten in weiten Lederhosen und das Gesicht von breitrandigem Hut beschattet die Cow&#8211;boys, amerikanische Hirten, mit ihrem obersten Befehlshaber <persName xml:id="taylor.w">Buck Taylor</persName>. Daran schlossen sich die Bruce&#8211;Indianer, ihnen folgten die Cutt&#8211;Off&#8211;Indianer und die mexikanischen Vaqueros, dann Cheyenne&#8211;Indianer. Eine Gruppe von Damen aus dem Western der Ver. Staaten, die H&#228;uptlinge der Sioux und Ogalla&#8211;Sioux vervollst&#228;ndigten das farbenreiche und belebte Bild des Zuges, welchen Buffalo Bill schlo&#223;. Dieser ist die imponirendste Gestalt der zahlreichen Gesellschaft, das interessante, edel m&#228;nnliche Gesicht belebt ein feuriger Blick. Erst nach und nach gelang es dem Auge, unter all den fremdartigen Erscheinungen in Federschmuck, phantastischer Bemalung und Kleidung die einzelnen sehnigen Gestalten zu unterscheiden, so wild und bet&#228;ubend war zun&#228;chst das Durcheinander. In gestrecktem Galopp, wie sie gekommen, verlie&#223;en all die eigenartigen Gestalten den Platz. Bei all den sp&#228;teren Rennen, Angriffen und sonstigen Auff&#252;hrungen zeigte sich eine Geschmeidigkeit und Geschicklichkeit der Reiter, eine Dressur der Pferde, welche der h&#246;chsten Bewunderung werth ist. Wettrennen, Einfangen von Pferden mittelst Lassos, blitzschnelles Wechseln der Pferde und Z&#228;hmen von Moustang&#8211;Pferden, deren scheinbare Ungeberdigkeit und Wildheit nur einen Beweis mehr f&#252;r die au&#223;erordentlich geschickte Dressur abgiebt &#8212; Alles diente dazu, die Geschicklichkeit und Geschmeidigkeit der Reiter und ihre Sehnenst&#228;rke in helles Licht zu setzen. Wie mit seinem Pferde verwachsen erscheint vor Allem Buffalo Bill selbst. Im Galopp die Bahn durchjagend, verzichtet er auf jeden Gebrauch der Z&#252;gel und schie&#223;t w&#228;hrend des Galoppirens mit einer staunenswerthen Sicherheit. Wirklich Fabelhaftes im Schie&#223;en leisten in den unm&#246;glichsten Stellungen auch <persName xml:id="oakley.a">Annie Oakley</persName>, <persName xml:id="baker.j">Joh. Baker</persName> und <persName xml:id="daly.c">L. Daly</persName>. Eine B&#252;ffeljagd, der Ueberfall eines Emigrantenzuges durch Indianer und Angriff der Indianer auf den <rs xml:id="coach.deadwood">Deadwood&#8211;Postwagen</rs> sind sehr geschickt inscenirte Schaustellungen, alle darauf berechnet, die au&#223;erordentliche Kunst der Reiter zu zeigen. Wir kommen morgen auf die Vorf&#252;hrungen und auf sonstige Einzelheiten ausf&#252;hrlicher zur&#252;ck.</p> 
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+<p>Bremen, 9. Sept. At noon today, Buffalo Bill's Wild West troupe, which has already performed in many large cities, such as New York, London, Paris, Rome, Vienna, Dresden, Munich, Berlin, etc., and, as is well known, has been greeted with great acclaim these last few weeks in Hamburg, began its series of shows at the hippodrome next to the Schleifm&#252;hle, presenting scenes from life on the Indian frontier. The company numbers some 200 Indians, cowboys, scouts, sharpshooters and riders and is accompanied by 175 ponies, mules, wild horses and buffalo. It is led by Colonel W. F. Cody (Buffalo Bill). He is an American hunter and trapper, whose experiences as a backwoodsman, hunter and daring Indian fighter are in many ways redolent of the scenes portrayed by [James Fenimore] Cooper in his well-known "Leatherstocking Tales." Mr. Cody was born in the State of Iowa, but moved whilst still a young lad to Kansas, where he initially found employment as a cowboy, stagecoach driver and Pony Express rider. Later on, he became a trapper, and in the fall of 1861 he entered the United States Army as a scout, joined a cavalry regiment and ultimately, after taking part in several battles where he won renown for his sang-froid, intrepidness and courage, rose to the rank of colonel. He then assumed responsibility for providing buffalo meat to the workers engaged in the construction of the Pacific railroad, in which capacity he carried out his task with extraordinary skill, thereby earning the sobriquet "Buffalo Bill." He served as guide for the horsemen of the 5th Cavalry Regiment in the campaign against the redskins, and also took part in the war against the Sioux. He was a much-feared foe of the Indians, whose lives and doings are now portrayed here by the troupe led by him.</p>
+
+<p>The exploits of this interesting man are recounted by General Sheridan, who, as is well known, spent the 1870/71 campaign with the headquarters of the German Army, in his "Personal Memoirs." in which he describes in detail his first encounter with him. "It was in the winter of 1867, during the Indian War. The winter was extraordinarily harsh, and the cold was such that the men were obliged to contend with the most extreme trials and tribulations. Frightful snowstorms and winter gales combined to test to the limit the endurance of man and beast. At that time, a really good scout, truly conversant with the ways and habits of the Indians, was a rarity, and it was for me an exacting task to find a man fully familiar with the terrain on which I wanted to locate my theater of war. We could only use people possessed of great experience, innate astuteness, circumspection and courage. Amongst those available to us at the time was one whose renown has since become worldwide: William F. Cody, known as "Buffalo Bill." He had acquired this sobriquet several years previously, on account of his exploits as a buffalo hunter. He came to my attention when he brought me a dispatch that he had carried from Fort Larned to Fort Hays. The distance separating those two forts is 65 miles, and the section between them was infested with hostile Indians. The intelligence that he brought to me required that I should immediately send orders to Fort Dodge. That fort lay 95 miles to the south of Fort Hays, and the route to get there was extremely dangerous. A number of dispatch riders had already lost their lives on that stretch, and it seemed to me impossible to find someone to carry my communication to Fort Dodge. Cody heard about my plight, reported to me straight away and declared to me that he was willing to convey my dispatches to their destination. Although Cody had just completed his arduous and dangerous ride from Fort Larned, he refused to countenance any deferment and insisted on setting out again without delay. I gratefully accepted his offer and provided him with a fresh horse, and after resting for two hours he hastened on his way and reached his destination safe and sound. During that entire ride he rested only once, for an hour. After resting for a while at Fort Dodge, he quickly set out again for Fort Larned, carrying with him further important dispatches. Upon his arrival there, General Hazen found it urgently necessary to send certain communications to me in Fort Hays and, mounted on a fresh horse, Buffalo Bill once again found himself in the saddle. The entire journey was some 350 English miles long, and Cody covered it in less than 60 hours. The whole of the ride took him through open, untamed, hostile territory, and it was freezing cold. In making that journey, Cody displayed such magnificent endurance, guile and courage that I kept him on and appointed him chief of scouts. His career since that time is inextricably bound up in the history of the West."</p>
+
+<p>The first performance presented today, on which, owing to the shortness of time, we are able here to report only in a few words, began with the entry into the arena of the entire troupe. At a given sign, the entrance to the tented enclosure of the camp opened and there emerged, at a break-neck gallop and divided up according to their respective tribes, the fantastically appareled figures, who seemed to be so perfectly merged with their steeds as to represent a single living being. The group of Arapaho Indians under their chief, Black Heart, were followed by the cowboys, led by their boss, Buck Taylor, wearing capacious leather pants and with their faces shaded by broad-brimmed hats. Then came the Bruce Indians,<ref target="n02">2</ref> followed by the Cutt Off Indians<ref target="n03">3</ref> and the Mexican vaqueros, then Cheyenne Indians. A group of ladies from the western United States and the chiefs of the Sioux and Ogalla tribes completed the colorful and lively scene presented by the procession, culminating in the appearance of Buffalo Bill himself. The latter is the most imposing figure amongst the large company; his interesting, noble and manly countenance is enlivened by smoldering eyes. To begin with, so wild and deafening was the hurly-burly that it was only bit by bit that one managed to distinguish, amongst all the exotic apparitions in their feathered finery, fantastic war-paint and apparel, the individual sinewy figures. Riding around as they did at full gallop, all the strange figures moved away from their original positions. In all the subsequent races, attacks and other acts, the riders exhibited such suppleness and dexterity in their handling of the horses as to command the greatest admiration. Competitive races, lassoing of horses, lightning-fast changes of mount and taming of mustangs, whose apparent skittishness and wildness only serve to provide further proof of the extraordinary dressage skills involved&#8212;all these things combined to show off the litheness and dexterity of the riders and the strength of their sinews. As if conjoined with his horse, and outshining all the others, Buffalo Bill himself appears. Hurtling around the arena at full speed, and eschewing any use of the reins, he shoots at a gallop with amazing accuracy. Really fabulous feats of marksmanship were also demonstrated, in the most impossible positions, by Annie Oakley, Johnny Baker and L. Daly. Other performances, staged with great skill to display the extraordinary artistry of the riders, include a buffalo hunt, an assault by Indians on a migrant train and an attack by Indians on the Deadwood stagecoach. Tomorrow we will consider in greater detail the various performances and other particulars.</p>
+
+</div1>
+</body>
+
+<back>
+
+<note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Bremen, Germany, from September 2 - 11, 1890.</note> 
+
+<note xml:id="n02">Note 2: Brul&#233; Indians.</note>
+
+<note xml:id="n03">Note 3: Hidatsa Indians.</note>
+</back>
+</text>
+</TEI>

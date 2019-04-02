@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11411">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Die letzte Sonntagsvorstellung von Buffalo Bill's Wild West in Dresden</title>
+<title type="main" xml:lang="en">Last Sunday's presentation of Buffalo Bill's Wild West in Dresden</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Roberts, Briana</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11411</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Die letzte Sonntagsvorstellung von Buffalo Bill's Wild West in Dresden</title>
+<title level="a" type="main" xml:lang="en">Last Sunday's presentation of Buffalo Bill's Wild West in Dresden</title>
+<title level="j">Der Bote vom Wilisch</title>
+<pubPlace>Possendorf, Germany</pubPlace>
+<date when="1890-06-10">June 10, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS6.3776.09.04 (German Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Flower arrangement</term>
+<term>Flowers</term>
+<term>German language</term>
+<term>German newspapers</term>
+<term>Gifts</term>
+<term>Shooting</term>
+<term>Traveling exhibitions</term>
+<term>United States</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Dresden (Germany)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name>Benn, James H.</name>; <name>Clark, L</name>.; <name>Adams, Deb</name>; <name>Hanna, S.</name> Proofreading</change>
+<change when="2019">Roberts,  Briana</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11411.001"/>
+
+
+<p>&#8212;&#42; Die letzte Sonntagsvorstellung von Buffalo Bill's Wild West in Dresden war von allen bisherigen Vorstellungen die am st&#228;rksten besuchte und buchst&#228;blich ausverkauft, soda&#223; die Kassen vorzeitig geschlossen werden mu&#223;ten. Im Ganzen waren 15 000 Personen in der Arena anwesend. Der Andrang zu den Kassenstellen war geradezu bespiellos, und die Kassirer hatten ihre Noth, dem Publikum gerecht zu werden. Dem Obersten Cody wurde w&#228;hrend der Vorstellung eine besondere Ueberraschung zu Theil. Einige Amerikaner wollten dem ber&#252;hmten Mann ein Zeichen ihrer besonderen Hochachtung und Verehrung geben und lie&#223;en zu diesem Zwecke ein kostbares Blumenarrangement in Gestalt eines riesigen Hufeisens anfertigen. Dasselbe zeigte die amerikanische Tricolore, gebildet aus Kornblumen, wei&#223;en und rothen Nelken; prachtvolle Marechal Niel&#8211;Rosen deuteten die Hufn&#228;gel an. In der Mitte des Hufeisens befand sich ein riesiges C, ebenfalls aus Marechal Niel&#8211;Rosen. Die beiden Enden des Hufeisens schm&#252;ckten gro&#223;e seidene Schleifen in den s&#228;chsischen und amerikanischen National&#8211;Farben; die erstere enthielt in kostbarer Gold&#8211; und Silberstickerei die Inschrift: &#8222;A token of Esteem to Colonel W. F. Cody.&#8220; Die zweite Schleife zeigte auf dem blauen Streifen inmitten der 46 Sterne der Vereinigten Staaten von Nordamerika den Namen &#8222;Buffalo Bill&#8220;, auf dem wei&#223;en Bande die Inschrift &#8222;from his American Friends&#8220; und auf dem rothen Bande das Datum der Widmung &#8222;Dresden, June 7th 1890&#8220;. Bekr&#246;nt wurde das Ganze von einem herrlichen Bouquet aus Bourbon&#8211; und Niel&#8211;Rosen, Wasserlilien, Kornblumen, Nelken, Farren, Spir&#228;en und Steinbrecharten. Als Buffalo Bill sein Kunstschie&#223;en beendet, wurde ihm dieses sinnige Angebinde unter dr&#246;hnendem Beifall des tausendk&#246;pfigen Publikums durch Fr&#228;ulein Helene Landgraf hier &#252;berreicht. Oberst Cody dankte den Spendern &#252;berrascht und herzlich und sprengte sodann hoch zu Ro&#223;, mit stolz erhobener Rechten die Troph&#228;e haltend, abermals unter st&#252;rmischen Bravorufen durch den weiten Plan der Arena, &#8212; ein herrliches, ritterliches Schauspiel! Das Meisterst&#252;ck von Blumenbinderei wurde in der seit 45 Jahren bestehenden Blumenhandlung von A. E. Schmidt, Pirnaischer Platz, hier, angefertigt. Gleichzeitig lie&#223;en die Geber durch das photographische Atelier von Ad. Hoffmann's Nachfolger (Lipczynski) eine naturgetreue Abbildung herstellen, um damit dem Obersten das sinnige Geschenk auch dauernd zu erhalten. </p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<p>&#8212;&#42; Last Sunday's presentation of Buffalo Bill's Wild West in Dresden drew a larger number of spectators than all previous performances and literally sold out, causing the ticket windows to close early. In all, there were 15,000 people present in the arena. The rush to the ticket windows was simply unprecedented, and the cashiers had difficulty dealing with the crowd. Colonel Cody received a special surprise during the show. Some of the Americans wanted to give the famous man a token of their special esteem and admiration, and for this purpose they arranged for the production of a sumptuous flower arrangement in the form of a huge horseshoe. It featured the American tricolor with cornflowers and white and red carnations; magnificent Mar&#232;chal Niel roses formed the shape of the horseshoe nails. In the middle of the horseshoe was a giant "C," also made of Marechal&#8211;Niel Roses. The two ends of the horseshoe were decorated with large silk ribbons in the Saxon and American national colors; the former included an inscription in luxurious gold and silver embroidery which read: "A token of Esteem to Colonel W. F. Cody." The second ribbon displayed, on the blue strip, the name "Buffalo Bill" surrounded by the 46 stars of the United States of North America; on the white band, the inscription read "from his American Friends," and on the red band was the date of dedication: "Dresden, June 7th, 1890." The assemblage was crowned with a beautiful bouquet of Bourbon and Niel roses, waterlilies, cornflowers, carnations, ferns, meadowsweet and types of saxifrage. As Buffalo Bill concluded his shooting exercises, this thoughtful gift was presented to him by Miss Helene Landgraf amidst roars of applause from the thousand&#8211;member audience. Colonel Cody thanked the donors with surprise and heartfelt sincerity, and then sprang onto his steed, proudly holding the trophy aloft in his right hand, and rode once more around the vast arena accompanied by a storm of bravos &#8212; It was a magnificent, gallant spectacle! The masterpiece of flower arranging was crafted at A. E. Schmidt's flower shop, which was established here 45 years ago and is located in Pirnaischer Platz. Additionally, the donors arranged for the Lipczynski photography studio (successor to the establishment founded by Adolf Hoffmann) to produce a lifelike image as a permanent record of the thoughtful gift presented to the Colonel. </p>
+
+</div1>
+</body>
+
+<back><note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Dresden, Germany, June 1-16, 1890.</note>
+</back>
+</text>
+</TEI>
