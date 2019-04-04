@@ -9,4 +9,4 @@ VRA Files must have one of the following in their filenames in order to be popul
 5. .va = visual_art
 6. .cc = cabinet_cards
 
-(This corresponds to this code: https://github.com/CDRH/data_cody/blob/master/scripts/solr_transform_vra.xsl#L140 a future update could refine this)
+(This corresponds to this code: https://github.com/CDRH/data_cody/blob/master/scripts/overrides/vra_to_solr.xsl#L140 a future update could refine this)

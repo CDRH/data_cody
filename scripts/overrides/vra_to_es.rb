@@ -85,4 +85,8 @@ class VraToEs
     mapping[type] || "none"
   end
 
+  def uri
+    # TODO once we understand how the url structure will work for Cody
+  end
+
 end
