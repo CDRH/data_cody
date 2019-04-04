@@ -1,9 +1,27 @@
 default:
   project_desc: The William F. Cody Archive
   solr_core: api_cody
-  es_type: cody_archive
-  vra_solr_xsl: collections/cody_archive/scripts/solr_transform_vra.xsl
-  tei_solr_xsl: collections/cody_archive/scripts/solr_transform_tei.xsl
-  variables_html:
-    image_thumb: 250
-    image_large: 800
+  collection: cody_archive
+  vra_solr_xsl: scripts/overrides/vra_to_solr.xsl
+  tei_solr_xsl: scripts/overrides/tei_to_solr.xsl
+  threads: 20
+
+development:
+  site_url: https://cdrhdev1.unl.edu/cocoon/codyarchive.org
+  es_path: https://cdrhdev1.unl.edu/elastic
+  es_index: cdrhapidev-v1
+  solr_path: https://cdrhdev1.unl.edu/solr
+  # remove once Cody is powered by orchid site
+  variables_solr:
+    site_url: https://cdrhdev1.unl.edu/cocoon/codyarchive.org
+    slug: cody_archive
+
+production:
+  site_url: http://codyarchive.org
+  es_path: https://cdrhapi.unl.edu/elastic
+  es_index: cdrhapi-v1
+  solr_path: https://cors1601.unl.edu/solr
+  # remove once Cody is powered by orchid site
+  variables_solr:
+    site_url: http://codyarchive.org
+    slug: cody_archive

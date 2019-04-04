@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
   xpath-default-namespace="http://www.tei-c.org/ns/1.0"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -8,9 +9,9 @@
   <!--                               IMPORTS                                -->
   <!-- ==================================================================== -->
 
-  <xsl:import href="../../../scripts/xslt/cdrh_to_solr/lib/common.xsl"/>
-  <xsl:import href="../../../scripts/xslt/cdrh_to_solr/lib/tei_personography.xsl"/>
-  <xsl:import href="../../../scripts/xslt/cdrh_to_solr/lib/cdrh_tei.xsl"/>
+  <xsl:import href="../.xslt-datura/common.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_solr/lib/personography.xsl"/>
+  <xsl:import href="../.xslt-datura/tei_to_solr/lib/fields.xsl"/>
   <!-- If this file is living in a projects directory, the paths will be
        ../../../scripts/xslt/cdrh_to_solr/lib/common.xsl -->
 
