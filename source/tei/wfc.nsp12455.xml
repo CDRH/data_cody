@@ -46,7 +46,6 @@
 <bibl>
 <author></author>
 <title level="a" type="main" xml:lang="en">Untitled [Let us hope that Buffalo Bill]</title>
-<title level="a" type="sub" xml:lang="en"></title>
 <title level="j">Sussex Daily News</title>
 <pubPlace>East Sussex, England</pubPlace>
 <date when="1892-06-25">June 25, 1892</date>
@@ -54,7 +53,7 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>McCracken Research Library</repository>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
 <idno>MS6.3778.070.03</idno>
 </msIdentifier>
 <msContents>
