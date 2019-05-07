@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12147">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12147</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The Horticultural Exhibition</title>
+<title level="j">Invention</title>
+<date when="1892-05-14">May 14, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.034.01</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Bands (Music)</term>
+<term>Cowboys</term>
+<term>Electric lighting</term>
+<term>Exhibitions</term>
+<term>God save the King</term>
+<term>Horticultural exhibitions</term>
+<term>Indians of North America</term>
+<term>Logistics</term>
+<term>Scrapbooks</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Coffin, Maitland</term>
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+<term>Heaton, J. Henniker</term>
+<term>Temple, Frederick, 1821-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12147.001"/>
+
+<head>THE HORTICULTURAL EXHIBITION.</head>
+
+<p>THIS Exhibition was inaugurated on Saturday last, the weather being beautifully fine. The opening ceremony was somewhat marred by the crushing of many of the visitors. The long centre avenue, with its crimson carpeting, was kept clear by open lines of police, and behind them rows of chairs for visitors. Very soon after the doors were open, at 11 o'clock, these were all taken, and some massing of people occurred down by the band stand, used for the day as a platform. The landscape garden beyond was curtained off. At half-past 12 the Duke of Connaught was received at the main entrance with Royal honours; the Tower Hamlets Volunteer Engineers forming outer and inner guard, and their band giving the customary fragment of the National Anthem. An informal procession advanced down the centre, Mr. Henry Ernest Milner, chairman of the Executive Committee, conducting the Duke to the platform. The following included the Bishop of London, Mrs. Temple and other ladies; the official staff, Mr. G. A. Loveday, B.A., Mr. A. Johnson, Mr. Rasker, Mr. A. H. Wood, Mr. J. E. Hollingshead, Dr. Maitland Coffin, &#38;c.; Sir Charles Mills, Lord Rowton, Baron de Worms, M.P., Lord Ashbourne, Sir C. Tupper, Lord Basing, Mr. Spencer, M.P., Lord Balfour of Burleigh, Mr. Lambert, M.P., the Lord Advocate, Mr. M. Low, M.P., Lord and Lady Kilmorey, Lord Manners, Mr. Henniker-Heaton, M.P., Dr. Farquharson, M.P., Sir J. Hay, Admiral Mayne, M.P., and the picturesque figure of Buffalo Bill, as upright and handsome as of yore, but silvering somewhat since his first visit.</p>
+
+<p>Before the Duke of Connaught and his immediate supporters had fairly established themselves upon the da&#239;s, the ladies and gentlemen who had been occupying the rows of chairs along the route swooped down, carrying all before them, and the platform was soon surrounded, and even invaded by many people. They certainly most warmly cheered his Royal Highness, but they effectually prevented the spectators from seeing or hearing. It was stated later that Mr. Milner read an address, and in the partial hushes it was possible to hear the Duke of Connaught expressing his pleasure at the Exhibition and its objects, and congratulating all and sundry on the delightful improvement in the weather. His Royal Highness recalled the earlier exhibitions as proof of what might be done by them in improving the science of horticulture and cultivating flowers and plants so as to beautify our cities, open spaces and homes. Then the curtains fell, and the International Horticultural Exhibition (the Duke and a few privileged persons having made a tour of the landscape garden) was declared open amidst cheering and music.</p>
+
+<p>A luncheon was provided in the large dining room in the western gardens, to be maintained for the season, as heretofore, by Bertram and Co. as a French restaurant. The toast, "Success to the International Horticultural Exhibition," was proposed by the Bishop of London, who spoke of the delights and educational uses of horticulture, especially calling attention to the admirable series of displays designed for successive months from May to October. To this Mr. Milner briefly responded. Time remained for a tour of the building before the passage at 3 o'clock across to the Wild West. The visitors had the Wild West performances for two hours by the clock, deducting a brief interval to 10 minutes. The Duke of Connaught and the Bishop of London had by this time departed, and the principal box was occupied by the United States Minister and party. It is a moot point whether this spectacle shows best by day or night, but there surely can be nothing better than a sunny afternoon. On Saturday it was seen at its best; the bright colours of the Indian dresses and war paint looked very fresh, save after brisk galloping and warfare, when the latter wore off in patches, revealing the bare muscles of those noble redmen, whose legs and arms were not defiled by any clothing more civilised than a smearing of pigment. The exciting incidents of this entertainment are now well known in this country. The Indians, cowboys and most of the horses are new, but the general programme is on the old lines. Lieutenant Dan Godfrey and his Grenadier band, the Exhibition band, under Mr. J. R. Wellington, and the band of the Tower Hamlet Volunteers performed during the afternoon and evening, when the grounds were illuminated by Pain, whilst in the main building organ recitals were given by Mr. Tonking.</p>
+
+<p>The electric light installation is in the hands of Mr. A. H. Wood, A.I.E.E. The building and grounds are lighted by 210 10-ampere arc lamps run 30 in series, and the pretty effects in the arena (the Wild West) are produced by 11 40-ampere projectors, provided with special reflectors, and having also a novel self-regulating attachment. In the engine room there are eight 30-lighter series machines, two compound 65-volt 250-ampere machines for projectors, two Mordey alternators and exciter to run 600 to 1000 incandescent lamps, with Mordey transformers supplied by the Brush Company. The engines are by Davey, Paxman and Co., of Colchester, one 70 and two 40 N.H.P., with locomotive multitubular boilers, running a countershafting divided into three sections, so as to meet any emergency or breakdown, the machines being run from the shaft. The centre fountain is an attractive item; the coloured incandescent lamps are controlled by an automatic switching arrangement, actuated by water wheel, the combination of which has been specially designed by Mr. Wood. The time for erection has been very short, the installation having been carried out in five weeks from the receipt of the order. We regret to say some mischievous person or persons endeavoured, on Saturday last, to stop the electric lighting of the Exhibition. Early in the morning it was found that one of the boilers had been tampered with, whilst, in the evening, on switching on the current, a short circuit occurred in the Wild West. This was discovered to be due to a portion of the metal roof having been wilfully forced or beaten down on to the conductors. We trust that the evildoer will be brought to justice, and with this object in view a reward of &#163;100 is offered.</p>
+
+<p>The Exhibition is delightfully interesting, and will, it is hoped, be a great success.</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12070">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Now I suppose]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12070</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Untitled [Now I suppose]</title>
+<title level="j">Brighton Star</title>
+<date when="1892-05-14">May 14, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.021.09</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Cowboys</term>
+<term>Flora</term>
+<term>Horticultural exhibitions</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Scrapbooks</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12070.001"/>
+
+
+<p>Now I suppose I must give an account of my doings during the past seven days, the places I have been to, the plays I have seen, and the books I have had time to read or "skim." In the first place I must give a little space to the Horticultural Exhibition which commenced its career on Saturday; the Duke of Connaught pronouncing the mystic words which declared it open from now to October next. The floral display was all that could be desired, and the luncheon provided for the invited guests&#8212;passable. The usual speeches were indulged in, and the usual complimentary things were said of everybody by everybody. The "Buffalo Bill" part of the Exhibition may or may not be entertaining. One thing I am delighted to learn and that is, that it is <hi rend="italic">positively</hi> their last appearance in this country. </p>
+
+<p>If the sight of a crowd of semi-clothed savages, who, if report speaks true, ought to be hung for the atrocities which they have committed, and of overclothed "cowboys" indulging in wild and uncouth horse-play, can be termed amusing or entertaining, then I suppose that Cowboy Cody and his crew are both.</p>
+
+<p>If visitors go there with the idea of picking up ideas concerning the mode of life of the "noble savage" in his Western home&#8212;or, for the matter of that, of the habits and customs of those gentlemen, named "cowboys," they are requested to banish the idea from their minds at once.</p>
+
+<p>I have been in the Western States of America and over the ground from which the scenes in this show are drawn, and in the present day, whatever it may have been in '50's or '60's, things are vastly different.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

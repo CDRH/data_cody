@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12424">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The "Wild West" Show at Windsor Castle</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12424</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The "Wild West" Show at Windsor Castle</title>
+<title level="j">St. James's Gazette</title>
+<persName>London, England</persName>
+<date when="1892-06-27">June 27, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS6.3778.065.08</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Gauchos</term>
+<term>Horsemanship</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Traveling exhibitions</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Beatrice, Princess Henry of Battenberg, 1857-1944</term>
+<term>Burke, John M., -1917</term>
+<term>Henry Maurice, Prince of Battenberg, 1858-1896</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12424.001"/>
+
+
+<head>THE "WILD WEST" SHOW AT WINDSOR CASTLE.</head>
+
+<p>Colonel Cody and his Wild West company had the honour of appearing before the <persName xml:id="victoria.q">Queen</persName> in the grounds of Windsor Castle on Saturday. The weather was all that could be desired, and the ground presented a very brilliant appearance when the royal party arrived on the scene. Prince and Princess Henry of Battenberg and Princess Christian were among those present to witness the performance. The programme opened with a race between the representatives of each of the different nationalities&#8212;the American cowboys, the Red Indians, the Mexicans, the Cossacks, and the Gauchos. Then followed a series of scenes of Indian camp life, which the red men went through with much spirit, after which the Gauchos, whose picturesque costumes and intrepid feats greatly interested the royal party, gave their performance. Next came "the race for life," showing Colonel Cody and a band of cowboys being pursued by hostile Indians, whom they ultimately defeated. The Cossacks, under Prince Ivan Makharadze, also gave exhibitions of horsemanship and dancing. The buckjumpers and cowboys went through their performances, and Colonel Cody displayed his dexterity as a marksman, the entertainment being brought to a close by a general salute by all sections of horsemen, which was graciously acknowledged by the Queen. Colonel Cody, Mr. <persName xml:id="salsbury.n">Sainsbury</persName> (director), and Mr. <persName xml:id="burke.j">Burke</persName> (manager) had the honour of being presented to her Majesty after the performance.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

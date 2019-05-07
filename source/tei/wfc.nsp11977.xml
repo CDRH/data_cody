@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11977">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">The Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11977</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">The Horticultural Exhibition</title>
+<title level="j">Weekly Dispatch</title>
+<date when="1892-05-08">May 8, 1892</date>
+<pubPlace>London, England</pubPlace>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.001.03</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Art</term>
+<term>Bears</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Gardens</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Ponies</term>
+<term>Rifles</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Baker, Johnny, 1869-1931</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Temple, Frederick, 1821-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Egypt</term>
+<term>London (England)</term>
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name  xml:id="da">Adams, Deb</name>; <name>Hanna, Sam</name> Proofreading</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11977.001"/>
+
+
+<head>THE HORTICULTURAL EXHIBITION.</head>
+
+<p>The weather favoured yesterday's opening of the new exhibition at Earl's Court, which was superintended with due ceremony by the Duke of Connaught and blessed by the Bishop of London. If the season continues as it has begun, this show promises to be a complete success, and even should the Fates be unkind it cannot suffer very much. It has been so arranged that even rain and storm will only be able to lessen the number and effect of the attractions provided. When visitors cannot enjoy themselves out of doors there is plenty of indoor entertainment for them. The great building, hitherto used largely as a bazaar, has been converted on the one side into a beautiful garden, and on the other in part into a receptacle for all sorts of horticultural appliances, useful and ornamental&#8212;in part into an art-gallery, crowded with floral pictures and others harmonising with them&#8212;and in part into a show of choice cut-flowers, which, it is promised, will be renewed from day to day, with special prize displays at frequent intervals of all the flowers in season. Instruction, as well as amusement, is provided in abundance, both in the grounds and in the building. A typical garden of ancient Rome is decked out in one space, a typical garden of ancient Egypt in another[.] In a third we are shown how quaintly our ancestors in Tudor days furnished and adorned their gardens; and [a] fourth gives an interesting example of the fantastic arrangements of Stuart times. It will be seen that there is plenty of diversion here for the student as well as for the mere pleasure-seeker. It is the rule of such exhibitions that they should not be perfected till they have been open for some weeks, and in this case our inclement spring and other inevitable obstacles afford ample excuse for a certain amount of unreadiness; but the exhibition, as it is at present, is complete enough to satisfy the most exacting, and its most important accessory&#8212;what to many will be the most interesting part of the show&#8212;needs no supplementing. Colonel Cody has brought back his "Buffalo Bill's Wild West Entertainment," with several additions to the spectacle which was so successful five years ago. The gaps in his company have been more than replaced by new-comers&#8212;some of them, we are told, being participators in the last war with the Redskins; and there is a larger number of horses, ponies, buffaloes, bears, and other animals than before. The old performance was, in its way, so good that it could scarcely be much improved, but what could be done in this way has been done. "Buffalo Bill" himself, Miss <persName xml:id="oakley.a">Annie Oakley</persName>, and Mr. <persName xml:id="baker.l">Johnny Baker</persName> repeat their astonishing exploits in rapid use of the rifle. We are again entertained by the cowboy fun, the comic and the serious racing of Mexicans, Indians, and others, the attacks on an emigrant train and on a settler's cabin, the capture of "the identical old <rs xml:id="coach.deadwood">Deadwood coach</rs>," the illustrations of Indian customs, and all the other items in Colonel Cody's exciting and picturesque series of spectacles.</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

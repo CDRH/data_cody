@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12228">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">International Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12228</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">International Horticultural Exhibition</title>
+<title level="j">The Times</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-07">June 7, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.044.03</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Audiences</term>
+<term>Bands (Music)</term>
+<term>Cossacks</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Gardens</term>
+<term>Gauchos</term>
+<term>Indians of North America</term>
+<term>Scrapbooks</term>
+<term>Stagecoaches</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Langtry, Lillie, 1853-1929</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Pampas (Argentina)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12228.001"/>
+
+
+<head>INTERNATIONAL HORTICULTURAL EXHIBITION.</head>
+
+<p>The growers' prize competition announced for yesterday was not held, it having been determined some few weeks ago to postpone it to a later period of the season. In spite of the withdrawal of this special attraction the exhibition was exceedingly crowded; and the permanent show of brilliant rhododendrons, graceful palms, insectivorous plants, garden beds, and rustic work, such as the collections of Messrs. B. S. Williams, Messrs. Phippen, Mr. Dick Radclyffe, and many others had large groups of admirers throughout the day. Great numbers of visitors arrived at an early hour and left comparatively early to finish the evening at the theatres. The three performance at the exhibition itself&#8212;Buffalo Bill's Wild West&#8212;were attended by 40,000 persons. While a number of those who were unable to obtain seats were provided with places round the arena itself. Among those who volunteered to ride in the <rs xml:id="coach.deadwood">Deadwood coach</rs> when it was attacked by the Indians was Mrs. Langtry, who also gave a prize to be contended for by the backwoods women, the dusky Galateas of the prairies. Colonel Cody and Mr. <persName xml:id="salsbury.n">Salsbury</persName> have brought over a troop of Cossacks, and will later on introduce some gauchos from the pampas, in order that no school of wild and daring riding may be unrepresented in their show. The remarkable feats of these savage horsemen were received with great applause and interest. The performances of the band of the Garde R&#233;publicaine were admirable, and were obviously very popular. They were only one of many bands which played in the gardens at various hours during the day. The total number of admissions to the exhibition was 43,646.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

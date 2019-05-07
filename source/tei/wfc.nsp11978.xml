@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11978">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">From Far West To Nearer East</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11978</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">From Far West To Nearer East</title>
+<title level="j">Sunday Times</title>
+<date when="1892-05-08">May 8, 1892</date>
+<pubPlace>London, England</pubPlace>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.001.04</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Atlantic Ocean</term>
+<term>Exhibitions</term>
+<term>Indians of North America</term>
+<term>Railroads</term>
+<term>Scrapbooks</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Turner, J. M. W. (Joseph Mallord William), 1775-1851</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Initial encoding</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>  Proofreading</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11978.001"/>
+
+
+<head>FROM FAR WEST TO NEARER EAST.</head>
+
+<p>The waste land, or rather what used to be waste land, in the neighbourhood of the Earl's Court Railway Station is once more occupied by Buffalo Bill and his troupe of Braves. The celebrated American Colonel who saw so much service on the other side of the Atlantic is once more amongst us, ready to give an adventurous side to an exhibition devoted to horticulture. To a great extent his entertainment is a novelty. We have had hippodromes before and Indians before, but never in exactly the same combination. So, perhaps, it may not be out of place to jot down at random a few recollections conjured up by the reappearance of that latest development of our American cousin, the enterprising Cody.</p>
+
+<p>But first about the site to which I have referred as "waste land," or, rather, what used to be "waste land." It is practically a mass of odds and ends. It would not be easy just at present to build over it to the entire satisfaction of the public, and so the powers that be have done wisely in letting it to a syndicate. Some day the spot will, no doubt, be of great value to the representatives of bricks and mortar, and then "the series of exhibitions" will, to put it in a homely fashion, dry up and disappear like a dream or a nightmare. But at present flowers and Buffalo Bill have had it all their own way; and a very pleasant way it is. Within measurable distance is that piece of ground purchased by the painter Turner, which, considered valueless when acquired, subsequently realised an enormous fortune, and nearer still is the few hundred yards of the iron road, known as Punch's Railway.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

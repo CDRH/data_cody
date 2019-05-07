@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12336">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The International Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12336</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The International Horticultural Exhibition</title>
+<title level="j">Money</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-11">June 11, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.057.03</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Audiences</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Bands (Music)</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Crystal Palace (London, England)</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Gardens</term>
+<term>Gauchos</term>
+<term>Horsemanship</term>
+<term>Horticultural exhibitions</term>
+<term>Scrapbooks</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Castile (Spain)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Paris (France)</term>
+<term>South America</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12336.001"/>
+
+
+<head>THE INTERNATIONAL HORTICULTURAL EXHIBITION.</head>
+
+<p>THE Horticultural Exhibition at Earl's Court has proved one of the most popular resorts in the Metropolis. The people of London have for so many years been accustomed to a place of entertainment at which music, amusement, and instruction are combined, that the lack of an exhibition this year would have been seriously felt. Fortunately for the "Horticultures," there is no competing exhibition this season, such as the Naval or the Military. The exhibition buildings proper are given up to a choice collection of flowers, with competitive displays of fruit and vegetables, and in the not infrequent event of wet weather, a portion of the interior has been artistically laid out with banks of flowers and winding paths in a very successful attempt to hold the mirror up to Nature. The chief charm of the exhibition is, however, in the two gardens, where the bands of the Grenadier Guards, under Lieutenant Dan Godfrey, and the Garde Republicaine, from Paris, occupy in turns the two stands. The gardens are beautifully laid out with flowers, now in full bloom, to which at night the illuminations give an added charm. The popularity of this resort is shown by the crowds which throng the gardens throughout the day and night. The "Wild West Show" of Buffalo Bill, enlarged and improved since its first production in the same arena six years ago, commands a large share of popular favour. Among the additional attractions to the Wild West is the band of Cossacks, who have recently arrived, and whose feats of horsemanship rival even those of the Cowboys. The Cossacks have "caught on" in the most wonderful manner, their feats of horsemanship, their games, their dances, and quaint music being received twice daily with tremendous enthusiasm. There will shortly be a performance of the Gauchos, some equally astonishing horsemen from South America. They are rough, but picturesque-looking men, and speak the language of old Castile. The present has been one of the most prosperous exhibitions that has ever been held in these grounds, and the attendance since the opening has already exceeded half a million. On Whit Monday over 45,000 persons passed the turnstiles, being nearly as many as went to the Crystal Palace. At the "Wild West" nearly 38,000 people attended the three shows given during the day, and the receipts were &#163;127 in excess of those of the Jubilee year Whit Monday, when Buffalo Bill paid his first visit here.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

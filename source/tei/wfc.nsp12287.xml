@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12287">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Burial of an Indian Chief in London</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12287</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Burial of an Indian Chief in London</title>
+<title level="j">Pall Mall Gazette</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-14">June 14, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.051.05-T</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Exhibitions</term>
+<term>Oglala Indians</term>
+<term>Pawnee Indians</term>
+<term>Scrapbooks</term>
+<term>Sioux Nation</term>
+<term>St. George's Hospital (London, England)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Long Wolf, 1833?-1892</term>
+<term>Miles, Nelson Appleton, 1839-1925</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Brompton Cemetery (London, England)</term>
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12287.001"/>
+
+<head>BURIAL OF AN INDIAN CHIEF IN LONDON.</head>
+
+<p>Long Wolf, a celebrated Ogallalla Sioux warrior recently attached to Buffalo Bill's company, died in St. George's Hospital on Saturday, after a short illness, due partly to old age and partly to trouble caused by numerous old wounds received in battle. He was buried yesterday in West Brompton Cemetery with much picturesque ceremony. Long Wolf had an interesting history. He was with the Pawnees in the attack upon and capture of Fort Peril, Kearney, the only fortified post ever captured by Indians. For many years afterwards he was an advocate of peace and he was the first man to surrender his rifle to General <persName xml:id="miles.n">Miles</persName> in the last war at Pine Ridge.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

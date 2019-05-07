@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11982">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Earl's Court Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Stetler, Julia S.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11982</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main">Earl's Court Exhibition</title>
+<title level="a" type="sub">Opening Proceedings Yesterday</title>
+<title level="j">News of the World</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-08">May 8, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.002.02</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bands (Music)</term>
+<term>Electric lighting</term>
+<term>England. Parliament</term>
+<term>English</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Gardens</term>
+<term>Horticultural exhibitions</term>
+<term>Indians of North America</term>
+<term>Japanese</term>
+<term>Scrapbooks</term>
+<term>Stagecoaches</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Temple, Frederick, 1821-1902</term>
+<term>Tupper, Charles, Sir, 1821-1915</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Egypt</term>
+<term>India</term>
+<term>London (England)</term>
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11982.001"/>
+
+
+
+<head>EARLS COURT EXHIBITION.</head>
+
+<head type="sub">OPENING PROCEEDINGS YESTERDAY</head>
+
+<div2><p>Yesterday afternoon the Duke of Connaught opened, in the presence of a large and fashionable assembly, the International Horticultural Exhibition at Earls Court. Favoured with beautifully-fine weather, the formal opening was attended by many ladies in the lightest summer dresses, and with the magnificent floral decorations in the main avenue, there was a picturesque wealth of colour. The Duke, who was met at the entrance by the executive, was escorted down a long avenue of spectators to a dais, behind which curtains were drawn across from wall to wall. His Royal Highness was accompanied by the Bishop of London and Mrs. Temple, Lord Ashbourne, Lord Rowton, and Sir G. Baden-Powell, and among a distinguished company who took up positions down the line of procession were Baron H. de Worms, Sir C. Tupper, Lord Baring, Lord Balfour of Burleigh, Mr. Cowley Lambert, M.P., the Lord Advocate, Mr. Malcolm Low, M.P., Colonel North, Mr. J. Maclean, M.P., and Colonel Cody. The Duke having mounted the platform, Mr. H. E. Milner, chairman of the Executive Committee, read an address of welcome, but he had hardly completed the first few sentences when a well-dressed mob rushed pell-mell to the platform, overturning in their eagerness all the chairs ranged around the dais. The proceedings could not be further followed, but ultimately the curtains were drawn back, revealing a perfect fairyland of flowers and evergreens in the central transept, and the proceedings of the formal opening terminated. Luncheon was provided in the Grand Saloon for several hundred guests. Mr. Milner occupied the the chair. Short complimentary speeches followed, and cordial wishes expressed for the success of the exhibition.</p></div2>
+
+<div2><head>Description of the Show.</head>
+
+<p>It must be at once said that the Horticultural Exhibition will be a pronounced success. All the accessories for this consummation are present. Fountains and fireworks, switchbacks, and other outdoor pleasures, the electric light, military bands, and Buffalo Bill are but a few of the attractions held out to the holiday-going public. But the exhibition does not need to appeal for public support on the score of these attractions. It is 30 years since an International Horticultural Exhibition was held in this country, and in the interval immense changes have been witnessed, so that additional interest is added to the grand horticultural display, which not only represents the various styles of the art as they exist in different countries, but includes reproductions of English and foreign gardens of former periods. The grounds and buildings have undergone a complete transformation. Flowers and foliage meet the visitor on every hand, while the bazaar element, with the importunate attendant, has been completely excluded. An immense fountain occupies the central position in the entrance hall, which is ornamented with figures and groups of statuary, and the side halls take the form of picture galleries. A central avenue 20ft. wide, extends down the whole length of the main building, interrupted only (at the foot of the Earls Court entrance steps) by an open space, where there is another large fountain, which, grouped round with masses of tropical greenery, is lighted by electricity, and by night presents a constant succession of changing colours. Branching off from the main avenue on either side are a series of groupings of horticultural exhibits, and forming a sort of background to these objects of utility, is a range of trees, bays and palms alternating. The side halls from a continuation of the picture galleries; and a very pretty decorative idea is given effect to in the large central space, the four corners being occupied with groups of statuary and flowers illustrating respectively Spring, Summer, Autumn and Winter. From the wall of the main building to a point near the theatre, a scenic background, representing an elegant terrace garden, has been erected ; and the top portion of the ground beyond the theatre is walled in, as it were, by a gigantic painting, the perspective of which is cleverly managed. This picture depicts the Long Walk in Windsor Park, which blends most effectively with the general scene, the illusion being perfect. The space between the theatre and this vista of Windsor is devoted to the purposes of an enclosed flower market. At the other end of the picture there is a reproduction of a Japanese garden, with its temples and tea-houses; and close by an Indian tea garden offers a very special attraction. In the Insectivorous House are exhibited specimens of those plants which prey upon insects, and a unique collection has been made. At the north end of the long gallery is a landscape garden under cover, where some of the most eminent of our professional floriculturists will show their productions. In another part of the grounds is a Tudor mansion, with a floral maze; an ancient Roman garden; an Egyptian Temple, with a glimpse of the Nile, and lotuses and date palms; a modern Italian garden; a Jacobean garden, with shrubs pruned into artificial shapes; and, lastly, a Georgian garden. From time to time special shows and floral fetes will be held while the exhibition remains open. In addition to all these things there are the military bands, and "Buffalo Bill" once more presents all the familiar features of his celebrated show, including the attack by Indians on the <rs xml:id="coach.deadwood">Deadwood Coach</rs>. Colonel Cody has brought from America many more Indians than before, including some who took part in the last war with the redskins. It should be added that the entire net profits of the exhibition, which, it is anticipated, will meet with phenomenal success, will be devoted to different gardening institutions.</p>
+</div2>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
