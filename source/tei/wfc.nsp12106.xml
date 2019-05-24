@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12106">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [The International Horticultural Exhibition]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12106</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [The International Horticultural Exhibition]</title>
+<title level="j">Topical Times</title>
+<date when="1892-05-14">May 14, 1892</date>
+<pubPlace>London, England</pubPlace>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.027.03</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Dodo</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Gardens</term>
+<term>Horticultural exhibitions</term>
+<term>Indians of North America</term>
+<term>Japanese</term>
+<term>Scouts</term>
+<term>Shooting</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Baker, Johnny, 1869-1931</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Temple, Frederick, 1821-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Egypt</term>
+<term>India</term>
+<term>London (England)</term>
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12106.001"/>
+
+<p>The International Horticultural Exhibition, which was opened at Earl's Court by H. R. H. The Duke of Connaught and Strathearn on Saturday last, will prove a boon to Londoners. Beautiful as are the grounds, visitors will in a measure be independent of our treacherous English climate, for the interior of the building has been turned into the very best form of "winter garden," as structures under glass are generally known. Not only are there palms and foliage and tropical plants on every side, from the midst of which peep forth beautiful pieces of statuary, but there are beds filled with exquisite flowers and flowering shrubs, and gravel paths and grass plots running the greater length of the building. Tastefully designed fountains there are on which variously-coloured lights play, and cunningly-painted cloths fill the sides as backgrounds and give a notion of vista and space. There are also picture galleries, the subjects of the paintings relating to horticulture; in four corners of the central space the seasons are illustrated by groups of statuary and appropriate flowers, and arrangements are made so that sweet music shall be heard throughout the building. In the grounds there are specimens of every kind of garden. The first thing that strikes the eye is the picture of the Long Walk at Windsor, the perspective of which is so admirable as to give the appearance of reality. Then there is an enclosed flower market, and Japanese and Indian gardens and tea houses, besides a reproduction of an Egyptian garden and its temple, the old Roman and more modern Italian garden, and a fac-simile of the English garden of the time when peacocks and griffins used to be shaped from the old yew hedges. We have the prim garden of the Georges' time, and on all sides we see what a thing of beauty a modern English garden may be made. I need scarcely say that good provision is made for a succession of music by military and other bands; that the "inner man" may be comforted whether by light or more solid refreshment under the fostering care of the "Bertram" firm of high renown; and that cheery Edward Hollingshead may always be found ready to add to the comfort of visitors. I must not forget the hospitable "Welcome Club," which is a perfect boon to its members and their friends; nor the "Switchback," which offers a strange attraction to so many. I may mention that the Bishop of London, who presided at the luncheon on the opening day, made a neat speech wishing prosperity to the Exhibition; and that the director-in-chief, Henry Ernest Milner, referred to the great strides that had been accomplished in gardening since the last real exhibition was held some thirty years ago. Then, after the placid enjoyment of the beauties of nature and the listening to sweet sounds, one may adjourn to the more stirring aspect of Indian frontier life, the riding of "bucking horses," the sports of the cowboys, etc., as illustrated in "Buffalo Bill's" Wild West Show. There you may see the great and handsome frontiersman and scout, and pretty and active <persName xml:id="oakley.a">Annie Oakley</persName>, and <persName xml:id="baker.l">Johnny Baker</persName> show their marvellous skill in shooting, and take a long look at the hunt of the buffalo, which animal will soon be as extinct as the "dodo." Colonel Cody has greatly increased his number of "real Injuns," and they parade in all their panoply of paint and feathers. On the opening day the huge arena was crammed, and this portion of the programme adds another great attraction to the International Horticultural Exhibition.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

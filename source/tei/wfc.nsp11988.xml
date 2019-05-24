@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11988">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">International Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11988</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">International Horticultural Exhibition</title>
+<title level="j">Morning Advertiser</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-09">May 9, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.003.02</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Bands (Music)</term>
+<term>Botanical gardens</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Great Sphinx (Egypt)</term>
+<term>Horse racing</term>
+<term>Horticultural exhibitions</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Pistols</term>
+<term>Pony express</term>
+<term>Rifles</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+<term>Star-spangled banner (Song)</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+<term>Heaton, J. Henniker</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Temple, Frederick, 1821-1902</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Rome (Italy)</term>
+<term>South Kensington (London, England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11988.001"/>
+
+
+<head>INTERNATIONAL HORTICULTURAL EXHIBITION.</head>
+
+<p>His Royal Highness the Duke of Connaught and Strathearn opened the International Horticultural Exhibition at Earl's Court<!--LINK--> on Saturday, in the presence of a large and distinguished company of spectators. Mr. Whitley, the promoter of the series of exhibitions which have for the last five or six years been held on the same extensive site, intimated last year that the then German Exhibition would, so far as he was concerned, be the last. It was not likely, however, that the buildings and grounds, so suitable for the purpose and so convenient of access, on which vast sums of money had been expended, would be allowed to remain tenantless, or, worse still, be delivered over to the tender mercies of the speculative builder. Accordingly, a new executive was formed, with Mr. Henry Ernest Milner, F.L.S. Assoc. M. Inst., C.E., as chairman; and Mr. C. A. Loveday, B.A., as secretary; and after months of incessant planning and working, and a necessarily large expenditure of money, the buildings and grounds, which erstwhile formed the <hi rend="italic">locus in quo</hi> successively of the American, French, Italian, Spanish, and German Exhibitions, have been converted, as by a touch of magic wand, into a display illustrating by practical demonstration the growth and development of the art of horticulture in this country, from Tudor times to the present, with examples of Continental and Oriental gardens of ancient and existing periods. Few persons could form the remotest idea of the extent and variety of the transformation which has been effected. The bazaar-like features of the main building have wisely been discarded, and visitors will no longer be importuned by witching stall-keepers to purchase the commodities they may wish to inspect but have no particular desire to possess. This is certainly a point gained. And, moreover, when in place of gewgaws and the attendant Hebes, the eye rests upon choice flowers, shrubs, and parterres arranged with consummate art and with a view to variety of colour and grandeur of effect, it may pretty safely be predicted that the Horticultural Exhibition will be more thoroughly appreciated and popular than any that have preceded it. The opening on Saturday was favoured with splendid weather, and the attendance was consequently large and fashionable. The Duke of Connaught arrived shortly after twelve o'clock, and was received at the main entrance by members of the executive committee, the band of the Grenadier Guards, conducted by Lieutenant Dan Godfrey, playing the National Anthem. His Royal Highness was conducted down the main avenue by the committee, rows of spectators being seated or standing on the right and left. The Duke was accompanied by the Bishop of London and Mrs. Temple, Lord Ashbourne (Lord Chancellor of Ireland), Lord Rowton, and Sir G. Baden-Powell, M.P., ; and amongst others present were Lord Balfour of Burleigh, Lord Manvers, Lord and Lady Kilmarnock, Lord Basing, Sir C. Pearson, M.P. (Lord  Advocate), Baron H. de Worms, M.P., Mr. Cowley Lambert, M.P., Mr. Henniker Heaton, M.P., Dr. Farquharson, M.P., Admiral Mayne, M.P., Mr. Ernest Spencer, M.P., Sir C. Tupper, Sir E. Braddon, Mr. J. Staats Forbes, Colonel North, Sir F. Milner, M.P., Sir Guyer Hunter, M.P., Mr. H. Watt, M.P., Major Isaacs, M.P., Sir C. Mills, Admiral Sir J. Hay, Mr. J. Maclean, M.P., Mr. Low, M.P., Lady Ellis, Mr. John Hollingshead, Mr. Sheriff Foster, Mr. Under-Sheriff Beard, Mr. Alderman Cotton, &#38;c. It was intended that the opening ceremony should take place on a da&#239;s about half-way down the main avenue, and thither his Royal Highness was conducted; but owing to an entire absence of organisation, no sooner had Mr. H. E. Milner commenced to read an address than the well-dressed individuals who had left their seats and followed the procession to the da&#239;s crowded upon it, absolutely mobbing his Royal Highness, and preventing anyone else from either seeing or hearing what took place. It is only natural to infer that the Duke, before leaving the da&#239;s, declared the exhibition open in stereotyped phraseology, but whether he said anything in the way of encouragement or congratulation must remain unrecorded. At any rate, he could not have said many words, for the whole ceremony did not occupy more than two or three minutes at most. Up to this point a muslin screen or curtain had shut off the garden end of the building, and, on this being drawn aside, revealed a picture of rare loveliness&#8212;a sort of fairyland&#8212;an English landscape garden under cover, with grass plots, raised flower-beds, and gravel walks. Garlands of coloured blooms and greenery hang in festoons from the roof, while the side walls and painted scenery and fancy rockwork lend illusion to the <hi rend="italic">ensemble</hi>. It is intended to change the flowers in the beds from month to month, so that the plants and flowers proper to the season may always be seen in perfection. Mr. Halley, the scenic artist, is responsible for the panoramic and other paintings. On emerging into the open, a great change in the laying out of the grounds has been effected. Beds of flowering shrubs, banks of rhododendrons, clusters of golden yew, and masses of azaleas impart fragrance and brilliancy to the striking scene. At the end of the gravel paths the background painting represents the Long Walk in Windsor Park, the Castle being in the remote distance. The bridges leading to the western garden remain as before, but once on the other side great improvements have been carried out. There is a massive representation of a Tudor mansion. Further on the scene changes from Tudor England to ancient Rome, where in a prettily-arranged inclosure is reproduced a Roman garden, with its colonnades and terraces adorned with statuary. Next will be seen a bit of ancient Egypt, with rows of sphinxes, where the scenic artist and the landscape gardener have in combination produced a veritable triumph. There is also on a miniature scale an Italian and the counterpart of a Jacobean garden. One of the most attractive features in this part of the gardens will be the Floral Maze, or Chrysdaegon, which is a great advance on the "Eve's Garden" at the Westminster Aquarium, and, like that wonderful illusion, invented and arranged by Z&#230;o, the intrepid gymnast, and Mr. W. Wieland. The switchback railway remains. But there are beauties and wonders everywhere; and a little later on, when everything is ship-shape and the flowers come out in all their fulness and wealth of polychromatic hues, this unique exhibition will be the talk of the town and the admiration of everybody who has the good fortune to visit it. An inaugural luncheon took place in the large dining-room in the western garden under the presidency of Mr. Milner, and was numerously attended.</p>
+
+<p>The Bishop of London, in proposing "Success to the International Horticultural Exhibition," said that a walk through the grounds proved that everything had been done with the greatest care and skill. It would have been difficult to arrange an exhibition of the sort which would give a greater amount of pleasure to a larger number of people. The flowers and the admirable arrangements for the visitors (particularly the ladies) had contributed very much indeed to an exceedingly pleasant afternoon. Of course, besides the opening, they trusted that as time went on there would be hundreds upon hundreds who would partake of the pure and delightful pleasure given by the sight of one of the most beautiful things that God had created, the beauty of the world of flowers. God had appointed that man should subdue the earth, and in the resources of that sovereignty he did not know anything which might more worthily claim the attention of mankind, and which brought a greater reward to those who devoted themselves to it, than the cultivation of flowers. He might add that those who promoted this exhibition were not merely thinking simply of the pleasure that would be given now; they were thinking also of the furtherance of the science of horticulture, and of the great improvement that might yet be made in all the methods that were adopted for the purpose of that science. The many flowers they had seen in the exhibition had been given by the growers in order to grace the opening day. Numbers of flower growers had thus shown the strong wish they entertained that this might be an opportunity for improving their beautiful art and for encouraging horticulture all over the world. It was 26 years since an exhibition of this kind was held in South Kensington, and anyone who was present then and could compare it with what was to be seen now would be able to judge of the improvement which had been made in the cultivation of flowers in the interval. The promoters of the exhibition desired, if possible, that the same improvement might go still further, and most assuredly they were doing a very great service to humanity in promoting the beautiful art, because the cultivation of flowers was unquestionably one of the most civilising influences that could possibly work upon the hearts and minds of man.&#8212;Mr. H. E. Milner, in responding to the toast, said that they had endeavoured to show that England, with the co-operation of Continental friends, could put before the public and exhibition not only of the art and science of gardening illustrated practically [by land]scape gardening, but to indicate the progress that had been made in floriculture since 1866. It was doubtless very interesting to Earl Manvers to recall the difference between the plants that existed then and what he now saw. The progress made was very remarkable. Not only had new types been imported, but the old ones had been so improved as to be almost beyond recognition. The present exhibition was also to be a place of entertainment, and the beautiful day promised to begin a new era in the life of the shows which would be held at Earl's-court.</p>
+
+<p>In the afternoon and evening the arena was occupied by Buffalo Bill's troupe of Indians and cowboys, whose "Wild West" presentments and incidents were made familiar to Londoners in the <persName xml:id="victoria.q">Queen</persName>'s Jubilee year. Colonel W. F. Cody ("Buffalo Bill") had a magnificent reception on making his appearance in the arena. Whilst the visitors were being seated the cowboy band played, as an overture, "The Star-spangled Banner." After a grand processional review, in which the entire company took part, Miss <persName xml:id="oakley.a">Annie Oakley</persName> performed some shooting feats with rifle and pistol, proving herself once more an expert shot. Next came a horse race between a cowboy, a Mexican, and an Indian; and this was followed by the "Pony express," and by the exciting attack on an emigrant train by Indians, and repulse by the cowboys. Another exciting and interesting feature was the capture of the Deadwood mail coach by the Indians, and the rescue by "Buffalo Bill" and his attendant cowboys. The novel sharpshooting feats of Colonel W. F. Cody were much appreciated, and loudly applauded. There was also a buffalo hunt by the last of the only known native herd, racing by Indian boys on barebacked horses, winding up with a desperate attack by Indians on a settler's cabin, its capture, and subsequent rescue by "Buffalo Bill" and the cowboys. There were other items in the entertainment, which was witnessed by an [im]mense audience, embracing a large number of dis[ting]uished personages, who were unstinting in their [appla]use.</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

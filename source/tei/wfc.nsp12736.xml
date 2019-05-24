@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12736">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">A Romantic Marriage</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12736</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">A Romantic Marriage</title>
+<title level="j">The Morning</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-08-27">August 27, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.106.07</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Indians of North America</term>
+<term>Marriage</term>
+<term>Sioux Nation</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Sitting Bull, 1831-1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>New York</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12736.001"/>
+
+<head>A ROMANTIC MARRIAGE.</head>
+
+<p>The American papers announce that a marriage has just taken place between the daughter of <persName xml:id="sitting.bull">Sitting Bull</persName>, the famous Sioux chief who was killed last year in a combat with the Federal troops, and Mr. Markle, a German-American citizen. It appears that the young Indian saved Mr. Markle's life when he was taken captive in one of Sitting Bull's expeditions against the white settlers. The marriage took place at Randout, in the State of New York.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12523">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [It was a glorious morning]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12523</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [It was a glorious morning]</title>
+<title level="j">Referee</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-07-10">July 10, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.078.03</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Elephants</term>
+<term>Exhibitions</term>
+<term>Indians of North America</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12523.001"/>
+
+
+<p>It was a glorious morning. But almost the sole occupants of the gardens were Buffalo Bill's Indians. Very picturesque did the braves look as they lay about on the lawn with their squaws and piccaninnies clad in gorgeous raiment, and I at once made friends with some of the chiefs, and endeavoured to converse with them in their own language and get their opinion of the Home Rule question, but we hadn't got fairly into the Ulster issue when the amiable Mr. Bartlett bore down upon us and insisted upon our having a ride on the elephants. The Indians had never ridden on elephants before, and they were all anxious to, but one good kind little squaw wouldn't go because of her piccaninny. She wouldn't take it with her and she had no one to leave it with. Rather than "Laughing Water"&#8212;that was the lady's name&#8212;should be disappointed, I offered to mind the piccaninny, and that's how I came to be discovered last Sunday morning by a distinguished politician sitting in a secluded part of the gardens and dandling a North American piccaninny in my arms. </p>
+ 
+<ab>* * *</ab>
+
+<p>It was a nice baby, but at an early stage it went to sleep with its red-and-yellow-ochred cheeks pressed lovingly against my white waistcoat, and as it had previously been crying for its mammy, a good deal of the colour came off, and I had to wake it up. I have always believed in hereditary transmission, racial instinct and all that sort of thing, and so I was not so startled as I should have been when that infantile Indian, furious at being disturbed, made a wild grab at my head and twined its fingers in my hair. It was only obeying an inherited impulse in going for my scalp.</p>
+
+<ab>* * *</ab>
+
+<p>After the Indians had had their elephant ride they re-arranged their feathers and plumes, which had been slightly damaged by contact with the branches of the trees, and then they were all photographed in a group. Mr. Bartlett wanted me to be photographed with them nursing the Indian baby, but my native modesty prevented me accepting his cordial invitation, and I went to the excellent establishment of Messrs. Spiers and Pond and had a modest luncheon instead.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

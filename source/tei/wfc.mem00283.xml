@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.mem00283">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">1890 Italian program (4-page summary program)</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Benn, James H.</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.mem00283</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="m" type="main" xml:lang="en">1890 Italian program (4-page summary program)</title>
+<publisher>Cody &amp; Salsbury</publisher>
+<publisher>Milan. Tip. Lit. Economica, Fiori Chiari, 8</publisher>
+<date when="1890">1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS327, James Wojtowicz Collection</idno>
+</msIdentifier>
+
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Memorabilia</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Programs</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison hunting</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Arapaho Indians</term>
+<term>Cheyenne Indians</term>
+<term>Cowboys</term>
+<term>Cowgirls</term>
+<term>Firearms</term>
+<term>Flags--United States</term>
+<term>Historical reenactments</term>
+<term>Horse racing</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Horses</term>
+<term>Hunters</term>
+<term>Indians of North America</term>
+<term>Italian language</term>
+<term>Mexicans</term>
+<term>Military campaigns</term>
+<term>Oglala Indians</term>
+<term>Pony express</term>
+<term>Programs (Publications)</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Shooting</term>
+<term>Sioux Nation</term>
+<term>Stagecoaches</term>
+<term>Translations</term>
+<term>United States. Army</term>
+<term>Wagon trains</term>
+<term>Warbonnet Creek, Battle of, Neb., 1876</term>
+<term>World's Columbian Exposition (1893 : Chicago, Ill.)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Columbus, Christopher</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Rocky Bear</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Taylor, William Levi, 1857-1924</term>
+<term>Yellow Hand, 1850?-1876</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Italy</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> OCR and proofreading of Italian; Initial encoding</change>
+<change when="2019"><name xml:id="lc">Clark, L.</name>; <name xml:id="da">Adams, Deb</name>; <name xml:id="sh">Hanna, Sam</name> Proofreading</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="program" xml:lang="it">
+
+
+<pb facs="wfc.mem00283.001"/>
+
+<div2>
+<head>
+Buffalo Bill's Wild West</head>
+<head type="sub">Rappresentazione NORD-AMERICANA</head>
+<head type="sub">Si prega   di leggere con attenzione</head>
+<head type="sub">IL PROGRAMMA</head>
+<p>Le rappresentazioni che darà la Compagnia Buffalo Bill's Wild
+West non sono da paragonarsi ai giuochi equestri o acrobatici, il cui me-
+rito dipende unicamente dalla perfezione acquistata a forza di prove.</p>
+<p>II nostro scopo è di far conoscere al pubblico, i costumi e il modo di vivere
+degli abitanti dell' Ovest degli Stati Uniti, riproducendo le scene principali e
+gl'incidenti che hanno luogo sulle lontane pianure dell'Ovest. Ciascun membro
+di questa Compagnia è stato scelto fra quelli della sua razza per essersi distinto
+per destrezza, valore e sagacità. Qualunque sarà l'opinione che si formeranno i
+nostri spettatori dal punto di vista critico ci permettiamo assicurarli che ciascuna
+scena presentata è una copia fedele fino ai più minuti dettagli dei costumi di
+quelli abitanti.</p>                            
+<p>Tutti i cavalli discendono dalla razza spagnuola, importata nel Messico da
+Fernando Cortès ed i suoi compagni Tutto il materiale e gli arnesi hanno ser-
+vito per molti anni per lo stesso scopo per cui sono ora adoperati. Noi ci con-
+sideriamo i primi nel mondo che siano riusciti a mettere insieme a causa di
+lunga esperienza tanti elementi di originalità e verità storica.</p>
+<p>Dopo di aver meritato l'approvazione della stampa e del pubblico del nostro
+paese e di aver avuto innumerevoli lodi in Londra e Parigi, oggi abbiamo
+l'onore di presentarci al pubblico Italiano.</p>
+<p>Milano; Aprile 1890, </p>
+<closer><signed>NATE SALSBURY Direttore.</signed></closer>
+</div2>
+
+<pb facs="wfc.mem00283.002"/>
+
+<div2>
+<head>
+PARTE PRIMA</head>
+
+<div3>
+<head>SINFONIA</head>
+<ab>1. Entrata della celebrità e gruppi
+nell'ordine seguente:</ab>
+<ab>Gruppo d'Indiani Arraphaos.</ab>
+<ab>Black Heart  (cuore nero) loro
+capo.</ab>
+<ab>Gruppo  di cow-boys  americani,
+(guardiani di vacche).</ab>
+<ab>Buck-Taylor, Re dei cow-boys.
+Gruppo d'Indiani Brulé.</ab>
+<ab>Little Chief (piccolo capo) loro
+capo.</ab>
+<ab>Gruppo della   Tribù  degl' Indiani
+Cutt Off.</ab>
+<ab>Brave Bear (orso valente) capo.
+Gruppo di cow-boys (guardiani di
+vacche) messicani.</ab>
+<ab>Signor Antonio Esquivel.</ab>
+<ab>Gruppo d'Indiani Cheyenne.</ab>
+<ab>Eagle   Horn   (Corno  d'Aquila).
+capo.</ab>
+
+<ab>Gruppo di donne dell' Ovest degli
+Stati Uniti.</ab>                   
+<ab>II giovane  Bennie  Irving, il
+più piccolo cow-boys del mondo.</ab>
+<ab>I Boys Chiefs, piccoli capi del
+del paese del Sioux.</ab>
+<ab>Bandiera Nazionale   Ita-
+liana.</ab>
+<ab>Banderia Nazionale Ame-
+rlcana.</ab>
+<ab>Gruppo degl'Indiani Ogallala
+Sioux.</ab>
+<ab>Low neck (collo basso) capo.
+Rockey bear (orso duro) medico
+del paese dei Sioux.</ab>
+<ab>« Buffalo Bill » (Col W. F.
+Cody) ex capo delle guide del-
+l'esercito degli Stati Uniti.</ab>
+</div3>
+
+<div3>
+<head>2. CORSA DI CAVALLI</head>
+<ab>fra un cow-boy, un Messicano ed un Indiano, su cavalli Ispano-Americano.</ab>
+</div3>
+
+
+<div3>
+<head>
+3. La signorina ANNIE OAKLEY Celebre tiratrice al volo</head>
+<ab>dimostrando la sua meravigliosa precisione nell' uso delle armi da fuoco.</ab>
+</div3>
+<div3>
+<head>
+4.
+L'ANTICO CORRIERE A CAVALLO</head>
+<ab>rappresentando il modo di trasportare le carte ed i documenti del Governo sulle
+frontiere, prima che fossero state  costruite le ferrovie ed i telegrafi. Il posti-
+glione deve cambiar cavallo ogni 10 miglia, per un tragitto di cinqnanta miglia.</ab>
+</div3>
+
+<pb facs="wfc.mem00283.003"/>
+
+<div3>
+<head>
+5.    Attacco d'un treno di emigranti dagl' indiani</head>
+<ab>e difesa operata dagli abitanti della frontiera</ab>
+
+<ab>Sconfitta degli assalitori e ballo VIRGINIA REEL a cavallo eseguito da ra-
+gazze dell'Ovest e cow-boys.</ab>
+<ab>NB. I vagoni usati sono quelli che erano in uso trentacinque anni fa.</ab>
+
+</div3>
+
+<div3>
+
+<head>6    Racconto storico della vita di BUFFALO BILL</head>
+<ab>II celebre scontro con YELLOW HAND (mano gialla) capo dei SIOUX a
+War Bonnet, Dakota e la sconfitta di questo il 17 luglio 1875, in presenza delle
+truppe Indiane ed Americano.</ab>
+</div3>
+
+<div3>
+<head>7.  II goovane JOHNNIE BAKER</head>
+<ab>Il cow-boy tiratore premiato colla medaglia dei tiratori giovani del mondo.</ab>
+</div3>
+
+<div3>
+<head>8.   PASSATEMPO DEI COW-BOYS</head>
+<ab>Tirando il laccio raccogiiendo oggetti per terra mentre vanno a tutta corsa
+su cavalli indomiti e facendo altri esercizii di equitazione.</ab>
+<ab>I cavalli BUCKING hanno questo nome perchè non si è potuto domarli ed
+è impossibile correggerli del vizio di piegar le ginocchia.</ab>
+</div3>
+
+<div3>
+<head>
+9.   Esibizione del Tiro alla pistola c revolver</head>
+<ab>Fatta dal sig C. L. DALY.</ab>
+</div3>
+
+<div3>
+<head>10.
+Corsa di Donne Amerlcane della frontiera</head></div3>
+
+<div3>
+<head>11. ATTACCO DELLA DILIGENZA DI DEADWOOD</head>
+<ab>dagl'Indiani, difesa operate dai cow-boys, e dalle Guide al comando di BUFFALO BILL,</ab>
+<ab>NB. Questo è il vero istorico veicolo col nome di<lb/>
+« Old  Deadwood  coach »</ab>
+<ab>celebre per il gran numero di persone che vi hanno lasciato la vita, e che
+facea la corsa fra Deadwood e Cheyenne quindici anni fa e che ha destato la
+curiosità di molte celebrità mondiali tanto in arte che in letteratura; due Pre-
+sidenti degli Stati Uniti, quattro Re e tutte le persone Reali che assistettero
+al Giubileo della Regina Vittoria in Londra, vi sono state dentro considerandolo
+come un'antica reliquia di grande interesse per dare realtà alla scena.</ab>
+</div3>
+
+<pb facs="wfc.mem00283.004"/>
+<div3>
+<head>
+12.
+Corsa di donne indiane su cavalli senza sella.</head>
+</div3>
+<div3>
+<head>
+13.       Costumi della vita indiana</head>
+<ab>Campi indiani sulla pianura e corse a piedi. Trofei di guerra ed altri.</ab>
+</div3>
+
+<div3>
+<head>
+14              BUFFALO BILL</head>
+<ab>Tirerà con tutte le armi montato a cavallo ed al galoppo.</ab>
+</div3>
+
+<div3>
+<head>
+15. Caccia al Bufalo</head>
+<ab>Come si fa nell'estremo Ovest dell'America<lb/>
+BUFFALO    BILL    e    gl'Indiani.</ab>
+</div3>
+
+<div3>
+<head>
+16.
+Atfacco di un Villaggio alla frontiera</head>
+
+<ab>da  Indiani  nemici  e  sua difesa  dai  cow-boys  al   comando
+   di « BUFFALO    BILL».</ab>
+</div3>
+<div3>
+<head>
+SALUTO FINALE</head>
+</div3>
+</div2>
+
+<div2>
+<ab>NOTA IMPORTANTE. — Lo spettatore deve figurarsi di essere nel paese
+dove accaddero le scene e gl'incidenti rappresentati e deve comprendere che
+i tipi veri e genuini sono a lui presenti.</ab>
+<ab>La direzione che dà lo spettacolo ha per iscopo d'istruire e divertire, e
+riproduce cose per sempre passate, ed oramai consegnate alia storia. Non dovrà
+destare meno interesse la presenza del Col. W. F. CODY (BUFFALO BILL) la
+cui vita passata è rappresentata in ciascuna scena; egli è stato successivamente
+Postiglione, Cacciatore di Cavalli Selvaggi, Cacciatore di Bufali, Guerriero
+Indiano e capo delle guide dell'esercito) Americano. Se lo immagini come l'ultimo
+di una classe di persone totalmente scomparsa dal nuovo mondo scoverto dal*
+l'immortale italiano CRISTOFORO COLOMBO in onore del quale si farà una
+grande esposizione mondiale in America nel 1892 pec celebrare il completamento
+della Storia da lui iniziata.</ab>
+<note>Milano 1890. Tip  Lit. Economica, Flori Caiari, 8.</note>
+</div2>
+
+</div1>
+
+<div1 type="program" xml:lang="en">
+
+<pb facs="wfc.mem00283.001"/>
+
+
+<div2>
+<head>Buffalo Bill's Wild West</head>
+<head type="sub">A true representation of NORTH AMERICAN life</head>
+<head type="sub">You are kindly requested carefully to read the following</head>
+<head type="sub">PROGRAMME</head>
+
+<p>No comparison can be drawn between the scenes portrayed by <hi rend="italic">Buffalo Bill's Wild West</hi> Company and mere equestrian or acrobatic displays, the merits of which depend solely on a degree of perfection attained by trial and error.</p>
+
+<p>Our aim is to bring before the public the customs and way of life of the inhabitants of the West of the United States, reproducing the principal scenes and incidents that take place on the far plains of that region. Each member of this Company has been chosen from among his peers as an individual possessed of outstanding dexterity, courage, and sagacity. Whatever opinions may be formed by our spectators from a critical standpoint, we can assure you that each scene presented is a faithful reproduction, down to the tiniest detail, of the lives of the inhabitants of those territories.</p>
+
+<p>All of the horses are descended from the Spanish breed imported into Mexico by Hernando Cort&#233;s and his comrades. All the equipment and contraptions have been used for many years for the same purpose as that for which they are now utilized. We consider that we are the first group in the world to have succeeded in bringing together, by dint of long experience, so many elements of originality and historical veracity.</p>
+
+<p>Having won the approval of the press and the public of our country, and having received innumerable plaudits in London and Paris, we are now honored to present ourselves to the Italian public.</p>
+
+<p><hi rend="italic">Milan; April 1890.</hi></p>
+
+<closer><signed>NATE SALSBURY, <hi rend="italic">Manager</hi></signed>
+</closer>
+</div2>
+
+<pb facs="wfc.mem00283.002"/>
+
+<div2>
+<head>PART ONE</head>
+
+<div3>
+<head type="sub">OVERTURE</head>
+
+<ab>1. Introduction of individual celebrities and groups in the following order:</ab>
+
+
+<ab>Group of Arapaho Indians.</ab>
+
+<ab><persName xml:id="black.heart">Black Heart</persName>, their Chief.</ab>
+
+<ab>Group of American cowboys.</ab>
+
+<ab><persName xml:id="taylor.w">Buck Taylor</persName>, "King of the Cowboys."</ab>
+
+<ab>Group of Brul&#233; Indians.</ab>
+
+<ab><persName xml:id="little.chief">Little Chief</persName>, their Chief.</ab>
+
+<ab>Group of Indians from the Cut-Off tribe.</ab>
+
+<ab>Brave Bear, Chief.<!--LINK--></ab>
+
+<ab>Group of Mexican cowboys.</ab>
+
+<ab>Mr <persName xml:id="esquivel.a">Antonio Esquivel</persName>.</ab>
+
+<ab>Group of Cheyenne Indians.</ab>
+
+<ab>Eagle Horn, Chief.</ab>
+
+<ab>Group of women from the West of the United States.</ab>
+
+<ab>Young Bennie Irving, "The Smallest Cowboy in the World."</ab>
+
+<ab>The Boy Chiefs, little chiefs from the territory of the Sioux.</ab>
+
+<ab>The National Flag of Italy.</ab>
+
+<ab>The National Flag of the United States of America.</ab>
+
+<ab>Group of Oglala Sioux Indians.</ab>
+
+<ab><persName xml:id="noneck">Low Neck</persName>, Chief.</ab>
+
+<ab><persName xml:id="rockybear">Rocky Bear</persName>, medicine man from the territory of the Sioux.</ab>
+
+<ab>"Buffalo Bill" (Col. W. F. Cody), lately Chief Scout of the U.S. Army.</ab>
+</div3>
+
+<div3>
+<head>2. HORSE RACE </head>
+
+<ab>between a cowboy, a Mexican, and an Indian, on Spanish-American horses.</ab>
+</div3>
+
+
+<div3>
+<head>3. Miss <persName xml:id="oakley.a">ANNIE OAKLEY</persName>, the celebrated crack shot,</head>
+
+<ab>demonstrating her amazing precision in the use of firearms.</ab>
+
+</div3>
+
+<div3>
+<head>4. PONY EXPRESS RIDE,</head> 
+
+<ab>illustrating the mode of conveying mails and Government documents on the frontier prior to the construction of the railroads and the telegraph. The rider had to change horses every 10 miles over a total distance of fifty miles.</ab>
+</div3>
+
+<pb facs="wfc.mem00283.003"/>
+
+<div3>
+<head>5. Attack by Indians on an emigrant wagon train<lb/>
+<hi rend="italic">and its defense by frontiersmen</hi></head>
+
+<p>Repulse of the attackers, after which the VIRGINIA REEL will be performed on horseback by Western girls and cowboys.</p>
+
+<p>NB. The wagons used are, without exception, those which were in use thirty-five years ago.</p>
+</div3>
+
+<div3>
+<head>
+6. Historical account of the life of BUFFALO BILL</head>
+
+<p>The celebrated encounter with <persName xml:id="yellow.hand">YELLOW HAND</persName>, Chief of the SIOUX, at War Bonnet, Dakota, and the latter's defeat on July 17, 1875, in the presence of Indian braves and American soldiers.</p>
+</div3>
+<div3>
+<head>
+7. Master JOHNNIE BAKER</head>
+
+<ab>"The cowboy marksman," recipient of the medal awarded to young marksmen of the world.</ab>
+</div3>
+
+
+<div3>
+<head>
+8. COWBOYS' FUN</head>
+ 
+<ab>Throwing the lasso; picking up objects from the ground while riding at full speed on untamed horses; and other exhibitions of equestrian skill.</ab>
+
+<ab>Bucking horses have this name because you cannot prevent them from bending the knees.</ab>
+</div3>
+
+<div3>
+<head>
+9. An exhibition of pistol and revolver shooting</head>
+
+<ab>by Mr C. L. DALY.</ab>
+</div3>
+
+
+<div3>
+<head>
+10. Ladies' race by American frontier girls</head>
+</div3>
+
+
+<div3>
+<head>
+11.  ATTACK ON THE <rs xml:id="coach.deadwood">DEADWOOD STAGECOACH</rs></head>
+
+<p>by the Indians, and their repulse by cowboys and scouts commanded by BUFFALO BILL.</p>
+
+<ab>NB. This features the authentic historical conveyance known as the<lb/>
+
+"Old Deadwood coach"</ab>
+
+<ab>celebrated for the many persons who have lost their lives in it, and which made the journey between Deadwood and Cheyenne fifteen years ago, arousing the curiosity of numerous world celebrities in the fields of both art and literature; two Presidents of the United States, four Kings, and all the royal personages who attended the Jubilee of <persName xml:id="victoria.q">Queen Victoria</persName> in London, many of whom, having sat inside it, proclaimed their great interest in it as a venerable artifact lending veracity to the scene.</ab>
+</div3>
+
+<pb facs="wfc.mem00283.004"/>
+
+ <div3>
+<head>
+12. Bareback horse-race between Indian girls</head>
+ </div3>
+
+
+
+ <div3>
+<head>
+13. Customs and practices of Indian life</head>
+
+<ab>Indian camps on the plains and horse races; war trophies and other curiosities.</ab>
+ </div3>
+
+
+ <div3>
+<head>
+14. BUFFALO BILL,</head>
+
+<ab>shooting with firearms of all sorts while riding on horseback at full gallop.</ab>
+ </div3>
+
+
+<div3>
+<head>
+15. Buffalo hunt,</head>
+
+<ab>as it was in the Far West of America</ab>
+
+<ab>BUFFALO BILL and the Indians.</ab>
+</div3>
+
+
+<div3>
+<head>
+16. Attack on a frontier settlement</head>
+
+<ab>by Indian marauders, who are in turn repulsed by cowboys under the command </ab>
+
+<ab>of "BUFFALO BILL." </ab>
+</div3>
+<div3>
+<head>
+17. FINAL SALUTE</head>
+</div3>
+
+<div3>
+
+<ab>IMPORTANT NOTE. &#8212; Spectators are encouraged to imagine themselves as being physically present in the territory where the scenes and incidents depicted actually took place and to bear in mind that they are genuinely in the presence of persons who were really there at the time.</ab>
+
+<ab>In providing the spectacle, the management is seeking to inform, educate, and entertain; its aim is to reproduce things that have gone forever and are now consigned to history. Not least among the interesting aspects of the spectacle is the presence of Col. W. F. CODY (BUFFALO BILL), whose past life is represented in each scene; he has been, in turn, a carrier of mails, a hunter of wild horses, a buffalo hunter, an Indian fighter, and Chief Scout for the U.S. Army. He may be regarded as the last of a breed of persons that has completely disappeared from the New World discovered by the immortal Italian CHRISTOPHER COLUMBUS, in whose honor a Grand World Exposition is to be held in America in 1892 to celebrate the completion of the story begun by that illustrious explorer. </ab>
+
+
+<note>Milan, 1890. Tip. Lit. Economica, Fiori Chiari, 8.</note>
+
+</div3>
+</div2>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

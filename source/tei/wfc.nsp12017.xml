@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main">Opening of the Earl's Court Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12017</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Opening of the Earl's Court Exhibition</title>
+<title level="j">Penny Pictorial Weekly</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-14">May 14, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.010.01ab,.02&amp;.011.03</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Bands (Music)</term>
+<term>Buckingham Palace (London, England)</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Electric lighting</term>
+<term>England. Parliament</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>Fruits</term>
+<term>Gardens</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Irrigation</term>
+<term>Japanese</term>
+<term>Lasso</term>
+<term>Organ (Musical instrument)</term>
+<term>Pistols</term>
+<term>Police</term>
+<term>Pony express</term>
+<term>Scrapbooks</term>
+<term>Stagecoaches</term>
+<term>Switch Back Railroad</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Baker, Johnny, 1869-1931</term>
+<term>Chaffey, George, 1848-1932</term>
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+<term>Heaton, J. Henniker</term>
+<term>Milner, Henry Ernest</term>
+<term>Nelson, John Young, 1826-</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Temple, Frederick, 1821-1902</term>
+<term>Tupper, Charles, Sir, 1821-1915</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>Egypt</term>
+<term>India</term>
+<term>London (England)</term>
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12017.001"/>
+
+<figure n="drawing"><p>INTERNATIONAL HORTICULTURAL EXHIBITION AT EARL'S COURT.</p>
+
+<p>THE DUKE OF CONNAUGHT PERFORMING THE OPENING CEREMONY.</p></figure>
+
+
+<pb facs="wfc.nsp12017.002"/>
+
+<figure n="drawing"><p>VIEWS OF THE "WILD WEST" CAMP. LONDON. 1892<lb/>
+MAJOR BURKE'S CABIN.<lb/>
+COL. CODY'S TENT WITH STUFFED BUFFALOES IN THE FOREGROUND.</p>
+
+<p>"CAPTAIN JACK BURTZ." A VETERAN OF THE ARMY OF THE AMERICAN REPUBLIC</p>
+
+<p>JOHNNIE BAKER'S EXTRAORDINARY FEAT.</p>
+
+<ab type="credit">Fritz B. Dell</ab>
+
+<p>A FRESH FEATURE. A STEEPLE-CHASE BY RIDERS OF ALL NATIONS.</p>
+
+<p>ANNIE OAKLEY. A LEAP AND A SHOT.</p>
+
+<p>JOHN. Y. NELSON.</p>
+
+<p>BUFFALO BILL'S "WILD WEST" AT EARL'S COURT. <hi rend="italic">(See page 2.) <lb/>
+ (Drawn from Photographs.)</hi></p>
+</figure>
+
+<pb facs="wfc.nsp12017.003"/>
+
+
+<head>OPENING OF THE EARL'S COURT EXHIBITION.</head>
+
+<ab><hi rend="italic">(See Illustrations, pages 1, 8, and 9.)</hi></ab>
+
+<p>Managers of public ceremonies may learn from what occurred on Saturday at Earl's Court how great is the virtue of barriers. The occasion was the opening of the International Horticultural Exhibition, and it was found that though you may put your trust in princes (for the Duke of Connaught duly kept his promise to be present), too much confidence cannot be reposed in a crowd, however well dressed. It was thought that the often irritating restraint of barriers might for once be dispensed with, and the season-ticket holders left to the guidance of their own sense of propriety. Being so left, they rushed the place at the critical moment, and spoiled the inaugural ceremony. The fact is we have too much of the old Adam left in us to be allowed at large; all crowds, from the Drawing room crush at Buckingham Palace to the East-end demonstration, require looking after. The weather was so inspiriting on Saturday, and the change from wintry winds to western breezes so grateful, that the visitors to Earl's Court were fortunately in good humour, and the only real harm done, perhaps, was that the poor reporters being (like many of their contributions now and then) crowded out, the world is the poorer by a last speech of the Duke of Connaught. The ladies, apparently, were not quite sure how they should dress in the morning. The sky was fair, and the glass in the hall reassuring; but how would it be in the grounds for the evening illuminations? Wise those who made a compromise, coming out in review order, but with a reserve of wrappage for contingencies. The feather boas and the fur trimmings were all too much for sitting under the glass roofs of the interior, but they were the proper wear out of doors.</p>
+
+<p>Of what is called opening ceremony there was not much. The long centre avenue, with its crimson carpeting, was kept clear by open lines of police, and behind them rows of chairs for visitors. Very soon after the doors were open, at 11 o'clock, these were all taken, and some massing of people occurred down by the band-stand, used for the day as a platform. The sub-tropical garden beyond was curtained off. At half-past 12<lb/>
+
+<hi rend="bold">The Duke of Connaught Was Received</hi><lb/>
+
+at the main entrance with Royal honours; the Tower Hamlets Volunteer Engineers forming outer and inner guard, and their band giving the customary fragment of the National Anthem. An informal procession advanced down the centre; Mr. Henry Ernest Milner, chairman of the Executive Committee, conducting the Duke to the platform. The following included the Bishop of London, Mrs. Temple, and other ladies; the official staff, Mr. G. A. Loveday, B.A., Mr. A. Johnson, Mr. Rasker, Mr. A. H. Wood, Mr. J. E. Hollingshead, Dr. Maitland Coffin, &#38;c.; Sir Charles Mills, Lord Rowton, Baron de Worms, M.P., Lord Ashbourne, Sir C. Tupper, Lord Basing, Mr. Spencer, M.P., Lord Balfour of Burleigh, Mr. Lambert, M.P., the Lord Advocate, Mr. M. Low, M.P., Lord and Lady Kilmorey, Lord Manners, Mr. Henniker-Heaton, M.P., Dr. Farquharson, M.P., Sir J. Hay, Admiral Mayne, M.P., and <lb/>
+
+<hi rend="bold">The Picturesque Figure of Buffalo Bill,</hi><lb/>
+
+as upright and handsome as of yore, but silvering somewhat since his first visit. Before the Duke and his immediate supporters had fairly established themselves upon the da&#239;s, the ladies and gentlemen who had been occupying the rows of chairs along the route swooped down, carrying all before them, and the platform was soon surrounded, and even invaded, by a hustling class mob. They certainly most warmly cheered his Royal Highness, but they effectually prevented the spectators from seeing or hearing. It was given out later that Mr. Milner read an address, and in the partial hushes it was possible to hear the Duke of Connaught expressing his pleasure at the Exhibition and its objects, and congratulating all and sundry on the delightful improvement in the weather. His Royal Highness recalled the earlier exhibitions as proof of what might be done by them in improving the science of horticulture and cultivating flowers and plants so as to beautify our cities, open spaces, and homes. Indeed, he hinted that there was also good solid money in such business. Then the curtains fell, and the International Horticultural Exhibition (the Duke and a few privileged persons having made a tour of the sub-tropical garden) was<lb/>
+
+<hi rend="bold">Declared Open Amidst Cheering and Music.</hi><lb/>
+
+A great crowd of persons, slow and admiring, at once passed down the portion which had hitherto been concealed&#8212;a lovely variety of gardens in which such famous growers as Turner, Williams, Cutbush, Lane, Korter, Waterer, Laing, Lee, and Phippen vied with one another in floral display. Exquisite azaleas, lilies, roses, pelargoniums, palms, ferns, foliage plants, and all the flowers in season fill the beds, and throughout the season they will be continually changed. The dull hue of the turf borderings served to show that when wind and weather maintain a determined hostility even the most skilled gardeners are hindered. This prepared one for evidences of backwardness in the open air, and those who were disappointed with the Egyptian, Roman, Tudor, Jacobean, and Italian gardens, should remember that the east winds and rainless weeks have fought against them and prevailed. Some of the houses over the bridge are also unfinished, and the Japanese and Indian sections and the open flower market have to be completed. The Long Walk at Windsor, the scenic backgrounds, and the accessory attractions of the entertainment order&#8212;foremost the switchback railway&#8212;were freely enjoyed, and there was some shade from the fruit trees, sole remnants of the market gardens which flourished here only a few years ago. There was also a luncheon in the large dining-room in the western gardens, to be maintained for the season as heretofore by Bertram and Co. as a French restaurant. The toast,<lb/>
+
+<hi rend="bold">"Success to the International Horticultural Exhibition,"</hi><lb/>
+
+was proposed by the Bishop of London, who spoke of the delights and educational uses of horticulture, especially calling attention to the admirable series of exhibitions designed for successive months from May to October. To this Mr. Milner, the chairman, briefly responded.</p>
+
+<p>Time remained for a tour of the building before the passage at 3 o'clock across to the Wild West. The exhibitors, of course, did not belie traditions by being ready. Some tastefully furnished stalls were exceptions, and the picture-gallery makes a very creditable appearance. The exhibits will represent many phases of horticultural work, and offer innumerable temptations to the amateur fruit and flower grower, who knows to his cost that the greenhouse and garden demand constant attention, no small expenditure, up-to-date appliances, and the help of science if difficulties are to be overcome, and the enemy&#8212;animate and inanimate&#8212;to be kept from the gate. Peculiarly appropriate to such an exhibition is the kiosk of the <lb/>
+
+<hi rend="bold">Australian Irrigation Colonies.</hi><lb/>
+
+Samples of raisins and apricots, and other fruit raised upon land that was worthless as a desert before the Chaffey Brothers carried their Californian experiences to the banks of the Murray, were shown as practical illustration of the literature of the Mildura Colony, provided by Mr. J. E. Matthew Vincent, the Chief Commissioner in England, for visitors to the exhibition. In a side hall near the main entrance was a beautiful collection of choice hot-house plants&#8212;giant carnations sent by Mr. Leopold de Rothschild, splendid auriculas by Mr. Dean, orchids and insectivorous plants by Messrs. Williams, orchids, begonias, and azaleas by Messrs. Laing, succulent plants by Messrs. Carmel, ericas by Messrs. Low, azaleas and auriculas by Messrs. Turner, and roses by Messrs. Ramsey. Probably many visitors missed this corner of lovely blooms. But they had <lb/>
+
+<hi rend="bold">The Buffalo Bill Performances</hi><lb/>
+
+for two hours by the clock, deducting a brief interval of 10 minutes. The Duke of Connaught and the Bishop of London had by this time departed, and the principal box was occupied by the United States Minister and party. It is a question whether this spectacle shows best by day or night, but there surely can be nothing better than a sunny afternoon. On Saturday it was seen at its best; the bright colours of the Indian dresses and war paint looked very fresh, save after brisk galloping and warfare, when the latter wore off in patches, revealing the bare muscles of those noble redmen, whose legs and arms were not defiled by any clothing more civilized than a smearing of pigment. The exciting incidents of this entertainment are now well known in this country. The Indians, cowboys, and most of the horses are new, but the general programme is on the old lines. We have the pony express, various races, the attack on the emigrant train by Indians (the waggons having done real prairie service 35 years ago), the affair with the old Deadwood coach, from whose roof the veteran, Scout <persName xml:id="nelson.j">Nelson</persName>, still slings his pistol shots; the attack on the settler's cabin, and some truly sharp shooting by Miss <persName xml:id="oakley.a">Annie Oakley</persName>, Colonel Cody, and <persName xml:id="baker.l">Johnny Baker</persName>. The buck-jumping episodes and the lassoing feats were on Saturday, as always, keenly enjoyed, and<lb/>
+
+<hi rend="bold">The "Onparalleled Show"</hi><lb/>
+
+was witnessed by an immense concourse of people. Lieutenant Dan Godfrey and his Grenadier band, the exhibition band under Mr. J. R. Wellington, and the band of the Tower Hamlet Volunteers performed during the afternoon and evening, when the grounds were illuminated by Pain. In the main building, organ recitals were given by Mr. Tonking, and altogether this last of the exhibitions opened with every promise of success.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

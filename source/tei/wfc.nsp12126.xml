@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12126">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The Looker On</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12126</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The Looker On</title>
+<title level="j">The Sportsman</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-05-14">May 14, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.031.03</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Band music</term>
+<term>Cowboys</term>
+<term>Crusoe, Robinson (Fictitious character)</term>
+<term>Exhibitions</term>
+<term>Gardens</term>
+<term>Horticultural exhibitions</term>
+<term>Hunters</term>
+<term>Indians of North America</term>
+<term>Mexicans</term>
+<term>Mustang</term>
+<term>Scrapbooks</term>
+<term>Shooting</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Selkirk, Alexander, 1676-1721</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12126.001"/>
+
+
+<head>THE LOOKER ON.</head>
+
+<p>One answers the call of duty with serene feelings when it summons one, on a brilliant afternoon in May, to the International Horticultural Exhibition at Earl's-court, the worst part of which is the unwieldy name it bears. A convenient and generally acceptable designation has not been hit upon. All the newspaper suggestions of "floweries," "greeneries," "the horty," and so on, have been contemptuously ignored. An abbreviation of the kind is hardly to be made by conscious effort, and certainly the independent British public will not be dictated to on the point. They are sure to find out for themselves a nick-name to apply to the International Horticultural Exhibition, if they should have frequent occasion to refer to the place; and they certainly will if the present spell of glorious weather does but hold out. I paid my second visit on Thursday last, the particular object being Z&#230;o's Crysd&#230;-Gon Maze which by now is open to the public. First, however, I had a look round the show generally, and would fain have lingered in the beautiful, sunny gardens listening to the excellent band that was playing a lively air. Unhappily a hurried look-round, which assured me, however, of steady and fairly rapid progress towards perfection, was all that I could spare. The sub-tropical garden, under cover of one half of the long, lofty, shed-like building, makes a delightful retreat from the heat and glare of the sun outside; and here at present are some of the most beautiful and odorous flowers, it being yet full early for a rival display outside; but that too will shortly come.</p>
+
+<p>I felt in duty bound to also have another look at Buffalo Bill and his Wild West. Here again zest was added to enjoyment by scantiness of opportunity. There was a capital attendance of visitors who were roaring with laughter and fired with excitement as they watched the long struggle between man and beast which is repeated each time one of the rebellious mustangs is mounted and ridden. The brutes must either be singularly stupid or rarely full of unconquerable determination, for nothing seems to affect in the slightest their untamable disposition. The domination of man is the one thing they cannot and will not submit to without a fierce disputation of the point. So long as this indignity is spared them they are docile enough, being well content to be lodged and fed and allowed to lead a life of idleness. Immediately any move is made to use them they are a-quiver with rage and any persistence in the attempt drives the worst of them almost frantic. In the long run none of them is a match for the skill and perseverance of man, whose subjugation at last of the brute is hailed always with loud applause. Miss <persName xml:id="oakley.a">Annie Oakley</persName>'s shooting is as marvellous as ever. A capital bit out of the programme is the dashing hurdle race in which an English gentleman, a huntsman, an Indian, a Mexican and a cowboy take part. The cattle they use are first chop. The Indian, without saddle or stirrup, holds his own with the best of his rivals. This is the last chance there will be of seeing the unique show. For my part, though not too curious in such matters, I should very unwillingly have missed a sight of it. It is worth travelling a good many miles for.</p>
+
+<pb facs="wfc.nsp12126.001"/>
+
+<p>Meanwhile I seemed to be forgetting the special object of my call. Unwillingly I tore myself away from the romance of the Wild West and turned my footsteps to the Crys-d&#230;-Gon floral maze. I neglected to ask what the meaning of Crys-d&#230;-Gon was, and the question has haunted me since, together with an uneasy suspicion that it possibly means nothing at all, being a mere capricious arrangement of letters. The ostensible description that accompanied the invitation was as mystifiying as the thing itself proved to be. It was conceived in these term:</p>
+
+<p>A Floral Maze or Labyrinth. The myriads of Collonades, interspersed with foliage, produce a mystical illusion unparalleled in the history of Optics. Illuminated Grottoes. The Owl's Cave. The Hall of Mirrors, al producing an elaborate series of realistic pictures, while the Mysterious Guide has been pronounced more wonderful than all. A mirthful recreation. Real friends meet in amusing garden party fashion. You bring your own company with you. Alexander Selkirk or Robinson Crusoe could never have felt lonely on their desolate island had they but known of Z&#230;o's Crys-d&#230;-Gon Maze.</p>
+
+<p>The optical illusion&#8212;for such it is&#8212;has the marked peculiarity of suggesting ghostliness without ghastliness in a very odd way. Mr Wieland, Z&#230;o's adopted father, has patented the invention but he modestly disclaims having thought it out. The germ of the idea was brought to fuller life in Z&#230;o's brain through pondering on the probable effect to be gained by an extension of t[he] principle of the triple mirror, a well-known aid <unclear reason="missing"/> the toilette. The actual result is really amazing. Of course the whole thing is explicable to the fullest extent by the science of optics, but he would be deeply versed in it who could off-hand apply its laws to a solution of the puzzling problem, which has certainly beaten the constructor of the maze, for he can make such a maze&#8212;another is being built at Manchester at the present time&#8212;but he cannot say why certain effects are thereby produced. It is not that he affects any mystery. He will illustrate the ground plan for you, tell you how many mirrors are used, specify the angles at which they stand to each other, and answer any questions you please to put, that he can answer. He pins faith to an equilateral triangle arrangement and he gets results which he maintains are indisputable and yet contradict in an important particular the fundamental teachings of books on optics. How many reflections he arrives at by means of his specially arranged two score mirrors&#8212;forty is the number of them&#8212;he could not say. The unworthy suspicion that he would not was dissipated when a careful look round and a futile endeavour to count for one's self ended in utter defeat and confusion. At a certain point one stands in the centre of what seems to be an immense central hall with flower-lined avenues almost innumerable radiating from the common centre. The place is peopled with figures, the perspective is perfect. The figures are reflections of the small party of visitors indefinitely repeated, what looks like vacancy is in fact a mirror, and after having been convinced of the fact several times one gets into such a state of uncertainty as to altogether distrust one's senses. The whole thing is most ingenious and surprising, and it is very pretty too. No printed description can convey an idea of the state of pleasant bewilderment into which it will, I think, throw most visitors.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

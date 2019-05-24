@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp14767">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Frank Richmond died in Barcelona]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp14767</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [Frank Richmond died in Barcelona]</title>
+<title level="j">The Sun</title>
+<pubPlace>New York, New York, USA</pubPlace>
+<date when="1890-01-05">January 5, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Barcelona (Spain)</term>
+<term>Brooklyn (New York, N.Y.)</term>
+<term>Europe</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp14767.001"/>
+
+<p><persName xml:id="richmond.f">Frank Richmond</persName>, for several years connected with Buffalo Bill's Wild West exhibition as "orator" and director of the performances, died in Barcelona, Spain, on Tuesday, Jan. 2. He was remarkable for his wonderful voice, which for power and carrying qualities has rarely, if ever, been equalled. He was exceedingly popular with his principals, Cody &#38; <persName xml:id="salsbury.n">Salisbury</persName>, and made himself a favorite with all with whom he came in contact, in this country and in Europe. The <persName xml:id="albert.edward">Prince of Wales</persName> and other members of the British royal family held him in high esteem, and the <persName xml:id="victoria.q">Queen</persName> of England presented him with a marble bust of herself in recognition of the pleasure he afforded her by his interesting description of the various features of the exhibition on the occasion of her visit to the Wild West in London. Mr. Richmond was the son of the late Dr. Twitchell of Brooklyn. He was about 42 years of age. He was, previous to his connection with the Wild West, an actor of ability, having been at various times connected with several leading companies.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

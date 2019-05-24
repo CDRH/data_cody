@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13176">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13176</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The Wild West</title>
+<title level="j">Weekly Budget</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-10-08">October 8, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.155.03</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Atlantic crossings</term>
+<term>Exhibitions</term>
+<term>Farewells</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Indians of North America</term>
+<term>Passenger ships</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13176.001"/>
+
+<p>THE WILD WEST.&#8212;The last "Wild West" performance has been arranged to be given on the 12th inst., and on the 15th the company sails for America in the steamship Mohawk. We have on several occasions pointed out that the remaining appearances of Colonel Cody and his company are really "farewell" performances, and that if they are not turned to account by those who have not yet seen them, they will irretrievably miss one of the most unique and most stirring spectacles ever presented to the British public. It is, on several accounts, a remarkable one, the object of which is not to display horsemanship as it might be from some fanciful or arbitrary standpoint, but as it actually is, and has long been, practised among peoples far removed from the highways and byeways of civilization&#8212;whose whole life may be said to be passed in the saddle, whose lives are constantly exposed to attacks from predatory tribes, and whose achievements, incited by the powerful impulse of self-preservation, often are characterized by an air of romance that transcends many of the best conceptions of art. A whole world of adventure of the very wildest description is thus opened up; and to this remarkably graphic delineation of it in its broadest and most striking features we owe many striking and moving scenes which have given infinite delight to the crowds which, for months past, have been hurrying from every part of the kingdom to witness them at Earl's Court. The most romantic descriptions we have read of encounters between civilization and the savage tribes which resisted its advance pale in comparison by the side of the fearful actualities represented here; and on these several accounts we would once more urge those who have not yet seen the "Wild West" to repair the omission whilst there is yet time.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13971">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The International Horticultural Exhibition&#8212;Buffalo Bill' Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp13971</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note>See also <ref target="http://codyarchive.org/texts/wfc.nsp12250.html">MS6.3681.147.02</ref>.</note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The International Horticultural Exhibition&#8212;Buffalo Bill' Wild West</title>
+<title level="j">The Lady</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-09">June 9, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno></idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American woman</term>
+<term>Cowboys</term>
+<term>Drawings and graphics</term>
+<term>Horsemanship</term>
+<term>Indians of North America</term>
+<term>Lasso</term>
+<term>Mustang</term>
+<term>Orators</term>
+<term>Sharpshooters</term>
+<term>Shooting</term>
+<term>Traveling exhibitions</term>
+<term>Wigwams</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp13971.001"/>
+
+
+<fw>9 JUNE, 1892  <hi rend="italic">THE LADY</hi></fw>
+
+<figure n="drawing"><p>BUFFALO BILL'S </p>
+<p>Miss Annie Oakley (Little Sure Shot)</p></figure>
+
+<head>THE INTERNATIONAL HORTICULTURAL EXHIBITION&#8212;BUFFALO BILL'S WILD WEST.</head>
+
+<p>A FEW short weeks ago we had the pleasure of warmly welcoming back to their new-old quarters at Earl's Court Colonel W. F. Cody (Buffalo Bill) and his band of braves, both red and white, as the honours for deeds of daring in the arena are pretty equally divided between his venturous cowboys and their picturesque copper-skinned friends, or enemies, as the case may be, as one moment sees them in friendly rivalry in a well-matched race round the ring on their fiery little mustangs, whilst at the next they are stealthily and murderously creeping around the log hut of some unlucky settlers, who here at least are fortunately always a match for their crafty and insidious foes. Our artist has sketched as many of the picturesque incidents and adjuncts of the show as he could fit into the limits of page 737. At the top right-hand corner he gives us a magnificent specimen of Wild Western manhood, clad in a characteristic cowboy garb, and who acts as a kind of "chorus" on a rostrum to describe the different feats that take place in the arena immediately on his left. Miss <persName xml:id="oakley.a">Annie Oakley</persName> ("Little Sure-shot"), one of the greatest attractions of the show, is exhibiting her marvellous shooting powers with an accuracy, rapidity, and coolness that are perfectly amazing. </p>
+
+<p>The visitors find many things to attract and interest them in the Indian quarters&#8212;the wigwams, the braves, the squaws, and last, but not least, the funny little "piccaninnies" (the little redskin babies). The braves are magnificent specimens when clad in full war-paint[,] their half-naked and painted bodies swaying with the ease and grace induced by a life of freedom and constan[t] exercise, either in the saddle hunting, or, what is perhaps better sport to an Indian, tracking on the war-path the movements of a hostile tribe, or taking part in some deadly foray against the "pale-faces." Our artist has sketched one of these treacherous but by no means uncommon incidents in the life of one of the early pioneers of civilisation, which is acted in a graphic and realistic manner in the arena, both by Indians and cowboys. To a nation with the adventurous instincts of the British, the feats of daring horsemanship appeal as strongly as anything could, especially the attempts to mount the fiery and untamed little steeds that are lassoed in thousands on the American prairies; and as we mentioned in our notice in the issue of the 19th of April, the experiments of mounting and retaining the seat on the buck-jumping horses are robbed of much of the sense of danger by the agility and expertness displayed by the cowboys, and the extremely light look of the breed o[f] mustangs, who seem like playthings in the skilled hands of their riders.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The International Horticultural Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12011</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The International Horticultural Exhibition</title>
+<title level="j">Illustrated Sporting and Dramatic News</title>
+<date when="1892-05-14">May 14, 1892</date>
+<pubPlace>London, England</pubPlace>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.009.02</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Band of the Grenadier Guards (Great Britain)</term>
+<term>Cowboys</term>
+<term>Electric lighting</term>
+<term>Exhibitions</term>
+<term>Flora</term>
+<term>French</term>
+<term>Gardens</term>
+<term>Indians of North America</term>
+<term>Irrigation</term>
+<term>Japanese</term>
+<term>Mexicans</term>
+<term>Mustang</term>
+<term>Pawnee Indians</term>
+<term>Rifles</term>
+<term>Scrapbooks</term>
+<term>Shoshoni Indians</term>
+<term>Sioux Nation</term>
+<term>Stagecoaches</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Arthur, Prince, Duke of Connaught, 1850-1942</term>
+<term>Godfrey, Dan. (Daniel), 1831-1903</term>
+<term>Temple, Frederick, 1821-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Australia</term>
+<term>Brompton (London, England)</term>
+<term>Earl's Court (London, England)</term>
+<term>Egypt</term>
+<term>Germany</term>
+<term>India</term>
+<term>London (England)</term>
+<term>Rome (Italy)</term>
+<term>South Kensington (London, England)</term>
+<term>Spain</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12011.001"/>
+
+
+<head>THE INTERNATIONAL HORTICULTURAL EXHIBITION.</head>
+
+<p>ANOTHER exhibition on the same site as the long series which have helped to render the London summer tolerable, was opened on Saturday last by the Duke of Connaught, who expressed his great gratification at the general aspect and surroundings of the exhibition. It must not, however, be inferred from this that the International Horticultural Show is by any means in that forward state of completion which requires only a finishing touch here and there. It, perhaps, compares favourably with the Spanish mockery of huge cases and the French and German packing rooms, which greeted the eye of the melancholy visitor who went early to those exhibitions of the past, but the ominous ring of the workman's hammer strikes incessantly on the tympanum, the paint-pot in painfully apparent at every turn, and there are here and there monster blanks which will probably in another fortnight be smiling parterres, but which at present suggest the very abomination of desolation. The object of the exhibition is one of the very best from the point of view of pure English business that has ever been held at this place. We give the foreigner his fair share in the way of space it is true, but it is the English florist and those kindred trades which, owing to our growing love of flower gardening, have sprung into existence, that the Earl's Court Executive have this time encouraged, and for this reason alone it is to be hoped that the exhibition will become popular, as, indeed, popular it is bound to be if its management only arouses itself to the necessities of the moment. To revert to the opening ceremony, the brevity of the opening speech of the Duke was amply made amends for by the homely eloquence of Bishop Temple, who, in a <hi rend="italic">r&#244;le</hi> to which he has been probably somewhat unaccustomed since his curate days, gave voice to the feeling of satisfaction which permeated all those present who had made a casual inspection of the building and grounds. It would not be amiss just here to give one&#8212;and that the most important&#8212;excerpt from Dr. Temple's speech. He said that "the exhibition was started in the hope that it would be an encouragement not only to all lovers of flowers and to all who loved them so much as to give a good deal of time and trouble to their cultivation, but the appeal which was made to flower-growers generally was very gladly and largely responded to, and many flowers they had seen in the exhibition had been given by the growers in order to grace the opening day. It was twenty-six years since such an exhibition had been held in South Kensington, and the improvement was, in his opinion, very marked." That this was so there is no gainsaying; still one is, perhaps, permitted to ask why, no matter what the exhibition may be, there is such an utter lack of completeness on all opening days. The time is known, the date is fixed, the executive has naturally sent round all its circulars and notices weeks, nay, months before; yet, with a persistence which has almost become proverbial, exhibitors continue to be behindhand, to their own personal detriment and the annoyance of the public. It would be well-nigh impossible within the scope of a short article to enumerate one tithe of the exhibits. It must suffice to cursorily glance over a few of the crucial features of the "show." The exhibition is, for purposes of specification, divided into sixteen different groups, ranging from A to Q inclusive, and these groups again have their own particular sub-divisions. Every possible aspect of horticulture is provided for in these groupings, and in each of the sixty odd classes therein specified prize medals of gold, silver, or bronze, and certificates will be awarded, as well as money prizes of considerable amounts. Far be it from us to anticipate the verdict of the adjudicators; but in the grand corridor of the building it is impossible to overlook the magnificent and colossal Malmaison carnations, both pink and white, sent by Mr. Leopold Rothschild. The orchids, foliage plants, and rare begonias, exhibited by Messrs. Laing, are another striking evidence of technical training, while the remarkable auriculas of Mr. Dean were at once noticed as a graceful tribute to the royal Prince who presided at the opening&#8212;the marone "Duke of Connaught," and the white and green "Duchess of Connaught" being <hi rend="italic">en evidence</hi> the moment the parterre was approached. The splendid bed of roses shown by Messrs. Ramsey perfumed the air with their fragrance, and were much admired, as were also the azaleas of the Messrs. Turner, and the wonderful insectivorous plants and rare orchids of the Messrs. Williams, who hail from Upper Holloway, and thereby dissipate the fondly-cherished illusion that Mr. Chamberlain always purchases his button-hole in the south-western district. It is very difficult to convey to the reader what this long vista of variegated colours would look like when the exhibition is complete. At Sir A. Harris's pantomine the jaded eye tires of the ceaseless change of lovely costumes presented by a manager whose taste for colour is indisputable, but Nature can give infinitely more variety and still leave the optic nerve unsatiated. So is it with the avenue of prismatic hues which bursts on the gaze of the visitor to the "Floweries." Not only has a wealth of production contributed to this result, but in the arrangements even of the central fountain there has been a taste displayed for which we were not prepared, and for which we English as a race are not generally credited. Everything in any way remotely connected with horticulture is to be found in some degree represented at West Brompton this year. From garden rollers of the latest and most approved make down to machinery for seed cleaning and saving, plant houses, pumps, garden seats, rock work, vases, statuary, fences, nothing seems to have been forgotten. Why one can even hap upon the last thing in cucumber frames cheek by jowl with bandstands, for croquet or garden parties, and the cosmopolitan side of the exhibits is to our mind the most notable feature. On the one hand, the "forcing houses" <hi rend="italic">&#224; la mode,</hi> on the other the fuel to keep those forcing houses going. Here an exhibit of lines and twines most suitable for wall fruit, there a set of garden pottery which shall render an Arcadia of an ordinary two-acre plot. There is no trade in the slightest way identified with horticulture which has not seized on the opportunity of displaying its attractive wares, and what with tree guards, silver sand, spray distributors and fumigating processes, the entire show reeks of horticulture. It would be, perhaps, invidious to particularise, but perhaps one of the most unique exhibits may be found at the stand sacred to the artistic floral paintings of Madame Gofton, where on canvas and glass is set forth for inspection a variety of very wonderful fruit and flower pictures, the work of a lady which entitle her to rank very high in the artists' guild. The extraordinary show of porcelain roses by Farina is a souvenir that the passer-by carries away with him as one treasures up the memory of the leading picture at Burlington House, for never has the art of reproducing Nature in porcelain been more deftly carried out. Why, however, Messrs. Ardeshir and Byramji should set up a stall of gold and silver enamelled jewellery at a horticultural exhibition was a problem which after some enquiry we gave up in despair, natheless, the specimens were very elegant, but they were excelled in detail and certainly in appositeness by the very complete collection of window boxes, fern stands and rustic groups, for which Messrs. Williams of Hammersmith are responsible. The Australian Irrigation Colonies have a very reputable stand, and as an enterprise in fruit cultivation, they possess a record second to few, but they protest too much with the immense show of literature with which they insist on delectating or dosing the visitor, and as life is too short for eight page newspaper reports, it is more interesting to turn to the hot air and water stove, a patent combination of John Watson, of St. Albans, which heats conservatories by a single gas jet carrying off all fumes and smoke outside. But here we are again at the daffodils sent to cheer the eye by Barr, of Convent Garden; and who does not know Barr, and knowing him, who would gainsay the excellence of his specialty which it seems has won a gold medal at a Daffodil Conference? Shades of the Council of Trent, a Daffodil Conference! What peaceful changes have come o'er the planet when one can dally with a conference on daffy-down-dillies. But the air waxes warm, the scent of the <hi rend="italic">gloire de Dijon</hi> hangs heavy on the nostril and the grounds have to be explored. Here everything is more or less belated. The refreshment bars are, it is true, in full swing, but although the Japanese garden, the Indian pea garden, the floral maze, and the styles of horticulture most in favour with the Romans, Egyptians and Italians are all more or less advanced, there are strong proofs abounding around us that although, as the guidebook hath it, "a tour through these charming grounds by night when the electric light is shedding its brilliance over the scene, is in itself a liberal education," it is evident that the school is not yet ready for occupation. The ingenious floral maze, which I understand was invented by Z&#230;o, the immortal flying wonder, will be probably the principal <hi rend="italic">point d'appui</hi> of all who wish to study the mystic effects of  mirrors, for it is a greatly increased surprise on that felt by those who inspected Eve's Garden at the Aquarium, Mr. Wieland by a scientific arrangement of ferneries and snuggeries, having out of his limited space created a bowery of comfort and astonishment. Three bands, including that under the incomparable <hi rend="italic">b&#226;ton</hi> of Dan Godfrey, evoke sweet music, the switchback vies with the attraction of the organ recitals to woo the public from the megrims induced by the last statement of the Board of Trade, and still we have by no means exhausted the stock of attractions; for has not Cody, of the iron wrist, the piercing eye, and flowing locks secured the great arena wherein to repeat his performances of 1887, but with a stronger company? Will not the dear old Deadwood Coach&#8212;genuine to its very axletrees, and now decaying with time and service&#8212;continue to be trotted out until next October? Did we not, last Saturday, hear with a shudder of dread the wild yells of the Sioux, the Pawnees, the Soshoganes, and heaven knows how many more representative tribes, as they rushed madly on the serried files of Buffalo Bill's cowboys, only to succumb to the deadly fire of the repeating rifle. And then, again, the buck-jumping mustang, which can only be subdued by the nervous touch of the cowboy; and the Mexican vaquero&#8212;has he not flung up his heels to the rippling music of a myriad laughing voices during the past week? Go to, you who have not been to the International Horticultural Exhibition; you should study these matters and keep abreast of the times, especially if you take an interest in plants and buffaloes&#8212;though the connection between the two is hard to discover "straightaway."               E. L. </p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

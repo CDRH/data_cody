@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12455">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Let us hope that Buffalo Bill]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12455</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [Let us hope that Buffalo Bill]</title>
+<title level="j">Sussex Daily News</title>
+<pubPlace>East Sussex, England</pubPlace>
+<date when="1892-06-25">June 25, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3778.070.03</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Bicycle racing</term>
+<term>Exhibitions</term>
+<term>National Cyclists' Union</term>
+<term>Scrapbooks</term>
+<term>Traveling exhibitions</term>
+<term>Wigwams</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Beatrice, Princess Henry of Battenberg, 1857-1944</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="sh">Hanna, Sam</name> Transcription</change>
+<change when="2019"><name xml:id="fc">Christensen, Frank</name>; <name xml:id="da">Adams, Deb</name>;  Proofreading</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp12455.001"/>
+
+
+<p>Let us hope that Buffalo Bill will amuse the <persName xml:id="victoria.q">Queen</persName>, since he has obtained the honour of a command to appear at Windsor. Her Majesty is certainly very ready lately to see all things theatrical and sportive that are to be seen, and Buffalo Bill will be by no means the least interesting personage who has given his show in the Castle grounds. In this connection it is curious to remember that the Queen was very desirous last year to see a bicycle race, and very nearly organised one through the National Cyclist's Union. They say that she yet means to see bicyclists at their best, and that the wheelmen may have a chance later this year. Meanwhile Colonel Cody is putting up his tents and schooling his chiefs to their duty. It would be a sad mishap if one of them imitated the Shah of Persia, and offered to add Princess Beatrice to his wigwam.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
