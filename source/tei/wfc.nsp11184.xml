@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11184">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Orator Richmond Dead</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11184</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Orator Richmond Dead</title>
+<title level="j">Richmond Dispatch</title>
+<pubPlace>Richmond, Virginia</pubPlace>
+<date when="1890-01-07">January 7, 1890</date>
+<extent></extent>
+</bibl>
+
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Orators</term>
+<term>Plays</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burke, John M., -1917</term>	
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Barcelona (Spain)</term>
+<term>Brooklyn (New York, N.Y.)</term>
+<term>Europe</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="da">Adams, Deb</name> <name xml:id="sh">Hanna, Sam</name> proofreading</change>
+<change when="2019"><name>Adams, Deb</name>  transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp11184.001"/>
+
+
+<head>ORATOR RICHMOND DEAD. </head>
+
+<head type="sub">Buffalo Bill's Famous Talker Died Suddenly in Barcelona.</head>
+
+<p>The friends of <persName xml:id="richmond.f">Frank Richmond</persName> in this city are surprised to learn of his death in Barcelona, Spain, last Thursday. Frank Richmond, although for years connected with the stage, is best known through his connection with Buffalo Bill's Wild West Show. During his engagement with that organization he made a reputation and acquaintance in Europe and America which he could never have achieved in the dramatic profession.</p> 
+
+<p>Richmond was about forty-five years of age. He is said to have been one of the best Simon Legrees in "Uncle Tom's Cabin," that ever trod the boards. Soon after Buffalo Bill organized his Wild West Show he obtained a position with it through the influence of Major <persName xml:id="burke.j">John M. Burke</persName>, known as Arizona Joe, a lifelong friend. </p>
+
+<p>Richmond was a man of magnificent physique and a most powerful voice. It was this latter qualification which secured him his position with Buffalo Bill. He was a son of the late Dr. Twitchell, of Brooklyn, and unmarried. He had many friends among his profession, both in this country and in Europe, and on his visit to this city with Buffalo Bill proved himself an agreeable and entertaining fellow. He it was who stood in the judges' stand on the race-course and explained the show as it went on. </p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

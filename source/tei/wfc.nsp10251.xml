@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp10251">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">A Trumpet-Toned Orator</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp10251</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">A Trumpet-Toned Orator</title>
+<title level="a" type="sub" xml:lang="en">The Herald of Buffalo Bill's Show Dies Far Away From Home</title>
+<title level="j">Pittsburg Dispatch</title>
+<pubPlace>Pittsburg, Pennsylvania</pubPlace>
+<date when="1890-02-07">February 7, 1890</date>
+<extent></extent>
+</bibl>
+
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term/>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Barcelona (Spain)</term>
+<term>Italy</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="da">Adams, Deb</name> <name xml:id="sh">Hanna, Sam</name> proofreading</change>
+<change when="2019"><name>Adams, Deb</name>  transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp10251.001"/>
+
+
+<head>A TRUMPET-TONED ORATOR.</head>
+
+<head type="sub">The Herald of Buffalo Bill's Show Dies Far Away From Home.</head>
+
+<p>[SPECIAL TELEGRAM TO THE DISPATCH.]</p>
+
+<p>NEW YORK, February 6.&#8212;In a few days an ocean tramp steamer will bring back to the city he loved so well all that remains of Frank Richmond. The trumpet-voiced herald of the Buffalo Bill "West" died at Barcelona so suddenly that some of his friends and relatives have not yet recovered from the shock. It was supposed that he had an iron constitution, and certainly he was a rugged man in appearance. But one cold day at Barcelona he delivered his lecture in the open air without a coat to protect him, and from that circumstance dates his sickness. Richmond had protested against speaking in his light costume. But Cody was firm, and he insisted that the auditors should not be made more uncomfortable than they already were by the suggestion of a frigid temperature.</p>
+
+<p>Early in his youth he became the adopted son of the veteran playwright, Charles Gayler, whose wife was with him at his death. Mrs. Gayler has just returned to the city after a two years' sojourn in Italy. She is frank and forcible in her complaint against the Wild West proprietors. On the day that Richmond last lectured, she says, the receipts were not over $10, yet Cody insisted upon giving a show.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

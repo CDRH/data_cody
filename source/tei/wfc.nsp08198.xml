@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp08198">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">King Saw Buffalo Bill</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp08198</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">King Saw Buffalo Bill</title>
+<title level="j">Quincy Daily Journal</title>
+<pubPlace>Quincy, Illinois</pubPlace>
+<date when="1903-03-16">March 16, 1903</date>
+<extent></extent>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Horsemanship</term>
+<term>Indians of North America</term>
+<term>Olympia (London, England)</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
+<term>Baker, Johnny, 1869-1931</term>
+<term>Burke, John M., -1917</term>
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+<term>Haakon VII, King of Norway, 1872-1957</term>
+<term>Maud, Queen, consort of Haakon VII, King of Norway, 1869-1938</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="da">Adams, Deb</name> <name xml:id="sh">Hanna, Sam</name> proofreading</change>
+<change when="2019"><name>Adams, Deb</name>  transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp08198.001"/>
+
+
+<head>KING SAW BUFFALO BILL</head>
+
+<head type="sub">Show in London and Queen Alexandra Patted the Brown Cheeks of the Little Indian Children.</head>
+
+<p>LONDON, March 16.&#8212;The <persName xml:id="alexandra.denmark">queen</persName> and <persName xml:id="albert.edward">king</persName>, accompanied by Princess Victoria, Prince and Princess Charles of Denmark, and three of the children of the Prince of Wales, attended "Buffalo Bill's" Wild West show at the Olympia Saturday, occupying a specially constructed box. After the show they visited the Indian camp, where Colonel Cody was introduced. Colonel Cody and Major <persName xml:id="burke.j">Burks</persName> then escorted the royal party through the settlement, where the "Rough Riders" were drawn up in a double line. The king conversed with Colonel Cody, commenting on the styles of horsemanship. At the center of the camp two tiny Indians gave the queen big bouquets. She took the flowers and, kneeling down, shook the little brown hands and patted the children's cheeks.</p>
+
+<p>King Edward asked for <persName xml:id="baker.l">"Johnny" Baker</persName>, whom he knew when Prince of Wales, and complimented Baker upon his skill in shooting.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

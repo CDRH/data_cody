@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01311">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">A Marvellous Voice</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp01311</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="sub" xml:lang="en">Periscope</title>
+<title level="a" type="main" xml:lang="en">A Marvellous Voice</title>
+<title level="j">Medical and Surgical Reporter</title>
+<pubPlace>Philadelphia, Pennsylvania</pubPlace>
+<date when="1887-11-26">November 26, 1887</date>
+<relatedItem type="exact">
+<bibl>
+<title level="a">A Marvellous Voice</title>
+<title level="j">British Medical Journal</title>
+<date when="1887-10-01">October 1, 1887</date>
+<biblScope type="page">732</biblScope>
+<idno>per00065</idno>
+</bibl>
+</relatedItem>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">	
+<term>Orators</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Gladstone, W. E. (William Ewart), 1809-1898</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2019"><name xml:id="da">Adams, Deb</name> <name xml:id="sh">Hanna, Sam</name> proofreading</change>
+<change when="2019"><name>Adams, Deb</name>  transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp01311.001"/>
+
+
+
+<head>EDITORIAL DEPARTMENT.</head>
+
+<head>PERISCOPE.</head>
+
+<head>A Marvellous Voice.</head>
+
+<p>Most people who have been to the "Wild West" show at Earl's Court must have been struck by the enormous vocal power displayed by Mr. Frank Richmond, the "Orator," who explains the action of the realistic drama so vividly presented by Buffalo Bill's cowboys and redskins. The voice of this modern Stentor is a physiological curiosity in its way, for he has often made himself distinctly heard by an audience of thirty thousand persons in the open air. This throws Mr. Gladstone's famous record at Blackheath in 1874 altogether into the shade. Some idea of the vast amount of work which the "Orator" gets out of his vocal organs may be formed from the fact that his running commentary on the show contains more words than the part of Hamlet, which, as is well known, taxes the powers of the best trained actors. This severe effort the "Orator" makes&#8212;and makes successfully&#8212;twice a day for months together, under much less favorable acoustic conditions than players even in the largest theatres. A few physical details respecting such a vocal athlete may, therefore, be interesting to some of our readers. For these we are indebted to the courtesy of Dr. Robert C. Myles, of New York, whose examination, it may be added, was confirmed by Sir Morrell Mackenzie. The vocal cords are of ordinary length, and not much above the average in breadth, but the vocal processes at once strike the observer by their extraordinary development. They project inwards towards the middle line like two large spurs when the glottis is open. The great leverage thus given to the laryngeal muscles allows them to act to the best advantage with a minimum of effort. The larynx itself is of a large size, and the pharynx is exceptionally roomy and well developed, whilst the mucous membrane covering it is remarkably free from granulations and roughness of any kind. The "Orator's" vital capacity is not above the ordinary standard, but what breath-power he has he utilizes to the utmost with the art of a trained elocutionist. Mr. Richmond, we believe, was on the stage before he occupied his present position, and the secret of his remarkable delivery lies more in the perfection with which he has learned to use his natural advantages than in any notable peculiarity of physical conformation.&#8212;<hi rend="italic">Brit. Med. Journ.,</hi> October 1, 1887.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

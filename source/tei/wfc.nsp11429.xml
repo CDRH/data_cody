@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11429">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Buffalo Bill hat seinem Einzug in Bremen</title>
+<title type="main" xml:lang="en">Buffalo Bill has followed up his arrival in Bremen</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Benn, James</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11429</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Buffalo Bill hat seinem Einzug in Bremen</title>
+<title level="a" type="main" xml:lang="en">Buffalo Bill has followed up his arrival in Bremen</title>
+<title level="j">Bremer Nachrichten</title>
+<pubPlace>Bremen, Germany</pubPlace>
+<date when="1890-09-10">September 10, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS6.3776.66.01 (German Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Arapaho Indians</term>
+<term>Brul&#233; Indians</term>
+<term>Cheyenne Indians</term>
+<term>Cowboys</term>
+<term>Cowgirls</term>
+<term>German language</term>
+<term>German newspapers</term>
+<term>Historical reenactments</term>
+<term>Horse sports</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Mexicans</term>
+<term>Oglala Indians</term>
+<term>Pony express</term>
+<term>Prairies</term>
+<term>Sharpshooters</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+<term>Wild horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Rocky Bear</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Bremen (Germany)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="da">Adams, Deb</name>; <name xml:id="lc">Clark, L.</name>; <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2019"><name xml:id="br">Roberts, Briana</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11429.001"/>
+
+
+
+<note>Bremer Nachrichten / 10 September 1890.<ref target="n01">1</ref></note>
+
+<p>Buffalo Bill hat seinem Einzug in Bremen gestern Nachmittag die erste Vorstellung folgen lassen und damit sofort Erfolge errungen, die in Bremen zu den Seltenheiten geh&#246;ren. Erste Vorstellungen einer neuen hier noch unbekannten Gesellschaft pflegen in der Regel vor leeren B&#228;nken vor sich zu gehen und die Claque hat dann M&#252;he, die Beifallslust der wenigen Zuschauer anzuregen, auch wenn noch so Vortreffliches geboten wird.  Anders gestern. Nicht nur waren die Trib&#252;nen mit mehr als 6000 Zuschauern besetzt, auch der Beifall, der den haupts&#228;chlichsten Vorf&#252;hrungen folgte, war ein so lebhafter wie ungemachter. Mit gro&#223;em Interesse wurde alles Dargebotene verfolgt, und wo es am Platze war, auch aufrichtig bewundert. Wettrennen, Schul&#8211; und Kunstreiten kannten wohl alle die Zuschauer, welche auf den rings um die Arena herum erbauten Trib&#252;nen Platz genommen hatten, aber was sie hier sahen, war nur wenigen aus eigener Anschauung bekannt. Wer Illustrationen zu den Lederstrumpferz&#228;hlungen erwartete, wurde zwar nicht gerade entt&#228;uscht, aber gar mancher wird seine phantastischen Gebilde doch einer Correctur haben unterwerfen m&#252;ssen, wenn er die buntbemalten und phantastisch gekleideten Gestalten der Indianer zu Gesicht bekam. Die Namen der H&#228;uptlinge klingen zwar &#228;hnlich wie diejenigen, welche Lederstrumpf und verschiedene Romanschriftsteller uns vorf&#252;hren, die Leute zeigen sich auch als gewandte Reiter, aber sie sind doch noch anders als wir hiernach erwarteten. Und das gereicht der Vorf&#252;hrung durchaus nicht zum Nachtheil, denn Oberst Cody will uns ja keine Romane liefern, sondern, so weit dies m&#246;glich, das Leben im fernen Western Amerikas so zeigen, wie es in Wirklichkeit ist. Und das gelingt ihm, wenn auch verschiedentlich mit Zuh&#252;lfenahme der Dressur. Denn die &#8222;wilden&#8220; Pferde, welche hier eingefangen werden, sind schon lange micht mehr das, was sie urspr&#252;nglich gewesen sein m&#246;gen, aber sie geberden sich noch so, und wenn auch der kleine Zuschauer auf der Trib&#252;ne vor uns einigerma&#223;en den Nagel auf den Kopf treffen mochte, als er zur Erheiterung des ganzen Publikums ausrief: &#8222;Papa, die wollen die Pferde wohl erst wild machen!&#8220; so war das Schauspiel trotzdem hochinteressant und die Dressur der Thiere eine so vorz&#252;gliche, da&#223; das, was sich vor unsreren Augen abspielte, uns anmuthete, als ob wir in Wirklichkeit einer Jagd auf wilde Pferde in den Prairien des weiten Westens beiwohnten. Auch die verschiedenen Sch&#252;tzen, welche im Laufe der Vorstellung auftraten, leisteten Staunenswerthes und nicht minder interessant waren die verschiedenen Reiterkunstst&#252;cke, das Aufheben von Gegenst&#228;nden durch im Galopp &#252;ber das Feld reitende Cowboys, das Rennen zwischen amerikanischen Hinterw&#228;lderdamen, das Rennen der Indianerknaben auf Pferden ohne Sattel u. s. w. Am Gro&#223;artigsten waren aber stets die Massenritte; buntbewegtere, farbenpr&#228;chtigere Bilder wird man sich kaum denken k&#246;nnen, als die, welche sich hier vor unseren Augen entwickelten. Die Vorstellung wurde mit einem Einzug der verschiedenen Gruppen der Gesellschaft er&#246;ffnet. Nach einander kamen Arraphoes&#8211;, Bruce&#8211;, Cutt Off&#8211;, Cheyenne&#8211; und Ogallala&#8211;Indianer, gefolgt von ihren H&#228;uptlingen Black Heart, Little Chief, Brave Bear, Eagle Horn, Low Neck, zwei Boy&#8211;Chiefs (kleine H&#228;uptlinge) der Sioux und Rockey&#8211;Bear &#8222;Medicin&#8211;man&#8220; der Sioux, ferner die Cowboys mit ihrem K&#246;nih &#8222;Buck&#8211;Taylor&#8220;, die mexikanischen Vaqueros mit ihrem Anf&#252;hrer Antonio Esquival, eine Gruppe von Hinterw&#228;lder&#8211;Damen und der junge Pennie Irving, der kleinste Cowboy der Welt. Zwei Cowboys wollten dann im schneidigen Ritt die Fahnen befreundeter Nationen bringen, die der einen &#8222;Nation&#8220; ging schon gleich Anfangs verloren und blieb nur die Fahnenstange &#252;brig, w&#228;hrend das Sternenbanner, welches besser befestigt war unbesch&#228;digt den Ritt durch die Arena &#252;berstand. Als letzter auf dem Platze erschien auf einem herrlichen Schimmel Buffalo Bill selbst. Er ist unstreitig eine impostante Erscheinung, ein stattlicher Reiter mit intelligentem Gesicht und ausdrucksvollen Augen. Die Lebensgeschichte Buffalo Bills ist in vielen Hunderttausenden Exemplaren gedruckt und wird auch mit den Programmen auf dem Platz vertheilt, wir selbst haben schon fr&#252;her Mittheilungen daraus gemacht und wollen daher heute nicht wiederholen, swas als bekannt vorausgesetzt werden darf. Als die ganze Truppe unter dem eigenartigen pfeifenden Indianergeheul aufgezogen war, gen&#252;gte ein Wink des Obersten Cody und die Reitermasse verbreitete sich in wirrem Durcheinander &#252;ber den ganzen Platz, das Publikum begr&#252;&#223;end, welches, von dem wunderbaren Bilde gefesselt, erst in laute Beifallssalven ausbrach, als die letzten der Truppe wieder au&#223;er Gesichtsweite gekommen waren. Ein Pferderennen zwischen einem Mexikaner, einem Indianer und einem Cowboy folgte, dann trat das kleine Fr&#228;ulein Annie Oakley auf und zeigte da&#223; sie auf dem Gebiete des Sch&#252;tzenwesens Meisterin ist. Da versagte fast kein Schu&#223;, mochte sie nun wie andere Sch&#252;tzen die B&#252;chse anlegen oder in Stellungen schie&#223;en, die man sonst f&#252;r das Schie&#223;en nicht w&#228;hlt, zum Beispiel so, da&#223; sie das Ziel nur in einem Spiegel sah. Selbst Doubletten gelangen ihr in diesem seltsamen Anstande. Nicht minder gewandt ist inde&#223; der kleine Johann Baker, der sp&#228;ter auftrat, und Colonel Cody selbst, der im sch&#228;rfsten Galoppritt die hinter ihm aufgeworfenen Glaskugeln mit Sicherheit trifft. Alle &#252;bertrifft aber noch der, Pistolen&#8211; und Revolversch&#252;tze C. L. Daly, der ein wahres Schnellfeuer entwickelnd, mit seinem Revolver Kugel auf Kugel aus der Luft herabholte. Interessant ist ferner der Postreiter, welcher im gestreckten Galopp reitend vom Pferde springt, einem bereit stehenden Cowboy die Z&#252;gel zuwirft und im n&#228;chsten Augenblicke wieder auf dem R&#252;cken eines anderen f&#252;r ihn bereit gehaltenen Pferdes weiter galoppirt. Einen herrlichen Anblick gew&#228;hrt der Ueberfall eines Emigrantenzuges durch Indianer und die Vertheidigung desselben durch die rasch alarmirten Grenzbewohner, <gap reason="truncated"/> </p>
+
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<note>Bremer Nachrichten / September 10th, 1890</note>
+
+<p>Buffalo Bill has followed up his arrival in Bremen<ref target="n01">1</ref>  yesterday afternoon with the first performance of his show, thereby immediately achieving success of a kind seldom seen in our city. First performances by a new, still unknown company usually tend to take place in front of empty rows of seats, and the claque then has a hard time stimulating applause from the few spectators present, even when the show that is being presented is admirable. Yesterday was different. Not only were the stands occupied by more than 6000 spectators; in addition, the applause with which the principal acts were greeted was as animated as it was uncontrived. Everything that was presented was followed with great interest and, where appropriate, met with outright amazement. All of the spectators who had taken their seats in the stands erected around the arena may be assumed already to have some familiarity with competitive horse racing, dressage and man&#232;ge, but what they saw here was something of which only a few of them will have had direct personal experience. No one expecting illustrations of the scenes portrayed in Fenimore Cooper's "Leatherstocking Tales" will have been wholly disappointed, but many will none the less have been constrained to adjust and adapt their fanciful images upon coming face to face with the vividly painted and fantastically clad figures of the Indians. It is true that the names of their chiefs sound like those presented to us by the author of the "Leatherstocking Tales" and other writers of novels of that genre, and the performers are clearly very skilled in the arts of horsemanship, but they do not come across as anything that we were not expecting. Yet this in no way works to the disadvantage of the show, since Colonel Cody is not seeking to deliver to us scenes from novels but rather, as far as possible, to present a picture of life in America's Far West as it really is. And he succeeds in this, albeit, in various instances, with the aid of feats of dressage. For the fact is that the "wild" horses which are roped in and brought to submission in the various acts have long ceased to be the creatures that they were originally; but they still behave as if they were, and even though the youngster in the stand just in front of us was not far off the mark when he shouted out, to the amusement of the crowd in general, "Papa! They're really trying to drive the horses wild!," the performance was none the less extremely interesting, and the dressage of the animals was so excellent that the scene played out before our eyes was such that it seemed as though we were really witnessing a mad chase after wild horses on the prairies of the Far West. Likewise, the various sharpshooters who appeared in the course of the performance showed amazing skills; and no less interesting were the different feats of horsemanship, which involved the cowboys picking up objects from the ground as they raced at full gallop across the arena, races between American ladies from the backwoods, bareback races between young Indian braves, etc. But one of the most fabulous acts was the cavalcade of riders; it is hard to imagine a spectacle as colorful, action-packed<ref target="n02">2</ref> and gorgeous as the one that here met our eyes. The show opened with the entry into the arena of the different groups of which the company is composed. One after another there rode forth Arapaho, Brul&#233;, Cutt-Off, Cheyenne and Oglala Indians, followed by their chieftains <persName xml:id="black.heart">Black Heart</persName>, <persName xml:id="little.chief">Little Chief</persName>,  Brave Bear, Eagle Horn and <persName xml:id="noneck">Low Neck</persName>,  and two "boy chiefs" from the Sioux tribe and <persName xml:id="rocky.bear">Rocky Bear</persName>,  the Sioux "medicine man," after whom came the cowboys led by their king, <persName xml:id="taylor.w">Buck Taylor</persName>,  the Mexican vaqueros with their leader <persName xml:id="esquivel.a">Antonio Esquival</persName>,  a group of ladies from the backwoods and the young Bennie  Irving, the world's smallest cowboy. Two cowboys then moved forward at a brisk trot to present the flags of nations bound by links of friendship, but that of one such "nation" became detached from the very start, leaving just the flagpole, whilst the star-spangled banner, which was more firmly attached, survived the ride through the arena unscathed. The last to appear, mounted on a splendid white horse, was Buffalo Bill himself. He is indisputably an imposing figure, a grand and noble horseman with an intelligent countenance and expressive eyes. Buffalo Bill's life story has been told in many hundreds of thousands of the copies sold, and is also recounted in the programs for sale in the showground; we have ourselves written previously about it and do not therefore propose to repeat today what may be assumed to be already known. Once the entire ensemble had appeared, amidst the singular whistling cries of the Indians, a gesture by Colonel Cody sufficed to send the mass of riders off, spreading out in tumultuous confusion across the entire ground and greeting the crowd, which, mesmerized by the marvelous scene, broke out into deafening salvoes of applause when the last members of the troupe had finally left the arena and disappeared from sight. This was followed by a horse race between a Mexican, an Indian and a cowboy, then little Miss <persName xml:id="oakley.a">Annie Oakley</persName> appeared and demonstrated her skills as a master of the art of sharpshooting. In so doing, she scarcely missed her target once, even when, like other marksmen, she laid her rifle down or placed it in a position not normally adopted for shooting, for example in such a way that she could only see the target in a mirror. She even managed to achieve a series of "right and left" shots on target in this unusual posture. No less skilled, however, is little <persName xml:id="baker.l">Johnnie Baker</persName>, who appeared after her, and Colonel Cody himself, who, riding along at the most breakneck of gallops, unfailingly hit the glass balls thrown up into the air behind him. But Mr. <persName xml:id="daly.c">C. L. Daly</persName> outshone all the others with his feats of pistol and revolver shooting; with true rapid fire, he shot down ball after ball out of the air. Another interesting feature was the Pony Express rider, who leapt down from his galloping horse, tossed the reins to a cowboy standing ready and in the next instant galloped off again on the back of another mount prepared for him. Yet another wonderful sight was afforded by the attack by Indians on an emigrant train, and its defense by the rapidly alerted frontiersmen, <gap reason="truncated"/>
+
+</p>
+
+
+
+</div1>
+</body>
+
+<back><note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Bremen, Germany, September 2-11 1890.</note>
+
+<note xml:id="n02">Note 2: Modern translation term not known to be used in German script.</note>
+</back>
+</text>
+</TEI>

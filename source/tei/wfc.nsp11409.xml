@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11409">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Die Premiere des Buffalo&#8211;Bill Wild West</title>
+<title type="main" xml:lang="en">The premiere of Buffalo Bill's Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Benn, James</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11409</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Die Premiere des Buffalo&#8211;Bill Wild West</title>
+<title level="a" type="main" xml:lang="en">The premiere of Buffalo Bill's Wild West</title>
+<title level="j">Nachrichten und Anzeiger</title>
+<pubPlace>Zittau, Germany</pubPlace>
+<date when="1890-06-05">June 5, 1890 </date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS6.3776.09.02 (German Scrapbook)</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Aristocracy (Social class)</term>
+<term>Cowboys</term>
+<term>Frontier and pioneer life</term>
+<term>German language</term>
+<term>German newspapers</term>
+<term>Historical reenactments</term>
+<term>Horsemanship</term>
+<term>Horsemen and horsewomen</term>
+<term>Hunters</term>
+<term>Indian dance</term>
+<term>Indians of North America--Clothing</term>
+<term>Indians of North America--Social life and customs</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Mormons</term>
+<term>Nobility--Europe</term>
+<term>Prairies</term>
+<term>Sharpshooters</term>
+<term>Targets (Shooting)</term>
+<term>Traveling exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+<term>Nelson, John Young, 1826-</term>
+<term>Oakley, Annie, 1860-1926</term>
+<term>Young, Brigham, 1801-1877</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Dresden (Germany)</term>
+<term>Great Salt Lake (Utah)</term>
+<term>Pirna (Germany)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="da">Adams, Deb</name>; <name xml:id="lc">Clark, L.</name>; <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2019"><name xml:id="br">Roberts, Briana</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11409.001"/>
+
+<note>Nachrichten und Anzeigen<lb/>
+Zittau, June 5th/90</note>
+
+<p>Dresden, 2. Juni. Die Premiere des Buffalo&#8211;Bill Wild West am Sonntag war von gl&#228;nzendem Erfolg begleitet. Die Trib&#252;nen der Arena waren ausverkauft. Viele Tausende wohnten der erstmaligen Auff&#252;hrung bei. Waren schon lange vorher durch die Ank&#252;ndigungen die Erwartungen hoch gespannt, so wurden sie noch &#252;bertroffen durch das wirklich Dargebotene. Alles hat nur eine Stimme des Lobes und der Anerkennung und ist &#252;berrasch von der Gro&#223;artigkeit des naturwahren Schauspiels, das sich hier in einer Kette der herrlichsten malerischen Bilder vor den Augen der Besucher abwickelt. Man bekommt da wirklich ein lebendiges Bild des J&#228;ger&#8211; und Indianerlebens in den nordamerikanischen Prairien, dessen Figuren vielleicht stellenweise etwas greller kolorirt und sch&#228;rfer charakterisirt sind, als es in der That der Fall ist, das aber doch mit hinrei&#223;ender, packender Unmittelbarkeit und Realit&#228;t wirkt. Glanzvoll macht sich das Einreiten Buffalo&#8211;Bills mit siener gro&#223;en stattlichen Kavalkade von Grenzleuten, Sioux u. s. w. Der offene Himmel &#252;ber uns, die Baumriesen unseres gro&#223;en Gartens im Hintergrunde, auf dem weiten Plane der Arena die Amerikaner mit ihrem wilden Treiben, mit ihren Reitergesechten, ihren Ueberf&#228;llen, ihren T&#228;nzen, ihren Kunstst&#252;cken im Schu&#223; nach beweglichen Zielen, das alles zusammen macht einen Eindruck, den man sicherlich nicht vergessen kann. Bei dem Aufmarsche der Truppe, mit welchem die Vorstellung beginnt, k&#246;nnen wir eine vollst&#228;ndige Revue &#252;ber s&#228;mmtliche Mitglieder des Wild West erhalten. Wahre Wunderdinge sehen wir im Schie&#223;en mit Gewehren sowohl von der kleinen Mi&#223; Annie Oakley,<!--LINK--> als von dem jungen Baker und dem Pistolensch&#252;tzen Daly. Die in die Luft geworfenen schwarzglasirten Thonkugeln wurden hintereinander aus den verschiedenen K&#246;rperlagen der Sch&#252;tzen von vorne und von r&#252;ckw&#228;rts und sogar auf dem Kopfe stehend, mit einer Sicherheit getroffen, welche Staunen und Beifall erweckten. Auch Buffalo&#8211;Bill produzirte sich im Galopp reitend, vor ihm ein berittener Indianer, der die Kugeln warf, als h&#246;chst gewandter und sicherer Sch&#252;tze. Staunenswerthe Prachtleistungen wurden auf dem Gebiete der Reitkunst vorgef&#252;hrt: die Cowboys scheinen den Centauren gleich mit den Pferden verwachsen. Das B&#228;ndigen der wilden Pferde, das Aufschwingen in den Sattel, das H&#228;ngen auf dem fliehenden Thiere, das Aufheben der T&#252;cher vom Boden w&#228;hrend des raschesten Galopps und dergleichen mehr, geh&#246;rten zu den k&#252;nsten Reiterst&#252;ckchen. Ein recht farbenreiches Bild von dem Leben bei den Hinterw&#228;ldlern bot der Ueberfall eines Auswandererzuges durch Indianer und die Vertheidigung desselben durch die Grenzbewohner, gleichwie auch der Ueberfall des mit 6 Maulthieren bespannten Postwagens. Zum Schlusse erschienen Indianer in voller Kriegsr&#252;stung, geschm&#252;ckt und bemalt nach der Sitte des Stammes, und f&#252;hren T&#228;nze aus, nicht allein den ber&#252;hmten Kriegstanz, sondern auch den Sonnen&#8211; und Liebestanz. Mehr als der Tanz interessirt aber noch die B&#252;ffeljagd, die sie nach der Sitte der V&#228;ter veranstalten. Ein interessanter Prairiengast ist der hochbetagte Mr. Nelson, der ein halbes Jahrhundert unter Indianern verlebt hat. Er war es, der Brigham Young, den Mormonen&#228;uptling, durch das endlose Meer der Prairien den Weg zum Salzsee gewiesen hat. Der Beifall war ein geradezu st&#252;rmischer und ununterbrochener. Schon die Premiere war durch den Besuch eines sehr distinguirten Publikums ausgezeichnet. Die Aristokraie, hohe Beamte und Offiziere, K&#252;nstler und Gelehrte, eine gro&#223;e Zahl von Herren und Damen der hiesigen englischen und amerikanischen Kolonien hatte sich eingefunden. Auch der Oberstallmeister Sr. Majest&#228;t des K&#246;nigs Generalmajor der Kavallerie a. D. v. Ehrenstein und wirkliche Geh. Rath v. Charpentier wohnten der Vorstellung bei. Auf dem Festplatze selbst wurden heute noch nachtr&#228;glich verschiedene Bequemlichkeiten im Interesse des Publikums angeordnet.</p> 
+
+
+</div1>
+<div1 type="article" xml:lang="en">
+
+<p>Dresden, June 2nd.<ref target="n01">1</ref> The premiere of Buffalo Bill's Wild West on Sunday was a glittering success. The seats in the stands surrounding the arena were sold out. The first performance was attended by many thousands of spectators. Their sense of anticipation had for quite some time been keyed up in advance by the advertisements posted up, but the actual performance itself truly exceeded their expectations. It met with nothing but praise and appreciation, together with amazement at the brilliance of the true-to-life presentation of the show, which unfolded before the eyes of the spectators in a series of the most splendid and picturesque scenes. One is really presented here with a lively picture of the life led by hunters and Indians on the North American prairies, the inhabitants of which are perhaps characterized, here and there, in tones that are more colorful and more sharply delineated than is actually the case; but the scenes played out are none the less imbued with a captivating, gripping immediacy and authenticity. The entry into the arena, on horseback, of Buffalo Bill, accompanied by his large and impressive cavalcade of frontiersmen, Sioux, etc. is dazzling in its effect. The open sky above us, the backdrop of the giant trees adorning our extensive park, the Americans on the broad expanse of the arena with their wild dashing hither and thither, their combats on horseback, their attacks and assaults, their dances, their feats of marksmanship in shooting at moving targets: all these things combine to create an unforgettable impression. The deployment of the troupe with which the performance begins offers us a comprehensive revue of all the members of the Wild West company. We witness truly marvelous feats of shooting with rifles and other guns, both by the diminutive Miss <persName xml:id="oakley.a">Oakley</persName> and by young <persName xml:id="baker.l">Baker</persName> and the pistol shooter <persName xml:id="daly.c">Daly</persName>. The black-glazed clay balls thrown up into the air were shot down, one after another, with unerring aim by the sharpshooters from a variety of different body positions, facing forwards and backwards and even standing on their head, provoking amazement and applause from the onlookers. Buffalo Bill too, riding at a gallop behind a mounted Indian launching balls into the air, showed himself to be a highly skilled and unerring marksman. There were extraordinary and magnificent displays of horsemanship: the cowboys appear, like centaurs, to have become as one with their horses. In subduing the wild horses, launching themselves up into the saddle, hanging on to the fleeing animals, picking up bits of rag from the ground whilst hurtling around at full gallop and performing other such feats, they showed themselves to be the hardiest and most daring riders imaginable. A highly colorful image of life as lived in the backwoods was afforded by the attack on an emigrant train by Indians and the defense thereof mounted by the frontiersmen, and likewise by the attack on the stagecoach drawn by six mules. This was followed by the appearance of Indians attired in full war garb, appareled and painted according to their respective tribal customs, performing dances which included not only the famous war dance but also the sun dance and the love dance. But more interesting still than the dancing was the buffalo hunt, which was organized by them after the custom of their forefathers. One of the most interesting guests from the prairies was Mr. <persName xml:id="nelson.j">Nelson</persName>, who has lived for over half a century amongst the Indians. He it was that showed Brigham Young, the leader of the Mormons, the way across the endless sea of the prairies to the Great Salt Lake. His appearance was met with a storm of continuous applause. The premiere was attended by certain highly distinguished members of the public. The aristocracy, senior public officials and officers, artists and scholars, as well as numerous ladies and gentlemen from our local American and British communities, had made their way here. The performance was attended by, amongst others, His Majesty the King's senior equerry, retired Cavalry Major-General von Ehrenstein, and Privy Councilor von Charpentier. On the showground itself, arrangements were still being made today, belatedly, for the installation of various amenities in the public interest.</p>
+
+</div1>
+</body>
+
+<back><note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Dresden, Germany, June 1-16, 1890.</note>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp06681">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Summer Days in England</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp06681</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Summer Days in England</title>
+<title level="a" type="sub" xml:lang="en">Buffalo Bill's Indians in St. Paul's</title>
+<title level="j">Omaha Daily Bee</title>
+<pubPlace>Omaha, Nebraska</pubPlace>
+<date when="1892-07-05">July 5, 1892</date>
+<extent></extent>
+</bibl>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Indians of North America</term>
+<term>St. George's Chapel (Windsor Castle)</term>
+<term>St. Paul's Cathedral (London, England)</term>
+<term>Windsor Castle</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Burdett-Coutts, Angela Georgina, 1814-1906</term>
+<term>Nelson, Horatio Nelson, Viscount, 1758-1805</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+<term>Wellington, Arthur Wellesley, Duke of, 1769-1852</term>
+<term>Wren, Christopher, Sir, 1632-1723</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Arizona</term>
+<term>Earl's Court (London, England)</term>
+<term>Wyoming</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="da">Adams, Deb</name> <name xml:id="sh">Hanna, Sam</name> proofreading</change>
+<change when="2019"><name>Adams, Deb</name>  transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp06681.001"/>
+
+<head>SUMMER DAYS IN ENGLAND</head>
+
+<head type="sub">Mrs. General Crook's Seven Months' Sojourn in Europe Ended.</head>
+
+<head type="sub">BUFFALO BILL'S INDIANS IN ST. PAUL'S</head>
+
+<head type="sub">Happy Hours in Hopvine&#8212;Scented Kent&#8212;Historic Homes and Immemorial Mansions&#8212;"There's No Place Like Home."</head>
+
+
+<p>LONDON, JUNE 8.&#8212;[Correspondence of THE BEE.]&#8212;All England just now is clothed in a mantle of rich green, broidered with flowers of a thousand hues, and when my friends tell me that only a few short months ago they had to use for eight days continuously artificial light, that the sun never shone, and that London was all darkness and gloom, it seems incredible, she is so fair and beautiful now. The parks are beautiful beyond description, and there are so many. In Victoria park, one of the smaller parks, and rarely visited by the excursionist, is a remarkably beautiful fountain of Gothic architecture, erected and donated by Baroness Burdett-Coutts, which cost about &#36;30,000.</p>
+
+<p>Last Sunday we were at St. Paul's, the grand building erected by Sir Christopher Wren, whose remains are deposited in the vaults, when we were startled and surprised to see Buffalo Bill's Indians march up the grand aisle with grace and reverent air and seat themselves beneath that grand dome, under that great bell that is never tolled save at the death of some of the royal family, though its deep tones as it strikes the hour swell for over this big city, with the same quiet dignity they sit at their councils. In this cathedral are deposited the remains of the "Iron duke," whose statue looms up in every square and park in London. The body of the great Nelson also molders here. Here, too, rise in beauty and grandeur the monuments a grateful country has erected to its greatest heroes. A magnificent sarcophagus, too, to Gordon of Egyptian fame, and on this day it was decorated with wreaths of fresh flowers. It was thrilling to see these dusky warriors of the plains, from the far away land of the setting sun, taking calmly their seats in this temple dedicated to God, a pantheon for some of the greatest men of England&#8212;warriors, painters, poets and priests. These Indians, too, had been perhaps not less brave then those men whom England delights to honor. Heroes, too, they had been, though heroes in a bad cause, if fighting for their pitiful homes and native land be a bad cause.</p>
+
+<ab>Colonel Cody in Camp. </ab>
+
+<p>Apropos to Indians I hear that some mistaken philanthropists are trying to prevent Colonel Cody from exhibiting the Indians. I think if they could see how well they are treated, and what a good work Colonel Cody is doing in civilizing them, and teaching them how much better it is to do something to better their condition, they would change their minds. They are well fed and well clothed. To their camp free access is given to anyone who desires. When I have been there it was thronged with people, and a very good class of people too, who are interested in seeing and learning their habits. It is a model of sanitary equipment, beautifully decorated with shrubs and flowers. Colonel Cody lives in camp with the Indians. His tents, consisting of sitting room, bedroom, drawing room, took me back to my frontier days. Our tents, though, were not so elaborately finished; certainly we did not have a large picture of THE BEE building, as he has, to decorate our walls. The picture hangs in a conspicuous place in the tent, and seemed like the face of a dear familiar friend in this foreign land. If it were not for the stately towers and graceful spires that rise above the fence surrounding the encampment of grounds at Earlscourt, I would imagine myself in far-away Wyoming, or farther away Arizona. </p>
+
+<p>There are many charming excursions from London that can be made in a day. Every morning at 10 o'clock eleven coaches leave our hotel (the Victoria) for some charming spot. The first excursion is to Windsor castle. Her majesty, the queen, occupies the castle at present, so we could not get permission to enter the private apartments, but could only see St. George's chapel, a beautiful and charming specimen of Gothic architecture, and the royal vaults. Windsor is the most magnificent royal domain in the world, so it is said, but not having seen them all I cannot vouch for it. Certainly the situation, the splendid grounds and the grand, massive building, with its battlements and gorgeous tower, is most impressive.</p>
+
+<gap reason="truncated"/>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
