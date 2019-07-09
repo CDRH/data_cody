@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11454">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="de">Buffalo Bill's Ankunft</title>
+<title type="main" xml:lang="en">Buffalo Bill's Arrival</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name>Benn, James</name>
+<name>Roberts, Briana</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11454</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="de">Buffalo Bill's Ankunft</title>
+<title level="a" type="main" xml:lang="en">Buffalo Bill's Arrival</title>
+<title level="j">Leipzig Nachrichten</title>
+<pubPlace>Leipzig, Germany</pubPlace>
+<date when="1890-06-17">June 17, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS6.3776.11.05 (German Scrapbook)</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American bison</term>
+<term>American Indians</term>
+<term>Business logistics</term>
+<term>Cowboys</term>
+<term>Gambling</term>
+<term>German language</term>
+<term>German newspapers</term>
+<term>Historical reenactments</term>
+<term>Horse stealing</term>
+<term>Horses</term>
+<term>Indian blankets</term>
+<term>Indians of North America</term>
+<term>Livestock</term>
+<term>Logistics</term>
+<term>Mustang</term>
+<term>Railroad travel</term>
+<term>Tents</term>
+<term>Tipis</term>
+<term>Traveling exhibitions</term>
+<term>Wagons</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="da">Adams, Deb</name>; <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2019"><name xml:id="br">Roberts, Briana</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11454.001"/>
+
+
+<note>"Leipziger Nachrichten" Leipzig<ref target="n01">1</ref> June 17th / 90</note>
+
+<head>Buffalo Bill's Ankunft.</head>
+
+<p>N&#228;mlich solche Ank&#252;ndigungen von der Ankunft zu einer bestimmten Stunde darf man nicht w&#246;rtlich nehmen, und so war es denn gestern fr&#252;h statt 4 Uhr reichlich 7 Uhr geworden, als Buffalo Bill mit den Seinigen ankam. Aber wer so lange und dann nachher noch ungef&#228;hr 5/4 Stunde gewartet hat, ehe der Karawanen&#8211;Zug aus dem Bahnhof heraustrat, der wird auch sagen, da&#223; vieles Warten der M&#252;he werth<ref target="n02">2</ref> war. In dem letzten Theile<ref target="n03">3</ref> der Zeit war es ohnedies schon ganz anziehend, das Auspacken des massenhaften Gep&#228;cks und dessen Aufladen auf die Rollwagen mit anzusehen. Da gab es Kisten und Koffer in den verschiedensten Gr&#246;&#223;en und Formen, (mitunter sogar mit R&#228;dern) und in gewaltiger Menge, an anderer Stelle wieder Matratzen, Schlafdecken, Federbetten, Tische und dergl. mehr, weiterhin eine Unmasse zusammengelegter Zeltleinwand, theilweis um die Zeltpf&#228;hle gewickelt, und so werden die mitgef&#252;hrten zusammenlegbaren Sitze, welche ich nicht sah, sicher nebst vielem Andern auch einen gro&#223; Theil dieses Transports ausgemacht haben. Das weitaus Anziehendste war nun selbstverst&#228;ndlich der Zug der Personen und Thiere.<ref target="n04">4</ref> Ein Theil der Ersteren war schon kurz nach der Ankunft in dazu bestellten Wagen voraus nach dem Schauplatz gefahren, wobei man nat&#252;rlich meistens nur die K&#246;pfe sah, daf&#252;r entschl&#228;digte aber der nun als Hauptbild erscheinende Zug auf das Reichlichste. Das waren zun&#228;chst die eigentlichen Mustangs der Hinterw&#228;lder und Indianer, klein, mager, ungepflegt, und daher mitunter recht struppigen Aussehens, dabei in allen Farben, auch Schecken, nur soviel ich mich erinnere, kein Apfelschimmel darunter. Ein Theil wurde geritten, und die Reiter waren nun die schon vielerw&#228;hnten amerikanischen Pferde- und Rinderhirten, und au&#223;erdem eine Menge h&#246;chst charakteristischer Indianer. Wer diesen Zug, ruhig an einer Stelle stehend, hat an sich vor&#252;bergehen lassen, kann nur einen ganz fl&#252;chtigen Eindruck davon bekommen haben, das war nun meine Sache nicht, darum bin ich tapfer neben demselben bis zum Ziel einhergeschritten, und bereue es nicht. Man mu&#223;te in der That<ref target="n05">5</ref> nicht, welche einzelnen Erscheinungen man sich am meisten einpr&#228;gen sollte, denn Alles machte einen so echten, wahren Eindruck, war dem Gemachten, Aufgeputzten so fern, da&#223; das allein anziehen mu&#223;te. Diese unscheinbar gekleideten Reiterhirten, wie sah man es ihnen an, da&#223; sie die Leute waren, jedem Ungemach zu trotzen, und so hei&#223;t es auch echt amerikanisch: &#8222;Vorstellung bei jedem Wetter&#8220;. Und was soll man von den Indianern sagen? Das waren sie ja noch, die man zu den bald Ausgestorbenen, richtiger vielleicht Ausgerotteten ganz selbstverst&#228;ndlich rechnet. Das waren sie ja, in ihre gro&#223;en wollenen, meist rothen oder dunkelblauen, theils auch braungelb gemusterten Decken oft bis &#252;ber den Kopf geh&#252;llt, mit den langen Indianernasen, dem vorstehenden Mund und Kinn, und starrem schwarzen Haar, also keine Perr&#252;cken. Wie sie da auf ihren Kleppern sa&#223;en, fast jeder noch ein oder zwei andere Pferde am Halfter f&#252;hrend, konnte man sie sich wohl vorstellen, als vom Pferderaub zur&#252;ckkehrend, denn das hat sie ja fr&#252;her zu sehr unleidlichen Nachbarn der Unsiedler gemacht. In eine B&#252;ffelhaut war Keiner geh&#252;llt, so viel ich gesehen, und mit den B&#252;ffeln, d. h. den eigentlichen Bisons (Bos bison), bez. deren Freileben ist es ja auch von einigen versprengten Thieren abgesehen, schon jetzt zu Ende, aber um so auffallender war es mir deswegen, da&#223; nun in diesem Zuge in der That noch eine Heerde solcher echter Bisons, sogar zwei K&#228;lber darunter, mitgetrieben wurden. Ein einziger Ochse, unsern Hausochsen entsprechend, ging an ihrer Spitze, aber ungef&#228;hr zwanzig waren wirkliche Bisons, lie&#223;en sich aber, des Rummels nat&#252;rlich l&#228;ngst gewohnt, und wohl gr&#246;&#223;tentheils dabei aufgewachsen, wie zahmes Rindevieh treiben. Das waren die Hauptbestandtheile des Zuges, Pferde und Indianer aber in solcher Menge und Bundheit, da&#223; die malerische Wirkung eine ganz au&#223;erordentliche war. Drau&#223;en am Rennplatz platz wurden die Pferde angebunden, theils auch wurden sie frei und Alles bereitete sich zu der noch f&#252;r den Ankunftstag geplanten. Er&#246;ffnungsvorstellung vor, wor&#252;ber von anderer Seite berichtet wird.   H. L&#8212;n. </p>
+<p>*</p>	
+<p>Auf dem Terrain der Radfahrbahn am Rosenthale war gestern am ganzen Tage die Gesellschaft Buffalo Bill's eifrigst besch&#228;ftigt ihr Lager aufzuschlagen. Die ganze Gegend hatte dadurch einen eigenartig romantischen Charakter erhalten. In einer langen Reihe stehen nebeneinander die Zelte, in denen die Rothh&#228;ute und Cowboys hausen; die der ersteren sind rund, spitz zulaufend, w&#228;hrend die Cowboys in kleinen, viereckigen Leinwandh&#228;uschen campiren. H&#246;chst interessant ist die Malerei an den Zelten der Indianer, Thiergestalten und andere r&#228;thselhafte Charaktere; es sind die Namenszeichen der Inwohner; sie vertreten also etwa die Stelle unserer Namensschilder. Einige der dunklen Gesellen hatten sich Nachmittags, als unser Berichterstatter den Platz besuchte, bereits zum Schlaf hingestreckt, andere hockten in den Zelten zusammen und ergaben sich mit Eifer dem Kartenspiel, bei dem &#252;brigens ziemlich betr&#228;gliche Geldsummen ihre Besitzer wechselten. In langen offenen Zelten sind die Pferde undergebracht, etwa 200 an der Zahl; auch eine Anzahl Maulthiere, gro&#223;e, kr&#228;ftige Thiere sahen wir. Die B&#252;ffelheerde befindet sich im Freien, in einem umz&#228;unten Raume. Mehrere Wagen von wahrhaft vors&#252;ndfluthlicher Construction waren aufgefahren; dieselben werden bei der Vorf&#252;hrung des Ueberfalles des Ansiedler durch Indianer gebraucht. Die Rothh&#228;ute selbst sind imposante Figuren, in Bewegungen, Miene und Sprache ernst und gemessen. Nicht minderes Interesse bieten die Cowboys, deren sonnenverbrannte Gesichter zeigen, da&#223; sie Wind und Wetter nie gescheut haben. Heute Nachmittag 4 Uhr findet die erste Vorstellung statt, der man mit Spannung entgegensehen darf. </p>
+
+</div1>
+<div1 type="article" xml:lang="en">
+
+<note>"Leipziger Nachrichten" Leipzig<ref target="n01">1</ref> June 17th / 90</note>
+<head>Buffalo Bill's Arrival.</head>
+
+<p>One may not take announcements for arrivals at a specific hour literally, and so it was yesterday when 4 o'clock became 7 o'clock as Buffalo Bill arrived with his companions. But whoever waited that long (and then another 5/4 of an hour) before the caravan train came out of the train station would say that it was worth the wait. In the last portion of that time it was very pleasant to watch the masses of luggage be unpacked and loaded onto dollies. There was a huge quantity of crates and suitcases in various sizes and shapes (even some with wheels); there were also mattresses, blankets, feather beds, tables and so on. There was also an immense number of folded tent canvases partially wrapped around the tent stakes. The transport of the collapsible seats, which I did not see, was also a large part of this undertaking. Of course, the main attraction was the train with the people and animals. A portion of the former ordered a wagon to drive them to the arena shortly after arrival, so most saw only their heads, but the train, which became the central focus, was ample compensation. Next were the backwoodsmen and Indians' authentic mustangs, who appeared lean and unkempt. There were pintos and many other colors, but as I remember there were no dapple&#8211;grey horses. Some were being ridden by the aforementioned <persName xml:id="american.horse">American horse</persName>&#8211;and cattle men, in addition to a number of highly distinguished Indians. Whoever saw this train when it was standing still and passed by could only have gotten a fleeting impression; that was not my task, so I walked bravely alongside it until it reached its destination, and I do not regret it. In fact, it was difficult to know which aspect one should commit to memory because everything made such a true, authentic impression was so real, so true, was [[[dem Gemachten, Aufgeputzten so fern]]] [[[that that alone must have been attractive]]]. These inconspicuously dressed herdsmen looked as if they could defy all adversity; that is to say that they looked truly American, as demonstrated by the phrase: "Performance in any weather." And what can one say about the Indians? They, whom one might rightfully reckon to soon be extinct, or perhaps more accurately "exterminated," were indeed still there. Yes, that was them, with their large wool patterned blankets, mostly red or dark blue, as well as some brown&#8211;yellow, often pulled up over their heads, with long Indian noses, and prominent mouths and chins, and rigid black hair (none wore wigs). As they sat on their horses, most of them also led one or two other horses by their halters and one could almost imagine that they were returning from a horse robbery, as this had made them intolerable neighbors to the settlers. From what I saw, none of them were wrapped in bison hides. It is foreseeable that only a few of the buffalo, or bison (<hi rend="italic">Bos bison</hi>), might escape; this is remarkable to me, especially since they have brought along such a large herd of bison (in these trains, no less), including two calves. A single ox, equivalent to our "house ox," walked at the head of the herd, but around twenty were real bison who had long been accustomed to the hype and, to a large extent, grew up like tame cattle. These were the main components of the procession. The horses and Indians were so many and so varied that the picturesque impression they made was quite remarkable. The horses were tethered outside at the racecourse, though some also wandered free. As others have also reported, everything was prepared for the opening event planned for the arrival day.  H. L&#8212;n.</p>
+
+<p>*</p>
+
+<p>Yesterday, Buffalo Bill's company was eager to set up their camp on the terrain of the cycle track at the Rosental. The whole area maintained a strangely romantic character in the midst of this. The tents, in which the redskins and cowboys are housed, stand next to one another in a long row. Those of the former are round and tapered, while the cowboys camp in small, rectangular canvas houses. Most interesting are the paintings containing animal shapes and other enigmatic characters on the Indians' tents &#8212; They are the names of the inhabitants and serve the same purpose as our nameplates. In the afternoon when our reporter visited the site, some of the dark fellows were already stretched out and ready for sleep, while others crouched down in the tents entertaining themselves with card games in which considerable sums of money were exchanged. The horses &#8212; around 200 in number &#8212; were housed in a long, open tent; additionally, we saw a number of large, lively mules. The bison were located outdoors in a fenced area. Several ancient wagons had driven out; these will be used in the presentation of the Indian attack. The redskins themselves are imposing figures, their expressions and language serious and measured. The cowboys, whose sunburnt faces show that the wind and weather have never spared them, are no less interesting. This afternoon at 4 o'clock, the highly anticipated first performance will take place.</p>           
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Leipzig, Germany June 17-22, 1890.</note>
+
+<note xml:id="n02">Note 2: In modern German, many words which were once spelled with a "th" followed by or preceeding a vowel have discarded the "h." The modern spelling of "werth" is "wert."</note>
+
+<note xml:id="n03">Note 3: Modern spelling is "Teile"; all following occurrences of "Theil" or "theil" in compound words are spelled as "Teil" or "teil" in modern German.</note>
+
+<note xml:id="n04">Note 4: Modern spelling is "Tiere." </note>
+
+<note xml:id="n05">Note 5: Modern spelling is "Tat."</note>
+
+</back>
+</text>
+</TEI>

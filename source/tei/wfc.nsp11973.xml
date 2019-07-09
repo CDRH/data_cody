@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11973">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">The Visit of Buffalo Bill</title>
+<title type="main" xml:lang="en">The Visit of Buffalo Bill</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
-<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
 </titleStmt>
 <editionStmt>
 <edition>
-<date>2018</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 <publicationStmt>
@@ -46,15 +45,14 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main">The Visit of Buffalo Bill</title>
+<title level="a" type="main" xml:lang="en">The Visit of Buffalo Bill</title>
+<title level="a" type="sub" xml:lang="en">How the Great Show Arrived</title>
+<title level="a" type="sub" xml:lang="en">A Glimpse of the Wild West</title>
 <title level="j">Kent &amp; Sussex Courier</title>
 <pubPlace>Tunbridge Wells, England, UK</pubPlace>
 <date when="1903-08-21">August 21, 1903</date>
-<biblScope type="vol"></biblScope>
-<biblScope type="issue"></biblScope>
-<biblScope type="pp"></biblScope>
+<extent></extent>
 </bibl>
-
 
 </sourceDesc>
 </fileDesc>
@@ -79,7 +77,7 @@
 <term>Newspapers</term>
 </keywords>
 <keywords scheme="original" n="topic">
-<term></term>
+<term>European Tours</term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
 <term>Acculturation</term>
@@ -109,6 +107,7 @@
 <term>Logistics</term>
 <term>Mexicans</term>
 <term>Military men</term>
+<term>Olympia (London, England)</term>
 <term>Percheron horse</term>
 <term>Pullman cars</term>
 <term>Railroad travel</term>
@@ -125,6 +124,7 @@
 <term>Wild horses</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
 <term>Baden-Powell of Gilwell, Robert Stephenson Smyth Baden-Powell, Baron, 1857-1941</term>
 <term>Baker, Johnny, 1869-1931</term>
 <term>Burke, John M., -1917</term>
@@ -136,16 +136,23 @@
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>Brighton (England)‏</term>
-<term>Olympia (London, England)</term>
 </keywords>
 </textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
 </profileDesc>
 
 <revisionDesc>
-<change when="2018"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
-<change when="2018"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> Proofreading</change>
-<change when="2018"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
-
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="da">Adams, Deb</name>; <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2019"><name xml:id="kz">Zierlein, Kim</name> Transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -159,45 +166,41 @@
 
 <head type="main">THE VISIT OF BUFFALO BILL.</head>
 
-<head type="sub">HOW THE GREAT SHOW ARRIVED.</head>
+<head type="sub">HOW THE GREAT SHOW ARRIVED</head>
 
-<head type="sub">A GLIMPSE OF THE WILD WEST.</head>
+<head type="sub">A GLIMPSE OF THE WILD WEST</head>
 
 <p>Since Barnum and Bailey's Great Show came to Tunbridge Wells some years ago, there has not been so much interest excited as the visit of Buffalo Bill has caused. The whole of the surrounding villages appear to have shared in the excitement, and hundreds of people have come into the town for the two performances on Tuesday last at the Agricultural Show Ground. There has, in fact, been quite an invasion of Tunbridge Wells, which goes far to justify Colonel Cody's boast that he brings so many people into a town that he ought to have a municipal subsidy. One village sent a large portion of its population in three trucks drawn by a traction engine. As much curiosity was excited by the huge caravan as by the actual performances, and realistic as was the rough riding and the perils of the <rs xml:id="coach.deadwood">Deadwood Coach</rs>, those who had a peep behind the scenes were equally interested in the glimpses of Wild West life, which the caravan afforded and which has for weeks past been pictorially illustrated in every street of the town. It took three long special trains to bring the caravan in the small hours of Tuesday morning to Tunbridge Wells, and it was about six o'clock when the trains steamed into the Brighton goods yard at short intervals of each other. Pulman cars, horse boxes, and baggage vans made up the trains, which were unloaded with remarkable celerity. Horses were hitched to the vans, which were drawn up into the most convenient positions on the Show Ground for unloading the structural parts of the tremendous tent, which in a few hours was brought into existence. The state of the Agricultural Show Ground, owing to the recent heavy rains, was such that more than one of the vans got stuck in the mud up to the axles, and in one instance six teams of six horses each &#8212; 36 in all &#8212; were attached to the van to draw it through a veritable morass. With wonderful celerity, however, everything was with machinelike precision transferred from the goods yard to the adjacent show ground, and some account of how the work of transportation is effected may not be without interest. Commencing with the performance at Brighton the previous evening, it may be explained that at six o'clock, for instance, all the hands have had their last meal, and the first tent struck is the large mess tent, capable of seating 600 or 700 people. It moves off to take its place in the train, ready to unload first the next morning in order to provide an early breakfast. Then come the two large horse tents, and when these are struck the animals are picketted awaiting their turns in the arena, or, like the draught horses, awaiting the conclusion of the performance and the bulk of their work. Not a single item in the programme, it should be explained, is abrogated or spoiled in any way by the exigencies of rapid transport. Everything takes its place as it finishes. Behind the entrance screens everything seems a dark chaos to the uninitiated. As a matter of fact it is order, and, the detail of every move is understood by every hand in the establishment, so that the work goes on quietly, imperceptibly, with scarce so much as a loudspoken word of command. Such is the economy
 
 <pb facs="wfc.nsp11973.002"/>
 
-of transportation that no space is wasted in the sixty or seventy wagons, and no time is lost in getting them away to the station. The Deadwood coach, for instance, dashes out of the areas after its turn and pulls up at a spot behind the screens, where the Indian squaws and their papoose are waiting to be conveyed to the station. After the grand finale the rough-riders collect all their horses and march straight off to the station, where the horse-boxes are in waiting. The last horse no sooner leaves the arena than the large spectators' accommodation begins to diminish. The spruce board seats are piled one on top of the other, the canvas screen at the back is removed, the electric light installation and the large arc lamp generating machinery, and all, are securely packed away. The side-show, with the freaks, takes its departure. Silently the huge mass of canvas in the amphitheatre &#8212; something like 20,000 square yards &#8212; is lowered to the ground, and men are busy unlacing it at the joints and folding it in sections, each section marked conveniently for the following morning. When everything has been packed away in this fashion the wagons, now moving off, drawn by teams of splendid horses, four or six to each, are filled with something like 50,000 square yards of canvas, 30 miles of rope, and 400 spruce poles of various sizes, not to speak of the thousands of stakes and the tools used in putting them up or pulling them down.</p>
+ of transportation that no space is wasted in the sixty or seventy wagons, and no time is lost in getting them away to the station. The Deadwood coach, for instance, dashes out of the areas after its turn and pulls up at a spot behind the screens, where the Indian squaws and their papoose are waiting to be conveyed to the station. After the grand finale the rough-riders collect all their horses and march straight off to the station, where the horse-boxes are in waiting. The last horse no sooner leaves the arena than the large spectators' accommodation begins to diminish. The spruce board seats are piled one on top of the other, the canvas screen at the back is removed, the electric light installation and the large arc lamp generating machinery, and all, are securely packed away. The side-show, with the freaks, takes its departure. Silently the huge mass of canvas in the amphitheatre &#8212; something like 20,000 square yards &#8212; is lowered to the ground, and men are busy unlacing it at the joints and folding it in sections, each section marked conveniently for the following morning. When everything has been packed away in this fashion the wagons, now moving off, drawn by teams of splendid horses, four or six to each, are filled with something like 50,000 square yards of canvas, 30 miles of rope, and 400 spruce poles of various sizes, not to speak of the thousands of stakes and the tools used in putting them up or pulling them down.</p>
 
 <p>At the station the master of transportation superintends the loading of the trains. As No. 1 wagon arrives it is drawn on to the low trolley-shaped trucks and driven right to the end of the train. Then come the others in succession, according to number, each taking its appointed place on the train. Meanwhile, the cowboys, the Indians, the Cossacks, and all the rest of the rough-riders, have taken their places in the sleeping compartments of the Pullman cars, and in less than two hours after the termination of the show everything is in preparation ready to go on. The show had come silently the night before; it was moved as silently away.</p>
 
-<p>When the three trains conveying the Show arrived at the goods yard of the Brighton Railway on Tuesday morning at six o'clock, the teams of draught horses were taken out of the trucks and held in readiness to convey the waggons in numerical order to the Show Ground as soon as they were drawn off the low trucks on which they had been carried from Brighton. The master of the canvas &#8212; or as they call him in American slang, the "main guy" &#8212; with a small party of men, proceeded to the Show Ground, and immediately measured it out, and indicated by little iron rods where every important pole and stake had to be driven in. After him came the mess tent wagon, and then other wagons moving off from the goods yard to the Show Ground, until at length they occupied the positions chosen as they most convenient for unloading, and constructing into a show tent or an arena the materials they contained.</p>
+<p>When the three trains conveying the Show arrived at the goods yard of the Brighton Railway on Tuesday morning at six o'clock, the teams of draught horses were taken out of the trucks and held in readiness to convey the waggons in numerical order to the Show Ground as soon as they were drawn off the low trucks on which they had been carried from Brighton. The master of the canvas &#8212; or as they call him in American slang, the "main guy" &#8212; with a small party of men, proceeded to the Show Ground, and immediately measured it out, and indicated by little iron rods where every important pole and stake had to be driven in. After him came the mess tent wagon, and then other wagons moving off from the goods yard to the Show Ground, until at length they occupied the positions chosen as the most convenient for unloading, and constructing into a show tent or an arena the materials they contained.</p>
 
 <p>With the baggage, in the early hours, the rough riders rode from the station to the Show Field, and here the Indians, bucks and squaws alike, huddled themselves beneath their blankets and cloaks, and snatched a few more winks of sleep until the wagon with their teepees came on the scene. The Red Indians were the most interesting group of all&#8212;tall, fine men, stern-visaged squaws, and the bright-eyed papoose, who played with trinkets or took a delight in the consumption of sugar. According to tradition, the buck leaves all the work to his squaw; but here there was a reversal, for the bucks busied themselves with unloading their waggons while the squaws slept beneath their blankets, except one more ancient than the rest, who, true to the tradition in which she was probably brought up years ago on the prairie, worked hard in helping to unload pretty well every wagon in her neighbourhood.</p>
 
-<p>Very soon gangs of men were at work. Groups of men with sledge hammers soon put down the stakes. Canvas was quickly rising all round, first the mess tent, then the horse tents, 
+<p>Very soon gangs of men were at work. Groups of men with sledge hammers soon put down the stakes. Canvas was quickly rising all round, first the mess tent, then the horse tents,
 
 <pb facs="wfc.nsp11973.003"/>
 
-the Indian tepees &#8212; they use canvas now, which is cheaper than the buffalo hide &#8212; the side show, Colonel Cody's and <persName xml:id="baker.l">Johnny Baker</persName>'s tents, and only the large amphitheatre remained to be erected in the centre. Once the work is started it does not take long to complete. Everything is as handy as it can possibly be, and the Wild West Show gradually takes shape. Ordinarily it is only the work of a few hours to fix that 50,000 square yards of canvas, and secure every pole with the 30 miles of rope. The way the Show is moved from place, and the rapidity with which it is taken down and put up again are models in organisation.</p>
+ the Indian tepees &#8212; they use canvas now, which is cheaper than the buffalo hide &#8212; the side show, Colonel Cody's and <persName xml:id="baker.l">Johnny Baker</persName>'s tents, and only the large amphitheatre remained to be erected in the centre. Once the work is started it does not take long to complete. Everything is as handy as it can possibly be, and the Wild West Show gradually takes shape. Ordinarily it is only the work of a few hours to fix that 50,000 square yards of canvas, and secure every pole with the 30 miles of rope. The way the Show is moved from place, and the rapidity with which it is taken down and put up again are models in organisation.</p>
 
 <p>One of the most conspicuous features of the "life behind the scenes" in the "Wild West" is its commissary. All the people connected with the Show in every capacity, excepting those who are employed in the advance, are fed in one large tent. This is called the cook tent. It is a huge affair, being only some ten feet smaller in length and in width than the largest canvas pavilion used by any circus now in the world. Stretched lengthwise throughout this tent are tables supported by iron braces, and across the end of the supports are extended narrow planks painted blue, upon which the diners sit. A corps of about fifty waiters in white clothes and aprons serve the food, which usually consists of soup, fish, and then two or three kinds of joints, of which the diner can make his choice, and each kind of joint is served with three or four vegetables. This is followed by sweets of different kinds and served in rather a lavish profusion, as the Yankee contingent of the exhibition seems to be extremely fond of it. Colonel Cody himself sits at the head of one of the tables, which is occupied chiefly by the officers of the exhibition. At other tables are Cowboys, Cubans, Cossacks, Mexicans, &#38;c. Other tables are devoted to soldiers from the different nations, while others to the Indians, and many more to the large corps of working men, grooms, ostlers, drivers, stake and general men, &#38;c.&#8212;men who do the rough work. The food is served to all alike, although the officers' tables and the tables occupied by those who appear in the arena are supplied with perhaps a little finer grade of china than that which is given to the Indians and the working men. The same might be said of the table cutlery. The food is prepared by professional cooks, presided over by an accomplished chef, and it is not extravagant to say that there are few hotels who feed their visitors any better than the cosmopolitan gathering under the banner of Colonel Cody are fed by him.</p>
 
 <p>In one portion "behind the scenes" is the Indian Village. If the Indian has any choice in the matter, he will not sleep anywhere but on the ground. With a blanket underneath him and one over him he is perfectly happy. The tepees or wigwams are some twelve or fifteen feet in diameter, and probably twenty feet in the air. They are of canvas, which is decorated and painted by the Indians. They are supported by a number of poles tapering together at the top and spread out at the bottom. In the side is a small slit which serves as a means of ingress and egress to and from the wigwam.</p>
-
-<p>The question is frequently asked of all the cosmopolitan elements who, go to make up this great organisation, whether they live amicably together. It may be said truthfully that they do, as all national and race questions are under no circumstances discussed between them. This measure is apparently of the greatest necessity, when it is understand that in the gathering there are over 100 Red Indians, representing some six or seven different tribes who, while in their native country, are extremely jealous one with the other. Among the United States soldiers there are detachments from the 6th United States Cavalry, the white men, and the 10th United States Cavalry of coloured men. Of course, out of the United States the racial feeling existing between 
-
 <pb facs="wfc.nsp11973.004"/>
+<p>The question is frequently asked of all the cosmopolitan elements who, go to make up this great organisation, whether they live amicably together. It may be said truthfully that they do, as all national and race questions are under no circumstances discussed between them. This measure is apparently of the greatest necessity, when it is understand that in the gathering there are over 100 Red Indians, representing some six or seven different tribes who, while in their native country, are extremely jealous one with the other. Among the United States soldiers there are detachments from the 6th United States Cavalry, the white men, and the 10th United States Cavalry of coloured men. Of course, out of the United States the racial feeling existing between the whites and blacks is not understood, but in the United States army itself the most rigorous discipline is necessary to maintain efficient service when the whites and blacks come together. Then there is a detachment of Irish Lancers and some English soldiers who served under General Baden-Powell of Mafeking. There is a detachment of Cossacks headed by a high caste Cossack, Prince David, who wears the Order of St. George, and was given personal recognition by His Majesty the King while at Olympia during the past winter. There are Cowboys from the American plains, and numerous other elements are included in this extraordinary assemblage.</p>
 
-the whites and blacks is not understood, but in the United States army itself the most rigorous discipline is necessary to maintain efficient service when the whites and blacks come together. Then there is a detachment of Irish Lancers and some English soldiers who served under General Baden-Powell of Mafeking. There is a detachment of Cossacks headed by a high caste Cossack, Prince David, who wears the Order of St. George, and was given personal recognition by His Majesty the King while at Olympia during the past winter. There are Cowboys from the American plains, and numerous other elements are included in this extraordinary assemblage.</p>
-
-<p>Despite this pleasant picture, there is, however, at present in one direction considerable ill-feeling and jealousy among the Indians, but as these Indians range in age from only one week to some seven or eight years, the results are not apt to be serious. As a matter of fact, little Moses Red Star, aged 6, and his sister, Minnie Red Star, aged 8, have been the aristocracy among the Indians since they shook hands with their Majesties, the King and Queen, and Moses gained great fame by trying to make away with his Majesty's umbrella. Their gracious reception by royalty well nigh turned their heads, but their noses are now clearly out of joint, for on Sunday morning at 10 o'clock, June 7th, a new comer arrived, who is now the undisputed queen of the Indian village. Her name is Alexandra Olive Pearl Birmingham Standing Bear. Her first name is in honour of the <persName xml:id="alexandra.denmark">Queen</persName>, the second of the wife of Johnny Baker, the young American expert marksman, who is likewise a foster son of Colonel Cody. The third name is probably because it sounds pretty; the fourth is after the city of her nativity; and the fifth is the name of her father, the family name, <persName xml:id="standingbear.l">Standing Bear</persName>. Her coming was a great surprise to the entire assemblage, as only the day before her arrival, her mother was taking part in the Indian portion of the programme in the arena, and two days after her arrival was assisting her in holding receptions to the visitors of the Show. She has the unique distinction of being the first Red Indian child to be born out of the American continent and as her father, Chief Standing Bear puts it, she is the only English squaw that ever lived, he evidently forgetting that an Englishman, John Ralph, was married to Pocohontas at one of the great English Cathedrals. Little Alexandra, &#38;c., Standing Bear celebrated her first week of her arrival by being kissed by several hundreds of the ladies of Birmingham during her public receptions.</p>
+<p>Despite this pleasant picture, there is, however, at present in one direction considerable ill-feeling and jealousy among the Indians, but as these Indians range in age from only one week to some seven or eight years, the results are not apt to be serious. As a matter of fact, little Moses Red Star, aged 6, and his sister, Minnie Red Star, aged 8, have been the aristocracy among the Indians since they shook hands with their Majesties, the <persName xml:id="albert.edward">King</persName> and <persName xml:id="alexandra.denmark">Queen</persName>, and Moses gained great fame by trying to make away with his Majesty's umbrella. Their gracious reception by royalty well nigh turned their heads, but their noses are now clearly out of joint, for on Sunday morning at 10 o'clock, June 7th, a new comer arrived, who is now the undisputed queen of the Indian village. Her name is Alexandra Olive Pearl Birmingham Standing Bear. Her first name is in honour of the Queen, the second of the wife of Johnny Baker, the young American expert marksman, who is likewise a foster son of Colonel Cody. The third name is probably because it sounds pretty; the fourth is after the city of her nativity; and the fifth is the name of her father, the family name, <persName xml:id="standing.bear">Standing Bear</persName>. Her coming was a great surprise to the entire assemblage, as only the day before her arrival, her mother was taking part in the Indian portion of the programme in the arena, and two days after her arrival was assisting her in holding receptions to the visitors of the Show. She has the unique distinction of being the first Red Indian child to be born out of the American continent and as her father, Chief Standing Bear puts it, she is the only English squaw that ever lived, he evidently forgetting that an Englishman, John Ralph, was married to Pocohontas at one of the great English Cathedrals. Little Alexandra, &#38;c., Standing Bear celebrated her first week of her arrival by being kissed by several hundreds of the ladies of Birmingham during her public receptions.</p>
 
 <p>Major <persName xml:id="burke.j">Burke</persName>, the General Manager of the Show, explained to a Press representative "how it is done". He explained how the concern was organised and disciplined like an army, and the work of removal had been brought to a science. Every man knew exactly what he had to do, and the transport horses knew their work equally as well as the men. "You should see the horses pick up their feet," he said, "and step over any of the glass globes that may happen to be in their path. We have our own electric light plant, and, of course, there are hundreds of globes." "The complete establishment comprises 500 horses, and over 700 men. What a family to feed! On this important point the Major vouchsafed the information that the staff comprised 50 waiters, and that there was nothing Col. Cody was more careful about than that men and animals should be well fed. In the actual exhibitions, 300 men and 400 horses are engaged. "We have our own railway stock, and can make up four special trains. To see us pack and unload are sights worth seeing. Army officers have often come to watch our transportation. The personnel of the Show is absolutely real; that is its strong and virile feature. The Indians are genuine Indians, the warriors are men who have been under fire; they are not theatricals &#8212; a white man one turn and a coloured man the next." Running off a list of the company, he instanced representatives of the United States cavalry, Cuban coloured cavalry, Mexicans, United States Artillery, English Lancers, Russian Cossacks, President Roosevelt's Rough Riders, Arabs, South American Gauchos, and American 
 
 <pb facs="wfc.nsp11973.005"/>
 
-Indians. To many the American Indians are the most attractive part of the Show; they include the chiefs, warriors, squaws, and papooses from the tribes of Redmen now being merged into civilisation, and whose interests are most rigidly guarded by the United States Government. Since the days of Fennimore Cooper's famous stories of Indian life, the Red Indian has made a big stride towards amalgamation with the methods and life of his white brethren, and Major Burke's reminiscences of the great Western "reservation" testify to the spread of civilising influences. The qualities of the race, their customs, their apparel, their wonderful horsemanship, are depicted with perfect realism. There is a romantic interest about these historic Redmen &#8212; men who have a history behind them of heroic, but hopeless defense of their hunting grounds.</p>
+Indians. To many the American Indians are the most attractive part of the Show; they include the chiefs, warriors, squaws, and papooses from the tribes of Redmen now being merged into civilisation, and whose interests are most rigidly guarded by the United States Government. Since the days of Fennimore Cooper's famous stories of Indian life, the Red Indian has made a big stride towards amalgamation with the methods and life of his white brethren, and Major Burke's reminiscences of the great Western "reservation" testify to the spread of civilising influences. The qualities of the race, their customs, their apparel, their wonderful horsemanship, are depicted with perfect realism. There is a romantic interest about these historic Redmen &#8212; men who have a history behind them of heroic, but hopeless defence of their hunting grounds.</p>
 
 <p>The whole performance is given under the natural conditions of grassy sward. The arenic space is surrounded by seating accommodation for 14,000 persons, all covered with water proof canvas, and the seats so arranged as to give every occupier a perfect view. It is, in fact, a colossal summer marquee. The spectators are protected alike from drenching in the heaviest rain storms and from the sun's fiercest rays.</p>
 
@@ -209,6 +212,7 @@ Indians. To many the American Indians are the most attractive part of the Show; 
 </div1>
 </body>
 
-<back></back>
+<back>
+</back>
 </text>
 </TEI>

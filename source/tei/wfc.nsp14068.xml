@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp14068">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Buffalo Bill's Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp14068</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Buffalo Bill's Wild West</title>
+<title level="a" type="sub" xml:lang="en">Visit to Tunbridge Wells</title>
+<title level="j">Kent &amp; Sussex Courier</title>
+<pubPlace>Tunbridge Wells, England, UK</pubPlace>
+<date when="1903-08-14">August 14, 1903</date>
+<extent></extent>
+</bibl>
+
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American frontier</term>
+<term>American Indians</term>
+<term>Arabs</term>
+<term>Arapaho Indians</term>
+<term>Brul&#233; Indians</term>
+<term>Cheyenne Indians</term>
+<term>Confederate States of America. Army. Virginia Artillery. Grimes' Battery</term>
+<term>Cossacks</term>
+<term>Cowboys</term>
+<term>Emigrants</term>
+<term>Gauchos</term>
+<term>Historical reenactments</term>
+<term>Horse sports</term>
+<term>Horsemanship</term>
+<term>Indians of North America</term>
+<term>Lakota Indians</term>
+<term>Lasso</term>
+<term>Lifesaving</term>
+<term>San Juan Hill, Battle of, Cuba, 1898</term>
+<term>Scouts (Reconnaissance)</term>
+<term>Sharpshooters</term>
+<term>Stagecoaches</term>
+<term>Traveling exhibitions</term>
+<term>United States. Army. Cavalry, 10th</term>
+<term>United States. Army. Cavalry, 9th</term>
+<term>United States. Army. Field Artillery</term>
+<term>United States. Army. Infantry Regiment, 24th</term>
+<term>United States. Army. Volunteer Cavalry, 1st</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Baker, Johnny, 1869-1931</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+<change when="2019"><name xml:id="da">Adams, Deb</name>; <name xml:id="lc">Clark, L.</name>; <name xml:id="sh">Hanna, S.</name> Proofreading</change>
+<change when="2019"><name>Clark, L.</name> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article">
+
+<pb facs="wfc.nsp14068.001"/>
+
+<fw>THE COURIER, AUGUST 14, 1903.</fw>
+
+<head type="main">BUFFALO BILL'S WILD WEST.</head>
+
+<head type="sub">VISIT TO TUNBRIDGE WELLS.</head>
+
+<p>Difficult indeed would it be to find, or even imagine, an exhibition which is more calculated to prove of educational value, not alone to the rising generation, but to those of maturer years, than Buffalo Bill's Wild West. Avowedly this is the intention, and in not one single minor point does it fail in its object, whilst, at the same time, it is an exhibition which affords continuous pleasure and admiration of the feats of strength and dexterity performed with a grace which is notable.</p>
+
+<p>Undoubtedly, the keynote of the success of this wonderful entertainment is that everything is just what it is represented to be, all the different sections embraced in the exhibition&#8212;Indians, Cowboys, Cossacks, Mexicans, Arabs, Gauchos, etc.&#8212;being perfectly genuine, and having been brought together by that notable personage, Colonel W. F. Cody (Buffalo Bill). The exhibition, too, is rendered of far deeper interest by reason of the principal incidents and episodes depicted having been identified in the life of Colonel Cody&#8212;a life crammed full of incidents and episodes connected with fighting, pioneer work, and the escorting of military expeditions, the recounting of which is much more fascinating than any fiction.</p>
+
+<p>Turning now to the exhibition itself it may be said to consist of a succession of living pictures, portraying in a most realistic manner the picturesque life on the Western American Plains in the days now past, bringing into prominence primitive horsemen who have become famous; whilst standing out in bold contrast to these and the old-time fighting methods is the exhibition of the modern methods of warfare. Representatives of the cowboy, Cossack, Mexican, Arab, Gaucho, and Indian types give an exhibition of seats in the saddle, followed by artillery drill by veterans of Battery D., Fifth Regiment, U.S. Artillery. Then is depicted a prairie emigrant train crossing the plains. Camp fires are lighted. The quadrille is gracefully danced on horseback, and subsequently an attack is made by Indians, but they are driven off by scouts and cowboys. The pony express gives a vivid idea of how the letters, etc., of the Republic were distributed across the Continent prior to the introduction of railways and the telegraph; and a most pleasing innovation is provided by the exhibition of life-saving by a crew from the United States Life-saving Corps. Cossacks perform feats of horsemanship which are startling in their daring, and then follows an exhibition in marksmanship by <persName xml:id="baker.l">Johnny Baker</persName>, which is not to be equalled the world over. The use of the lassoo is practically demonstrated by a group of Mexicans; Arab horsemen engage in their native sports and pastimes, which embrace finished acrobatic feats, and also illustrate their style of horsemanship. An Indian skirmish and tribal war dances are indulged in by Indians from the Sioux, Arrapahoe, Brula, and Cheyenne tribes, and it may here be mentioned that this is one of the features that is becoming more and more difficult as years roll by to reproduce, as will be understood when it is stated that the Blanket Indians are fast disappearing. In fact, those in Buffalo Bill's Wild West are amongst the last, and as the picture presented is historically correct, this feature alone is worthy of especial attention, and should prove invaluable. There is the attack on the <rs xml:id="coach.deadwood">Deadwood Mail-Coach</rs> by Indians and the repulse and rescue of the stage by cowboys. There is also depicted a scene from ranch life in the West. The battle of San Juan Hill is a spectacular and vividly realistic display, in which take part quite a small army of men, including detachments of Roosevelt's Rough Riders, 24th Infantry, 9th and 10th Cavalry, Grimes' Battery, Garcia's Cuban Scouts, etc.</p>
+
+<p>The performances at Tunbridge Wells are on Tuesday, and Colonel Cody will positively be here personally, while the strength of his establishment is no less than 700 men and 500 horses, and his caravans form a huge encampment.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
