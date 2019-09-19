@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp06607">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Our William in Germany</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp06607</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note></note>
+<note>Full text</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Our William in Germany</title>
+<title level="j">Omaha Daily Bee (Omaha, Nebraska, USA; 187?-1922)</title>
+<date when="1890-10-15">October 15, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Food consumption</term>
+<term>Indians of North America</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Tolstoy, Leo, graf, 1828-1910</term>
+<term>Burke, John M., -1917</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Stuttgart (Germany)</term>
+<term>Germany</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="alc">Cruz, Alexis</name>Encoding</change>
+<change><name>Deb Adams</name>Transcriber</change>
+<change><name>Hanna, S.; Adams, Deb; Hansard, William </name>Proofing Editor</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.nsp06607.001"/>
+
+<head>Our William in Germany.</head>
+<head type="subhead">[Copyrighted 1890 by James Gordon Bennett.]</head>
+
+<p>STUTTGART, Oct. 14.&#8212;[New York Herald Cable&#8212;Special to THE BEE.]&#8212;Buffalo Bill's Wild West show boom in Germany still continues. All Stuttgart mace a fete of the opening here today,<ref target="no1">1</ref> which was attended by the court and many thousand of Wurtembergers, all of whom were delighted with the performance. <persName xml:id="burke.j">Genial Major John M. Burko</persName> tells the Herald correspondent that the management have punished one Indian by cutting down his rations to three pounds of meet a day and deprived him of ice cream and pudding for months. He was caught translating Tolstoi's Kreutzer Sonata to a squaw. This will probable be cabled to America as an in-instance of the hardships the noble red men are subjected to in Europe. </p>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Buffalo Bill's Wild West performed in Stuttgart, Germany, October 14-19, 1890.</note>
+</back>
+</text>
+</TEI>

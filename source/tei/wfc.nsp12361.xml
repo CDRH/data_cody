@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp12361">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">GAUCHOS AT BUFFALO BILL'S.</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp12361</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">GAUCHOS AT BUFFALO BILL'S.</title>
+<title level="j">Daily Chronicle (London, England, 1872-1930)</title>
+<date when="1892-06-24">June 24, 1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Bolas</term>
+<term>Cowboys</term>
+<term>Exhibitions</term>
+<term>Horsemanship</term>
+<term>Indians of North America</term>
+<term>Indians of South America</term>
+<term>Scrapbooks</term>
+<term>Stagecoaches</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Cossacks</term>
+<term>Gauchos</term>
+<term>Guanaco</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Earl's Court (London, England)</term>
+<term>London (England)</term>
+<term>Pampas (Argentina)</term>
+<term>Argentina</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019"><name xml:id="alc">Cruz, Alexis</name> Initial encoding</change>
+<change><name>Hanna, S.</name>Transcriber</change>
+<change><name>Adams, Deb; Hanna, S.; Hansard, William</name>Proofing Editors</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp12361.001"/>
+
+<!--WHAT TO DO WITH THIS: Document ID: nsp12361; scr00021 [MS6.3778.060.01]-->
+
+<head>
+GAUCHOS AT BUFFALO BILL'S</head>
+
+<p>Despite unpropitious weather yesterday there was a goodly afternoon attendance at the Wild West Exhibition, <placeName>Earl's-court</placeName>, to witness the first appearance of a troupe of Gauchos from the Argentine Republic in feats of horsemanship and other exciting exploits. Rumour had not been idle concerning these daring and dexterous rough riders from the South American pampas, and any expectations that might have been raised about what these wild equestrians could do with their steeds underwent no disappointment. This fact is a great compliment to the management of the Earl's-court exhibition, seeing that the Gauchos appeared in an arena already famous for the rough-riding exploits of cowboys, Indians, Vacqueros, and Cossacks. The newly-imported equestrians, whose feats will give another feature of excitement to the Wild West scheme of quasi-aboriginal sport and warfare, are descendants of the early Spanish colonisers of the South American wilds. They ride with prodigious abandonment and ease, and have a truly picturesque appearance in their purple shirts, quaint headgear, and equally quaint leggings. A striking point in their performance is the use of the bolas. It consists of a number of thick strings of raw hide, fastened to a central thong, and having an iron ball at each end. Throwing or hurling the weapon at a horse or other object of capture, the Gaucho entangles the victim inextricably. Several illustrations of the dexterous and unerring use of the bolas were given. As an instrument of warfare and defence it has been adopted from the South American Indians, who in remote times used it in the capture of the ostrich, guanacos, and other formidable game. It is difficult to imagine a more unique and striking exhibition than the Wild West. It has not anything in its scheme dull or uninteresting. Every item has something about it fresh, animated, and romantic. Another special feature of the Wild West is its varied character. There are the feats of Colonel Cody, Captain Jack Burtz, and that wonderful girl shot <persName xml:id="oakley.a">Annie Oakley</persName>; the Cossacks with their rare powers of horsemanship and curious native dances; and the dramatic episodes of the Indian raid on emigrants, the capture of the <placeName xml:id="coach.deadwood">Deadwood mail coach</placeName>, and the attack on the settler's cabin. Taking it all round, the Wild West is one of the most original and exciting of shows.
+</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

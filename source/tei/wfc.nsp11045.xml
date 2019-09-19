@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11045">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Current Topics in Europe.</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11045</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Current Topics in Europe.</title>
+<title level="j">Deseret Evening News (Salt Lake City, UT; 1867-1920)</title>
+<date when="1890-02-26">February 26, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+<term>Italian history &amp; culture</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>American Indians</term>
+<term>Christian martyrs</term>
+<term>Cowboys</term>
+<term>Indians of North America</term>
+<term>Gladiators</term>
+<term>Lion</term>
+<term>Paganism</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Europe</term>
+<term>Colosseum (Rome, Italy)</term>
+<term>Rome (Italy)</term>
+<term>Naples (Italy)</term>
+<term>Rocky Mountains</term>
+</keywords>
+</textClass>
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="alc">Cruz, Alexis</name> Initial encoding</change>
+<change><name>Adams, Deb</name>Transcriber</change>
+<change><name>Hanna, S.; Adams, Deb; Hansard, William</name>Proofing Editors</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="de">
+
+<pb facs="wfc.nsp11045.001"/>
+
+
+<head>CURRENT TOPICS IN EUROPE.</head>
+
+<head type="subhead">"Buffalo Bill" In Rome.&#8212;Death of Salviati, the Glass Manufacturer of Venice.&#8212;Bismarck's Bill Bounced.&#8212;Salisbury and Portugal.&#8212;Gordon's Quintennial, Etc.</head>
+
+<p>
+EUROPE, Feb. 3rd., 1890. [Special Correspondence of the DESERET NEWS.]&#8212;The Italians have often been called superstitious; and the number of reputed holy places which the traveler finds in the city of Rome rather tends to prove this assertion. Yet now and then we see an incident which leads us to ask if it is not true that Americans do not err in the opposite direction. As is well known, that strange medley of cowboys and Indians, known as Buffalo Bill's "Wild West" show has, during the winter, been exhibiting the fantastic side of Rocky Mountain life to the inhabitants of Southern Italy. In the gay city of Naples the "Wild West" has been a great attraction; and the Indians themselves, it is said, felt an unusual interest in the picturesque and gay-colored costume of the half-Moorish inhabitants of Naples. Now, as the spring is approaching, it is proposed to exhibit the "Wild West" for a few weeks in the city of Rome.<ref target="n01">1</ref> In connection with this idea Mr. Cody, better known as "Buffalo Bill," has made application for the privilege of exhibiting in the ruins of the Coliseum. To this proposal the Italian Government object. It is not that the exhibition would in any way damage the hoary old ruin that stands as a silent reminder of the grandeur, the wealth, and the cruelty of ancient imperial Rome. It is not that the war dance of North American savages, or the rude yells of the cowboys, would be any harsher than the plaudits of the Roman multitude, when the blood of such gladiators as Spartacus, dampened the Coliseum's arena in days of old. It is not that the scene is too tame when the "Wild West" show represents an overland stage attacked by Indians. There are other considerations that have, doubtless, prompted the Italians to decline Mr. Cody's application. It was this same Coliseum's arena that was dampened by the blood of Christian martyrs. These same old walls resounded with the shouts of the frenzied pagan multitude when thousands of Christian men, women and children were torn in pieces by famished Numidian lions. Here it was that "Mystery, Babylon, the mother of harlots," was drunk with the blood of the Saints, till at length the Apostolic Church vanished from the earth, and another church&#8212;a hideous hybrid of heathenism and superstition&#8212;had risen in its stead. Yes, it is well that the hoary old ruin should remain in solitude, not desecrated by the frivolities of the "Wild West" show. Better far that sentinels should guard this old ruin&#8212;the gravestone, as it were, of early Christianity. </p>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Buffalo Bill's Wild West performed in Rome, Italy, February 20 through March 9, 1890.</note>
+</back>
+</text>
+</TEI>

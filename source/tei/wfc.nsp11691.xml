@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11691">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="it">Buffalo Bills</title>
+<title type="main" xml:lang="en">Buffalo Bills</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11691</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="it">Buffalo Bills</title>
+<title level="a" type="main" xml:lang="en">Buffalo Bills</title>
+<title level="j">L'Osservatore Romano (Rome, Italy)</title>
+<date when="1890-02-21">February 21, 1890</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Indians of North America--Social life and customs</term>
+<term>Audiences</term>
+<term>Horses</term>
+<term>Indians of North America</term>
+<term>Italian language</term>
+<term>Lasso</term>
+<term>Logistics</term>
+<term>Police</term>
+<term>Shooting</term>
+<term>Stagecoaches</term>
+<term>Tents</term>
+<term>Tickets</term>
+<term>Tipis</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Monte Mario (Rome, Italy)</term>
+<term>Prati di Castello (Rome, Italy)</term>
+<term>Rome (Italy)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+ <change when="2019"><name xml:id="alc">Cruz, Alexis</name> Initial encoding, Italian Transcriber</change>
+<change><name>Benn, J.</name>Translator</change>
+<change><name>Hanna, S.; Adams, Deb; Hansard, William</name></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="article" xml:lang="it">
+<pb facs="wfc.nsp11691.001"/>
+
+<head>Buffalo Bills.</head><p>&#8212; L'altro ieri mattina, 
+alle 10,30, proveniente da Napoli, giunse a
+Roma la compagnia del colnnello Buffalo
+Bills; il giorno avanti erano giunti 28 carri
+di attrezz e ireri stesso, alle 5, il gran, circo
+delle rappresentazioni, era gia in buona parte
+construcito.</p>
+<p>
+Oggi avrà laogo la prima rappresentazione,
+se il temp lo permetterà.
+</p>
+<p>Il circo è posto nel gran prato che è al
+di là della caserma d egli allievi carbinieri,
+un po' troppo lontano, a dir vero, ma in un
+luogo pittoresco ed amenissimo. Infatti
+fanno de cornice al quadro Monte Mario e
+le altre colline al Nord di Roma.</p>
+<p>L'anfiteratro ha la forma di un grande
+ferro de cavallo; misura 200 metri di lunghezza
+e 10 di larghezza. Ha cinquemila
+posti.</p>
+<p>Dalla parte estrema, le taveole sono coperte
+da tele di color verde cupo; tende di
+uguale colore sono disposte in modo la
+proteggere gli spettatori dai raggi del sole..
+se ci sarà! Il prato che si allarga in mezzo 
+all'anfiteatro è amplissimo. Dall'altro lato
+dell'anfiteatro, di fronte agli spettatori, sono
+piantati dei paoli, congiunti da un filo di
+ferro, che sorreggono una specie di sipario.</p>
+<p>Da dietro a quel sipario shucano le qua
+driglie dei pellirosse e gli altri della compagnia,
+e dietro di esso si ritirano, finiti i 
+loro giuochi.</p>
+<p>Il sipario nasconde al pubblico quattro
+tende a capanna, ampie, sotto dell quali
+sonno ammassati i cavalli. Sotto una di
+esse sono raccolti piccoli puledri americanai,
+che gl'indiani della compagnia prendono ai
+laccio e domano, in uno dei loro esercizi;
+le altre tende accolgono cavalli europeí.</p>
+<p>Un'altra tenda, nella stessa linea, serve
+di refettorio; altre tende minori hanno ognuna
+il nome del proprietario o della proprietaría
+stampato sulla tela, e servono ad 
+accogilere individui ella compagnia.</p>
+<p>L'arredo dell'interno è molto semplice:
+un piccolo letto da campo; un paio di baul;
+della paglia sparsa a mo' di tappeto.</p>
+<p>Lungo un lato dell'anfiteatro, dalla parte
+esterna, corre una seconda barriera, constituendo
+come una strada larga. Qui sono atendati
+il colonnello Cody (Buffalo bill), altri
+della compagnia e gli indiani. Un grossa
+corda tesa fa del lato, dove sorgono le
+tende indiane, come un posto appartato. Le
+tende sono nove, di forma conica molto
+alte. La tela è tutta avvolta attorno a fusti
+che sbucano dalla cima delle tende, lasciando
+un'apertura pel fumo. Gli indiani dormono
+su materassi allineati per terra, lungo il
+fondo; un grosso lembbo di tela pende a mo'
+di cortinaggio nel posto occupato dai materassi,
+formando come una specie di alcova.
+Nel centro, per terra, gl'indiani tengono
+constantemente accessi dei tizzi, sofrendo
+molto il freddo.</p>
+<p>&#8212; La rappresentazione ha avuto luogo;
+è cominciata alle 2 1|2 in punto ed è terminata
+alle 4 circa.</p>
+<p>Malgrado che il tempo minacciasse una
+folla immensa si è riversata ai prati di Castello; 
+ma soltanto la metà appena ha potuto
+trovar posto nel Circo, benechè vastissimo.</p>
+<p>La rappresentazione è davvero originale,
+fantastica, interessante; tale da non aver
+nulla a che fare con quanto ordínariamente
+sí vede nei circhi equestri.</p>
+<p>E' un'ora e mezzo di una curiosità sempre
+crescente, che vola via come un minuto. </p>
+<p>Due cose sono meravigliosissime in questa 
+troupe: l'abilità straordinaria nel tiro al
+bersaglio mobile e la insuperabile valentia
+nel cavalcare. </p>
+<p>Alcuní signori romani lii presenti e plaudenti
+ventialvano il progetto di far venire
+a Roma alcuni dei loro butteri di Cisterna
+con relativi puledri assicuando che non
+avrebbero sfigurato cogl'Indiani del Buffalo
+Bill, neli'arte del cavaclare e del fermare
+col laccio i cavalli. Verdremo. </p>
+<p>Sulla diligenza, che viene poi assaltia
+presero posto il signor Guglielmo Grant, il
+signor principe Orsini de altri.</p>
+<p>Concludendo: il denaro è benissimo speso 
+e ben ricompensato il piccolo viaggetto che
+occorre fare per giunere alla lizza. </p>
+<p>Qualche giornale si augura che venga 
+stabilita una linea d'omnibus. C'è già; vanno
+proprio a 50 passi dal Circo gil omnibox
+di S. Francesco a Ripa, di S. Lorenzo 
+in Lucina ed altri. Di più tutti gil omnibuss
+che conducono a S. Pietro sono opportuni,
+perchè il Circo non è lontano dalla demolita
+porta Anglica. </p>
+<p>&#8212; Ed ora una parola al municipio e piu
+particolarmente all'ufficio di polizia urbana
+ed al comando delle guardie di città.</p>
+<p> Ai ponti ed strade che vi conducono 
+vi fu da un'ora fino alle 3 un serra serra
+di carrozze e dí pedoni dí guelli proprio
+che sívedvano per le feste di S. Pierto.</p>
+<p>Ebbene; quantunque fosse a tutti noto
+che fino da ieri erano stati vendute migliaia
+e migliaia di biglietti, quantunque fosse notorio
+che il solo banco internazionale al
+Corso aveva venduto 600 biglietti di prima
+classe; quantunque si sapesse che il Circolo
+della Caccìa mandava a comprare biglietti
+a 30 e 40 alla volta; malgrado tutto
+ciò (diciam[?]) alle 2 non c'era una sola
+guardia da piazza Borghese a piazza di
+Ponte; al ponte ce n'erano soltanto due e
+dal ponte all'ex porta Angelica, nessuna.
+Figurarsi la confusione, la babele, l'ingombro, 
+tanto più che non si era neppur pensato
+a fermare o deviare i carretti. Pare
+che non siano accadute disgrazie, e se cosi
+è (come speriamo) si può davvero attaccare un voto.</p>
+<p>Ma i Battirelli del Comune non ci provino
+un'altra volta a farsi sorprendere cosi
+fanciullescanmente, ed un poco anche la
+Questura, se no i fischi ed i moccoli asorderanno
+Roma intera.</p>
+<p>E' stata una vera vergogna! Bastí dire
+che molti, che avevano comprato il biglietto
+in città e che si eran messi in movimento 
+colla carrozza poco dopo il tocco e messo,
+sono arrivati a spettacolo finito o presso a
+fiaire.</p>
+
+<ab>Osservatore Romano
+Feby 21st / 90 Rome</ab>
+</div1>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.nsp11691.001"/>
+
+<head>Buffalo Bills.</head><p>&#8212;Yesterday morning, at 10.30, Buffalo Bill's company, travelling from Naples, arrived in Rome;<ref target="n01">1</ref> the previous day, 28 cars loaded with equipment had arrived, and yesterday, at 5 a.m., the great showground in which the show is to take place was already in an advanced state of construction.</p>
+
+<p>Today, the first show will take place, weather permitting.</p>
+
+<p>The showground is located on the field next to the barracks housing the carabinieri cadets&#8212;a bit too far away, to tell the truth, but nevertheless in a picturesque and highly delightful place, framed by the square formed by Monte Mario and the other hills to the north of Rome.</p>
+
+<p>The amphitheater is in the shape of a giant horseshoe, measuring 200 meters in length by 10 meters in width. It accommodates five thousand seats.
+</p>
+<p>On the edges, the structure is covered with canvas of a copper-green color; canopies of the same hue are in place to protect the spectators from the rays of the sun . . . if there is any! The area extending outwards from the center of the arena is vast. On the other side of the amphitheater, facing the spectators, rows of stakes are planted in the ground, linked together by lengths of iron chain, holding up a sort of curtain.
+</p>
+<p>Behind that curtain, one finds the accommodation of the redskins and of the other members of the company, into which they retire once they have ended their pastimes and activities.</p>
+
+<p>The curtain conceals from the public four capacious tented huts, accommodating the horses. One of these houses a group of small American colts, which the Indians in the company ensnare and subdue with lassos in one of their exercises; the other tents accommodate European horses.</p>
+
+<p>A further tent, built along the same lines, serves as a canteen; other, smaller tents are each surmounted by the names of their occupants, printed on the canvas, and are used to accommodate individual members of the company.</p>
+
+<p>The furnishings inside are of the simplest kind: a small camp-bed; a couple of trunks; and a covering of straw spread on the ground, like a carpet.
+</p>
+<p>Along one side of the amphitheater, outside the arena, runs a second barrier, creating, as it were, a sort of wide roadway. This awaits the arrival of Colonel Cody (Buffalo Bill), other members of the company and the Indians. A thick, taut rope runs along the side, where the Indian tepees rise up, as if in a backwoods location. There are nine tepees all told, very tall and conical in shape. The fabric is wrapped all around poles which stick out of the top, leaving an opening for the smoke to escape. The Indians sleep on mattresses lined up along the ground on the floor; a long strip of fabric hangs like a curtain in the place occupied by the mattresses, forming, as it were, a sort of alcove. In the center, on the ground, the Indians keep the firebrands constantly alight, suffering greatly as they do from the cold.</p>
+<p>
+&#8212;The show took place; it began at 2.30 on the dot and ended at about 4 o'clock.</p>
+<p>
+Despite the threat of bad weather, a vast crowd streamed towards the Prati di Castello; but barely half of them managed to obtain a seat in the showground, despite its enormous size.</p>
+
+<p>The show is truly original, amazing and interesting; it bears no relation whatever to the type of spectacle put on in equestrian circuses.
+</p>
+<p>It offers one and a half hours of ever-increasing curiosity, in which the time flies by as if it were just a single minute.
+</p>
+<p>The troupe's performance is amazing in two particularly noteworthy respects: their extraordinarily feats of marksmanship in shooting at moving targets, and their unbeatable equestrian skills.
+</p>
+<p>Some of the Roman gentlemen present, whilst applauding enthusiastically, put forward the suggestion that some of their butteri (Italian cowboys) should be brought to Rome from Cisterna together with their colts, saying that these butteri would certainly be a match for Buffalo Bill's Indians in terms of horsemanship and the art of lassoing horses. We will see.</p>
+
+<p>The stagecoach, which was the subject of an attack, included amongst its occupants Mr. Guglielmo Grant; Prince Orsini and others.</p>
+
+<p>To conclude: the cost of a ticket to see the show is money well spent and worth the short trip to get to the showground.</p>
+
+<p>Some newspapers are rejoicing at the fact that a new omnibus line is to be introduced. It is already in place; the omnibuses from San Francesco a Ripa, San Lorenzo in Lucina and other places arrive just 50 yards from the showground. Moreover, all the omnibuses leading from the St. Peter's Square are convenient, because the showground is not far from the now demolished Porta Angelica.
+</p>
+<p>&#8212;And now a word to the municipality, in particular to the city police headquarters and those in charge of the municipal law-enforcement headquarters.
+</p>
+<p>On the bridges and in the streets leading to the showground, there was, from one o'clock until 3 o'clock, a throng of carriages and pedestrians, including those coming to witness and take part in the St. Peter's festivities.
+</p>
+<p>Well: even though it was well known that, by yesterday, thousands and thousands of tickets had been sold, that the international bank on the Corso alone had sold 600 of the most expensive tickets, and that the Circolo della Caccia was seeking to buy tickets costing 30 to 40 lire apiece&#8212;despite all this, at 2 o'clock there was not a single law-enforcement officer to be seen on the street leading from the Piazza Borghese to the Piazza di Ponte; on the bridge itself, there were only two; and on the street leading from the bridge to the Porta Angelica, none at all. One may easily imagine the confusion, the bedlam and the congestion, which was exacerbated by the fact that no-one had even thought to block access for the vehicles, or to organize a detour for them. It seems that no accidents occurred, and if (as we would hope) this is indeed the case, then at least that is one thing to be thankful for.
+</p>
+<p>But the City fathers, and the police too, should not imagine that they will be forgiven should they allow themselves a second time to be taken so easily by surprise; if they do, the booing and hissing will resound deafeningly throughout the whole of Rome.
+</p>
+<p>It was a complete disgrace. Suffice it to say that many people, having bought tickets in town and started on their way in their carriages just after half past one, did not arrive until after the show had ended or had virtually finished.
+</p>
+<ab>[inscribed] L'Osservatore Romano
+Feby 21st / 90 Rome</ab>
+
+</div1>
+</body>
+
+<back>
+<note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Rome, Italy, from February 20 through March 9, 1890.</note>
+</back>
+</text>
+</TEI>

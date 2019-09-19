@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp11058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en"></title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
+<respStmt>
+<resp>Transcribed and translated by</resp>
+<name></name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.nsp11058</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en"> He Shoots Awry</title>
+<title level="a" type="sub" xml:lang="en">The Erratic Flight of Some of Cupid's Arrows</title>
+<title level="a" type="sub" xml:lang="en">There Was a Woman in the Case of the Notorious English Card Scandal&#8212;Standing Bear's Austrian Bride.</title>
+<title level="a" type="sub" xml:lang="en">The Erratic Flight of Some of Cupid's Arrows</title>
+<title level="j">The Salt Lake Herald (Salt Lake City, UT; 1870-1909)</title>
+<date when="1891-03-20">March 20, 1891</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library</repository>
+<idno>MS</idno>
+</msIdentifier>
+<msContents>
+<p></p>
+</msContents>
+<physDesc>
+<objectDesc>
+<supportDesc>
+<support></support>
+<extent>
+<dimensions unit="mm"><height></height><width></width></dimensions>
+</extent>
+<condition>
+<p></p></condition>
+</supportDesc>
+</objectDesc>
+<handDesc hands="1">
+<handNote xml:id="type"><p></p></handNote>
+</handDesc>
+<typeDesc>
+<typeNote><p></p></typeNote>
+</typeDesc>
+</physDesc>
+<history><origin></origin>
+<provenance></provenance>
+<acquisition></acquisition>
+</history>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction>
+<p></p>
+</correction>
+<normalization>
+<p></p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>European Tours</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Indians of North America</term>
+<term>Fashion</term>
+<term>Marriage</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oglala Indians</term>
+<term>Standing Bear, 1859-1933</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Pine Ridge Indian Reservation (S.D.)</term>
+<term>Vienna (Austria)</term>
+</keywords>
+</textClass>
+
+<particDesc>
+<listPerson>
+<person></person>
+</listPerson>
+<listOrg>
+<org></org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+  <change when="2019"><name xml:id="alc">Cruz, Alexis.</name> Initial encoding</change>
+<change><name>Hanna, S.</name>Transcriber</change>
+<change><name>Adams, Deb; Hanna, S; Hansard, Willam</name></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.nsp11058.001"/>
+
+<head>HE SHOOTS AWRY</head>
+<head type="subhead">The Erratic Flight of Some of Cupid's Arrows.</head>
+<head type="subhead">THE RESULTS ARE SENSATIONAL</head>
+<head type="subhead">There Was a Woman in the Case of the Notorious English Card Scandal&#8212;Standing-Bear's Austrian Bride.</head>
+
+
+<p>Love, it is said, makes the world go round. It will also make a man's head swim if he considers the possibilities of the passion when turned into the channels of jealousy, hatred or infatuation.</p>
+
+<figure><ab>SIR WILLIAM GORDON-CUMMING.</ab></figure>
+
+<p>If some reports are to be believed, Cupid, under the guise of Lothario, is responsible for the card scandal which rendered disastrous the entertainment at Tranby Croft, by Mr. and Mrs. Arthur Wilson, of the <persName xml:base="albert.edward">Prince of Wales</persName> and his friends. Whenever the heir to the throne of Great Britain accepts an invitation he is privileged to name the guests he would like to meet. As a matter of form the list of these persons is submitted to the host and hostess for their approval. The lady who was to have had the honor of entertaining the prince during the St. Leger race week sent back the list forwarded to her, with the statement that she objected to receiving one of the women named therein on grounds of morality. Albert Edward thereupon canceled his engagement and, with his friends, accepted the more charitable hospitality of the Wilsons.</p>
+
+<p>All the world knows the shocking reason for the break up of the party. Baccarat was played for high stakes, and some of the onlookers declared that they had detected Sir William Gordon-Cumming engaged in cheating. The specific charge was that he surreptitiously increased his stake when a favorable card turned up, and diminished it whenever he experienced a loss. The witnesses submitted their accusation to the prince. The upshot was that Sir William signed an undertaking never again to touch a card, and all the members of the party promised to remain silent regarding the scandalous affair.</p>
+
+<figure><ab>MRS. ARTHUR WILSON.</ab></figure>
+
+<p>But ever since the days of Juno woman has resented "the injury of her slighted beauty," and there was no exception in this instance. The inculpated baronet had a female enemy who disregarded the vow of secrecy and spread the story. As a result Sir William, who claims to have signed the paper without due consideration of the possible consequences, has begun an action for slander against his hostess and four other people. He claims no damages, but wishes a vindication of his character.</p>
+
+<p>Another prank played by love has brought Miss Florence Birch, of Islip, Long Island, face to face with the most serious possibilities. Until recently she bore an irreproachable reputation. Some time ago she started in business as a milliner and stocked a little shop with goods. Soon afterward she and another young woman of the village began to receive scurrilous letters reflecting upon their characters. Then there was a fire in Miss Birch's store,
+
+<figure><ab>MISS FLORENCE BIRCH.</ab></figure>
+
+the origin of which could not be explained. The citizens thought that their fair townswoman was the object of some mysterious persecution, and they organized for the purpose of hunting down her tormentor. They hired a detective, who took a cynical rather than a sentimental view of the affair, and who put in his time watching Miss Birch's movements. He traced her to New York, found that she was enamored of a youth employed in a Broadway store, and finally confronted the girl with such a mass of information about her private life that she signed a written confession acknowledging that she wrote the scurrilous letters and also set fire to her goods, the main object in view being to secure the insurance money and establish herself at another place where her lover had his home. Upon this showing Miss Birch was arrested, but when brought before a justice she was confronted neither with the detective nor the confession, and was set free after making a statement that the person guilty of arson was not herself, but the  man with whom she was infatuated. Hearing that a warrant was out for his arrest, the alleged lover promptly visited Islip, pleaded not guilty and gave bail. He refused to call on Miss Birch, although it was hinted that if he did so and made arrangements 
+<pb facs="wfc.nsp11058.002"/>
+to marry her the prosecution would be dropped. Now the detective has reappeared, and claims that his absence from the trial was due to lack of notification. Miss Birch has again been arrested, and whatever the final outcome of the business may be, it seems probable that she has lost her lover, her trade as a milliner and considerable of the good repute which she formerly enjoyed. It is claimed, however, on the girl's behalf, that she has for some time suffered from recurrent hysterical mania, and is really not responsible either for her words or deeds.</p>
+
+<p>Still another strange freak to be charged up to Cupid's account has to do with the union of two persons differing widely in race, habits and antecedents. Standing Bear is a Sioux warrior of the Ogallala tribe. He went to Europe a year or two ago with Buffalo Bill's Wild West exhibition. At Vienna one of the visitors to the show was Mrs. Louisa Ahne, whose husband had recently died, and who is the mother of two bright little children. Mrs. Ahne fell in love with Standing Bear at first sight, and perhaps she is not altogether to blame, for he is a magnificent specimen of Indian manhood, being six feet three inches tall and weighing 170 pounds. The widow did not hesitate to announce that her affections went out to the big brave. She told him so through an interpreter, and when, soon afterward, Standing Bear met with an accident she took him to her home and nursed him back to health. Before the end of his four weeks' illness the warrior capitulated, and when he started to rejoin the show he did so as an engaged man. At the close of the tour he returned to Vienna, and the couple were married at St. Stephen's church. Then they went to the village of Rundstock, where they lived for five
+
+<figure><ab>STANDING BEAR&#8212; MRS. STANDING BEAR</ab></figure>
+
+months with the bride's parents, Mr. and Mrs. Reineck. At the end of that time all the party decided to leave for America. Standing Bear had &#36;300, and the Reinecks sold their little farm for &#36;450. They took passage at Hamburg, and in due season reached New York city, where Standing Bear was the object of much attention, not only on account of his romantic marriage, but also because he dressed elegantly, and even went to the extremes of fashion by wearing a silk hat and patent leather shoes. After a visit to relatives of the bride at Chicago the party will proceed to Pine Ridge agency, and there make their permanent home.</p>
+
+<p>F. X. WHITE</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
