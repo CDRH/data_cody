@@ -46,7 +46,11 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note><!-- notes  --></note></notesStmt>
+<notesStmt>
+<note><!-- 
+Notes: Janet-Lange was a pseudonym for French painter, illustrator, historical-scenes painter, engraver and lithographer Ange-Louis Janet (1815-1872).
+Charles Laplante (1873-1903) was a French wood engraver and illustrator.
+  --></note></notesStmt>
 
 <sourceDesc>
 <bibl>
@@ -60,7 +64,7 @@
 <msDesc>
 <msIdentifier>
 <repository>McCracken Research Library</repository>
-<idno>MS</idno>
+<idno>MS6.3777.094.01</idno>
 </msIdentifier>
 <msContents>
 <p></p>
@@ -154,12 +158,6 @@
 
 <pb facs="wfc.nsp11947.001"/>
 
-<!-- What do I do with these: 
-Document ID: nsp11947; MS6.3777.094.01
-
-Notes: Janet-Lange was a pseudonym for French painter, illustrator, historical-scenes painter, engraver and lithographer Ange-Louis Janet (1815-1872).
-Charles Laplante (1873-1903) was a French wood engraver and illustrator.
--->
 <figure><ab>DIVERTIMENTI DEL "BUFFALO-BILL." &#8212; I Pelli Rosse assaltano una diligenza (vedi l'articolo a pagina 147).</ab></figure>
 <ab>Janet Lange / C. LAPLANTE</ab>
 
