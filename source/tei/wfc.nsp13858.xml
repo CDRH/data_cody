@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp00000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13858">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="de"></title>
-<title type="main" xml:lang="en"></title>
+  <title type="main" xml:lang="en">Untitled [No less than five special trains...]</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
+  <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
 <respStmt>
 <resp>Transcribed and translated by</resp>
 <name></name>
@@ -39,7 +39,7 @@
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
 <idno type="module"></idno>
-<idno type="project">wfc.nsp00000</idno>
+  <idno type="project">wfc.nsp13858</idno>
 <availability>
 <p></p>
 </availability>
@@ -50,18 +50,15 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main" xml:lang="de"></title>
-<title level="a" type="sub" xml:lang="de"></title>
-<title level="a" type="main" xml:lang="en"></title>
-<title level="a" type="sub" xml:lang="en"></title>
-<title level="j"></title>
-<date when="1800"></date>
+  <title level="a" type="main" xml:lang="en">Untitled [No less than five special trains...]</title>
+  <title level="j">The Hampshire Post and Southsea Observer (Hampshire, England; 1876-1913)</title>
+  <date when="1891-10-09">October 9, 1891</date>
 <extent></extent>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>McCracken Research Library</repository>
-<idno>MS</idno>
+  <idno>MS6.3681.125.01</idno>
 </msIdentifier>
 <msContents>
 <p></p>
@@ -116,16 +113,26 @@
 <term>European Tours</term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+  <term>American Indians</term>
+  <term>Electric lighting</term>
+  <term>Indians of North America</term>
+  <term>Sharpshooters</term>
+  <term>Traveling exhibitions</term>
+  <term>Wigwams</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+  <term>Sweeney, William, 1856-1916</term>
+  <term>Kicking Bear, 1853-1904</term>
+  <term>Nelson, John Young, 1826-</term>
+  <term>Oakley, Annie, 1860-1926</term>
+  <term>Young, Brigham, 1801-1877</term>
+  <term>Sioux Nation</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
 </keywords>
 </textClass>
-
+ 
 <particDesc>
 <listPerson>
 <person></person>
@@ -138,6 +145,8 @@
 
 <revisionDesc>
   <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change><name>Hanna, S.; Adams, Deb</name>Transcriber</change>
+  <change><name>Adams, Deb; Hanna, S.</name>Proofing Editors</change>
 
 </revisionDesc>
 </teiHeader>
@@ -147,7 +156,12 @@
 
 <div1 type="article" xml:lang="de">
 
-<pb facs="wfc.nsp00000.001"/>
+  <pb facs="wfc.nsp13858.001"/>
+
+  <head>Untitled [No less than five special trains...]</head>
+  
+<p>PORTSMOUTH, FRIDAY, OCT. 9th, 1891. No less than five special trains have to be chartered to convey the Show from one town to another; and as the stay at each place seldom exceeds a week, some idea of the working expenses may be gleaned, and that the Manager's post is anything but a sinecure can be readily understood. Yet the breaking up of the establishment at one place and its conveyance to another are carried on with a minimum of confusion, all the hands having their appointed duties, and carrying them out according to the instructions. The site of the "Wild West" Exhibition at Portsmouth is that recently held by the Royal Counties Show at North End, in every respect highly suitable; for the extent of the land available leaves a splendid arena, where the different evolutions are gone through by the cowboys, scouts, Indians, &#38;c., who figure in Buffalo Bill's train. Accommodation has been provided for at least 15,000 spectators; and in the evening the Show is illuminated by scores of powerful lamps fixed around the grounds. Over 250 persons are engaged in the exhibition, besides a stud of 200 horses and buffaloes. The squaws, braves, and cowboys are housed in wigwams, huts, and tents that occupy a stretch of ground to the right of the arena, and present the appearance of an Indian village. The afternoon performances are fixed for 3 o'clock; and punctually the Cowboy Band, under <persName xml:id="sweeney.w">Mr. W. Sweeney</persName>, struck up an overture, and <persName xml:id="clifford.h">Mr. Clifford</persName> entered the arena, and took his stand on a raised platform. From here, in stentorian tones, he announced the items of the programme as they came on; and his robust voice was audible in all parts of the enclosure. The audience, be it remarked, are well protected from the wind and weather by canvas overhead and around the sides of the raised platforms. First in order come the Grand Processional Review, in which all the members of the company, in mounted order, proceed at a gallop or trot in sections to the platform at the opposite end of the arena to which their entrance is made. As each group makes its appearance, Mr. Clifford explains its name and character. Bands of red-skins, in their war-paint and feathers, individual chiefs in their picturesque dress; cowboys on their fleet galloways; squaws chanting a peculiar music, <persName xml:id="kicking.bear">"Kicking Bear,"</persName> the fighting chief of the Sioux; <persName xml:id="nelson.j">"John Nelson,"</persName> who acted as scout to Brigham Young's party, and was instrumental in discovering the Salt Lake country, come forward, and, after a pause, the famous Cody himself, ex-scout, ex-legislator, and now guiding spirit and prime-mover of the Wild West combination. As he rides swiftly up to the front, he is greeted with encouraging cheers by the audience; and while he passes along the assembled cavalcade, his eye glances among the combination to see that all are in order, and then, with a brisk wave of his doffed hat, he dismisses the cowboys, &#38;c., and they immediately, at a smart canter, retire. The "Chief" follows some moments afterwards; and the arena is then occupied by a cowboy, a Mexican, and an Indian mounted on Spanish-Mexican horses, and a capital race between the three is witnessed. This over, <persName xml:id="oakley.a">Miss Annie Oakley</persName>,<!--LINK--> a celebrated rifle-shot, is introduced. Very clever are Miss Oakley's performances. At different ranges, positions, and altitudes, she knocks over clay pigeons and balls thrown into the air in rapid succession, changing the rifles the meantime, or re-loading while the ball is descending. Her skill is duly recognised by rounds of applause.</p>
+  
 </div1>
 </body>
 
