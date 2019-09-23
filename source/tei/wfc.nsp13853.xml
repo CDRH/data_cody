@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp00000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp13853">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="de"></title>
-<title type="main" xml:lang="en"></title>
+  <title type="main" xml:lang="en">Buffalo Bill in Bristol.</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
+  <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
 <respStmt>
 <resp>Transcribed and translated by</resp>
 <name></name>
@@ -39,7 +39,7 @@
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
 <idno type="module"></idno>
-<idno type="project">wfc.nsp00000</idno>
+  <idno type="project">wfc.nsp13853</idno>
 <availability>
 <p></p>
 </availability>
@@ -50,12 +50,10 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main" xml:lang="de"></title>
-<title level="a" type="sub" xml:lang="de"></title>
-<title level="a" type="main" xml:lang="en"></title>
-<title level="a" type="sub" xml:lang="en"></title>
-<title level="j"></title>
-<date when="1800"></date>
+  <title level="a" type="main" xml:lang="en">Buffalo Bill in Bristol.</title>
+  <title level="a" type="sub" xml:lang="en">Opening of the Wild West Show.</title>
+  <title level="j">The Bristol Mercury (Bristol, England, UK; 1716-1909)</title>
+  <date when="1891-09-29">September 29, 1891</date>
 <extent></extent>
 </bibl>
 <msDesc>
@@ -116,13 +114,26 @@
 <term>European Tours</term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
+  <term>American Indians</term>
+  <term>American woman</term>
+  <term>Audiences</term>
+  <term>Cowboys</term>
+  <term>Firearms</term>
+  <term>Gas-lighting</term>
+  <term>Indians of North America</term>
+  <term>Orators</term>
+  <term>Pony express</term>
+  <term>Sharpshooters</term>
+  <term>Traveling exhibitions</term>
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+  <term>Yellow Hand, 1850?-1876</term>
+  <term>Mexicans</term>
+  <term>Oakley, Annie, 1860-1926</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+  <term>Warbonnet Creek, Battle of, Neb., 1876</term>
 </keywords>
 </textClass>
 
@@ -137,7 +148,9 @@
 </profileDesc>
 
 <revisionDesc>
-  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2019"><name xml:id="alc">Cruz, Alexis</name> Initial encoding</change>
+  <change><name>Adams, Deb</name>Transcriber</change>
+  <change><name>Adams, Deb; Hanna, S.; Hansard, William</name> Proofing Editors</change>
 
 </revisionDesc>
 </teiHeader>
@@ -145,9 +158,26 @@
 <text>
 <body>
 
-<div1 type="article" xml:lang="de">
+<div1 type="article" xml:lang="eg">
 
-<pb facs="wfc.nsp00000.001"/>
+  <pb facs="wfc.nsp13853.001"/>
+
+
+  
+<head>BUFFALO BILL IN BRISTOL.</head>
+
+<head type="subhead">OPENING OF THE WILD WEST SHOW.</head>
+
+<p>The afternoon performance commenced at three o'clock, at which time the capacious grand stand was crowded. There is seating accommodation for 15,000 persons, and as many were standing there must have been many more present. At the outset the orator of the show, as he is termed, said the management wished it to be clearly understood that the entertainment consisted of feats of skill, daring, and sagacity, such as occur in the daily life of Indians in the Far West, and not of performances the result of mere rehearsals. The programme opened with a processional review and the introduction of the different groups of Indians and cowboys, at whose head Colonel Cody took his place amid loud applause. Apart from the riding, it was a very picturesque scene, the effect of which was heightened by the music of the cowboy band. After an exciting race between a cowboy, a Mexican, and an Indian, on Spanish-American horses, <persName xml:id="oakley.a">Miss Annie Oakley</persName> gave an exhibition of her dexterity in the use of firearms, and some of her feats were remarkably clever. Next came the thrilling representation of an adventure in the life of Buffalo Bill&#8212;the famous single combat with <persName>Yellow Hand</persName>, chief of the Sioux at War Bonnet Creek, Dakota, in 1875, and the chief's downfall before the Indian and American troops&#8212;and this was followed by a display of a rider's skill in an illustration of the pony express, by which letters were distributed across the American continent before the introduction of railways and the present postal system. An attack on an emigrant train by Indians, and their repulse by the cowboys, was of a very realistic description, and the performers were heartily applauded. At the conclusion of this scene a number of cowboys and prairie girls on horseback danced "The Virginia Reel," to the accompaniment of the band. These were followed by exhibitions of skill by marksmen of the company and by the cowboys, who without dismounting picked up objects on the ground and lassoed the wild horses, afterwards riding the buckers, a very thrilling as well as amusing scene. Another feature of the performance was the capture of the <placeName xml:id="coach.deadwood">Deadwood mail coach</placeName> by Indians, and its rescue by the cowboys under Buffalo Bill. The battered equipage used in the show is the identical coach that is famed in America for having carried a great number of people who lost their lives on the road between Deadwood and Cheyenne 18 years ago, and is looked upon as the survivor of the border period between savagery and civilisation in the West. The vehicle was drawn round the arena by four mules, driven by Col. Cody, and the progress of the old coach was viewed with much interest by the audience. This was succeeded by a display of riding by Indian boys, on barebacked horses, and a representation of an Indian settlement on the field and path. Col. Cody then gave an exhibition of his skill as a sharpshooter, riding on horseback; and a series of remarkable feats by him were loudly applauded. Another thrilling scene, the buffalo hunt, came next, and before the excitement had subsided the spectators were treated to the sight of an attack on a settler's cabin by Indians, and a rescue by the cowboys under Buffalo Bill. This brought to a close a show novel, romantic, and remarkable in many ways; an entertainment which combines instruction with amusement, and makes the public acquainted with the manners and customs of dwellers in the Far West by means of actual and realistic scenes from everyday life.</p> 
+
+  <pb facs="wfc.nsp13853.002"/>
+
+<ab type="subehad">THE EVENING PERFORMANCE.</ab>
+
+<p>Over ten thousand persons attended the evening entertainment, all the popular parts of the huge enclosure being crowded. The programme was similar to that presented in the afternoon, but additional realism was imparted to some of the phases of Wild West life which are depicted by the fact of their being shown at night. This was notably the case in such scenes as the attack on a settler's cabin, where the Indians are seen stealthily approaching towards the cabin, which they set on fire, and things are beginning to look warm for the settler and his family, when they are rescued by the timely arrival of Buffalo Bill and the cowboys, before whom the Indians speedily make tracks. It must not be imagined, however, that there is not sufficient illumination to enable every spectator to get a perfect view of everything that is going on in the arena. On the contrary, the Wells lamps throw out a capital light, and perhaps no better proof of this can be supplied than that afforded by the fact that Colonel Cody, in his remarkable sharpshooting feats, was so successful that in one ride around the field at full gallop he did not miss a single ball. In this department Miss Annie Oakley's skill as a marksman&#8212;or perhaps we should say markswoman&#8212;elicited outbursts of applause. Another popular feature was what is described as "Cowboy Fun," the clever lassooing of wild horses and the riding of "buck-jumpers" creating plenty of amusement. The buffalo hunt was also made as realistic as possible, and the numerous other bits of Wild West life combined to make up an entertainment which seemed to be thoroughly enjoyed. After the "salute," in which Col. Cody is honoured by the whole of his company, the vast audience quickly dispersed, and the excellent arrangements made by the Tramways Company and the 'bus proprietors enabled the citizens to reach their homes in comparative ease.</p>  
+
+<p>To-day there will be two performances, at 3 o'clock and 8.</p>
+
 </div1>
 </body>
 
