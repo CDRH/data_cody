@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp00000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp14075">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="de"></title>
-<title type="main" xml:lang="en"></title>
+  <title type="main" xml:lang="de">ohne Titel ( ... Die Buffalo Bill Wild West&#8211;Truppe wird morgen ...)</title>
+  <title type="main" xml:lang="en">Untitled (...Buffalo Bill's Wild West troupe will arrive tomorrow....)</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
+  <sponsor> This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation. </sponsor>
 <respStmt>
 <resp>Transcribed and translated by</resp>
 <name></name>
@@ -39,7 +40,7 @@
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
 <idno type="module"></idno>
-<idno type="project">wfc.nsp00000</idno>
+  <idno type="project">wfc.nsp14075</idno>
 <availability>
 <p></p>
 </availability>
@@ -50,18 +51,16 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main" xml:lang="de"></title>
-<title level="a" type="sub" xml:lang="de"></title>
-<title level="a" type="main" xml:lang="en"></title>
-<title level="a" type="sub" xml:lang="en"></title>
-<title level="j"></title>
-<date when="1800"></date>
+  <title level="a" type="main" xml:lang="de">ohne Titel ( ... Die Buffalo Bill Wild West&#8211;Truppe wird morgen ...)</title>
+  <title level="a" type="main" xml:lang="en">Untitled (...Buffalo Bill's Wild West troupe will arrive tomorrow....)</title>
+  <title level="j">Anzeiger (Dresden, Germany)</title>
+  <date when="1890-05-31">May 31, 1890</date>
 <extent></extent>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>McCracken Research Library</repository>
-<idno>MS</idno>
+  <idno>MS6.3776.01.01</idno>
 </msIdentifier>
 <msContents>
 <p></p>
@@ -116,13 +115,26 @@
 <term>European Tours</term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+  <term>American bison</term>
+  <term>American frontier</term>
+  <term>American Indians</term>
+  <term>Camps</term>
+  <term>Cowboys  Frontier and pioneer life</term>
+  <term>German language</term>
+  <term>Historical reenactments</term>
+  <term>Horses</term>
+  <term>Indians of North America--Social life and customs</term>
+  <term>Indians of North America</term>
+  <term>Mustang</term>
+  <term>Tents</term>
+  <term>Traveling exhibitions</term>
+  <term>Wigwams</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+  <term>Dresden (Germany)</term>
 </keywords>
 </textClass>
 
@@ -137,8 +149,10 @@
 </profileDesc>
 
 <revisionDesc>
-  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
-
+  <change when="2019"><name xml:id="alc">Cruz, Alexis</name> Initial encoding</change>
+  <change><name>Benn, James H.</name>Translator</change>
+  <change><name>Roberts, Briana</name>Transcriber</change>
+  <change><name>Clark, L.; Adams, Deb; Hanna S.; Hansard, William</name>Proofing Editors</change>
 </revisionDesc>
 </teiHeader>
 
@@ -147,11 +161,29 @@
 
 <div1 type="article" xml:lang="de">
 
-<pb facs="wfc.nsp00000.001"/>
+  <pb facs="wfc.nsp14075.001"/>
+
+  <head>ohne Titel ( ... Die Buffalo Bill Wild West&#8211;Truppe wird morgen ...)</head>
+  <ab>Anzeiger Dresden May 31st 1890 </ab>
+  
+<p>Die Buffalo Bill Wild West&#8211;Truppe wird morgen Sonnabend fr&#252;h 6 Uhr 21 Minuten mittelst Sonderzuges auf dem B&#246;hmischen Bahnhof eintreffen und sich mit ihrem ganzen Parke an Wagen, Zelten und Thieren nach dem Ausstellungsplatze an der Lenn&#232;stra&#223;e begeben. Die Schaustellungen, welche t&#228;glich Nachmittag 4 Uhr bei jeder Witterung stattfinden, werden jedesmal durch eine Prachtvorstellung der ganzen Mitgliederzahl des &#8222;Camp&#8220;, welche theils zu Fu&#223;, theils hoch zu Ro&#223; auftreten, er&#246;ffnet. Hieran werden sich Bilder aus dem Prairieleben in hier noch nie gesehener Gro&#223;artigkeit reihen. Dem Besucher wird auch Gelegenheit gegeben sein, echtes indianisches Lagerleben beobachten zu k&#246;nnen, denn die Wigwams und Zelte f&#252;r die Indianer und Cowboys, sowie die St&#228;lle f&#252;r die Mustangs und Bisons sind w&#228;hrend der Pausen dem Publikum zug&#228;nglich. F&#252;r Bequemlichkeit ist m&#246;glichst gesorgt; auch eine Restauration ist in dem Riesenraume der Arena, welche mehrere Tausent Sitzpl&#228;tze enth&#228;lt, untergebracht. Die erste Vorstellung findet Sonntag Nachmittag 4 Uhr statt. </p>
+  
+</div1>
+<div1 type="article" xml:lang="en">
+
+  <pb facs="wfc.nsp14075.001"/>
+
+  <head>Untitled (...Buffalo Bill's Wild West troupe will arrive tomorrow....)</head>
+  
+  <ab>"Anzeiger / Dresden,<ref target="n01">1</ref> May 31st/90"</ab> 
+  
+<p>Buffalo Bill's Wild West troupe will arrive tomorrow, Saturday, at 6.21 a.m., by a special train, in Dresden's Bohemian Station and will then proceed, with its full complement of wagons, tents and animals, to the showground on the Lenn&#233;strasse. The shows, which will take place every day at 4 o'clock in the afternoon regardless of the weather conditions, will on each occasion open with the magnificent performance by the full company of the "camp," appearing partly on foot and partly mounted high up on horseback. The performance will feature scenes from life on the prairies in all its glory, as never before witnessed in our community. Visitors will also be afforded the opportunity of observing an authentic portrayal of life as it is lived in an Indian encampment, for the wigwams and tents accommodating the Indians and cowboys, and the stables for the mustangs and bison, will be accessible to the public during the show's interval. Care has been taken to ensure that everything is comfortable; there are even restaurant facilities installed in the gigantic spaces of the arena, accommodating room for several thousand diners. The initial show will take place at 4 o'clock in the afternoon on Sunday.</p>
+
 </div1>
 </body>
 
 <back>
+  <note xml:id="n01">Buffalo Bill's Wild West performed in Dresden, Germany, June 1-16, 1890.</note>
 </back>
 </text>
 </TEI>
