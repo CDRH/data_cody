@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp00000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp14077">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="de"></title>
-<title type="main" xml:lang="en"></title>
+  <title type="main" xml:lang="de">(Buffalo Bill geht.)</title>
+  <title type="main" xml:lang="en">(Buffalo Bill is departing.)</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
+  <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
 <respStmt>
 <resp>Transcribed and translated by</resp>
 <name></name>
@@ -39,7 +40,7 @@
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
 <idno type="module"></idno>
-<idno type="project">wfc.nsp00000</idno>
+  <idno type="project">wfc.nsp14077</idno>
 <availability>
 <p></p>
 </availability>
@@ -50,18 +51,16 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main" xml:lang="de"></title>
-<title level="a" type="sub" xml:lang="de"></title>
-<title level="a" type="main" xml:lang="en"></title>
-<title level="a" type="sub" xml:lang="en"></title>
-<title level="j"></title>
-<date when="1800"></date>
+  <title level="a" type="main" xml:lang="de">(Buffalo Bill geht.)</title>
+  <title level="a" type="main" xml:lang="en">(Buffalo Bill is departing.)</title>
+  <title level="j">Wiener Tageblatt (Vienna, Austria)</title>
+  <date when="1890-05-27">May 27, 1890</date>
 <extent></extent>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>McCracken Research Library</repository>
-<idno>MS</idno>
+  <idno>MS6.3776.01.03</idno>
 </msIdentifier>
 <msContents>
 <p></p>
@@ -116,13 +115,19 @@
 <term>European Tours</term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+  <term>German language</term>
+  <term>Historical reenactments</term>
+  <term>Operating costs</term>
+  <term>Traveling exhibitions</term>
+  <term>Wigwams</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+  <term>Dresden (Germany)</term>
+  <term>Munich (Germany)</term>
+  <term>Vienna (Austria)</term>
 </keywords>
 </textClass>
 
@@ -137,7 +142,10 @@
 </profileDesc>
 
 <revisionDesc>
-  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2019"><name xml:id="alc">Cruz, Alexis</name> Initial encoding</change>
+  <change><name>Benn, James H.</name>Translator</change>
+  <change><name>Roberts, Briana</name>Trascriber</change>
+  <change><name>Clark, L.; Adams, Deb; Hanna, S.; Hansard, William</name></change>
 
 </revisionDesc>
 </teiHeader>
@@ -147,11 +155,28 @@
 
 <div1 type="article" xml:lang="de">
 
-<pb facs="wfc.nsp00000.001"/>
+  <pb facs="wfc.nsp14077.001"/>
+  
+  <head>(Buffalo Bill geht.)</head>
+
+<ab>[inscribed] "Wiener Tagblatt" 
+Vienna May 27th/90 [end inscription] </ab>
+
+<p>Buffalo Bill wird, wie seine vielfarbigen Plakate ank&#252;nden, bereits Donnerstag, den 29. d. mit seinem &#8222;Wild West&#8220; Wien verlassen, um sich nach Dresden zu begeben. Dieser so kurze Aufenhalt in unsere Stadt wird einigerma&#223;en &#252;berraschen; die wirklich originellen Leistungen der Truppe lie&#223;en erwarten, da&#223; dieselbe geraume Zeit hier verweilen werde, aber trotzdem sieht sich Buffalo Bill gezwungen, bereits nach kaum zwanzig Vorstellungen seine Wigwams abzubrechen. Die Unternehmung hat in Wien nicht jenen Zuspruch und jene Theilnahme gefunden, die sie erwarten zu d&#252;rfen glaubte. So h&#228;lt es Buffalo Bill f&#252;r angezeigt, Wien fr&#252;her zu verlassen. Vor seiner Ankunft in Wien verweilte Buffalo Bill durch l&#228;ngere Zeit in M&#252;nchen; er hatte dort bei seinen Vorstellungen einen durchschnittlichen Besuch von f&#252;nf&#8211; bis sechstausend Personen; in Wien hingegen reichte die Durchschnittsziffer nicht viel &#252;ber &#8212; f&#252;nfzehnhundert hinaus. Au&#223;erdem hatte Buffalo Bill hier ausnehmend gro&#223;e Regiekosten; das Areal, auf welchem er seine Vorstellungen gab, hatte er in der Erwartung eines l&#228;ngeren Aufenthaltes f&#252;r eine Zeit von drei Monaten gepachtet; die Pachtsumme f&#252;r die restirende Zeit von fast zweieinhalb Monaten mu&#223;te er nat&#252;rlich erlegen. &#8212; Der Besuch w&#228;hrend der beiden Feiertage war ein ausnehmend starker, doch konnte derselbe die Leitung der Gesellschaft nicht zu l&#228;ngerem Verbleiben in Wien veranlassen. </p>
+</div1>
+<div1 type="article" xml:lang="en">  
+
+<head>(Buffalo Bill is departing.)</head> 
+
+<ab>[In manuscript: "Wiener Tagblatt" / Vienna, May 27th/90]</ab>
+
+<p>As announced by his multi-colored posters, Buffalo Bill and his "Wild West" company will be leaving Vienna<ref target="n01">1</ref> tomorrow, Thursday the 29th, to travel to Dresden. It will come as a surprise to some that his visit to our city should have been so brief; the truly original performances by the troupe had led to expectations that it would remain here for a good length of time, but in spite of this Buffalo Bill feels compelled to dismantle his wigwams already after barely twenty performances. The undertaking has not been met in Vienna with the acclaim and level of participation which it anticipated for itself. Accordingly, Buffalo Bill considers it advisable to leave Vienna earlier than expected. Prior to his arrival in Vienna, Buffalo Bill spent quite some time in Munich; in that city, his show was attended by an average of some five to six thousand spectators; in Vienna, on the other hand, the average attendance was not much greater than fifteen hundred. In addition, Buffalo Bill was faced here with exceptionally high running costs; the ground on which he presented his performances had been leased by him for a period of three months, in expectation of a lengthy stay; he has naturally been obliged to pay the total rent for the residual term of nearly two and a half months. His performances over the two-day public holiday period were particularly successful, but this has not permitted the management of the company to tarry longer in Vienna.</p>
+  
 </div1>
 </body>
 
 <back>
+  <note xml:id="n01">Buffalo Bill's Wild West performed in Vienna, Austria, May 8-29, 1890.</note>
 </back>
 </text>
 </TEI>
