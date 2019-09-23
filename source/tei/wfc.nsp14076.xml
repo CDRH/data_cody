@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp00000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp14076">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="de"></title>
-<title type="main" xml:lang="en"></title>
+  <title type="main" xml:lang="de">Bekanntmachung</title>
+  <title type="main" xml:lang="en">Notice</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
+  <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
 <respStmt>
 <resp>Transcribed and translated by</resp>
 <name></name>
@@ -39,7 +40,7 @@
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
 <idno type="module"></idno>
-<idno type="project">wfc.nsp00000</idno>
+  <idno type="project">wfc.nsp14076</idno>
 <availability>
 <p></p>
 </availability>
@@ -50,18 +51,18 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main" xml:lang="de"></title>
-<title level="a" type="sub" xml:lang="de"></title>
-<title level="a" type="main" xml:lang="en"></title>
-<title level="a" type="sub" xml:lang="en"></title>
-<title level="j"></title>
-<date when="1800"></date>
+  <title level="a" type="main" xml:lang="de">Bekanntmachung</title>
+  <title level="a" type="sub" xml:lang="de">Den Wagenverkehr am Festplatze w&#228;hrend der Vorstellungen der Buffalo&#8211;Bill&#8211;&#8211;Indianer&#8211;Truppe betreffend.</title>
+  <title level="a" type="main" xml:lang="en">Notice</title>
+  <title level="a" type="sub" xml:lang="en">concerning the movement of vehicles in the showground during the performances by the Buffalo Bill Indian troupe</title>
+  <title level="j">Dresdner Journal (Dresden, Germany)</title>
+  <date when="1890-06-07">June 7, 1890</date>
 <extent></extent>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>McCracken Research Library</repository>
-<idno>MS</idno>
+  <idno>MS6.3776.01.02</idno>
 </msIdentifier>
 <msContents>
 <p></p>
@@ -116,13 +117,17 @@
 <term>European Tours</term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-<term></term>
+  <term>German language</term>
+  <term>Horse-drawn vehicles</term>
+  <term>Police</term>
+  <term>Right of way (Traffic regulations)</term>
+  <term>Traveling exhibitions</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="places">
-<term></term>
+  <term>Dresden (Germany)</term>
 </keywords>
 </textClass>
 
@@ -137,7 +142,10 @@
 </profileDesc>
 
 <revisionDesc>
-  <change when="2019"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2019"><name xml:id="alc">Cruz, Alexis.</name> Initial encoding</change>
+  <change><name>Benn, James H.</name>Translator</change>
+  <change><name>Roberts, Briana</name>Transciber</change>
+  <change><name>Clark, L.; Adams, Deb; Hanna S.; Hansard, William</name>Proofing Editors</change>
 
 </revisionDesc>
 </teiHeader>
@@ -147,11 +155,60 @@
 
 <div1 type="article" xml:lang="de">
 
-<pb facs="wfc.nsp00000.001"/>
+  <pb facs="wfc.nsp14076.001"/>
+
+  <head>Bekanntmachung,</head>
+  <head type="subhead">Den Wagenverkehr am Festplatze w&#228;hrend der Vorstellungen der Buffalo&#8211;Bill&#8211;&#8211;Indianer&#8211;Truppe betreffend.</head>
+  
+<p>W&#228;hrend der am 1. Juni dieses Jahres beginnenden Vorstellungen der Buffalo&#8211;Bill&#8211;&#8211;Indianer&#8211;Truppe auf dem am K&#246;niglichen Gro&#223;en Garten gelegenen, von der Pirnaischen Chauffee und der Lenn&#233;stra&#223;e begrenzten Ausstellungsplatze wird bez&#252;glich des Wagenverkehrs hiermit Folgendes bestimmt:
+  
+  1) Die Anfahrt der Wagen zum Festplatze hat ausschlie&#223;lich von der Grunaer Stra&#223;e her, die Abfahrt auf der Lenn&#233;stra&#223;e in der Richtung nach dem K&#246;niglichen Gro&#223;en Garten zu erfolgen. 
+  
+  2) Die Wagen d&#252;rfen auf das freie Feld bis unmittelbar an die Eing&#228;nge zum Festplatze nicht fahren; sie haben vielmehr die Fahrg&#228;ste auf der Lenn&#233;stra&#223;e an der Ecke des Festplatzes abzusetzen bez. aufzunehmen. 
+  
+  3) Bestellte Wagen haben sich l&#228;ngs der Pirnaischen Chauffee, unbestellte Wagen dagegen auf der &#246;stlichen Seite der Eliasstra&#223;e aufzustellen. 
+  
+  4) Den Weisungen der aufgestellten Gendarmerieposten ist unweigerlich Folge zu leisten. 
+  
+  Zuwiderhandlungen gegen diese Bestimmungen werden in Gem&#228;&#223;heit von &#267; 366,10 des Strafgesetzbuchs mit Geldstrafe bis zu 60 Mk. oder mit Haft bis zu 14 Tagen geahndet werden. 
+  
+  Dresden, den 28. Mai 1890. 
+  
+  K&#246;nigliche Polizei&#8211;Direction. 
+  U. Schwau&#223;. </p>
+
+</div1>  
+<div1 type="article" xml:lang="en"> 
+  <head>Notice</head>
+  <head type="subhead">concerning the movement of vehicles in the showground during the performances by the Buffalo Bill Indian troupe</head>
+  
+  <p>During the performances by the Buffalo Bill Indian troupe commencing on 1 June of this year, taking place in the exhibition area located in the Great Royal Garden and bordered by the Pirnaische Chaussee and the Lenn&#233;strasse, the following rules shall apply with regard to the movement of vehicles:
+  
+  (1) Vehicles may access the showground only via the Grunauer Strasse and may leave it only via the Lenn&#233;strasse in the direction of the Great Royal Garden.
+  
+  (2) Vehicles may not pass over the empty space leading directly to the entrances to the showground; instead, they must set down and pick up passengers on the Lenn&#233;strasse at the corner of the showground.
+  
+  (3) Vehicles that have been ordered in advance must line up along the Pirnaische Chaussee, whilst vehicles that have not been ordered in advance must line up on the eastern side of the Eliasstrasse.
+  
+  (4) Instructions and directions given by police officers on duty in the area must be followed without fail.
+  
+  Contraventions of these provisions will be punishable in accordance with section 366.10 of the Code of Criminal Law by the imposition of a penalty amounting to 60 marks or a sentence of up to 14 days' imprisonment.
+  
+  Dresden, 28 May 1890
+  
+  The Royal Police Directorate
+  
+  U. Schwanz</p>
+
+<ab>In manuscript at the foot of the document: "Dresdner Journal / Dresden
+June 7th/90"</ab>
+
 </div1>
+
 </body>
 
 <back>
+  <note xml:id="n01">Buffalo Bill's Wild West performed in Dresden, Germany, June 1-16, 1890.</note>
 </back>
 </text>
 </TEI>
