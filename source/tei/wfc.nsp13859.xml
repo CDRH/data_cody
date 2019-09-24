@@ -5,16 +5,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-  <title type="main" xml:lang="en">Untitled...The entertainment proper, which was yesterday... </title>
+  <title type="main" xml:lang="en">Untitled [The entertainment proper, which was yesterday]</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
   <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
-<respStmt>
-<resp>Transcribed and translated by</resp>
-<name></name>
-</respStmt>
 </titleStmt>
 <editionStmt>
 <edition>
@@ -50,41 +46,17 @@
 <sourceDesc>
 <bibl>
 <author></author>
-  <title level="a" type="main" xml:lang="en">Untitled...The entertainment proper, which was yesterday... </title>
-  <title level="j">Brighton Examiner (Brighton, England, UK; 1853-1896)</title>
+  <title level="a" type="main" xml:lang="en">Untitled [The entertainment proper, which was yesterday]</title>
+  <title level="j">Brighton Examiner</title>
+<pubPlace>Brighton, England, UK</pubPlace>
   <date when="1891-10-13">October 13, 1891</date>
 <extent></extent>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>McCracken Research Library</repository>
-<idno>MS</idno>
+<idno></idno>
 </msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
@@ -119,16 +91,16 @@
   <term>Band directors</term>
   <term>Bands (Music)</term>
   <term>Horse racing</term>
-  <term>Indians of North America</term>
+  <term>Indians of North America</term> 
+ <term>Mexicans</term>
   <term>Orator</term>
   <term>Sharpshooters</term>
-  <term>Star-spangled banner (Song)	</term>
+  <term>Star-spangled banner (Song)</term>
   <term>Targets (Shooting)</term>
   <term>Traveling exhibitions</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
   <term>Oakley, Annie, 1860-192</term>
-  <term>Mexicans</term>
   <term>Sweeney, William, 1856-1916</term>
   <term>Sitting Bull, 1831-1890</term>
 </keywords>
@@ -150,8 +122,8 @@
 
 <revisionDesc>
   <change when="2019"><name xml:id="alc">Cruz, Alexis</name> Initial encoding</change>
-  <change><name>Adams, Deb</name>Transcriber</change>
-<change><name>Hanna, S.; Adams, Deb; Hansard, William</name>Proofing Editors</change>
+  <change><name>Adams, Deb</name> Transcriber</change>
+<change><name>Hanna, S.; Adams, Deb; Hansard, William</name> Proofing Editors</change>
 </revisionDesc>
 </teiHeader>
 
@@ -161,10 +133,8 @@
 <div1 type="article" xml:lang="en">
 
   <pb facs="wfc.nsp13859.001"/>
-
-  <head>Untitled...The entertainment proper, which was yesterday...</head> 
   
-<p>The entertainment proper, which was yesterday afternoon witnessed by a very representative gathering, including the Mayor of Brighton (Mr Alderman S. H. Soper), The Chairman of the Hove Commissioners (Mr Woodruff), the Rev. Prebendary Peacey, Vicar of Hove, and other members of the Town Council and Hove Commissioners, is opened by the Cowboy Band, led by <persName xml:id="sweeney.w">Mr William Sweeney</persName>, who played an overture which included the "Star Spangled Banner;" and <persName xml:id="clifford.h">Mr Clifford</persName>, upon whom devolved the duties of lecturer, mounted a rostrum in the centre of the arena and prepared to introduce the various celebrities and to add a few other explanatory comments, these being conveyed in a tone of voice distinctly audible to those present. The first item on the programme was a grand processional review, introducing the several groups of individuals of which the camp is composed, the fine, stalwart figure of Buffalo Bill bringing up the rear, his appearance being the signal for a very cordial outburst of applause. A horse race between a Cowboy, a Mexican, and an Indian, on Spanish-Mexican horses, followed; and <persName xml:id="oakley.a">Miss Annie Oakley</persName>, who was designated by the late <persName xml:id="sitting.bull">Chief Sitting Bull</persName><!--LINK--> as Little Sure Shot, then gave a remarkable exhibition of her dexterity in the use of fire arms. Miss Oakley is a born markswoman, shooting with her being a passion from childhood, and the unerring aim with which she struck the balls thrown up from traps in rapid succession and fired at other objects in all sorts of difficult positions evoked hearty recognition. </p>
+<p>The entertainment proper, which was yesterday afternoon witnessed by a very representative gathering, including the Mayor of Brighton (Mr Alderman S. H. Soper), The Chairman of the Hove Commissioners (Mr Woodruff), the Rev. Prebendary Peacey, Vicar of Hove, and other members of the Town Council and Hove Commissioners, is opened by the Cowboy Band, led by <persName xml:id="sweeney.w">Mr William Sweeney</persName>, who played an overture which included the "Star Spangled Banner;" and <persName xml:id="clifford.h">Mr Clifford</persName>, upon whom devolved the duties of lecturer, mounted a rostrum in the centre of the arena and prepared to introduce the various celebrities and to add a few other explanatory comments, these being conveyed in a tone of voice distinctly audible to those present. The first item on the programme was a grand processional review, introducing the several groups of individuals of which the camp is composed, the fine, stalwart figure of Buffalo Bill bringing up the rear, his appearance being the signal for a very cordial outburst of applause. A horse race between a Cowboy, a Mexican, and an Indian, on Spanish-Mexican horses, followed; and <persName xml:id="oakley.a">Miss Annie Oakley</persName>, who was designated by the late <persName xml:id="sitting.bull">Chief Sitting Bull</persName> as Little Sure Shot, then gave a remarkable exhibition of her dexterity in the use of fire arms. Miss Oakley is a born markswoman, shooting with her being a passion from childhood, and the unerring aim with which she struck the balls thrown up from traps in rapid succession and fired at other objects in all sorts of difficult positions evoked hearty recognition. </p>
 
 </div1>
 </body>

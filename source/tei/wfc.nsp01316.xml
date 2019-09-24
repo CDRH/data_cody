@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01316.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.nsp01316">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -11,10 +11,6 @@
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
 <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
-<respStmt>
-<resp>Transcribed and translated by </resp>
-<name></name>
-</respStmt>
 </titleStmt>
 <editionStmt>
 <edition>
@@ -39,7 +35,7 @@
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 </address>
 <idno type="module"></idno>
-<idno type="project">wfc.nsp01316.001</idno>
+<idno type="project">wfc.nsp01316</idno>
 <availability>
 <p></p>
 </availability>
@@ -51,41 +47,12 @@
 <bibl>
 <author></author>
 <title level="a" type="main" xml:lang="en">Nate Salsbury's News</title>
-<title level="j">New York Times (New York, New York, USA; 1851-2006)</title>
+<title level="j">New York Times</title>
+<pubPlace>New York, New York, USA</pubPlace>
 <date when="1888-01-23">January 23, 1888</date>
 <extent></extent>
 </bibl>
-<msDesc>
-<msIdentifier>
-<repository>McCracken Research Library</repository>
-<idno>MS</idno>
-</msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
-</msDesc>
+
 
 </sourceDesc>
 </fileDesc>
@@ -118,10 +85,9 @@
 <term>Cowboys</term>
 <term>Indians of North America</term>
 <term>Passenger ships</term>
-<term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term> Salsbury, Nathan, 1846-1902</term>
+<term>Salsbury, Nathan, 1846-1902</term>
 <term>Irving, Henry, Sir, 1838-1905</term>
 <term>Léopold II, King of the Belgians, 1835-1909</term>
 <term>Frederick Augustus III, King of Saxony, 1865-1932</term>
@@ -148,8 +114,8 @@
 
 <revisionDesc>
 <change when="2019"><name xml:id="alc">Cruz, Alexis</name>Encoding</change>
-<change><name>Hanna, S.; Adams, Deb; Hansard, William </name>Proofing Editor</change>
-<change><name>Deb Adams</name>Transcriber</change>
+<change><name>Hanna, S.; Adams, Deb; Hansard, William </name>Proofing Editors</change>
+<change><name>Adams, Deb</name> Transcriber</change>
 </revisionDesc>
 </teiHeader>
 
@@ -166,8 +132,6 @@
 <p>Sturdy <persName xml:id="salsbury.n">Nate Salsbury</persName>, author, actor, manager, and ranch owner, and partner of Buffalo Bill in his Wild West Show, was among the passengers on the steamer City of Berlin, which arrived yesterday. He and his wife held an informal reception at the Westminster Hotel last evening, and chatted about their experiences abroad. Mr. Salsbury confirmed, with documentary proof, the favorable reports about the Wild West's success in England and emphatically denied several unpleasant cable messages that had been printed. In six months 2,785,000 persons went to see the Indians and cowboys and one day the actual attendance was 78,000 individuals. <persName xml:id="albert.edward">The Prince of Wales</persName>, the Kings of Saxony, Denmark, Greece, and Belgium, besides others of royal rank saw the exhibition together. "Ah!" said the Prince to Buffalo Bill on that eventful occasion, "I don't think you ever played to four Kings before, Mr. Cody." The Hon. William F. remarked blandly, "Right you are, Prince, it is the first time I ever held a royal flush." Mr. Salsbury said he wished to testify publicly to his sincere appreciation of the many kindnesses of <persName xml:id="irving.h">Henry Irving</persName>, and to remark incidentally that Mary Anderson had made a great hit on the other side. </p>
 
 <p>Messrs. Cody and Salsbury have under consideration offers to take the show to Paris for a season in 1889 and will decide definitely in less than two weeks. If satisfactory terms cannot be agreed upon the show will return to this city about May and arrangements will be made for another season here with a host of new attractions. Mr. Salsbury expects to remain in the city 10 days and will then visit his cattle ranch in Montana. If the Parisian engagement is made his plan will be changed and and he will return to England.</p>
-
-
 
 </div1>
 </body>

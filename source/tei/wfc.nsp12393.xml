@@ -5,16 +5,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="en">Untitled "Yesterday afternoon, Buffalo Bill, ... "</title>
+<title type="main" xml:lang="en">Untitled [Yesterday afternoon, Buffalo Bill]</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
 <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
-<respStmt>
-<resp>Transcribed and translated by</resp>
-<name></name>
-</respStmt>
 </titleStmt>
 <editionStmt>
 <edition>
@@ -50,9 +46,10 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main" xml:lang="en">Untitled "Yesterday afternoon, Buffalo Bill, ... "</title>
-<title level="j">Source: Weekly Times and Echo (London, England, 1885-)</title>
-<date when="1892-06-02">June 26, 1892</date>
+<title level="a" type="main" xml:lang="en">Untitled [Yesterday afternoon, Buffalo Bill]</title>
+<title level="j">Weekly Times and Echo</title>
+<pubPlace>London, England</pubPlace>
+<date when="1892-06-26">June 26, 1892</date>
 <extent></extent>
 </bibl>
 <msDesc>
@@ -63,28 +60,6 @@
 <msContents>
 <p></p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
@@ -118,10 +93,10 @@
 <term>Exhibitions</term>
 <term>Indians of North America</term>
 <term>Scrapbooks</term>
-</keywords>
-<keywords scheme="lcsh" n="people">
 <term>Cossacks</term>
 <term>Gauchos</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
 <term>Victoria, Queen of Great Britain, 1819-1901</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
@@ -142,19 +117,17 @@
 
 <revisionDesc>
 <change when="2019"><name xml:id="alc">Cruz, Alexis</name> Initial encoding</change>
-<change><name>Hanna, S.</name>Transcriber</change>
-<change><name>Adams, Deb; Hanna, S.; Hansard, William</name>Proffing Editors</change>
+<change><name>Hanna, S.</name> Transcriber</change>
+<change><name>Adams, Deb; Hanna, S.; Hansard, William</name> Proofing Editors</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 <body>
 
-<div1 type="article" xml:lang="de">
+<div1 type="article" xml:lang="en">
 
 <pb facs="wfc.nsp12393.001"/>
-
-<head>Untitled "Yesterday afternoon, Buffalo Bill, ... "</head>
 
 <p>YESTERDAY afternoon, Buffalo Bill, with his Cossacks, Gauchos, Cowboys, Indians, and their horses arrived at Windsor and gave a performance before <persName xml:id="victoria.q">the Queen</persName> and other members of the Royal Family on the spacious lawn fronting the east terrace of Windsor Castle. After the performance the troupe left for London by special train.</p>
 

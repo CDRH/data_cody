@@ -5,16 +5,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="en"> Interviews with Notorious People.</title>
+<title type="main" xml:lang="en">Interviews with Notorious People</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
 <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
-<respStmt>
-<resp>Transcribed and translated by</resp>
-<name></name>
-</respStmt>
+
 </titleStmt>
 <editionStmt>
 <edition>
@@ -45,13 +42,14 @@
 </availability>
 </publicationStmt>
 
-<notesStmt><note><!-- Notes: Satirical newspaper article possibly aimed at Buffalo Bill and Buffalo Bill's Wild West. The only mention of Buffalo Bill is in the last paragraph.  --></note></notesStmt>
+<notesStmt><note>Notes: Satirical newspaper article possibly aimed at Buffalo Bill and Buffalo Bill's Wild West. The only mention of Buffalo Bill is in the last paragraph.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
 <author></author>
 <title level="a" type="main" xml:lang="en"> Interviews with Notorious People.</title>
-<title level="j"><i>Life</i> (New York, New York, USA; 1883-1936)</title>
+<title level="j">Life</title>
+<pubPlace>New York, New York, USA</pubPlace>
 <date when="1892-06-04">June 4, 1892</date>
 <extent></extent>
 </bibl>
@@ -63,28 +61,7 @@
 <msContents>
 <p></p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
@@ -125,13 +102,13 @@
 <term>Cocktails</term>
 <term>Exhibitions</term>
 <term>Mustang</term>
+<term>Sioux Nation</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term>Band of the Grenadier Guards (Great Britain)</term>
 <term>Godfrey, Dan. (Daniel), 1831-1903</term>
 <term>Leo XIII, Pope, 1810-1903</term>
 <term>William II, German Emperor, 1859-1941</term>
-<term>Sioux Nation</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>Berlin (Germany)</term>
@@ -153,8 +130,8 @@
 
 <revisionDesc>
 <change when="2019"><name xml:id="alc">Cruz, Alexis</name> Initial encoding</change>
-<change><name>Hanna, S.</name>Transciber</change>
-<change><name>Hanna, S.; Adams, Deb, Hansard, William</name>Proofing Editors</change>
+<change><name>Hanna, S.</name> Transciber</change>
+<change><name>Hanna, S.; Adams, Deb, Hansard, William</name> Proofing Editors</change>
 </revisionDesc>
 </teiHeader>
 
@@ -177,16 +154,16 @@
 
 <p>"Well, stranger," asks your host, with the accent on the "ger," handing you a cigar, "and what can I do for you?"
 You ask for a little time in which to recover your breath, to whicb he concurs, and, recommending you to "sit tight," digs his spurs into the spirited beast that bears your double weight, and you find yourself careering round the arena at a rapid rate, while the Colonel hums to you the ditties of his native land
-"I guess I'll have wine, said Mary;
-You'd best guess again, said John;
-I guess I'll have wine, said Mary;
-But she'd nothing but beer from John."</p>
+<lg><l>"I guess I'll have wine, said Mary;</l>
+<l>You'd best guess again, said John;</l>
+<l>I guess I'll have wine, said Mary;</l>
+<l>But she'd nothing but beer from John."</l></lg></p>
 
 <p>You interrupt your host to ask him how he came by the name of Prairie-Oyster Pete.
 "Because I've captured so many of the succulent little chaps in my time," he replies. "Out in Nevada there are bars full of them. Bars full," he continues, reflectively, "of Prairie-Oysters and Cocktails. Do you know the Cocktail? Ah! noble game, noble game. I've got some specimens here that we can have a look at presently. Sit tight there!" and as again he urges on his wild career, he bursts forth once more into song;
 
-"I take my cocktail in the mo-orning,
-I take my cocktail in the day!"</p>
+<lg><l>"I take my cocktail in the mo-orning,</l>
+<l>I take my cocktail in the day!"</l></lg></p>
 
 <p>"You have a number of Indians over with you again this summer," you suggest.
 
@@ -197,14 +174,14 @@ I take my cocktail in the day!"</p>
 
 "Rather" (with the accent on the "ther"), "I've shown my circus at Rome before the Pope of Rome, and at Constantinople before the Sultan of Constantinople, and at Berlin before the Emperor of Berlin, but give me London&#8212;sit tight there!&#8212;and Regent-street." And humming gently to himself&#8212;
 
-"For its O, my little Regent-street,
-Regent-street, Regent-street
-O, my little Regent-street,
-Regent-street, O!
-There's the Strand and Piccadilly,
-Oxford-street and Leicester-square,
-But, give me my little Regent-street,
-Regent-street, O!"
+<lg><l>"For its O, my little Regent-street,</l>
+<l>Regent-street, Regent-street</l>
+<l>O, my little Regent-street,</l>
+<l>Regent-street, O!</l>
+<l>There's the Strand and Piccadilly,</l>
+<l>Oxford-street and Leicester-square,</l>
+<l>But, give me my little Regent-street,</l>
+<l>Regent-street, O!"</l></lg>
 
 he dashes you up to a huge Wild West bar, at the sight of which the snorting mustang rears itself on to its haunches, and slides you both gently but firmly off its back.
 

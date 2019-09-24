@@ -11,10 +11,6 @@
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
 <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
-<respStmt>
-<resp>Transcribed and translated by</resp>
-<name></name>
-</respStmt>
 </titleStmt>
 <editionStmt>
 <edition>
@@ -54,41 +50,12 @@
 <bibl>
 <author></author>
 <title level="a" type="main" xml:lang="en">Our William in Germany</title>
-<title level="j">Omaha Daily Bee (Omaha, Nebraska, USA; 187?-1922)</title>
+<title level="j">Omaha Daily Bee</title>
+<pubPlace>Omaha, Nebraska, USA</pubPlace>
 <date when="1890-10-15">October 15, 1890</date>
 <extent></extent>
 </bibl>
-<msDesc>
-<msIdentifier>
-<repository>McCracken Research Library</repository>
-<idno>MS</idno>
-</msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
-</msDesc>
+
 
 </sourceDesc>
 </fileDesc>
@@ -141,9 +108,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019"><name xml:id="alc">Cruz, Alexis</name>Encoding</change>
-<change><name>Deb Adams</name>Transcriber</change>
-<change><name>Hanna, S.; Adams, Deb; Hansard, William </name>Proofing Editor</change>
+<change when="2019"><name xml:id="alc">Cruz, Alexis</name> Encoding</change>
+<change><name>Deb Adams</name> Transcriber</change>
+<change><name>Hanna, S.; Adams, Deb; Hansard, William </name> Proofing Editors</change>
 </revisionDesc>
 </teiHeader>
 
@@ -155,9 +122,9 @@
 <pb facs="wfc.nsp06607.001"/>
 
 <head>Our William in Germany.</head>
-<head type="subhead">[Copyrighted 1890 by James Gordon Bennett.]</head>
+<byline>[Copyrighted 1890 by James Gordon Bennett.]</byline>
 
-<p>STUTTGART, Oct. 14.&#8212;[New York Herald Cable&#8212;Special to THE BEE.]&#8212;Buffalo Bill's Wild West show boom in Germany still continues. All Stuttgart mace a fete of the opening here today,<ref target="no1">1</ref> which was attended by the court and many thousand of Wurtembergers, all of whom were delighted with the performance. <persName xml:id="burke.j">Genial Major John M. Burko</persName> tells the Herald correspondent that the management have punished one Indian by cutting down his rations to three pounds of meet a day and deprived him of ice cream and pudding for months. He was caught translating Tolstoi's Kreutzer Sonata to a squaw. This will probable be cabled to America as an in-instance of the hardships the noble red men are subjected to in Europe. </p>
+<p>STUTTGART, Oct. 14.&#8212;[New York Herald Cable&#8212;Special to THE BEE.]&#8212;Buffalo Bill's Wild West show boom in Germany still continues. All Stuttgart mace a fete of the opening here today,<ref target="n01">1</ref> which was attended by the court and many thousand of Wurtembergers, all of whom were delighted with the performance. <persName xml:id="burke.j">Genial Major John M. Burko</persName> tells the Herald correspondent that the management have punished one Indian by cutting down his rations to three pounds of meet a day and deprived him of ice cream and pudding for months. He was caught translating Tolstoi's Kreutzer Sonata to a squaw. This will probable be cabled to America as an in-instance of the hardships the noble red men are subjected to in Europe. </p>
 
 </div1>
 </body>

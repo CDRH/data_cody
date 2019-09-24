@@ -14,7 +14,8 @@
   <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
 <respStmt>
 <resp>Transcribed and translated by</resp>
-<name></name>
+<name>Benn, James H.</name>
+<name>Roberts, Briana</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -52,10 +53,11 @@
 <bibl>
 <author></author>
   <title level="a" type="main" xml:lang="de">Bekanntmachung</title>
-  <title level="a" type="sub" xml:lang="de">Den Wagenverkehr am Festplatze w&#228;hrend der Vorstellungen der Buffalo&#8211;Bill&#8211;&#8211;Indianer&#8211;Truppe betreffend.</title>
+  <title level="a" type="sub" xml:lang="de">Den Wagenverkehr am Festplatze w&#228;hrend der Vorstellungen der Buffalo&#8211;Bill&#8211;&#8211;Indianer&#8211;Truppe betreffend</title>
   <title level="a" type="main" xml:lang="en">Notice</title>
   <title level="a" type="sub" xml:lang="en">concerning the movement of vehicles in the showground during the performances by the Buffalo Bill Indian troupe</title>
-  <title level="j">Dresdner Journal (Dresden, Germany)</title>
+  <title level="j">Dresdner Journal</title>
+<pubPlace>Dresden, Germany</pubPlace>
   <date when="1890-06-07">June 7, 1890</date>
 <extent></extent>
 </bibl>
@@ -64,31 +66,7 @@
 <repository>McCracken Research Library</repository>
   <idno>MS6.3776.01.02</idno>
 </msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
@@ -143,9 +121,9 @@
 
 <revisionDesc>
   <change when="2019"><name xml:id="alc">Cruz, Alexis.</name> Initial encoding</change>
-  <change><name>Benn, James H.</name>Translator</change>
-  <change><name>Roberts, Briana</name>Transciber</change>
-  <change><name>Clark, L.; Adams, Deb; Hanna S.; Hansard, William</name>Proofing Editors</change>
+  <change><name>Benn, James H.</name> Translator</change>
+  <change><name>Roberts, Briana</name> Transciber</change>
+  <change><name>Clark, L.; Adams, Deb; Hanna S.; Hansard, William</name> Proofing Editors</change>
 
 </revisionDesc>
 </teiHeader>
@@ -200,7 +178,7 @@
   
   U. Schwanz</p>
 
-<ab>In manuscript at the foot of the document: "Dresdner Journal / Dresden
+<ab>"Dresdner Journal - Dresden
 June 7th/90"</ab>
 
 </div1>

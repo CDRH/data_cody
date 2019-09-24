@@ -14,7 +14,8 @@
 <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
 <respStmt>
 <resp>Transcribed and translated by</resp>
-<name></name>
+<name>Cruz, Alexis</name>
+<name>Benn, J.</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -53,41 +54,11 @@
 <author></author>
 <title level="a" type="main" xml:lang="it">Buffalo Bills</title>
 <title level="a" type="main" xml:lang="en">Buffalo Bills</title>
-<title level="j">L'Osservatore Romano (Rome, Italy)</title>
+<title level="j">L'Osservatore Romano</title>
+<pubPlace>Rome, Italy</pubPlace>
 <date when="1890-02-21">February 21, 1890</date>
 <extent></extent>
 </bibl>
-<msDesc>
-<msIdentifier>
-<repository>McCracken Research Library</repository>
-<idno>MS</idno>
-</msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
-</msDesc>
 
 </sourceDesc>
 </fileDesc>
@@ -169,10 +140,8 @@ Bills; il giorno avanti erano giunti 28 carri
 di attrezz e ireri stesso, alle 5, il gran, circo
 delle rappresentazioni, era gia in buona parte
 construcito.</p>
-<p>
-Oggi avrà laogo la prima rappresentazione,
-se il temp lo permetterà.
-</p>
+<p>Oggi avrà laogo la prima rappresentazione,
+se il temp lo permetterà.</p>
 <p>Il circo è posto nel gran prato che è al
 di là della caserma d egli allievi carbinieri,
 un po' troppo lontano, a dir vero, ma in un

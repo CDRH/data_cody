@@ -5,16 +5,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-  <title type="main" xml:lang="en">An Accident At The Wild West Show.</title>
+  <title type="main" xml:lang="en">An Accident At The Wild West Show</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
   <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
-<respStmt>
-<resp>Transcribed and translated by</resp>
-<name></name>
-</respStmt>
+
 </titleStmt>
 <editionStmt>
 <edition>
@@ -50,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <author></author>
-  <title level="a" type="main" xml:lang="en">An Accident At The Wild West Show.</title>
+  <title level="a" type="main" xml:lang="en">An Accident At The Wild West Show</title>
   <title level="j">Staffordshire Post</title>
   <date when="1891-09-04">September 4, 1891</date>
 <extent></extent>
@@ -58,33 +55,9 @@
 <msDesc>
 <msIdentifier>
 <repository>McCracken Research Library</repository>
-<idno>MS</idno>
+<idno></idno>
 </msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
@@ -113,7 +86,7 @@
 <term>European Tours</term>
 </keywords>
 <keywords scheme="lcsh" n="keywords">
-  <term>  Accidents</term>
+  <term>Accidents</term>
   <term>American woman</term>
   <term>Grandstands</term>
   <term>Sharpshooters</term>
@@ -146,13 +119,13 @@
 <text>
 <body>
 
-<div1 type="article" xml:lang="de">
+<div1 type="article" xml:lang="en">
 
   <pb facs="wfc.nsp13832.001"/>
 
 <head>AN ACCIDENT AT THE WILD WEST SHOW.</head>
   
-<p>On Friday afternoon a serious accident occurred at the Wild West Show at Trent Bridge. As <persName xml:id="oakley.a">Miss Annie Oakley</persName><!--LINK--> was commencing her performance in the arena, one of the stands collapsed, carrying a large number of people with it to the ground. The greatest excitement prevailed, it being feared that many had been badly injured, but fortunately the stand fell towards the rising, so that most of the occupants descended pretty easily to the ground. Miss Oakley's nerve and coolness saved a panic as she went through her performance without missing a shot.</p> 
+<p>On Friday afternoon a serious accident occurred at the Wild West Show at Trent Bridge. As <persName xml:id="oakley.a">Miss Annie Oakley</persName> was commencing her performance in the arena, one of the stands collapsed, carrying a large number of people with it to the ground. The greatest excitement prevailed, it being feared that many had been badly injured, but fortunately the stand fell towards the rising, so that most of the occupants descended pretty easily to the ground. Miss Oakley's nerve and coolness saved a panic as she went through her performance without missing a shot.</p> 
  
 
 </div1>

@@ -5,16 +5,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="en">The "Wild West" at Windsor.</title>
+<title type="main" xml:lang="en">The "Wild West" at Windsor</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
 <sponsor> This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
-<respStmt>
-<resp>Transcribed and translated by</resp>
-<name></name>
-</respStmt>
 </titleStmt>
 <editionStmt>
 <edition>
@@ -50,8 +46,9 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main" xml:lang="en">The "Wild West" at Windsor.</title>
-<title level="j">Daily News (London, England, 1846-1912)</title>
+<title level="a" type="main" xml:lang="en">The "Wild West" at Windsor</title>
+<title level="j">Daily News</title>
+<pubPlace>London, England</pubPlace>
 <date when="1892-06-27">June 27, 1892</date>
 <extent></extent>
 </bibl>
@@ -63,28 +60,6 @@
 <msContents>
 <p></p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
@@ -114,10 +89,15 @@
 </keywords>
 <keywords scheme="lcsh" n="keywords">
   <term>Indians of North America</term>
-  <term>Cowboys</term>
+  <term>Cowboys</term>  
+<term>Great Western Railway (Great Britain)</term>
   <term>Scouts</term>
   <term>Scrapbooks</term>
-  <term>Exhibitions</term>
+  <term>Exhibitions</term>  
+<term>Sioux Nation</term>
+  <term>Cossacks</term>
+  <term>Gauchos</term>
+  <term>Mexicans</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
   <term>Victoria, Queen of Great Britain, 1819-1901</term>
@@ -126,17 +106,12 @@
   <term>Henry Maurice, Prince of Battenberg, 1858-1896</term>
   <term>Ponsonby, Henry Frederick, Sir, 1825-1895</term>
   <term>Salsbury, Nathan, 1846-1902</term>
-  <term>Great Western Railway (Great Britain)</term>  
-  <term>Hampton Court (Richmond upon Thames, London, England)</term>
-  <term>Thames River (England)</term>
-  <term>Sioux Nation</term>
-  <term>Cossacks</term>
-  <term>Gauchos</term>
-  <term>Mexicans</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
   <term>Windsor Castle</term>
-  <term>London (England)</term>
+  <term>London (England)</term>  
+<term>Hampton Court (Richmond upon Thames, London, England)</term>
+  <term>Thames River (England)</term>
 </keywords>
 </textClass>
   
@@ -165,7 +140,7 @@
 
 <pb facs="wfc.nsp12406.001"/>
 
-<head> THE "WILD WEST" AT WINDSOR.</head>
+<head>THE "WILD WEST" AT WINDSOR.</head>
   
 <p><persName xml:id="victora.q">The Queen</persName> and Court were present on Saturday afternoon at a performance given by Colonel Cody's "Wild West" show at Windsor Castle. The entertainment took place upon the greensward in the Home Park, opposite the East Terrace, a picturesque spot once known as the "Prince's Recreation Ground," whereon her Majesty's children formerly played cricket, and which is now occasionally used for the Palace garden parties. An oval hippodrome, surrounded by hurdles, was formed upon the lawn, and near this was a spacious marquee, whose white canvas hangings were backed by the foliage of the Royal demesne, and the pleasant country that stretches away towards Hampton Court and Richmond, and affords one of the most charming prospects in the Thames Valley. The Royal pavilion, a tastefully-arranged tent, was erected at the middle of the gravelled promenade; it stood near the steps leading down into the sunk garden, and faced the arena, of which it commanded an excellent view. Several stately palms and choice flowering plants were disposed about its sides. The Queen, who left the Victoria Tower about five o'clock, drove in her pony carriage along the terrace to the pavilion, Princess Christian, Prince and Princess Henry of Battenberg and their children, Princess Victoria of Schleswig-Holstein, and the Princess of Leiningen assembling upon the promenade. At the same time General Sir Henry Ponsonby and Lady Ponsonby, the Countess of Antrim, Major-General Sir John Cowell and Lady Cowell, Major-General Sir John McNeill, Dr. Reid, the Hon. Miss Drummond, the Hon. Miss McNeill, the Hon. Miss Loftus, Colonel the Hon. W. Carington, Admiral Sir J. Commerell, Major Bigge, Colonel Clerk, the Dean of Windsor and Mrs. Eliot, and other gentlemen and ladies connected with the Court were present. The Queen had also very kindly allowed the palace and park servants and their families to see the performance, and these, lining the parapet to the south of the Royal pavilion, added considerably to the spectators. The show arrangements were supervised by Colonel Cody and <persName xml:id="burke.j">Major Burke</persName>, the manager, and <persName xml:id="salsbury.n">Mr. Salisbury</persName>,Mr. Dodson, Mr. Burneley, and Messrs. Parker and Contourier were also in attendance. The troupe, which comprised Cossacks, Mexicans, cowboys, scouts, Gauchos and Sioux Indians, about forty in number, and their horses were conveyed at her Majesty's expense by special Great Western train to Windsor, which was reached shortly before five. The advent of the "Wild West" show attracted many of the residents to the vicinity of the station, and the horsemen were heartily cheered as they rode through the crowded streets to the Castle. The performance commenced immediately after the Royal party had entered the pavilion, and lasted nearly an hour, concluding shortly before six o'clock. Colonel Cody before leaving the Castle was introduced by Sir H. Ponsonby to the Queen, who very graciously told him she had been extremely gratified with the marvellous horsemanship exhibited by his troupe, and that its performance was excellent in every way. The interview was the second which has been accorded by her Majesty to the proprietor of the "Wild West" Show.</p>
 

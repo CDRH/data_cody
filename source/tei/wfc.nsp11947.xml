@@ -5,8 +5,8 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="it">Untitled (illustration)</title>
-<title type="main" xml:lang="en">Untitled (illustration)</title>
+<title type="main" xml:lang="it">Untitled [Divertimenti del "Buffalo Bill"]</title>
+<title type="main" xml:lang="en">Untitled [Buffalo Bill Entertainment]</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -47,17 +47,18 @@
 </publicationStmt>
 
 <notesStmt>
-<note><!-- 
-Notes: Janet-Lange was a pseudonym for French painter, illustrator, historical-scenes painter, engraver and lithographer Ange-Louis Janet (1815-1872).
+<note>
+Janet-Lange was a pseudonym for French painter, illustrator, historical-scenes painter, engraver and lithographer Ange-Louis Janet (1815-1872).
 Charles Laplante (1873-1903) was a French wood engraver and illustrator.
-  --></note></notesStmt>
+</note></notesStmt>
 
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main" xml:lang="it">Untitled (illustration)</title>
-<title level="a" type="main" xml:lang="en">Untitled (illustration)</title>
-<title level="j">L'Illustrazione Popolare, Giornale Per Le Famiglie (Milan, Italy)</title>
+<title level="a" type="main" xml:lang="it">Untitled [Divertimenti del "Buffalo Bill"]</title>
+<title level="a" type="main" xml:lang="en">Untitled [Buffalo Bill Entertainment]</title>
+<title level="j">L'Illustrazione Popolare, Giornale Per Le Famiglie</title>
+<pubPlace>Milan, Italy</pubPlace>
 <date when="1890-03-09">March 9, 1890</date>
 <extent></extent>
 </bibl>
@@ -146,8 +147,8 @@ Charles Laplante (1873-1903) was a French wood engraver and illustrator.
 
 <revisionDesc>
 <change when="2019"><name xml:id="alc">Cruz.</name> Initial encoding</change>
-<change><name>Hanna, S.</name>Transciber</change>
-<change><name>Adams, Deb; Hanna, S.; Hansard, William</name>Proofreading Editors</change>
+<change><name>Hanna, S.</name> Transciber</change>
+<change><name>Adams, Deb; Hanna, S.; Hansard, William</name> Proofreading Editors</change>
 </revisionDesc>
 </teiHeader>
 

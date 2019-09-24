@@ -5,16 +5,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="en">From the Holy City / A Larimer County Cowboy's Impression of Rome&#8212;Buffalo Bill's Show.</title>
+<title type="main" xml:lang="en">From the Holy City</title>
+<title type="sub" xml:lang="en">A Larimer County Cowboy's Impression of Rome&#8212;Buffalo Bill's Show.</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
 <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
-<respStmt>
-<resp>Transcribed and translated by</resp>
-<name></name>
-</respStmt>
+
 </titleStmt>
 <editionStmt>
 <edition>
@@ -50,42 +48,14 @@
 <sourceDesc>
 <bibl>
 <author></author>
-<title level="a" type="main" xml:lang="en">From the Holy City / A Larimer County Cowboy's Impression of Rome&#8212;Buffalo Bill's Show.</title>
-<title level="j">Fort Collins Courier (Fort Collins, Colorado, USA; 1859-1923)</title>
+<title level="a" type="main" xml:lang="en">From the Holy City</title>
+<title level="a" type="sub" xml:lang="en">A Larimer County Cowboy's Impression of Rome&#8212;Buffalo Bill's Show.</title>
+<title level="j">Fort Collins Courier</title>
+<pubPlace>Fort Collins, Colorado, USA</pubPlace>
 <date when="1890-03-20">March 20, 1890</date>
 <extent></extent>
 </bibl>
-<msDesc>
-<msIdentifier>
-<repository>McCracken Research Library</repository>
-<idno>MS</idno>
-</msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
-</msDesc>
+
 
 </sourceDesc>
 </fileDesc>
@@ -142,9 +112,9 @@
 </profileDesc>
 
 <revisionDesc>
-  <change when="2019"><name xml:id="alc">Cruz, Alexis</name>encoding</change>
-<change><name>Adams, Deb</name>Transcriber</change>
-<change><name>Hanna, S.; Adams, Deb; Hansard, William</name>Proofing Editors</change>
+  <change when="2019"><name xml:id="alc">Cruz, Alexis</name> encoding</change>
+<change><name>Adams, Deb</name> Transcriber</change>
+<change><name>Hanna, S.; Adams, Deb; Hansard, William</name> Proofing Editors</change>
 </revisionDesc>
 </teiHeader>
 

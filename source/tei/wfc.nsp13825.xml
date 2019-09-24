@@ -5,16 +5,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-  <title type="main" xml:lang="en">The Wild West At Stoke.</title>
+  <title type="main" xml:lang="en">The Wild West At Stoke</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
 <principal>Seefeldt, Douglas, 1964-</principal>
   <sponsor>This project is supported in part by a grant from the National Endowment for the Humanities and by the Geraldine W. &amp; Robert J. Dellenback Foundation.</sponsor>
-<respStmt>
-<resp>Transcribed and translated by</resp>
-<name></name>
-</respStmt>
 </titleStmt>
 <editionStmt>
 <edition>
@@ -50,43 +46,14 @@
 <sourceDesc>
 <bibl>
 <author></author>
-  <title level="a" type="main" xml:lang="en">The Wild West At Stoke.</title>
-  <title level="a" type="sub" xml:lang="en">Yesterday's Performances.</title>
-  <title level="j">Staffordshire Sentinel (Stoke-on-Trent, Staffordshire, England, UK; 1873-1939) </title>
+  <title level="a" type="main" xml:lang="en">The Wild West At Stoke</title>
+  <title level="a" type="sub" xml:lang="en">Yesterday's Performances</title>
+  <title level="j">Staffordshire Sentinel</title>
+<pubPlace>Stoke-on-Trent, Staffordshire, England, UK</pubPlace>
   <date when="1891-08-18">August 18, 1891</date>
 <extent></extent>
 </bibl>
-<msDesc>
-<msIdentifier>
-<repository>McCracken Research Library</repository>
-<idno>MS</idno>
-</msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
-</msDesc>
+
 
 </sourceDesc>
 </fileDesc>
@@ -151,7 +118,7 @@
 <text>
 <body>
 
-<div1 type="article" xml:lang="de">
+<div1 type="article" xml:lang="en">
 
   <pb facs="wfc.nsp13825.001"/>
 
@@ -159,7 +126,7 @@
   
 <head type="subhead">YESTERDAY'S PERFORMANCES.</head>
   
-<p>General Cody and his staff say all manner of unkind things about our weather, and when rain began to fall yesterday just before the time for their first performance they accepted the state of things, unfortunate as it was, with quiet resignation. Buffalo Bill avers that he has only had two fine days during the whole of the present tour; but if the attendance yesterday, with such discouraging surroundings, may be taken as any criterion of the interest shown in the exhibition, the business during the week will be decidedly brisk. Nothwithstanding a persistent downpour, an audience assembled in numbers large enough to crowd the popular parts of the stands, and although with more favourable weather a better display might have been expected, the full programme was given, and all seemed intensely delighted. The shooting feats of <persName xml:id="oakley.a">Miss Annie Oakley</persName>, <persName>Mr. C. L. Daley</persName>, <persName>Johnnie Baker</persName>, and General Cody himself, created a great deal of enthusiasm, whilst the antics of the bucking horses, and the agility of the cowboys, caused considerable interest, as well as amusement. The attack on the Deadwood coach was performed in a manner quite realistic, and the concluding tableau, an attack by Indians upon a frontier man's cabin, gave all present a very true idea of what a pioneer's life was like a few years ago in the Far West. During the afternoon the Indian encampment was visited by thousands of interested spectators. </p>
+<p>General Cody and his staff say all manner of unkind things about our weather, and when rain began to fall yesterday just before the time for their first performance they accepted the state of things, unfortunate as it was, with quiet resignation. Buffalo Bill avers that he has only had two fine days during the whole of the present tour; but if the attendance yesterday, with such discouraging surroundings, may be taken as any criterion of the interest shown in the exhibition, the business during the week will be decidedly brisk. Nothwithstanding a persistent downpour, an audience assembled in numbers large enough to crowd the popular parts of the stands, and although with more favourable weather a better display might have been expected, the full programme was given, and all seemed intensely delighted. The shooting feats of <persName xml:id="oakley.a">Miss Annie Oakley</persName>, <persName xml:id="daly.c">Mr. C. L. Daley</persName>, <persName xml:id="baker.l">Johnnie Baker</persName>, and General Cody himself, created a great deal of enthusiasm, whilst the antics of the bucking horses, and the agility of the cowboys, caused considerable interest, as well as amusement. The attack on the Deadwood coach was performed in a manner quite realistic, and the concluding tableau, an attack by Indians upon a frontier man's cabin, gave all present a very true idea of what a pioneer's life was like a few years ago in the Far West. During the afternoon the Indian encampment was visited by thousands of interested spectators. </p>
   
 <p>For the evening performance the ground was lit up by Wells' patent lights. Unfortunately the wet and boisterous weather prevented the public from gaining an accurate idea as to the capabilities of such a method of lighting, and must have rendered the performance, especially the shooting, a matter of some considerable difficulty. Nevertheless, there was a large attendance of spectators, and the programme was gone through without a hitch. General Cody was loudily cheered when he made his parting bow. The performance will be repeated during the week at 3 p.m. and 8 p.m. each day. </p>
   
