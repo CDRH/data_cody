@@ -112,8 +112,8 @@
 
 
  <person xml:id="albert.edward">
-<persName type="display" subtype="viaf" key="http://viaf.org/viaf/316401971">Albert Edward, Prince of Wales, 1841-1910</persName>
-<persName type="viaf" subtype="viaf" key="http://viaf.org/viaf/265340794">Edward VII, King of Great Britain, 1841-1910</persName>
+<!-- <persName type="viaf" subtype="viaf" key="http://viaf.org/viaf/316401971">Albert Edward, Prince of Wales, 1841-1910</persName>-->
+<persName type="display" subtype="viaf" key="http://viaf.org/viaf/265340794">Edward VII, King of Great Britain, 1841-1910</persName>
 <birth when="1841">1841</birth>
 <death when="1910">1910</death>
 <sex>male</sex>
@@ -121,8 +121,8 @@
 </person>
 
 <person xml:id="alexandra.denmark">
-<persName type="display">Alexandra of Denmark, Princess of Wales, 1844-1925</persName>
-<persName type="viaf" subtype="viaf" key="http://viaf.org/viaf/268757034">Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</persName>
+<!-- <persName type="display">Alexandra of Denmark, Princess of Wales, 1844-1925</persName>-->
+<persName type="display" subtype="viaf" key="http://viaf.org/viaf/268757034">Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</persName>
 <birth when="1844">1844</birth>
 <death when="1925">1925</death>
 <sex>female</sex>
@@ -654,13 +654,12 @@
 </person>
 
 <person xml:id="smith.l">
-<persName type="display" subtype="notlcsh">Smith, Lillian Francis, 1871-1930</persName>
-<persName type="full"><surname>Smith</surname>, <forename type="first">Lillian</forename> <forename type="first">Francis</forename></persName>
+<persName type="display" subtype="notlcsh">Smith, Lillian Frances, 1871-1930</persName>
+<persName type="full"><surname>Smith</surname>, <forename type="first">Lillian</forename> <forename type="first">Frances</forename></persName>
 <birth when="1871">1871</birth>
 <death when="1930">1930</death>
 <sex>female</sex>
-
-<note>In 1886 at age 15, Lillian Francis Smith (1871-1930) joined Buffalo Bill's Wild West as a headliner, billed as "The California Huntress and Champion Girl Rifle Shot." Smith married cowboy and fellow performer James "Jim Kid" Willoughby in early 1887. She performed in England in 1887-88 and in the U.S. during 1888. Smith and Willoughby’s marriage ended when Smith and another cowboy performer left the tour prior to the opening in France in 1889. Following her departure from Buffalo Bill's Wild West, Smith performed with other Wild West shows, including Pawnee Bill's. Smith performed with Miller Brothers and Arlington 101 Ranch Real Wild West, headlining as Princess Wenona until she retired in 1920. Several of her shooting records have never been surpassed.</note>
+<note>In 1886 at age 15, Lillian Frances Smith (1871-1930) joined Buffalo Bill's Wild West as a headliner, billed as "The California Huntress and Champion Girl Rifle Shot." Smith married cowboy and fellow performer James "Jim Kid" Willoughby in early 1887. She performed in England in 1887-88 and in the U.S. during 1888. Smith and Willoughby’s marriage ended when Smith and another cowboy performer left the tour prior to the opening in France in 1889. Following her departure from Buffalo Bill's Wild West, Smith performed with other Wild West shows, including Pawnee Bill's. Smith performed with Miller Brothers and Arlington 101 Ranch Real Wild West, headlining as Princess Wenona until she retired in 1920. Several of her shooting records have never been surpassed.</note>
 </person>
 
 <person xml:id="oakley.a">
@@ -772,12 +771,11 @@
 </person>
 
 <person xml:id="goodman.e">
-<persName type="display" subtype="notlcsh">Goodman, Edward R., 1868-1949</persName>
-<persName type="full"><surname>Goodman</surname>, <forename type="first">Edward</forename> <forename type="middle" full="init">R.</forename></persName>
+<persName type="display" subtype="notlcsh">Goodman, Edward Robert, 1868-1949</persName>
+<persName type="full"><surname>Goodman</surname>, <forename type="first">Edward</forename> <forename type="middle" full="init">Robert</forename></persName>
 <birth when="1868">1868</birth>
 <death when="1949">1949</death>
 <sex>male</sex>
-
 <note>Edward R. Goodman, 1868-1949, was Cody's nephew and son of Julia Cody Goodman and James Alvin Goodman. During 1896 Goodman was appointed postmaster in Cody, Wyoming; he was also Cody's "man on the scene" during the construction of the Cody Canal, making regular reports to Cody on the progress of the irrigation project.</note>
 </person>
 
@@ -861,12 +859,11 @@
 </person>
 
 <person xml:id="hayden.c">
-<persName type="display" subtype="lcsh">Hayden, Charles E.</persName>
+<persName type="display" subtype="lcsh">Hayden, Charles E., 1866-1938</persName>
 <persName><surname>Hayden</surname>, <forename type="first">Charles</forename> <forename type="middle" full="init">Emory</forename></persName>
 <birth when="1866">1866</birth>
 <death when="1938">1938</death>
 <sex>male</sex>
-
 <note>Charles Emory Hayden (1866-1938) was hired to survey the Cody, Wyoming, town site, which was south of the Shoshone River near the DeMaris sulphur springs. Hayden was the surveyor-assistant manager of Shoshone Irrigation Company.  Over the next several years Hayden was hired by William F. Cody to survey other parcels and sections, including oil and placer claims south of Cody, Wyoming.</note>
 </person>
 
@@ -914,7 +911,7 @@
 
 
 <person xml:id="rumsey.b">
-<persName type="display" subtype="notlcsh">Rumsey, Bronson,  II, 1854-1946</persName>
+<persName type="display" subtype="notlcsh">Rumsey, Bronson, II, 1854-1946</persName>
 <persName type="full"><surname>Rumsey</surname>, <forename type="first">Bronson</forename> <genName>II</genName></persName>
 <birth when="1854">1854</birth>
 <death when="1946">1946</death>
@@ -1205,12 +1202,11 @@
 
 
 <person xml:id="moses.m">
-<persName type="display" subtype="notlcsh">Moses, Mollie, c. 1840-</persName>
+<persName type="display" subtype="notlcsh">Moses, Mollie</persName>
 <persName type="full"><surname type="married">Moses</surname>, <forename type="first">Mollie</forename> <surname type="maiden">Payne</surname></persName>
 <birth when="1840">c. 1840</birth>
 <death></death>
 <sex>female</sex>
-
 <note>Mollie Moses (born c. 1840) resided in Morganfield, Kentucky, for most of her life. Known as Mollie Payne at birth, she had been married twice by the time William F. Cody made her acquaintance in 1884. The 1880 federal census lists her marital status as "divorced," while the 1900 census lists her as "widowed."  The surviving correspondence between Cody and Moses indicates that the two formed a romantic attachment between 1884 and 1886. Cody gave Moses a fine set of riding equipment and invited her to a rendezvous in St. Louis at the beginning of the Wild West's 1886 season.  The relationship apparently did not endure.  Moses returned to Morganfield, where she was reported to have fallen into dire poverty by the end of her life.</note>
 </person>
  
