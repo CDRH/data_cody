@@ -48,7 +48,7 @@
                     <title level="a" type="main">Wild West Now in the Movies</title>
                     <title level="j" type="main">Aberdeen Daily News</title>
                     <date when="1913-08-22">August 22, 1913</date>
-                    <extent> pages</extent>
+
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -105,7 +105,7 @@
                     <term>Newspapers</term>
                 </keywords>
                 <keywords scheme="original" n="topic">
-                    <term></term>
+                    <term>Buffalo Bill on Film</term>
                 </keywords>
                 <keywords scheme="lcsh" n="keywords">
                     <term></term>
