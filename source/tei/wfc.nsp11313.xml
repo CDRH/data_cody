@@ -48,7 +48,7 @@
                     <title level="a" type="main">At the Movies</title>
                     <title level="j" type="main">The Morning Olympian</title>
                     <date when="1917-03-29">March 29, 1917</date>
-                    <extent> pages</extent>
+                    <extent></extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -62,7 +62,7 @@
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent> pages
+                                <extent> 
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -105,7 +105,7 @@
                     <term>Newspapers</term>
                 </keywords>
                 <keywords scheme="original" n="topic">
-                    <term></term>
+                    <term>Buffalo Bill on Film</term>
                 </keywords>
                 <keywords scheme="lcsh" n="keywords">
                     <term>Essanay Film Manufacturing Company</term>

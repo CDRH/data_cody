@@ -48,7 +48,7 @@
                     <title level="a" type="main">The Theaters</title>
                     <title level="j" type="main">The Lexington Herald</title>
                     <date when="1917-03-10">March 10, 1917</date>
-                    <extent> pages</extent>
+                    <extent></extent>
                 </bibl>
                 <msDesc>
                     <msIdentifier>
@@ -56,13 +56,13 @@
                         <idno></idno>
                     </msIdentifier>
                     <msContents>
-                        <p> type-written pages</p>
+                        <p></p>
                     </msContents>
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support></support>
-                                <extent> pages
+                                <extent> 
                                     <dimensions unit="mm"><height></height><width></width></dimensions>
                                 </extent>
                                 <condition>
@@ -105,7 +105,7 @@
                     <term>Newspapers</term>
                 </keywords>
                 <keywords scheme="original" n="topic">
-                    <term></term>
+                    <term>Buffalo Bill on Film</term>
                 </keywords>
                 <keywords scheme="lcsh" n="keywords">
                     <term></term>
