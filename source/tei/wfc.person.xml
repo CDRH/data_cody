@@ -130,7 +130,7 @@
 </person>
  
 <person xml:id="american.horse">
-<persName type="display">American Horse (Wasechun-Tashunka)</persName>
+<persName type="display">American Horse, Dakota Chief, 1840-1908</persName>
 <birth when="1840">1840</birth>
 <death when="1908">1908</death>
 <sex>male</sex>
@@ -505,7 +505,7 @@
 </person>
 
 <person xml:id="north.j">
-<persName type="display">North, Frank Joshua, 1840-1885</persName>
+<persName type="display">North, Frank J. (Frank Joshua), 1840-1885</persName>
 <persName type="full"><surname>North</surname>, <forename type="first">Frank</forename> <forename type="middle">Joshua</forename></persName>
 <birth when="1840">1840</birth>
 <death when="1885">1885</death>
@@ -537,7 +537,7 @@
 </person>
 
 <person xml:id="blackheart.w">
-<persName type="display">Black Heart</persName>
+<persName type="display">Black Heart (Oglala Sioux chief)</persName>
 <persName type="full"><surname>Black Heart</surname>, <forename type="first" full="yes">William</forename> <addName type="native">Cante Sapa</addName></persName>
 <birth when="1855">1855</birth>
 <death></death>
