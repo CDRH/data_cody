@@ -62,37 +62,7 @@
 <msContents>
 <p></p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm">
-<height/>
-<width/>
-</dimensions>
-</extent>
-<condition>
-<p/>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="wfc1" script="type" medium="type">
-<p>Media: </p>
-</handNote>
-</handDesc>
-<typeDesc>
-<typeNote>
-<p/>
-</typeNote>
-</typeDesc>
-</physDesc>
-<history>
-<origin/>
-<provenance/>
-<acquisition/>
-</history>
+
 </msDesc>
 
 </sourceDesc>
@@ -151,6 +121,7 @@
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term>Baker, Lewis H., 1869-1931</term>
+<term>Clifford, Henry Marsh</term>
 <term>Nelson, John Young, 1826-1903</term>
 <term>Oakley, Annie, 1860-1926</term>
 <term>Short Bull, -1915</term>
