@@ -999,7 +999,7 @@
 </person>
 
 <person xml:id="burdick.c">
-<persName type="display" subtype="lcsh">Burdick, Charles Williams, 1860-1927</persName>
+<persName type="display" subtype="lcsh">Burdick, Charles W. (Charles Williams), 1860-1927</persName>
 <persName type="full"><surname>Burdick</surname>, <forename type="first">Charles</forename> <forename type="middle" full="yes">Williams</forename></persName>
 <birth when="1860">1860</birth>
 <death when="1927">1927</death>
@@ -1448,7 +1448,7 @@
 
 
 <person xml:id="carr.e">
-<persName type="display" subtype="viaf" key="http://viaf.org/viaf/18022899">Carr, Eugene A. 1830-1910</persName>
+<persName type="display" subtype="viaf" key="http://viaf.org/viaf/18022899">Carr, E. A. (Eugene Asa), 1830-1910</persName>
 <persName type="full"><surname>Carr</surname> <forename type="first">Eugene</forename> <forename type="middle">Asa</forename></persName>
 <birth when="1830">1830</birth>
 <death when="1910">1910</death>
