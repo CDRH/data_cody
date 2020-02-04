@@ -62,46 +62,11 @@
 <repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
 <idno>MS6.3776.08.02 (German Scrapbook)</idno>
 </msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -133,6 +98,7 @@
 <term>Traveling exhibitions</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
+<term>Daly, Claude Lorraine</term>
 <term>Oakley, Annie, 1860-1926</term>
 <term>Taylor, William Levi, 1857-1924</term>
 </keywords>

@@ -66,43 +66,13 @@
 <msContents>
 <p></p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
+
 
 <profileDesc>
 <textClass>
@@ -119,7 +89,7 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Daly, Claude Lorraine</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>

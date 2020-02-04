@@ -68,43 +68,13 @@
 <msContents>
 <p></p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
+
 
 <profileDesc>
 <langUsage>
@@ -157,6 +127,7 @@
 <term>Burke, John M., 1842-1917</term>
 <term>Carver, William F. (William Frank), 1840-1927</term>
 <term>Cronau, Rudolf, 1855-1939</term>
+<term>Daly, Claude Lorraine</term>
 <term>Henckel, Charles, 1862-</term>
 <term>Nelson, John Young, 1826-1903</term>
 <term>Oakley, Annie, 1860-1926</term>

@@ -58,45 +58,12 @@
 <repository>MS6, William F. Cody Collection, Buffalo Bill Center of the West</repository>
 <idno>MS6.8038</idno>
 </msIdentifier>
-<msContents>
-<p></p></msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm">
-<height/>
-<width/>
-</dimensions>
-</extent>
-<condition><p/></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type">
-<p></p></handNote>
-</handDesc>
-<typeDesc><typeNote><p/></typeNote></typeDesc>
-</physDesc><history><origin/><provenance/>
-<acquisition/>
-</history>
 
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -113,7 +80,8 @@
 <term></term>
 </keywords>
 <keywords scheme="lcsh" n="people">
-<term></term>
+<term>Daly, Claude Lorraine</term>
+<term>Duncan, Thomas</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>

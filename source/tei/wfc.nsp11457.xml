@@ -63,52 +63,11 @@
 <msContents>
 <p></p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm">
-<height/>
-<width/>
-</dimensions>
-</extent>
-<condition>
-<p/>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="wfc1" script="type" medium="type">
-<p>Media:</p>
-</handNote>
-</handDesc>
-<typeDesc>
-<typeNote>
-<p/>
-</typeNote>
-</typeDesc>
-</physDesc>
-<history>
-<origin/>
-<provenance/>
-<acquisition/>
-</history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -138,6 +97,8 @@
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term>Baker, Lewis H., 1869-1931</term>
+<term>Daly, Claude Lorraine</term>
+<term>Ferrel, Della</term>
 <term>Luitpold, Prince Regent of Bavaria, 1821-1912</term>
 <term>Oakley, Annie, 1860-1926</term>
 <term>Twain, Mark, 1835-1910</term>

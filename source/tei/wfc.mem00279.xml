@@ -78,11 +78,6 @@
 </condition>
 </supportDesc>
 </objectDesc>
-<handDesc hands="1">
-<handNote xml:id="wfc1" script="type" medium="type">
-<p>Media: </p>
-</handNote>
-</handDesc>
 <typeDesc>
 <typeNote>
 <p/>
@@ -90,25 +85,14 @@
 </typeDesc>
 </physDesc>
 <history>
-<origin/>
-<provenance/>
-<acquisition/>
+
 </history>
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
+
 
 <profileDesc>
 <textClass>
@@ -126,6 +110,8 @@
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term>Augur, Christopher Columbus, 1821-1898</term>
+<term>Daly, Claude Lorraine</term>
+<term>Duncan, Thomas</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>

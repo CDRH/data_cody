@@ -67,45 +67,11 @@
 <repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
 <idno>MS327.01.33, James Wojtowicz Collection</idno>
 </msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm"><height></height><width></width></dimensions>
-</extent>
-<condition>
-<p></p></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type"><p></p></handNote>
-</handDesc>
-<typeDesc>
-<typeNote><p></p></typeNote>
-</typeDesc>
-</physDesc>
-<history><origin></origin>
-<provenance></provenance>
-<acquisition></acquisition>
-</history>
+
 </msDesc>
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -139,6 +105,8 @@
 <keywords scheme="lcsh" n="people">
 <term>Baker, Lewis H., 1869-1931</term>
 <term>Burke, John M., 1842-1917</term>
+<term>Daly, Claude Lorraine</term>
+<term>Duncan, Thomas</term>
 <term>Oakley, Annie, 1860-1926</term>
 <term>Red Shirt, 1845?-1925</term>
 <term>Salsbury, Nathan, 1846-1902</term>
@@ -299,7 +267,7 @@ l'hostilité et la férocité que les tribus indiennes opposaient aux empiéteme
 
 <p>Habitué des l'enfance à monter à cheval, à se servir des armes à feu W. Cody, tout jeune encore, devint un célèbre cavalier porteur de dépêches par poney, ce qui constituait à cette époque la plus périlleuse des missions dans la plaine. On le savait absolument sans crainte, surtout à cause de son jeune âge, et toujours prêt à accepter les missions les plus dangereuses; aussi était-il respecté, même par les hommes employés dans le service des express-dépêches, tels que Old Jule et le terrible Slade, dont la fin correcte est véridique ment racontée dans le roman de Mark Twain, intitulé « Roughing it » (A la dure).</p>
 
-<p>Il accompagna le général Albert Sydney Johnston dans son expédition d'Utah, servit de guide à des convois d'émigrants, chassa pour vivre, et mérita son sobriquet en enlevant les lauriers aux mains de ses concurrents, notamment de Comstock, comme chasseur de buffles: dans un concours de chasse où il tua soixante-neuf buffles en un jour, tandis que Comstock n'en abattait que quarante-six. — Il devint éclaireur et guide du cinquième régiment de cavalerie, devenu si célèbre (alors commandé par le général <persName xml:id="carr.e">E. A. Carr</persName>.) et s'identifia intimement à l'histoire de ce régiment dans l'Ouest. — Choisi bientôt par la Cie du chemin de fer Kansas-Pacifique pour fournir la viande aux terrassiers occupés à construire cette voie, il tua en une seule saison 4,862 buffles, sans compter les cerfs et les antilopes. Il fut aussi le chef des éclaireurs chargés de protéger la construction de la ligne Union-Pacifique.</p>
+<p>Il accompagna le général Albert Sydney Johnston dans son expédition d'Utah, servit de guide à des convois d'émigrants, chassa pour vivre, et mérita son sobriquet en enlevant les lauriers aux mains de ses concurrents, notamment de Comstock, comme chasseur de buffles: dans un concours de chasse où il tua soixante-neuf buffles en un jour, tandis que Comstock n'en abattait que quarante-six. — Il devint éclaireur et guide du cinquième régiment de cavalerie, devenu si célèbre (alors commandé par le général E. A. Carr.) et s'identifia intimement à l'histoire de ce régiment dans l'Ouest. — Choisi bientôt par la Cie du chemin de fer Kansas-Pacifique pour fournir la viande aux terrassiers occupés à construire cette voie, il tua en une seule saison 4,862 buffles, sans compter les cerfs et les antilopes. Il fut aussi le chef des éclaireurs chargés de protéger la construction de la ligne Union-Pacifique.</p>
 
 <p>Dans ces divers services, ses rencontres avec les Peaux-Rouges furent innombrables, et toutes ont été constatées par les officiers militaires de chaque section du pays. De fait, partout où l'on rencontre un de ces officiers on trouve un fervent admirateur de Buffalo Bill. C'est en un mot le véritable type de l'homme de la frontière, il y a quelques années, c'est-à-dire, non le tapageur des bars ou le fanfaron des postes avancés, mais un spécimen authentique de la virilité de l'Ouest, un enfant des prairies où il fut élevé, familiarisé avec cette région avant l'établissement des voies ferrées, alors qu'on ne la connaissait sur les cartes que sous la dénomination de « Grand Désert américain. »</p>
 

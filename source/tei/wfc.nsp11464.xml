@@ -63,52 +63,13 @@
 <msContents>
 <p></p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm">
-<height/>
-<width/>
-</dimensions>
-</extent>
-<condition>
-<p/>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="wfc1" script="type" medium="type">
-<p>Media: </p>
-</handNote>
-</handDesc>
-<typeDesc>
-<typeNote>
-<p/>
-</typeNote>
-</typeDesc>
-</physDesc>
-<history>
-<origin/>
-<provenance/>
-<acquisition/>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
+
 
 <profileDesc>
 <textClass>
@@ -158,6 +119,7 @@
 <term>Boone, Daniel, 1734-1820</term>
 <term>Carver, William F. (William Frank), 1840-1927</term>
 <term>Crockett, Davy, 1786-1836</term>
+<term>Daly, Claude Lorraine</term>
 <term>Oakley, Annie, 1860-1926</term>
 <term>Salsbury, Nathan, 1846-1902</term>
 </keywords>

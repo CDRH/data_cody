@@ -55,45 +55,13 @@
 <repository>James Wojtowicz Collection, McCracken Research Library, Buffalo Bill Center of the West</repository>
 <idno>MS327</idno>
 </msIdentifier>
-<msContents>
-<p></p></msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm">
-<height/>
-<width/>
-</dimensions>
-</extent>
-<condition><p/></condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="type">
-<p></p></handNote>
-</handDesc>
-<typeDesc><typeNote><p/></typeNote></typeDesc>
-</physDesc><history><origin/><provenance/>
-<acquisition/>
-</history>
+
 
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -111,6 +79,7 @@
 </keywords>
 <keywords scheme="lcsh" n="people">
 <term>Applin, Vincent Augustin</term>
+<term>Ferrel, Della</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term></term>
