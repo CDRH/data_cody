@@ -66,16 +66,6 @@ McCracken Research Library, Buffalo Bill Center of the West
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -99,6 +89,7 @@ McCracken Research Library, Buffalo Bill Center of the West
 <term>United States. Office of Indian Affairs. Pine Ridge Agency</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
+<term>No Neck (Tahu Wanica)</term>
 <term>Red Shirt, 1845?-1925</term>
 <term>Rocky Bear</term>
 <term>Craft, Francis M., 1852-1920</term>
