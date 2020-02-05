@@ -50,24 +50,11 @@
 <title level="j">The Morning Post</title>
 <pubPlace>London</pubPlace>
 <date when="1887-05-05">May 5, 1887</date>
-<biblScope type="vol"></biblScope>
-<biblScope type="issue"></biblScope>
-<biblScope type="pp"></biblScope>
 </bibl>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -121,6 +108,7 @@
 <term>Penfield, Frederic Courtland, 1855-1922</term>
 <term>Red Shirt, 1845?-1925</term>
 <term>Rothermel, Peter Frederick, 1812-1895</term>
+<term>Russell, Henry Sturgis</term>
 <term>Salsbury, Nathan, 1846-1902</term>
 <term>Sartain, John, 1808-1897</term>
 <term>Scott, Walter, 1771-1832</term>
