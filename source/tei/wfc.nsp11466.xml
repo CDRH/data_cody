@@ -54,63 +54,11 @@
 <biblScope type="issue"></biblScope>
 <biblScope type="pp"></biblScope>
 </bibl>
-<!-- <msDesc>
-<msIdentifier>
-<repository>
-McCracken Research Library, Buffalo Bill Center of the West
-</repository>
-<idno>MS</idno>
-</msIdentifier>
-<msContents>
-<p></p>
-</msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-2 pages
-<dimensions unit="mm">
-<height/>
-<width/>
-</dimensions>
-</extent>
-<condition>
-<p/>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="wfc1" script="rough" medium="pen">
-<p>Media: </p>
-</handNote>
-</handDesc>
-<typeDesc>
-<typeNote>
-<p/>
-</typeNote>
-</typeDesc>
-</physDesc>
-<history>
-<origin/>
-<provenance/>
-<acquisition/>
-</history>
-</msDesc>
--->
+
+
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -138,6 +86,7 @@ McCracken Research Library, Buffalo Bill Center of the West
 <term>Cooper, James Fenimore, 1789-1851</term>
 <term>Harte, Bret, 1836-1902</term>
 <term>Oakley, Annie, 1860-1926</term>
+<term>Richmond, Frank, -1890</term>
 <term>Twain, Mark, 1835-1910</term>
 </keywords>
 <keywords scheme="lcsh" n="places">

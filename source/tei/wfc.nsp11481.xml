@@ -50,24 +50,13 @@
 <title level="j">Manchester Times</title>
 <pubPlace>Manchester, England</pubPlace>
 <date when="1888-05-05">May 5, 1888</date>
-<biblScope type="vol"></biblScope>
-<biblScope type="issue"></biblScope>
-<biblScope type="pp"></biblScope>
+
 </bibl>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
+
 
 <profileDesc>
 <textClass>
@@ -103,6 +92,7 @@
 <term>Western horses</term>
 </keywords>
 <keywords scheme="lcsh" n="people">
+<term>Richmond, Frank, -1890</term>
 <term>Sanger, George, 1827-1911</term>
 <term>Victoria, Queen of Great Britain, 1819-1901</term>
 </keywords>

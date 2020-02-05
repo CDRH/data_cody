@@ -62,52 +62,13 @@
 <msContents>
 <p></p>
 </msContents>
-<physDesc>
-<objectDesc>
-<supportDesc>
-<support></support>
-<extent>
-<dimensions unit="mm">
-<height/>
-<width/>
-</dimensions>
-</extent>
-<condition>
-<p/>
-</condition>
-</supportDesc>
-</objectDesc>
-<handDesc hands="1">
-<handNote xml:id="wfc1" script="type" medium="type">
-<p>Media: </p>
-</handNote>
-</handDesc>
-<typeDesc>
-<typeNote>
-<p/>
-</typeNote>
-</typeDesc>
-</physDesc>
-<history>
-<origin/>
-<provenance/>
-<acquisition/>
-</history>
+
 </msDesc>
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
+
 
 <profileDesc>
 <textClass>
@@ -140,6 +101,7 @@
 <term>Baker, Lewis H., 1869-1931</term>
 <term>Burke, John M., 1842-1917</term>
 <term>Kicking Bear, 1853-1904</term>
+<term>Richmond, Frank, -1890</term>
 <term>Short Bull, -1915</term>
 <term>Yellow Hand, 1850?-1876</term>
 </keywords>
