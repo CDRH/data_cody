@@ -50,23 +50,10 @@
 <title level="j">Philadelphia Inquirer</title>
 <pubPlace>Philadelphia, Pa.</pubPlace>
 <date when="1886-08-30">August 30, 1886</date>
-<biblScope type="vol"></biblScope>
-<biblScope type="issue"></biblScope>
-<biblScope type="pp"></biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -86,6 +73,7 @@
 <keywords scheme="lcsh" n="people">
 <term>Irving, Henry, Sir, 1838-1905</term>
 <term>Parkinson, J. C. (Joseph Charles), 1832- </term>
+<term>Whitley, John Robinson, 1843-1922</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>London (England)</term>

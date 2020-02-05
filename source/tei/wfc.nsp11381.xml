@@ -50,25 +50,12 @@
 <title level="j">Hampshire Advertiser</title>
 <pubPlace>Southampton, England</pubPlace>
 <date when="1887-05-14">May 14, 1887</date>
-<biblScope type="vol"></biblScope>
-<biblScope type="issue"></biblScope>
-<biblScope type="pp"></biblScope>
 </bibl>
 
 
 </sourceDesc>
 </fileDesc>
 
-<encodingDesc>
-<editorialDecl>
-<correction>
-<p></p>
-</correction>
-<normalization>
-<p></p>
-</normalization>
-</editorialDecl>
-</encodingDesc>
 
 <profileDesc>
 <textClass>
@@ -96,6 +83,7 @@
 <term>Red Shirt, 1845?-1925</term>
 <term>Salsbury, Nathan, 1846-1902</term>
 <term>Victoria, Queen of Great Britain, 1819-1901</term> 
+<term>Whitley, John Robinson, 1843-1922</term>
 </keywords>
 <keywords scheme="lcsh" n="places">
 <term>Earl's Court (London, England)</term>
@@ -129,7 +117,7 @@
 
 <note xml:id="n02">Note 2: Deadwood Coach.</note>
 
-<note xml:id="n03">Note 3: Miss Whitley is daughter to <persName xml:id="whitley.j">James Robinson Whitley</persName> (1843-1922), Director-General and Chairman of the United States Executive Council for the American Exhibition.</note>
+<note xml:id="n03">Note 3: Miss Whitley is daughter to <persName xml:id="whitley.j">John Robinson Whitley</persName> (1843-1922), Director-General and Chairman of the United States Executive Council for the American Exhibition.</note>
 
 </back>
 </text>
