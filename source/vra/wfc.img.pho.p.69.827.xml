@@ -59,41 +59,41 @@
       </sourceSet>
       <subjectSet>
 <display>Buffalo Bill's Wild West in Britain</display>
+        <!--  <subject>
+            <term type="personalName">Moses-Butler, Phoebe Ann,  1860-1926</term>
+         </subject> -->
          <subject>
-            <term>Moses-Butler, Phoebe Ann,  1860-1926</term>
+            <term type="personalName">Link, Andrew</term>
          </subject>
          <subject>
-            <term>Link, Andrew</term>
+            <term type="personalName">Link, Jonathon</term>
          </subject>
          <subject>
-            <term>Link, Jonathon</term>
+            <term type="personalName">Smith, Lillian Frances, 1871-1930</term>
          </subject>
          <subject>
-            <term>Smith, Lillian Frances, 1871?-1930</term>
+            <term type="personalName">Salsbury, Nathan, 1846-1902</term>
          </subject>
          <subject>
-            <term>Salsbury, Nathan, 1846-1902</term>
+            <term type="personalName">Baker, Lewis H., 1869-1931</term>
          </subject>
          <subject>
-            <term>Baker, Johnny, 1869-1931</term>
+            <term type="personalName">Taylor, William Levi, 1857-1924</term>
          </subject>
          <subject>
-            <term>Taylor, William Levi, 1857-1924</term>
+            <term type="personalName">Nelson, John Young, 1826-1903</term>
          </subject>
          <subject>
-            <term>Nelson, John Young, 1826-</term>
+            <term type="personalName">Sweeney, William, 1856-1917</term>
          </subject>
          <subject>
-            <term>Sweeney, William, 1856-1916</term>
+            <term type="personalName">Oakley, Annie, 1860-1926</term>
          </subject>
          <subject>
-            <term>Oakley, Annie, 1860-1926</term>
+            <term type="personalName">Bates, Gilbert Henderson</term>
          </subject>
          <subject>
-            <term>Bates, G. H</term>
-         </subject>
-         <subject>
-            <term>Burke, John M., 1866-1946</term>
+            <term type="personalName">Burke, John M., 1842-1917</term>
          </subject>
          <subject>
             <term>American Exhibition (1887 : London, England)</term>
@@ -104,7 +104,7 @@
          <subject>
             <term>London (England)</term>
          </subject>
-<subject><term>Ferrel, Della</term></subject>
+<subject><term type="personalName">Ferrel, Della</term></subject>
       </subjectSet>
       <techniqueSet>
          <technique/>
