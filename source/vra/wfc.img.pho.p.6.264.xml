@@ -17,7 +17,7 @@
       </dateSet>
       <descriptionSet>
          <description source="BBCW">
-            <tei:p>William F. Cody and unidentified man standing with rifles in hand in front of tipi during a hunting trip.</tei:p>
+            <tei:p>William F. Cody and David Powell standing with rifles in hand in front of tipi during a hunting trip.</tei:p>
          </description>
       </descriptionSet>
       <inscriptionSet>
@@ -72,10 +72,10 @@
             <term>Hunting</term>
          </subject>
          <subject>
-            <term>Cody, William F. (William Frederick), 1846-1917</term>
+            <term type="personalName">Cody, William F. (William Frederick), 1846-1917</term>
          </subject>
          <subject>
-            <term>Powell, David Franklin, 1847-1906</term>
+            <term type="personalName">Powell, David Franklin, 1847-1906</term>
          </subject>
          <subject>
             <term>Hunting</term>

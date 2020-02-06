@@ -17,7 +17,7 @@
       </dateSet>
       <descriptionSet>
          <description source="BBCW">
-            <tei:p>Portrait of Della Ferrell wearing a hat with a large ribbon tied under chin and buttoned dress. Typed caption, "Della Ferrell. Lady Rider of Colorado. — Buffalo Bill's Wild West." Della Ferrell performed with Buffalo Bill's Wild West from 1886 to 1892.</tei:p>
+            <tei:p>Portrait of Della Ferrel wearing a hat with a large ribbon tied under chin and buttoned dress. Typed caption, "Della Ferrell. Lady Rider of Colorado. — Buffalo Bill's Wild West." Della Ferrel performed with Buffalo Bill's Wild West from 1886 to 1892.</tei:p>
          </description>
       </descriptionSet>
       <inscriptionSet>
@@ -59,7 +59,7 @@
       </sourceSet>
       <subjectSet>
          <subject>
-            <term>Ferrell, Della</term>
+            <term type="personalName">Ferrel, Della</term>
          </subject>
          <subject>
             <term>Women</term>
@@ -84,7 +84,7 @@
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">Della Ferrell</title>
+         <title xml:lang="English">Della Ferrel</title>
       </titleSet>
       <worktypeSet>
          <worktype>photograph</worktype>
