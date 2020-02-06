@@ -68,14 +68,14 @@
          <subject>
             <term>Tipis</term>
          </subject>
-         <subject>
+         <!-- <subject>
             <term>Buffalo Bill, 1846-1917</term>
+         </subject> -->
+         <subject>
+            <term type="personalName">Cody, William F. (William Frederick), 1846-1917</term>
          </subject>
          <subject>
-            <term>Cody, William F. (William Frederick), 1846-1917</term>
-         </subject>
-         <subject>
-            <term>Powell, David Franklin, 1847-1906</term>
+            <term type="personalName">Powell, David Franklin, 1847-1906</term>
          </subject>
       </subjectSet>
       <techniqueSet>
