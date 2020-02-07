@@ -17,7 +17,7 @@
       </dateSet>
       <descriptionSet>
          <description source="BBCW">
-            <tei:p>Poster with black and white oval photograph of Buffalo Bill on blue background with gold designs. Printed bottom center: COL. W.F. CODY/BUFFALO-BILL/BOSTON, HUNTINGTON AVE./GROUNDS,/ONE WEEK,/COMMENCING/MONDAY,/JUNE 18</tei:p>
+            <tei:p>Poster with black and white oval photograph of Buffalo Bill on blue background with gold designs. Printed bottom center: COL. W.F. CODY BUFFALO-BILL BOSTON, HUNTINGTON AVE. GROUNDS, ONE WEEK, COMMENCING/MONDAY, JUNE 18</tei:p>
          </description>
       </descriptionSet>
       <inscriptionSet>
@@ -63,7 +63,7 @@
             <term>Portraits</term>
          </subject>
          <subject>
-            <term>William F. Cody</term>
+            <term type="personalName">Cody, William F. (William Frederick), 1846-1917</term>
          </subject>
       </subjectSet>
       <techniqueSet>
