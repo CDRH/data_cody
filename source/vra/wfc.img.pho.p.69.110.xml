@@ -59,7 +59,13 @@
       </sourceSet>
       <subjectSet>
          <subject>
-            <term>Irving, William "Broncho Bill"</term>
+            <term type="personalName">Irving, William "Broncho Bill", 1856-1903</term>
+         </subject>
+         <subject>
+            <term type="personalName">Irving, Ella</term>
+         </subject>
+         <subject>
+            <term type="personalName">Irving, Bennie</term>
          </subject>
          <subject>
             <term>Men</term>
