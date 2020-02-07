@@ -49,13 +49,13 @@
 <display>Lakota Performers</display>
 <subject>
 <term>American Indians</term>
-<term>Little Elk, John</term>
-<term>Lone Bear, Sam</term>
-<term>Spotted Owl, Joshua</term>
-<term>Little Moon, Francis</term>
-<term>Little Boy, Charlie</term>
-<term>Little Moon, Gilbert</term>
-<term>Hermans, August</term>
+<term type="personalName">Little Elk, John</term>
+<term type="personalName">Lone Bear, Sam</term>
+<term type="personalName">Spotted Owl, Joshua</term>
+<term type="personalName">Little Moon, Francis</term>
+<term type="personalName">Little Boy, Charlie</term>
+<term type="personalName">Little Moon, Gilbert</term>
+<term type="personalName">Hermans, August</term>
 </subject>
 </subjectSet>
 <techniqueSet>

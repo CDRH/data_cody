@@ -49,10 +49,10 @@
 <display>Lakota Performers</display>
 <subject>
 <term>American Indians</term>
-<term>Lone Bear, Sam</term>
-<term>Little Moon, Pauline</term>
-<term>Little Moon, Gilbert</term>
-<term>Hermans, August</term>
+<term type="personalName">Lone Bear, Sam</term>
+<term type="personalName">Little Moon, Pauline</term>
+<term type="personalName">Little Moon, Gilbert</term>
+<term type="personalName">Hermans, August</term>
 <term></term>
 <term></term>
 </subject>

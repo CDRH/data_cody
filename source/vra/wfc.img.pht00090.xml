@@ -50,10 +50,10 @@
 <display>Lakota Performers</display>
 <subject>
 <term>American Indians</term>
-<term>Little Elks, John</term>
-<term>Little Elks, Virginia</term>
-<term>Little Elks, Lucy</term>
-<term>Hermans, August</term>
+<term type="personalName">Little Elks, John</term>
+<term type="personalName">Little Elks, Virginia</term>
+<term type="personalName">Little Elks, Lucy</term>
+<term type="personalName">Hermans, August</term>
 <term></term>
 <term></term>
 </subject>
