@@ -66,6 +66,15 @@
       <subjectSet>
 <display>Lakota Performers</display>
          <subject>
+            <term type="personalName">Big Charger</term>
+         </subject>
+         <subject>
+            <term type="personalName">Cody, William F. (William Frederick), 1846-1917</term>
+         </subject>
+         <subject>
+            <term type="personalName">Lillie, Gordon William, 1860-1942</term>
+         </subject>
+         <subject>
             <term>American Indians</term>
          </subject>
          <subject>
@@ -86,9 +95,9 @@
          <subject>
             <term>Hides &amp; skins</term>
          </subject>
-         <subject>
+         <!-- <subject>
             <term>Buffalo Bill, 1846-1917</term>
-         </subject>
+         </subject> -->
          <subject>
             <term>Indian beadwork</term>
          </subject>
@@ -98,9 +107,9 @@
          <subject>
             <term>Miller Bros. &amp; Arlington 101 Ranch Real Wild West (Organization)</term>
          </subject>
-         <subject>
+         <!-- <subject>
             <term>Pawnee Bill, 1860-1942</term>
-         </subject>
+         </subject> -->
          <subject>
             <term>Buffalo Bill's Wild West and Pawnee Bill's Great Far East (Show)</term>
          </subject>
