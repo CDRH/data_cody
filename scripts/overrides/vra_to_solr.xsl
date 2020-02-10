@@ -176,6 +176,13 @@
     </field>
   </xsl:template>
 
+  <xsl:template name="people">
+    <xsl:for-each select="/vra/work/subjectSet/subject/term[@type='personalName']">
+      <field name="people">
+        <xsl:value-of select="."/>
+      </field>
+    </xsl:for-each>
+  </xsl:template>
 
   <xsl:template name="title">
     <xsl:variable name="title">
