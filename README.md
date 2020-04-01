@@ -47,6 +47,8 @@ Refresh the cody archive website on either the dev site or the production site, 
 mv ../../../cocoon/codyarchive.org/stylesheets/xslt/tei.p5.tmp.xsl ../../../cocoon/codyarchive.org/stylesheets/xslt/tei.p5.xsl
 ```
 
+You will also need to repeat the above steps on the facets file (`stylesheets/xslt/solr2json-facets.xsl`) to update the search facets.  
+
 ## VRA Files
 
 VRA Files must have one of the following in their filenames in order to be populated into one of the 6 visual materials categories: 
