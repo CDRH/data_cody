@@ -17,7 +17,7 @@
       </dateSet>
       <descriptionSet>
          <description source="BBCW">
-            <tei:p>William F. Cody sits for studio portrait holding lariat on his knee with George T. Beck on his right and another man on his left.</tei:p>
+            <tei:p>William F. Cody sits for studio portrait holding lariat on his knee with George T. Beck on his right and Henry J. Fulton on his left.</tei:p>
          </description>
       </descriptionSet>
       <inscriptionSet>
@@ -72,6 +72,9 @@
             <term type="personalName">Beck, George Washington Thornton, 1856-1943</term>
          </subject>
          <subject>
+            <term type="personalName">Fulton, Henry J.</term>
+         </subject>
+         <subject>
             <term>Portraits</term>
          </subject>
       </subjectSet>
@@ -79,7 +82,7 @@
          <technique/>
       </techniqueSet>
       <titleSet>
-         <title xml:lang="English">William F. Cody, George T. Beck and man in studio setting</title>
+         <title xml:lang="English">William F. Cody, George T. Beck and Henry J. Fulton in studio setting</title>
       </titleSet>
       <worktypeSet>
          <worktype>photograph</worktype>
