@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="en">Buffalo Bill Sues a Steamboat Company</title>
+<title type="main">Buffalo Bill Sues a Steamboat Company</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -137,7 +137,7 @@
 
 <pb facs="wfc.nsp00524.001" type="nb"/>
 
-<div1 type="article" xml:lang="en">
+<div1 type="article">
 
 <milestone unit="line"/>
 
