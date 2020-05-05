@@ -57,6 +57,7 @@
          </source>
       </sourceSet>
       <subjectSet>
+<display>Buffalo Bill Himself</display>
          <subject>
             <term/>
          </subject>
@@ -101,7 +102,7 @@
             </description>
          </descriptionSet>
          <relationSet>
-            <relation type="imageOf" relids="wfc.img.pht00064"/>
+            <relation type="imageOf" relids="wfc.img.pho.pht00064"/>
          </relationSet>
          <rightsSet>
             <rights>
