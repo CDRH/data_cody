@@ -202,6 +202,18 @@
     </field>
   </xsl:template>
 
+  <!-- ========== topic ========== -->
+
+  <xsl:template name="topic">
+    <xsl:if test="/vra/work/subjectSet/display/text()">
+      <xsl:for-each select="tokenize(/vra/work/subjectSet/display, ';')">
+        <field name="topic">
+          <xsl:value-of select="normalize-space(.)"/>
+        </field>
+      </xsl:for-each>
+    </xsl:if>
+  </xsl:template>
+
   <!-- EXTRAS -->
   <xsl:template name="extras">
 
