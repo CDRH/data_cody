@@ -35,8 +35,11 @@ class VraToEs
   end
 
   def creator
-    get_list(@xpaths["creators"]).map do |creator|
-      { "name" => creator }
+    creators = get_list(@xpaths["creator"])
+    if creators
+      creators.map do |creator|
+        { "name" => creator }
+      end
     end
   end
 
@@ -44,25 +47,29 @@ class VraToEs
     disp = get_text(@xpaths["date"])
     # strip out anything that's not a "date" character like nums and hyphens
     # (I'm looking at you, "circa")
-    no_strings = disp[/([\d-]+)/]
-    CommonXml.date_standardize(no_strings, before)
+    if disp
+      no_strings = disp[/([\d-]+)/]
+      Datura::Helpers.date_standardize(no_strings, before)
+    end
   end
 
   def date_display
     get_text(@xpaths["date"])
   end
 
-  def image_id
+  def cover_image
     @id
   end
 
-  def publisher
+  def citation
     pubs = []
     @xml.xpath(@xpaths["publisher"]).each do |publisher|
       prole = publisher.xpath("role").text
       pname = publisher.xpath("name").text
       if prole == "publisher"
-        pubs << pname
+        pubs << {
+          "publisher" => pname
+      }
       end
     end
     pubs.empty? ? nil : pubs
@@ -72,7 +79,7 @@ class VraToEs
     # TODO
   end
 
-  def subcategory
+  def category2
     type = @id[/wfc\.img\.([A-z]+)\./, 1]
     mapping = {
       "cc" => "Cabinet Cards",

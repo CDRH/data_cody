@@ -6,13 +6,13 @@ class TeiToEs
 
   def override_xpaths
     xpaths = {}
-    xpaths["creators"] = [
+    xpaths["creator"] = [
       "/TEI/teiHeader/fileDesc/titleStmt/author",
       "//persName[@type = 'author']",
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author/@n"
     ]
     xpaths["language"] = "/TEI/text/body/div1/@lang"
-    xpaths["subcategory"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
+    xpaths["category2"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
     xpaths
   end
 
@@ -41,25 +41,23 @@ class TeiToEs
   #    FIELDS    #
   ################
 
-  def image_id
-    images = get_list(@xpaths["image_id"])
-    if !images.empty?
+  def cover_image
+    images = get_list(@xpaths["cover_image"])
+    if images && !images.empty?
       images[0]
     else
-      sc = subcategory.downcase
+      sc = category2[0].downcase
       "icon-#{sc}"
     end
   end
 
   def language
-    # take only the FIRST div1 language, as this indicates it is the primary one
     langs = get_list(@xpaths["language"])
-    langs.empty? ? "en" : langs[0]
-  end
-
-  def languages
-    langs = get_list(@xpaths["language"])
-    langs.empty? ? ["en"] : langs
+    if !langs || langs.empty?
+      ["en"]
+    else
+      langs
+    end
   end
 
   def rights_uri
