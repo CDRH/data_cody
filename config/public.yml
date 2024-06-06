@@ -7,21 +7,21 @@ default:
   threads: 20
 
 development:
-  site_url: https://cdrhdev1.unl.edu/cocoon/codyarchive.org
-  es_path: https://cdrhdev1.unl.edu/elastic
+  site_url: https://servername.unl.edu/cocoon/codyarchive.org
+  es_path: https://servername.unl.edu/elastic
   es_index: cdrhapidev-v1
-  solr_path: https://cdrhdev1.unl.edu/solr
+  solr_path: https://servername.unl.edu/solr
   # remove once Cody is powered by orchid site
   variables_solr:
-    site_url: https://cdrhdev1.unl.edu/cocoon/codyarchive.org
+    site_url: https://servername.unl.edu/cocoon/codyarchive.org
     slug: cody_archive
 
 production:
-  site_url: http://codyarchive.org
+  site_url: https://codyarchive.org
   es_path: https://cdrhapi.unl.edu/elastic
   es_index: cdrhapi-v1
-  solr_path: https://cors1601.unl.edu/solr
+  solr_path: https://servername.unl.edu/solr
   # remove once Cody is powered by orchid site
   variables_solr:
-    site_url: http://codyarchive.org
+    site_url: https://codyarchive.org
     slug: cody_archive
