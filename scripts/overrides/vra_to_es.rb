@@ -89,7 +89,7 @@ class VraToEs
       "pst" => "Poster",
       "va" => "Visual Art"
     }
-    mapping[type] || "none"
+    [mapping[type]] || "none"
   end
 
   def uri
