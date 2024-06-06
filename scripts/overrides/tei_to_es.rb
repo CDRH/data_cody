@@ -12,7 +12,7 @@ class TeiToEs
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author/@n"
     ]
     xpaths["language"] = "/TEI/text/body/div1/@lang"
-    xpaths["category2"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
+    xpaths["subcategory"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
     xpaths
   end
 
@@ -42,7 +42,7 @@ class TeiToEs
   ################
 
   def cover_image
-    images = get_list(@xpaths["cover_image"])
+    images = get_list(@xpaths["image_id"])
     if images && !images.empty?
       images[0]
     else
