@@ -12,6 +12,7 @@ class TeiToEs
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author/@n"
     ]
     xpaths["language"] = "/TEI/text/body/div1/@lang"
+    xpaths["notes"] = "/TEI/teiHeader/fileDesc/titleStmt/sponsor"
     xpaths["subcategory"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
     xpaths
   end
