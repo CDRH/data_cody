@@ -99,8 +99,8 @@
       <h3>
         <a>
           <xsl:attribute name="class">persNameLink</xsl:attribute>
-          <!-- construct a search url and rule out the personography as a result, ideally, though it is not working right now, argh -->
-          <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/codyarchive/search?f[]=person.name|<xsl:value-of select="encode-for-uri(persName[@type = 'display'])"/>&amp;!f[]=category2|Personography</xsl:attribute>
+          <!-- construct a search url and rule out the personography as a result, ideally, though that may not be possible -->
+          <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/codyarchive/search?f[]=person.name|<xsl:value-of select="encode-for-uri(persName[@type = 'display'])"/></xsl:attribute>
           <xsl:value-of select="persName[@type='display']"/>
         </a>
       </h3>
@@ -124,7 +124,7 @@
         <a>
           <xsl:attribute name="href">
             <!-- construct a search url and use quotation marks on either side of the term, also exclude encyclopedia as a result, ideally -->
-            <xsl:value-of select="$site_url"/>/codyarchive/search?q="<xsl:value-of select="head"/>"&amp;!f[]=category2|Encyclopedia</xsl:attribute>
+            <xsl:value-of select="$site_url"/>/codyarchive/search?q="<xsl:value-of select="head"/>"</xsl:attribute>
           <xsl:value-of select="head"/>
         </a>
       </h3>
