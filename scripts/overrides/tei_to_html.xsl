@@ -131,5 +131,120 @@
       <xsl:apply-templates select="p"/>
     </div>
   </xsl:template>
+  
+  <!-- ================================================ -->
+  <!--                   FIGURES                        -->
+  <!-- ================================================ -->
+  
+  <!-- Called via figure template match below -->
+  <xsl:template name="figure_formatter">
+    <xsl:param name="type"/>
+    <xsl:choose>
+      <!-- handled by "audio and video" below -->
+      <xsl:when test="$type = 'audio' or $type = 'video'"><xsl:apply-templates/></xsl:when>
+      <xsl:when test="ancestor::*[name() = 'person']">
+        <xsl:apply-templates/>
+      </xsl:when>
+      <!-- the below isn't currently working: may wish to update to iiif path at some point if feeling ambitious -->
+      <xsl:when test="$type = 'illustration'">
+        <span class="figure">
+          <span>
+            <a>
+              <xsl:attribute name="href">
+                <xsl:value-of select="$site_url"/>
+                <xsl:text>figures/800/</xsl:text>
+                <xsl:value-of select="graphic/@url"/>
+                <xsl:text>.jpg</xsl:text>
+              </xsl:attribute>
+              <xsl:attribute name="rel">
+                <xsl:text>prettyPhoto[pp_gal]</xsl:text>
+              </xsl:attribute>
+              <xsl:attribute name="title">
+                <xsl:text>&lt;a href="</xsl:text>
+                <xsl:value-of select="$site_url"/>
+                <xsl:text>figures/800/</xsl:text>
+                <xsl:value-of select="graphic/@url"/>
+                <xsl:text>.jpg</xsl:text>
+                <xsl:text>" target="_blank" &gt;open image in new window&lt;/a&gt;</xsl:text>
+              </xsl:attribute>
+              <img>
+                <xsl:attribute name="src">
+                  <xsl:value-of select="$site_url"/>
+                  <xsl:text>figures/250/</xsl:text>
+                  <xsl:value-of select="graphic/@url"/>
+                  <xsl:text>.jpg</xsl:text>
+                </xsl:attribute>
+              </img>
+            </a>
+          </span>
+        </span>
+      </xsl:when>
+      <xsl:otherwise>
+        <div class="inline_figure">
+          <div class="p">[<xsl:value-of select="@n"/>]</div>
+          <xsl:apply-templates/>
+        </div>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+  
+  <xsl:template match="figure">
+    <span class="tei_figure">
+      <xsl:choose>
+        <xsl:when test="//keywords[@n='category']/term[1] = 'Images'">
+          <xsl:call-template name="figure_formatter">
+            <xsl:with-param name="type">image</xsl:with-param>
+          </xsl:call-template>
+        </xsl:when>   
+        <xsl:when test="media/@mimeType='audio/mp3'">
+          <xsl:call-template name="figure_formatter">
+            <xsl:with-param name="type">audio</xsl:with-param>
+          </xsl:call-template>
+        </xsl:when>
+        <xsl:when test="media/@mimeType='video/mp4'">
+          <xsl:call-template name="figure_formatter">
+            <xsl:with-param name="type">video</xsl:with-param>
+          </xsl:call-template>
+        </xsl:when>
+        <xsl:when test="@n='illustration'">
+          <xsl:call-template name="figure_formatter">
+            <xsl:with-param name="type">other</xsl:with-param>
+          </xsl:call-template>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:call-template name="figure_formatter">
+            <xsl:with-param name="type">other</xsl:with-param>
+          </xsl:call-template>
+        </xsl:otherwise>
+      </xsl:choose>
+      <!--[<xsl:apply-templates/>]-->
+    </span>
+  </xsl:template>
+  
+  <xsl:template match="figure//head">
+    <h3><xsl:apply-templates/></h3>
+  </xsl:template>
+  
+  <xsl:template match="ab">
+    <p>
+      <xsl:attribute name="class">
+        <xsl:value-of select="name()"/>
+      </xsl:attribute>
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template>
+  
+  <!-- ~~~~~~~ audio and video ~~~~~~~ -->
+  
+  <xsl:template match="media[@mimeType='audio/mp3']">
+    <audio controls="controls">
+      <source src="{$site_url}audio/mp3/{@url}" type="audio/mpeg"/>
+      <source src="{$site_url}audio/ogg/{substring-before(@url,'.mp3')}.ogg" type="audio/ogg"/> 
+    </audio>
+  </xsl:template>
+  
+  <xsl:template match="media[@mimeType='video/mp4']">
+    <iframe width="560" height="315" src="{@url}" frameborder="0" allowfullscreen="true">&#160;</iframe>
+  </xsl:template>
 
 </xsl:stylesheet>
