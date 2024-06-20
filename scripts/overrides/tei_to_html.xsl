@@ -83,5 +83,53 @@
       </div>
     </xsl:if>
   </xsl:template>
+  
+  <!-- ==================================================================== -->
+  <!--                          PERSONOGRAPHY                               -->
+  <!-- ==================================================================== -->
+  
+  <xsl:template name="person_info">
+    <div>
+      <xsl:attribute name="class">
+        <xsl:text>life_item</xsl:text>
+      </xsl:attribute>
+      <xsl:attribute name="id">
+        <xsl:value-of select="@xml:id"/>
+      </xsl:attribute>
+      <h3>
+        <a>
+          <xsl:attribute name="class">persNameLink</xsl:attribute>
+          <!-- construct a search url and rule out the personography as a result, ideally, though it is not working right now, argh -->
+          <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/codyarchive/search?f[]=person.name|<xsl:value-of select="encode-for-uri(persName[@type = 'display'])"/>&amp;!f[]=category2|Personography</xsl:attribute>
+          <xsl:value-of select="persName[@type='display']"/>
+        </a>
+      </h3>
+      <p><xsl:apply-templates select="note"/></p>
+    </div>
+  </xsl:template>
+  
+  <!-- ==================================================================== -->
+  <!--                           ENCYCLOPEDIA                               -->
+  <!-- ==================================================================== -->
+  
+  <xsl:template name="encyc_info">
+    <div>
+      <xsl:attribute name="class">
+        <xsl:text>life_item</xsl:text>
+      </xsl:attribute>
+      <xsl:attribute name="id">
+        <xsl:value-of select="@xml:id"/>
+      </xsl:attribute>
+      <h3>
+        <a>
+          <xsl:attribute name="href">
+            <!-- construct a search url and use quotation marks on either side of the term, also exclude encyclopedia as a result, ideally -->
+            <xsl:value-of select="$site_url"/>/codyarchive/search?q="<xsl:value-of select="head"/>"&amp;!f[]=category2|Encyclopedia</xsl:attribute>
+          <xsl:value-of select="head"/>
+        </a>
+      </h3>
+      <xsl:apply-templates select="p"/>
+    </div>
+  </xsl:template>
 
 </xsl:stylesheet>
