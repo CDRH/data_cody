@@ -9,7 +9,8 @@ class TeiToEs
     xpaths["creator"] = [
       "/TEI/teiHeader/fileDesc/titleStmt/author",
       "//persName[@type = 'author']",
-      "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author/@n"
+      "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author/@n",
+      "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author"
     ]
     xpaths["language"] = "/TEI/text/body/div1/@lang"
     xpaths["notes"] = "/TEI/teiHeader/fileDesc/titleStmt/sponsor"
