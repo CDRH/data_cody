@@ -5,17 +5,21 @@ class TeiToEs
   ################
 
   def override_xpaths
-    xpaths = {}
-    xpaths["creator"] = [
+    {
+    # "citation" => {
+    #   "author" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author",
+    #   "title_a" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='a']",
+    #   "title_j" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='j']"
+    # },
+    "creator" => [
       "/TEI/teiHeader/fileDesc/titleStmt/author",
-      "//persName[@type = 'author']",
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author/@n",
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author"
-    ]
-    xpaths["language"] = "/TEI/text/body/div1/@lang"
-    xpaths["notes"] = "/TEI/teiHeader/fileDesc/titleStmt/sponsor"
-    xpaths["subcategory"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
-    xpaths
+    ],
+    "language" => "/TEI/text/body/div1/@lang",
+    "notes" => "/TEI/teiHeader/fileDesc/titleStmt/sponsor",
+    "subcategory" => "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
+    }
   end
 
   #################
