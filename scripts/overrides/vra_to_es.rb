@@ -5,13 +5,16 @@ class VraToEs
   ################
 
   def override_xpaths
-    xpaths = {}
-    xpaths["creator"] = "/vra/work/agentSet/display"
+    {
+    "creator" => "/vra/work/agentSet/display",
     # cody vra doesn't appear to use anything more specific than the display date
-    xpaths["date"] = "/vra/work/dateSet[1]/display"
-    xpaths["format"] = "/vra/work[1]/materialSet[1]/display[1]"
-    xpaths["title"] = "/vra/work[1]/titleSet[1]/title[1]"
-    xpaths
+    "date" => "/vra/work/dateSet[1]/display",
+    "format" => "/vra/work[1]/measurementsSet[1]/display[1]",
+    "has_source" => {
+      "has_source.title" => "/vra/work[1]/sourceSet[1]/display[1]"
+      },
+    "title" => "/vra/work[1]/titleSet[1]/title[1]"
+    }
   end
 
   ################
