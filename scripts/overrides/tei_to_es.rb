@@ -6,11 +6,11 @@ class TeiToEs
 
   def override_xpaths
     {
-    # "citation" => {
-    #   "author" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author",
-    #   "title_a" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='a']",
-    #   "title_j" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='j']"
-    # },
+    "citation" => {
+      "author" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author",
+      "title_a" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='a']",
+      "title_j" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='j']"
+    },
     "creator" => [
       "/TEI/teiHeader/fileDesc/titleStmt/author",
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author/@n",
