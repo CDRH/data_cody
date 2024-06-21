@@ -10,7 +10,7 @@
     <!-- ==================================================================== -->
     <!--                             IMPORTS                                  -->
     <!-- ==================================================================== -->
-    <xsl:import href="../.xslt-datura/tei_to_html/lib/formatting.xsl"/>
+    <xsl:import href="../.xslt-datura/tei_to_html/tei_to_html.xsl"/>
     <xsl:import href="../.xslt-datura/vra_to_html/vra_to_html.xsl"/>
     
     <!-- <xsl:import href="some_vra_file.xsl"/> -->
@@ -32,6 +32,25 @@
     <xsl:param name="site_url"/>                <!-- the site url (http://codyarchive.org) -->
     <xsl:param name="fig_location"></xsl:param> <!-- set figure location  -->
     
+    <xsl:template match="/">
+        <html>
+            <xsl:for-each select="/vra/work[1]">
+                <div class="images_file">
+                    <img>
+                        <xsl:attribute name="src">
+                            <xsl:variable name="figure_id" select="./@id"/>
+                            <xsl:call-template name="url_builder">
+                                <xsl:with-param name="figure_id_local" select="$figure_id"/>
+                                <xsl:with-param name="image_size_local" select="$image_large"/>
+                                <xsl:with-param name="iiif_path_local" select="$collection"/>
+                            </xsl:call-template>
+                        </xsl:attribute>
+                    </img>
+                </div> <!-- /images_file -->
+            </xsl:for-each>
+            <div class="image_description"><xsl:value-of select="//description"/></div>
+        </html>
+    </xsl:template>
     
     <!-- ==================================================================== -->
     <!--                            OVERRIDES                                 -->
@@ -54,11 +73,6 @@
       in one of the imported files
     </xsl:template> -->
     
-    <xsl:template match="/">
-        <html>
-            <p>ZZZ</p>
-            <p><xsl:value-of select="//description"/></p>
-        </html>
-    </xsl:template>
+
     
 </xsl:stylesheet>
