@@ -13,7 +13,9 @@ class VraToEs
     "has_source" => {
       "has_source.title" => "/vra/work[1]/sourceSet[1]/display[1]"
       },
-    "title" => "/vra/work[1]/titleSet[1]/title[1]"
+    "keywords" => "/vra/work/subjectSet/subject/term[not(@type='personalName')]",
+    "title" => "/vra/work[1]/titleSet[1]/title[1]",
+    "topics" => "/vra/work/subjectSet/display[1]"
     }
   end
 
@@ -93,6 +95,18 @@ class VraToEs
       "va" => "Visual Art"
     }
     [mapping[type]] || "none"
+  end
+
+  def topics
+    # may have to add handling for nil here eventually
+    t = get_text(@xpaths["topics"])
+    if t && !t.empty?
+      t_array = t.split(";")
+      t_array_s = t_array.collect(&:strip)
+    else 
+      t_array_s = ""
+    end
+    t_array_s
   end
 
   def uri
