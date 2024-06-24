@@ -13,11 +13,11 @@ class TeiToEs
     },
     "creator" => [
       "/TEI/teiHeader/fileDesc/titleStmt/author",
-      "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author/@n",
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author"
     ],
     "language" => "/TEI/text/body/div1/@lang",
     "notes" => "/TEI/teiHeader/fileDesc/titleStmt/sponsor",
+    "person" => "/TEI/teiHeader/profileDesc/textClass/keywords[@n='people']/term",
     "subcategory" => "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
     }
   end

@@ -25,11 +25,11 @@
 
 <xsl:param name="collection"/>
 <xsl:param name="data_base"/>
+<xsl:param name="site_url"/>
 <xsl:param name="environment">production</xsl:param>
 <xsl:param name="image_large"/>
 <xsl:param name="image_thumb"/>
 <xsl:param name="media_base"/>
-<xsl:param name="site_url"/>
 
 <!-- ==================================================================== -->
 <!--                            OVERRIDES                                 -->
@@ -100,7 +100,7 @@
         <a>
           <xsl:attribute name="class">persNameLink</xsl:attribute>
           <!-- construct a search url and rule out the personography as a result, ideally, though that may not be possible -->
-          <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/codyarchive/search?f[]=person.name|<xsl:value-of select="encode-for-uri(persName[@type = 'display'])"/></xsl:attribute>
+          <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/search?f[]=person.name|<xsl:value-of select="encode-for-uri(persName[@type = 'display'])"/></xsl:attribute>
           <xsl:value-of select="persName[@type='display']"/>
         </a>
       </h3>
@@ -124,7 +124,7 @@
         <a>
           <xsl:attribute name="href">
             <!-- construct a search url and use quotation marks on either side of the term, also exclude encyclopedia as a result, ideally -->
-            <xsl:value-of select="$site_url"/>/codyarchive/search?q="<xsl:value-of select="head"/>"</xsl:attribute>
+            <xsl:value-of select="$site_url"/>/search?q="<xsl:value-of select="head"/>"</xsl:attribute>
           <xsl:value-of select="head"/>
         </a>
       </h3>
@@ -238,13 +238,22 @@
   
   <xsl:template match="media[@mimeType='audio/mp3']">
     <audio controls="controls">
-      <source src="{$site_url}audio/mp3/{@url}" type="audio/mpeg"/>
-      <source src="{$site_url}audio/ogg/{substring-before(@url,'.mp3')}.ogg" type="audio/ogg"/> 
+      <source src="{$site_url}/audio/mp3/{@url}" type="audio/mpeg"/>
+      <source src="{$site_url}/audio/ogg/{substring-before(@url,'.mp3')}.ogg" type="audio/ogg"/>
     </audio>
   </xsl:template>
   
   <xsl:template match="media[@mimeType='video/mp4']">
     <iframe width="560" height="315" src="{@url}" frameborder="0" allowfullscreen="true">&#160;</iframe>
+  </xsl:template>
+  
+  <!-- ~~~~~~~ persName ~~~~~~~ -->
+  
+  <xsl:template match="text/body//persName">
+        <a>
+          <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/item/wfc.person#<xsl:value-of select="@xml:id"/></xsl:attribute>
+          <xsl:apply-templates/>
+        </a>
   </xsl:template>
 
 </xsl:stylesheet>
