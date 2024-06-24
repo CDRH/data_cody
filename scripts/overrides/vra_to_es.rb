@@ -14,6 +14,11 @@ class VraToEs
       "has_source.title" => "/vra/work[1]/sourceSet[1]/display[1]"
       },
     "keywords" => "/vra/work/subjectSet/subject/term[not(@type='personalName')]",
+    "person" => [
+        "/vra/work/agentSet/agent[not(descendant::name/@type='corporate')]",
+        "//subjectSet/subject/term[@type='personalName']"
+      ],
+    "publisher" => "/vra/work/agentSet/agent[descendant::name/@type='corporate']",
     "title" => "/vra/work[1]/titleSet[1]/title[1]",
     "topics" => "/vra/work/subjectSet/display[1]"
     }
@@ -24,7 +29,7 @@ class VraToEs
   ################
 
   def category
-    "images"
+    "Images"
   end
 
   def contributors
@@ -79,7 +84,7 @@ class VraToEs
     end
     pubs.empty? ? nil : pubs
   end
-
+  
   def rights
     # TODO
   end
