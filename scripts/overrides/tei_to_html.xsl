@@ -34,6 +34,10 @@
 <!-- ==================================================================== -->
 <!--                            OVERRIDES                                 -->
 <!-- ==================================================================== -->
+  
+<!-- ==================================================================== -->
+<!--                            NOTES                                     -->
+<!-- ==================================================================== -->
 
   <xsl:template match="ref">
     <!-- the "back" link -->
@@ -52,36 +56,53 @@
         <xsl:text>.note</xsl:text>
       </xsl:attribute>
       <xsl:attribute name="class">ref</xsl:attribute>
-      <xsl:value-of select="text()"/>
+      [<xsl:value-of select="text()"/>]
     </a>
   </xsl:template>
 
-  <!-- footnotes at the bottom of the page -->
+  <!-- notes at the bottom of the page -->
   <xsl:template match="back">
-    <xsl:if test="note">
-      <div class="bibliography">
-        <xsl:for-each select="note">
-          <p>
-            <a>
-              <xsl:attribute name="name">
-                <xsl:value-of select="@xml:id"/>
-                <xsl:text>.note</xsl:text>
-              </xsl:attribute>
-              <xsl:text> </xsl:text>
-            </a>
-            <xsl:apply-templates/>
-            <a>
-              <xsl:attribute name="href">
-                <xsl:text>#</xsl:text>
-                <xsl:value-of select="@xml:id"/>
-                <xsl:text>.ref</xsl:text>
-              </xsl:attribute>
-              <xsl:text> [back]</xsl:text>
-            </a>
-          </p>
-        </xsl:for-each>
-      </div>
-    </xsl:if>
+    <xsl:choose>
+      <xsl:when test="child::note">
+        <div class="bibliography">
+          <xsl:apply-templates/>
+        </div>
+      </xsl:when>
+      <xsl:when test="not(child::note) and not(string(.))">
+        <xsl:if test="/TEI/teiHeader/fileDesc/notesStmt/note != ''">
+          <div class="bibliography">
+            <p>Note: <xsl:value-of select="/TEI/teiHeader/fileDesc/notesStmt/note"/></p>
+          </div>
+        </xsl:if>
+      </xsl:when>
+      <xsl:when test="string(.)">
+        <div class="bibliography">
+          <xsl:apply-templates/>
+        </div>
+      </xsl:when>
+      <xsl:otherwise/>
+      <!-- Do nothing -->
+    </xsl:choose>
+  </xsl:template>
+  
+  <xsl:template match="//back/note">
+    <p>
+      <a>
+        <xsl:attribute name="name">
+          <xsl:value-of select="@xml:id"/>
+          <xsl:text>.note</xsl:text>
+        </xsl:attribute>
+        <xsl:text> </xsl:text>
+      </a>
+      <xsl:apply-templates/>
+      <xsl:text> </xsl:text>
+      <a>
+        <xsl:attribute name="href">
+          <xsl:text>#</xsl:text>
+          <xsl:value-of select="@xml:id"/>
+          <xsl:text>.ref</xsl:text>
+        </xsl:attribute> [back] </a>
+    </p>
   </xsl:template>
   
   <!-- ==================================================================== -->
@@ -227,14 +248,14 @@
   
   <xsl:template match="ab">
     <p>
-      <xsl:attribute name="class">
-        <xsl:value-of select="name()"/>
-      </xsl:attribute>
-      <xsl:apply-templates/>
+        <xsl:attribute name="class">tei_<xsl:value-of select="name()"/><!-- add a class with the name of the element --></xsl:attribute>
+        <xsl:apply-templates/>
     </p>
   </xsl:template>
   
-  <!-- ~~~~~~~ audio and video ~~~~~~~ -->
+  <!-- ================================================ -->
+  <!--                   AUDIO & VIDEO                  -->
+  <!-- ================================================ -->
   
   <xsl:template match="media[@mimeType='audio/mp3']">
     <audio controls="controls">
@@ -247,13 +268,50 @@
     <iframe width="560" height="315" src="{@url}" frameborder="0" allowfullscreen="true">&#160;</iframe>
   </xsl:template>
   
-  <!-- ~~~~~~~ persName ~~~~~~~ -->
+  <!-- ================================================ -->
+  <!--                   PERSNAME                       -->
+  <!-- ================================================ -->
   
-  <xsl:template match="text/body//persName">
+  <xsl:template match="text//persName">
         <a>
           <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/item/wfc.person#<xsl:value-of select="@xml:id"/></xsl:attribute>
           <xsl:apply-templates/>
         </a>
+  </xsl:template>
+
+  <!-- ================================================ -->
+  <!--                 DEL, SUPPLIED               -->
+  <!-- ================================================ -->
+   
+  <xsl:template match="del">
+    <xsl:text> </xsl:text>
+    <span>
+      <xsl:attribute name="class">tei_<xsl:value-of select="name()"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </span>
+    <xsl:text> </xsl:text>
+  </xsl:template>
+  
+  <xsl:template match="supplied">
+    <xsl:text> </xsl:text>
+    <span>
+      <xsl:attribute name="class">tei_<xsl:value-of select="name()"/></xsl:attribute>
+      [<xsl:apply-templates/>]
+    </span>
+    <xsl:text> </xsl:text>
+  </xsl:template>
+  
+  <!-- ================================================ -->
+  <!--                 TITLE PAGE; MISC ELEMENTS        -->
+  <!-- ================================================ -->
+  
+  <xsl:template match="titlePart | docTitle | docAuthor | docImprint | publisher | pubPlace | quote | address | addrLine | figDesc">
+    <xsl:text> </xsl:text>
+    <span>
+      <xsl:attribute name="class">tei_<xsl:value-of select="name()"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </span>
+    <xsl:text> </xsl:text>
   </xsl:template>
 
 </xsl:stylesheet>
