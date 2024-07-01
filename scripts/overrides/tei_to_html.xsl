@@ -269,7 +269,7 @@
   </xsl:template>
   
   <!-- ================================================ -->
-  <!--                   PERSNAME                       -->
+  <!--              PERSNAME & ORGNAME                  -->
   <!-- ================================================ -->
   
   <xsl:template match="text//persName">
@@ -277,6 +277,13 @@
           <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/item/wfc.person#<xsl:value-of select="@xml:id"/></xsl:attribute>
           <xsl:apply-templates/>
         </a>
+  </xsl:template>
+  
+  <xsl:template match="text//orgName">
+    <a>
+      <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/item/wfc.encyc#<xsl:value-of select="@xml:id"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </a>
   </xsl:template>
 
   <!-- ================================================ -->
