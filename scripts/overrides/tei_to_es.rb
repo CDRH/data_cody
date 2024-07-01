@@ -59,7 +59,10 @@ class TeiToEs
     author = get_text(@xpaths["citation"]["author"])
     title_a = get_text(@xpaths["citation"]["title_a"])
     title_j = get_text(@xpaths["citation"]["title_j"])
-    cit << { "author" => author, "title_a" => title_a, "title_j" => title_j }
+    if title_j && !title_j.empty?
+      cit << { "title_j" => title_j }
+    end
+    #cit << { "author" => author, "title_a" => title_a, "title_j" => title_j }
   end
 
   def contributor
@@ -98,6 +101,30 @@ class TeiToEs
     else
       langs
     end
+  end
+
+  def person
+    people = []
+    person = get_text(@xpaths["person"])
+    if person && !person.empty?
+      people = get_elements(@xpaths["person"]).map do |ele|
+        {
+          "id" => "",
+          "name" => get_text(".", xml: ele),
+          "role" => ""
+        }
+      end
+      #people << { "name" => person }
+    end
+    people.uniq
+    # people = get_elements(@xpaths["person"]).map do |ele|
+    #   {
+    #     "id" => "",
+    #     "name" => get_text(".", xml: ele),
+    #     "role" => ""
+    #   }
+    # end
+    # people.uniq
   end
 
   def rights_uri
