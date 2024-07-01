@@ -11,6 +11,13 @@ class TeiToEs
       "title_a" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='a']",
       "title_j" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='j']"
     },
+    "contributor" => [
+        "/TEI/teiHeader/revisionDesc/change/name",
+        "/TEI/teiHeader/fileDesc/titleStmt/editor",
+        "/TEI/teiHeader/fileDesc/titleStmt/respStmt/persName",
+        "/TEI/teiHeader/fileDesc/titleStmt/principal",
+        "/TEI/teiHeader/fileDesc/sourceDesc/recordingStmt/recording/respStmt"
+    ],
     "creator" => [
       "/TEI/teiHeader/fileDesc/titleStmt/author",
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author"
@@ -46,6 +53,33 @@ class TeiToEs
   ################
   #    FIELDS    #
   ################
+
+  def citation
+    cit = []
+    author = get_text(@xpaths["citation"]["author"])
+    title_a = get_text(@xpaths["citation"]["title_a"])
+    title_j = get_text(@xpaths["citation"]["title_j"])
+    cit << { "author" => author, "title_a" => title_a, "title_j" => title_j }
+  end
+
+  def contributor
+    contribs = get_elements(@xpaths["contributor"]).map do |ele|
+      if get_text("name", xml:ele)
+        {
+          "id" => "",
+          "name" => get_text("name", xml: ele),
+          "role" => get_text("resp", xml: ele)
+        }
+      else
+        {
+          "id" => "",
+          "name" => get_text(".", xml: ele),
+          "role" => "contributor"
+        }
+      end
+    end
+    contribs.uniq
+  end
 
   def cover_image
     images = get_list(@xpaths["image_id"])
