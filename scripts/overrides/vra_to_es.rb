@@ -11,14 +11,12 @@ class VraToEs
     "date" => "/vra/work/dateSet[1]/display",
     "format" => "/vra/work[1]/measurementsSet[1]/display[1]",
     "has_source" => {
-      "has_source.title" => "/vra/work[1]/sourceSet[1]/display[1]"
+      "title" => "/vra/work[1]/sourceSet[1]/display[1]"
       },
     "keywords" => "/vra/work/subjectSet/subject/term[not(@type='personalName')]",
-    "person" => [
-        "/vra/work/agentSet/agent[not(descendant::name/@type='corporate')]",
-        "//subjectSet/subject/term[@type='personalName']"
-      ],
+    "person" => "//subjectSet/subject/term[@type='personalName']",
     "publisher" => "/vra/work/agentSet/agent[descendant::name/@type='corporate']",
+    "rights_holder" => "/vra/work/rightsSet/rights/rightsHolder",
     "title" => "/vra/work[1]/titleSet[1]/title[1]",
     "topics" => "/vra/work/subjectSet/display[1]"
     }
@@ -30,6 +28,19 @@ class VraToEs
 
   def category
     "Images"
+  end
+
+  def category2
+    type = @id[/wfc\.img\.([A-z]+)\./, 1]
+    mapping = {
+      "cc" => "Cabinet Cards",
+      "ill" => "Illustration",
+      "pc" => "Postcard",
+      "pho" => "Photograph",
+      "pst" => "Poster",
+      "va" => "Visual Art"
+    }
+    [mapping[type]] || "none"
   end
 
   def contributors
@@ -84,22 +95,32 @@ class VraToEs
     end
     pubs.empty? ? nil : pubs
   end
+
+  def has_source
+    source = []
+    title = get_text(@xpaths["has_source"]["title"])
+    if title && !title.empty?
+      source << { "title" => title }
+    end
+  end
   
-  def rights
-    # TODO
+  def person
+    people = []
+    person = get_text(@xpaths["person"])
+    if person && !person.empty?
+      people = get_elements(@xpaths["person"]).map do |ele|
+        {
+          "id" => "",
+          "name" => get_text(".", xml: ele),
+          "role" => ""
+        }
+      end
+    end
+    people.uniq
   end
 
-  def category2
-    type = @id[/wfc\.img\.([A-z]+)\./, 1]
-    mapping = {
-      "cc" => "Cabinet Cards",
-      "ill" => "Illustration",
-      "pc" => "Postcard",
-      "pho" => "Photograph",
-      "pst" => "Poster",
-      "va" => "Visual Art"
-    }
-    [mapping[type]] || "none"
+  def rights_holder
+    get_text(@xpaths["rights_holder"])
   end
 
   def topics
