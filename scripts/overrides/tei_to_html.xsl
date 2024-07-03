@@ -40,6 +40,16 @@
 <!-- ==================================================================== -->
 
   <xsl:template match="ref">
+    <xsl:choose>
+    <xsl:when test="ancestor::note">
+      <a>
+        <xsl:attribute name="href">
+          <xsl:value-of select="@target"/>
+        </xsl:attribute>
+        <xsl:value-of select="text()"/>
+      </a>
+    </xsl:when>
+    <xsl:otherwise>
     <!-- the "back" link -->
     <a>
       <xsl:attribute name="name">
@@ -58,6 +68,8 @@
       <xsl:attribute name="class">ref</xsl:attribute>
       [<xsl:value-of select="text()"/>]
     </a>
+    </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
 
   <!-- notes at the bottom of the page -->
@@ -104,6 +116,20 @@
         </xsl:attribute> [back] </a>
     </p>
   </xsl:template>
+  
+  <xsl:template match="note[@type='authorial']">
+    <p>
+      <xsl:attribute name="class">tei_note_type_authorial</xsl:attribute>
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template>
+  
+  <xsl:template match="note[@type='letterhead']">
+    <p>
+      <xsl:attribute name="class">tei_note_type_letterhead</xsl:attribute>
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template> 
   
   <!-- ==================================================================== -->
   <!--                          PERSONOGRAPHY                               -->
