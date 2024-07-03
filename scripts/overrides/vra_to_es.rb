@@ -31,12 +31,13 @@ class VraToEs
   end
 
   def category2
-    type = @id[/wfc\.img\.([A-z]+)\./, 1]
+    type = @id[/wfc\.img\.([A-z]+)./, 1]
     mapping = {
       "cc" => "Cabinet Cards",
       "ill" => "Illustration",
       "pc" => "Postcard",
       "pho" => "Photograph",
+      "pht" => "Photograph",
       "pst" => "Poster",
       "va" => "Visual Art"
     }
