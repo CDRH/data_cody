@@ -9,7 +9,8 @@ class TeiToEs
     "citation" => {
       "author" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author",
       "title_a" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='a']",
-      "title_j" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='j']"
+      "title_j" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='j']",
+      "id" => "/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/idno"
     },
     "contributor" => [
         "/TEI/teiHeader/revisionDesc/change/name",
@@ -59,10 +60,45 @@ class TeiToEs
     author = get_text(@xpaths["citation"]["author"])
     title_a = get_text(@xpaths["citation"]["title_a"])
     title_j = get_text(@xpaths["citation"]["title_j"])
+    id = get_text(@xpaths["citation"]["id"])
     if title_j && !title_j.empty?
-      cit << { "title_j" => title_j }
+      if title_a && !title_a.empty?
+        if author && !author.empty?
+          if id && !id.empty?
+            cit << { "author" => author, "title_a" => title_a, "title_j" => title_j, "id" => id }
+          else
+            cit << { "author" => author, "title_a" => title_a, "title_j" => title_j }
+          end
+        else
+          if id && !id.empty?
+            cit << { "title_a" => title_a, "title_j" => title_j, "id" => id }
+          else
+            cit << { "title_a" => title_a, "title_j" => title_j }
+          end
+        end
+      else
+        cit << { "title_j" => title_j }
+      end
+    elsif title_a && !title_a.empty?
+      if author && !author.empty?
+        cit << { "author" => author, "title_a" => title_a }
+      else
+        if id && !id.empty?
+          cit << { "title_a" => title_a, "id" => id }
+        else
+          cit << { "title_a" => title_a }
+        end
+      end
+    elsif author && !author.empty?
+      if id && !id.empty?
+        cit << { "author" => author, "id" => id }
+      else
+        cit << { "author" => author }
+      end
+    elsif id && !id.empty?
+        cit << { "id" => id }
     end
-    #cit << { "author" => author, "title_a" => title_a, "title_j" => title_j }
+    #cit << { "author" => author, "title_a" => title_a, "title_j" => title_j, "id" => id }
   end
 
   def contributor
