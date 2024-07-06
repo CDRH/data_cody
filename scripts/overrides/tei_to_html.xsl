@@ -192,7 +192,7 @@
       <xsl:when test="ancestor::*[name() = 'person']">
         <xsl:apply-templates/>
       </xsl:when>
-      <!-- the below isn't currently working: may wish to update to iiif path at some point if feeling ambitious -->
+      <!-- the below isn't currently working: may wish to add js at some point if feeling ambitious -->
       <xsl:when test="$type = 'illustration'">
         <span class="figure">
           <span>
@@ -334,6 +334,50 @@
     <xsl:text> </xsl:text>
   </xsl:template>
   
+  <!-- ================================================ -->
+  <!--                 TITLE PAGE; MISC ELEMENTS        -->
+  <!-- ================================================ -->
+  
+  <!-- this list template (from Whitman) moves anything that's not part of the list into an 
+       <li> because html only allows li's inside <ul> or <ol> -->
+  <!-- maybe add to datura -->
+  <xsl:template match="list">
+    <ul>
+      <xsl:attribute name="class">
+        <xsl:if test="@*">
+          <xsl:for-each select="@*">
+            <xsl:text>tei_list_</xsl:text>
+            <xsl:value-of select="name()"/>
+            <xsl:text>_</xsl:text>
+            <xsl:value-of select="."/>
+            <xsl:text> </xsl:text>
+          </xsl:for-each>
+        </xsl:if>
+        <xsl:text> tei_list</xsl:text>
+      </xsl:attribute>
+      <xsl:for-each select="./*">
+        <li>
+          <xsl:attribute name="class">
+            <xsl:choose>
+              <xsl:when test="not(name() = 'item')">
+                <xsl:text>non_item tei_list_</xsl:text>
+                <xsl:value-of select="name()"/>
+                <xsl:if test="name() = 'note' and @type = 'authorial'"> tei_list_note_type_authorial</xsl:if>
+              </xsl:when>
+              <xsl:otherwise><xsl:call-template name="add_attributes"/></xsl:otherwise>
+            </xsl:choose>
+          </xsl:attribute>
+          <xsl:apply-templates select="."/>
+        </li>
+      </xsl:for-each>
+    </ul>
+  </xsl:template>
+  
+  <!-- overwrite datura "item" rule since we are adding the <li> tag above -->
+  <xsl:template match="item">
+    <xsl:apply-templates/>
+  </xsl:template>
+
   <!-- ================================================ -->
   <!--                 TITLE PAGE; MISC ELEMENTS        -->
   <!-- ================================================ -->
