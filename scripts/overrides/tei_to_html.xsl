@@ -38,37 +38,54 @@
 <!-- ==================================================================== -->
 <!--                            NOTES                                     -->
 <!-- ==================================================================== -->
-
+  
   <xsl:template match="ref">
     <xsl:choose>
-    <xsl:when test="ancestor::note">
-      <a>
-        <xsl:attribute name="href">
-          <xsl:value-of select="@target"/>
-        </xsl:attribute>
-        <xsl:value-of select="text()"/>
-      </a>
-    </xsl:when>
-    <xsl:otherwise>
-    <!-- the "back" link -->
-    <a>
-      <xsl:attribute name="name">
-        <xsl:value-of select="@target"/>
-        <xsl:text>.ref</xsl:text>
-      </xsl:attribute>
-      <xsl:text> </xsl:text>
-    </a>
-    <!-- put a target and [1] -->
-    <a>
-      <xsl:attribute name="href">
-        <xsl:text>#</xsl:text>
-        <xsl:value-of select="@target"/>
-        <xsl:text>.note</xsl:text>
-      </xsl:attribute>
-      <xsl:attribute name="class">ref</xsl:attribute>
-      [<xsl:value-of select="text()"/>]
-    </a>
-    </xsl:otherwise>
+      <!-- When an offsite link -->
+      <xsl:when test="starts-with(@target, 'http')">
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="@target"/>
+          </xsl:attribute>
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <!-- When an internal link to another document. target should point to full path after siteurl -->
+      <xsl:when test="contains(@target, 'wfc')">
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="$site_url"/>
+            <xsl:value-of select="@target"/>
+          </xsl:attribute>
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <xsl:when test="ends-with(@target, 'html')">
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="@target"/>
+          </xsl:attribute>
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <!-- otherwise it is a note, and will link to notes in metadat -->
+      <xsl:otherwise>
+        <a>
+          <xsl:attribute name="name">
+            <xsl:value-of select="@target"/>
+            <xsl:text>.ref</xsl:text>
+          </xsl:attribute>
+        </a>
+        <a>
+          <xsl:attribute name="href">
+            <xsl:text>#</xsl:text>
+            <xsl:value-of select="@target"/>
+            <xsl:text>.note</xsl:text>
+          </xsl:attribute>
+          <xsl:attribute name="class">
+            <xsl:text>ref</xsl:text>
+          </xsl:attribute> [<xsl:apply-templates/>] </a>
+      </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
 
@@ -117,19 +134,23 @@
     </p>
   </xsl:template>
   
-  <xsl:template match="note[@type='authorial']">
-    <p>
-      <xsl:attribute name="class">tei_note_type_authorial</xsl:attribute>
-      <xsl:apply-templates/>
-    </p>
+  <xsl:template match="body//note">
+    <xsl:choose>    
+      <xsl:when test="@type='editorial'"/>
+      <xsl:when test="@type='letterhead'">
+        <p>
+          <xsl:attribute name="class">tei_note_type_letterhead</xsl:attribute>
+          <xsl:apply-templates/>
+        </p>
+      </xsl:when>
+      <xsl:otherwise>
+      <p>
+        <xsl:attribute name="class">tei_note</xsl:attribute>
+        <xsl:apply-templates/>
+      </p>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
-  
-  <xsl:template match="note[@type='letterhead']">
-    <p>
-      <xsl:attribute name="class">tei_note_type_letterhead</xsl:attribute>
-      <xsl:apply-templates/>
-    </p>
-  </xsl:template> 
   
   <!-- ==================================================================== -->
   <!--                          PERSONOGRAPHY                               -->
@@ -382,7 +403,7 @@
   <!--                 TITLE PAGE; MISC ELEMENTS        -->
   <!-- ================================================ -->
   
-  <xsl:template match="titlePart | docTitle | docAuthor | docImprint | publisher | pubPlace | quote | address | addrLine | figDesc">
+  <xsl:template match="titlePart | docTitle | docAuthor | docImprint | publisher | pubPlace | quote | address | addrLine | figDesc | stamp">
     <xsl:text> </xsl:text>
     <span>
       <xsl:attribute name="class">tei_<xsl:value-of select="name()"/></xsl:attribute>
