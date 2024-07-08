@@ -167,6 +167,18 @@ class TeiToEs
     "http://centerofthewest.org/research/rights-reproductions"
   end
 
+  def text_additional
+    text_additional = []
+    person = get_text(@xpaths["person"])
+    title = get_text(@xpaths["title"])
+    author = get_text(@xpaths["citation"]["author"])
+    title_a = get_text(@xpaths["citation"]["title_a"])
+    title_j = get_text(@xpaths["citation"]["title_j"])
+    places = get_text(@xpaths["places"])
+    
+    text_additional << person << title << author << title_a << title_j << places
+  end
+
   def uri
     # TODO once we understand how the url structure will work for Cody
   end

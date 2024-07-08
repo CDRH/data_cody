@@ -124,6 +124,16 @@ class VraToEs
     get_text(@xpaths["rights_holder"])
   end
 
+  def text_additional
+    text_additional = []
+    person = get_text(@xpaths["person"])
+    creator = get_text(@xpaths["creator"])
+    title = get_text(@xpaths["title"])
+    places = get_text(@xpaths["places"])
+
+    text_additional << person << title << creator << places
+  end
+
   def topics
     # may have to add handling for nil here eventually
     t = get_text(@xpaths["topics"])
