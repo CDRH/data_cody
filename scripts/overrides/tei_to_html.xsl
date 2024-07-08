@@ -137,6 +137,7 @@
   <xsl:template match="body//note">
     <xsl:choose>    
       <xsl:when test="@type='editorial'"/>
+      <xsl:when test="@type='editors'"/>
       <xsl:when test="@type='letterhead'">
         <p>
           <xsl:attribute name="class">tei_note_type_letterhead</xsl:attribute>
