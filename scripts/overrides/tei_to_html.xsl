@@ -36,6 +36,59 @@
 <!-- ==================================================================== -->
   
 <!-- ==================================================================== -->
+<!--                           LANGUAGE                                   -->
+<!-- ==================================================================== --> 
+  
+  <xsl:template name="language_choice">
+    <xsl:param name="language"></xsl:param>
+    <xsl:choose>
+      <xsl:when test="$language = 'de'">German</xsl:when>
+      <xsl:when test="$language = 'en'">English</xsl:when>
+      <xsl:when test="$language = 'fr'">French</xsl:when>
+      <xsl:when test="$language = 'it'">Italian</xsl:when>
+      <xsl:when test="$language = 'es'">Spanish</xsl:when>
+      <xsl:when test="$language = 'el'">Greek</xsl:when>
+      <xsl:otherwise>Unknown</xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+  
+  <xsl:template match="div1[@xml:lang]">
+  <div class="translation" id="{@xml:lang}">
+    <h4>
+      <xsl:choose>
+        <xsl:when test="@xml:lang != 'en'">
+          <xsl:call-template name="language_choice">
+            <xsl:with-param name="language"><xsl:value-of select="@xml:lang"/></xsl:with-param>
+          </xsl:call-template>
+          <xsl:text> | </xsl:text> 
+          <a>
+            <xsl:attribute name="href">
+              <xsl:text>#en</xsl:text>
+            </xsl:attribute>
+            <xsl:text>English</xsl:text>
+          </a>
+        </xsl:when>
+        <xsl:when test="not(preceding-sibling::div1)">
+          <xsl:text>English</xsl:text>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:text>English | </xsl:text>
+          <a>
+            <xsl:attribute name="href">
+              <xsl:text>#</xsl:text><xsl:value-of select="preceding-sibling::div1[last()]/@xml:lang"/>
+            </xsl:attribute>
+            <xsl:call-template name="language_choice">
+              <xsl:with-param name="language"><xsl:value-of select="preceding-sibling::div1[last()]/@xml:lang"/></xsl:with-param>
+            </xsl:call-template>
+          </a>
+        </xsl:otherwise>
+      </xsl:choose>
+    </h4>
+    <xsl:apply-templates/>
+  </div>
+  </xsl:template>
+  
+<!-- ==================================================================== -->
 <!--                            NOTES                                     -->
 <!-- ==================================================================== -->
   
@@ -307,8 +360,8 @@
   
   <xsl:template match="media[@mimeType='audio/mp3']">
     <audio controls="controls">
-      <source src="{$site_url}/audio/mp3/{@url}" type="audio/mpeg"/>
-      <source src="{$site_url}/audio/ogg/{substring-before(@url,'.mp3')}.ogg" type="audio/ogg"/>
+      <source src="{$site_url}/codyarchive/audio/mp3/{@url}" type="audio/mpeg"/>
+      <source src="{$site_url}/codyarchive/audio/ogg/{substring-before(@url,'.mp3')}.ogg" type="audio/ogg"/>
     </audio>
   </xsl:template>
   
