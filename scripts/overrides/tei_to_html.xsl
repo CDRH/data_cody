@@ -303,7 +303,7 @@
       </xsl:when>
       <xsl:otherwise>
         <div class="inline_figure">
-          <div class="p">[<xsl:value-of select="@n"/>]</div>
+          <div class="tei_figDesc">[<xsl:value-of select="@n"/>]</div>
           <xsl:apply-templates/>
         </div>
       </xsl:otherwise>
@@ -388,7 +388,7 @@
   </xsl:template>
 
   <!-- ================================================ -->
-  <!--                 DEL, SUPPLIED               -->
+  <!--                 DEL, SUPPLIED                    -->
   <!-- ================================================ -->
    
   <xsl:template match="del">
@@ -410,7 +410,7 @@
   </xsl:template>
   
   <!-- ================================================ -->
-  <!--                 TITLE PAGE; MISC ELEMENTS        -->
+  <!--                 LISTS                            -->
   <!-- ================================================ -->
   
   <!-- this list template (from Whitman) moves anything that's not part of the list into an 
@@ -465,5 +465,14 @@
     </span>
     <xsl:text> </xsl:text>
   </xsl:template>
+  
+  <xsl:template match="milestone">
+    <span>
+      <xsl:attribute name="class">tei_<xsl:value-of select="name()"/></xsl:attribute>
+      <xsl:apply-templates/>
+    </span>
+  </xsl:template>
+  
+  <xsl:template match="fw"/>
 
 </xsl:stylesheet>
