@@ -6,7 +6,7 @@ class VraToEs
 
   def override_xpaths
     {
-    "creator" => "/vra/work/agentSet/display",
+    "creator" => "/vra/work/agentSet/agent",
     # cody vra doesn't appear to use anything more specific than the display date
     "date" => "/vra/work/dateSet[1]/display",
     "format" => "/vra/work[1]/measurementsSet[1]/display[1]",
@@ -44,9 +44,9 @@ class VraToEs
     [mapping[type]] || "none"
   end
 
-  def contributors
+  def contributor
     cons = []
-    @xml.xpath(@xpaths["contributors"]).each do |contributor|
+    @xml.xpath(@xpaths["contributor"]).each do |contributor|
       crole = contributor.xpath("role").text
       cname = contributor.xpath("name").text
       if crole == "contributor"
@@ -57,12 +57,22 @@ class VraToEs
   end
 
   def creator
-    creators = get_list(@xpaths["creator"])
-    if creators
-      creators.map do |creator|
-        { "name" => creator }
+    creators = [] 
+    @xml.xpath(@xpaths["creator"]).each do |creator|
+      crole = creator.xpath("role").text
+      cname = creator.xpath("name").text
+      if crole == "publisher"
+      elsif crole == "contributor"
+      else
+        creators << { "name" => cname }
       end
     end
+    creators.empty? ? nil : creators
+    # if creators
+    #   creators.map do |creator|
+    #     { "name" => creator }
+    #   end
+    # end
   end
 
   def date(before=true)
