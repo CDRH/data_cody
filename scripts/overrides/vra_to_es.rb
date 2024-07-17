@@ -10,13 +10,12 @@ class VraToEs
     # cody vra doesn't appear to use anything more specific than the display date
     "date" => "/vra/work/dateSet[1]/display",
     "format" => "/vra/work[1]/measurementsSet[1]/display[1]",
-    "has_source" => {
-      "title" => "/vra/work[1]/sourceSet[1]/display[1]"
-      },
     "keywords" => "/vra/work/subjectSet/subject/term[not(@type='personalName')]",
     "person" => "//subjectSet/subject/term[@type='personalName']",
-    "publisher" => "/vra/work/agentSet/agent[descendant::name/@type='corporate']",
+    "publisher" => "/vra/work/agentSet/agent",
+    "relation" => "/vra/work/relationSet",
     "rights_holder" => "/vra/work/rightsSet/rights/rightsHolder",
+    "source" => "/vra/work/sourceSet",
     "title" => "/vra/work[1]/titleSet[1]/title[1]",
     "topics" => "/vra/work/subjectSet/display[1]"
     }
@@ -68,11 +67,6 @@ class VraToEs
       end
     end
     creators.empty? ? nil : creators
-    # if creators
-    #   creators.map do |creator|
-    #     { "name" => creator }
-    #   end
-    # end
   end
 
   def date(before=true)
@@ -108,10 +102,11 @@ class VraToEs
   end
 
   def has_source
-    source = []
-    title = get_text(@xpaths["has_source"]["title"])
-    if title && !title.empty?
-      source << { "title" => title }
+    source = get_elements(@xpaths["source"]).map do |ele|
+      {
+        "title" => get_text("display", xml: ele),
+        "id" => get_text("source/name/@href", xml: ele)
+      }
     end
   end
   
@@ -128,6 +123,29 @@ class VraToEs
       end
     end
     people.uniq
+  end
+
+  def publisher
+    pubs = []
+    @xml.xpath(@xpaths["publisher"]).each do |publisher|
+      prole = publisher.xpath("role").text
+      pname = publisher.xpath("name").text
+      if prole == "publisher"
+        pubs << { "name" => pname }
+      end
+    end
+    pubs.empty? ? nil : cons
+  end
+
+  def has_relation
+    relations = get_elements(@xpaths["relation"]).map do |ele|
+      id_full = get_text("relation/@href", xml: ele)
+      id_short = id_full.partition('/').last
+      {
+        "title" => get_text("display", xml: ele),
+        "id" => id_short
+      }
+    end
   end
 
   def rights_holder
