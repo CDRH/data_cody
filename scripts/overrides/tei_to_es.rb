@@ -132,14 +132,18 @@ class TeiToEs
   end
 
   def creator
-    creators = @xml.xpath(@xpaths["creator"])
-    creators.map do |c|
-      if c["n"]
-        { "name" => c["n"] }
-      #TODO: this is busted
-      #elsif c.text && c.text.length > 0
-      else
-        { "name" => Datura::Helpers.normalize_space(c.text) }
+    creators = []
+    creators_check = get_text(@xpaths["creator"])
+    if creators_check && !creators_check.empty?
+      creators = @xml.xpath(@xpaths["creator"])
+      creators.map do |c|
+        if c["n"]
+          { "name" => c["n"] }
+        #TODO: this is busted
+        elsif c.text && c.text.length > 0
+        #else
+          { "name" => Datura::Helpers.normalize_space(c.text) }
+        end
       end
     end
   end

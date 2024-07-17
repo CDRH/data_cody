@@ -57,16 +57,19 @@ class VraToEs
 
   def creator
     creators = [] 
-    @xml.xpath(@xpaths["creator"]).each do |creator|
-      crole = creator.xpath("role").text
-      cname = creator.xpath("name").text
-      if crole == "publisher"
-      elsif crole == "contributor"
-      else
-        creators << { "name" => cname }
+    creators_check = get_text(@xpaths["creator"])
+    if creators_check && !creators_check.empty?
+      @xml.xpath(@xpaths["creator"]).each do |creator|
+        crole = creator.xpath("role").text
+        cname = creator.xpath("name").text
+        if crole == "publisher"
+        elsif crole == "contributor"
+        else
+          creators << { "name" => cname }
+        end
       end
+      creators.empty? ? nil : creators
     end
-    creators.empty? ? nil : creators
   end
 
   def date(before=true)
@@ -102,11 +105,30 @@ class VraToEs
   end
 
   def has_source
-    source = get_elements(@xpaths["source"]).map do |ele|
-      {
-        "title" => get_text("display", xml: ele),
-        "id" => get_text("source/name/@href", xml: ele)
-      }
+    source = []
+    source_check = get_text(@xpaths["source"])
+    if source_check && !source_check.empty?
+      source = get_elements(@xpaths["source"]).map do |ele|
+        {
+          "title" => get_text("display", xml: ele),
+          "id" => get_text("source/name/@href", xml: ele)
+        }
+      end
+    end
+  end
+
+  def has_relation
+    relations = []
+    relations_check = get_text(@xpaths["relation"])
+    if relations_check && !relations_check.empty?
+      relations = get_elements(@xpaths["relation"]).map do |ele|
+        id_full = get_text("relation/@href", xml: ele)
+        #id_short = id_full.partition('/').last
+        {
+          "title" => get_text("display", xml: ele),
+          "id" => id_full
+        }
+      end
     end
   end
   
@@ -135,17 +157,6 @@ class VraToEs
       end
     end
     pubs.empty? ? nil : cons
-  end
-
-  def has_relation
-    relations = get_elements(@xpaths["relation"]).map do |ele|
-      id_full = get_text("relation/@href", xml: ele)
-      id_short = id_full.partition('/').last
-      {
-        "title" => get_text("display", xml: ele),
-        "id" => id_short
-      }
-    end
   end
 
   def rights_holder
