@@ -13,20 +13,19 @@ class TeiToEs
       "id" => "/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/idno"
     },
     "contributor" => [
-        "/TEI/teiHeader/revisionDesc/change/name",
-        "/TEI/teiHeader/fileDesc/titleStmt/editor",
-        "/TEI/teiHeader/fileDesc/titleStmt/respStmt/persName",
-        "/TEI/teiHeader/fileDesc/titleStmt/principal",
+        "/TEI/teiHeader/fileDesc/titleStmt/respStmt",
         "/TEI/teiHeader/fileDesc/sourceDesc/recordingStmt/recording/respStmt"
     ],
-    "creator" => [
-      "/TEI/teiHeader/fileDesc/titleStmt/author",
-      "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author"
-    ],
+    "creator" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author",
     "language" => "/TEI/text/body/div1/@lang",
     "notes" => "/TEI/teiHeader/fileDesc/titleStmt/sponsor",
     "person" => "/TEI/teiHeader/profileDesc/textClass/keywords[@n='people']/term",
-    "subcategory" => "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term"
+    "relation" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/relatedItem/bibl",
+    "subcategory" => "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term",
+    "title" => [
+      "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level = 'm']",
+      "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level = 'a']"
+    ]
     }
   end
 
@@ -61,6 +60,8 @@ class TeiToEs
     title_a = get_text(@xpaths["citation"]["title_a"])
     title_j = get_text(@xpaths["citation"]["title_j"])
     id = get_text(@xpaths["citation"]["id"])
+
+    # TODO: make this better, yikes
     if title_j && !title_j.empty?
       if title_a && !title_a.empty?
         if author && !author.empty?
@@ -130,6 +131,19 @@ class TeiToEs
     end
   end
 
+  def creator
+    creators = @xml.xpath(@xpaths["creator"])
+    creators.map do |c|
+      if c["n"]
+        { "name" => c["n"] }
+      #TODO: this is busted
+      #elsif c.text && c.text.length > 0
+      else
+        { "name" => Datura::Helpers.normalize_space(c.text) }
+      end
+    end
+  end
+
   def language
     langs = get_list(@xpaths["language"])
     if !langs || langs.empty?
@@ -150,17 +164,22 @@ class TeiToEs
           "role" => ""
         }
       end
-      #people << { "name" => person }
     end
     people.uniq
-    # people = get_elements(@xpaths["person"]).map do |ele|
-    #   {
-    #     "id" => "",
-    #     "name" => get_text(".", xml: ele),
-    #     "role" => ""
-    #   }
-    # end
-    # people.uniq
+  end
+
+  # using has_relation fields a bit wantonly here--TODO remap or add to schema?
+  def has_relation
+    relations = get_elements(@xpaths["relation"]).map do |ele|
+      {
+        #{}"id" => get_text("idno", xml: ele),
+        "title" => get_text("title[@type='main']", xml: ele),
+        "id" => get_text("title[@type='sub']", xml: ele),
+        #{}"title_s" => get_text("title[@type='sub']", xml: ele),
+        "role" => get_text("title[@level='j']", xml: ele),
+        "date" => get_text("date", xml: ele)
+      }
+    end
   end
 
   def rights_uri
@@ -177,6 +196,10 @@ class TeiToEs
     places = get_text(@xpaths["places"])
     
     text_additional << person << title << author << title_a << title_j << places
+  end
+
+  def title
+    get_text(@xpaths["title"], delimiter: " |")
   end
 
   def uri
