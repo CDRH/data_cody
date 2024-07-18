@@ -7,10 +7,11 @@ class TeiToEs
   def override_xpaths
     {
     "citation" => {
-      "author" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/author",
-      "title_a" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='a']",
-      "title_j" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='j']",
-      "id" => "/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/idno"
+      "author" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/author",
+      "title_a" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='a']",
+      "title_j" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']",
+      "id" => "/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/idno",
+      "publisher" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/publisher"
     },
     "contributor" => [
         "/TEI/teiHeader/fileDesc/titleStmt/respStmt",
@@ -25,7 +26,8 @@ class TeiToEs
     "title" => [
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level = 'm']",
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level = 'a']"
-    ]
+    ],
+    "title_alt" => "/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']"
     }
   end
 
@@ -60,46 +62,15 @@ class TeiToEs
     title_a = get_text(@xpaths["citation"]["title_a"])
     title_j = get_text(@xpaths["citation"]["title_j"])
     id = get_text(@xpaths["citation"]["id"])
+    publisher = get_text(@xpaths["citation"]["publisher"])
 
-    # TODO: make this better, yikes
-    if title_j && !title_j.empty?
-      if title_a && !title_a.empty?
-        if author && !author.empty?
-          if id && !id.empty?
-            cit << { "author" => author, "title_a" => title_a, "title_j" => title_j, "id" => id }
-          else
-            cit << { "author" => author, "title_a" => title_a, "title_j" => title_j }
-          end
-        else
-          if id && !id.empty?
-            cit << { "title_a" => title_a, "title_j" => title_j, "id" => id }
-          else
-            cit << { "title_a" => title_a, "title_j" => title_j }
-          end
-        end
-      else
-        cit << { "title_j" => title_j }
-      end
-    elsif title_a && !title_a.empty?
-      if author && !author.empty?
-        cit << { "author" => author, "title_a" => title_a }
-      else
-        if id && !id.empty?
-          cit << { "title_a" => title_a, "id" => id }
-        else
-          cit << { "title_a" => title_a }
-        end
-      end
-    elsif author && !author.empty?
-      if id && !id.empty?
-        cit << { "author" => author, "id" => id }
-      else
-        cit << { "author" => author }
-      end
-    elsif id && !id.empty?
-        cit << { "id" => id }
-    end
-    #cit << { "author" => author, "title_a" => title_a, "title_j" => title_j, "id" => id }
+    cit << { 
+      "author" => author, 
+      "title_a" => title_a, 
+      "title_j" => title_j, 
+      "id" => id, 
+      "publisher" => publisher 
+    }
   end
 
   def contributor
@@ -203,7 +174,12 @@ class TeiToEs
   end
 
   def title
-    get_text(@xpaths["title"], delimiter: " |")
+    title = get_text(@xpaths["title"])
+    if !title || title.empty?
+      get_text(@xpaths["title_alt"])
+    else
+      get_text(@xpaths["title"], delimiter: " |")
+    end
   end
 
   def uri

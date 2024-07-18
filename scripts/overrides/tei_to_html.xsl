@@ -26,7 +26,7 @@
 <xsl:param name="collection"/>
 <xsl:param name="data_base"/>
 <xsl:param name="site_url"/>
-<xsl:param name="environment">production</xsl:param>
+<xsl:param name="environment"/>
 <xsl:param name="image_large"/>
 <xsl:param name="image_thumb"/>
 <xsl:param name="media_base"/>
@@ -360,8 +360,8 @@
   
   <xsl:template match="media[@mimeType='audio/mp3']">
     <audio controls="controls">
-      <source src="{$site_url}/codyarchive/audio/mp3/{@url}" type="audio/mpeg"/>
-      <source src="{$site_url}/codyarchive/audio/ogg/{substring-before(@url,'.mp3')}.ogg" type="audio/ogg"/>
+      <source src="{$media_base}/cody_archive/audio/mp3/{@url}" type="audio/mpeg"/>
+      <source src="{$media_base}/cody_archive/audio/ogg/{substring-before(@url,'.mp3')}.ogg" type="audio/ogg"/>
     </audio>
   </xsl:template>
   
@@ -375,14 +375,14 @@
   
   <xsl:template match="text//persName">
         <a>
-          <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/item/wfc.person#<xsl:value-of select="@xml:id"/></xsl:attribute>
+          <xsl:attribute name="href">../item/wfc.person#<xsl:value-of select="@xml:id"/></xsl:attribute>
           <xsl:apply-templates/>
         </a>
   </xsl:template>
   
   <xsl:template match="text//orgName">
     <a>
-      <xsl:attribute name="href"><xsl:value-of select="$site_url"/>/item/wfc.encyc#<xsl:value-of select="@xml:id"/></xsl:attribute>
+      <xsl:attribute name="href">../item/wfc.encyc#<xsl:value-of select="@xml:id"/></xsl:attribute>
       <xsl:apply-templates/>
     </a>
   </xsl:template>
