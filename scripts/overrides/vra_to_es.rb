@@ -169,8 +169,9 @@ class VraToEs
     creator = get_text(@xpaths["creator"])
     title = get_text(@xpaths["title"])
     places = get_text(@xpaths["places"])
+    description = get_text(@xpaths["description"])
 
-    text_additional << person << title << creator << places
+    text_additional << person << title << creator << places << description
   end
 
   def topics
