@@ -123,7 +123,6 @@ class VraToEs
     if relations_check && !relations_check.empty?
       relations = get_elements(@xpaths["relation"]).map do |ele|
         id_full = get_text("relation/@href", xml: ele)
-        #id_short = id_full.partition('/').last
         {
           "title" => get_text("display", xml: ele),
           "id" => id_full
@@ -175,7 +174,6 @@ class VraToEs
   end
 
   def topics
-    # may have to add handling for nil here eventually
     t = get_text(@xpaths["topics"])
     if t && !t.empty?
       t_array = t.split(";")
@@ -184,10 +182,6 @@ class VraToEs
       t_array_s = ""
     end
     t_array_s
-  end
-
-  def uri
-    # TODO once we understand how the url structure will work for Cody
   end
 
 end

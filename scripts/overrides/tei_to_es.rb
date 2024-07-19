@@ -110,9 +110,7 @@ class TeiToEs
       creators.map do |c|
         if c["n"]
           { "name" => c["n"] }
-        #TODO: this is busted
         elsif c.text && c.text.length > 0
-        #else
           { "name" => Datura::Helpers.normalize_space(c.text) }
         end
       end
@@ -133,6 +131,7 @@ class TeiToEs
     person = get_text(@xpaths["person"])
     if person && !person.empty?
       people = get_elements(@xpaths["person"]).map do |ele|
+        #TODO nil values are still creeping in for empty tags, aaagghhh
         {
           "id" => "",
           "name" => get_text(".", xml: ele),
@@ -180,10 +179,6 @@ class TeiToEs
     else
       get_text(@xpaths["title"], delimiter: " |")
     end
-  end
-
-  def uri
-    # TODO once we understand how the url structure will work for Cody
   end
 
 end
