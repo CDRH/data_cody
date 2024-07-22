@@ -13,7 +13,7 @@ class FileTei
 
     begin
       #personography should create entries for each person
-      #right now this just avoids output, possibly this could change
+      #right now this just avoids output, possibly TODO this could change
       #and be handled like everything else
       #but I am so shocked and overjoyed it is working I am leaving it for now
       if self.filename(false) == "wfc.person"
