@@ -127,19 +127,26 @@ class TeiToEs
   end
 
   def person
+    #this features a very elaborate process of getting rid of nil values
     people = []
-    person = get_text(@xpaths["person"])
-    if person && !person.empty?
-      people = get_elements(@xpaths["person"]).map do |ele|
-        #TODO nil values are still creeping in for empty tags, aaagghhh
-        {
-          "id" => "",
-          "name" => get_text(".", xml: ele),
-          "role" => ""
-        }
+    person_check = get_text(@xpaths["person"])
+    if person_check && !person_check.empty?
+      people= get_elements(@xpaths["person"]).map do |ele|
+        { "name" => get_text(".", xml: ele) }
       end
     end
-    people.uniq
+    people = people.uniq
+
+    #rejects key value pairs with nil values from within the hashes
+    people_nonil = []
+    people.each do |i|
+      people_nonil << i.reject { | key, value | value.nil? }
+    end
+
+    #rejects empty hashes that may have resulted from the above rejection
+    people_nonil
+      .reject { | value | value.empty? }
+      .uniq
   end
 
   # using has_relation fields a bit wantonly here--TODO remap or add to schema?
