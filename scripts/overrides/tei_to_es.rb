@@ -103,17 +103,29 @@ class TeiToEs
   end
 
   def creator
+    #this features a very elaborate process of getting rid of nil values
     creators = []
     creators_check = get_text(@xpaths["creator"])
     if creators_check && !creators_check.empty?
-      creators = @xml.xpath(@xpaths["creator"])
-      creators.map do |c|
-        if c["n"]
-          { "name" => c["n"] }
-        elsif c.text && c.text.length > 0
-          { "name" => Datura::Helpers.normalize_space(c.text) }
+      creators = get_elements(@xpaths["creator"]).map do |ele|
+        n_att = get_text("./@n", xml: ele)
+        if n_att
+          { "name" => n_att }
+        else
+          { "name" => get_text(".", xml: ele) }
         end
       end
+
+    #rejects key value pairs with nil values from within the hashes
+    creators_nonil = []
+    creators.each do |i|
+      creators_nonil << i.reject { | key, value | value.nil? }
+    end
+
+    #rejects empty hashes that may have resulted from the above rejection
+    creators_nonil
+      .reject { | value | value.empty? }
+      .uniq
     end
   end
 
@@ -127,11 +139,11 @@ class TeiToEs
   end
 
   def person
-    #this features a very elaborate process of getting rid of nil values
+    #this also features a very elaborate process of getting rid of nil values
     people = []
     person_check = get_text(@xpaths["person"])
     if person_check && !person_check.empty?
-      people= get_elements(@xpaths["person"]).map do |ele|
+      people = get_elements(@xpaths["person"]).map do |ele|
         { "name" => get_text(".", xml: ele) }
       end
     end
