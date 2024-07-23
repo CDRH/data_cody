@@ -105,7 +105,9 @@ class VraToEs
   end
 
   def has_source
+    #this features a very elaborate process of getting rid of nil values
     source = []
+    #not sure source_check is actually doing anything at this point
     source_check = get_text(@xpaths["source"])
     if source_check && !source_check.empty?
       source = get_elements(@xpaths["source"]).map do |ele|
@@ -115,6 +117,16 @@ class VraToEs
         }
       end
     end
+
+    #rejects key value pairs with nil values from within the hashes
+    source_nonil = []
+    source.each do |i|
+      source_nonil << i.reject { | key, value | value.nil? }
+    end
+
+    #rejects empty hashes that may have resulted from the above rejection
+    source_nonil
+      .reject { | value | value.empty? }
   end
 
   def has_relation
