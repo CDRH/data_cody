@@ -193,8 +193,9 @@ class VraToEs
     relation = get_text(@xpaths["relation"])
     rights_holder = get_text(@xpaths["rights_holder"])
     source = get_text(@xpaths["source"])
+    keywords = category2
 
-    text_additional << person << title << creator << places << description << format_m << keywords << relation << rights_holder << source
+    text_additional << person << title << creator << places << description << format_m << keywords << relation << rights_holder << source << keywords
   end
 
   def topics
