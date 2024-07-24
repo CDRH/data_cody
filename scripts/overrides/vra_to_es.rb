@@ -135,9 +135,15 @@ class VraToEs
     if relations_check && !relations_check.empty?
       relations = get_elements(@xpaths["relation"]).map do |ele|
         id_full = get_text("relation/@href", xml: ele)
+        if id_full.nil?
+        elsif id_full.include?("multimedia/")
+          id = id_full.sub("multimedia/","")
+        elsif
+          id = id_full
+        end
         {
           "title" => get_text("display", xml: ele),
-          "id" => id_full
+          "id" => id
         }
       end
     end
