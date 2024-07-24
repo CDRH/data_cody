@@ -161,7 +161,6 @@ class TeiToEs
       .uniq
   end
 
-  # using has_relation fields a bit wantonly here--TODO remap or add to schema?
   def has_relation
     relations = get_elements(@xpaths["relation"]).map do |ele|
       if get_text("title[@type='sub']", xml: ele)
@@ -172,6 +171,7 @@ class TeiToEs
       {
         "id" => get_text("idno", xml: ele),
         "title" => title,
+        # TODO: this doesn't fit into the schema, but citation is already in use
         "role" => get_text("title[@level='j']", xml: ele),
         "date" => get_text("date", xml: ele)
       }
