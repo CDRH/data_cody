@@ -360,8 +360,8 @@
   
   <xsl:template match="media[@mimeType='audio/mp3']">
     <audio controls="controls">
-      <source src="{$media_base}/cody_archive/audio/mp3/{@url}" type="audio/mpeg"/>
-      <source src="{$media_base}/cody_archive/audio/ogg/{substring-before(@url,'.mp3')}.ogg" type="audio/ogg"/>
+      <source src="{$media_base}/audio/cody_archive/mp3/{@url}" type="audio/mpeg"/>
+      <source src="{$media_base}/audio/cody_archive/ogg/{substring-before(@url,'.mp3')}.ogg" type="audio/ogg"/>
     </audio>
   </xsl:template>
   
