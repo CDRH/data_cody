@@ -267,34 +267,26 @@
       <xsl:when test="ancestor::*[name() = 'person']">
         <xsl:apply-templates/>
       </xsl:when>
-      <!-- the below isn't currently working: may wish to add js at some point if feeling ambitious -->
-      <xsl:when test="$type = 'illustration'">
+      <xsl:when test="$type = 'audio_illustration'">
+        <xsl:variable name="figure_id">
+            <xsl:value-of select="graphic/@url"/>
+        </xsl:variable>
         <span class="figure">
           <span>
             <a>
               <xsl:attribute name="href">
-                <xsl:value-of select="$site_url"/>
-                <xsl:text>figures/800/</xsl:text>
-                <xsl:value-of select="graphic/@url"/>
-                <xsl:text>.jpg</xsl:text>
-              </xsl:attribute>
-              <xsl:attribute name="rel">
-                <xsl:text>prettyPhoto[pp_gal]</xsl:text>
-              </xsl:attribute>
-              <xsl:attribute name="title">
-                <xsl:text>&lt;a href="</xsl:text>
-                <xsl:value-of select="$site_url"/>
-                <xsl:text>figures/800/</xsl:text>
-                <xsl:value-of select="graphic/@url"/>
-                <xsl:text>.jpg</xsl:text>
-                <xsl:text>" target="_blank" &gt;open image in new window&lt;/a&gt;</xsl:text>
+                <xsl:value-of select="$site_url"/>/item/<xsl:value-of select="$figure_id"/>
               </xsl:attribute>
               <img>
                 <xsl:attribute name="src">
-                  <xsl:value-of select="$site_url"/>
-                  <xsl:text>figures/250/</xsl:text>
-                  <xsl:value-of select="graphic/@url"/>
-                  <xsl:text>.jpg</xsl:text>
+                  <xsl:call-template name="url_builder">
+                    <xsl:with-param name="figure_id_local" select="$figure_id"/>
+                    <xsl:with-param name="image_size_local" select="$image_thumb"/>
+                    <xsl:with-param name="iiif_path_local" select="$collection"/>
+                  </xsl:call-template>
+                </xsl:attribute>
+                <xsl:attribute name="class">
+                  <xsl:text>display&#160;</xsl:text>
                 </xsl:attribute>
               </img>
             </a>
@@ -331,6 +323,11 @@
         <xsl:when test="@n='illustration'">
           <xsl:call-template name="figure_formatter">
             <xsl:with-param name="type">other</xsl:with-param>
+          </xsl:call-template>
+        </xsl:when>
+        <xsl:when test="ancestor::div1[@type='audio']">
+          <xsl:call-template name="figure_formatter">
+            <xsl:with-param name="type">audio_illustration</xsl:with-param>
           </xsl:call-template>
         </xsl:when>
         <xsl:otherwise>
