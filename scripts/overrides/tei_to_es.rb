@@ -164,11 +164,14 @@ class TeiToEs
   # using has_relation fields a bit wantonly here--TODO remap or add to schema?
   def has_relation
     relations = get_elements(@xpaths["relation"]).map do |ele|
+      if get_text("title[@type='sub']", xml: ele)
+        title = get_text("title[@type='main']", xml: ele) + " | " + get_text("title[@type='sub']", xml: ele)
+      else
+        title = get_text("title[@type='main']", xml: ele)
+      end
       {
-        #{}"id" => get_text("idno", xml: ele),
-        "title" => get_text("title[@type='main']", xml: ele),
-        "id" => get_text("title[@type='sub']", xml: ele),
-        #{}"title_s" => get_text("title[@type='sub']", xml: ele),
+        "id" => get_text("idno", xml: ele),
+        "title" => title,
         "role" => get_text("title[@level='j']", xml: ele),
         "date" => get_text("date", xml: ele)
       }
@@ -186,9 +189,16 @@ class TeiToEs
     author = get_text(@xpaths["citation"]["author"])
     title_a = get_text(@xpaths["citation"]["title_a"])
     title_j = get_text(@xpaths["citation"]["title_j"])
+    id = get_text(@xpaths["citation"]["id"])
+    publisher = get_text(@xpaths["citation"]["publisher"])
     places = get_text(@xpaths["places"])
+    contributor = get_elements(@xpaths["contributor"]).map { |i| get_text("name", xml:i ) }
+    creator = get_text(@xpaths["creator"])
+    notes = get_text(@xpaths["notes"])
+    relation = get_elements(@xpaths["relation"]).map { |i| get_text("title", xml:i) }
+    subcategory = get_text(@xpaths["subcategory"])
     
-    text_additional << person << title << author << title_a << title_j << places
+    text_additional << person << title << author << title_a << title_j << id << publisher << places << contributor << creator << notes << relation << subcategory
   end
 
   def title

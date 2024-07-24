@@ -175,14 +175,20 @@ class VraToEs
   end
 
   def text_additional
+    # why get_text works here when it doesn't for nested elements in tei_to_es, I have no idea
     text_additional = []
     person = get_text(@xpaths["person"])
     creator = get_text(@xpaths["creator"])
     title = get_text(@xpaths["title"])
     places = get_text(@xpaths["places"])
     description = get_text(@xpaths["description"])
+    format_m = get_text(@xpaths["format"])
+    keywords = get_text(@xpaths["keywords"])
+    relation = get_text(@xpaths["relation"])
+    rights_holder = get_text(@xpaths["rights_holder"])
+    source = get_text(@xpaths["source"])
 
-    text_additional << person << title << creator << places << description
+    text_additional << person << title << creator << places << description << format_m << keywords << relation << rights_holder << source
   end
 
   def topics
