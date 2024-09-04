@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main">Letter from E.B. Fowler to Mrs. Barnes</title>
+<title type="main">Letter from E. B. Fowler to Mrs. Barnes</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -89,6 +89,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2024"><name xml:id="lkw">Weakly, Laura K.</name> changed pb facs</change>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
 <change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
@@ -100,7 +101,7 @@
 
 <div1 type="letter">
 
-<pb facs="wfc.css00666"/>
+<pb facs="wfc.css00666.001"/>
 
 <p>MS 1007 E.B. Fowler to Mrs. Barnes</p>
 
@@ -110,11 +111,23 @@
 
 <p>You may be somewhat surprised, to hear from me at this late date! It is not because of have forgotten you, I can assure you: but the fact is; I have not written to anyone of late.</p>
 
-<p>I presume that your Son, is still in the Army; is he not? Does he like it as well as at first? I don't think that he does, it is a great deal more pleasant; to be in that country than this, for there are plenty of people, and entertainment there; where there are none at all here. Nothing but sand hills, and prairie grass to graze upon! I haven't beheld a lady, since I left Saint Louis!</p>
+<p>I presume that your Son, is still in the Army; is he not? Does he like it as well as at first? I don't think that he does, it is a great deal more pleasant; to be in that country than this, for there are plenty
+
+<pb facs="wfc.css00666.003"/>
+
+of people, and entertainment there; where there are none at all here. Nothing but sand hills, and prairie grass to graze upon! I haven't beheld a lady, since I left Saint Louis!</p>
 
 <p>We have a little excitement here, now and then a band of Indians; make a dash at the herd, and drive them away. The last time we chased them 18 miles, as fast as we could go; and killed part of our horses; but we caught them before they got away with any of them.</p>
 
-<p>Another of a more serious nature: occurred the other day: the company were out upon a Scout, and during the night when in camp, a water spout burst above and came sweeping down with terrible force. It first came about two feet and a continual rise, until it came to the depth of five feet upon a level. The force was so great, that you could not stand, when it was only six inches in depth. It swept everything that came within its sway. There happened to be at the time several trees the only chance for life that we had, and those that reached them, sat upon the limbs with nothing but a shirt to protect them from the rain and cold for seven long and dreary hours. I happened to get upon a hill with some mules, but came near shaking from existence with fright. I think that we made a great escape although six men, and twenty eight horses were lost. We found five of the men, but could not find the other.</p>
+<p>Another of a more serious nature: occurred the other day: the company were out upon a Scout, and during the night when in camp, a water 
+
+<pb facs="wfc.css00666.002"/>
+
+spout burst above and came sweeping down with terrible force. It first came about two feet and a continual rise, until it came to the depth of five feet upon a level. The force was so great, that you could not stand, when it was only six inches in depth. It swept everything that came within its sway. There happened to be at the time several trees the only chance for life that we had, and those that reached them, sat upon the limbs with nothing but a shirt to protect them from the rain and cold for seven long and dreary hours.
+
+<pb facs="wfc.css00666.004"/>
+
+I happened to get upon a hill with some mules, but came near shaking from existence with fright. I think that we made a great escape although six men, and twenty eight horses were lost. We found five of the men, but could not find the other.</p>
 
 <p>I presume that everything seems the same as ever, does it not? I hope that your health is good at present, and family also. Is Sadie Butler there now: How is she?</p>
 
