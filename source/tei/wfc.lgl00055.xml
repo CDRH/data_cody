@@ -89,6 +89,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2024"><name xml:id="lkw">Weakly, Laura K.</name> changed pb facs</change>
 <change when="2017"><name xml:id="ce">Elliott, Catherine</name> Initial encoding</change>
 <change when="2017"><name xml:id="da">Adams, Deb</name> <name xml:id="lc">Clark, L.</name> <name xml:id="fc"> Christianson, Frank</name> <name xml:id="sh">Hanna, S.</name> <name xml:id="kb">Katie Bowman</name> Proofreading</change>
 <change when="2017"><name xml:id="kn">Nash, Kaci</name> Transcription</change>
@@ -100,8 +101,9 @@
 
 <div1 type="record">
 
-<pb facs="wfc.lgl00055"/>
-
+<pb facs="wfc.lgl00055.01"/>
+<pb facs="wfc.lgl00055.02"/>
+<pb facs="wfc.lgl00055.03"/>
 </div1>
 </body>
 
