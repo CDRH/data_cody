@@ -2,7 +2,7 @@
 
 ## About This Data Repository
 
-**How to Use This Repository:** This repository is intended for use with the [CDRH API](https://github.com/CDRH/api) and the [Cody Ruby on Rails application] (https://github.com/CDRH/cody_archive).
+**How to Use This Repository:** This repository is intended for use with the [CDRH API](https://github.com/CDRH/api) and the [Cody Ruby on Rails application](https://github.com/CDRH/cody_archive).
 
 **Data Repo:** [https://github.com/CDRH/data_cody](https://github.com/CDRH/data_cody)
 
@@ -22,11 +22,11 @@ The William F. Cody Archive is directed by Jeremy M. Johnston (Buffalo Bill Cent
 
 **Project Site:** [https://codyarchive.org/](https://codyarchive.org/)
 
-**Cocoon Repo:** [https://github.com/CDRH/cocoon_cody](https://github.com/CDRH/cocoon_cody)
+**Rails Repo:** [https://github.com/CDRH/cody_archive](https://github.com/CDRH/cody_archive)
 
 **Credits:** [https://codyarchive.org/staff/](https://codyarchive.org/staff/)
 
-**Work to Be Done:** [https://github.com/CDRH/cocoon_cody/issues](https://github.com/CDRH/cocoon_cody/issues)
+**Work to Be Done:** [https://github.com/CDRH/cody_archive/issues](https://github.com/CDRH/cody_archive/issues)
 
 ## Editorial Policy
 
@@ -48,7 +48,7 @@ The William F. Cody Archive, Buffalo Bill Center of the West and University of N
 
 ## Technical Information
 
-See the [Cody posting instructions](https://github.com/CDRH/data_cody/blob/dev/posting_instructions.md). For more information, see the [Datura documentation](https://github.com/CDRH/datura) for general updating and posting instructions. For information about updating the version of the site that used Cocoon and SOLR, see the [legacy Cody posting instructions](https://github.com/CDRH/data_chesnutt/blob/dev/posting_instructions.md#legacy-posting-and-update-instructions) (at the bottom of the page).
+See the [Datura documentation](https://github.com/CDRH/datura) for general updating and posting instructions. 
 
 ### VRA Files
 
