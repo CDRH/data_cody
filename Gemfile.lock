@@ -1,11 +1,13 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: 0bb4c079722effdb644ee193bc1ad01ca7bac8f4
-  branch: whitman-fixes
+  revision: e1498c77c058d63c3e09dcaba99ec786bb262352
+  branch: dev
   specs:
-    datura (0.2.0.pre.beta)
+    datura (0.2.0)
+      byebug (~> 11.0)
       colorize (~> 0.8.1)
       nokogiri (~> 1.10)
+      pdf-reader (~> 2.12)
       rest-client (~> 2.1)
 
 GEM
@@ -19,14 +21,14 @@ GEM
     domain_name (0.6.20240107)
     hashery (2.1.2)
     http-accept (1.7.0)
-    http-cookie (1.0.6)
+    http-cookie (1.0.7)
       domain_name (~> 0.5)
     mime-types (3.5.2)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2024.0604)
+    mime-types-data (3.2024.0903)
     mini_portile2 (2.8.7)
     netrc (0.11.0)
-    nokogiri (1.16.5)
+    nokogiri (1.16.7)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pdf-reader (2.12.0)
@@ -35,7 +37,7 @@ GEM
       hashery (~> 2.0)
       ruby-rc4
       ttfunk
-    racc (1.8.0)
+    racc (1.8.1)
     rest-client (2.1.0)
       http-accept (>= 1.7.0, < 2.0)
       http-cookie (>= 1.0.2, < 2.0)
