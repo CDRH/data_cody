@@ -154,13 +154,13 @@ Oct. 24<hi rend="sup">th</hi> 1900</dateline>
 
 <back>
 
-<note>Note 1: Buffalo Bill's Wild West performed in Lafayette, Louisiana, on October 24, 1900.</note>
+  <note xml:id="n01">Note 1: Buffalo Bill's Wild West performed in Lafayette, Louisiana, on October 24, 1900.</note>
 
-<note>Note 2: Josiah Alexander Van Orsdel (1860-1937) became a county prosecuting attorney of Laramie County, Wyoming, in 1892; a member of the Wyoming House of Representatives in 1894; the state attorney general of Wyoming from 1898 to 1905; an Associate Justice of the Supreme Court of Wyoming 1905-06; assistant to the U.S. Attorney General 1906-07; and U.S. federal judge from 1907 to 1937. </note>
+  <note xml:id="n02">Note 2: Josiah Alexander Van Orsdel (1860-1937) became a county prosecuting attorney of Laramie County, Wyoming, in 1892; a member of the Wyoming House of Representatives in 1894; the state attorney general of Wyoming from 1898 to 1905; an Associate Justice of the Supreme Court of Wyoming 1905-06; assistant to the U.S. Attorney General 1906-07; and U.S. federal judge from 1907 to 1937. </note>
 
-<note>Note 3: Charles W. Burdick (1860-1927) was a prominent Cheyenne lawyer, and served as the first Wyoming state auditor (1890-94) and later as Wyoming secretary of state (1895-99).</note>
+  <note xml:id="n03">Note 3: Charles W. Burdick (1860-1927) was a prominent Cheyenne lawyer, and served as the first Wyoming state auditor (1890-94) and later as Wyoming secretary of state (1895-99).</note>
 
-<note>Note 4: Charles Henry Morrill (1843-1928) a prominent American businessman who was once president of the <orgName xml:id="company.ll">Lincoln Land Company</orgName>. He would help the Burlington Railroad to find the best railroads through the Midwest territories. Cody was once a guide for Morrill exploring the Yellowstone Valley in Wyoming for the railroad. Morrill received invitations for the yearly hunting expeditions organized by Cody.</note></back>
+  <note xml:id="n04">Note 4: Charles Henry Morrill (1843-1928) a prominent American businessman who was once president of the <orgName xml:id="company.ll">Lincoln Land Company</orgName>. He would help the Burlington Railroad to find the best railroads through the Midwest territories. Cody was once a guide for Morrill exploring the Yellowstone Valley in Wyoming for the railroad. Morrill received invitations for the yearly hunting expeditions organized by Cody.</note></back>
 
 </text>
 </TEI>
