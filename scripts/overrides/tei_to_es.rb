@@ -7,7 +7,6 @@ class TeiToEs
   def override_xpaths
     {
     "citation" => {
-      "author" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/author",
       "title_a" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='a']",
       "title_j" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/title[@level='j']",
       "id" => "/TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/idno",
@@ -58,14 +57,12 @@ class TeiToEs
 
   def citation
     cit = []
-    author = get_text(@xpaths["citation"]["author"])
     title_a = get_text(@xpaths["citation"]["title_a"])
     title_j = get_text(@xpaths["citation"]["title_j"])
     id = get_text(@xpaths["citation"]["id"])
     publisher = get_text(@xpaths["citation"]["publisher"])
 
     cit << { 
-      "author" => author, 
       "title_a" => title_a, 
       "title_j" => title_j, 
       "id" => id, 
