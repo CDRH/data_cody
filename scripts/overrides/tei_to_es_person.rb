@@ -15,7 +15,7 @@ class TeiToEsPerson < TeiToEs
     people = { "name" => title }
   end
 
-  def subcategory
+  def category2
     "Personography"
   end
 

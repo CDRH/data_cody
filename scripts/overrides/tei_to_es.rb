@@ -21,7 +21,7 @@ class TeiToEs
     "notes" => "/TEI/teiHeader/fileDesc/titleStmt/sponsor",
     "person" => "/TEI/teiHeader/profileDesc/textClass/keywords[@n='people']/term",
     "relation" => "/TEI/teiHeader/fileDesc/sourceDesc/bibl/relatedItem/bibl",
-    "subcategory" => "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term",
+    "category2" => "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term",
     "title" => [
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level = 'm']",
       "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level = 'a']"
@@ -193,9 +193,9 @@ class TeiToEs
     creator = get_text(@xpaths["creator"])
     notes = get_text(@xpaths["notes"])
     relation = get_elements(@xpaths["relation"]).map { |i| get_text("title", xml:i) }
-    subcategory = get_text(@xpaths["subcategory"])
+    category2 = get_text(@xpaths["category2"])
     
-    text_additional << person << title << author << title_a << title_j << id << publisher << places << contributor << creator << notes << relation << subcategory
+    text_additional << person << title << author << title_a << title_j << id << publisher << places << contributor << creator << notes << relation << category2
   end
 
   def title
