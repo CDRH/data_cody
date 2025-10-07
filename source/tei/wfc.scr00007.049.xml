@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.049">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Royal Visit to the Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.049</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Royal Visit to the Wild West</title>
+<title level="j">The Sporting Life</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Exhibitions</term>
+<term>American Indians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+<term>Beatrice, Princess Henry of Battenberg, 1857-1944</term>
+<term>Henry Maurice, Prince of Battenberg, 1858-1896</term>
+<term>Argyll, John Douglas Sutherland Campbell, Duke of, 1845-1914</term>
+<term>Whitley, John Robinson, 1843-1922</term>
+<term>Applin, Vincent Augustin; Hughes-Hallett, Francis 1838-1903</term>
+<term>Speed, John Gilmer, 1853-1909</term>
+<term>Penfield, Frederic Courtland, 1855-1922</term>
+<term>Sartain, John, 1808-1897</term>
+<term>O'Driscoll, Florence</term>
+<term>Smith, Lillian Frances, 1871-1930</term>
+<term>Red Shirt, 1845?-1925</term>
+<term>Salsbury, Nathan, 1846-1902; </term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Earl's Court (London, England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.049"/>
+
+<head>The Sporting Life,</head>
+
+<head>ROYAL VISIT TO THE WILD WEST.</head>
+
+<ab>THURSDAY, MAY 12.</ab>
+
+<p>No better proof of the popularity of the "Wild Westeries," or, the Buffalo Billeries, could be advanced than the visit yesterday of Her Gracious Majesty, the performance, by Royal command, being strictly private. There was no afternoon exhibition, and the Grand Stand and Camp were closed all day. At a few minutes after five the Royal carriage drove in at the Earl's court entrance from the Warwick-road, and passing through the roadway between the stables, drove around the arena, and stopped in front of the Royal Box. The Queen was accompanied by Princess Beatrice, Prince Henry of Battenberg, she was attended by the Dowager Duchess of Athol (Lady in Waiting), Miss Cadogan (Maid of Honour), General Gardiner and Sir Henry Ewart were in attendance on horseback. The party were received by the Marquis of Lorne, who presented Col. Henry S. Russel (President of the American Exhibition), John K. Whitley and Vincent A. Applin to Her Majesty. Lord Ronald Gower, Colonel
+Hughes Hallett, John Priestman, Sir John Maxwell Heron, Mr. Lee Thornton, Col. Griffin, Mr. J. G. Speed, Mr. F. C. Penfield, Mr. Townsend Percy, Mr. R. M. Smith, Mr. Alfred Pickard, Mr. John Sartain, Mr. William Goldring, Florence O'Driscoll, Dr. J. W. B. Bidlack (of the executive council and staff) were on the reception committee. On the Stand were Mrs. Whitley, Mrs. Pickard, Mrs. Priestman, Mrs. Salisbury, Lady Archibald Campbell, and Miss Applin, The Queen entered the Royal box, which was heavily decorated with crimson velvet, and seated
+herself in the centre, with the Princess Beatrice on her right, and Prince Henry, who remained standing , on her left. The Marquis of Lorne was on the right of the Princess, and the Dowager Duchess of Athol behind the Queen. The front of the box was filled with a mass of rare orchids, from Sander and Co., of St. Albans. About two-thirds of the usual performance was then gone through with, beginning with the usual grand entree. Two young girls, Miss Annie Oakley and Miss Lillian Smith were sent for by Her Majesty, who spoke a few words of praise to each. At the conclusion of the performance, Colonel W. F. Cody
+(Buffalo Bill) then had the honour of being presented to Her Majesty, who expressed herself as greatly pleased with the exhibition she had witnessed. Colonel Cody asked her if it was too long, to which she replied "Not at all." She
+only regretted that her time was so limited, and that she would like to come again. Red Shirt (Ogila-Sa), chief of the Sioux, was then presented, and the Queen expressed her pleasure at seeing him. Red Shirt replied that it made him glad to hear it, he had come a long way to see Her Majesty. Mr. Natt Salsbury, director of the Wild West, was then presented to Her Majesty, who expressed a desire to see the Indian babies, or pappooses. Two of these were presented for Her Majesty's inspection and she was pleased to shake their little hands and pat their chubby painted cheeks. Her Majesty was presented with a bouquet by Miss Whitley. The Royal party left at about 6:45.</p>
+
+<p>The Exhibition, which was rather backward on the opening day, is now all but complete. The machinery yesterday was set in motion, and with the exception of about six stands, the exhibit portion may be said to be complete. Many of the Yankee notions offered for sale are distinctly novel. In ingenious household appliances, our American friends are particularly strong. Much may be learnt in the matter of patent sweeping brushes, step ladders, and carpet beating machines. The picture gallery is interesting, and the landscape photographs, which occupy a separate room, give one a very accurate idea of the diversified scenery of the vast continent. The toboggan slide was very extensively patronised, for the most part by the more sedate visitors of both sexes, who seemed to find the [short?] capital fun. Towards dusk the coloured lamps and the
+electric light gave a very picturesque appearance to the grounds, and as late as the ninth hour streams of fashionable visitors kept arriving. The American Exhibition has been most successfully inaugurated, and there seems every
+probability that it will become quite the [Metropolitan?] [?eature] of 1887.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.080">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Yankee Tricks in Shooting</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.080</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Yankee Tricks in Shooting</title>
+<title level="j">The Shooting Times</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-06-03">June 3, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Shooting</term>
+<term>Firearms</term>
+<term>Exhibitions</term>
+<term>Audiences</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Smith, Lillian Frances, 1871-1930</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Brompton (London, England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.080"/>
+<head>The Shooting Times,
+
+AND KENNEL NEWS.</head>
+
+<p>OFFICES: EAST TEMPLE CHAMBERS, E. C.</p>
+
+<p>LONDON, FRIDAY, JUNE 3, 1887.</p>
+
+<p>YANKEE TRICKS IN SHOOTING.</p>
+
+<p>To the Editor of the Shooting Times.</p>
+
+<p>Dear Sir,—I send you a few lines, which I hope you will insert in your paper. I have headed my letter as you see because of three visits I paid the Wild West Circus at the American Exhibition. Being anxious to find out just how this shooting was done, I watched it all through carefully each time, taking a pair of field glasses and sitting close to where the shooting was mostly done. Miss Smith is stated in the programme to be only 15 years of age, [but?] find on making her acquaintance that she is a married woman of at least 19 or 20. The orator on the perch in the arena says, in very loud tones, "She will next shoot at swinging balls on a target, covering the sight of the rifle with a large card." Our English audience cannot see that it is cut away on one side so that it does not cover the sight. She breaks the balls and gets some applause. Next we are told "She will shoot at a revolving ball going at the rate of 3,000 feet in a minute." This is on the same style as our sham pigeons at the Derby, only not near so fast. Well, I take out my watch, note the revolutions, after the show is over measure the wire, figure it out, and find it revolves 362 times per minute, which makes quite a little difference from what we have been told. As to the next feat, "breaking 20 balls on a swinging deer inside of 30 seconds," the lowest time Miss Smith made on any day I was present was 35 seconds, timed by two other gentlemen, with a stop-watch. Once she was 40 seconds, and then only shot 18, leaving two on the deer, while each day two and three balls dropped off at one shot. The last day (Friday) others must have seen this happen, as there was some hissing. Now, Mr. Editor, while we are willing to pay our money to see what is really a novel show, would it not be better for Colonel Cody to give us straight shooting, or, in other words, he might allow us to know a little about shooting?</p>
+
+<byline>James S. Carter.<lb/>
+
+New-street, Brompton road.</byline>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

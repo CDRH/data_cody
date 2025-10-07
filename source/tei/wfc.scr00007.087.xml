@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.087">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">“Little Sure Shot” An Interview with Miss Annie Oakley</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.087</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">“Little Sure Shot” An Interview with Miss Annie Oakley</title>
+<title level="j">The Evening News</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Firearms</term>
+<term>Sharpshooters</term>
+<term>Hunting</term>
+<term>Horses</term>
+<term>Audiences</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Red Shirt, 1845?-1925</term>
+<term>Sitting Bull, 1831-1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Ohio</term>
+<term>California</term>
+<term>Texas</term>
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.087"/>
+
+<head>"LITTLE SURE SHOT."</head>
+
+<ab>AN INTERVIEW WITH MISS ANNIE OAKLEY</ab>
+<ab>FRIDAY, JUNE 10, [18?]</ab>
+<p>[It?] may safely be said that one of the strongest [attractions?] at Buffalo Bill's Wild West Show is the [wonderful?] skill which Miss Annie Oakley displays [?] manipulation of the American shot-gun. [?] [that?] she is the best markswoman living is [likely?] as much praise as her performance [deserves?], since it is doubtful whether any of the harsher and more boastful sex can at all approach her in this particular line. If there is a man who thinks he can lower Miss Oakley's record, he must be credited with an amount of modest diffidence by no means too common in the sons of Adam.</p>
+
+<p>Feeling assured that our readers would like to know something more of "Little Sure Shot," and her adventurous life, than is already in possession of the public, a representative of The Evening News sought an interview with her, which was acceded with a charming courtesy that greatly enhanced its values.</p>
+
+<p>Although Miss Oakley is somewhat small in stature, and weighs less than eight stone, she is exceedingly strong and wiry, as may be seen by the ease and dexterity with which she manipulates a seven-pound gun with one hand. As a hostess she is the very embodiment of unassuming geniality, has a strong vein of quiet refined humour, and, with a rare diffidence in one who is such a public favourite, would rather discuss any other topic than herself and her performances.</p>
+
+<p>In the very heart of the Wild West camp, and just opposite the wigwam of the Sioux Chief, "Red Shirt," a crowd of visitors may be seen, at any hour that the exhibition is open, standing in front of a tent which is surrounded and half-filled with flowers. Over the entrance is inscribed "Miss Annie Oakley," and within the "crack shot" of the company is to be found, holding a sort of informal reception. When the rest of the visitors have been disposed of, Miss Oakley begins to tell us some of her adventures, in reply to our questions.</p>
+
+<p>"When did I begin to handle a gun?" she repeats, with a pleasant smile. "Well, that's not an easy question to answer. I guess it must have been when I was very young, for I could hold my own with a gun or rifle in the neighbourhood where my mother lived when I was about ten years old. Our home was in a remote part of Ohio, fully eighteen miles from the nearest town. In fact, you might say it was in the woods. There was any quantity of game around us, and we were used to do fairly well by killing it, and sending it to the neighbouring towns for sale."</p>
+
+<p>"Then your earliest practice with firearms was shooting live game."</p>
+
+<p>"That is so. And I never could bring myself to shoot 'sitting' game, as some folks did. I always preferred taking my shot when the game was on the move. It gave them a fair chance, and made me quick of eye and hand. I've shot bear, deer, small game, and birds of almost any kind."</p>
+
+<p>"Did you never meet with accidents in this perilous occupation?"</p>
+
+<p>"No. I've had great luck. Once I was bitten badly on the army by a wolf I had trapped; and one bitter winter's day I got frozen. I went out of doors against my mother's orders, just because I could not stand being cooped up in the house. The cold was so intense that when I got back to the door I had lost my power of speech and fell in a dead swoon on the threshold. But I was soon all right again."</p>
+
+<p>"You still retain that love of open-air life."</p>
+
+<p>"Oh, yes! I guess I could never settle down to city life and feel comfortable or happy."</p>
+
+<ab>A PLUCKY ADVENTURE.</ab>
+
+<p>"[You?] must have had some strange adventures [?] a wild, lonely country as that in which [?] [early?] years were spent."</p>
+
+<p>[Miss?] Oakley laughed, as though recalling an [?] event, before she answered, "Well, yes. [?] [have?] a very queer thing happen to me once. [?] [about?] sixteen at the time, and a little one even [?]. I'd used to go by the mail-coach [?] [home?] into Greenville, a town eighteen [?], to receive the money for the game [?] [lied?]. The coach was driven by an old [?] that time close upon 80 years of age. [?] [was?] no conductor, and not often many [passengers?]. But the mails were taken in and out [?] [day?].</p>
+
+<p>[One?] morning, in the fall, I mounted on the [?] [seat?] by the coachman's side, and we started [?] [Greenville?]. I was the only passenger on [board?]. When we had got some four miles on our journey, at a desperate lonely part of the road, a man started out from the woods on the off-side, and, levelling his revolver at the coach-driver, said, "Throw up your hands, old man, or I shall shoot." The poor old fellow was right scared, I can tell you, and did as he was bid about as smart as [he'd?] ever done anything. The mail-thief then told [him?] to climb down and 'git.' He wasn't long [about?] that either, and he made quick tracks back for the place we'd started from. I was left alone on the coach with the mails. I reckon the thief didn't take no count of me; I was so small. But I wasn't going to be beat, for all that. I had a little handbag with me, and in that bag I'd got a loaded revolver. Fact was, I never was without firearms of some sort in those days. So I put on a very childlike look, and opened my bag as if to take out a handkerchief. But the fellow didn't take any notice of me until he had to. He put his pistol back in his pocket and began to climb on to the driver's seat. Just as his head came in sight above the boot of the coach, I covered him with my revolver, and advised him to climb down without getting hurt. He didn't like the look of me, so he dropped down very quiet and got as far from the coach as he could, but without turning round or taking his eyes off me. Nor did he attempt to get at his own revolver, for he knew I'd got the draw on him, and should have pulled if he dared to drop his hands. As soon as I had got him at a safe distance from the coach I seized the reins and drove at a smart pace into Greenville, where I handed over the mail bags. The folks made a lot of fuss about it, and insisted on presenting me with a testimonial."</p>
+
+<ab>WHY SHE WAS CALLED "LITTLE SURE SHOT."</ab>
+
+<p>"Who was the first to give you the name of 'Little Sure Shot'?"</p>
+
+<p>"O, that was conferred upon me by the greatest [chief?] we've got in America, Sitting Bull. He was with Colonel Cody's company for some time, and made a great pet of me. He'd discuss his plans with me, and talk about himself and his affairs as he wouldn't with any one else. When one of this daughters died, he adopted me in her place as a member of the Sioux tribe, giving me the name of Watanya Cicila, or Little Sure Shot. I hear from him even now. He is a dear, faithful, old friend, and I've great respect and affection for him."</p>
+
+<p>"Which weapon do you prefer now the rifle or the shot-gun?"</p>
+
+<p>"I like the shot-gun best of any. But I used to do a good deal with both the revolver and rifle at one time. At Tiffin, Ohio, I once shot a ten-cent piece held between the thumb and forefinger of an attendant, at a distance of thirty feet, without touching his hand. I have also shot monkey-nuts placed on the same person's head."</p>
+
+<p>"How long have you been shooting in public?" was our next inquiry.</p>
+
+<p>"Since 1882, when I was sixteen years of age."</p>
+
+<p>"And what was your best record with the rifle?"</p>
+
+<p>"Well, in firing at balls thrown in the air, I tried, in April, 1884, to beat the biggest score that had been made, and that was by De Ruth, of California. He broke 979 balls out of a thousand, and I broke 943. Then, in February of the next year, I attempted to shoot at 5,000 balls in one day, with a sixteen-guage hammer gun. I used three guns, and loaded them myself. The balls were thrown straight away from three separate traps, with a rise of fifteen yards. In the second thousand I broke 984 balls, the highest number on record, and out of the 5,000 I broke 4,772. I got through in less than nine hours."</p>
+
+<p>"What is the smartest thing you have done in pigeon-shooting?"</p>
+
+<p>"I have shot 96 clay pigeons out of 100, and at live pigeons my best record is 23 out of 25."</p>
+
+<p>SOME STRANGE EXPERIENCES.</p>
+
+<p>"Have you ever practised shooting on horseback?"</p>
+
+<p>"O, yes. I did a great deal of [that?] at one time; but I've given it up for this while past. I am still passionately fond of horse exercise, though. That reminds me of a thing that happened in the fall of 1884. I think I'll tell you that. A gentleman living near my old home [in?] Ohio had a very vicious, but well-bred [horse?] that had never been broken. He offered to give it me if I could ride him in less than three days. The challenge was fair, the horse was valuable, and I didn't like the notion of being beaten. So I set to work, broke him to the saddle within the time agreed upon, and have since ridden him as high as fifty miles in one day."</p>
+
+<p>"You must have travelled a considerable distance, Miss Oakley, during the time you have been a professional shot, and in some queer places too."</p>
+
+<p>"That is so. I've covered as much as 20,000 miles in one year, and have, as you say, been in some queer places. Texas, I reckon, was about the worst. I was there with a company before I joined Colonel Cody's Wild West, and I shan't forget the visit. In passing through some of the towns we had to place mattresses round the sides of the waggons to protect ourselves against the shots fired at us."</p>
+
+<p>"Why should they fire at you?"</p>
+
+<p>"Well, they seemed to think it was good fun. We didn't. I remember at one performance in a Texan town, a notorious desperado got up with the intention of clearing out the audience with his revolver. He'd been drinking hard—so it was said—and I suppose the shooting had excited him. Anyhow, he made a rush for the City Marshal, and was in the act of drawing upon him to begin with. But the Marshal was a bit too quick for him, and shot him dead in his tracks. The man fell within ten yards of where I was shooting, but nobody seemed to take much notice of the affair. I had to keep on with my performance, the audience applauded, the dead man was carried out, and the band never ceased playing."</p>
+
+<p>"And what opinion have you formed of London and its people? It is hardly a fair question to ask you, is it?"</p>
+
+<p>"I don't think it is. All the same I'll answer it briefly and candidly. I have not seen very much of London yet, but quite enough to convince me that its wonders as a great city have not been over-stated. I like the English people very much. I can't say as much for your weather. Severe cold I don't mind, and I can stand a good deal of heat. But your British climate puzzles me. I can't make it out at all. I expect it requires a lot of knowing before one gets reconciled to it."</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

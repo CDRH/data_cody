@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.064">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Despite the fallen glories of the Ring]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.064</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [Despite the fallen glories of the Ring]</title>
+<title level="j">The Licensed Victuallers’ Gazette and Hotel Courier</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Cowboys</term>
+<term>American Indians</term>
+<term>Wild West Shows</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Mace, James "Jem", 1831-1910</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Kensington (London, England)</term>
+<term>New Orleans (La.)</term>
+<term>Omaha (Neb.)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.064"/>
+
+<head>THE
+
+LICENSED VICTUALLERS' GAZETTE
+
+AND
+
+HOTEL COURIER.</head>
+
+<p>Despite the fallen glories of the Ring, the name of Jem Mace is sufficient still to call back memories of the past, and when he visited the show at South Kensington on Thursday week, he received such an ovation from the "cowboys" that arrangements were made for a special visit on Monday last, when he was to show the Champion belt of England and that of America, the latter of which he won in New Orleans from Tom Allen.</p>
+
+<p>Between eleven and twelve o'clock, Jem, his cousin Pooley, Lees, the Australian fistic champion, and ourselves, together with the trophies and other fistic works of art, started in a phaeton driven by the old champion for South Kensington, where we were received by Mr. Salisbury, the manager of the show, in his tent, which is opposite that of Buffalo Bill.</p>
+
+<p>When the cowboys could be assembled together from their multifarious duties, the prinicpal members gathered in the tent, and the box containing these reliquaries being unlocked, and the belts uncased by Pooley from their flannel jackets, they were inspected by these primitive cowboys with wonderment and awe.</p>
+
+<p>One tall Texan Cowboy solicited that he might have the honour of wearing the American belt. On it being girded rounded his loins, he strode proudly out with the trophy (on the front of which is the American eagle) to the tents of those who had not already witnessed the show; and soon all the boys of the Wild West gathered round to peep at Jem's collection.</p>
+
+<p>It was pay day at the camp, and the Indians, who receive from £5 to £10 per month besides their board and lodging, seemed hardly to understand the value of the money they were carrying. These Indians are dreadful gamblers, and play a game like chuck farthing
+
+Had any of the "boys" been at South Kensington on Monday they would have exclaimed like Blucher, when he went through Lombard-street, though in different words, "Oh, what a place for a fiddle!"</p>
+
+<p>An old friend of Jem's, who had known him in Omaha, and who appeared to be the camp manager, showed us through the Indian dining quarters. Their cups and plates were severally arranged. Good roast and boiled were preparing in the cook's gallery. Jugs of molasses syrup were on the table, besides pieces of bread; while the coffee sent forth an aroma which testified to its quality.</p>
+
+<p>While ruminating on the good time these painted savages appeared to be having, we were shown into the tent of one of the most pleasant young ladies in the show, Miss Annie Oakley the champion shot of America.</p>
+
+<p>Her table was literally covered with gold pieces which [she?] said the Indians had brought to her to take care of; [but?] the disadvantage, she said, of minding this money [was?] that when they lost at play and were desirous of [replenishing?] their stock these Indian gamblers would [knock?] her up at midnight or the small hours of the [morning?].</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

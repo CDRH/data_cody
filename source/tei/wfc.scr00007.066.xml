@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.066">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Buffalo Bill's "Wild West" Camp
+</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.066</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Buffalo Bill's "Wild West" Camp</title>
+<title level="j"></title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.066"/>
+
+<figure><p>Hon. W. F. CODY.</p></figure>
+
+<figure><p>INTERIOR OF W. F. CODY'S TENT</p></figure>
+
+<figure><p>TENTS OF THE COW BOYS</p></figure>
+
+<figure><p>A LOG HUT</p></figure>
+
+<figure><p>MISS ANNIE OAKLEY</p></figure>
+
+<figure><p>THE LADIES TENTS</p></figure>
+
+<figure><p>THE INDIANS WIGWAMS.</p></figure>
+
+<head>Buffalo Bill's.
+
+"Wild West" (camp.)</head>
+
+<p>Saving for Buffalo Bill's show, the American Exhibition is a ghastly failure. It is all very well to say that it is not complete yet; neither was the Colonial and Indian Exhibition last year, at the outset; but what a difference from the present ill-sorted congeries of uninteresting trifles! It may be that the toboganning, and the "switch back" railway will prove attractive, and, perhaps, when the grounds are a little less like a builder's and carpenter's yard there may be plenty of people glad to hear the music; but it is little indeed that we have to fear from American industry, if the Exhibition pure and simple is the best thing they can send us from over the water. From the Fair Trade point of view it is satisfactory to find that this introduction of American products, free of duty into our country, is not likely to in any way damage our home markets—the products are, in homely phrase, "not good enough."
+Far different must be our report of Buffalo Bill, who</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

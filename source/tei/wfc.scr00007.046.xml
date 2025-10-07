@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.046">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Buffalo Bill has struck a bonanza]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.046</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [Buffalo Bill has struck a bonanza]</title>
+<title level="j">The American Field</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Firearms</term>
+<term>Wild West Shows</term>
+<term>Sharpshooters</term>
+<term>Shooting</term>
+<term>Exhibitions</term>
+<term>Gun Clubs</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Gladstone, W. E. (William Ewart), 1809-1898</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.046"/>
+
+<head>THE AMERICAN FIELD</head>
+
+<p>BUFFALO BILL has struck a bonanza with his Wild West show in London. The English papers are very lavish with their notices, and the public flock to see what Mr. Gladstone has termed, and what the majority believe, "a true and accurate representation of American life." But we notice Miss Annie Oakley is carrying off the majority of the honors; she has certainly captured the reporters. The News says her marksmanship is better than Buffalo Bill's, and that her shooting is phenomenal. Miss Oakley gave an exhibition of her shooting recently at a meeting of the Gun Club, which drew a large attendance of the members and their friends. It was her first experience with Blue Rock pigeons, and it is gratifying to know that our little American girl proved herself an expert shot.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

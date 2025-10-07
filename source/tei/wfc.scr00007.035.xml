@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Yesterday the opening of the American Exhibition]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.035</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [Yesterday the opening of the American Exhibition]</title>
+<title level="j">The Sportsman</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-05-10">May 10 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Sharpshooting</term>
+<term>Firearms</term>
+<term>Exhibitions</term>
+<term>American Indians</term>
+<term>Celebrities</term>
+<term>Wild West Shows</term>
+<term>Cowboys</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Gower, Ronald Sutherland, Lord, 1845-1916</term>
+<term>Nordica, Lillian, 1857-1914</term>
+<term>Whitley, John Robinson, 1843-1922</term>
+<term>Irving, Henry, Sir, 1838-1905</term>
+<term>Rothschild, Leopold de, 1845-1917</term>
+<term>Manning, Henry Edward, 1808-1892</term>
+<term>Wyndham, Charles, 1837-1919</term>
+<term>Richmond, Frank, -1890</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.035"/>
+
+<head>The Sportsman.</head>
+
+<ab>TUESDAY, MAY 10, 1887.</ab>
+
+<p>Yesterday the opening of the American Exhibition, of which the Wild West Show forms so important a part, took place at half-past three, at which hour the Grenadier Guards' Band, under Mr Dan Godfrey's conductorship, played "Hail, Columbia." Canon Farrer then offered up prayer, and Lord Ronald Gower read an address, in the name of the Committee of Welcome, to which Col. Henry L. Russell suitably responded, this part of the proceedings, however, losing some little interest from the fact that several of the speeches were read. "The Star-spangled Banner," "Rule Britannia" being played by the band, Miss Lillian Nordica charmingly singing the solos. Mr J. R. Whitley read an address, and the opening ceremony terminated. It was rumoured in the building that through the bursting of the boiler it was found impossible to set the machinery in motion, but the mishap did not militate against the success of the ceremony, those present trooping on to the "Wild West" long before the whole of the speeches were delivered. The scene under the huge corrugated iron velarium, which runs nearly two-thirds round the arena, was a brilliant one. Lady Dalhousie in blue, Lady Bective and Lady [Down?e], Mr Henry Irving, Sir Henry de Bathe, and [?] Terry in an oatmeal-coloured costume, [occupied?] prominent positions. Amongst others present were Mr Leopold de Rothschild, Mr [Poole?], Mr Thorne, the Turkish Ambassador, and Mr Bancroft. The pretty Princess Victoria of Teck, Cardinal Manning, Mr Wyndham, Mrs John Wood, Mr John Clayton, Mr Walter Slaughter, and indeed almost everyone who is known in London's innermost literary and dramatic circles were also to be seen. The first part of the programme consisted of a grand processional review, which was followed by the introduction of individual celebrities. A picturesque sombrero-crowned figure in the person of Mr Frank Richmond did excellent duty as an animated programme, and prefaced each event with a few ringing words, which were distinctly heard in every part of the vast assemblage. Following came a race between a cowboy, a Mexican, and an Indian, on ponies, the latter coming in a bad third. The following item, an illustration of the old-fashioned "Pony Express," was one of the best on the programme. Even more vigorous, however, was the attack on an emigrant train by the Indians, and its defence by frontiersmen, the picturesque figure of Buffalo Bill standing vividly out amongst the dashing cavalcade of riders who gallop to the defence of their compatriots. A delightful "Virginian Reel on horseback by Western girls and cowboys," daintily danced by their equine aides, was loudly applauded. Then came Miss Annie Oakley's shooting, which our own gun clubs would find it difficult to beat; the cowboys' fun, a ladies' race on horseback, and the attack on the Old Deadwood stage-coach by Indians.</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

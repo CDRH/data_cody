@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.056">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The Local Lounger</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.056</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The Local Lounger</title>
+<title level="j">The Metropolitan</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>American Indians</term>
+<term>Audiences</term>
+<term>Shooting Exhibitions</term>
+<term>Firearms</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.056"/>
+
+<head>THE METROPOLITAN</head>
+<head>The Local Lounger.</head>
+
+<p>Oh, come to the West, love! oh, come there with me, and—well, we'll have an American cocktail, and look at the trophy of back teeth, St. Jacobs Oil monument, and alligator-tooth jewellery, and other scientific exhibits. But these interesting and national tributes are of small account when compared with the interesting proceedings of Buffalo Bill and his merry and clever companions. While the City Fathers were being presented to a Sovereign, I went on to the "Billeries," and glad I was to do so, for the sensation was novel, and I got a good place, while I saw many who came in later wandering about helplessly. From the Earl's-court Station you get a good view of the boni-fide buffaloes, and also the camp or wigwams of some of the Indians. But on this day it was quite enough at first to view the vast audience, concentrated in a building holding some twenty thousand people, and some of them were people, for cooped up in what are called boxes, but are really pens, were some of the cream of the fashionable, the artistic, and theatrical world. Lords and ladies abounded, together with leading artists and actors, and not least, pretty actresses. The fashions were very noticeable—bonnets and hats were very pronounced. The hats are tall, but the bonnets are trying to catch them up, and so, instead of growing sideways, they now go up to a point in front, and leave the back hair to do any duty of protecting the head of the wearer from exposure to the weather. Dresses there were of all colours, a few of the æsthetic kind, all loose everywhere, with either a frill of the washed-out material round the neck, or a superior border of discoloured lace, and the wearers looking as if they were very superior people indeed; others, more sensible, I think, availed themselves of the pretty new light cashmere and woollen plaids, or pretty loose jackets with one button at top, or well-fitting covert coats of light cloth. Altogether the show of beauty and fashion was a fine one.</p>
+
+<p>One novelty I refer to the Architect of the Corporation, Sir Horace Jones, and that is, that an American called the "Orator," with a not particularly loud voice, and standing out in the open air a long distance from the covered enclosure could be heard distinctly anywhere in the building. Get leave of absence from your absorbing duties, Mr. Architect, and go to the Wild West for a month to study this strange problem, and then, perhaps, some method may be adopted by which people in the gallery of the Court of Common Council may hear a few words spoken by the honourable the members of the Court.</p>
+
+<p>The show is good, novel, and interesting. Buffalo Bill is picturesque and clever. Annie Oakley, as a shot, is more than clever; her performances partake of genius, and when she missed at first to break two glass balls thrown up in the air at the same time, she having her back to the balls, and obliged to take up the rifle from the ground, the orator's remark of "She can dew it," cause rounds of applause; and she did it—in fact, her performance is perfectly marvellous. Then the grand assembly of the tribes of Indians, with their moccasins, their feathers and warpaint, is very picturesque. Somebody at my elbow called attention to the likeness of one of these braves to Mr. Jex, of Billingsgate; but I feel sure they are genuine Indians, although the voice of the West Ham legislator is nearly as musical as some of the painted warriors'.</p>
+
+<p>Of course, one will go again, to see the races and the "Deadwood Coach" and the taking of the log-hut, &amp;c., &amp;c.; but I think the first set of quadrilles might be left out. It was the only thing that brought the mind back to the ordinary circus.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

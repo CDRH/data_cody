@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Is a Grand Success]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.068</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [Is a Grand Success]</title>
+<title level="j">St. Stephen's Review</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-05-14">May 14, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Audiences</term>
+<term>American Indians</term>
+<term>Horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Churchill, Jennie Jerome, 1854-1921</term>
+<term>Brown-Potter, Cora Urquhart, 1857-1936</term>
+<term>D'Oyly Carte, Richard, 1844-1901</term>
+<term>Gilbert, William Schwenck, 1836-1911</term>
+<term>Sullivan, Arthur Seymour, 1842-1900</term>
+<term>Wyndham, Charles, 1837-1919</term>
+<term>Toole, John Lawrence, 1830-1906</term>
+<term>Harris, Augustus Henry Glossop, 1852-1896</term>
+<term>Wilde, Oscar, 1854-1900</term>
+<term>Hughes-Hallett, Francis 1838-1903</term>
+<term>Reid, Mayne, 1818-1883</term>
+<term>Red Shirt, 1845?-1925</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.068"/>
+
+<head>St. Stephen's Review</head>
+
+<ab>NOTHING EXTENUATE NOR SET DOWN AUGHT IN MALICE</ab>
+
+<ab>No. 218. Saturday, May 14, 1887. Price 6d.</ab>
+
+<p>is a grand success. On Monday the audience which crowded the vast amphitheatre, with its 20,000 seats, until there was not even standing room, was thoroughly representative. Glancing at the boxes, we noticed one in the possession of Lady Randolph Churchill and party, then another devoted to Mrs. Brown Potter and her friends. Mrs. Brown Potter looked very charming, dressed quite plainly in black, and evidently was much interested in the proceedings of her countrymen. A regular Savoy box contained Messrs. Gilbert, Sullivan, and D'Oyly Carte; while Mr. Charles Wyndham and his following occupied another. Messrs. Toole and Thorne next caught the eye, and we remembered having seen this same couple returning from Kempton Park, when the everlasting "Johnnie" committed the atrocity of crossing the line at Waterloo Station in order to get first run on the cabs. How he would have scaled the opposite platform had not Mr. Thorne given him a leg up we cannot say. On all sides now familiar faces were visible, of all sorts of people—Mr. Augustus Harris, Mr. Oscar Wilde, Miss Marie Linden, Miss Emily Thorne, The "Shifter," Mr. Hughie Drummond, Colonel Hughes Hallett, and innumberable others. The show itself soon began, after we had had time to admire the clever open-air scenery of the Rocky Mountains and the wonderful voice of the gentleman on the rostrum who played the part of chairman.</p>
+
+<p>We who have revelled in Mayne Reid's and other similar books, could not feel otherwise than delighted to see the Indians, who galloped in by tribes in grand form, for not one single hitch occurred, and they pulled up in each case opposite the spectators with really surprising suddenness. One always used to read of Indians riding up at a gallop and pulling their horses on to their haunches as they stopped, but for our part we never believed it. Now, however, anyone can go and see it done. "Red Shirt" is quite an amiable-looking man, though he is understood to have taken many scalps in his time, and most of the other Indians are genial-looking enough</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

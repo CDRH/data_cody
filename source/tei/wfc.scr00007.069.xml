@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.069">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [The Comtesse de Paris and the Crown Prince of Denmark]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.069</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [The Comtesse de Paris and the Crown Prince of Denmark]</title>
+<title level="j">The World</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-05-11">May 11, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows; Royalty; American Indians; Audiences</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Frederik VIII, King of Denmark, 1843-1912</term>
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
+<term>Louise, Princess Royal, Duchess of Fife, 1867-1931</term>
+<term>Marie Isabelle of Orléans, 1848-1919</term>
+<term>Hughes-Hallett, Francis 1838-1903</term>
+<term>White, Henry, 1850-1927</term>
+<term>Whitley, John Robinson, 1843-1922</term>
+<term>Richmond, Frank, -1890</term>
+<term>Red Shirt, 1845?-1925</term>
+<term>Yellow Hand, 1850?-1876</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England); Kensington (London, England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.069"/>
+
+<head>The World.</head>
+
+<ab>WEDNESDAY, MAY 11, 1887.</ab>
+
+<p>The Comtesse de Paris and the Crown Prince of Denmark lunched at Marlborough House on Thursday, and a general move was afterwards made to West Kensington, where the Royal party arrived just twenty minutes before it was expected. The Princess of Wales came in a tailormade dress of fawn-colour; the Princess Louise was in ruby silk and velvet; and the Comtesse de Paris in black and jet, with white braided gloves. Colonel Hughes-Hallett was Master of the Ceremonies; Mr. Henry White, of the American Legation, representing Mr. Phelps, was in attendance on the Duke of Teck; and Mr. Whitley and Colonel Russell promptly conveyed their illustrious visitors over the bridge to the arena. Mr. Richmond, Colonel Cody's "pulpit orator," eloquently explained all the instructive features of the show, which was warmly applauded from start to finish. The Comtesse de Paris, herself an experienced shot, was delighted with the skill of Miss Annie Oakley, who shook hands effusively with all the Princes and Princesses. Afternoon-tea engagements were abandoned, and a general adjournment took place to the camp, where Red Shirt distributed the contents of the great white chief's cigarette-case amongst his followers; where Colonel Cody excited the wonderment of the ladies by the exhibition of Yellow Hand's scalp and his other war trophies;</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

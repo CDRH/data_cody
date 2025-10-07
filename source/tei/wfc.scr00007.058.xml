@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.058">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Little Sure-Shot</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.058</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Little Sure-Shot</title>
+<title level="j">Birmingham Weekly Mercury</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-05-14">May 14, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Sharpshooters</term>
+<term>Firearms</term>
+<term>Exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Sitting Bull, 1831-1890</term>
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Birmingham (England)</term>
+<term>St. Paul (Minnesota)</term>
+<term>Cincinnati (Ohio)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.058"/>
+
+<head>Weekly Mercury</head>
+
+<head>"LITTLE SURE-SHOT."</head>
+<ab>Birmingham, Saturday, May 14, 1887.</ab>
+<p>Miss Anna Oakley, the celebrated wing shot, of whom we give a picture, gives an exhibition of her skill with the rifle.The great Indian chief "Sitting Bull," after seeing her shoot at St. Paul's, Minnesota, adopted her in the Sioux tribe, giving her the name of "Mazza-Cow-Ah-Pazzo," or "Little Sure-Shot." At one of her shooting contests, near Cincinnati, out of 5,000 glass balls thrown from traps, at 15 yards rise, she broke 4,772. She is also a spendid horsewoman.</p>
+
+<figure><p>Miss Anna Oakley,</p>
+
+<p>The Champion Markswoman of America.</p></figure>
+
+<p>The extraordinary skill in rifle shooting displayed by the two young American girls (one only fifteen years old) will interest those who have a taste for firearms. For myself, I was glad to get beyond the sound of the sharp crack and accompanying applause that told "another bullet had found its billet." I have a righteous horror of all firearms, be it said, and am never quite easy even when they are not charged. Miss Annie Oakley, the elder of these rival crack shots, won the admiration of the Comtesse de Paris, who was with the Prince and Princess of Wales when they visited the "Wild West Show." By no means abashed in the presence of Royalty, the fair Republican presented</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

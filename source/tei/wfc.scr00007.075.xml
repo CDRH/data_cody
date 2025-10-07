@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.075">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Jack and Jill at the Play</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.075</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Jack and Jill at the Play</title>
+<title level="j"></title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>American Indians</term>
+<term>Cowboys</term>
+<term>Horses</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Smith, Lillian Frances, 1871-1930</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Brompton (London, England)</term>
+<term>California</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.075"/>
+
+<head>JACK AND JILL AT THE PLAY.</head>
+
+<p>Dearest Editor as ever was,—You must know that our duty to you and to your readers, called us the other day to quite another kind of show to that we usually to go for you. It wasn't exactly theatrical, neither was it what you might call a circus show. It was a sort of combination of both, with several dashes of picturesqueness and real realism thrown in by way of makeweight. Also it was what Dear Jack calls "very fine and large," seeing that the arena in which it all took place covers twenty-three acres of ground. In short, to come to the point, the show in question was none other than the Hon. W. Buffalo Bill Cody's great Wild West Show, which is located (and will be until October 31) at what darling Jack says should be known hereafter through all the ages, as Wild West Brompton.</p>
+
+<p>Jack says that, bearing in mind recent utterances of mine, you will say, like the young Leamar ladies in the serio-comic duet, "Why is the world so gy to-dy?'—whatever that may mean. I suppose that my dear old sarcastic stupid darling means to say that you will wonder why your Only Jill is so much more blithe and nice than she (meaning Me) has been of late. Well, Sir, I will tell you. The fact is——; but see [later?]. I must first finish what I had to say about Buffalo Bill and his big show, so full of picturesque Indians and Cowboys, all of whom, according to Jack,  daily inundated (he says) with Buffalo Billy-doux from the local slaveys—which I don't believe.</p>
+
+<p>It is a wonderful show, Sir, this Wild West. Everybody [ought?] to go and see (as no doubt everybody will) the fiery [untamed?] mustangs, mules, Broncho horses, on which Mr. Buffalo William and his picturesque Cowboys and Indians do such marvellous and risky feats, and ride at such break-neck speed. Among the special features which Jack's Journaliers must not miss is (1) the Indian attack on the Emigrant Caravan and the Deadwood Coach, in both of which attacks the Redskins—who are painted all sorts of colours so as to disguise their natural complexion—are repulsed with great slaughter; and (2) the splendid shooting of Miss Annie Oakley and Miss Lilian Smith—a couple of fine young Californianesses.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.071">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The Dramatic Review</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.071</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The Dramatic Review</title>
+<title level="j"></title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Cowboys</term>
+<term>Mexicans</term>
+<term>Horses</term>
+<term>Horse riding</term>
+<term>Shooting</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Ramé, Maria Louise, 1839-1908</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.071"/>
+
+<head>THE DRAMATIC REVIEW.</head>
+
+<p>The Hon. Col. Cody is a man for whom I have a considerable amount of appreciation, and, beyond doubt, he is one of the most remarkable characters of his time and country.</p>
+
+<p>It is an old joke against Americans, that every citizen of the States considers the safety of the country depends to a great degree upon his own personal prowess. In regarding Buffalo Bill, one may well be excused for thinking, "What could not even a hundred such men accomplish together!" For his presence is masterful and imposing, begetting confidence and respect by his manfulness. To these physical attributes is allied a low, kindly voice, a smile as sweet as a woman's, and a gentle courtesy and polish which Belgravia itself might well envy.</p>
+
+<p>It is therefore small wonder that such a man—one who almost reaches the idealism of Ouida's heroes—should have created such a furore in London society, be run after by princesses, and patronised by peers, that is, if even peers could patronise Buffalo Bill. But all this hero-worship has not turned Colonel Cody's head or made him put any side on. He is just as modest in fact, a great deal more so, than any of his own Cowboys.</p>
+
+<p>As I have said, the show itself is intensely interesting and worth everyone's going to see. Perhaps the best fun is the buck-jumping performance, which made me laugh more heartily than I have done for a long time past. These Mexicans are wonderful fellows on horseback, and, indeed, Bill himself rides and shoots in a most marvellously skilful manner.</p>
+
+<p>Miss Annie Oakley, too (Little Sure Shot), is a wonderful shootist. Breaking glass bottles thrown in the air, with her rifle in one hand, on her head, downside up or over her shoulder, is all one to her. She doesn't care, to use a colloquialism—it's like shelling peas to her.</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

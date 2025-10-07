@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.072">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [It is evident that Her Majesty's advisers]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.072</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [It is evident that Her Majesty's advisers]</title>
+<title level="j">The Bat</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-05-24">May 24, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Sharpshooters</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Red Shirt, 1845?-1925</term>
+<term>Taylor, William Levi, 1857-1924</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.072"/>
+
+<head>THE BAT</head>
+
+<ab>LONDON, MAY 24, 1887.</ab>
+
+<p>It is evident that Her Majesty's advisers do not mean this year to let her do things by halves. If it is her gracious pleasure to command a private performance of the latest edition of Sangers' Circus, they see no harm in her going a step further, and offering the hospitalities of Buckingham Palace, and the cachet a presentation is supposed to confer, to a class who cannot be considered much of a remove beyong Buffalo Bill, Red Shirt, Buck Taylor, or their respective squaws. Indeed, Miss Annie Oakley, "Little Sure Shot," has certainly ground for complaint that she was not presented by Mrs. Phelps last Wednesday, and many will want to know why some slight recognition, in the way of an invitation to the Royal Palace, has not yet been tendered to Mr. "Pony" Moore as a reward for his years of catering for the public amusement. There cannot be any difficulty in the way of these estimable entertainers being received by Her Majesty, after the publication of the recent list of persons who were so honoured last week.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [I elicited the following from Buck Taylor]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.024</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [I elicited the following from Buck Taylor]</title>
+<title level="j">Shooting Times</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Cowboys</term>
+<term>American Indians</term>
+<term>Horsemanship</term>
+<term>Shooting Competitions</term>
+<term>Exhibitions</term>
+<term>Wild West Shows</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Taylor, William Levi, 1857-1924</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.024"/>
+
+<head>SHOOTING TIMES</head>
+
+<p>I elicited the following from Buck Taylor respecting this peculiar quadruped :— "The Broncho is a horse. He has four legs like the sawhorse, but is decidedly more skittish. He is of gentle deportment and modest "mien," though there is nothing "mean" about him. All he asks is to be let alone. He is firm in this matter, and the most specious argument cannot shake his determination. The first Broncho I ever saw reached out with his right hand foot, and expostulated with his would-be rider so that he died. The Broncho is what the Cowboys call high strung: if you want to know how much climb on his apex. I once saw a clever down East equestrian get on a Broncho with much pomp and a derrick. After two or three spasmodic upheavals he gave one grand farewell "boost," and the rider clove the firmament, and split through the hushed ethereal until his toes ached from the lowness of the temperature, and he could hear the music of the spheres. Then he came down and fell in a little heap about a hundred yards from the starting-point, and a kind Samaritan gathered up the fragments in a cigar box. Like to try a 'Broncho,' Mr Rover?" To this proposal I returned a firm but polite negative. After interviewing Miss Annie Oakley, the champion lady shot of America, who very kindly allowed me to inspect the many beautiful trophies she has received for feats at glass ball and wing-bird shooting, and after hearing the Cowboy Band give a taste of their quality, I bade farewell to the King of the Cowboys and "the Wild West," much pleased with the strange and interesting sights I had seen. The America Exhibition and the Wild West will run from Monday next till October 31, and Buffalo Bill's "Wild West" will "show" twice a day—rain or shine! </p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.074">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [The glass ball shooting]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.074</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [The glass ball shooting]</title>
+<title level="j">Sydenham, Forest Hill, and Crystal Palace Times</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-05-21">May 21, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Firearms</term>
+<term>Lassoing</term>
+<term>Audiences</term>
+<term>American Indians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Gower, Ronald Sutherland, Lord, 1845-1916</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Texas</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.074"/>
+
+<head>Sydenham, Forest Hill, and
+
+Crystal Palace Times.</head>
+
+<ab>SATURDAY, MAY 21, 1887.</ab>
+
+<p>The glass ball shooting was not first-class, but the young ladies were, perhaps, a little nervous. The lassooing and riding of Texan steers was considered to be cruel by certain idiots who, were present, and thought fit to hiss; but that is, of course, absurd. It is clearly no easy task to ride a Texan steer, as one or two pretty falls resulted. Buffal Bill's glass ball shooting was distinctly good, and the dramatic scenes of attacks by Indians were exciting enough, especially the attack on the coach, which is drawn by six splendid mules. The amusing feature of this was the presence of Lord Ronald Gower and certain other celebrities in the coach.</p>
+
+<figure><p>MISS ANNIE OAKLEY</p></figure>
+
+<figure><p>THE LADIES TENTS</p></figure>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

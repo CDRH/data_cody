@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Royal Visit to the American Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.027</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Royal Visit to the American Exhibition</title>
+<title level="j">The Daily News</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-05-06">May 6, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Exhibitions</term>
+<term>Royalty</term>
+<term>American Indians</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+<term>Louise, Princess, Duchess of Argyll, 1848-1939</term>
+<term>George, Prince, Duke of Cambridge, 1819-1904</term>
+<term>Franz, Prinz, Herzog von Teck, 1837-1900</term>
+<term>Frederik VIII, King of Denmark, 1843-1912</term>
+<term>Argyll, John Douglas Sutherland Campbell, Duke of, 1845-1914</term>
+<term>Red Shirt, 1845?-1925</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.027"/>
+<head>The Daily News.</head>
+
+<head>ROYAL VISIT TO THE AMERICAN EXHIBITION.</head>
+<ab>1887 LONDON, FRIDAY, MAY 6</ab>
+<p>The Prince and Princess of Wales, accompanied by their daughters, the Princess Louise (Marchioness of Lorne), the Duke of Cambridge, the Duke of Teck, the Crown Prince of Denmark, and the Marquis of Lorne, visited the American Exhibition yesterday afternoon. Having been conducted through the main building, which is now nearly completed, the Royal party took up their position on the grand stand to witness a special performance of the Wild West Show, the cowboy band playing "God save the Queen" as they arrived. At the conclusion the principal performers were presented to the Prince and Princess. Miss Annie Oakley, the champion shot, put out her hand to shake hands with the Princess, on the Republican principle of ladies first. The Princess smilingly pointed to the Prince, and their Royal Highnesses in turn shook hands warmly with the lady, and complimented her on her skill with the rifle. Th Indians seemed greatly to appreciate the Royal visit, and Red Shirt, to whom the Prince was introduced as the coming Chief of the Pale Face Nation, said, through Broncho Bill, it made his heart glad that one so high above other men should visit him; though his skin was red, and the Pale Faced Chief's was white, their hearts were one. "How long are you going to stay in this country?" asked his Royal Highness. "So long as the White Father (Colonel Cody) stays, I and my braves will stay," replied the Chief. The Prince handed Red Shirt a number of cigarettes, which the latter shared with his companions. The Sioux Chief repeatedly laid his hand on his heart in order to show his regard for the Prince of Wales. The Princess took great interest in the papooses, staying several minutes to chat with a little fellow of two or three years, who was wrapped in a yellow blanket; and had his body painted in most gorgeous colours. The notice taken of the children highly delighted the squaws. Despite the muddy state of the roads, the Royal party visited and inspected the stables and the corralls where the buffalo and other animals are confined. Before leaving the Exhibition the Prince warmly complimented Colonel Cody and the directors of the Exhibition, and expressed the wish [that?] [their?] venture would prove a grand success.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.052">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Opening of the American Exhibition</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.052</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Opening of the American Exhibition</title>
+<title level="a" type="main" xml:lang="en">Buffalo Bill’s Wild West</title>
+<title level="j">Lloyd’s Weekly London Newspaper</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Exhibitions</term>
+<term>Wild West Shows</term>
+<term>Music</term>
+<term>Audiences</term>
+<term>Cowboys</term>
+<term>American Indians</term>
+<term>Mormons</term>
+<term>Shooting</term>
+<term>Horseriding</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Farrar, F. W. (Frederic William), 1831-1903</term>
+<term>Gower, Ronald Sutherland, Lord, 1845-1916</term>
+<term>Russell, Henry Sturgis</term>
+<term>Whitley, John Robinson, 1843-1922</term>
+<term>Nordica, Lillian, 1857-1914</term>
+<term>Young, Brigham, 1801-1877</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Nebraska</term>
+<term>Salt Lake City (Utah)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.052"/>
+
+<head>LLOYD'S WEEKLY LONDON NEWSPAPER.</head>
+
+<head>OPENING OF THE AMERICAN EXHIBITION.</head>
+
+<head>BUFFALO BILL'S WILD WEST.</head>
+
+<p>The Exhibition of the Arts, Inventions, Manufactures, and Resources of the United States was opened on Monday afternoon at West Brompton. The proceedings were begun in the main transept at half-past three o'clock by a performance of "Hail Columbia" by the Grenadier Guards band; after which Archdeacon Farrar, of Westminster, led the company in prayer. The band played "God Save the Queen," after which Lord Ronald Gower, on behalf of the English council, delivered an address of welcome to the American guests. This council, he said, consisted of about 1,000 leading Englishmen in all walks of life, animated by the common purpose of showing a strong regard and affection for America and Americans. He expressed the hope that this exhibition might be a new bond of amity between England and America. The president of the exhibition, Colonel Henry Russell, returned thanks for this welcome and for the encouragement given to the Americans in their efforts to make a fair show of Yankee industries. Mr. John R. Whitley, director-general of the exhibition, explained that it had been organised and developed solely by private initiative. The "Star-spangled Banner" and "Rule Britannia '' having been sung by Mdlle. Lilian [Nordica?] amid great enthusiasm, Colonel Russell, as president of the exhibition open, started the machinery, proclaimed the exhibition, and expressed a hope that might prove another strong link in that chain, sometimes strained but never broken, which bound the United States to Old England, "Yankee Doodle"  was next performed by the band, after which the assembly proceeded to witness the performance of Buffalo Bill's "Wild West," the branch of the exhibition which will have most attraction for the public.</p>
+
+<p>Whatever may be thought concerning the other sections of the exhibition, there must be a unanimous opinion of the picturesqueness of "America's National Entertainment'' (so styled on the programme)—Buffalo Bill's Wild West. As a mere show the display of cowboys, scouts, Indians, and horses is exciting and attractive; but it is something more. These men and women are not merely trained circus people; they represent nobody but themselves and their own life in the Wild West. Colonel Cody (Buffalo Bill) is a large ranche owner at North Platte, Nebraska, and as scout, soldier, huntsman, and rancher has achieved a high reputation for himself all over the States. His Indians are actual red men who have not always engaged in mimic fights, but scalped and fought in desperate earnest. But it was purely as a show that the 25,000 people, on Monday, who only just filled the capacious structure, regarded them—and a very picturesque show it was in their estimation. After Mr. Levy had played the "Star-spangled Banner" on his cornet, there dashed into the large ring, with a circuit of one-third of a mile, the whole of Buffalo Bill's troupe, a motley crowd of Indians, Mexicans, and cowboys—all gaily dressed and superbly mounted. The intrepid horsemen, in their feathers and beads and mantles and war paint, raced round the ring at headlong speed; they urged on their wild career at a breakneck pace, halting in an instant and as suddenly as they started. On they came, with a mad rush and a whirling gallop. Mexicans in all the extravagance of velvet and silk; Indians painted and tattoed in every imaginable colour; cowboys in sashes and corduroy; laughing girls in coloured habits. As they took up position in admirable order, the sun, which had been very shy up to that moment, came out brilliantly and suddenly, lighting up this varied and fantastic picture, to the delight of everybody. There was a cheer from the crowd and a yell from the tribes as "Red Shirt" reined in his horse in front of his men. There was another cheer as Sergeant Bate, the standard-bearer, advanced—an old favourite in England, who some years ago carried the stars and stripes from the Land's-end to Gretna-green, that honour might be paid to the American flag; but the loudest cheer of all awaited Buffalo Bill himself, who, tossing out his curls and waving his wide hat in the air, completed this stirring picture. The brilliant horsemen vanished as quickly as they came. A word of command, a shout, and, in a second, Indians, cowboys, girls, beads, feathers, striped mantles, and war-paint had disappeared. They rode as if they had been born on horseback, and as if nothing could upset them. The programme consisted of two distinct features, one dramatic, the other dexterous. One showed life as it was in the "Wild West" before civilisation had altered the condition of things, and the other exhibited feats in shooting and athletic exercises with which the music-hall stage is not wholly unfamiliar. The more dramatic scenes were necessarily very much alike in character. They included the actual representation of an attack by Indians on an emigrant train, on the famous Deadwood stage-coach, and on an outlying and deserted settler's cabin. The result was the same in every case. The Indians succeeded for a time, but were ultimately repulsed by the brave cowboys, headed by the indefatigable Buffalo Bill; rifles and revolvers were fired with rapidity on either side, there was a scamper, a rush and a skirmish, and the fancifully-attired Indians were supposed to be left dead on the field. Of the three dramatic scenes, the attack on the Deadwood coach was the best, and in order to heighten the illusion, four visitors, including Lord Ronald Gower, took [?] [?] and braved the mimic attack and the powder of the hostile Indians. Riding on the top or the coach was John Nelson (Indianised Cha Sha-Sha-na-po-ge-o) who was responsible, the "orator" informed us, for polygamy in America, inasmuch as he guided Brigham Young and the Mormons across the then "Great Desert" to the site of the present Salt Lake city. Captain Fred Mathews, a famous American whip, held the reins. Amongst the skilled in arms of precision, a very popular performance was given by Miss Annie Oakley, of "wing shooting." There were races round the ring of every imaginable kind; races by pony express; races by Indian lads on barebacked ponies; races for the young ladies in the orthodox riding habits; races for "Mexican thoroughbreds," as the "orator" facetiously styled some patient jackasses, whose original cost he informed us was four shillings a dozen. Next, however, to the groups and processions, was the comical exhibition of bucking ponies and fiendishly obstinate mules. The difficulties of the cowboys in mounting and the worse difficulties of maintaining their seats whilst the animals reared, kicked, and plunged, caused infinite amusement. A buffalo hunt was pictured by a number of these animals being driven round the ring and made the target of a quantity of blank firing. Buffalo Bill contributed two solo performances—wielding in remarkable manner a bull whip of astounding dimensions, which he made to crack like the boom of cannon, and also firing at glass balls whilst riding.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

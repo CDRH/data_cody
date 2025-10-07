@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Just before closing her engagement]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.013</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [Just before closing her engagement]</title>
+<title level="a" type="sub" xml:lang="en"></title>
+<title level="j">The New York Clipper</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-03-05">March 5, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Horses</term>
+<term>Horse riding</term>
+<term>Riding Clubs</term>
+<term>Medals</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>New York (N.Y.)</term>
+<term>Madison Square Garden (New York, N.Y.)</term>
+<term>Ohio</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.013"/>
+
+<head>THE NEW YORK CLIPPER</head>
+
+<ab>THE FRANK QUEEN PUBLISHING CO. (Limited.)</ab>
+
+<ab>PUBLISHERS</ab>
+
+<ab>BENJAMIN GARNO, Managing Editor.</ab>
+
+<ab>SATURDAY, MARCH 5, 1887</ab>
+
+<p>Just before closing her engagement with the Wild West Show in this city, Annie Oakley accomplished the notable feat of picking her hat from the ground while she was riding at full speed. She and many others believe that this was never before done from a side-saddle by anything in the semblance of woman.</p>
+
+<p>At the matinee at Madison-square Garden on Washington's Birthday Miss Annie Oakley was presented with a gold medal from the Ladies' Riding Club, making the fourth medal that has come her way since she opened in New York. She left for her home in Ohio 24.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
