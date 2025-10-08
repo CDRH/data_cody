@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.103">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [By advices from England I learn]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.103</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [By advices from England I learn]</title>
+<title level="j">The Referee</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Royalty</term>
+<term>Trick Shooting</term>
+<term>Shooting</term>
+<term>Firearms</term>
+<term>Sharpshooters</term>
+<term>Exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Smith, Lillian Frances, 1871-1930</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>England</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.103"/>
+
+<head>THE REFEREE.</head>
+
+<p>By advices from England I learn Miss Annie Oakley, of the Wild West show, is still creating a sensation in England by her wonderful shooting, and she has received invitations to banquets and received innumerable presents from the scions of royalty and noblemen.</p>
+
+<p>There are many who practice fancy trick shooting, but none of them except Lilian Smith class with the "Police Gazette" female rifle shot.</p>
+
+<p>Miss Oakley's performances and feats with the gun are accomplished by skill, while one-half of the balance of trick shots accomplish their feats by trick and device.</p>
+
+<p>This is how shooting is done by Miss Annie Oakley's imitators: One of the oldest is the bell trick. This is done by having a target placed on the stage with a very small, quarter-inch hole as a center, through which the marksman is supposed to put his bullet. Surrounding this is a piece of black cloth, and back of the cloth a saw plate. If the marksman hits within eight or ten inches of the center, the bell, or rather the plate, which is set loosely, will ring, and the audience will naturally suppose the bullet or bullets penetrated the bull's eye. This explains how stage shots placed from twenty to twenty-five shots in the bull's eye in so many seconds.</p>
+
+<p>The next trick is the match trick. This is done by placing a large number of parlor-matches in a circle, with the heads of the same pointing inwardly. If the marksman hits, or rather puts his bullet, which is not difficult to do, any place in the circle, he must light one of the matches, and thus lighting the circle. This trick is always done at the back of the stage, and the audience cannot see any of the matches, and suppose, naturally, it is but a single match. Another is to fasten a single match on an iron plate, and if the marksman shoots any reasonable distance near it, it will light from the splash of lead on the solid plate.</p>
+
+<p>In the cigar trick the marksman is supposed to shoot the ashes off a cigar held in the mouth of an assistant. The trick is generally a bona fide one, but can be done by having a wire run through the cigar to the ashes, and at the report of the gun have the assistant touch the wire with his tongue and knock the ashes off. Shooting a silver dime from the mouth, and between the teeth of an assistant is done by having one marked with a bullet, and showing one not marked to the audience; the assistant changes at the report of the gun and spits out the marked one and shows it to the audience.</p>
+
+<p>The thimble trick is done by placing a thimble on the assistant's head with a thin string attached, and at the report of the gun it is pulled by another assistant behind the scenes. Shooting through the ring of a watch is done by shooting over the ring, and then, before showing it to the audience, placing the ring of the watch over the hole made, and on a nail placed there beforehand.</p>
+
+<p>Snuffing the candle, which looks so difficult, is done by having the candle placed close to a solid block of wood. The concussion of the bullet puts out the light, although the bullet hits within three inches of the candle proper. The professor gave an exhibition at one time in a Pennsylvania town where [the?] authorities strictly forbade the firing of solid bullets, and gave as good satisfaction as though he were firing and doing the trick bona fide. So much for stage rifle shooting.</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

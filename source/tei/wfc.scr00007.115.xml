@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.115">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Shooting With Both Eyes Open</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.115</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Shooting With Both Eyes Open</title>
+<title level="j">The Field</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-07-09">July 9, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Firearms</term>
+<term>Shooting</term>
+<term>Wild West Shows</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.115"/>
+
+<head>THE FIELD.</head>
+
+<head>SHOOTING WITH BOTH EYES OPEN</head>
+
+<ab>SATURDAY, JULY 9, 1887.</ab>
+<p>SIR,--I am sure a large number of your readers will feel indebted to Miss Annie Oakley for her kind reply to your inquiry as to her mode of shooting. She would, however, add very much to the value of her information if she would say whether the stock of her guns is perfectly straight with the barrel, or bent slighly sideways so as to bring the barrels into a line with the centre of her face, instead of the right eye only. If her stocks are not so bent, I confess I am utterly at a loss to understand how she, or anyone, can equalise the aim from both eyes at once. Like your first correspondent, I am desirous to teach my son the best mode, but do not know whether to order a straight stocked gun, or otherwise.</p>
+
+<ab>Z. A.</ab>
+
+<p>SIR,--First of all, permit me to thank Miss Annie Oakley for so courteously replying to my letter, and informing your readers that she shoots with both eyes open when aiming with gun, rifle, or pistol. As a witness of her skill at the "Wild West," I expect, when accustomed to the flight of our blue rocks, these birds will have a bad time when-ever that lady pulls the trigger.</p>
+
+<p>Unless she dispenses with the back sight of her rifle, I cannot understand how the aim is to be taken without first closing the left eye or neutralising its vision.</p>
+
+<p>Unknown to some friends who believed they always shot with both eyes open, I have tested them by asking them to "try the mount" of a gun. The results were frequently amusing. I closed my own left eye, placed the gunner at the opposite end of the room, and then said, "Aim quickly at my right eye." Some, in doing this, actually closed their left eye unwittingly, others half-closed the left eye, and very few kept both eyes equally wide open. Those keeping both eyes open seldom aligned their barrels exactly with my own right eye, even when aiming with their own guns.</p>
+
+<p>Beyond stating that I can shoot either with one or both eyes open, but make far better work with only one eye aiming, I think it is quite possible for men to become brilliant shots using both eyes; but then game must be plentiful and practice regular, otherwise, even with the assistance of Gilbert's two-eyed sight, I fancy, make the bigger bag if he closes the left eye. To either it is most essential that the shape of a gun is "exactly their mount."</p>
+
+<ab>OLD RAP.</ab>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

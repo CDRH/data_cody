@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.117">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Shooting With Both Eyes Open</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.117</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Shooting With Both Eyes Open</title>
+<title level="j">The Field</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-07-16">July 16, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Shooting</term>
+<term>Firearms</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Lancaster, Charles William (1820–1878)</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>England</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.117"/>
+
+<head>THE FIELD.</head>
+
+<note>SATURDAY, JULY 16, 1887.</note>
+
+<head>SHOOTING.</head>
+
+<head>SHOOTING WITH BOTH EYES OPEN.</head>
+
+<p>SIR,—Miss Annie Oakley, of the Wild West Show, has asked me to answer the letters of Z. A. and "Old Rap," which appeared in your issue of the 9th inst. (as being the only English maker of her guns), respecting the stocking of the guns I have had the honour of building for her.</p>
+
+<p>As no doubt most of your readers are aware, nearly all Americans shoot with guns with a great deal of bend—i.e., about 3 in.—which allows the gun to come well under the right eye, instead of using straighter stocks, with a proper amount of cast off to suit the person for whom the gun is intended, so as to allow the perfect alignment for the right eye.</p>
+
+<p>The original gun I built for Miss Oakley, as ordered for her from America, was 2 7/8 in., and little or no cast off; but after trying this gun at my private shooting ground, it was found she was shooting a great deal under her birds, and at my suggestion, to remedy this, it was restocked very much straighter—viz., 1 3/4 in., and cast off 3/16 in.</p>
+
+<p>This gun weighed nearly 7 1/2 lb., and, although lighter than her other guns, was found to be handicapping her for the shooting she had to do, and I therefore built her another gun weighing only 6lb. 14oz., with 28in. barrels, and which was stocked 2in., and cast off 3/16in. With this gun Miss Oakley has succeeded in doing some very fine shooting—viz., killing twenty-two starlings out of twenty-five, shot at at 23 yards' rise; and I feel convinced, from the way in she has shot the very best blue rock pigeons up to 30 yards' rise, that before the lady leaves England she will make a splendid score at our leading clubs.</p>
+
+<p>I may add that I am now building a pair of 20-bore breech-loading hammerless guns for Miss Oakley, and being specially designed for exhibition shooting, I shall be pleased to submit then for your inspection when finished.</p>
+
+<p>If your correspondent Z. A. will do me a favour to pay me a visit, I shall be pleased to go into the question, to enable him to procure a gun most suitable for his son.</p>
+
+<byline>Charles Lancaster.<lb/>
+151, New Bond-street, W.</byline>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

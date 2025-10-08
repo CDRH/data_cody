@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.100">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Shooting With One or Two Eyes Open</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.100</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Shooting With One or Two Eyes Open</title>
+<title level="j">The Field</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-07-02">July 2, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Shooting</term>
+<term>Firearms</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>England</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.100"/>
+
+<head>THE FIELD.</head>
+
+<head>SHOOTING WITH ONE OR TWO EYES OPEN.</head>
+
+<ab>SATURDAY, JULY 2, 1887.</ab>
+
+<p>A few days ago a correspondent (whose letter has been mislaid) wrote to us saying that, although he had always been in the habit of shooting with one eye only, and was probably too old to change his habit, he wished to know what was generally considered to be the best mode of practice, in order that he might have his son trained in the way he should go. And he also wished especially to know which method is adopted by Miss Annie Oakley, the "Little Sure Shot" of the Wild West Company.</p>
+
+<p>As to the first part of the question, we may state, as the result of a long discussion which occured in our columns a few months ago, that the general consensus of opinion was in favour of keeping both eyes open. And with respect to the question especially relating to Miss Annie Oakley, we append the characteristic reply of "Liitle Sure Shot," who has thus very kindly answered the letter submitted to her.</p>
+
+<p>Sir,—In answer to your question in the letter just recieved, I will say that I always shoot with both eyes open. No matter whether shooting with rifle, shot gun, or pistol, I always adhere to both eyes—believing that, if a person can see with one eye, he can see better with two; but I don't mean to say that there are no good shots who shut one eye.</p>
+
+<p>As to learning to shoot, no one evertaught me anything. I will say that the English blue rock is the most difficult of any shooting I have ever tried, and I have done all kinds, even shooting walnuts from the head, sighting from a mirror. I am in hope, however, that I will learn to kill blue rocks before I leave England; but I can assure you I will need both eyes to do it. Annie Oakley ("Little Sure Shot").</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

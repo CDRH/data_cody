@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.093">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The Grand Duke Michael of Russia</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.093</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The Grand Duke Michael of Russia</title>
+<title level="j">The Evening News</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-06-17">June 17, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Shooting Contests</term>
+<term>Sharpshooters</term>
+<term>Jubilee</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
+<term>Mikhailovich, Michael, Grand Duke of Russia, 1861-1929</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.093"/>
+
+<head>The Evening News<lb/>
+
+AND TELEPHONE.</head>
+
+<head>THE GRAND DUKE MICHAEL OF RUSSIA.</head>
+
+<ab>FRIDAY, JUNE 17, 1887.</ab>
+
+<p>Fame, but not notoriety, is silent about this noble [scion?] of Russia, who is said to have visited this country, not alone for the purpose of attending Her Majesty's Jubilee, but also to find a wife from among the daughters of the Princess of Wales. Whatever be the faults of the Grand Duke, and report says they are very many, he must be credited with a great love for sport of all kinds, and in his own country he is a great and generous patron of everything connected with sport. Only a day or two ago he asked to be allowed to enter into competition with Miss Annie Oakley at the Wild West Show at Earl's Court, which permission was at once accorded. But although the Prince made a fairly good score, it showed but poorly in comparison with that of his fair competitor, and he retired from the contest abashed, but firmly convinced of the superiority of American markswomen over Russian amateur lady-shots. The Grand Duke has just been photographed in a variety of positions, and as he is a finely-built and powerful man his pictures are likely to be well worth seeing.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.102">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Miss Annie Oakley Receives a Medal from the Gun Club, of Notting Hill, Eng.</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.102</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Miss Annie Oakley Receives a Medal from the Gun Club, of Notting Hill, Eng.</title>
+<title level="j"></title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Medals</term>
+<term>Gun Club</term>
+<term>Shooting Exhibition</term>
+<term>Firearms</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Notting Hill (London, England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.102"/>
+
+<head>The Item.</head>
+
+<head>Miss Annie Oakley Recieves a Medal from the Gun Club, of Notting Hill, Eng.</head>
+
+<p>That lovely young lady, and most remarkable shot of her sex, Miss Annie Oakley, is being overwhelmed with honors and admiration in England, where her shooting has aroused a genuine furore. Her latest exhibition was a private performance before the members and friends of The Gun Club, at their grounds, Notting Hill, on June 11. The following programme was accomplished without a fault</p>
+
+<p>1. Short exhibition of rifle shooting, small rifle. 2. Shooting Clay Pigeons, first two straight. 3. Pulling the trap herself. 4. Standing back to trap, turning and firing. 5. The snap shot or killing bird close to trap. 6. Shooting double. 7. Picking up gun after trap is sprung. 8. Same shot double. 9. Standing 20 feet from the gun, running and firing after the trap is sprung. 10. Holding gun with one hand, throwing ball herself. 11. Throwing two balls herself, breaking both. 12. Throwing ball backwards, picking up gun, and breaking it. 13. [Breaking?] six balls thrown in air in four seconds. 14. Breaking five balls in five seconds, first with rifle, others with shot guns, changing guns three times. 15. To shoot at 25 Blue Rocks from five traps, standing at 25 yards distance.</p>
+
+<p>In the live bird shoot, concerning which special interest was manifested, Miss Oakley killed 18, while two fell dead just out of bounds. We quote from the London Daily News:</p>
+
+<p>"At the end of the regular programme Captain Leighton threw a shilling in the air which Miss Oakley hit with a bullet. Then came the pleasantest part of the day's proceedings, and one that cannot fail to render Miss Oakley's memories of her visit to England very gratifying. The President of the club presented her with an extremely handsome and valuable gold medal, larger than a five shilling piece. On the obverse was engraved a highly artistic view of The Gun Club's grounds at Notting Hill. The members are seen in the tent, an attendant is springing one of the five pigeon-traps in the foreground, a well-known shot is standing behind with gun leveled, and a number of pigeons are visible in the air. On the clasps of the medal Miss Oakley's name and the date are inscribed, the whole forming a beautiful memento of a good day's sport."</p>
+
+<p>Miss Oakley used her 7lb hammerless L. C. Smith, which was critically examined by her English admirers and unanimously declared to be a first-class fire-arm in all respects, and especially remarkable in its shooting qualities.</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

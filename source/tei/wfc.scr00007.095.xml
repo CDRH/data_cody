@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.095">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Shooting. The Gun Club, Notting Hill.</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.095</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Shooting. The Gun Club, Notting Hill.</title>
+<title level="j">The Sporting Life</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-06-13">June 13, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Gun Clubs</term>
+<term>Shooting contests</term>
+<term>Medals</term>
+<term>Shooting</term>
+<term>Firearms</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Kensington (London, England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.095"/>
+
+<head>The Sporting Life,<lb/>
+
+MONDAY, JUNE 13.</head>
+
+<head>SHOOTING.<lb/>
+
+THE GUN CLUB, NOTTING HILL.</head>
+
+<p>No finer weather than that experienced on Saturday last could have been desired for the enjoyment of outdoor sports, and the shooting enclosure at this popular club was largely attended, many members being accompanied by ladies. The programme commenced with a contest for the Members' Challenge Cup, value 100 guineas, and on this occasion five members entered into the necessary £25 sweepstakes in connection with the prize. The shooting was not up to the usual average, and after a close struggle between Mr. Kenrick and Mr. Merwyn Watts victory was declared in favour of the former gentleman, who brought down sixteen birds out of twenty, and became the holder of the cup and winner of £125. Mr. Merwyn Watts killed fifteen out of a similar number. The winner used a gun by J. Purdey and Sons, of South Audley street.</p>
+
+<p>As soon as the above event was concluded, Miss Annie Oakley, of the Wild West Show gave an exhibition in shooting, similar in all respects to that given before the public at Kensington. The concluding item in her performance was shooting at twenty-five birds from the 23 yards rise mark, and no fewer than 18 rocks fell to her gun, several being brought down with the second barrel. Miss Oakley was greatly applauded throughout her performance, and at the finish the president of the club presented her with a handsome gold medal. Then followed a £1 handicap sweepstakes (19 subs), and Mr. J. Sutcliffe (29 1/2), Mr. Featherstone (24 1/2), Mr. E. B. Cunliffe (31), and Mr. Herbert (27) dividend after killing 6 birds. The principal event of the afternoon was next proceeded with, viz., an Accumulative Star £1 Handicap Sweepstakes, with a £40 Cup added. A field of thirty-two member came to their marks, and after a long contest Mr. Leraine (31) secured the cup and £180, bringing down twenty-two birds out of twenty-four shot at. Mr. Norfolk (31) and Mr. Featherstone (24 1/2) shared the second and third prizes, amountin to £121. One competitor put over £70 in the pool and unfortunately took nothing out. As it was close upon eight o'clock before the above event was finished, sport concluded with a £2 handicap sweepstakes, with four entries, and this was won by Mr. Hankey (26 1/2) killing four birds. Scores.-</p>
+
+<p>The Members' Challenge Cup, value 100 guineas, added to a £25 sweepstakes, at twenty birds each, 30 yards rise. 5 subs.</p>
+
+<ab>Killed.<lb/>
+
+Mr. Kenrick............ 11011-01110-11111-11101--16 out of 20<lb/>
+
+(Won £125, and holder of the Cup.)<lb/>
+
+Mr. Merwyn WAtts.. 01001-10111-10111-11111--15 out of 20<lb/>
+
+Mr. E. B. Cunliffe ... 10010-10111-10111-1110 --13 out of 19<lb/>
+
+Mr. F. M. Cobb ...... 0111-10101-01111-1100 --13 out of 19<lb/>
+
+Colonel Persse ......... 01011-10010-10110-11 --10 out of 17</ab>
+
+<p>Accumulative Star £1 Handicap Sweepstakes, with a £40 Yds. rise. cup added 32 subs.</p>
+
+<ab>31 ... Mr. Leraine............ 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1<lb/>
+
+(first prize, £180 and cup.)<lb/>
+
+31 ... Mr. Norfolk............ 1 1 1 1 1 0 1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 0<lb/>
+
+24 1/2 ... Mr. Featherstone... 0 1 0 1 1 0 1 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 0<lb/>
+
+(divided second and third prizes, £121)<lb/>
+
+31 ... Mr. Merwyn Watts . 0 1 1 1 1 0 1 1 1 1 1 0 0 0 1 0 0 1 1 1 1 0<lb/>
+
+30 1/2 ... Mr. Hastings......... 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 0<lb/>
+
+25 ... Mr. S. Shirley......... 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 0<lb/>
+
+31 ... Mr. E. B. Cunliffe... 1 1 0 1 1 1 0 1 0 1 1 1 0 1 1 1 1 1 1 0</ab>
+
+<p>Mr. Hankey (26 1/2 yards rise), 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0; Mr. C. Seaton (26 1/2), 1 1 1 1 0 0 1 1 1 0 1 0; Mr. Herbert (27), 1 1 1 1 1 1 1 0 1 0; Mr. W. F. Gambier (25 1/2), 0 1 0 1 1 1 1 1 1 0; Mr. J. W. Sharp (21), 1 1 1 1 1 1 1 0; Mr. Kenrick (27 1/2), 1 1 1 1 1 1 1 0; Mr. J. Sutcliffe (29 1/2), 0 1 1 1 0 1 1 1 0; Mr. Hemaineth (26), 1 1 0 1 1 1 0; Mr. Debene (25), 1 1 1 0 1 1 0; Mr. F. Baring (24 1/2), 1 1 1 1 0; Mr. R. R. Beard (26), 1 1 1 0; Mr. A. Clark (24 1/2), 1 1 1 0; Col. Persse (27), 0 1 1 0; Mr. W. Ellis (31), 1 1 0 0; Colonel Shelley (25), 1 1 0; Mr. W. T. Batt (25), 1 1 0; Sir G. H. L. Buchanan (30 1/2), 0 1 0; Mr. Halford (27), 1 0 0; Mr. D. Ward (28 1/2), 0 1 0; Captain Shelley (30), 1 0; Mr. Mould (31), 0.</p>
+
+<ab>FIXTURES FOR JUNE.</ab>
+
+<ab>14 (Tuesday). INTERNATIONAL WEEK, during which prizes value £400 will be shot for, including The Gun Club International Cup, also the Gold Medal of the Club.<lb/>
+
+16 (Thursday).<lb/>
+
+18 (Saturday).<lb/>
+
+21 (Tuesday).—Jubilee Day. No Meeting.<lb/>
+
+23 (Thursday).—Bibury £3 Handicap, £25 cup or specie.<lb/>
+
+25 (Saturday).—Stockbridge £5 Handicap, £25 cup, then £5, 31 yards, £50 cup or specie.<lb/>
+
+28 (Tuesday).—Club Fund Cup; then £3, 28 yards.<lb/>
+
+30 (Thursday).—£2 Handicap, £15 added; then £2, even distance, £15 added.</ab>
+
+<p>The Members' Thirty Yards Challenge Cup, value 100 guineas, may be challenged for by any member.</p>
+
+<p>The events commence at three o'clock precisely unless otherwise advertised.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

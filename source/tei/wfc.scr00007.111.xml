@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.111">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Visit of the Princess of Wales to the American Exhibitions</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.111</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Visit of the Princess of Wales to the American Exhibitions</title>
+<title level="j">The Daily Chronicle</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Wild West Shows</term>
+<term>Royalty</term>
+<term>Cowboys</term>
+<term>American Indians</term>
+<term>Exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Alexandra, Queen, consort of Edward VII, King of Great Britain, 1844-1925</term>
+<term>Albert Victor, Prince, Duke of Clarence and Avondale, 1864-1892</term>
+<term>Victoria, Empress, consort of Frederick III, German Emperor, 1840-1901</term>
+<term>Maud, Queen, consort of Haakon VII, King of Norway, 1869-1938</term>
+<term>Mikhail Aleksandrovich, Grand Duke of Russia, 1878-1918</term>
+<term>George, Prince, Duke of Cambridge, 1819-1904</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Burke, John M., 1842-1917</term>
+<term>Smith, Lillian Frances, 1871-1930</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.111"/>
+
+<head>THE DAILY CHRONICLE</head>
+
+<head>VISIT OF THE PRINCESS OF WALES TO THE AMERICAN EXHIBITION.</head>
+
+<p>The Princess of Wales and a large party paid an unexpected and informal visit to the American Exhibition at eleven o'clock yesterday morning. The party included the Princess of Wales, Prince Albert Victor, the Princesses Victoria, Maud, Louisa of Wales, the Grand Duke Michael of Russia, Prince George, Colonel Montague, and several ladies and gentlemen in attendance. The Royal party at once proceeded to the "Wild West" Camp, where they were received by Colonel W. F. Cody ("Buffalo Bill"), Mr. Nate Salsbury, and Major John M. Burke, and after visiting Colonel Cody's tent they proceeded to the Royal Box. At the request of the Princess, Miss Lilian Smith and Miss Annie Oakley gave their exhibition of shooting; and the Grand Duke Michael then shot at a number of balls thrown from the trap, and with Miss Oakley's guns, making a capital score. The old Deadwood stage-coach was then brought out, Colonel Cody himself holding the reins over the six big Spanish mules attached thereto. The Princess and her party were then driven by Col. Cody round the arena several times. The Princesses were perched on the top of the coach. The attack on the coach was not made by the Indians, but by the more trustworthy and discreet Cowboys, thus affording the party an idea of the sensation of being attacked on the plains of the Wild West by road agents or highwaymen. The party appeared greatly to enjoy the novel experience. The gentlemen were furnished with mounts, and enjoyed the mimic buffalo hunt. The exhibition art gallery and trophy rooms were subsequesntly visited, Mr. Whitley, the secretary, and other officials being in attendance; and the Princess of Wales made two trips on the switch-back railway, and afterwards her Royal Highness went twice down the Toboggan Slide. The Royal party, after walking through the grounds, left at 2 p.m. with the general promise to revisit the Exhibition at an early date.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
