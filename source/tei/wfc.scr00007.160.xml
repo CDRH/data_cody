@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.160">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Mr. Griffith to Dr. Carver</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.160</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Mr. Griffith to Dr. Carver</title>
+<title level="j">American Field</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Firearms</term>
+<term>Gunpowder</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Carver, William F. (William Frank), 1840-1927</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>England; </term>
+<term>New York (N.Y.)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.160"/>
+
+<head>MR. GRIFFITH TO DR. CARVER.</head>
+
+<ab>NEW YORK.</ab>
+
+<p>EDITOR AMERICAN FIELD: - When I landed here, a few weeks ago, my attention was drawn to a letter in your issue of July 9, by Dr. Carver, in which a statement was made that the Schultze gunpowder was a "most dangerous compound." This coming from one, who, when in England used the Schultze gunpowder with such success, astonished me.</p>
+
+<p>However, had it appeared at home, where this powder has for so long established itself as a safe and reliable explosive, I should not have troubled you with any reply; but as I find there still exists in some quarters in America a lingering prejudice against the nitro-compound powders (among which Schultze gunpowder is classed as the oldest and best known), and as such a statement from so great an authority as Dr. Carver is liable to increase rather that allay this prejudice, I must ask you to allow me a little space in reply.</p>
+
+<p>Full details are always necessary to establish any fact when experimenting; these details are not given by Dr. Carver; it is consequently rather difficult to follow his experiments. But it appears the outcome is that Dr. Carver can make Schultze gunpowder "ball" the shot! Very probably he can; I never yet experimented with any powder of sporting strengths, black or nitro-compound, which could not be made to "ball" the shot by judiciously adopting the loading necessary to produce this effect. Length of case and quality of wad are prime factors in such manipulation and with a little adjusting "balling" can be generally readily produced.</p>
+
+<p>So far the only fact demonstrated by these experiments is that Dr. Carver has loaded cartridges in a method unfair to the Schultze gunpowder, and contrary to the printed directions which plainly state no ramming should be used and I appeal from Dr. Carver to the whole body of loading houses, large and small, who for two years have loaded Schultze gunpowder cartridges by the million, to uphold me in tating "balling" is never found by them.</p>
+
+<p>The statement that Schultze has a "liability to smash things to pieces at any time" I most absolutely deny, and again I must appeal from Dr. Carver to the thousands of English and Continental loaders of Schultze gunpowder, whether they will bear out Dr. Carver's statement or my contradiction.</p>
+
+<p>I can mention elaborate experiments carried out by the editor of the London Field to determine whether increase in temperature increases rending force in Schultze gunpowder, and to his report in which he states no increase in temperature makes Schultze more rending than black powder</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

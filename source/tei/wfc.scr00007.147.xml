@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.147">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Camp Sketches.—No. vii. Miss Annie Oakley</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.147</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Camp Sketches.---No. vii. Miss Annie Oakley</title>
+<title level="j"></title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-09-13">August 13, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Autographs</term>
+<term>Gun Clubs</term>
+<term>Shooting</term>
+<term>Exhibitions</term>
+<term>Shooting contests</term>
+<term>Sells Brothers circus</term>
+<term>Wild West Shows</term>
+<term>American Indians</term>
+<term>Medals</term>
+<term>Jubilee</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Bogardus, Adam H.</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Sitting Bull, 1831-1890</term>
+<term>McLaughlin, James, 1842-1923</term>
+<term>Edward VII, King of Great Britain, 1841-1910</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Ohio</term>
+<term>Cincinnati (Ohio)</term>
+<term>New Orleans (La.)</term>
+<term>Louisville (Ky.)</term>
+<term>Nashville (Tennessee)</term>
+<term>Danville (Ill.)</term>
+<term>Saint Paul (Minn.)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.147"/>
+
+<head>August 13, 1887.]</head>
+
+<head>CAMP SKETCHES.—NO. VII.</head>
+
+<head>MISS ANNIE OAKLEY.</head>
+
+<p>"Place aux Dames! I fear I have been grossly neglectful of you, Miss Oakley," I said, as I entered this popular young lady's tent a few evenings ago, where she was busily engaged arranging a heap of cut flowers, and sorting them into various combinations of light and shade.</p>
+
+<p>"Yes, I think you have, Mr. Touchstone. You have not brought me any flowers."</p>
+
+<p>"No, and I am not likely to if you call me names like that."</p>
+
+<p>"How do you mean? What names?"</p>
+
+<p>"Mr. Touchstone, indeed! I was not aware that I had cast aside the nimble quill and sported the cap and bells, even to afford you amusement, Miss Oakley."</p>
+
+<p>"Now don't be cross. But you are Mr. Touchstone, aren't you?"</p>
+
+<p>"No, Miss Annie Oakley, I am not Mr. Touchstone."</p>
+
+<p>"Well, you are something very much like him then. Now, what is your name?"</p>
+
+<p>"Thank you, Miss Oakley. I am Mr. Light Touchman."</p>
+
+<p>"Oh yes, to be sure. How could I have been so silly? Of course I know now. Well, I'm real sorry if I've hurt your feelings. Here, have a rose, and let's be friends."</p>
+
+<p>"Well, if you will promise never to forget me again as long as you live?"</p>
+
+<p>"Oh, I'll promise."</p>
+
+<p>"Swear!"</p>
+
+<p>"Sure."</p>
+
+<p>And with this compact solemnly entered into, the vivacious little lady pinned the rose into my coat, and made me sit down in the most comfortable chair in her abode.</p>
+
+<p>"Now, Miss Oakley, I have come here to see you on business to-night, and I want you to collect your thoughts, and give me at least an hour of your undivided attention."</p>
+
+<p>"Is that all? Why, Mr. Touchstone!—I'm so sorry, I mean Mr. Touchman!!—Mr. Light Touchman!!! I could talk to you for a whole week."</p>
+
+<p>"The pleasure would be mutual, but I fear you will be heartily tired of me at the expiration of the time I have specified."</p>
+
+<p>"Well, let's try."</p>
+
+<p>"By all means. Will you commence by giving me the history of your life right up to the present moment."</p>
+
+<p>"I guess that's rather a tall order to commence with; but anyway here goes:</p>
+
+<p>"The history of my life is thoroughly Bohemian, and does not contain any very startling episodes. I was born in Woodland, Ohio, on August 13th, 1866. Consequently I shall be twenty-one years of age on Saturday—that is the day upon which, I suppose, this sketch will appear, and I shall consider it your birthday present to me.</p>
+
+<p>"I first began to shoot under the watchful care of my brother, when I was but ten years of age. I was then living beneath the roof where I was born, with my mother, my father having died some six years before. I soon became an expert in shooting rabbits, squirrels, and other small game, and as I was allowed, directly I displayed my efficiency, to roam about the woods by myself, I had plenty of opportunity both of improvement and amusement. My brother naturally encouraged me in this, for the more proficient I became, the more I added to his stock of dead game, which was daily sent to be disposed of at the nearest market, and I need hardly say, amply repaid for the sending.</p>
+
+<p>"A favourite pastime of mine was trapping wolves. They used to worry the lambs, and on this account I waged war with them; but apart from the pleasure I experienced in killing them, I had that of knowing that I could get four dollars bounty from the Government for every tail I put in. As I grew more skilled in the use of my gun, I would face anything that came along. What with the bounties and the sale of game and skins, I earned my own living by my gun, until I took to fancy shooting.</p>
+
+<p>"I was sixteen years of age when I made my first appearance before the public. This was at Greenville, Ohio, and I have been before them ever since, with the exception of one entire winter devoted to schooling, and one brief interval of three weeks rest. My début was very successful, the exhibition consisting of rifle and pistol shooting, in which I only made one miss. I had not then commenced trap-shooting. Two months later I was engaged for three weeks to appear in Cincinnati, when I shot in the afternoons only, as I had not mastered the secret of shooting by artificial light. I was very successful in my exhibitions there, and after my term had expired, I went touring round until the winter set in. The cold of our winters is so intense as to render outdoor shooting impracticable. I either had to lay by or do something else; I preferred the latter, so a drama was specially written for me, with a part in which I could introduce the whole of my specialities. This play ran through the season, at the expiration of which I got tired of it. The fact was it was not sufficiently realistic for me. But I derived some good from it, and that in what I was most anxious to acquire, namely, the art of shooting by artificial light. I visited many places in the States during this engagement, and at the expiration of it joined the Sells Brothers circus. I remained with them forty weeks, during which time I never missed attending a single performance, afternoon or evening. Our season finally closed in New Orleans, and it was during the last week that Colonel Cody paid us a visit. I was introduced to him, but without any business result, which rather disappointed me at the time, but I was consoled when I learned that he then had all the shots he needed. It appeared that he had Captain Bogardus, who had an interest in the concern, and his three sons. The knowledge of this fact put my wounded vanity 'kind of straight." About a month afterwards I heard that Captain Bogardus had sold out his interest in the Wild West, so I wrote to Colonel Cody right away, and asked for an engagement. In his reply the colonel stated his willingness to engage me, but expressed an opinion that my terms were 'too steep,' but providing I could do the same shoting as the captain had done—that was from traps—he would be willing to give me the salary I asked. The combination was then down at Louisville, Kentucky, and I trotted off there to undergo an examination, and show what I could do. Well, it was arranged that I should give the managers a private performance the very afternoon I arrived. I had been travelling some distance, and thought I would like just to get my hand in a bit before the trial came off, so went into the empty showgrounds to have a run through the several feats I had to accomplish. The only spectator present was Mr. Salsbury, who happened to be wandering around, and he became so satisfied with what he witnessed that he ordered a woodcut of me to be executed immediately, and as a matter of fact my posters were printed before the agreement was signed. I afterwards heard that he told Colonel Cody that I was a real 'daisy,' and completely laid the captain 'away in the shade.' That's how I came to join the Wild West. There were no ladies in the show at that time, all the shooters being men; besides, there were not so many of us as at present, which necessitated my doing about double the number of feats that I do now.</p>
+
+<p>"My strong reason for being so keen upon joining this combination was because I wished to give up rifle and pistol shooting. At first Colonel Cody entertained a grave doubt as to whether I should be able to withstand the recoil from a shot-gun. I think I have pretty successfully demonstrated so far that I have been able to bear up against it.</p>
+
+<p>"I have received many challenges to shoot matches, both before and since I joined the Wild West. The first I was honoured with was in March, 1883, at Nashville, Tennessee, when Mr. Jack Oats, a gentleman who stood six feet four inches in height, threw down the gauntlet. I managed to beat him at all kinds of fancy shooting, which included snuffing candles, shooting an apple from off a man's head, hitting various objects, and breaking glass balls. We fought this out under the electric light.</p>
+
+<p>"At Danville, Illinois, on March 4th, in the following year, I won a prize for shooting at ten clay pigeons. There were twenty-one entries, all men. When they saw me coming along they laughed at the notion of my shooting against them. Somehow, when the match was over, I claimed the 'first money' for making a clean score. I guess they were more surprised and less amused than they had previously been. It kind o' riled me to see those hulking chaps so tickled at what was no doubt to them my impertinence in daring to shoot against them, and I reckon I was tickled too when I walked away with the prize.</p>
+
+<p>"After this I went to St. Paul, Minnesota, and it was there that I met the Indian chief, Sitting Bull. Major McGlaughlan, the agent, had come down from the reservation and brought the chief along with him for a trip. It was the first time he had ever seen a city, and naturally they took him round to see the sights. I was giving exhibitions of fancy shooting at the Opera House, as well as shooting at a tournament then being held there. Sitting Bull came to see me at the Opera House, and it appears my shooting had such an effect upon him, that he could not sleep; all he could talk about was the feats I performed. To me they were simple enough, but they almost drove him crazy. He would sit up all night trying to flick out the gas by blowing at it through his big, long calumet. He raved about me, and would not be comforted. His messengers kept coming down to my hotel to enquire if I would come and see him. I had other things to do, and could not spare the time. At length a messenger came down bringing sixty-five dollars, the proceeds of the sale of Sitting Bull's autographs, which he sent me as the price of one of my photographs, since I wouldn't come myself. This amused me, so I sent him back his money and a photograph with it, with my love, and a message to say I would call the following morning. I did so, and the old man was so pleased with me, he insisted upon adopting me, and I was then and there christened 'Watanya Cecila,' or 'Little Sure Shot.' I don't exactly know what privileges my rank as a chieftain's daughter confers upon me, but I believe that whenever I choose to take up my residence in my adopted country I am entitled to receive five ponies, a wigwam, no end of cattle, and other presents of live stock, considered sufficient to establish me in housekeeping with that amount of dignity which my position demands. At present I feel quite content with my mode of existence, and however ungrateful it may seem, it will be only as a last resource that I shall avail myself of my Indian rank. What do you think?</p>
+
+<p>"Sitting Bull was very kind, and gave me many presents, including the mocassins he wore in the Custer massacre, also part of a scalp taken from the head of a Crow chief—certainly not nice gifts, but they are relics, and as such are valuable. I have ever and ever over again been offered twenty pounds for the mocassins.</p>
+
+<p>"Here is a case of containing some of the medals I have won. There are twenty-three here in all. This magnificent gold one was presented to me by the members of the London Gun Club, when I gave an exhibition for them on June 11th. Do you know I think more of this than all the others put together, for it is the only medal this club, which is 'The Gun Club of the World,' have ever given away.</p>
+
+<p>"You may remember that upon the day preceding the Jubilee the Prince of Wales, accompanied by the royal-flush of Kings, paid us a visit. Upon that occasion His Royal Highness was condescending enough to examine this medal, and remarked, as he returned it to me, 'I know of no one so worthy of it'—a kindness I am never likely to forget. A blank had been left upon the obverse side of the medal for me to fill in any inscription I thought best, and these words of His Royal Highness impressed me so I have had them engraved on it, as you now see.</p>
+
+<p>"Here is the lady championship medal of America, and this is how I carried it off. I travelled some eight hundred miles to compete for this prize, which was the result of my first competition with a shot-gun. It was offered by a club in Eyrie, which was particularly keen about its being won by a stranger. When I arrived there were only four entries, but directly it got known in the town that I intended to compete they let in men, with the result that there were nineteen entries. I thought it very ungallant, but I didn't mind, as I determined then I would have it. Well, the four ladies who had entered were very soon out of it, and the men followed, barring a Mr. Tracey, who broke all twenty balls, as did I. There was one</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

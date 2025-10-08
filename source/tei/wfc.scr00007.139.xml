@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.139">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Amongst the skilled in arms of precision]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.139</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [Amongst the skilled in arms of precision]</title>
+<title level="j">Barrhead Independent</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-07-30">July 30, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Firearms</term>
+<term>Shooting</term>
+<term>Horses</term>
+<term>Shooting contests</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Carver, William F. (William Frank), 1840-1927</term>\
+<term>Sitting Bull, 1831-1890</term>
+<term>Bogardus, Adam H.</term>
+<term>Carver, William F. (William Frank), 1840-1927</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Ohio</term>
+<term>New York (N.Y.)</term>
+<term>Saint Paul (Minn.)</term>
+<term>Kansas</term>
+<term>Cincinnati (Ohio)</term>
+<term>Canada</term>
+<term>Virginia</term>
+<term>Illinois</term>
+<term>Michigan</term>
+<term>Newton (N.J.)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.139"/>
+
+<head>Barrhead Independent</head>
+
+<head>BARRHEAD, JULY 30, 1887.</head>
+
+<p>Amongst the skilled in arms of precision, a very popular performance was given by Miss Annie Oakley, who at "wing shooting" would make a formidable antagonist Colonel Carver, a wellknown mechanical shot.</p>
+
+<p>This celebrated girl-shot, we find, was born at Woodland, Darke County Ohio, August 13, 1866. Ever since a toddling child she has had an inherent love for fire-arms and hunting, and at the age of ten she, as often as ammunition was obtainable, would smuggle her brother's musket and steal into the woods, where game, at that time, was plentiful. Naturally she was a good shot, and came home well supplied with game. At the age of twelve she was presented with a 14-gauge muzzle-loading shot-gun. With this she improved rapidly, and became such a fine shot that she rarely missed quail or pheasant; and at the age of fourteen she had paid off a mortgage on her father's homestead with money earned from the sale of game and skins, shot and trapped by herself alone. Then came a local reputation, and with improved firearms she attracted wider notice. For the past five years she has been shooting before the public with great success; though, like the modest little girl she is, she never laid claim to being a champion, yet in 1883-84 Richard K. Fox, of New York, had so much confidence in her ability that he offered to back her against any other so called champion. Sitting Bull, the great Indian chief, after seeing her shoot in St. Paul, Minn., adopted her in the Sioux tribe, giving her the name of "Watanya Cicila," or Little Sure Shot.</p>
+
+<p>The first two years before the public she devoted to rifle and pistol-shooting, and there is very little in that line she has not accomplished. At Tiffin, Ohio, she once shot a ten-cent piece held between the thumb and forefinger of an attendant, at a distance of 30 feet. In April, 1884, she attempted to beat the best record made at balls thrown in the air, using a 22-cal. rifle. The best record was 979, made by Dr. Ruth. Miss Oakley used a Stevens 22-cal. rifle, and broke 943. Her first attempt at clay pigeon and trap shooting was made about three years ago, in Cincinnati, shooting with such fine shots as Bandle, M'Murchy, and other noted shots. In February, 1885, she attempted the feat of shooting at 5000 balls in one day, loading the guns herself. In this feat she used three 16-gauge hammer guns. The balls were thrown straight away from three traps, fifteen yards rise. Out of the 5000 shot at, she broke 4772. Of the second thousand she only missed 16, making the best 1000 ball record - 984. This feat was accomplished near Cincinnati, Ohio, in less than nine hours.</p>
+
+<p>Besides the thousands of exhibitions she has given, she has shot in thirty-one matches and tournaments, winning twenty-five prizes. Her collection of medals and fire-arms, all of which have been won or presented to her, is considered the finest in America.</p>
+
+<p>She has hunted in many of the game sections of America and Canada, and says, with a pardonable pride, that she has shot quail in Virginia, ducks in Illinois, prairie chickens in Kansas, and deer in northern Michigan. Her style and position at the trap is considered perfection by such critics as Budd, Stice, Erb, Bogardus, Cody, Carver, and the English champions, Graham and Price. Shooting clay pigeons her best record is 23 out of 25, made in a match for $100.</p>
+
+<p>That she understands how to manage a horse, the will show: - In the fall of '84, a gentleman near Greenville, Ohio, who owned a valuable but vicious and unbroken horse, told her he would give her the animal if she could ride him in less than three days; and without any assitance she broke him in the saddle, and has since used him when not engaged, sometimes riding as high as fifty miles in one day. At the fair at Newton, N. J., she proved herself to be at home in the saddle by winning four out of five half-mile races, although the horse she rode was selling for third place. What makes Miss Oakley's feats more surprising is the fact that she is small in stature and weighs only 110 pounds.</p>
+
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.133">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Both Eyes or One?</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.133</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Both Eyes or One?</title>
+<title level="j"></title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Firearms</term>
+<term>Shooting</term>
+<term>Exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.133"/>
+
+<p>BOTH EYES OR ONE? - The question of shooting with both eyes open or with only one eye has been occupying the columns of our English cotemporaries for a long time, and remains unsettled, although the majority of those who have written on the subject believe in shooting with both eyes open. In a recent issue of the Field, London, Mr. Charles Lancaster, the English gunmaker, writes: As no doubt most of your readers are aware, nearly all Americans shoot with guns with a great deal of bend - i. e., about 3 in. - which allows the gun to come well under the right eye, instead of using straighter stocks, with a proper amount of cast off to suit the person for whom the gun is intended, so as to allow the perfect alignment for the right eye. The original gun I built for Miss Oakley, as ordered for her from America, was 2 7/8 in., and little or no cast off; but after trying this gun at my private shooting ground, it was found she was shooting a great deal under her birds, and at my suggestion, to remedy this, it was restocked very much straighter - viz., 1 3/4 in., and cast off 3-16 in. This gun weighed nearly 7 1/2 lbs., and although lighter than her other guns, was found to be handicapping her for the shooting she had to do, and I therefore built her another gun weighing only 6 lb. 14 oz., with 28 in. barrels, and which was stocked 2 in., and cast off 3-16 in. With this gun Miss Oakley has succeeded in doing some very fine shooting - viz., killing twenty-two starlings out of twenty-five shot at 23 yards rise; and I feel convinced, from the way in which she has shot the very best blue rock pigeons up to 30 yards' rise, that before the lady leaves England she will make a splendid score at our leading clubs. I am now building a pair of 20-bore breech loading hammerless guns for Miss Oakley, specially designed for exhibition shooting.</p>
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
