@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.159">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">[Untitled] Miss Annie Oakley’s Shooting in London</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.159</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">[Untitled] Miss Annie Oakley’s Shooting in London</title>
+<title level="j">American Field</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Firearms</term>
+<term>Shotguns</term>
+<term>Exhibitions</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.159"/>
+
+<p>MISS ANNIE OAKLEY'S SHOOTING IN LONDON.—London, England.—Editor American Field:—On August 10 I had the pleasure of an invitation from Mr. Chas. Lancaster, the well-known London gunmaker, to witness a private exhibition by Miss Annie Oakley of a pair of twenty-bore hammerless shotguns that he had just finished for her. Miss Oakley commenced the exhibition by shooting at composition balls, thrown in the air, two at a time. She then threw the balls herself, shooting with one hand, and did some wonderful shooting. Starlings were then introduced from five traps, five yards apart, twenty-one yard rise. Of these Miss Oakley succeeded in killing 9 out of 12, and then killed 12 straight. Blue rocks were then introduced, and a finer lot I never saw. They did not stay on the trap, but made their way off the moment the trap was pulled. These birds are wonderfully hard flyers and will carry away a great deal of lead. Miss Oakley used on the first dozen birds a twelve-gauge Lancaster hammerless, as she thought her twenty-bores were not up to shooting blue rocks from the trap at twenty-five yards rise. She killed 9 out of 12, and then, to oblige Mr. Lancaster, who had great confidence in the little twenty-bores, she consented to shoot at half a dozen with the result that she grassed them all in fine shape without the use of the second barrel at all. The gentlemen present were highly delighted with the work of the little twenty-bores in the hands of Miss Oakley. She then gave an exhibition of quick shooting, using a Spencer repeating shotgun. She had five balls thrown in the air and smashed them in from three to four second. This she did repeatedly. A Mr. Wentworth, who was present, then asked Miss Oakley to shoot at half a dozen more blue rocks, using her twenty-gauge, which she did. Of these she grassed five out of six, the other being hard hit. Miss Oakley then did some rifle shooting and several of those present also joined in. Some fance rifle shooting was then done, at balls, by sighting through a looking glass, holding the rifle on the head, and holding the rifle on the arm and pulling the trigger with the thumb. Everybody present was delighted with the performance, and Mr. Lancaster was pleased with the record made with the twenty-bores. The scores were as follows:</p>
+
+<p>At 15 starlings, 21 yards rise, 5 traps, 5 yards apart.<lb/>
+Miss Oakley 110111011111101—12</p>
+
+<p>At 12 starlings, same conditions:<lb/>
+Miss Oakley 111111111111—12</p>
+
+<p>At 12 blue rocks, 25 yards rise, 5 traps, 5 yards apart, using a 12-gauge gun:<lb/>
+Miss Oakley 110110111101—9</p>
+
+<p>At 6 blue rocks, 25 yards, same traps, using a 20-gauge gun:<lb/>
+Miss Oakley 111111—6</p>
+
+<p>At 6 blue rocks, same conditions:<lb/>
+Miss Oakley 111011—5</p>
+
+<p>The twenty-gauge guns weighed five pounds, ten ounces each, and the charge was 2 1/2 drams EC. powder and 3/4 ounce shot, No. 8 for right barrel and No. 6 for left. One of the birds was killed with the second barrel at 53 yards. The stocks are very straight and have quite a little [t-off?] to them. They are the nicest shaped gund I ever handled. Miss Oakley returned to the city well pleased with her two new shotguns and she expects to do fine work with them in her exhibitions. I should advise the American cracks to look out for their laurels, as Miss Oakley is doing some wonderfully fine wing shooting.</p>
+
+<byline>WING SHOT.</byline>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

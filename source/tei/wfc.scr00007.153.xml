@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.153">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Miss Oakley at the Wild West</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.153</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Miss Oakley at the Wild West</title>
+<title level="j">The Shooting Times</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-10-14">October 14, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Firearms</term>
+<term>Shotguns</term>
+<term>Rifles</term>
+<term>Wild West Shows</term>
+<term>Letters</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Butler, Frank E., 1852?-1926</term>
+<term>Patti, Adelina, 1843-1919</term>
+<term>Anderson, Mary, 1859-1940</term>
+<term>Salsbury, Nathan, 1846-1902</term>
+<term>Taylor, William Levi, 1857-1924</term>
+<term>Smith, Lillian Frances, 1871-1930</term>
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Wimbledon (London, England)</term>
+<term>California</term>
+<term>San Francisco (Calif.)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.153"/>
+
+<head>The Shooting Times,<lb/>
+AND KENNEL NEWS.</head>
+<note>OFFICES: EAST TEMPLE CHAMBERS, E.C.</note>
+
+<note>LONDON, FRIDAY, OCTOBER 14, 1887.</note>
+
+<head>MISS ANNIE OAKLEY AT THE WILD WEST.</head>
+
+<p>Some little while back we received a letter for insertion, but declined to insert it for two reasons; one was that the letter was not identified by its writer's true name and address, and the other that it contained such palpably spiteful attacks on Miss Oakley that, as we stated at the time, we declined to find room for it in our columns.</p>
+
+<p>A somewhat similar communication, however, was sent to the San Francisco Breeder and Sportsman, and friend Briggs, who doubtless saw through it all, published it. The result has been the following letter sent by Mr. Butler, Miss Annie Oakley's husband, and as we hold that Miss Oakley and her husband should be, in fairness, protected against wilful misrepresentations and attacks, we publish his letter: -</p>
+
+<p>"You publish a letter headed 'Wild West,' and signed 'A Californian,' in which he says Miss Oakley was not presented to the Queen. Had it not been that your paper is circulated largely among people who do not know Miss Oakley, I should never have answered it. Miss Oakley, I should never have answered it. Miss Oakley, as well as Madame Patti, Mary Anderson, or any other lady who distances all competitors and gets to the front, has her enemies, and such letters as that have about the same effect on her as rain would have on the back of a mallard duck. That letter was written in the camp of 'Wild West.' There was no need of the writer signing his name. All here knew who wrote it. His bad English was as good as his signature.</p>
+
+<p>"Now, the facts are that Mr. Cody, Mr. Salsbury, Buck Taylor, Lillian Smith, and Annie Oakley were presented to the Queen. She spoke very few words and handled no guns. As regards Miss Oakley shooting a shotgun, nearly every shooter east of the Rocky Mountains knows that for the first three years before the public Miss Oakley did nothing but rifle and pistol shooting, and gave it up because she could not get a living salary doing it. This was owing to the fact that gallery or fancy rifle shooting was very easily learned, and at the same time there were about 20 girls and women giving exhibitions in that line. And I find by actual count there were no less than 16 here, some of them at present playing in music halls while Miss Oakley is the only lady trap shot seen here yet. It may be well to say that she has not entirely forgotten all her rifle shooting, as was proved by her recent visit to Wimbledon, an account of which I sent you.</p>
+
+<p>"To the readers of your paper I will say I amy bring Miss Oakley out to California before many years, when I venture to say she will make as much of a sensation there as she has here."</p>
+
+<p>To this, friend Briggs adds an editorial to the effect that "when Frank Butler and Miss Oakley go to California, they will meet with an appreciative reception."</p>
+
+<p>Quite right, brother Briggs, and "so say all of us."</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

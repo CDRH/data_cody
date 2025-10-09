@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.141">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">English Shooting Notes</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.141</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author>Butler, Frank E.</author>
+<title level="a" type="main" xml:lang="en">English Shooting Notes</title>
+<title level="j">The American Field</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Gun Clubs</term>
+<term>Medals</term>
+<term>Pistols</term>
+<term>Gunpowder</term>
+<term>Rifles</term>
+<term>Shotguns</term>
+<term>Audiences</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+<term>Butler, Frank E., 1852?-1926</term>
+<term>Edward VII King of Great Britain, 1841-1910</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Wimbledon (London, England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.141"/>
+
+<head>THE AMERICAN FIELD.</head>
+
+<head>ENGLISH SHOOTING NOTES.</head>
+
+<ab>LONDON, ENG.</ab>
+
+<p>EDITOR AMERICAN FIELD:--Since the arrival of Miss Oakley and myself in London, I have received so many letters from old friends in America, that I find it almost impossible to answer them all, and, as they are mostly all from shooters and relating to shooting, I know of no quicker way of reaching all than through the columns of the AMERICAN FIELD. Therefore, if you will be kind enough to find space, I will endeavor to write a general letter.</p>
+
+<p>In regard to shooting and shooters here, I must say I have changed my opinion very much. In America, as a general thing, we misjudge the English shots very much. Indeed, I must say, that from the Prince of Wales down, Miss Oakley and myself have been treated with the greatest kindness, and so will any American who deserves it. The London Gun Club conferred a great honor on Miss Oakley by giving her a handsome gold medal, that being the only medal they have ever given away. The Hurlingham Club also treated us with every kindness. As for pigeon shooting, with all due respect to the American marksmen, I never saw any until I came here. There are no pigeons in America to compare with the English blue rocks. They are very swift and strong, and make many darts and twists during flight. They can also carry plent of shot out of bounds, which is generally about fifty or sixty yards. No shooter could use a gun over 7 1/2 pounds in weight, and many of them have much lighter guns. The traps are always set so the bird will have the wind, which is very apt to be a stiff breeze. The trap works to perfection; I have seen about 1,000 birds shot at, and only two sat on the trap, and in each case the shooter refused to shoot the bird. I used to laugh when I heard Englishmen say no one could kill 80 out of 100; but now I say any one that can do it can make plenty of money by coming here and doing it. Of course I mean shooting at the best blue rocks in season. I have only seen or heard of it being done once since I have been here.</p>
+
+<p>Mr. Journe, a French gentleman, killed 86 in a match. He also won a great many prizes during the big shoot here, but then he is one of the finest--if not the finest--live pigeon shots I have ever met. He is by far the best pistol shot I have ever seen. As for betting, there is no limit to it. About a week ago a gentleman lost $7,000, in one after-noon and no one appeared to notice it much.</p>
+
+<p>The Gun Club's grounds are said to be the finest in the world, and I do not think there can be any finer. There is a very handsome club house, and a stone wall surrounds it. The admission fee to see the shooting at any time is $5, it being high to keep a certain class out.</p>
+
+<p>The Hurlingham Club has very large grounds. This is said to be the richest club in the world. It has a member-ship of 1,500, and several hundred applications besides. The shooting grounds are not so fine as those of the Gun Club. The Hurlingham grounds include places for polo, lawn tennis and other games, all being inside a beautiful park situated on the banks of the Thames.</p>
+
+<p>The guns used here are entirely different from our American guns. All look very plain in the stock, but they balance very nicely and all shoot a very even pattern, but not so close as the average American trap gun. The English makers we hear most about in America are very little known here, with the exception of Chas. Lancaster. He has a great many guns in use here. He has just finished a twelve-bore for Miss Oakley, 6 3/4 pounds in weight, and it is a splendid shooting gun and a little beauty. He is the inventor of a four-barrel gun, also made to shoot shot or ball as desired. It is a wonderful piece of mechanism. He has also what he calls a Colindian gun, made for both shot and ball out of the same barrel. I tried it and made a bulleye at 100 yards with ball; then out of the same barrel I killed a pigeon at thirty yards rise with small shot. I do not mean to say he is the best and only gun maker here, for they are nearly all good. Of course I am only speaking of the guns I have tried. It takes about three months to have a gun made here, and the gun makers all seem to have plenty of work.</p>
+
+<p>Nearly all the gun makers here have private shooting grounds located in the city. That of Mr. Lancaster--the only one I have seen as yet--contains about twenty acres and includes a 200-yard rifle range as well as pigeon grounds. All shooters here use the smokeless powder in the first barrel, especially the Schultze and E. C. What black powder is used is mostly Curtiss &amp; Harvey.</p>
+
+<p>Many of the readers of the AMERICAN FIELD will remem-ber reading a letter from Mr. Dougall, of London, in which he said, "ten English shots, using twelve-bore guns, could beat ten Americans, of equal skill, using ten-bore guns." Of course the Americans--I, as well as the rest--laughed at the idea of such a thing being possible but since I came here I am inclined to think he was nearer right than we gave him credit for being. I doubt very much if there are ten men in America who could come here and do it at the best blue rocks, because the twelve-gauge guns, being light and well balanced, handle very quickly, and it will not do to let a blue rock go very far. Yet, on the other hand, I do not think ten English shots could go to America and beat ten American shooters, because the birds are much slower there.</p>
+
+<p>Every country has its shooting wonder, and England is no exception. I had the pleasure of seeing Master Chas. Brown shoot, on several occasions. If he ever goes to America, which I believe he intends doing, all will think he is a wonder. He is a bright gentlemanly little fellow, not yet thirteen years of age and small for his age ; but, make no mistake, he can handle a gun. I have seen him shoot at live pigeons and glass balls in the air, both with rifle and shotgun. I have also seen him shoot at the running deer at 100 yards. In each kind of shooting he did fine work ; shot coolly and used very good judgement.</p> 
+
+<p>Rifle shooting is all the rage here now, this being the time of the big meeting at Wimbledon. I visited the camp on two occasions and the last day--July 18--there were two thousand people present. It was the deciding day for the Queen’s Prize, which is $1,200. It was won this year with a higher score than ever made here before. Miss Oakley had the pleasure of meeting the Prince of Wales at the running deer target, on that day, when they each had a shot. He is a splendid fellow.</p> 
+<byline>Frank E. Butler,<lb/>
+Manager for Annie Oakley</byline>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

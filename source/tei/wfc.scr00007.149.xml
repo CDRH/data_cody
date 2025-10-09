@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.149">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Untitled [Gentleman in the club]</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.149</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Untitled [Gentleman in the club]</title>
+<title level="j"></title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Shooting Contests</term>
+<term>Gun Clubs</term>
+<term>Medals</term>
+<term>Horses</term>
+<term>Horsemanship</term>
+<term>Rifles</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>Madison Square Garden (New York, N.Y.)</term>
+<term>New York (N.Y.)</term>
+<term>Hyde Park (London, England)</term>
+<term>Philadelphia (Pa.)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.149"/>
+
+<gap reason="missing"/>
+
+<p>gentleman in the club, however, and that was this one, for he refused to shoot off the tie, remarking that the competition was for lady marksmen, and that the medal was mine by right.</p>
+
+<p>"Now, look at the companion to the lady-championship one. This represents my revenge; it was shot for three days later, and the competition was for men only. Now as they had overstepped the boundary in the ladies' event, I claimed a similar right in this one. What was sauce for the goose, you know! Well, after a good deal of haggling, they eventually gave me permission to enter. I was the only lady in this competition, but the only lady managed to break twenty-three balls out of twenty-five, and bear off the prize, this time without a tie.</p>
+
+<p>"I have another medal here, which was given me upon the last day I was at the Madison-square Gardens, New York. The inscription upon it is, 'Presented by her New York lady friends, in commemoration of her fine and daring riding.' Strange to say, I do not know a single lady who subscribed to this testimonial, which was presented to me for picking up my hat from the ground out of a side-saddle when riding at full speed.</p>
+
+<p>"I have always been fond of riding since a child, and have frequently ridden in races. All last winter I rode with the company on parade. I feel quite at home on a horse, and can perform various feats, such as untying a handkerchief from the hind leg of an animal in full gallop, and other breakneck absurdities. My friends will not let me do it now; they say that fancy shooting is dangerous enough without my going out of my way to put an end to myself. So now I content myself by riding like other civilised beings. I have been in Hyde Park three times, and enjoyed it immensely. My habit is built on my own lines, and is both comfortable and becoming. I did not think anyone would recognise me in the park, but they did, and some newspaper man commented upon my costume, the result being that I could start in business as a lady's tailor to-morrow, judging from the applications I have received for patterns.</p>
+
+<p>"About my records? Oh, I had quite forgotten to mention them. In my first big shoot at five thousand glass balls, completed in under nine hours, Captain Bogardus is ahead of me, but then I am a woman, and, please remember, I used no less than forty pounds of powder. The strain was pretty great, but withal I broke four thousand seven hundred and seventy-two. If taken in thousands I can claim the record, for in this very affair I beat it by three balls, breaking as many as nine hundred and eighty-four out of my second thousand.</p>
+
+<p>"My record with the rifle—viz., nine hundred and forty-three out of one thousand, is with one exception the best. When in Philadelphia I killed forty-three pigeons out of fifty at twenty-five yards rise, out of five traps, with one ounce of shot. This is the best on record, yet, strange to say, I did not win the match, my opponent grassing one bird more, but he shot with one ounce and a quarter of shot. I prefer your English guns to any I have yet shot with; they are more evenly balanced. Certainly they are more expensive, but they last a lifetime. Since June, 1882, I have have had over seventeen hundred dollars worth of firearms presented to me. I refuse a large number, but still for all that there is quite an arsenal at home.</p>
+
+<p>"At the present time there are no less than fourteen lady fancy rifle shots in America, all of whom aspire to the championship. I do not lay any claim to it, and never intend to. I have already issued one challenge to the world, and deposited one thousand dollars for the cover, which never came. I do not intend remaining in the profession until I become an old woman, and when I do determine to quit it I shall issue the challenge again to all comers, and will further add the championship medal I won in 1882. If my opponent should wrest it from me, I shall retire feeling that I was fortunate in not meeting my superior before, whilst if victorious—well, I shall feel prouder of myself than ever.</p>
+
+<p>"I like England immensely, and could talk a lot about it, but do not want to sicken you with any outburst of fulsome adulation. I know this much: that if I had my mother living with me here I should be in no hurry to get back to the States. This country is quite good enough for me to live in."</p>
+
+<p>"Well, it is very refreshing to hear you say that, Miss Oakley."</p>
+
+<p>"I mean it; I guess I've pretty well tired you out with all this tall talk about myself. I hate talking about myself, anyway, and I don't believe anyone but you would have made me do it, Mr. Touchstone."</p>
+
+<p>"Miss Oakley, I have been grossly deceived in you. You swore——"</p>
+
+<p>"Mr. Touchlight—Man-touch-stone—what is it? Touchman—Light Touchman. Ah, that's it! I guess I'll just write that down. That name will be a night-mare—I mean a dream."</p>
+
+<p>"Thank you, Miss Oakley; and if in your dreams you imagine your tongue to be tied in a knot which no one can unravel, remember that it has been cause by</p>
+
+<byline>The Light Touchman."</byline>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
