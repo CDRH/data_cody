@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.098">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The Gun Club - Performance by Miss Annie Oakley</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.098</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The Gun Club - Performance by Miss Annie Oakley</title>
+<title level="j">The American Field</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-06-18">June 18, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Wild West Shows</term>
+<term>Gun Clubs</term>
+<term>Rifles</term>
+<term>Exhibitions</term>
+<term>Medals</term>
+<term>Gunpowder</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.098"/>
+
+<head>THE FIELD.</head>
+<note>SATURDAY, JUNE 18, 1887.</note>
+
+<head>THE GUN CLUB.</head>
+
+<head>Performance by Miss Annie Oakley.</head>
+
+<p>Saturday, June 11.—The invitations sent out to witness a private performance by Miss Annie Oakley (of the Wild West Show) brought a large and distinguished company of ladies and gentlemen to the Gun Club, and at half-past one o'clock a neatly printed card was handed round to the visitors, and the following programme was expeditiously got through: Short exhibition of small rifle shooting. Clay pigeon shooting--two shots straight, Miss Oakley pulling trap herself; standing back to trap, turning and firing; the snap shot; a double rise; picking gun from ground after trap was sprung, and same with double rise. Holding gun with one hand and throwing away ball with other; throwing up two balls and breaking both; throwing ball backwards, picking up gun, and breaking it; six balls thrown up by assistant, and all broken in four seconds; breaking five balls in five seconds, first with rifle, others with shot guns, changing guns three times. The several difficult feats were skillfully performed. The entertainment concluded by Miss Annie Oakley shooting at twenty-five blue rocks, 23 yards rise. "Little Sure Shot" proved herself no mean adept at shooting flying, for no less than eighteen pigeons were brought down in fine style, several of the birds falling at a long distance to the second barrel. It is needless to say that the different feats were loudly applauded. Lord Stormont, the president of the club, now came forward, and, in an excellent speech, thanked Miss Annie Oakley, on behalf of the ladies and gentlemen present for the entertainment she had afforded them. The proceedings terminated by his lordship handing to Miss Oakley a souvenir of her visit in the shape of a handsome gold medal. Beautifully engraved on the face was the pavilion and shooting inclosure, and on the clasps were the words "Presented to Miss Annie Oakley by the members of the London Gun Club, June 11, 1887." The little American, in reply, declared she should always look back with pleasure to her visit to England, where she had met with the greatest kindness, and with pride she should wear the Gun Club medal at all entertainments of any importance. The gun used by Miss Oakley for the pigeon shooting was built expressly for her by C. Lancaster, and weighed 6lb. 14oz. The charge was 1 1/8 oz. shot, both E. C. and black powder being used. For the artistic part of the entertainment Schultze powder was used. An excellent substitute for glass ball shooting is the sphere used at the Wild West Show. It is cast in pitch, breaks easily, and will not cut anything that it comes in contact with, like glass.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

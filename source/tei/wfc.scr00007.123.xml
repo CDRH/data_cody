@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.123">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">The Wimbledon Meeting. This Day’s Proceedings. Special Report</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.123</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">The Wimbledon Meeting. This Day’s Proceedings. Special Report</title>
+<title level="j">The Evening News and Telephone</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-07-01">July 1, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+<term>Buffalo Bill's Wild West in Britain</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Shooting Contests</term>
+<term>Medals</term>
+<term>Cowboys</term>
+<term>Wild West Shows</term>
+<term>Rifles</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Victoria, Queen of Great Britain, 1819-1901</term>
+<term>Smith, Lillian Frances, 1871-1930</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.123"/>
+
+<head>THE EVENING NEWS
+AND TELEPHONE.</head>
+
+<note>TUESDAY, JULY 1ST, 1887.</note>
+
+<head>THE WIMBLEDON MEETING.</head>
+<head>THIS DAY'S PROCEEDINGS.</head>
+<head>SPECIAL REPORT.</head>
+
+<ab>WIMBLEDON CAMP, Tuesday Morning.</ab>
+<p>Of course, the great event of to-day is the shooting of the Queen's Hundred, formerly the sixty, if the anachronism of figures can be pardoned, who are detailed for the butts at 800 and 900 yards, at 2.30 this afternoon. The premier prize of the Queen's, as most men in the Empire know, is a cheque for ?250 and a gold medal. The weather is everything that can be desired, alike for shooters and spectators, and the latter are likely to come in their thousands this afternon. Lilian Smith, the champion lady shot of America, dressed in white and oriental sash, now engaged with the exhibition of Buffalo Bill. She was accompanied by a number of cowboys and other celebrities, in full war paint, from the "Wild West." She was taken round the various points of interest by Mr. Gallant, brother of the Queen's Prize winner of 1884. Miss Smith fixed her attention on the Running Deer competition. A rifle was handed her, with which she fired a few shots. The first and second were signalled as missed - with the next two shots she hit the haunch of the iron animal. At this there was some amusement, for this feat involves a money penalty down at Wimbledon. Miss Smith explained that the rifle was heavier that those she was accustomed to use. She has announced her intention of again visiting the camp on Thursday, when she will bring a gun of her own choice.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>

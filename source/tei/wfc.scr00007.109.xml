@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007.109">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Miss Annie Oakley at the Gun Club. A Handsome Memento</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007.109</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<author></author>
+<title level="a" type="main" xml:lang="en">Miss Annie Oakley at the Gun Club. A Handsome Memento</title>
+<title level="j">The Evening News</title>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887-06-13">June 13, 1887</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term>Shooting</term>
+<term>Wild West Shows</term>
+<term>Gun clubs</term>
+<term>Rifles</term>
+<term>Shotguns</term>
+<term>Medals</term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term>London (England)</term>
+<term>Notting Hill (London, England)</term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<pb facs="wfc.scr00007.109"/>
+
+<head>THE EVENING NEWS,</head>
+
+<note>MONDAY, JUNE 13, 1887</note>
+
+<head>MISS ANNIE OAKLEY AT THE GUN CLUB.</head>
+
+<head>A HANDSOME MEMENTO.</head>
+
+<p>On Saturday morning last, Miss Annie Oakley, the crack shot of the Wild West Show, gave a private performance at Notting Hill, before the members of the Gun Club and a select circle of their friends. The programme, including several marvellous feats with the rifle and shot-gun, was gone through in fine style, and gave the greatest satisfaction to the many excellent shots who has assembled to witness it. The items which attracted most attention were the breaking of six balls thrown in the air within four seconds, and the breaking of three balls thrown in the air at the same time with a repeating gun. At the end of the regular programme Captain Leighton threw a shilling in the air which Miss Oakley hit with a bullet.</p>
+
+<p>Then came the pleasantest part of the day's proceedings, and one that cannot fail to render Miss Oakley's memories of her visit to England very gratifying. The President of the Club presented her with an exremely handsome and valuable gold medal, larger than a five-shilling piece. On the obverse was engraved a highly artistic view of the Gun Club's grounds at Notting Hill. The members are seen in the tent, an attendant is springing one of the five pigeon-traps in the foreground, a well-known shot is standing behind with gun levelled, and a number of pigeons are visible in the air. On the clasps of the medal Miss Oakley's name and the date are inscribed, the whole forming a beautiful memento of a good day's sport.</p>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
