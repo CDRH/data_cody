@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="wfc.scr00007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title type="main" xml:lang="en">Annie Oakley: marbled paper scrapbook</title>
+<author></author>
+<principal>Johnston, Jeremy</principal>
+<principal>Christianson, Frank</principal>
+<principal>Seefeldt, Douglas, 1964-</principal>
+<respStmt>
+<resp>Encoding by</resp>
+<name>Lily Jensen</name>
+<name>Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>
+<date>2025</date>
+</edition>
+</editionStmt>
+<publicationStmt>
+<authority>William F. Cody Archive</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+</distributor>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+</address>
+<idno type="module"></idno>
+<idno type="project">wfc.scr00007</idno>
+<availability>
+<p></p>
+</availability>
+</publicationStmt>
+
+<notesStmt><note><!-- notes  --></note></notesStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m">Annie Oakley: marbled paper scrapbook</title>
+<date when="1887">1887-1892</date>
+<extent></extent>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>McCracken Research Library, Buffalo Bill Center of the West</repository>
+<idno>MS6.3681</idno>
+</msIdentifier>
+</msDesc>
+
+</sourceDesc>
+</fileDesc>
+
+
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Texts</term>
+</keywords>
+<keywords scheme="original" n="subcategory">
+<term>Newspapers</term>
+</keywords>
+<keywords scheme="original" n="topic">
+<term>Annie Oakley</term>
+</keywords>
+<keywords scheme="lcsh" n="keywords">
+<term></term>
+</keywords>
+<keywords scheme="lcsh" n="people">
+<term>Oakley, Annie, 1860-1926</term>
+</keywords>
+<keywords scheme="lcsh" n="places">
+<term></term>
+</keywords>
+</textClass>
+
+
+</profileDesc>
+
+<revisionDesc>
+  <change when="2025"><name xml:id="lkw">Weakly, Laura K.</name> Initial encoding</change>
+  <change when="2025"><name xml:id="lj">Jensen, Lily </name> Initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="article" xml:lang="en">
+
+<note>This scrapbook has not been transcribed in its entirety, however selected articles are included in the "Annie Oakley" Topic of this website.</note>
+
+<pb facs="wfc.scr0007.001"/>
+<pb facs="wfc.scr0007.002"/>
+<pb facs="wfc.scr0007.003"/>
+
+<pb facs="wfc.scr0007.006"/>
+
+<pb facs="wfc.scr0007.012"/>
+
+<pb facs="wfc.scr0007.026"/>
+
+<pb facs="wfc.scr0007.033"/>
+
+<pb facs="wfc.scr0007.038"/>
+
+<pb facs="wfc.scr0007.043"/>
+
+<pb facs="wfc.scr0007.048"/>
+
+<pb facs="wfc.scr0007.055"/>
+
+<pb facs="wfc.scr0007.062"/>
+
+<pb facs="wfc.scr0007.065"/>
+
+<pb facs="wfc.scr0007.070"/>
+
+<pb facs="wfc.scr0007.077"/>
+
+<pb facs="wfc.scr0007.086"/>
+
+<pb facs="wfc.scr0007.091"/>
+
+<pb facs="wfc.scr0007.097"/>
+
+<pb facs="wfc.scr0007.106"/>
+
+<pb facs="wfc.scr0007.114"/>
+
+<pb facs="wfc.scr0007.120"/>
+
+<pb facs="wfc.scr0007.129"/>
+
+<pb facs="wfc.scr0007.138"/>
+
+<pb facs="wfc.scr0007.146"/>
+
+<pb facs="wfc.scr0007.148"/>
+
+<pb facs="wfc.scr0007.156"/>
+
+<pb facs="wfc.scr0007.168"/>
+
+<pb facs="wfc.scr0007.174"/>
+
+<pb facs="wfc.scr0007.182"/>
+
+<pb facs="wfc.scr0007.187"/>
+
+<pb facs="wfc.scr0007.194"/>
+
+<pb facs="wfc.scr0007.203"/>
+<pb facs="wfc.scr0007.204"/>
+<pb facs="wfc.scr0007.205"/>
+<pb facs="wfc.scr0007.206"/>
+<pb facs="wfc.scr0007.207"/>
+<pb facs="wfc.scr0007.208"/>
+
+<pb facs="wfc.scr0007.215"/>
+
+<pb facs="wfc.scr0007.225"/>
+
+<pb facs="wfc.scr0007.231"/>
+
+<pb facs="wfc.scr0007.240"/>
+
+<pb facs="wfc.scr0007.249"/>
+
+<pb facs="wfc.scr0007.257"/>
+
+<pb facs="wfc.scr0007.259"/>
+
+<pb facs="wfc.scr0007.268"/>
+
+<pb facs="wfc.scr0007.272"/>
+
+<pb facs="wfc.scr0007.279"/>
+
+<pb facs="wfc.scr0007.289"/>
+
+<pb facs="wfc.scr0007.297"/>
+
+<pb facs="wfc.scr0007.302"/>
+
+<pb facs="wfc.scr0007.312"/>
+
+<pb facs="wfc.scr0007.320"/>
+
+<pb facs="wfc.scr0007.330"/>
+
+<pb facs="wfc.scr0007.337"/>
+
+<pb facs="wfc.scr0007.343"/>
+<pb facs="wfc.scr0007.344"/>
+<pb facs="wfc.scr0007.345"/>
+<pb facs="wfc.scr0007.346"/>
+<pb facs="wfc.scr0007.347"/>
+<pb facs="wfc.scr0007.348"/>
+<pb facs="wfc.scr0007.349"/>
+<pb facs="wfc.scr0007.350"/>
+<pb facs="wfc.scr0007.351"/>
+<pb facs="wfc.scr0007.352"/>
+<pb facs="wfc.scr0007.353"/>
+<pb facs="wfc.scr0007.354"/>
+<pb facs="wfc.scr0007.355"/>
+<pb facs="wfc.scr0007.356"/>
+<pb facs="wfc.scr0007.357"/>
+<pb facs="wfc.scr0007.358"/>
+<pb facs="wfc.scr0007.359"/>
+<pb facs="wfc.scr0007.360"/>
+<pb facs="wfc.scr0007.361"/>
+<pb facs="wfc.scr0007.362"/>
+<pb facs="wfc.scr0007.363"/>
+<pb facs="wfc.scr0007.364"/>
+<pb facs="wfc.scr0007.365"/>
+<pb facs="wfc.scr0007.366"/>
+<pb facs="wfc.scr0007.367"/>
+<pb facs="wfc.scr0007.368"/>
+<pb facs="wfc.scr0007.369"/>
+<pb facs="wfc.scr0007.370"/>
+<pb facs="wfc.scr0007.371"/>
+<pb facs="wfc.scr0007.372"/>
+<pb facs="wfc.scr0007.373"/>
+<pb facs="wfc.scr0007.374"/>
+<pb facs="wfc.scr0007.375"/>
+<pb facs="wfc.scr0007.376"/>
+<pb facs="wfc.scr0007.377"/>
+<pb facs="wfc.scr0007.378"/>
+<pb facs="wfc.scr0007.379"/>
+<pb facs="wfc.scr0007.380"/>
+<pb facs="wfc.scr0007.381"/>
+<pb facs="wfc.scr0007.382"/>
+<pb facs="wfc.scr0007.383"/>
+<pb facs="wfc.scr0007.384"/>
+<pb facs="wfc.scr0007.385"/>
+<pb facs="wfc.scr0007.386"/>
+<pb facs="wfc.scr0007.387"/>
+<pb facs="wfc.scr0007.388"/>
+<pb facs="wfc.scr0007.389"/>
+<pb facs="wfc.scr0007.390"/>
+<pb facs="wfc.scr0007.391"/>
+<pb facs="wfc.scr0007.392"/>
+<pb facs="wfc.scr0007.393"/>
+<pb facs="wfc.scr0007.394"/>
+<pb facs="wfc.scr0007.395"/>
+
+<pb facs="wfc.scr0007.397"/>
+<pb facs="wfc.scr0007.398"/>
+<pb facs="wfc.scr0007.399"/>
+<pb facs="wfc.scr0007.400"/>
+<pb facs="wfc.scr0007.401"/>
+<pb facs="wfc.scr0007.402"/>
+<pb facs="wfc.scr0007.403"/>
+
+<pb facs="wfc.scr0007.405"/>
+<pb facs="wfc.scr0007.406"/>
+<pb facs="wfc.scr0007.407"/>
+<pb facs="wfc.scr0007.408"/>
+<pb facs="wfc.scr0007.409"/>
+<pb facs="wfc.scr0007.410"/>
+<pb facs="wfc.scr0007.411"/>
+<pb facs="wfc.scr0007.412"/>
+<pb facs="wfc.scr0007.413"/>
+<pb facs="wfc.scr0007.414"/>
+<pb facs="wfc.scr0007.415"/>
+<pb facs="wfc.scr0007.416"/>
+<pb facs="wfc.scr0007.417"/>
+<pb facs="wfc.scr0007.418"/>
+<pb facs="wfc.scr0007.419"/>
+<pb facs="wfc.scr0007.420"/>
+<pb facs="wfc.scr0007.421"/>
+<pb facs="wfc.scr0007.422"/>
+<pb facs="wfc.scr0007.423"/>
+<pb facs="wfc.scr0007.424"/>
+<pb facs="wfc.scr0007.425"/>
+<pb facs="wfc.scr0007.426"/>
+<pb facs="wfc.scr0007.427"/>
+<pb facs="wfc.scr0007.428"/>
+<pb facs="wfc.scr0007.429"/>
+<pb facs="wfc.scr0007.430"/>
+<pb facs="wfc.scr0007.431"/>
+<pb facs="wfc.scr0007.432"/>
+<pb facs="wfc.scr0007.433"/>
+<pb facs="wfc.scr0007.434"/>
+<pb facs="wfc.scr0007.435"/>
+<pb facs="wfc.scr0007.436"/>
+<pb facs="wfc.scr0007.437"/>
+<pb facs="wfc.scr0007.438"/>
+<pb facs="wfc.scr0007.439"/>
+<pb facs="wfc.scr0007.440"/>
+<pb facs="wfc.scr0007.441"/>
+<pb facs="wfc.scr0007.442"/>
+<pb facs="wfc.scr0007.443"/>
+<pb facs="wfc.scr0007.444"/>
+<pb facs="wfc.scr0007.445"/>
+<pb facs="wfc.scr0007.446"/>
+<pb facs="wfc.scr0007.447"/>
+<pb facs="wfc.scr0007.448"/>
+<pb facs="wfc.scr0007.449"/>
+<pb facs="wfc.scr0007.450"/>
+<pb facs="wfc.scr0007.451"/>
+<pb facs="wfc.scr0007.452"/>
+<pb facs="wfc.scr0007.453"/>
+<pb facs="wfc.scr0007.454"/>
+<pb facs="wfc.scr0007.455"/>
+<pb facs="wfc.scr0007.456"/>
+<pb facs="wfc.scr0007.457"/>
+<pb facs="wfc.scr0007.458"/>
+<pb facs="wfc.scr0007.459"/>
+<pb facs="wfc.scr0007.460"/>
+<pb facs="wfc.scr0007.461"/>
+<pb facs="wfc.scr0007.462"/>
+<pb facs="wfc.scr0007.463"/>
+
+
+</div1>
+</body>
+
+<back>
+</back>
+</text>
+</TEI>
