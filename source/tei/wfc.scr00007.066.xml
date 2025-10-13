@@ -5,8 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title type="main" xml:lang="en">Buffalo Bill's "Wild West" Camp
-</title>
+<title type="main" xml:lang="en">Buffalo Bill's "Wild West" Camp</title>
 <author></author>
 <principal>Johnston, Jeremy</principal>
 <principal>Christianson, Frank</principal>
@@ -117,7 +116,7 @@
 
 <figure><p>A LOG HUT</p></figure>
 
-<figure><p>MISS ANNIE OAKLEY</p></figure>
+<figure><p><persName  xml:id="oakley.a">MISS ANNIE OAKLEY</persName></p></figure>
 
 <figure><p>THE LADIES TENTS</p></figure>
 
