@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/CDRH/datura.git
-  revision: e1498c77c058d63c3e09dcaba99ec786bb262352
-  branch: dev
+  revision: 90fceccf8c44350097584f9ca7adeb983ec5dc17
+  tag: v1.0.0
   specs:
     datura (0.2.0)
       byebug (~> 11.0)
@@ -56,4 +56,4 @@ DEPENDENCIES
   pdf-reader
 
 BUNDLED WITH
-   2.1.4
+   2.5.23
