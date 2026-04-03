@@ -48,7 +48,7 @@
                         <xsl:attribute name="alt">
                             <xsl:choose>
                                 <xsl:when test="//titleSet/title[1]">Image of <xsl:value-of select="//titleSet/title[1]"/></xsl:when>
-                                <xsl:otherwise>Image of visual work</xsl:otherwise>
+                                <xsl:otherwise>Image of visual work described below</xsl:otherwise>
                             </xsl:choose>
                         </xsl:attribute>
                     </img>
