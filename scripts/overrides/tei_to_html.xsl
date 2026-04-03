@@ -317,6 +317,10 @@
                 <xsl:attribute name="class">
                   <xsl:text>display&#160;</xsl:text>
                 </xsl:attribute>
+                <xsl:attribute name="alt" />
+                <xsl:attribute name="role">
+                  <xsl:text>presentation</xsl:text>
+                </xsl:attribute>
               </img>
             </a>
           </span>
