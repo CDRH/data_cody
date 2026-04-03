@@ -152,7 +152,7 @@ The right of translation for foreign countries is reserved by the Author
 <head type="main">TABLE OF CONTENTS</head> 
 
 <table>
-<row>
+<row role="label">
 <cell>CHAPTER</cell>
 <cell></cell>
 <cell>PAGE</cell>
