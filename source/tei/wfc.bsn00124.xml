@@ -150,7 +150,7 @@
 <p>35426 Nebraska Printing Co., (Inc) Sales Book Manufacturers, Lincoln, Neb.</p>
 
 <table>
-<row><cell>Date</cell><cell>Articles</cell><cell>Debit </cell><cell>Credit</cell><cell>Balance</cell></row>
+<row role="label"><cell>Date</cell><cell>Articles</cell><cell>Debit </cell><cell>Credit</cell><cell>Balance</cell></row>
 
 <row><cell>Feb13, 13</cell><cell>Account rendered at time of fire,</cell><cell>$1425.70</cell><cell></cell><cell></cell></row>
 <row><cell>March 24, 13</cell><cell>Telegram regarding elk head,</cell><cell>.60</cell><cell></cell><cell></cell></row>

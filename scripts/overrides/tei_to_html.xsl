@@ -317,6 +317,10 @@
                 <xsl:attribute name="class">
                   <xsl:text>display&#160;</xsl:text>
                 </xsl:attribute>
+                <xsl:attribute name="alt" />
+                <xsl:attribute name="role">
+                  <xsl:text>presentation</xsl:text>
+                </xsl:attribute>
               </img>
             </a>
           </span>
@@ -392,7 +396,15 @@
   </xsl:template>
   
   <xsl:template match="media[@mimeType='video/mp4']">
-    <iframe width="560" height="315" src="{@url}" frameborder="0" allowfullscreen="true">&#160;</iframe>
+    <iframe 
+      width="560" 
+      height="315" 
+      src="{@url}" 
+      title="YouTube Video Player" 
+      frameborder="0" 
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen="true">&#160;
+    </iframe>
   </xsl:template>
   
   <!-- ================================================ -->
